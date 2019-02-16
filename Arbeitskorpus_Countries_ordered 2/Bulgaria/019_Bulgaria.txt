@@ -1,0 +1,744 @@
+﻿URTEIL DES GERICHTSHOFS (Erste Kammer)
+
+6. September 2018 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Soziale Sicherheit – Verordnung (EG) Nr. 987/2009 – Art. 5 und 19 Abs. 2 – Arbeitnehmer, die in einen anderen Mitgliedstaat entsandt werden als den, in dem der Arbeitgeber gewöhnlich tätig ist – Ausstellung von A1-Bescheinigungen durch den Herkunftsmitgliedstaat, nachdem der Aufnahmemitgliedstaat anerkannt hat, dass die Arbeitnehmer seinem System der sozialen Sicherheit angeschlossen sind – Stellungnahme der Verwaltungskommission – Zu Unrecht ausgestellte A1-Bescheinigungen – Feststellung – Bindungswirkung und Rückwirkung dieser Bescheinigungen – Verordnung (EG) Nr. 883/2004 – Anwendbare Rechtsvorschriften – Art. 12 Abs. 1 – Begriff einer Person, die ‚eine andere Person ablöst‘“
+
+In der Rechtssache C‑527/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Verwaltungsgerichtshof (Österreich) mit Entscheidung vom 14. September 2016, beim Gerichtshof eingegangen am 14. Oktober 2016, in dem Verfahren
+
+Salzburger Gebietskrankenkasse,
+
+Bundesminister für Arbeit, Soziales und Konsumentenschutz,
+
+mitbeteiligte Parteien:
+
+Alpenrind GmbH,
+
+Martin-Meat Szolgáltató és Kereskedelmi Kft,
+
+Martimpex-Meat Kft,
+
+Pensionsversicherungsanstalt,
+
+Allgemeine Unfallversicherungsanstalt,
+
+erlässt
+
+DER GERICHTSHOF (Erste Kammer)
+
+unter Mitwirkung der Kammerpräsidentin R. Silva de Lapuerta sowie der Richter C. G. Fernlund, J.‑C. Bonichot, S. Rodin und E. Regan (Berichterstatter),
+
+Generalanwalt: H. Saugmandsgaard Øe,
+
+Kanzler: M. Ferreira, Hauptverwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 28. September 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der Salzburger Gebietskrankenkasse, vertreten durch Rechtsanwalt P. Reichel,
+
+–
+
+der Alpenrind GmbH, vertreten durch die Rechtsanwälte R. Haumer und W. Berger,
+
+–
+
+der Martimpex-Meat Kft und der Martin-Meat Szolgáltató és Kereskedelmi Kft, vertreten durch die Rechtsanwälte U. Salburg und G. Simonfay,
+
+–
+
+der österreichischen Regierung, vertreten durch G. Hesse als Bevollmächtigten,
+
+–
+
+der belgischen Regierung, vertreten durch L. Van den Broeck und M. Jacobs als Bevollmächtigte,
+
+–
+
+der tschechischen Regierung, vertreten durch M. Smolek, J. Vláčil, J. Pavliš und O. Šváb als Bevollmächtigte,
+
+–
+
+der deutschen Regierung, vertreten durch T. Henze und D. Klebs als Bevollmächtigte,
+
+–
+
+Irlands, vertreten durch L. Williams, G. Hodge, J. Murray, E. Creedon, A. Joyce und N. Donnelly als Bevollmächtigte,
+
+–
+
+der französischen Regierung, vertreten durch C. David als Bevollmächtigte,
+
+–
+
+der ungarischen Regierung, vertreten durch M. Fehér als Bevollmächtigten,
+
+–
+
+der polnischen Regierung, vertreten durch B. Majczyna als Bevollmächtigten im Beistand von M. Malczewska, adwokat,
+
+–
+
+der Europäischen Kommission, vertreten durch B.‑R. Killmann und D. Martin als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 31. Januar 2018
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 12 Abs. 1 der Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit (ABl. 2004, L 166, S. 1, berichtigt im ABl. 2004, L 200, S. 1) in der durch die Verordnung (EU) Nr. 1244/2010 der Kommission vom 9. Dezember 2010 (ABl. 2010, L 338, S. 35) geänderten Fassung (im Folgenden: Verordnung Nr. 883/2004) sowie von Art. 5 und Art. 19 Abs. 2 der Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung Nr. 883/2004 (ABl. 2009, L 284, S. 1) in der durch die Verordnung Nr. 1244/2010 (ABl. 2010, L 338, S. 35) geänderten Fassung (im Folgenden: Verordnung Nr. 987/2009).
+
+2
+
+Dieses Ersuchen ergeht im Rahmen eines Rechtsstreits zwischen der Salzburger Gebietskrankenkasse (Österreich) und dem Bundesminister für Arbeit, Soziales und Konsumentenschutz (Österreich) (im Folgenden: Bundesminister) einerseits sowie der Alpenrind GmbH, der Martin-Meat Szolgáltató és Kereskedelmi Kft (im Folgenden: Martin-Meat), der Martimpex-Meat Kft (im Folgenden: Martimpex), der Pensionsversicherungsanstalt (Österreich) und der Allgemeinen Unfallversicherungsanstalt (Österreich) andererseits wegen der auf Personen, die im Rahmen einer Vereinbarung zwischen der in Österreich ansässigen Alpenrind und der in Ungarn ansässigen Martimpex zur Arbeitsleistung nach Österreich entsandt wurden, anwendbaren Rechtsvorschriften über die soziale Sicherheit.
+
+Rechtlicher Rahmen
+
+Verordnung Nr. 883/2004
+
+3
+
+In den Erwägungsgründen 1, 3, 5, 8, 15, 17 bis 18a und 45 der Verordnung Nr. 883/2004 heißt es:
+
+„(1)
+
+Die Vorschriften zur Koordinierung der nationalen Systeme der sozialen Sicherheit sind Teil des freien Personenverkehrs und sollten zur Verbesserung des Lebensstandards und der Arbeitsbedingungen beitragen.
+
+…
+
+(3)
+
+Die Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 über die Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der [Union] zu- und abwandern, ist mehrfach geändert und aktualisiert worden, um nicht nur den Entwicklungen auf [Unionsebene] – einschließlich der Urteile des Gerichtshofes –, sondern auch den Änderungen der Rechtsvorschriften auf nationaler Ebene Rechnung zu tragen. Diese Faktoren haben dazu beigetragen, dass die [unionsrechtlichen] Koordinierungsregeln komplex und umfangreich geworden sind. Zur Erreichung des Ziels des freien Personenverkehrs ist es daher von wesentlicher Bedeutung, diese Vorschriften zu ersetzen und dabei gleichzeitig zu aktualisieren und zu vereinfachen.
+
+…
+
+(5)
+
+Es ist erforderlich, bei dieser Koordinierung innerhalb der [Union] sicherzustellen, dass die betreffenden Personen nach den verschiedenen nationalen Rechtsvorschriften gleich behandelt werden.
+
+…
+
+(8)
+
+Der allgemeine Grundsatz der Gleichbehandlung ist für Arbeitnehmer, die nicht im Beschäftigungsmitgliedstaat wohnen, einschließlich Grenzgängern, von besonderer Bedeutung.
+
+…
+
+(15)
+
+Es ist erforderlich, Personen, die sich innerhalb der [Union] bewegen, dem System der sozialen Sicherheit nur eines Mitgliedstaats zu unterwerfen, um eine Kumulierung anzuwendender nationaler Rechtsvorschriften und die sich daraus möglicherweise ergebenden Komplikationen zu vermeiden.
+
+…
+
+(17)
+
+Um die Gleichbehandlung aller im Hoheitsgebiet eines Mitgliedstaats erwerbstätigen Personen am besten zu gewährleisten, ist es zweckmäßig, als allgemeine Regel die Anwendung der Rechtsvorschriften des Mitgliedstaats vorzusehen, in dem die betreffende Person eine Beschäftigung oder eine selbstständige Erwerbstätigkeit ausübt.
+
+(18)
+
+Von dieser allgemeinen Regel ist in besonderen Fällen, die andere Zugehörigkeitskriterien rechtfertigen, abzuweichen.
+
+(18a)
+
+Der Grundsatz, dass nur die Rechtsvorschriften eines einzigen Mitgliedstaats anzuwenden sind, ist von großer Bedeutung und sollte hervorgehoben werden. …
+
+(45)
+
+Da das Ziel der beabsichtigten Maßnahme, nämlich Koordinierungsmaßnahmen zur Sicherstellung, dass das Recht auf Freizügigkeit wirksam ausgeübt werden kann, auf Ebene der Mitgliedstaaten nicht ausreichend erreicht werden kann und daher wegen des Umfangs und der Wirkungen der Maßnahme besser auf [Unionsebene] zu erreichen ist, kann die [Union] im Einklang mit dem in Artikel 5 des Vertrags niedergelegten Subsidiaritätsprinzip tätig werden. …“
+
+4
+
+In dem zu Titel II („Bestimmung des anwendbaren Rechts“) der Verordnung gehörenden Art. 11 („Allgemeine Regelung“) heißt es:
+
+„(1)   Personen, für die diese Verordnung gilt, unterliegen den Rechtsvorschriften nur eines Mitgliedstaats. Welche Rechtsvorschriften dies sind, bestimmt sich nach diesem Titel.
+
+…
+
+(3)   Vorbehaltlich der Artikel 12 bis 16 gilt Folgendes:
+
+a)
+
+eine Person, die in einem Mitgliedstaat eine Beschäftigung oder selbstständige Erwerbstätigkeit ausübt, unterliegt den Rechtsvorschriften dieses Mitgliedstaats;
+
+…“
+
+5
+
+Der zu demselben Titel gehörende Art. 12 („Sonderregelung“) der Verordnung sah in Abs. 1 in seiner zu Beginn des Zeitraums vom 1. Februar 2012 bis zum 13. Dezember 2013 (im Folgenden: streitgegenständlicher Zeitraum) geltenden Fassung vor:
+
+„Eine Person, die in einem Mitgliedstaat für Rechnung eines Arbeitgebers, der gewöhnlich dort tätig ist, eine Beschäftigung ausübt und die von diesem Arbeitgeber in einen anderen Mitgliedstaat entsandt wird, um dort eine Arbeit für dessen Rechnung auszuführen, unterliegt weiterhin den Rechtsvorschriften des ersten Mitgliedstaats, sofern die voraussichtliche Dauer dieser Arbeit vierundzwanzig Monate nicht überschreitet und diese Person nicht eine andere Person ablöst.“
+
+6
+
+Während des streitgegenständlichen Zeitraums wurde Art. 12 Abs. 1 der Verordnung Nr. 883/2004 durch die Verordnung (EU) Nr. 465/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 zur Änderung der Verordnung Nr. 883/2004 und der Verordnung Nr. 987/2009 (ABl. 2012, L 149, S. 4) geändert, wobei am Ende dieses Absatzes die Worte „andere Person“ durch „andere entsandte Person“ ersetzt wurden.
+
+7
+
+In Titel IV („Verwaltungskommission und beratender Ausschuss“) der Verordnung bestimmt Art. 71 („Zusammensetzung und Arbeitsweise der Verwaltungskommission“) in Abs. 1:
+
+„Der bei der [Europäischen Kommission] eingesetzten Verwaltungskommission für die Koordinierung der Systeme der sozialen Sicherheit (im Folgenden ‚Verwaltungskommission‘ genannt) gehört je ein Regierungsvertreter jedes Mitgliedstaats an, der erforderlichenfalls von Fachberatern unterstützt wird. Ein Vertreter der [Europäischen Kommission] nimmt mit beratender Stimme an den Sitzungen der Verwaltungskommission teil.“
+
+8
+
+In Art. 72 („Aufgaben der Verwaltungskommission“) des Titels IV heißt es:
+
+„Die Verwaltungskommission hat folgende Aufgaben:
+
+a)
+
+Sie behandelt alle Verwaltungs- und Auslegungsfragen, die sich aus dieser Verordnung oder der [Verordnung Nr. 987/2009] oder in deren Rahmen geschlossenen Abkommen oder getroffenen Vereinbarungen ergeben; jedoch bleibt das Recht der betreffenden Behörden, Träger und Personen, die Verfahren und Gerichte in Anspruch zu nehmen, die nach den Rechtsvorschriften der Mitgliedstaaten, nach dieser Verordnung sowie nach dem Vertrag vorgesehen sind, unberührt.
+
+…
+
+c)
+
+Sie fördert und stärkt die Zusammenarbeit zwischen den Mitgliedstaaten und ihren Trägern im Bereich der sozialen Sicherheit, um [u. a.] spezifische Fragen in Bezug auf bestimmte Personengruppen zu berücksichtigen; sie erleichtert die Durchführung von Maßnahmen der grenzüberschreitenden Zusammenarbeit auf dem Gebiet der Koordinierung der sozialen Sicherheit.
+
+…“
+
+9
+
+Der zu Titel V („Verschiedene Bestimmungen“) der Verordnung Nr. 883/2004 gehörende Art. 76 („Zusammenarbeit“) bestimmt:
+
+„(1)   Die zuständigen Behörden der Mitgliedstaaten unterrichten einander über:
+
+a)
+
+alle zur Anwendung dieser Verordnung getroffenen Maßnahmen;
+
+b)
+
+alle Änderungen ihrer Rechtsvorschriften, die die Anwendung dieser Verordnung berühren können.
+
+(2)   Für die Zwecke dieser Verordnung unterstützen sich die Behörden und Träger der Mitgliedstaaten, als handelte es sich um die Anwendung ihrer eigenen Rechtsvorschriften. …“
+
+Verordnung Nr. 987/2009
+
+10
+
+Die Erwägungsgründe 2, 6 und 12 der Verordnung Nr. 987/2009 lauten:
+
+„(2)
+
+Die Organisation einer wirksameren und engeren Zusammenarbeit zwischen den Trägern der sozialen Sicherheit ist maßgeblich, damit die Personen im Geltungsbereich der Verordnung … Nr. 883/2004 ihre Rechte so rasch und so gut wie möglich in Anspruch nehmen können.
+
+…
+
+(6)
+
+Die Stärkung einiger Verfahren sollte den Anwendern der Verordnung … Nr. 883/2004 mehr Rechtssicherheit und Transparenz bringen. Gemeinsame Fristsetzungen für die Erledigung bestimmter Verpflichtungen oder für bestimmte Verwaltungsabläufe sollten dabei zur Klärung und Strukturierung der Beziehungen zwischen den Versicherten und den Trägern beitragen.
+
+…
+
+(12)
+
+Viele Maßnahmen und Verfahren dieser Verordnung stellen auf mehr Klarheit für die Kriterien ab, die von den Trägern der Mitgliedstaaten im Rahmen der Verordnung … Nr. 883/2004 anzuwenden sind. Solche Maßnahmen und Verfahren ergeben sich aus der Rechtsprechung des Gerichtshofs …, aus den Beschlüssen der Verwaltungskommission und aus über dreißig Jahren Praxis in der Koordinierung der Systeme der sozialen Sicherheit im Rahmen der im Vertrag verankerten Grundfreiheiten.“
+
+11
+
+Nach Art. 1 Abs. 2 Buchst. c der Verordnung Nr. 987/2009, der zu Kapitel I („Begriffsbestimmungen“) ihres Titels I („Allgemeine Vorschriften“) gehört, bezeichnet der Ausdruck „Dokument“„eine von der Art des Datenträgers unabhängige Gesamtheit von Daten, die dergestalt strukturiert sind, dass sie elektronisch ausgetauscht werden können[,] und deren Mitteilung für die Anwendung der [Verordnung Nr. 883/2004] und der [Verordnung Nr. 987/2009] erforderlich ist“.
+
+12
+
+Der zu Kapitel II („Vorschriften über die Zusammenarbeit und den Datenaustausch“) des Titels I gehörende Art. 5 („Rechtswirkung der in einem anderen Mitgliedstaat ausgestellten Dokumente und Belege“) lautet:
+
+„(1)   Vom Träger eines Mitgliedstaats ausgestellte Dokumente, in denen der Status einer Person für die Zwecke der Anwendung der [Verordnung Nr. 883/2004] und der [Verordnung Nr. 987/2009] bescheinigt wird, sowie Belege, auf deren Grundlage die Dokumente ausgestellt wurden, sind für die Träger der anderen Mitgliedstaaten so lange verbindlich, wie sie nicht von dem Mitgliedstaat, in dem sie ausgestellt wurden, widerrufen oder für ungültig erklärt werden.
+
+(2)   Bei Zweifeln an der Gültigkeit eines Dokuments oder der Richtigkeit des Sachverhalts, der den im Dokument enthaltenen Angaben zugrunde liegt, wendet sich der Träger des Mitgliedstaats, der das Dokument erhält, an den Träger, der das Dokument ausgestellt hat, und ersucht diesen um die notwendige Klarstellung oder gegebenenfalls um den Widerruf dieses Dokuments. Der Träger, der das Dokument ausgestellt hat, überprüft die Gründe für die Ausstellung und widerruft das Dokument gegebenenfalls.
+
+(3)   Bei Zweifeln an den Angaben der betreffenden Personen, der Gültigkeit eines Dokuments oder der Belege oder der Richtigkeit des Sachverhalts, der den darin enthaltenen Angaben zugrunde liegt, nimmt der Träger des Aufenthalts- oder Wohnorts, soweit dies möglich ist, nach Absatz 2 auf Verlangen des zuständigen Trägers die nötige Überprüfung dieser Angaben oder dieses Dokuments vor.
+
+(4)   Erzielen die betreffenden Träger keine Einigung, so können die zuständigen Behörden frühestens einen Monat nach dem Zeitpunkt, zu dem der Träger, der das Dokument erhalten hat, sein Ersuchen vorgebracht hat, die Verwaltungskommission anrufen. Die Verwaltungskommission bemüht sich binnen sechs Monaten nach ihrer Befassung um eine Annäherung der unterschiedlichen Standpunkte.“
+
+13
+
+Der ebenfalls zu Kapitel II gehörende Art. 6 („Vorläufige Anwendung der Rechtsvorschriften eines Mitgliedstaats und vorläufige Gewährung von Leistungen“) bestimmt:
+
+„(1)   Besteht zwischen den Trägern oder Behörden zweier oder mehrerer Mitgliedstaaten eine Meinungsverschiedenheit darüber, welche Rechtsvorschriften anzuwenden sind, so unterliegt die betreffende Person vorläufig den Rechtsvorschriften eines dieser Mitgliedstaaten, sofern in der [Verordnung Nr. 987/2009] nichts anderes bestimmt ist, wobei die Rangfolge wie folgt festgelegt wird:
+
+a)
+
+den Rechtsvorschriften des Mitgliedstaats, in dem die Person ihrer Beschäftigung oder selbständigen Erwerbstätigkeit tatsächlich nachgeht, wenn die Beschäftigung oder selbständige Erwerbstätigkeit in nur einem Mitgliedstaat ausgeübt wird;
+
+…
+
+(3)   Erzielen die betreffenden Träger oder Behörden keine Einigung, so können die zuständigen Behörden frühestens einen Monat nach dem Tag, an dem die Meinungsverschiedenheit im Sinne von Absatz 1 oder Absatz 2 aufgetreten ist, die Verwaltungskommission anrufen. Die Verwaltungskommission bemüht sich nach ihrer Befassung binnen sechs Monaten um eine Annäherung der Standpunkte.
+
+…“
+
+14
+
+Der zu Titel II („Bestimmung der anwendbaren Rechtsvorschriften“) der Verordnung Nr. 987/2009 gehörende Art. 15 („Verfahren bei der Anwendung von Artikel 11 Absatz 3 Buchstaben b und d, Artikel 11 Absatz 4 und Artikel 12 der [Verordnung Nr. 883/2004] [über die Unterrichtung der betroffenen Träger]“) sah in Abs. 1 in der zum Beginn des streitgegenständlichen Zeitraums geltenden Fassung vor:
+
+„Sofern nicht in Artikel 16 der [Verordnung Nr. 987/2009] etwas anderes bestimmt ist, unterrichtet der Arbeitgeber einer Person, die ihre Tätigkeit in einem anderen als dem nach Titel II der [Verordnung Nr. 883/2004] zuständigen Mitgliedstaat ausübt, oder die betreffende Person selbst, wenn diese keine Beschäftigung als Arbeitnehmer ausübt, den zuständigen Träger des Mitgliedstaats, dessen Rechtsvorschriften die Person unterliegt, darüber; diese Unterrichtung erfolgt im Voraus, wann immer dies möglich ist. Dieser Träger macht der betroffenen Person und dem von der zuständigen Behörde des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, bezeichneten Träger unverzüglich Informationen über die Rechtsvorschriften zugänglich, denen die betreffende Person nach Artikel 11 Absatz 3 Buchstabe b oder Artikel 12 der [Verordnung Nr. 883/2004] unterliegt.“
+
+15
+
+Während des streitgegenständlichen Zeitraums wurde der zweite Satz von Art. 15 Abs. 1 der Verordnung Nr. 987/2009 durch die Verordnung Nr. 465/2012 geändert. In der geänderten Fassung dieser Bestimmung heißt es:
+
+„… Dieser Träger stellt der betreffenden Person die Bescheinigung nach Artikel 19 Absatz 2 der [Verordnung Nr. 987/2009] aus und macht dem von der zuständigen Behörde des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, bezeichneten Träger unverzüglich Informationen über die Rechtsvorschriften zugänglich, denen diese Person nach Artikel 11 Absatz 3 Buchstabe b oder Artikel 12 der [Verordnung Nr. 883/2004] unterliegt.“
+
+16
+
+Der zu demselben Titel gehörende Art. 19 („Unterrichtung der betreffenden Personen und der Arbeitgeber“) lautet:
+
+„(1)   Der zuständige Träger des Mitgliedstaats, dessen Rechtsvorschriften nach Titel II der [Verordnung Nr. 883/2004] anzuwenden sind, unterrichtet die betreffende Person sowie gegebenenfalls deren Arbeitgeber über die Pflichten, die in diesen Rechtsvorschriften festgelegt sind. Er gewährt ihnen die erforderliche Unterstützung bei der Einhaltung der Formvorschriften aufgrund dieser Rechtsvorschriften.
+
+(2)   Auf Antrag der betreffenden Person oder ihres Arbeitgebers bescheinigt der zuständige Träger des Mitgliedstaats, dessen Rechtsvorschriften nach Titel II der [Verordnung Nr. 883/2004] anzuwenden sind, dass und gegebenenfalls wie lange und unter welchen Umständen diese Rechtsvorschriften anzuwenden sind.“
+
+17
+
+Art. 20 („Zusammenarbeit zwischen den Trägern“) des Titels II lautet:
+
+„(1)   Die maßgeblichen Träger erteilen dem zuständigen Träger des Mitgliedstaats, dessen Rechtsvorschriften nach Titel II der [Verordnung Nr. 883/2004] für eine Person gelten, alle Auskünfte, die notwendig sind für die Festsetzung des Zeitpunkts, ab dem diese Rechtsvorschriften anzuwenden sind, und der Beiträge, welche die betreffende Person und ihr bzw. ihre Arbeitgeber nach diesen Rechtsvorschriften zu leisten haben.
+
+(2)   Der zuständige Träger des Mitgliedstaats, dessen Rechtsvorschriften nach Titel II der [Verordnung Nr. 883/2004] auf eine Person anzuwenden sind, macht Informationen über den Zeitpunkt, ab dem diese Rechtsvorschriften anzuwenden sind, dem Träger zugänglich, der von der zuständigen Behörde des Mitgliedstaats, dessen Rechtsvorschriften diese Person zuletzt unterlag, bezeichnet wurde.“
+
+18
+
+Der zu Titel V („Sonstige Vorschriften, Übergangs- und Schlussbestimmungen“) gehörende Art. 89 („Informationen“) bestimmt in Abs. 3:
+
+„Die zuständigen Behörden stellen sicher, dass ihre Träger über sämtliche Rechts- und Verwaltungsvorschriften der [Union], einschließlich der Beschlüsse der Verwaltungskommission, informiert sind und diese in den Bereichen, die unter die [Verordnung Nr. 883/2004] und die [Verordnung Nr. 987/2009] fallen, unter Beachtung der dort festgelegten Bedingungen anwenden.“
+
+Ausgangsverfahren und Vorlagefragen
+
+19
+
+Alpenrind ist im Geschäftszweig der Vieh- und Fleischvermarktung tätig. Seit dem Jahr 1997 betreibt sie in Salzburg einen gepachteten Schlachthof.
+
+20
+
+Im Lauf des Jahres 2007 schloss Alpenrind, vormals S GmbH, einen Vertrag mit der in Ungarn ansässigen Martin-Meat, in dem sich diese zu Fleischzerlegungs- und Verpackungsarbeiten im Ausmaß von 25 Rinderhälften pro Woche verpflichtete. Die Arbeiten führten nach Österreich entsandte Mitarbeiter in den Räumlichkeiten von Alpenrind aus. Zum 31. Januar 2012 gab Martin-Meat den Bereich der Fleischzerlegung auf und führte fortan Schlachtungen für Alpenrind durch.
+
+21
+
+Am 24. Januar 2012 schloss Alpenrind mit der ebenfalls in Ungarn ansässigen Martimpex einen Vertrag, in dem diese sich verpflichtete, im Zeitraum vom 1. Februar 2012 bis 31. Januar 2014 für Alpenrind 55000 Tonnen Rinderhälften zu zerlegen. Die Arbeiten führten nach Österreich entsandte Mitarbeiter in den Räumlichkeiten von Alpenrind aus. Die Fleischteile wurden von Martimpex übernommen und sodann von ihren Mitarbeitern zerlegt und verpackt.
+
+22
+
+Ab dem 1. Februar 2014 beauftragte Alpenrind wiederum Martin-Meat, die Fleischzerlegungsarbeiten in den genannten Einrichtungen durchzuführen.
+
+23
+
+Für die im streitgegenständlichen Zeitraum von Martimpex beschäftigten mehr als 250 Mitarbeiter stellte der zuständige ungarische Sozialversicherungsträger – teilweise rückwirkend und teilweise in Fällen, in denen der österreichische Sozialversicherungsträger bereits festgestellt hatte, dass der betreffende Arbeitnehmer nach den österreichischen Rechtsvorschriften pflichtversichert sei – Bescheinigungen über die Anwendung der ungarischen Rechtsvorschriften der sozialen Sicherheit im Einklang mit den Art. 11 bis 16 der Verordnung Nr. 883/2004 und Art. 19 der Verordnung Nr. 987/2009 aus. In all diesen Bescheinigungen ist Alpenrind als Arbeitgeber an dem Ort, an dem eine Erwerbstätigkeit ausgeübt wird, genannt.
+
+24
+
+Die Salzburger Gebietskrankenkasse stellte fest, dass die genannten Arbeitnehmer während des streitgegenständlichen Zeitraums nach § 4 Abs. 1 und 2 des Allgemeinen Sozialversicherungsgesetzes und § 1 Abs. 1 lit. a des Arbeitslosenversicherungsgesetzes aufgrund ihrer abhängigen entgeltlichen Tätigkeit für einen gemeinsamen Betrieb von Alpenrind, Martin-Meat und Martimpex pflichtversichert gewesen seien.
+
+25
+
+Mit dem beim vorlegenden Gericht angefochtenen Erkenntnis hob das Verwaltungsgericht den Bescheid der Salzburger Gebietskrankenkasse wegen Unzuständigkeit der österreichischen Sozialversicherungsträger auf. Zur Begründung führte es u. a. aus, für jede der österreichischen Pflichtversicherung unterworfene Person habe der zuständige ungarische Sozialversicherungsträger eine A1-Bescheinigung ausgestellt, wonach die jeweilige Person ein ab einem bestimmten Zeitpunkt in Ungarn beschäftigter und pflichtversicherter Arbeitnehmer von Martimpex sei und voraussichtlich für die Dauer der in den jeweiligen Bescheinigungen angegebenen Zeiten, von denen die streitgegenständlichen Zeiträume umfasst seien, zu Alpenrind nach Österreich entsandt werde.
+
+26
+
+In der gegen dieses Erkenntnis erhobenen Revision an das vorlegende Gericht wenden sich die Salzburger Gebietskrankenkasse und der Bundesminister gegen die Hypothese einer absoluten Bindungswirkung der A1-Bescheinigungen. Die Bindungswirkung beruhe auf der Einhaltung des in Art. 4 Abs. 3 EUV verankerten Grundsatzes der vertrauensvollen Zusammenarbeit zwischen den Mitgliedstaaten. Diesen Grundsatz habe der ungarische Sozialversicherungsträger verletzt.
+
+27
+
+Ungarn habe darauf hingewiesen, dass nur eine gerichtliche Entscheidung die auch von Ungarn gesehene Patt-Situation lösen könne und dass das nationale ungarische Recht einer Zurückziehung der A1-Bescheinigungen entgegenstehe. Eine Parteistellung der Salzburger Gebietskrankenkasse in Ungarn sei nicht gegeben. Der einzige Weg, eine Entscheidung in der Sache herbeizuführen, sei die Feststellung der Pflichtversicherung in Österreich trotz Vorliegens der A1-Bescheinigungen des zuständigen ungarischen Trägers gewesen.
+
+28
+
+Das vorlegende Gericht führt aus, der Bundesminister habe Dokumente vorgelegt, aus denen sich ergebe, dass die Verwaltungskommission am 20./21. Juni 2016 zu der Auffassung gelangt sei, dass Ungarn sich zu Unrecht für die betroffenen Arbeitnehmer für zuständig erklärt habe und daher die A1-Bescheinigungen zurückziehen sollte.
+
+29
+
+Das vorlegende Gericht vertritt die Auffassung, dass sich bei dem von ihm zu beurteilenden Rechtsstreit bestimmte Fragen der Auslegung des Unionsrechts stellten.
+
+30
+
+Insbesondere seien erstens nach dem Wortlaut des Art. 5 der Verordnung Nr. 987/2009 nur die Sozialversicherungsträger der Mitgliedstaaten an die Dokumente, in denen der Status einer Person für die Zwecke der Anwendung der Verordnungen Nrn. 883/2004 und 987/2009 bescheinigt werde, sowie an die sie betreffenden Belege gebunden. Daher bestünden Zweifel daran, ob die Bindungswirkung auch für die einzelstaatlichen Gerichte gelte.
+
+31
+
+Zweitens stelle sich zum einen die Frage nach den etwaigen Auswirkungen des Verfahrens vor der Verwaltungskommission auf die Bindungswirkung der A1-Bescheinigungen. Insbesondere bedürfe der Klärung, ob nach einem Verfahren vor der Verwaltungskommission, das weder zu einer Einigung geführt noch bewirkt habe, dass die A1-Bescheinigungen zurückgezogen würden, ihre Bindungswirkung durchbrochen werde und somit ein Verfahren zur Feststellung der Pflichtversicherung eingeleitet werden könne.
+
+32
+
+Zum anderen seien im vorliegenden Fall einige A1-Bescheinigungen rückwirkend und zum Teil erst nach der Feststellung der Pflichtversicherung durch den österreichischen Träger ausgestellt worden. Fraglich sei, ob die Ausstellung solcher Dokumente rückwirkend Bindungswirkung entfalte, wenn die Pflichtversicherung im Aufnahmemitgliedstaat bereits formell festgestellt worden sei. Die von den österreichischen Trägern ausgestellten Schriftstücke, mit denen die Pflichtversicherung festgestellt werde, könnten nämlich ebenfalls als „Dokumente“ im Sinne von Art. 5 Abs. 1 der Verordnung Nr. 987/2009 angesehen werden, so dass sie nach dieser Bestimmung Bindungswirkung entfalteten.
+
+33
+
+Drittens sei für den Fall, dass sich unter bestimmten Umständen eine eingeschränkte Bindungswirkung der A1-Bescheinigungen ergebe, fraglich, ob die in Art. 12 Abs. 1 der Verordnung Nr. 883/2004 vorgesehene Voraussetzung, wonach die entsandte Person weiterhin den Rechtsvorschriften des Mitgliedstaats unterliege, in dem ihr Arbeitgeber ansässig sei, sofern sie nicht eine andere Person ablöse, dahin auszulegen sei, dass ein Arbeitnehmer nicht unmittelbar durch eine andere neu entsandte Person ersetzt werden dürfe, unabhängig davon, von welchem Unternehmen oder von welchem Mitgliedstaat aus der neue Arbeitnehmer entsandt werde. Diese strenge Auslegung könnte zwar Missbräuche vermeiden helfen, doch ergebe sie sich nicht zwingend aus dem Wortlaut des Art. 12 Abs. 1 der Verordnung Nr. 883/2004.
+
+34
+
+Unter diesen Umständen hat der Verwaltungsgerichtshof (Österreich) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+1.
+
+Gilt die in Art. 5 der Verordnung Nr. 987/2009 normierte Bindungswirkung von Dokumenten im Sinne des Art. 19 Abs. 2 der Verordnung Nr. 987/2009 auch in einem Verfahren vor einem Gericht im Sinne des Art. 267 AEUV?
+
+2.
+
+Für den Fall, dass nicht schon die Frage 1. verneint wird:
+
+a)
+
+Gilt die genannte Bindungswirkung auch dann, wenn zuvor ein Verfahren vor der Verwaltungskommission stattgefunden hat, das weder zu einer Einigung noch zu einer Zurückziehung der strittigen Dokumente geführt hat?
+
+b)
+
+Gilt die genannte Bindungswirkung auch dann, wenn eine A1-Bescheinigung erst ausgestellt wird, nachdem der Aufnahmemitgliedstaat formell die Pflichtversicherung nach seinen Rechtsvorschriften festgestellt hat? Gilt die Bindungswirkung in diesen Fällen auch rückwirkend?
+
+3.
+
+Für den Fall, dass sich unter bestimmten Voraussetzungen eine beschränkte Bindungswirkung von Dokumenten im Sinne des Art. 19 Abs. 2 der Verordnung Nr. 987/2009 ergibt:
+
+Widerspricht es dem in Art. 12 Abs. 1 der Verordnung Nr. 883/2004 enthaltenen Ablöseverbot, wenn die Ablöse nicht in Form einer Entsendung durch denselben Dienstgeber erfolgt, sondern durch einen weiteren Dienstgeber? Spielt es dabei eine Rolle,
+
+a)
+
+ob dieser Dienstgeber im selben Mitgliedstaat wie der erste Dienstgeber seinen Sitz hat oder
+
+b)
+
+ob zwischen dem ersten und dem zweiten entsendenden Dienstgeber personelle und/oder organisatorische Verflechtungen bestehen?
+
+Zu den Vorlagefragen
+
+Zur ersten Frage
+
+35
+
+Mit seiner ersten Frage möchte das vorlegende Gericht wissen, ob Art. 5 Abs. 1 der Verordnung Nr. 987/2009 in Verbindung mit deren Art. 19 Abs. 2 dahin auszulegen ist, dass eine vom zuständigen Träger eines Mitgliedstaats aufgrund von Art. 12 Abs. 1 der Verordnung Nr. 883/2004 ausgestellte A1-Bescheinigung nicht nur für die Träger des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, sondern auch für die Gerichte dieses Mitgliedstaats verbindlich ist.
+
+36
+
+Zunächst ist darauf hinzuweisen, dass nach Art. 19 Abs. 2 der Verordnung Nr. 987/2009 der zuständige Träger des Mitgliedstaats, dessen Rechtsvorschriften nach einer Bestimmung des Titels II der Verordnung Nr. 883/2004, also auch aufgrund ihres Art. 12 Abs. 1, anzuwenden sind, auf Antrag der betreffenden Person oder ihres Arbeitgebers bescheinigt, dass und gegebenenfalls wie lange und unter welchen Umständen diese Rechtsvorschriften anzuwenden sind.
+
+37
+
+Art. 5 Abs. 1 der Verordnung Nr. 987/2009 sieht vor, dass vom Träger eines Mitgliedstaats ausgestellte Dokumente, in denen der Status einer Person für die Zwecke der Anwendung der Verordnung Nr. 883/2004 und der Verordnung Nr. 987/2009 bescheinigt wird, sowie Belege, auf deren Grundlage die Dokumente ausgestellt wurden, für die Träger der anderen Mitgliedstaaten so lange verbindlich sind, wie sie nicht von dem Mitgliedstaat, in dem sie ausgestellt wurden, widerrufen oder für ungültig erklärt werden.
+
+38
+
+Wie das vorlegende Gericht ausführt, heißt es in dieser Bestimmung zwar, dass die dort genannten Dokumente des Ausstellungsmitgliedstaats für die „Träger“ der anderen Mitgliedstaaten verbindlich sind, ohne ausdrückliche Bezugnahme auf deren Gerichte.
+
+39
+
+Die genannte Bestimmung sieht aber auch vor, dass solche Dokumente „so lange verbindlich [sind], wie sie nicht von dem Mitgliedstaat, in dem sie ausgestellt wurden, widerrufen oder für ungültig erklärt werden“, was darauf hindeutet, dass grundsätzlich nur die Behörden und Gerichte des Ausstellungsmitgliedstaats die A1-Bescheinigungen gegebenenfalls widerrufen oder für ungültig erklären können.
+
+40
+
+Diese Auslegung wird durch die Entstehungsgeschichte und den Kontext von Art. 5 Abs. 1 der Verordnung Nr. 987/2009 gestützt.
+
+41
+
+Insbesondere hat der Gerichtshof bereits entschieden, dass die Bindungswirkung einer vom zuständigen Träger eines Mitgliedstaats gemäß Art. 12a Nr. 1a der Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und deren Familien, die innerhalb der Gemeinschaft zu- und abwandern (ABl. 1972, L 74, S. 1), ausgestellten Bescheinigung E 101, dem Vorläufer der A1-Bescheinigung, sowohl die Träger als auch die Gerichte des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, erfasst (vgl. in diesem Sinne Urteile vom 26. Januar 2006, Herbosch Kiere, C‑2/05, EU:C:2006:69, Rn. 30 bis 32, und vom 27. April 2017, A-Rosa Flussschiff, C‑620/15, EU:C:2017:309, Rn. 51).
+
+42
+
+Im zwölften Erwägungsgrund der Verordnung Nr. 987/2009 heißt es u. a., dass sich die Maßnahmen und Verfahren dieser Verordnung „aus der Rechtsprechung des Gerichtshofs …, aus den Beschlüssen der Verwaltungskommission und aus über dreißig Jahren Praxis in der Koordinierung der Systeme der sozialen Sicherheit im Rahmen der im Vertrag verankerten Grundfreiheiten“ ergeben.
+
+43
+
+Desgleichen hat der Gerichtshof bereits festgestellt, dass mit der Verordnung Nr. 987/2009 die Rechtsprechung des Gerichtshofs kodifiziert worden ist, indem darin der bindende Charakter der Bescheinigung E 101 und die ausschließliche Zuständigkeit des ausstellenden Trägers für die Beurteilung ihrer Gültigkeit verankert wurden und ausdrücklich das Verfahren zur Beilegung von Streitigkeiten sowohl über die Richtigkeit der vom zuständigen Träger eines Mitgliedstaats ausgestellten Dokumente als auch über die Bestimmung der auf den betreffenden Arbeitnehmer anwendbaren Rechtsvorschriften übernommen wurde (Urteil vom 27. April 2017, A‑Rosa Flussschiff, C‑620/15, EU:C:2017:309, Rn. 59, und Beschluss vom 24. Oktober 2017, Belu Dienstleistung und Nikless, C‑474/16, nicht veröffentlicht, EU:C:2017:812, Rn. 19).
+
+44
+
+Folglich hätte der Unionsgesetzgeber, wenn er beim Erlass der Verordnung Nr. 987/2009 von der früheren insoweit ergangenen Rechtsprechung hätte abweichen wollen, ausdrücklich vorsehen können, dass für die Gerichte des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, die in einem anderen Mitgliedstaat ausgestellten A1-Bescheinigungen nicht verbindlich sein sollen.
+
+45
+
+Im Übrigen behalten, wie der Generalanwalt in Nr. 35 seiner Schlussanträge ausgeführt hat, die der Rechtsprechung zur Bindungswirkung der Bescheinigungen E 101 zugrunde liegenden Erwägungen im Rahmen der Verordnungen Nrn. 883/2004 und 987/2009 ihre volle Gültigkeit. Insbesondere wird u. a. im sechsten Erwägungsgrund der Verordnung Nr. 987/2009 der Grundsatz der Rechtssicherheit angeführt, und im 15. Erwägungsgrund sowie in Art. 11 Abs. 1 der Verordnung Nr. 883/2004 wird der Grundsatz der Eingliederung der Arbeitnehmer in ein einziges System der sozialen Sicherheit genannt, während die Bedeutung des Prinzips der vertrauensvollen Zusammenarbeit sowohl aus Art. 76 der Verordnung Nr. 883/2004 als auch aus dem zweiten Erwägungsgrund und aus Art. 20 der Verordnung Nr. 987/2009 hervorgeht.
+
+46
+
+Könnte der zuständige nationale Träger, abgesehen von Fällen des Betrugs oder des Rechtsmissbrauchs, eine A1-Bescheinigung von einem Gericht des Aufnahmemitgliedstaats des betreffenden Arbeitnehmers für ungültig erklären lassen, wäre daher das auf der vertrauensvollen Zusammenarbeit zwischen den zuständigen Trägern der Mitgliedstaaten beruhende System gefährdet (vgl. in diesem Sinne, zu den Bescheinigungen E 101, Urteile vom 26. Januar 2006, Herbosch Kiere, C‑2/05, EU:C:2006:69, Rn. 30, vom 27. April 2017, A‑Rosa Flussschiff, C‑620/15, EU:C:2017:309, Rn. 47, sowie vom 6. Februar 2018, Altun u. a., C‑359/16, EU:C:2018:63, Rn. 54, 55, 60 und 61).
+
+47
+
+Demnach ist auf die erste Frage zu antworten, dass Art. 5 Abs. 1 der Verordnung Nr. 987/2009 in Verbindung mit deren Art. 19 Abs. 2 dahin auszulegen ist, dass eine vom zuständigen Träger eines Mitgliedstaats aufgrund von Art. 12 Abs. 1 der Verordnung Nr. 883/2004 ausgestellte A1‑Bescheinigung nicht nur für die Träger des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, sondern auch für die Gerichte dieses Mitgliedstaats verbindlich ist.
+
+Zur zweiten Frage
+
+Zum ersten Teil der zweiten Frage
+
+48
+
+Mit dem ersten Teil seiner zweiten Frage möchte das vorlegende Gericht wissen, ob Art. 5 Abs. 1 der Verordnung Nr. 987/2009 in Verbindung mit deren Art. 19 Abs. 2 dahin auszulegen ist, dass eine vom zuständigen Träger eines Mitgliedstaats aufgrund von Art. 12 Abs. 1 der Verordnung Nr. 883/2004 ausgestellte A1-Bescheinigung, solange sie von dem Mitgliedstaat, in dem sie ausgestellt wurde, weder widerrufen noch für ungültig erklärt worden ist, auch dann sowohl für die Träger der sozialen Sicherheit des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, als auch für dessen Gerichte verbindlich ist, wenn die zuständigen Behörden des Ausstellungsmitgliedstaats und des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, die Verwaltungskommission angerufen haben und diese zu dem Ergebnis gelangt ist, dass die Bescheinigung zu Unrecht ausgestellt wurde und widerrufen werden sollte.
+
+– Zur Zulässigkeit
+
+49
+
+Die ungarische Regierung trägt vor, der erste Teil der zweiten Vorlagefrage sei hypothetischer Natur, da die Verwaltungskommission im vorliegenden Fall eine Lösung gefunden habe, die sowohl von der Republik Österreich als auch von Ungarn akzeptiert worden sei, und die ungarischen Behörden infolgedessen ihre Bereitschaft zum Widerruf der fraglichen A1-Bescheinigungen zum Ausdruck gebracht hätten.
+
+50
+
+Insoweit ist darauf hinzuweisen, dass es, wie der Gerichtshof vielfach entschieden hat, allein Sache des nationalen Gerichts ist, das mit dem Rechtsstreit befasst ist und in dessen Verantwortungsbereich die zu erlassende Entscheidung fällt, im Hinblick auf die Besonderheiten der Rechtssache sowohl die Erforderlichkeit einer Vorabentscheidung für den Erlass seines Urteils als auch die Erheblichkeit der dem Gerichtshof vorgelegten Fragen zu beurteilen. Daher ist der Gerichtshof grundsätzlich gehalten, über ihm vorgelegte Fragen zu befinden, wenn sie die Auslegung oder die Gültigkeit einer Rechtsvorschrift der Union betreffen (Urteil vom 7. Februar 2018, American Express, C‑304/16, EU:C:2018:66, Rn. 31 und die dort angeführte Rechtsprechung).
+
+51
+
+Folglich gilt für Fragen, die das Unionsrecht betreffen, eine Vermutung der Entscheidungserheblichkeit. Der Gerichtshof kann es nur dann ablehnen, über eine von einem nationalen Gericht vorgelegte Frage zu befinden, wenn die erbetene Auslegung oder Beurteilung der Gültigkeit einer Unionsvorschrift offensichtlich in keinem Zusammenhang mit der Realität oder dem Gegenstand des Ausgangsrechtsstreits steht, wenn das Problem hypothetischer Natur ist oder wenn der Gerichtshof nicht über die tatsächlichen und rechtlichen Angaben verfügt, die für eine zweckdienliche Beantwortung der ihm vorgelegten Fragen erforderlich sind (Urteil vom 7. Februar 2018, American Express, C‑304/16, EU:C:2018:66, Rn. 32 und die dort angeführte Rechtsprechung).
+
+52
+
+Im vorliegenden Fall ist den dem Gerichtshof vorliegenden Akten zwar zu entnehmen, dass die Verwaltungskommission am 9. Mai 2016 eine Stellungnahme abgab, wonach Art. 12 Abs. 1 der Verordnung Nr. 883/2004 dahin auszulegen sei, dass die im Ausgangsverfahren in Rede stehenden A1-Bescheinigungen nie hätten ausgestellt werden dürfen und widerrufen werden sollten, und dass diese Stellungnahme anschließend von der Verwaltungskommission in ihrer 347. Sitzung am 20. und 21. Juni 2016 angenommen wurde.
+
+53
+
+Fest steht jedoch, dass diese Bescheinigungen weder vom zuständigen Träger in Ungarn widerrufen noch von den ungarischen Gerichten für ungültig erklärt wurden.
+
+54
+
+Ferner geht aus den dem Gerichtshof vorgelegten Akten hervor, dass die Republik Österreich und Ungarn keine Einigung über die Modalitäten eines etwaigen Widerrufs der Bescheinigungen oder zumindest einiger von ihnen erzielen konnten. Darüber hinaus enthalten die Akten Anhaltspunkte dafür, dass die Umsetzung der genannten Stellungnahme im Hinblick auf das vorliegende Vorabentscheidungsverfahren aufgeschoben wurde, in dem die ungarische Regierung u. a. vorbringt, dass der zuständige ungarische Träger die im Ausgangsverfahren in Rede stehenden A1-Bescheinigungen aufgrund von Art. 12 Abs. 1 der Verordnung Nr. 883/2004 zu Recht ausgestellt habe.
+
+55
+
+Daraus folgt, dass die den Ausgangsrechtsstreit kennzeichnenden Sachverhaltselemente, wie sie sich aus den dem Gerichtshof vorgelegten Akten ergeben, den tatsächlichen Prämissen des ersten Teils der zweiten Vorlagefrage entsprechen. Unter diesen Voraussetzungen nimmt der Umstand, dass Ungarn zumindest grundsätzlich mit dem Ergebnis, zu dem die Verwaltungskommission kam, einverstanden war, dieser Frage keineswegs die Relevanz für die Lösung des Ausgangsrechtsstreits.
+
+56
+
+Im Übrigen kann die Tatsache, dass die Verwaltungskommission zu dem Ergebnis kam, dass die im Ausgangsverfahren in Rede stehenden A1-Bescheinigungen widerrufen werden sollten, als solche nicht zur Unzulässigkeit dieser Vorlagefrage führen, da mit ihr gerade geklärt werden soll, ob dieses Ergebnis Auswirkungen auf die Bindungswirkung der Bescheinigungen für die Behörden und Gerichte des Mitgliedstaats haben kann, in dem die Tätigkeit ausgeübt wird.
+
+57
+
+Unter diesen Umständen kann nicht davon ausgegangen werden, dass der erste Teil der zweiten Vorlagefrage hypothetischer Natur ist, so dass die in Rn. 51 des vorliegenden Urteils angeführte Vermutung der Entscheidungserheblichkeit nicht außer Kraft gesetzt wird.
+
+– Zur Beantwortung der Frage
+
+58
+
+Nach Art. 72 der Verordnung Nr. 883/2004, in dem die Aufgaben der Verwaltungskommission aufgezählt werden, hat sie u. a. alle Verwaltungs- und Auslegungsfragen zu behandeln, die sich aus dieser Verordnung oder der Verordnung Nr. 987/2009 oder in deren Rahmen geschlossenen Abkommen oder getroffenen Vereinbarungen ergeben, wobei jedoch das Recht der betreffenden Behörden, Träger und Personen unberührt bleibt, die Verfahren und Gerichte in Anspruch zu nehmen, die nach den Rechtsvorschriften der Mitgliedstaaten, nach dieser Verordnung sowie nach dem Vertrag vorgesehen sind.
+
+59
+
+Gemäß Art. 72 der Verordnung hat die Verwaltungskommission ferner die Aufgabe, die Zusammenarbeit zwischen den Mitgliedstaaten und ihren Trägern im Bereich der sozialen Sicherheit zu fördern und zu stärken, um u. a. spezifische Fragen in Bezug auf bestimmte Personengruppen zu berücksichtigen, und die Durchführung von Maßnahmen der grenzüberschreitenden Zusammenarbeit auf dem Gebiet der Koordinierung der sozialen Sicherheit zu erleichtern.
+
+60
+
+Speziell für einen Fall wie den des Ausgangsverfahrens, in dem eine Meinungsverschiedenheit zwischen den zuständigen Trägern von zwei Mitgliedstaaten über Dokumente oder Belege im Sinne von Art. 5 Abs. 1 der Verordnung Nr. 987/2009 aufgetreten ist, sehen die Abs. 2 bis 4 dieses Artikels ein Verfahren zur Lösung dieser Meinungsverschiedenheit vor. Insbesondere ist in Art. 5 Abs. 2 und 3 geregelt, welche Schritte die betreffenden Träger bei Zweifeln an der Gültigkeit solcher Dokumente bzw. Belege oder der Richtigkeit des Sachverhalts, der den darin enthaltenen Angaben zugrunde liegt, zu unternehmen haben. Erzielen die betreffenden Träger keine Einigung, so können die zuständigen Behörden nach Art. 5 Abs. 4 die Verwaltungskommission anrufen, die sich binnen sechs Monaten nach ihrer Befassung „um eine Annäherung der unterschiedlichen Standpunkte“ bemüht.
+
+61
+
+Wie der Gerichtshof bereits hinsichtlich der Verordnung Nr. 1408/71 entschieden hat, steht es in einem Fall, in dem es der Verwaltungskommission nicht gelingt, zwischen den Standpunkten der zuständigen Träger in Bezug auf das anwendbare Recht zu vermitteln, dem Mitgliedstaat, in dem der betreffende Arbeitnehmer eine Arbeit ausführt – unbeschadet einer im Mitgliedstaat des ausstellenden Trägers etwa möglichen Klage –, zumindest frei, gemäß Art. 259 AEUV ein Vertragsverletzungsverfahren einzuleiten, damit der Gerichtshof die Frage des auf diesen Arbeitnehmer anwendbaren Rechts und damit die Richtigkeit der Angaben in der Bescheinigung E 101 prüfen kann (Urteil vom 27. April 2017, A‑Rosa Flussschiff, C‑620/15, EU:C:2017:309, Rn. 46).
+
+62
+
+Somit beschränkt sich die Rolle der Verwaltungskommission im Rahmen des in Art. 5 Abs. 2 bis 4 der Verordnung Nr. 987/2009 vorgesehenen Verfahrens auf eine Annäherung der Standpunkte der zuständigen Behörden der Mitgliedstaaten, die sie angerufen haben.
+
+63
+
+Diese Feststellung wird nicht durch Art. 89 Abs. 3 der Verordnung Nr. 987/2009 in Frage gestellt, wonach die zuständigen Behörden sicherstellen, dass ihre Träger über sämtliche Rechts- und Verwaltungsvorschriften der Union, einschließlich der Beschlüsse der Verwaltungskommission, informiert sind und diese in den Bereichen, die unter die Verordnungen Nrn. 883/2004 und 987/2009 fallen, unter Beachtung der dort festgelegten Bedingungen anwenden. Diese Bestimmung zielt keineswegs darauf ab, die Rolle der Verwaltungskommission im Rahmen des in der vorstehenden Randnummer genannten Verfahrens und somit den ihren Schlussfolgerungen im Rahmen dieses Verfahrens zukommenden Stellenwert als Stellungnahme zu ändern.
+
+64
+
+Folglich ist auf den ersten Teil der zweiten Vorlagefrage zu antworten, dass Art. 5 Abs. 1 der Verordnung Nr. 987/2009 in Verbindung mit deren Art. 19 Abs. 2 dahin auszulegen ist, dass eine vom zuständigen Träger eines Mitgliedstaats aufgrund von Art. 12 Abs. 1 der Verordnung Nr. 883/2004 ausgestellte A1-Bescheinigung, solange sie von dem Mitgliedstaat, in dem sie ausgestellt wurde, weder widerrufen noch für ungültig erklärt worden ist, auch dann sowohl für die Träger der sozialen Sicherheit des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, als auch für dessen Gerichte verbindlich ist, wenn die zuständigen Behörden des Ausstellungsmitgliedstaats und des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, die Verwaltungskommission angerufen haben und diese zu dem Ergebnis gelangt ist, dass die Bescheinigung zu Unrecht ausgestellt wurde und widerrufen werden sollte.
+
+Zum zweiten Teil der zweiten Frage
+
+65
+
+Mit dem zweiten Teil seiner zweiten Frage möchte das vorlegende Gericht wissen, ob Art. 5 Abs. 1 der Verordnung Nr. 987/2009 in Verbindung mit deren Art. 19 Abs. 2 dahin auszulegen ist, dass eine vom zuständigen Träger eines Mitgliedstaats aufgrund von Art. 12 Abs. 1 der Verordnung Nr. 883/2004 ausgestellte A1-Bescheinigung auch dann sowohl für die Träger der sozialen Sicherheit des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, als auch für dessen Gerichte – gegebenenfalls rückwirkend – verbindlich ist, wenn die Bescheinigung erst ausgestellt wurde, nachdem der letztgenannte Mitgliedstaat festgestellt hat, dass der betreffende Arbeitnehmer nach seinen Rechtsvorschriften pflichtversichert ist.
+
+– Zur Zulässigkeit
+
+66
+
+Die ungarische Regierung trägt vor, diese Frage sei hypothetischer Natur, da keine A1-Bescheinigung rückwirkend ausgestellt worden sei, nachdem die österreichischen Behörden festgestellt hätten, dass die betreffenden Arbeitnehmer nach den österreichischen Rechtsvorschriften pflichtversichert seien.
+
+67
+
+Nach den Angaben im Vorlagebeschluss wurden einige der im Ausgangsverfahren in Rede stehenden A1-Bescheinigungen rückwirkend ausgestellt. Ferner ist diesem Beschluss zu entnehmen, dass der österreichische Träger für einige der betreffenden Arbeitnehmer bereits festgestellt hatte, dass sie nach den österreichischen Rechtsvorschriften pflichtversichert sind, bevor die zuständige ungarische Behörde A1-Bescheinigungen für diese Arbeitnehmer ausstellte.
+
+68
+
+Nach ständiger Rechtsprechung obliegt es dem nationalen Gericht, den Sachverhalt festzustellen und die Entscheidungserheblichkeit der Fragen zu beurteilen, die es vorlegen möchte (vgl. in diesem Sinne Urteile vom 26. Oktober 2016, Hoogstad, C‑269/15, EU:C:2016:802, Rn. 19, und vom 27. April 2017, A-Rosa Flussschiff, C‑620/15, EU:C:2017:309, Rn. 35).
+
+69
+
+Folglich ist der zweite Teil der zweiten Vorlagefrage als zulässig anzusehen, da die Antwort des Gerichtshofs dem vorlegenden Gericht nach dessen Angaben bei der Beurteilung der Bindungswirkung zumindest eines Teils der in Rede stehenden A1-Bescheinigungen dienlich sein kann.
+
+– Zur Beantwortung der Frage
+
+70
+
+Zunächst ist darauf hinzuweisen, dass die im Einklang mit Art. 11a der Verordnung Nr. 574/72 ausgestellte Bescheinigung E 101 Rückwirkung haben kann. Insbesondere kann eine solche Bescheinigung, auch wenn ihre Ausstellung besser vor Beginn des betreffenden Zeitraums erfolgt, auch während dieses Zeitraums und sogar nach dessen Ablauf ausgestellt werden (vgl. in diesem Sinne Urteil vom 30. März 2000, Banks u. a., C‑178/97, EU:C:2000:169, Rn. 52 bis 57).
+
+71
+
+Der aus den Verordnungen Nrn. 883/2004 und 987/2009 bestehenden Unionsregelung lässt sich kein Hinderungsgrund für eine entsprechende Handhabung auch bei den A1-Bescheinigungen entnehmen.
+
+72
+
+Insbesondere hieß es zwar in Art. 15 Abs. 1 der Verordnung Nr. 987/2009 in seiner zu Beginn des streitgegenständlichen Zeitraums anwendbaren Fassung, dass „der Arbeitgeber einer Person, die ihre Tätigkeit in einem anderen als dem nach Titel II der [Verordnung Nr. 883/2004] zuständigen Mitgliedstaat ausübt, oder die betreffende Person selbst, wenn diese keine Beschäftigung als Arbeitnehmer ausübt, den zuständigen Träger des Mitgliedstaats, dessen Rechtsvorschriften die Person unterliegt, darüber [unterrichtet]; diese Unterrichtung erfolgt im Voraus, wann immer dies möglich ist“; weiter hieß es dort: „Dieser Träger macht der betroffenen Person und dem von der zuständigen Behörde des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, bezeichneten Träger unverzüglich Informationen über die Rechtsvorschriften zugänglich, denen die betreffende Person … unterliegt.“ Die Ausstellung einer A1-Bescheinigung während des betreffenden Beschäftigungszeitraums oder sogar nach dessen Ablauf bleibt jedoch möglich.
+
+73
+
+Daher ist sodann zu prüfen, ob eine A1-Bescheinigung rückwirkend anwendbar sein kann, obwohl der zuständige Träger des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, zum Zeitpunkt der Ausstellung der Bescheinigung bereits einen Bescheid erlassen hatte, wonach der betreffende Arbeitnehmer den Rechtsvorschriften dieses Mitgliedstaats unterliegt.
+
+74
+
+Insoweit ist darauf hinzuweisen, dass nach den Ausführungen zur Beantwortung der ersten Vorlagefrage in den Rn. 36 bis 47 des vorliegenden Urteils eine vom zuständigen Träger eines Mitgliedstaats aufgrund von Art. 12 Abs. 1 der Verordnung Nr. 883/2004 ausgestellte A1-Bescheinigung – ebenso wie ihr Vorläufer, die Bescheinigung E 101 – sowohl für die Träger der sozialen Sicherheit des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, als auch für die Gerichte dieses Mitgliedstaats verbindlich ist, solange sie nicht widerrufen oder für ungültig erklärt wird.
+
+75
+
+Folglich kann unter diesen besonderen Umständen nicht davon ausgegangen werden, dass ein Bescheid wie der im Ausgangsverfahren in Rede stehende, mit dem der zuständige Träger des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, entscheidet, dass die betreffenden Arbeitnehmer nach seinen Rechtsvorschriften pflichtversichert sind, ein Dokument darstellt, in dem der Status der betreffenden Person im Sinne von Art. 5 Abs. 1 der Verordnung Nr. 987/2009 „bescheinigt“ wird.
+
+76
+
+Schließlich ist hinzuzufügen, dass, wie der Generalanwalt in Nr. 66 seiner Schlussanträge ausgeführt hat, die Frage, ob die im Ausgangsverfahren tätig gewordenen Behörden zwingend auf die vorläufige Anwendung der Rechtsvorschriften eines Mitgliedstaats gemäß Art. 6 der Verordnung Nr. 987/2009 in der dort vorgesehenen Rangfolge der anwendbaren Rechtsvorschriften hätten zurückgreifen müssen, keine Auswirkung auf die Bindungswirkung der gegenständlichen A1-Bescheinigungen hat. Insbesondere gelten nach Art. 6 Abs. 1 die dort aufgestellten vorläufig anzuwendenden Kollisionsregeln, „sofern in [dieser Verordnung] nichts anderes bestimmt ist“.
+
+77
+
+Angesichts der vorstehenden Erwägungen ist auf den zweiten Teil der zweiten Frage zu antworten, dass Art. 5 Abs. 1 der Verordnung Nr. 987/2009 in Verbindung mit deren Art. 19 Abs. 2 dahin auszulegen ist, dass eine vom zuständigen Träger eines Mitgliedstaats aufgrund von Art. 12 Abs. 1 der Verordnung Nr. 883/2004 ausgestellte A1-Bescheinigung auch dann sowohl für die Träger der sozialen Sicherheit des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, als auch für dessen Gerichte – gegebenenfalls rückwirkend – verbindlich ist, wenn die Bescheinigung erst ausgestellt wurde, nachdem der letztgenannte Mitgliedstaat festgestellt hat, dass der betreffende Arbeitnehmer nach seinen Rechtsvorschriften pflichtversichert ist.
+
+Zur dritten Frage
+
+78
+
+Mit seiner dritten Frage möchte das vorlegende Gericht wissen, ob Art. 12 Abs. 1 der Verordnung Nr. 883/2004 dahin auszulegen ist, dass ein von einem Arbeitgeber zur Ausführung einer Arbeit in einen anderen Mitgliedstaat entsandter Arbeitnehmer, der dort einen anderen, von einem anderen Arbeitgeber entsandten Arbeitnehmer ablöst, im Sinne dieser Bestimmung „eine andere Person ablöst“, so dass er nicht die darin vorgesehene Sonderregel in Anspruch nehmen kann, um weiterhin den Rechtsvorschriften des Mitgliedstaats zu unterliegen, in dem sein Arbeitgeber gewöhnlich tätig ist. Ferner möchte es wissen, ob dabei eine Rolle spielt, dass die Arbeitgeber der beiden Arbeitnehmer ihren Sitz im selben Mitgliedstaat haben oder dass zwischen ihnen personelle oder organisatorische Verflechtungen bestehen.
+
+– Zur Zulässigkeit
+
+79
+
+Die belgische Regierung trägt vor, die dritte Frage sei insofern hypothetischer Natur, als sie darauf gerichtet sei, ob es für ihre Beantwortung eine Rolle spiele, dass der zweite Arbeitgeber seinen Sitz in einem anderen Mitgliedstaat habe als der erste Arbeitgeber, denn die beiden Arbeitgeber, um die es im Ausgangsverfahren gehe, seien im selben Mitgliedstaat ansässig.
+
+80
+
+Insoweit genügt die Feststellung, dass die dritte Frage aus dem in der vorstehenden Randnummer dargelegten Grund nicht hypothetischer Natur ist, da sich ein Teil dieser Frage schon nach ihrem Wortlaut darauf bezieht, dass die fraglichen Arbeitgeber ihren Sitz im selben Mitgliedstaat haben; dies ist im Ausgangsverfahren der Fall, da nach den Angaben in der Vorlageentscheidung sowohl Martin-Meat als auch Martimpex in Ungarn ansässig sind.
+
+– Zur Beantwortung der Frage
+
+81
+
+Zunächst ist darauf hinzuweisen, dass die dritte Frage nur für den Fall gestellt wurde, dass der Gerichtshof auf die zweite Frage antwortet, dass die nach der Antwort auf die erste Frage bestehende Bindungswirkung der A1-Bescheinigung in einer der in der zweiten Frage beschriebenen Fallkonstellationen beschränkt werden kann.
+
+82
+
+Nach ständiger Rechtsprechung ist das in Art. 267 AEUV geschaffene Verfahren ein Instrument der Zusammenarbeit zwischen dem Gerichtshof und den nationalen Gerichten, mit dem der Gerichtshof diesen Gerichten Hinweise zur Auslegung des Unionsrechts gibt, die sie zur Entscheidung des bei ihnen anhängigen Rechtsstreits benötigen und die es dem Gerichtshof ermöglichen, zu einer dem nationalen Gericht dienlichen Auslegung des Unionsrechts zu gelangen (vgl. in diesem Sinne Beschluss vom 7. September 2017, Alandžak u. a., C‑187/17, nicht veröffentlicht, EU:C:2017:662, Rn. 9 und 10).
+
+83
+
+Wie die österreichische und die deutsche Regierung sowie die Kommission im Wesentlichen geltend machen, betrifft die dritte Frage, da sie auf die Tragweite der in Art. 12 Abs. 1 der Verordnung Nr. 883/2004 vorgesehenen Bedingung abzielt, wonach die entsandte Person nur dann weiterhin den Rechtsvorschriften des Mitgliedstaats, in dem der Arbeitgeber gewöhnlich tätig ist, unterliegen kann, wenn sie „nicht eine andere Person ablöst“ (im Folgenden: Ablöseverbot), den eigentlichen Gegenstand des Ausgangsrechtsstreits. Mit seiner Frage möchte das vorlegende Gericht nämlich wissen, welcher der von den beiden Mitgliedstaaten, die ihre Meinungsverschiedenheit der Verwaltungskommission unterbreitet haben, vertretenen Auslegungen der Vorzug zu geben ist, wobei ihre unterschiedlichen Auslegungen der Tragweite des Ablöseverbots nach den Angaben in der dem Gerichtshof vorgelegten Akte zu der Unstimmigkeit zwischen den Parteien des Ausgangsverfahrens hinsichtlich der auf die betreffenden Arbeitnehmer anwendbaren Rechtsvorschriften geführt haben.
+
+84
+
+Außerdem macht die österreichische Regierung geltend, es könne nicht ausgeschlossen werden, dass der zuständige ungarische Träger für einige der zahlreichen betroffenen Arbeitnehmer kein Formular E 101 oder A1 ausgestellt habe, so dass die Auslegung des Ablöseverbots für die Entscheidung des Ausgangsrechtsstreits im Fall dieser Arbeitnehmer unmittelbar relevant sei.
+
+85
+
+Unter diesen Umständen ist die dritte Vorlagefrage zu beantworten, auch wenn nach den Antworten auf die erste und die zweite Frage das vorlegende Gericht an die im Ausgangsverfahren in Rede stehenden A1-Bescheinigungen gebunden ist, solange sie nicht vom zuständigen ungarischen Träger widerrufen oder von den ungarischen Gerichten für ungültig erklärt wurden.
+
+86
+
+Im Ausgangsverfahren wurden die Arbeitnehmer von Martin-Meat offenbar in den Jahren 2007 bis 2012 nach Österreich entsandt, um in den Räumlichkeiten von Alpenrind Fleischzerlegungsarbeiten auszuführen. Vom 1. Februar 2012 bis zum 31. Januar 2014, also auch im streitgegenständlichen Zeitraum, wurden Arbeitnehmer von Martimpex zur Ausführung derselben Arbeiten nach Österreich entsandt. Ab 1. Februar 2014 wurden diese Arbeiten erneut von Arbeitnehmern von Martin-Meat in denselben Räumlichkeiten ausgeführt.
+
+87
+
+Somit ist zu prüfen, ob das Ablöseverbot in einem Fall wie dem des Ausgangsverfahrens während des streitgegenständlichen Zeitraums eingehalten wird sowie ob und inwieweit es dabei eine Rolle spielt, wo sich der Sitz der betreffenden Arbeitgeber befindet und ob zwischen ihnen personelle oder organisatorische Verflechtungen bestehen.
+
+88
+
+Nach ständiger Rechtsprechung des Gerichtshofs sind bei der Auslegung einer Unionsvorschrift nicht nur ihr Wortlaut, sondern auch ihr Kontext und die Ziele zu berücksichtigen, die mit der Regelung, zu der sie gehört, verfolgt werden (Urteil vom 21. September 2017, Kommission/Deutschland, C‑616/15, EU:C:2017:721, Rn. 43 und die dort angeführte Rechtsprechung).
+
+89
+
+Art. 12 Abs. 1 der Verordnung Nr. 883/2004 hatte zu Beginn des streitgegenständlichen Zeitraums folgenden Wortlaut: „Eine Person, die in einem Mitgliedstaat für Rechnung eines Arbeitgebers, der gewöhnlich dort tätig ist, eine Beschäftigung ausübt und die von diesem Arbeitgeber in einen anderen Mitgliedstaat entsandt wird, um dort eine Arbeit für dessen Rechnung auszuführen, unterliegt weiterhin den Rechtsvorschriften des ersten Mitgliedstaats, sofern die voraussichtliche Dauer dieser Arbeit vierundzwanzig Monate nicht überschreitet und diese Person nicht eine andere Person ablöst.“
+
+90
+
+Aus dem Wortlaut von Art. 12 Abs. 1 der Verordnung Nr. 883/2004 und insbesondere aus dem Wort „sofern“ geht dabei hervor, dass ein entsandter Arbeitnehmer schon deshalb, weil er eine andere Person ablöst, nicht weiterhin den Rechtsvorschriften des Mitgliedstaats, in dem sein Arbeitgeber gewöhnlich tätig ist, unterliegen kann und dass das Ablöseverbot kumulativ neben der ebenfalls in dieser Bestimmung enthaltenen Voraussetzung in Bezug auf die Höchstdauer der betreffenden Arbeit anwendbar ist.
+
+91
+
+Darüber hinaus deutet das Fehlen einer ausdrücklichen Bezugnahme auf den Sitz der jeweiligen Arbeitgeber oder auf etwaige personelle oder organisatorische Verflechtungen zwischen ihnen im Wortlaut dieser Bestimmung darauf hin, dass solche Umstände für ihre Auslegung nicht relevant sind.
+
+92
+
+Sodann ist zum Kontext von Art. 12 Abs. 1 der Verordnung Nr. 883/2004 festzustellen, dass schon nach der Überschrift dieses Artikels die dort vorgesehenen Regeln einschließlich der in Abs. 1 enthaltenen eine „Sonderregelung“ für die Bestimmung der Rechtsvorschriften über die soziale Sicherheit darstellen, die auf die in den Anwendungsbereich dieser Verordnung fallenden Personen anwendbar sind.
+
+93
+
+Wie sich nämlich aus Abs. 3 Buchst. a von Art. 11 („Allgemeine Regelung“) der Verordnung ergibt, unterliegen Personen wie die im Ausgangsverfahren in Rede stehenden Arbeitnehmer, die in einem Mitgliedstaat eine Beschäftigung oder selbständige Erwerbstätigkeit ausüben, den Rechtsvorschriften dieses Mitgliedstaats.
+
+94
+
+Desgleichen geht aus den Erwägungsgründen 17 und 18 der Verordnung Nr. 883/2004 hervor, dass auf Personen, die in einem Mitgliedstaat eine Beschäftigung oder eine selbständige Erwerbstätigkeit ausüben, „als allgemeine Regel“ die Rechtsvorschriften dieses Mitgliedstaats anzuwenden sind und dass in besonderen Fällen, die andere Zugehörigkeitskriterien rechtfertigen, „[v]on dieser allgemeinen Regel … abzuweichen“ ist.
+
+95
+
+Daraus folgt, dass Art. 12 Abs. 1 der Verordnung Nr. 883/2004, da er eine Ausnahme von der allgemeinen Regel für die Bestimmung der Rechtsvorschriften darstellt, denen Personen unterliegen, die in einem Mitgliedstaat eine Beschäftigung oder eine selbständige Erwerbstätigkeit ausüben, eng auszulegen ist.
+
+96
+
+Schließlich ist hinsichtlich der mit Art. 12 Abs. 1 der Verordnung Nr. 883/2004 sowie, allgemeiner, mit dem rechtlichen Rahmen, in den sich diese Bestimmung einfügt, verfolgten Ziele festzustellen, dass in Art. 12 Abs. 1 der Verordnung Nr. 883/2004 zwar eine Sonderregel für die Bestimmung der anwendbaren Rechtsvorschriften im Fall der Entsendung von Arbeitnehmern aufgestellt wird, da diese spezielle Situation grundsätzlich ein anderes Zugehörigkeitskriterium rechtfertigt; gleichwohl wollte der Unionsgesetzgeber auch vermeiden, dass von dieser Sonderregel Arbeitnehmer profitieren können, die nacheinander zur Ausführung derselben Arbeiten entsandt werden.
+
+97
+
+Zudem könnte eine je nach dem jeweiligen Sitz der betreffenden Arbeitgeber oder dem Vorliegen personeller oder organisatorischer Verflechtungen zwischen ihnen differierende Auslegung von Art. 12 Abs. 1 der Verordnung Nr. 883/2004 das vom Unionsgesetzgeber verfolgte Ziel gefährden, dass ein Arbeitnehmer grundsätzlich den Rechtsvorschriften des Mitgliedstaats unterliegen soll, in dem er seine Tätigkeit ausübt.
+
+98
+
+Insbesondere wurde, wie aus dem 17. Erwägungsgrund der Verordnung Nr. 883/2004 hervorgeht, die Anwendung der Rechtsvorschriften des Mitgliedstaats, in dem die betreffende Person eine Beschäftigung oder eine selbständige Erwerbstätigkeit ausübt, als allgemeine Regel deshalb als zweckmäßig erachtet, um die Gleichbehandlung aller im Hoheitsgebiet eines Mitgliedstaats erwerbstätigen Personen am besten zu gewährleisten. Überdies ist nach den Erwägungsgründen 5 und 8 der Verordnung bei der Koordinierung der nationalen Systeme der sozialen Sicherheit die Gleichbehandlung der im Hoheitsgebiet eines Mitgliedstaats beschäftigten Personen in bestmöglicher Weise sicherzustellen.
+
+99
+
+Aus den in den Rn. 89 bis 98 des vorliegenden Urteils dargestellten Erwägungen folgt, dass der wiederholte Rückgriff auf entsandte Arbeitnehmer zur Besetzung desselben Arbeitsplatzes, auch wenn verschiedene Arbeitgeber die Entsendungen vornehmen, weder mit dem Wortlaut noch mit den Zielen von Art. 12 Abs. 1 der Verordnung Nr. 883/2004 vereinbar ist und auch nicht mit dem Kontext dieser Bestimmung im Einklang steht, so dass eine entsandte Person die dort vorgesehene Sonderregel nicht in Anspruch nehmen kann, wenn sie einen anderen Arbeitnehmer ablöst.
+
+100
+
+Nach alledem ist auf die dritte Frage zu antworten, dass Art. 12 Abs. 1 der Verordnung Nr. 883/2004 dahin auszulegen ist, dass ein von einem Arbeitgeber zur Ausführung einer Arbeit in einem anderen Mitgliedstaat entsandter Arbeitnehmer, der dort einen anderen, von einem anderen Arbeitgeber entsandten Arbeitnehmer ablöst, im Sinne dieser Bestimmung „eine andere Person ablöst“, so dass er nicht die darin vorgesehene Sonderregel in Anspruch nehmen kann, um weiterhin den Rechtsvorschriften des Mitgliedstaats zu unterliegen, in dem sein Arbeitgeber gewöhnlich tätig ist. Dabei spielt es keine Rolle, ob die Arbeitgeber der beiden betreffenden Arbeitnehmer ihren Sitz im selben Mitgliedstaat haben oder ob zwischen ihnen personelle oder organisatorische Verflechtungen bestehen.
+
+Kosten
+
+101
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Erste Kammer) für Recht erkannt:
+
+ 	
+1.
+
+Art. 5 Abs. 1 der Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 in der durch die Verordnung (EU) Nr. 1244/2010 der Kommission vom 9. Dezember 2010 geänderten Fassung ist in Verbindung mit Art. 19 Abs. 2 der Verordnung Nr. 987/2009 in der durch die Verordnung Nr. 1244/2010 geänderten Fassung dahin auszulegen, dass eine vom zuständigen Träger eines Mitgliedstaats aufgrund von Art. 12 Abs. 1 der Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit in der durch die Verordnung Nr. 1244/2010 geänderten Fassung ausgestellte A1‑Bescheinigung nicht nur für die Träger des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, sondern auch für die Gerichte dieses Mitgliedstaats verbindlich ist.
+
+ 	
+2.
+
+Art. 5 Abs. 1 der Verordnung Nr. 987/2009 in der durch die Verordnung Nr. 1244/2010 geänderten Fassung ist in Verbindung mit Art. 19 Abs. 2 der Verordnung Nr. 987/2009 in der durch die Verordnung Nr. 1244/2010 geänderten Fassung dahin auszulegen, dass eine vom zuständigen Träger eines Mitgliedstaats aufgrund von Art. 12 Abs. 1 der Verordnung Nr. 883/2004 in der durch die Verordnung Nr. 1244/2010 geänderten Fassung ausgestellte A1-Bescheinigung, solange sie von dem Mitgliedstaat, in dem sie ausgestellt wurde, weder widerrufen noch für ungültig erklärt worden ist, auch dann sowohl für die Träger der sozialen Sicherheit des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, als auch für dessen Gerichte verbindlich ist, wenn die zuständigen Behörden des Ausstellungsmitgliedstaats und des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, die Verwaltungskommission angerufen haben und diese zu dem Ergebnis gelangt ist, dass die Bescheinigung zu Unrecht ausgestellt wurde und widerrufen werden sollte.
+
+Art. 5 Abs. 1 der Verordnung Nr. 987/2009 in der durch die Verordnung Nr. 1244/2010 geänderten Fassung ist in Verbindung mit Art. 19 Abs. 2 der Verordnung Nr. 987/2009 in der durch die Verordnung Nr. 1244/2010 geänderten Fassung dahin auszulegen, dass eine vom zuständigen Träger eines Mitgliedstaats aufgrund von Art. 12 Abs. 1 der Verordnung Nr. 883/2004 in der durch die Verordnung Nr. 1244/2010 geänderten Fassung ausgestellte A1-Bescheinigung auch dann sowohl für die Träger der sozialen Sicherheit des Mitgliedstaats, in dem die Tätigkeit ausgeübt wird, als auch für dessen Gerichte – gegebenenfalls rückwirkend – verbindlich ist, wenn die Bescheinigung erst ausgestellt wurde, nachdem der letztgenannte Mitgliedstaat festgestellt hat, dass der betreffende Arbeitnehmer nach seinen Rechtsvorschriften pflichtversichert ist.
+
+ 	
+3.
+
+Art. 12 Abs. 1 der Verordnung Nr. 883/2004 in der durch die Verordnung Nr. 1244/2010 geänderten Fassung ist dahin auszulegen, dass ein von einem Arbeitgeber zur Ausführung einer Arbeit in einen anderen Mitgliedstaat entsandter Arbeitnehmer, der dort einen anderen, von einem anderen Arbeitgeber entsandten Arbeitnehmer ablöst, im Sinne dieser Bestimmung „eine andere Person ablöst“, so dass er nicht die darin vorgesehene Sonderregel in Anspruch nehmen kann, um weiterhin den Rechtsvorschriften des Mitgliedstaats zu unterliegen, in dem sein Arbeitgeber gewöhnlich tätig ist.
+
+Dabei spielt es keine Rolle, ob die Arbeitgeber der beiden betreffenden Arbeitnehmer ihren Sitz im selben Mitgliedstaat haben oder ob zwischen ihnen personelle oder organisatorische Verflechtungen bestehen.
+
+ 	
+Silva de Lapuerta
+
+Fernlund
+
+Bonichot
+
+Rodin
+
+Regan
+
+Verkündet in öffentlicher Sitzung in Luxemburg am 6. September 2018.
+
+Der Kanzler
+
+A. Calot Escobar
+
+Die Präsidentin der Ersten Kammer
+
+R. Silva de Lapuerta
+
+( *1 )	Verfahrenssprache: Deutsch.

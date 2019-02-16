@@ -1,0 +1,448 @@
+﻿URTEIL DES GERICHTSHOFS (Große Kammer)
+
+19. Juni 2018 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Rechtsangleichung – Richtlinie 2004/39/EG – Art. 54 Abs. 1 – Tragweite der Pflicht der nationalen Finanzaufsichtsbehörden zur Wahrung des Berufsgeheimnisses – Begriff ‚vertrauliche Information‘“
+
+In der Rechtssache C‑15/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Bundesverwaltungsgericht (Deutschland) mit Entscheidung vom 4. November 2015, beim Gerichtshof eingegangen am 11. Januar 2016, in dem Verfahren
+
+Bundesanstalt für Finanzdienstleistungsaufsicht
+
+gegen
+
+Ewald Baumeister,
+
+Beteiligter:
+
+Frank Schmitt als Insolvenzverwalter der Phoenix Kapitaldienst GmbH,
+
+erlässt
+
+DER GERICHTSHOF (Große Kammer)
+
+unter Mitwirkung des Präsidenten K. Lenaerts, des Vizepräsidenten A. Tizzano, der Kammerpräsidentin R. Silva de Lapuerta, der Kammerpräsidenten M. Ilešič, J. L. da Cruz Vilaça (Berichterstatter), C. G. Fernlund und C. Vajda, der Richter J.‑C. Bonichot und A. Arabadjiev, der Richterin C. Toader, der Richter M. Safjan und D. Šváby, der Richterin A. Prechal sowie der Richter E. Jarašiūnas und S. Rodin,
+
+Generalanwalt: Y. Bot,
+
+Kanzler: K. Malacek, Verwaltungsrat,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 4. Juli 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der Bundesanstalt für Finanzdienstleistungsaufsicht, vertreten durch R. Wiegelmann als Bevollmächtigten,
+
+–
+
+von Herrn Baumeister, vertreten durch Rechtsanwalt P. A. Gundermann,
+
+–
+
+von Herrn Schmitt als Insolvenzverwalter der Phoenix Kapitaldienst GmbH, vertreten durch Rechtsanwalt A. J. Baumert,
+
+–
+
+der deutschen Regierung, vertreten durch T. Henze, J. Möller und D. Klebs als Bevollmächtigte,
+
+–
+
+der estnischen Regierung, vertreten durch K. Kraavi-Käerdi und N. Grünberg als Bevollmächtigte,
+
+–
+
+der niederländischen Regierung, vertreten durch M. K. Bulterman und B. Koopman als Bevollmächtigte,
+
+–
+
+der polnischen Regierung, vertreten durch B. Majczyna, B. Majerczyk-Graczykowska und A. Kramarczyk-Szaładzińska als Bevollmächtigte,
+
+–
+
+der Regierung des Vereinigten Königreichs, vertreten durch S. Simmons und Z. Lavery als Bevollmächtigte im Beistand von V. Wakefield und S. Ford, Barristers,
+
+–
+
+der Europäischen Kommission, vertreten durch I. V. Rogalski, J. Rius und K.‑P. Wojcik als Bevollmächtigte,
+
+–
+
+der EFTA-Überwachungsbehörde, vertreten durch C. Zatschler, M. Schneider, I. O. Vilhjálmsdóttir und M. L. Hakkebo als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 12. Dezember 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 54 Abs. 1 der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über Märkte für Finanzinstrumente, zur Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates (ABl. 2004, L 145, S. 1).
+
+2
+
+Dieses Ersuchen ergeht im Rahmen eines Rechtsstreits zwischen der Bundesanstalt für Finanzdienstleistungsaufsicht (Deutschland, im Folgenden: BaFin) und Herrn Ewald Baumeister wegen der Entscheidung der BaFin, ihm den Zugang zu bestimmten die Phoenix Kapitaldienst GmbH (im Folgenden: Phoenix) betreffenden Dokumenten zu verweigern.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+3
+
+Die Erwägungsgründe 2 und 63 der Richtlinie 2004/39 lauten:
+
+„(2)
+
+… [Es] ist … erforderlich, eine Harmonisierung in dem Umfang vorzunehmen, der notwendig ist, um Anlegern ein hohes Schutzniveau zu bieten und Wertpapierfirmen das Erbringen von Dienstleistungen in der gesamten Gemeinschaft im Rahmen des Binnenmarkts auf der Grundlage der Herkunftslandaufsicht zu gestatten. …
+
+…
+
+(63)
+
+… In Anbetracht zunehmender grenzüberschreitender Tätigkeiten sollten die zuständigen Behörden einander die für die Wahrnehmung ihrer Aufgaben zweckdienlichen Informationen übermitteln, um eine wirksame Anwendung dieser Richtlinie auch in Situationen zu gewährleisten, in denen Verstöße oder mutmaßliche Verstöße für die Behörden in zwei oder mehreren Mitgliedstaaten von Bedeutung sein können. Bei diesem Informationsaustausch ist die strikte Wahrung des Berufsgeheimnisses erforderlich, um die reibungslose Übermittlung dieser Informationen und den Schutz individueller Rechte zu gewährleisten.“
+
+4
+
+Art. 17 („Allgemeine Verpflichtung zur laufenden Überwachung“) der Richtlinie bestimmt in Abs. 1:
+
+„Die Mitgliedstaaten stellen sicher, dass die zuständigen Behörden die Tätigkeit von Wertpapierfirmen überwachen, um die Einhaltung der Bedingungen für die Ausübung der Tätigkeit gemäß dieser Richtlinie zu beurteilen. Die Mitgliedstaaten stellen sicher, dass geeignete Maßnahmen vorhanden sind, damit die zuständigen Behörden die notwendigen Informationen erhalten, um die Einhaltung dieser Bedingungen durch die Wertpapierfirmen zu prüfen.“
+
+5
+
+Art. 50 („Befugnisse der zuständigen Behörden“) der Richtlinie sieht vor:
+
+„(1)   Die zuständigen Behörden sind mit allen für die Wahrnehmung ihrer Aufgaben notwendigen Überwachungs- und Ermittlungsbefugnissen auszustatten. …
+
+(2)   Die Befugnisse gemäß Absatz 1 werden in Einklang mit dem nationalen Recht ausgeübt und umfassen zumindest das Recht,
+
+a)
+
+Unterlagen aller Art einzusehen und eine Kopie von ihnen zu erhalten,
+
+b)
+
+von jeder Person Auskünfte zu verlangen und, falls notwendig, eine Person vorzuladen und zu vernehmen,
+
+…“
+
+6
+
+Art. 54 („Berufsgeheimnis“) der Richtlinie 2004/39 bestimmt:
+
+„(1)   Die Mitgliedstaaten stellen sicher, dass die zuständigen Behörden, alle Personen, die für diese oder für Stellen, denen nach Artikel 48 Absatz 2 Aufgaben übertragen wurden, tätig sind oder waren, sowie die von den zuständigen Behörden beauftragten Wirtschaftsprüfer und Sachverständigen dem Berufsgeheimnis unterliegen. Diese dürfen vertrauliche Informationen, die sie in ihrer beruflichen Eigenschaft erhalten, an keine Person oder Behörde weitergeben, es sei denn in zusammengefasster oder allgemeiner Form, so dass die einzelnen Wertpapierfirmen, Marktbetreiber, geregelten Märkte oder anderen Personen nicht zu erkennen sind; davon unberührt bleiben Fälle, die unter das Strafrecht oder andere Bestimmungen dieser Richtlinie fallen.
+
+(2)   Wurde gegen eine Wertpapierfirma, einen Marktbetreiber oder einen geregelten Markt durch Gerichtsbeschluss das Konkursverfahren eröffnet oder ihre Zwangsabwicklung eingeleitet, so dürfen vertrauliche Informationen, die sich nicht auf Dritte beziehen, in zivil- oder handelsrechtlichen Verfahren weitergegeben werden, sofern dies für das betreffende Verfahren erforderlich ist.
+
+(3)   Unbeschadet der Fälle, die unter das Strafrecht fallen, dürfen die zuständigen Behörden, Stellen oder andere natürliche oder juristische Personen als die zuständigen Behörden vertrauliche Informationen, die sie gemäß dieser Richtlinie erhalten, nur zur Wahrnehmung ihrer Verantwortlichkeiten und Aufgaben – im Falle der zuständigen Behörden – innerhalb des Geltungsbereichs dieser Richtlinie oder – im Falle anderer Behörden, Stellen, natürlicher oder juristischer Personen – für die Zwecke, für die die Information übermittelt wurde, und/oder bei Verwaltungs- oder Gerichtsverfahren, die sich speziell auf die Wahrnehmung dieser Aufgaben beziehen, verwenden. Gibt die zuständige Behörde oder andere Behörde, Stelle oder Person, die die Information übermittelt, jedoch ihre Zustimmung, so darf die Behörde, die die Information erhält, diese für andere Zwecke verwenden.
+
+(4)   Vertrauliche Informationen, die gemäß dieser Richtlinie empfangen, ausgetauscht oder übermittelt werden, unterliegen den Vorschriften dieses Artikels über das Berufsgeheimnis. Dieser Artikel steht dem allerdings nicht entgegen, dass die zuständigen Behörden im Einklang mit dieser Richtlinie und mit anderen, für Wertpapierfirmen, Kreditinstitute, Pensionsfonds, [Organismen für gemeinsame Anlagen in Wertpapieren (OGAW)], Versicherungs- und Rückversicherungsvermittler, Versicherungsunternehmen, geregelte Märkte oder Marktbetreiber geltenden Richtlinien vertrauliche Informationen mit Zustimmung der die Informationen übermittelnden zuständigen Behörde oder anderen Behörden, Stellen und sonstigen juristischen oder natürlichen Personen austauschen oder solche übermitteln.
+
+(5)   Dieser Artikel steht dem Austausch oder der Übermittlung vertraulicher Informationen, die nicht von der zuständigen Behörde eines anderen Mitgliedstaats empfangen wurden, durch die zuständigen Behörden im Einklang mit de[m] jeweils maßgebenden nationale[n] Recht nicht entgegen.“
+
+7
+
+Art. 56 („Pflicht zur Zusammenarbeit“) der Richtlinie bestimmt in Abs. 1:
+
+„Die zuständigen Behörden der einzelnen Mitgliedstaaten arbeiten zusammen, wann immer dies zur Wahrnehmung der in dieser Richtlinie festgelegten Aufgaben erforderlich ist, und machen dazu von den ihnen entweder durch diese Richtlinie oder das nationale Recht übertragenen Befugnissen Gebrauch.
+
+Die zuständigen Behörden leisten den zuständigen Behörden der anderen Mitgliedstaaten Amtshilfe. Sie tauschen insbesondere Informationen aus und arbeiten bei Ermittlungen oder der Überwachung zusammen.
+
+…“
+
+8
+
+Art. 58 („Informationsaustausch“) der Richtlinie sieht in Abs. 1 vor:
+
+„Die gemäß Artikel 56 Absatz 1 für die Zwecke dieser Richtlinie als Kontaktstellen benannten zuständigen Behörden der Mitgliedstaaten übermitteln einander unverzüglich die für die Wahrnehmung der Aufgaben der gemäß Artikel 48 Absatz 1 benannten zuständigen Behörden erforderlichen Informationen, die in den Bestimmungen zur Durchführung der Richtlinie genannt sind.
+
+Zuständige Behörden, die Informationen mit anderen zuständigen Behörden austauschen, können bei der Übermittlung darauf hinweisen, dass diese nur mit ihrer ausdrücklichen Zustimmung veröffentlicht werden dürfen, in welchem Fall sie nur für die Zwecke, für die die Zustimmung erteilt wurde, ausgetauscht werden dürfen.“
+
+Deutsches Recht
+
+9
+
+In § 1 Abs. 1 des Informationsfreiheitsgesetzes vom 5. September 2005 (BGBl. 2005 I S. 2722) in der durch das Gesetz vom 7. August 2013 (BGBl. 2013 I S. 3154) geänderten Fassung (im Folgenden: IFG) heißt es:
+
+„Jeder hat nach Maßgabe dieses Gesetzes gegenüber den Behörden des Bundes einen Anspruch auf Zugang zu amtlichen Informationen.“
+
+10
+
+§ 3 („Schutz von besonderen öffentlichen Belangen“) IFG bestimmt in Nr. 4:
+
+„Der Anspruch auf Informationszugang besteht nicht,
+
+…
+
+4.   wenn die Information einer durch Rechtsvorschrift oder durch die Allgemeine Verwaltungsvorschrift zum materiellen und organisatorischen Schutz von Verschlusssachen geregelten Geheimhaltungs- oder Vertraulichkeitspflicht oder einem Berufs- oder besonderen Amtsgeheimnis unterliegt.“
+
+11
+
+§ 9 („Verschwiegenheitspflicht“) des Kreditwesengesetzes vom 9. September 1998 (BGBl. 1998 I S. 2776) in der durch das Gesetz vom 4. Juli 2013 (BGBl. 2013 I S. 1981) geänderten Fassung (im Folgenden: KWG) sieht in Abs. 1 vor:
+
+„Die bei der [BaFin] beschäftigten … Personen …, soweit sie zur Durchführung dieses Gesetzes tätig werden, dürfen die ihnen bei ihrer Tätigkeit bekanntgewordenen Tatsachen, deren Geheimhaltung im Interesse [der diesem Gesetz unterliegenden Rechtssubjekte] oder eines Dritten liegt, insbesondere Geschäfts- und Betriebsgeheimnisse, nicht unbefugt offenbaren oder verwerten, auch wenn sie nicht mehr im Dienst sind oder ihre Tätigkeit beendet ist. …“
+
+Ausgangsverfahren und Vorlagefragen
+
+12
+
+Aus der Vorlageentscheidung geht hervor, dass im Jahr 2005 ein Insolvenzverfahren über das Vermögen von Phoenix eröffnet wurde. Zugleich wurde die Gesellschaft aufgelöst und wird gerichtlich abgewickelt. Das Geschäftsmodell von Phoenix beruhte auf einem betrügerischen Schneeballsystem.
+
+13
+
+Herr Baumeister gehört zu den durch die Tätigkeit von Phoenix geschädigten Anlegern. Er verlangte bei der BaFin, gestützt auf § 1 Abs. 1 IFG, Einsicht in Phoenix betreffende Unterlagen, und zwar in das Gutachten einer Sonderprüfung, Berichte der Wirtschaftsprüfer, interne Stellungnahmen sowie Berichte und Korrespondenz, die die BaFin im Rahmen ihrer Phoenix betreffenden Aufsichtstätigkeit erhalten oder verfasst hatte. Die BaFin lehnte diesen Antrag ab.
+
+14
+
+Nach erfolglosem Widerspruch erhob Herr Baumeister beim Verwaltungsgericht Frankfurt am Main (Deutschland) Klage gegen den ablehnenden Bescheid der BaFin. Mit Urteil vom 12. März 2008 verpflichtete das Verwaltungsgericht die BaFin, Herrn Baumeister Einsicht in die von ihm angeforderten Unterlagen zu gewähren, soweit diese keine Betriebs- und Geschäftsgeheimnisse enthielten und mit Ausnahme von Unterlagen im Zusammenhang mit der Finanzaufsichtsbehörde des Vereinigten Königreichs.
+
+15
+
+Mit Urteil vom 29. November 2013 wies der Hessische Verwaltungsgerichtshof (Deutschland) die gegen dieses Urteil eingelegte Berufung zurück. Zur Begründung führte er aus, zum einen habe Herr Baumeister nach § 1 Abs. 1 IFG Anspruch auf Zugang zu den angeforderten Unterlagen, und zum anderen könne sein Zugangsantrag nicht generell nach § 3 Nr. 4 IFG in Verbindung mit § 9 Abs. 1 KWG abgelehnt werden. Der Zugang zu den in Rede stehenden Unterlagen dürfe nur in Bezug auf die im konkreten Einzelfall zu ermittelnden Betriebs- und Geschäftsgeheimnisse sowie personenbezogene Daten Dritter versagt werden. Auch aus dem Unionsrecht ergebe sich nichts anderes.
+
+16
+
+Die BaFin legte gegen dieses Urteil beim Bundesverwaltungsgericht (Deutschland) Revision ein.
+
+17
+
+Das Bundesverwaltungsgericht führt im Wesentlichen aus, der Hessische Verwaltungsgerichtshof habe den von § 9 Abs. 1 KWG vermittelten Schutz in zweifacher Hinsicht zu eng gefasst. Erstens diene diese Bestimmung dem allgemeinen Schutz aller Informationen, an denen das überwachte Unternehmen oder ein Dritter ein legitimes Geheimhaltungsinteresse habe. Hierzu gehörten auch vermögenswerte Informationen, die unabhängig von der Frage, ob es sich um Betriebs- oder Geschäftsgeheimnisse im engeren Sinne handele, im Rahmen eines Insolvenzverfahrens verwendet werden könnten. Zweitens schütze die Vorschrift auch vor der Offenlegung von Informationen, an deren Vertraulichkeit die BaFin ein berechtigtes Interesse habe. Jedenfalls sei der Inhalt der betreffenden Angaben zu prüfen, um festzustellen, ob ein solches berechtigtes Interesse vorliege. Außerdem sei davon auszugehen, dass die Schutzwürdigkeit vertraulicher Informationen in der Regel mit der Zeit abnehme.
+
+18
+
+In Anbetracht von Art. 54 Abs. 1 der Richtlinie 2004/39 fragt sich das vorlegende Gericht jedoch, ob die Tragweite der Geheimhaltungspflicht nach § 9 Abs. 1 KWG weiter auszulegen ist.
+
+19
+
+Insoweit weist es zum einen auf bestimmte Erwägungen der Unionsgerichte im Zusammenhang mit der Verordnung (EG) Nr. 1049/2001 des Europäischen Parlaments und des Rates vom 30. Mai 2001 über den Zugang der Öffentlichkeit zu Dokumenten des Europäischen Parlaments, des Rates und der Kommission (ABl. 2001, L 145, S. 43) sowie der Verordnung (EG) Nr. 1/2003 des Rates vom 16. Dezember 2002 zur Durchführung der in den Artikeln [101] und [102 AUEV] niedergelegten Wettbewerbsregeln (ABl. 2003, L 1, S. 1) hin (vgl. u. a Urteile vom 16. Juli 2015, ClientEarth/Kommission, C‑612/13 P, EU:C:2015:486, Rn. 68, 69 und 77, sowie vom 28. Januar 2015, Evonik Degussa/Kommission, T‑341/12, EU:T:2015:51, Rn. 84 und 94). Zum anderen stellt es fest, dass die Besonderheiten der Finanzmarktaufsicht eine besonders umfassende Tragweite von § 9 Abs. 1 KWG, auch in zeitlicher Hinsicht, rechtfertigen könnten.
+
+20
+
+Unter diesen Umständen hat das Bundesverwaltungsgericht das Verfahren ausgesetzt und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorgelegt:
+
+Wenn Frage 2 zu verneinen ist:
+
+Zu den Vorlagefragen
+
+Zur ersten Frage
+
+21
+
+Mit seiner ersten Frage möchte das vorlegende Gericht wissen, ob Art. 54 Abs. 1 der Richtlinie 2004/39 dahin auszulegen ist, dass alle Informationen, die das überwachte Unternehmen betreffen und von ihm an die zuständige Behörde übermittelt wurden, sowie alle in der Überwachungsakte enthaltenen Äußerungen dieser Behörde, einschließlich ihrer Korrespondenz mit anderen Stellen, ohne weitere Voraussetzungen vertrauliche Informationen darstellen, die infolgedessen von der in dieser Vorschrift aufgestellten Pflicht zur Wahrung des Berufsgeheimnisses gedeckt sind. Sollte dies zu verneinen sein, möchte das vorlegende Gericht wissen, anhand welcher Kriterien zu bestimmen ist, welche der den Behörden, die von den Mitgliedstaaten zur Erfüllung der in der Richtlinie vorgesehenen Aufgaben benannt wurden (im Folgenden: zuständige Behörden), vorliegenden Informationen als vertraulich einzustufen sind.
+
+22
+
+Insoweit ist festzustellen, dass weder Art. 54 noch eine andere Bestimmung der Richtlinie 2004/39 ausdrückliche Angaben dazu enthält, welche der den zuständigen Behörden vorliegenden Informationen als „vertraulich“ einzustufen sind und daher unter die Pflicht zur Wahrung des Berufsgeheimnisses fallen.
+
+23
+
+Außerdem weisen die einschlägigen nationalen Bestimmungen zwar erhebliche Unterschiede auf, doch wird in der Richtlinie 2004/39 zur Festlegung des Sinns und der Tragweite des in Art. 54 Abs. 1 der Richtlinie verwendeten Begriffs „vertrauliche Information“ nicht auf die nationalen Rechtsordnungen verwiesen.
+
+24
+
+Nach ständiger Rechtsprechung des Gerichtshofs folgt aus dem Erfordernis einer einheitlichen Anwendung des Unionsrechts, dass ein bestimmter Begriff, wenn eine unionsrechtliche Bestimmung insoweit nicht auf das Recht der Mitgliedstaaten verweist, in der Regel in der gesamten Europäischen Union eine autonome und einheitliche Auslegung erhalten muss. Diese Auslegung muss unter Berücksichtigung des Wortlauts und des Kontexts der in Rede stehenden Vorschrift sowie des mit der fraglichen Regelung verfolgten Ziels gefunden werden (vgl. in diesem Sinne Urteile vom 19. Dezember 2013, Fish Legal und Shirley, C‑279/12, EU:C:2013:853, Rn. 42, sowie vom 16. Juli 2015, A, C‑184/14, EU:C:2015:479, Rn. 31 und 32).
+
+25
+
+Was den Wortlaut von Art. 54 der Richtlinie 2004/39 angeht, impliziert die wiederholte Bezugnahme auf „vertrauliche Informationen“ statt allgemein auf „Informationen“, dass zwischen vertraulichen und sonstigen, nicht vertraulichen Informationen, über die die zuständigen Behörden bei der Wahrnehmung ihrer Aufgaben verfügen, zu unterscheiden ist.
+
+26
+
+In Bezug auf den Kontext von Art. 54 der Richtlinie 2004/39 sowie die mit ihr verfolgten Ziele ergibt sich aus ihrem zweiten Erwägungsgrund, dass mit ihr eine Harmonisierung in dem Umfang vorgenommen werden soll, der notwendig ist, um Anlegern ein hohes Schutzniveau zu bieten und Wertpapierfirmen das Erbringen von Dienstleistungen in der gesamten Union auf der Grundlage der Herkunftslandaufsicht zu gestatten (Urteil vom 12. November 2014, Altmann u. a., C‑140/13, EU:C:2014:2362, Rn. 26).
+
+27
+
+Ferner geht aus dem zweiten Satz des 63. Erwägungsgrundes der Richtlinie 2004/39 hervor, dass die zuständigen Behörden der Mitgliedstaaten in Anbetracht zunehmender grenzüberschreitender Tätigkeiten einander die für die Wahrnehmung ihrer Aufgaben zweckdienlichen Informationen übermitteln sollen, um eine wirksame Anwendung dieser Richtlinie zu gewährleisten (Urteil vom 12. November 2014, Altmann u. a., C‑140/13, EU:C:2014:2362, Rn. 27).
+
+28
+
+Daher haben die Mitgliedstaaten nach Art. 17 Abs. 1 der Richtlinie 2004/39 sicherzustellen, dass die zuständigen Behörden die Tätigkeit von Wertpapierfirmen ständig überwachen, um sich zu vergewissern, dass diese ihren Pflichten nachkommen (Urteil vom 12. November 2014, Altmann u. a., C‑140/13, EU:C:2014:2362, Rn. 28).
+
+29
+
+Nach Art. 50 Abs. 1 und 2 der Richtlinie müssen die zuständigen Behörden über alle für die Wahrnehmung ihrer Aufgaben notwendigen Überwachungs- und Ermittlungsbefugnisse verfügen, einschließlich des Rechts, Unterlagen aller Art einzusehen und von jeder Person Auskünfte zu verlangen (Urteil vom 12. November 2014, Altmann u. a., C‑140/13, EU:C:2014:2362, Rn. 29).
+
+30
+
+Überdies schreibt Art. 56 Abs. 1 der Richtlinie 2004/39 vor, dass die zuständigen Behörden den zuständigen Behörden der anderen Mitgliedstaaten Amtshilfe leisten und dass sie insbesondere Informationen austauschen und bei Ermittlungen oder der Überwachung zusammenarbeiten (Urteil vom 12. November 2014, Altmann u. a., C‑140/13, EU:C:2014:2362, Rn. 30).
+
+31
+
+Das wirksame Funktionieren des in den vorstehenden Randnummern kurz beschriebenen Systems zur Überwachung der Tätigkeit von Wertpapierfirmen, das auf einer Überwachung innerhalb eines Mitgliedstaats und dem Informationsaustausch zwischen den zuständigen Behörden mehrerer Mitgliedstaaten beruht, erfordert es, dass sowohl die überwachten Firmen als auch die zuständigen Behörden sicher sein können, dass die vertraulichen Informationen grundsätzlich auch vertraulich bleiben (Urteil vom 12. November 2014, Altmann u. a., C‑140/13, EU:C:2014:2362, Rn. 31).
+
+32
+
+Wie u. a. aus dem letzten Satz des 63. Erwägungsgrundes der Richtlinie 2004/39 hervorgeht, könnte das Fehlen eines solchen Vertrauens die reibungslose Übermittlung der vertraulichen Informationen gefährden, die zur Ausübung der Überwachungstätigkeit erforderlich sind (Urteil vom 12. November 2014, Altmann u. a., C‑140/13, EU:C:2014:2362, Rn. 32).
+
+33
+
+Daher stellt Art. 54 Abs. 1 der Richtlinie 2004/39 zum Schutz nicht nur der speziellen Interessen der unmittelbar betroffenen Firmen, sondern auch des allgemeinen Interesses am normalen Funktionieren der Unionsmärkte für Finanzinstrumente die Grundregel auf, dass das Berufsgeheimnis zu wahren ist (vgl. in diesem Sinne Urteil vom 12. November 2014, Altmann u. a., C‑140/13, EU:C:2014:2362, Rn. 33).
+
+34
+
+Angesichts aller vorstehenden Erwägungen kann weder aus dem Wortlaut von Art. 54 der Richtlinie 2004/39 noch aus dessen Kontext oder aus den mit der Richtlinie verfolgten Zielen geschlossen werden, dass alle Informationen, die das überwachte Unternehmen betreffen und von ihm an die zuständige Behörde übermittelt wurden, sowie alle in der Überwachungsakte enthaltenen Äußerungen dieser Behörde, einschließlich ihrer Korrespondenz mit anderen Stellen, zwangsläufig als vertraulich anzusehen sind.
+
+35
+
+Aus diesen Erwägungen ergibt sich nämlich, dass das in Art. 54 Abs. 1 der Richtlinie aufgestellte allgemeine Verbot der Weitergabe vertraulicher Informationen die den zuständigen Behörden vorliegenden Informationen betrifft, die erstens nicht öffentlich zugänglich sind und bei deren Weitergabe zweitens die Gefahr einer Beeinträchtigung der Interessen der natürlichen oder juristischen Person, die sie geliefert hat, oder der Interessen Dritter oder des ordnungsgemäßen Funktionierens des vom Unionsgesetzgeber durch den Erlass der Richtlinie 2004/39 geschaffenen Systems zur Überwachung der Tätigkeit von Wertpapierfirmen bestünde.
+
+36
+
+Die in der vorstehenden Randnummer genannten Voraussetzungen müssen jedoch unbeschadet des Inhalts anderer unionsrechtlicher Bestimmungen gelten, mit denen die Vertraulichkeit bestimmter Informationen strenger geschützt werden soll.
+
+37
+
+Zu diesen Bestimmungen gehört der den Informationsaustausch zwischen den zuständigen Behörden betreffende Art. 58 Abs. 1 Unterabs. 2 der Richtlinie 2004/39, der lautet: „Zuständige Behörden, die Informationen mit anderen zuständigen Behörden austauschen, können bei der Übermittlung darauf hinweisen, dass diese nur mit ihrer ausdrücklichen Zustimmung veröffentlicht werden dürfen, in welchem Fall sie nur für die Zwecke, für die die Zustimmung erteilt wurde, ausgetauscht werden dürfen.“
+
+38
+
+Ferner ist darauf hinzuweisen, dass Art. 54 der Richtlinie 2004/39 einen allgemeinen Grundsatz aufstellt, wonach die Weitergabe der den zuständigen Behörden vorliegenden vertraulichen Informationen verboten ist, und dass er die speziellen Fälle, in denen dieses allgemeine Verbot ausnahmsweise der Übermittlung oder Verwendung solcher Informationen nicht entgegensteht, abschließend aufführt (vgl. in diesem Sinne Urteil vom 12. November 2014, Altmann u. a., C‑140/13, EU:C:2014:2362, Rn. 34 und 35).
+
+39
+
+Durch diesen Artikel soll also weder ein Zugangsrecht der Öffentlichkeit zu den den zuständigen Behörden vorliegenden Informationen geschaffen noch die Ausübung eines etwaigen nach nationalem Recht bestehenden Zugangsrechts näher geregelt werden.
+
+40
+
+Damit verfolgt Art. 54 der Richtlinie 2004/39 ein anderes Ziel als die Verordnung Nr. 1049/2001.
+
+41
+
+Die Verordnung Nr. 1049/2001 soll nämlich der Öffentlichkeit ein Recht auf größtmöglichen Zugang zu den Dokumenten der Unionsorgane verschaffen (vgl. in diesem Sinne Urteile vom 1. Juli 2008, Schweden und Turco/Rat, C‑39/05 P und C‑52/05 P, EU:C:2008:374, Rn. 33, sowie vom 16. Juli 2015, ClientEarth/Kommission, C‑612/13 P, EU:C:2015:486, Rn. 57).
+
+42
+
+Im Licht eines solchen Ziels hat der Gerichtshof entschieden, dass die Verordnung Nr. 1049/2001 grundsätzlich das Unionsorgan, das den Zugang zu einem Dokument verweigern möchte, dazu verpflichtet, zu erläutern, inwiefern der Zugang zu diesem Dokument das Interesse, das durch eine der für das in Rede stehende Zugangsrecht vorgesehenen Ausnahmen geschützt wird, konkret beeinträchtigen könnte, wobei es dem Organ unbenommen bleibt, sich insoweit auf eine allgemeine Vermutung der Vertraulichkeit einer bestimmten Kategorie von Dokumenten zu stützen, da für Anträge auf Verbreitung von Dokumenten gleicher Art vergleichbare allgemeine Erwägungen gelten können (vgl. in diesem Sinne Urteile vom 1. Juli 2008, Schweden und Turco/Rat, C‑39/05 P und C‑52/05 P, EU:C:2008:374, Rn. 48 bis 50, sowie vom 16. Juli 2015, ClientEarth/Kommission, C‑612/13 P, EU:C:2015:486, Rn. 68, 69 und 77).
+
+43
+
+Sind die zuständigen Behörden, die über den Antrag einer Person auf Zugang zu Informationen über ein überwachtes Unternehmen zu entscheiden haben, angesichts der in Rn. 35 des vorliegenden Urteils genannten kumulativen Voraussetzungen hingegen der Auffassung, dass die angeforderten Informationen vertraulich im Sinne von Art. 54 Abs. 1 der Richtlinie 2004/39 sind, dürfen sie einem solchen Antrag nur in den in Art. 54 abschließend aufgezählten Fällen stattgeben.
+
+44
+
+Schließlich ist hervorzuheben, dass es den Mitgliedstaaten, da Art. 54 Abs. 1 der Richtlinie 2004/39 die zuständigen Behörden nur dazu verpflichten soll, die Weitergabe vertraulicher Informationen im Sinne dieser Vorschrift grundsätzlich zu verweigern, freisteht, den Schutz vor der Weitergabe auf den gesamten Inhalt der Überwachungsakten der zuständigen Behörden zu erstrecken oder umgekehrt den Zugang zu Informationen zu gestatten, die den zuständigen Behörden vorliegen und keine vertraulichen Informationen im Sinne dieser Vorschrift sind.
+
+45
+
+Im vorliegenden Fall hat das vorlegende Gericht im Licht aller vorstehenden Erwägungen zu prüfen, ob bei den der BaFin vorliegenden Informationen, deren Weitergabe beantragt wurde, die Pflicht zur Wahrung des Berufsgeheimnisses eingreift, die diese Behörde nach Art. 54 Abs. 1 der Richtlinie 2004/39 trifft.
+
+46
+
+Nach alledem ist auf die erste Frage zu antworten, dass Art. 54 Abs. 1 der Richtlinie 2004/39 dahin auszulegen ist, dass weder alle Informationen, die das überwachte Unternehmen betreffen und von ihm an die zuständige Behörde übermittelt wurden, noch alle in der Überwachungsakte enthaltenen Äußerungen dieser Behörde, einschließlich ihrer Korrespondenz mit anderen Stellen, ohne weitere Voraussetzungen vertrauliche Informationen darstellen, die infolgedessen von der in dieser Vorschrift aufgestellten Pflicht zur Wahrung des Berufsgeheimnisses gedeckt sind. Als vertraulich einzustufen sind die den zuständigen Behörden vorliegenden Informationen, die erstens nicht öffentlich zugänglich sind und bei deren Weitergabe zweitens die Gefahr einer Beeinträchtigung der Interessen der natürlichen oder juristischen Person, die sie geliefert hat, oder der Interessen Dritter oder des ordnungsgemäßen Funktionierens des vom Unionsgesetzgeber durch den Erlass der Richtlinie 2004/39 geschaffenen Systems zur Überwachung der Tätigkeit von Wertpapierfirmen bestünde.
+
+Zur zweiten Frage
+
+47
+
+Mit seiner zweiten Frage möchte das vorlegende Gericht wissen, ob Art. 54 Abs. 1 der Richtlinie 2004/39 dahin auszulegen ist, dass die Beurteilung der Vertraulichkeit von Informationen, die das überwachte Unternehmen betreffen und den zuständigen Behörden übermittelt wurden, vom Zeitpunkt ihrer Übermittlung und von ihrer Einstufung zu diesem Zeitpunkt abhängt.
+
+48
+
+Insoweit ist hervorzuheben, dass die zuständigen Behörden grundsätzlich während des gesamten Zeitraums, in dem die ihnen gemäß der Richtlinie 2004/39 anvertrauten Informationen als vertraulich anzusehen sind, zu der ihnen nach Art. 54 Abs. 1 der Richtlinie obliegenden Wahrung des Berufsgeheimnisses verpflichtet sind, da andernfalls die Erreichung der in Rn. 33 des vorliegenden Urteils angeführten Ziele dieser Bestimmung gefährdet wäre (vgl. in diesem Sinne Urteil vom 12. November 2014, Altmann u. a., C‑140/13, EU:C:2014:2362, Rn. 31 und 34).
+
+49
+
+Gleichwohl stellt, wie das vorlegende Gericht und die Europäische Kommission ausgeführt haben, der Zeitablauf einen Umstand dar, der in der Regel Einfluss auf die Prüfung der Frage haben kann, ob die Voraussetzungen, von denen die Vertraulichkeit der betreffenden Informationen abhängt, zu einem bestimmten Zeitpunkt erfüllt sind (vgl. in diesem Sinne Urteile vom 26. Januar 2010, Internationaler Hilfsfonds/Kommission, C‑362/08 P, EU:C:2010:40, Rn. 56 und 57, sowie vom 14. März 2017, Evonik Degussa/KommissionC‑162/15 P, EU:C:2017:205, Rn. 64).
+
+50
+
+Folglich ist davon auszugehen, dass unter das allgemeine Verbot der Weitergabe vertraulicher Informationen in Art. 54 Abs. 1 der Richtlinie 2004/39 die den zuständigen Behörden vorliegenden Informationen fallen, die bei der Prüfung des Zugangsantrags als „vertraulich“ einzustufen sind, unabhängig davon, wie sie zum Zeitpunkt ihrer Übermittlung an diese Behörden einzustufen waren.
+
+51
+
+Somit ist auf die zweite Frage zu antworten, dass Art. 54 Abs. 1 der Richtlinie 2004/39 dahin auszulegen ist, dass die Vertraulichkeit von Informationen, die das überwachte Unternehmen betreffen und den zuständigen Behörden übermittelt wurden, zu dem Zeitpunkt zu beurteilen ist, zu dem diese Behörden ihre Prüfung im Rahmen der Entscheidung über den Antrag auf Zugang zu den betreffenden Informationen vornehmen müssen, unabhängig davon, wie sie bei ihrer Übermittlung an diese Behörden einzustufen waren.
+
+Zur dritten Frage
+
+52
+
+Mit seiner dritten Frage möchte das vorlegende Gericht wissen, ob Art. 54 Abs. 1 der Richtlinie 2004/39 dahin auszulegen ist, dass die den zuständigen Behörden vorliegenden Informationen, die mindestens fünf Jahre alt sind, grundsätzlich nicht mehr unter das Geschäftsgeheimnis oder andere Kategorien vertraulicher Informationen im Sinne dieser Vorschrift fallen.
+
+53
+
+Insbesondere in Bezug auf Informationen, die unter das Geschäftsgeheimnis fallen, ist darauf hinzuweisen, dass nach der Rechtsprechung des Gerichtshofs der Schutz von Geschäftsgeheimnissen einen allgemeinen Grundsatz des Unionsrechts darstellt (vgl. in diesem Sinne Urteil vom 14. Februar 2008, Varec, C‑450/06, EU:C:2008:91, Rn. 49 und die dort angeführte Rechtsprechung).
+
+54
+
+Außerdem sind nach der Rechtsprechung des Gerichtshofs Informationen, die zu einem bestimmten Zeitpunkt möglicherweise Geschäftsgeheimnisse waren, wenn sie mindestens fünf Jahre alt sind, aufgrund des Zeitablaufs grundsätzlich als nicht mehr aktuell und deshalb als nicht mehr vertraulich anzusehen, es sei denn, die Partei, die sich auf die Vertraulichkeit beruft, weist ausnahmsweise nach, dass die Informationen trotz ihres Alters immer noch wesentliche Bestandteile ihrer eigenen wirtschaftlichen Stellung oder der von betroffenen Dritten sind (vgl. in diesem Sinne Urteil vom 14. März 2017, Evonik Degussa/Kommission, C‑162/15 P, EU:C:2017:205, Rn. 64).
+
+55
+
+Die Erwägungen in der vorstehenden Randnummer gelten auch im Kontext der Anwendung von Art. 54 Abs. 1 der Richtlinie 2004/39, da sie die zeitliche Entwicklung der Relevanz bestimmter Informationen für die wirtschaftliche Stellung der fraglichen Unternehmen betreffen.
+
+56
+
+Diese Erwägungen gelten hingegen nicht in Bezug auf die den zuständigen Behörden vorliegenden Informationen, deren Vertraulichkeit aus anderen Gründen als ihrer Bedeutung für die wirtschaftliche Stellung der fraglichen Unternehmen, etwa wegen der von den zuständigen Behörden angewandten Überwachungsmethoden und ‑strategien, gerechtfertigt sein könnte.
+
+57
+
+Folglich ist auf die dritte Frage zu antworten, dass Art. 54 Abs. 1 der Richtlinie 2004/39 dahin auszulegen ist, dass die den zuständigen Behörden vorliegenden Informationen, die möglicherweise Geschäftsgeheimnisse waren, aber mindestens fünf Jahre alt sind, aufgrund des Zeitablaufs grundsätzlich als nicht mehr aktuell und deshalb als nicht mehr vertraulich anzusehen sind, es sei denn, die Partei, die sich auf die Vertraulichkeit beruft, weist ausnahmsweise nach, dass die Informationen trotz ihres Alters immer noch wesentliche Bestandteile ihrer eigenen wirtschaftlichen Stellung oder der von betroffenen Dritten sind. Diese Erwägungen gelten nicht für die diesen Behörden vorliegenden Informationen, deren Vertraulichkeit aus anderen Gründen als ihrer Bedeutung für die wirtschaftliche Stellung der fraglichen Unternehmen gerechtfertigt sein könnte.
+
+Kosten
+
+58
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Große Kammer) für Recht erkannt:
+
+ 	
+1.
+
+Art. 54 Abs. 1 der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über Märkte für Finanzinstrumente, zur Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates ist dahin auszulegen, dass weder alle Informationen, die das überwachte Unternehmen betreffen und von ihm an die zuständige Behörde übermittelt wurden, noch alle in der Überwachungsakte enthaltenen Äußerungen dieser Behörde, einschließlich ihrer Korrespondenz mit anderen Stellen, ohne weitere Voraussetzungen vertrauliche Informationen darstellen, die infolgedessen von der in dieser Vorschrift aufgestellten Pflicht zur Wahrung des Berufsgeheimnisses gedeckt sind. Als vertraulich einzustufen sind die den Behörden, die von den Mitgliedstaaten zur Erfüllung der in der Richtlinie vorgesehenen Aufgaben benannt wurden, vorliegenden Informationen, die erstens nicht öffentlich zugänglich sind und bei deren Weitergabe zweitens die Gefahr einer Beeinträchtigung der Interessen der natürlichen oder juristischen Person, die sie geliefert hat, oder der Interessen Dritter oder des ordnungsgemäßen Funktionierens des vom Unionsgesetzgeber durch den Erlass der Richtlinie 2004/39 geschaffenen Systems zur Überwachung der Tätigkeit von Wertpapierfirmen bestünde.
+
+ 	
+2.
+
+Art. 54 Abs. 1 der Richtlinie 2004/39 ist dahin auszulegen, dass die Vertraulichkeit von Informationen, die das überwachte Unternehmen betreffen und den von den Mitgliedstaaten zur Erfüllung der in der Richtlinie vorgesehenen Aufgaben benannten Behörden übermittelt wurden, zu dem Zeitpunkt zu beurteilen ist, zu dem diese Behörden ihre Prüfung im Rahmen der Entscheidung über den Antrag auf Zugang zu den betreffenden Informationen vornehmen müssen, unabhängig davon, wie sie bei ihrer Übermittlung an diese Behörden einzustufen waren.
+
+ 	
+3.
+
+Art. 54 Abs. 1 der Richtlinie 2004/39 ist dahin auszulegen, dass die den Behörden, die von den Mitgliedstaaten zur Erfüllung der in der Richtlinie vorgesehenen Aufgaben benannt wurden, vorliegenden Informationen, die möglicherweise Geschäftsgeheimnisse waren, aber mindestens fünf Jahre alt sind, aufgrund des Zeitablaufs grundsätzlich als nicht mehr aktuell und deshalb als nicht mehr vertraulich anzusehen sind, es sei denn, die Partei, die sich auf die Vertraulichkeit beruft, weist ausnahmsweise nach, dass die Informationen trotz ihres Alters immer noch wesentliche Bestandteile ihrer eigenen wirtschaftlichen Stellung oder der von betroffenen Dritten sind. Diese Erwägungen gelten nicht für die diesen Behörden vorliegenden Informationen, deren Vertraulichkeit aus anderen Gründen als ihrer Bedeutung für die wirtschaftliche Stellung der fraglichen Unternehmen gerechtfertigt sein könnte.
+
+ 	
+Lenaerts
+
+Tizzano
+
+Silva de Lapuerta
+
+Ilešič
+
+Da Cruz Vilaça
+
+Fernlund
+
+Vajda
+
+Bonichot
+
+Arabadjiev
+
+Toader
+
+Safjan
+
+Šváby
+
+Prechal
+
+Jarašiūnas
+
+Rodin
+
+Verkündet in öffentlicher Sitzung in Luxemburg am 19. Juni 2018.
+
+Der Kanzler
+
+A. Calot Escobar
+
+Der Präsident
+
+K. Lenaerts
+
+( *1 )	Verfahrenssprache: Deutsch.

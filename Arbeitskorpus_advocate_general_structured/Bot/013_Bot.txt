@@ -1,0 +1,619 @@
+﻿URTEIL DES GERICHTSHOFS (Fünfte Kammer)
+
+4. Oktober 2018 ( *1 )
+
+„Vertragsverletzung eines Mitgliedstaats – Art. 49 AEUV, Art. 63 AEUV und Art. 267 Abs. 3 AEUV – Besteuerungskette – Ungleichbehandlung aufgrund des Sitzmitgliedstaats der Enkelgesellschaft – Erstattung der zu Unrecht erhobenen Steuervorauszahlung für ausgeschüttete Dividenden – Anforderungen an die Belege für den Anspruch auf Erstattung – Begrenzung des Anspruchs auf Erstattung – Diskriminierung – Nationales Gericht, das in letzter Instanz entscheidet – Vorlagepflicht“
+
+In der Rechtssache C‑416/17
+
+betreffend eine Vertragsverletzungsklage nach Art. 258 AEUV, eingereicht am 10. Juli 2017,
+
+Europäische Kommission, vertreten durch J.‑F. Brakeland und W. Roels als Bevollmächtigte,
+
+Klägerin,
+
+gegen
+
+Französische Republik, vertreten durch E. de Moustier, A. Alidière und D. Colas als Bevollmächtigte,
+
+Beklagte,
+
+erlässt
+
+DER GERICHTSHOF (Fünfte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten J. L. da Cruz Vilaça, des Präsidenten des Gerichtshofs K. Lenaerts in Wahrnehmung der Aufgaben eines Richters der Fünften Kammer, des Richters E. Levits (Berichterstatter), der Richterin M. Berger und des Richters F. Biltgen,
+
+Generalanwalt: M. Wathelet,
+
+Kanzler: M.‑A. Gaudissart, Hilfskanzler,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 20. Juni 2018,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 25. Juli 2018
+
+folgendes
+
+Urteil
+
+1
+
+Die Europäische Kommission hat beim Gerichtshof Klage auf Feststellung erhoben, dass die Französische Republik dadurch, dass sie französische Muttergesellschaften, die von ausländischen Tochtergesellschaften Dividenden erhalten, unter Verstoß gegen das Unionsrecht, wie es vom Gerichtshof in seinem Urteil vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), ausgelegt worden ist, hinsichtlich des Rechts auf Erstattung der erhobenen Steuer weiter diskriminiert und unverhältnismäßig behandelt, gegen ihre Verpflichtungen aus Art. 49, Art. 63 und Art. 267 Abs. 3 AEUV und gegen die Grundsätze der Äquivalenz und der Effektivität verstoßen hat.
+
+Nationales Recht
+
+2
+
+Art. 146 Abs. 2 des Code général des impôts (allgemeines Steuergesetzbuch, im Folgenden: CGI) lautete in der Fassung, die für die Steuerjahre galt, um die es in der Rechtssache ging, in der das Urteil vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), ergangen ist:
+
+„Führt die Weiterausschüttung durch eine Muttergesellschaft zum Steuervorabzug nach Art. 223 sexies, wird dieser Vorabzug gegebenenfalls um den Betrag der Steuergutschriften gemindert, die auf die … Erträge aus Beteiligungen entfallen, die innerhalb der letzten fünf abgeschlossenen Rechnungsjahre eingenommen wurden.“
+
+3
+
+Art. 158 bis Abs. 1 CGI lautete in der Fassung, die für die Steuerjahre galt, um die es in der Rechtssache ging, in der das Urteil vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), ergangen ist:
+
+„Personen, die von französischen Gesellschaften ausgeschüttete Dividenden beziehen, verfügen insoweit über ein Einkommen bestehend aus
+
+a)
+
+den Beträgen, die sie von der Gesellschaft erhalten,
+
+b)
+
+einer Steuergutschrift, die von der Staatskasse in Form eines Guthabens bereitgestellt wurde.
+
+Diese Steuergutschrift entspricht der Hälfte der von der Gesellschaft tatsächlich ausgeschütteten Beträge.
+
+Die Gutschrift kann nur insoweit verwendet werden, als das Einkommen in die Bemessungsgrundlage für die vom Empfänger geschuldete Einkommensteuer einbezogen ist.
+
+Sie wird auf diese Steuer angerechnet.
+
+Natürlichen Personen wird die Steuergutschrift erstattet, soweit ihr Betrag den von den Betreffenden geschuldeten Steuerbetrag übersteigt.“
+
+4
+
+Art. 223 sexies Abs. 1 Unterabs. 1 CGI lautete in der Fassung, die für ab dem 1. Januar 1999 ausgeschüttete Gewinne galt:
+
+„[Stammen] die von einer Gesellschaft ausgeschütteten Erträge aus Beträgen …, in Bezug auf die die Gesellschaft nicht der Körperschaftsteuer zum Normalsatz unterlag …, hat sie einen Steuervorabzug in Höhe der nach Art. 158 bis Abs. 1 berechneten Steuergutschrift zu leisten. Der Vorabzug wird unabhängig von den Empfängern der Ausschüttungen auf diejenigen Ausschüttungen geschuldet, die zu der Steuergutschrift nach Art. 158 bis berechtigen.“
+
+Vorgeschichte des Rechtsstreits
+
+Urteil vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581)
+
+5
+
+Accor, eine Gesellschaft französischen Rechts, beantragte 2001 bei der französischen Steuerverwaltung die Erstattung des Steuervorabzugs für ausgeschüttete Dividenden (im Folgenden: Steuervorabzug), den sie bei der Weiterausschüttung von Dividenden von in anderen Mitgliedstaaten ansässigen Tochtergesellschaften gezahlt hatte. Hintergrund war, dass die auf die Weiterausschüttung der Dividenden entfallende Steuergutschrift lediglich bei Dividenden gebietsansässiger Tochtergesellschaften auf den bei der Weiterausschüttung anfallenden Steuervorabzug angerechnet werden konnte. Nachdem die Steuerverwaltung ihren Antrag abgelehnt hatte, erhob Accor bei den französischen Verwaltungsgerichten Klage.
+
+6
+
+Der Conseil d’État (Staatsrat, Frankreich) reichte beim Gerichtshof ein Vorabentscheidungsersuchen ein. In seinem Urteil vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), hat der Gerichtshof zunächst klargestellt, dass sich nach der französischen Regelung bei Dividenden gebietsfremder Tochtergesellschaften die Besteuerung auf der Ebene der ausschüttenden Tochtergesellschaft anders als bei Dividenden gebietsansässiger Tochtergesellschaften nicht vermeiden lässt, obwohl beide Arten von Dividenden bei ihrer Weiterausschüttung dem Steuervorabzug unterliegen (Rn. 49).
+
+7
+
+Der Gerichtshof ist zu dem Schluss gelangt, dass eine solche Ungleichbehandlung von Dividenden, je nachdem, ob sie von einer gebietsansässigen oder ‑fremden Tochtergesellschaft ausgeschüttet werden, gegen die Art. 49 und 63 AEUV verstößt (Rn. 69).
+
+8
+
+Der Gerichtshof hat insoweit ausgeführt, dass ein Mitgliedstaat in der Lage sein können muss, den im Sitzmitgliedstaat der ausschüttenden Gesellschaft gezahlten Körperschaftsteuerbetrag zu ermitteln, auf den sich die der Empfängermuttergesellschaft erteilte Steuergutschrift bezieht, und dass es daher nicht genügt, nachzuweisen, dass die ausschüttende Gesellschaft in ihrem Sitzmitgliedstaat für die den ausgeschütteten Dividenden zugrunde liegenden Gewinne besteuert wurde, ohne Angaben über die Steuerart und den Steuersatz der Steuer zu machen, die tatsächlich auf diese Gewinne erhoben wurde (Rn. 92).
+
+9
+
+Er hat weiter festgestellt, dass die erforderlichen Nachweise den Steuerbehörden des Besteuerungsmitgliedstaats erlauben müssen, klar und genau zu überprüfen, ob die Voraussetzungen für die Inanspruchnahme eines Steuervorteils vorliegen (Rn. 99), und dass die betreffenden Angaben innerhalb der gesetzlichen Aufbewahrungsfrist für Geschäftsunterlagen, wie sie im Recht des Mitgliedstaats der Niederlassung der Tochtergesellschaft geregelt ist, angefordert werden müssen und nicht verlangt werden kann, Unterlagen vorzulegen, die sich auf einen Zeitraum beziehen, der diese Frist erheblich überschreitet (Rn. 101).
+
+10
+
+Entsprechend hat der Gerichtshof für Recht erkannt:
+
+„1.
+
+Die Art. 49 AEUV und 63 AEUV stehen die Vermeidung einer wirtschaftlichen Doppelbesteuerung von Dividenden bezweckenden Rechtsvorschriften eines Mitgliedstaats wie den im Ausgangsverfahren fraglichen entgegen, wonach eine Muttergesellschaft auf den Steuervorabzug, den sie bei der Weiterverteilung der von ihren Tochtergesellschaften ausgeschütteten Dividenden an ihre Anteilseigner zu entrichten hat, die Steuergutschrift anrechnen kann, die mit der Ausschüttung dieser Dividenden verbunden ist, sofern diese von einer in diesem Mitgliedstaat ansässigen Tochtergesellschaft stammen, wonach dieses Recht jedoch nicht besteht, wenn diese Dividenden von einer in einem anderen Mitgliedstaat ansässigen Tochtergesellschaft stammen, da diese Rechtsvorschriften in diesem Fall nicht zur Erteilung einer mit der Ausschüttung dieser Dividenden durch diese Tochtergesellschaft verbundenen Steuergutschrift berechtigen.
+
+…
+
+3.
+
+Nach den Grundsätzen der Äquivalenz und der Effektivität ist es nicht unzulässig, dass die Erstattung der Beträge an eine Muttergesellschaft, die sicherstellen soll, dass die von deren in Frankreich ansässigen Tochtergesellschaften ausgeschütteten Dividenden und die von ihren in anderen Mitgliedstaaten ansässigen Tochtergesellschaften ausgeschütteten Dividenden, die jeweils von der Muttergesellschaft weiterverteilt werden, steuerlich gleichbehandelt werden, davon abhängig gemacht wird, dass der Steuerschuldner die Angaben macht, über die nur er verfügt und die sich hinsichtlich jeder streitigen Dividende insbesondere auf den tatsächlich angewandten Steuersatz und auf den Steuerbetrag beziehen, der tatsächlich auf die von den in anderen Mitgliedstaaten ansässigen Tochtergesellschaften des Steuerschuldners erwirtschafteten Gewinne gezahlt wurde, während für in Frankreich ansässige Tochtergesellschaften solche Angaben, die der Verwaltung bekannt sind, nicht verlangt werden. Die Vorlage der genannten Angaben kann jedoch nur verlangt werden, sofern es sich, insbesondere unter Berücksichtigung der Rechtsvorschriften der genannten Mitgliedstaaten über die Vermeidung der Doppelbesteuerung und die Eintragung der zu zahlenden Körperschaftsteuer sowie die Aufbewahrung von Verwaltungsunterlagen, nicht als praktisch unmöglich oder als zu schwierig erweist, den Nachweis der Zahlung der Steuer durch die in den anderen Mitgliedstaaten ansässigen Tochtergesellschaften zu erbringen. Es ist Sache des vorlegenden Gerichts, zu prüfen, ob diese Voraussetzungen im Ausgangsverfahren erfüllt sind.“
+
+Urteile des Conseil d’État (Staatsrat)
+
+11
+
+Nach der Verkündung des Urteils vom 15. September 2011, Accor (C 310/09, EU:C:2011:581), hat der Conseil d’État (Staatsrat) in seinen Urteilen vom 10. Dezember 2012, Rhodia (FR:CESSR:2012:317074.20121210), und vom 10. Dezember 2012, Accor (FR:CESSR:2012:317075.20121210) (im Folgenden: Urteile des Conseil d’État), die Voraussetzungen für die Erstattung von unter Verstoß gegen das Unionsrecht erhobenen Steuervorabzügen festgelegt.
+
+12
+
+Als Erstes hat der Conseil d’État zum Umfang der Erstattung entschieden, dass
+
+–
+
+sofern die von einer in einem anderen Mitgliedstaat ansässigen Tochtergesellschaft an eine französische Muttergesellschaft weiterausgeschüttete Dividende auf der Ebene der Tochtergesellschaft nicht besteuert worden ist, die Steuer, die von der Enkelgesellschaft entrichtet wurde, die die entsprechenden Gewinne erzielt hat, bei der Bestimmung des der Muttergesellschaft zu erstattenden Steuervorabzugs nicht zu berücksichtigen ist (Urteile des Conseil d’État vom 10. Dezember 2012, Rhodia, FR:CESSR:2012:317074.20121210, Rn. 29, und vom 10. Dezember 2012, Accor, FR:CESSR:2012:317075.20121210, Rn. 24);
+
+–
+
+sofern die Dividenden ausschüttende Gesellschaft in dem betreffenden Mitgliedstaat tatsächlich Steuern gezahlt hat, die über den normalen Satz der französischen Steuer (33,33 %) hinausgehen, die Steuergutschrift, auf die sie Anspruch hat, auf ein Drittel der Dividenden, die sie erhalten und weiterausgeschüttet hat, zu beschränken ist (Urteile des Conseil d’État vom 10. Dezember 2012, Rhodia, FR:CESSR:2012:317074.20121210, Rn. 44, und vom 10. Dezember 2012, Accor, FR:CESSR:2012:317075.20121210, Rn. 40).
+
+13
+
+Als Zweites hat der Conseil d’État zu den Belegen, die den Anträgen auf Erstattung beizufügen sind, entschieden, dass
+
+–
+
+für die Ermittlung der Höhe der Dividenden, die eine Gesellschaft von in einem anderen Mitgliedstaat ansässigen Tochtergesellschaften erhalten hat, die Steuererklärung über den Steuervorabzug maßgeblich ist (Urteile des Conseil d’État vom 10. Dezember 2012, Rhodia, FR:CESSR:2012:317074.20121210, Rn. 24 und 25, und vom 10. Dezember 2012, Accor, FR:CESSR:2012:317075.20121210, Rn. 19 und 20);
+
+–
+
+dass während der gesamten Dauer des Verfahrens sämtliche Belege für das Bestehen des Anspruchs auf Erstattung bereitgehalten werden müssen, ohne dass der Ablauf der gesetzlichen Aufbewahrungsfrist von dieser Verpflichtung befreit (Urteile des Conseil d’État vom 10. Dezember 2012, Rhodia, FR:CESSR:2012:317074.20121210, Rn. 35, und vom 10. Dezember 2012, Accor, FR:CESSR:2012:317075.20121210, Rn. 31).
+
+Vorverfahren
+
+14
+
+Nach den Urteilen des Conseil d’État gingen bei der Kommission mehrere Beschwerden über die Bedingungen der Erstattung von Steuervorabzügen ein, die von französischen Gesellschaften, die Dividenden aus dem Ausland erhalten hatten, gezahlt worden waren.
+
+15
+
+Da sie die Erläuterungen, die ihr die Französische Republik gab, nicht überzeugten, sandte die Kommission an die französischen Behörden am 27. November 2014 eine schriftliche Aufforderung zur Äußerung, in der sie die Auffassung vertrat, dass bestimmte der in den Urteilen des Conseil d’État festgelegten Bedingungen der Erstattung des Steuervorabzugs möglicherweise gegen das Unionsrecht verstießen.
+
+16
+
+Mit Schreiben vom 26. Januar 2015 wies die Französische Republik die erhobenen Vorwürfe zurück. Die Kommission stellte ihr daraufhin am 29. April 2016 eine mit Gründen versehene Stellungnahme zu und forderte sie auf, dieser binnen zwei Monaten nach ihrer Zustellung nachzukommen.
+
+17
+
+In ihrem Schreiben vom 28. Juni 2016 hielt die Französische Republik an ihrem Standpunkt fest. Die Kommission erhob daraufhin gemäß Art. 258 AEUV die vorliegende Vertragsverletzungsklage.
+
+Zur Klage
+
+18
+
+Die Kommission erhebt vier Rügen. Mit der ersten, zweiten und dritten Rüge wird ein Verstoß gegen die Art. 49 und 63 AEUV, wie sie vom Gerichtshof im Urteil vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), ausgelegt worden sind, geltend gemacht, mit der vierten ein Verstoß gegen Art. 267 Abs. 3 AEUV.
+
+Zur ersten Rüge: Verstoß gegen die Art. 49 und 63 AEUV wegen Beschränkung des Rechts auf Erstattung des Steuervorabzugs durch Nichtberücksichtigung der Besteuerung auf der Ebene der in einem anderen Mitgliedstaat als der Französischen Republik ansässigen Enkelgesellschaften
+
+Vorbringen der Parteien
+
+19
+
+Nach Auffassung der Kommission wurde die Unvereinbarkeit der französischen Regelung mit den Art. 49 und 63 AEUV, die der Gerichtshof in seinem Urteil vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), festgestellt hat, durch die Urteile des Conseil d’État nicht beseitigt. Nach den Urteilen des Conseil d’État werde die Besteuerung auf der Ebene der gebietsfremden Enkelgesellschaften, von denen die Dividenden stammten, die die gebietsfremde Tochtergesellschaft an die gebietsansässige Muttergesellschaft ausschütte, bei der Erstattung des von der Muttergesellschaft auf die Weiterausschüttung der Dividenden gezahlten Steuervorabzugs nicht berücksichtigt. Bei einer rein innerstaatlichen Beteiligungskette werde die wirtschaftliche Doppelbesteuerung hingegen neutralisiert, weil die Ausschüttung von Dividenden von der Enkelgesellschaft an die Tochtergesellschaft das Recht auf eine Steuergutschrift in Höhe des auf die Ausschüttung entfallenden Steuervorabzugs begründe.
+
+20
+
+Diese Ungleichbehandlung aufgrund des Ortes der Niederlassung der die Dividenden ausschüttenden Enkelgesellschaft sei objektiv nicht gerechtfertigt.
+
+21
+
+Die Nichtberücksichtigung der Besteuerung der Gewinne, die den von der gebietsfremden Enkelgesellschaft über die Tochtergesellschaft an die Muttergesellschaft ausgeschütteten Dividenden entsprächen, könne nicht damit gerechtfertigt werden, dass dem französischen Recht der Begriff der „Enkelgesellschaft“ fremd sei. Das wäre eine allzu formalistische Anwendung des Mechanismus der Steuergutschrift. Außerdem gehe es um die Behandlung von Dividenden je nach ihrem Ursprung, und nicht um die Behandlung von Einheiten in einer Beteiligungskette. Dass der Tochtergesellschaft eine Steuerbefreiung gewährt worden sei, sei ohne Belang, da ursprünglich die von der Enkelgesellschaft ausgeschütteten Dividenden besteuert worden seien.
+
+22
+
+Die Zahlung des Steuervorabzugs bei Ausschüttung von Dividenden sei durch die französische Regelung vorgeschrieben. Deshalb könne keine Rede davon sein, dass die zusätzliche steuerliche Belastung der von einer gebietsansässigen Gesellschaft ausgeschütteten Dividenden, die auf die vorhergehende Ausschüttung von Dividenden der Enkelgesellschaft an die Tochtergesellschaft zurückgingen, ihren Ursprung in den Rechtsvorschriften des Mitgliedstaats der Niederlassung der Tochter- und der Enkelgesellschaft habe.
+
+23
+
+Die Französische Republik könne sich ihrer Verpflichtung, bei der Ausschüttung von Dividenden, die auf Gewinne einer gebietsfremden Enkelgesellschaft zurückgingen, die wirtschaftliche Doppelbesteuerung zu vermeiden, nicht mit dem Vorwand entziehen, sie müsse ihr Steuersystem nicht an die verschiedenen Steuerregelungen der übrigen Mitgliedstaaten anpassen. Von der Französischen Republik werde nicht verlangt, ihr Steuersystem anzupassen, sondern dieses unabhängig vom Ursprung der ausgeschütteten Dividenden gleich anzuwenden.
+
+24
+
+Die Französische Republik bestreitet nicht, dass bei von einer gebietsfremden Enkelgesellschaft ausgeschütteten Dividenden nach den in den Urteilen des Conseil d’État festgelegten Modalitäten der Erstattung des Vorsteuerabzugs eine Neutralisierung der Besteuerung nicht möglich ist. Sie macht geltend, das französische Recht gewährleiste die Vermeidung der Doppelbesteuerung nur auf der Ebene der einzelnen ausschüttenden Gesellschaft. Die Mitgliedstaaten könnten ihre Steuersysteme frei gestalten, sofern keine Diskriminierung geschaffen werde. Es sei deshalb nicht Aufgabe der Französischen Republik, ihr Steuersystem an das anderer Mitgliedstaaten anzupassen.
+
+25
+
+Nach der französischen Steuerregelung, um die es im vorliegenden Fall gehe, seien von gebietsansässigen Enkelgesellschaften gezahlte Steuern nicht auf die Steuerschuld der Muttergesellschaft anrechenbar. Eine Steuergutschrift werde der Muttergesellschaft nur in Höhe der Besteuerung der Gewinne der ausschüttenden Tochtergesellschaft gewährt. Deshalb sei die Französische Republik nicht verpflichtet, dafür zu sorgen, dass bei der Berechnung der Erstattung des gezahlten Steuervorabzugs die Besteuerung auf der Ebene gebietsfremder Enkelgesellschaften, die Dividenden ausgeschüttet hätten, berücksichtigt werde.
+
+26
+
+Die Besteuerung der Ausschüttung von Dividenden von der Enkelgesellschaft an die Tochtergesellschaft sei mithin Folge der Anwendung einer anderen Steuerregelung als der der Französischen Republik. Es stehe ihr nicht zu, diese zu korrigieren.
+
+27
+
+Da der Begriff der Enkelgesellschaft dem französischen System der Vermeidung der Doppelbesteuerung fremd sei, müsse die bei der Ausschüttung von Dividenden anfallende Steuer von der Gesellschaft erhoben werden, die die Dividenden erhalte. Es handele sich also um ein zweiseitiges Verhältnis zwischen zwei Einheiten, nämlich der Gesellschaft, die die Dividenden ausschütte, und der Gesellschaft, die die Dividenden erhalte. Im Falle der Weiterausschüttung der Dividenden durch eine Zwischengesellschaft werde die Enkelgesellschaft als Tochtergesellschaft der Zwischengesellschaft angesehen.
+
+28
+
+Das französische System unterscheide sich demnach von dem System der Körperschaftsteuervorauszahlung („Advance Corporation Tax“) des Vereinigten Königreichs, um das es in den Rechtssachen gegangen sei, in denen die Urteile vom 12. Dezember 2006, Test Claimants in the FII Group Litigation (C‑446/04, EU:C:2006:774), und vom 13. November 2012, Test Claimants in the FII Group Litigation (C‑35/11, EU:C:2012:707), ergangen seien. Es berücksichtige die von einer Enkelgesellschaft geschuldete Steuer überhaupt nicht, unabhängig davon, ob diese gebietsansässig oder ‑fremd sei. Es beruhe auf einer Logik der Vermeidung der Besteuerung, und nicht der Konzernbesteuerung.
+
+Würdigung durch den Gerichtshof
+
+29
+
+Mit ihrer ersten Rüge macht die Kommission geltend, nach den Urteilen des Conseil d’État sei es bei der Erstattung des Steuervorabzugs, der von einer in Frankreich ansässigen Muttergesellschaft auf die Weiterausschüttung von Dividenden gezahlt worden sei, unmöglich, die Besteuerung der entsprechenden Gewinne, die eine in einem anderen Mitgliedstaat ansässige Enkelgesellschaft erzielt habe, geltend zu machen, wenn die Gewinne über eine gebietsfremde Tochtergesellschaft an die Muttergesellschaft weiterausgeschüttet worden seien. Mit den Urteilen des Conseil d’État werde die Unvereinbarkeit des französischen Mechanismus der Vermeidung der Doppelbesteuerung mit den Art. 49 und 63 AEUV, wie sie der Gerichtshof in seinem Urteil vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), festgestellt habe, daher nicht beseitigt.
+
+30
+
+In Rn. 69 dieses Urteils hatte der Gerichtshof entschieden, dass die Art. 49 und 63 AEUV die Vermeidung einer wirtschaftlichen Doppelbesteuerung von Dividenden bezweckenden Rechtsvorschriften eines Mitgliedstaats entgegenstehen, wonach eine Muttergesellschaft auf den Steuervorabzug, den sie bei der Weiterausschüttung der von ihren Tochtergesellschaften ausgeschütteten Dividenden an ihre Anteilseigner zu entrichten hat, die Steuergutschrift anrechnen kann, die mit der Ausschüttung dieser Dividenden verbunden ist, sofern diese von einer in diesem Mitgliedstaat ansässigen Tochtergesellschaft stammen, wonach dieses Recht jedoch nicht besteht, wenn diese Dividenden von einer in einem anderen Mitgliedstaat ansässigen Tochtergesellschaft stammen, da in diesem Fall kein Anspruch auf Erteilung einer mit der Ausschüttung dieser Dividenden durch diese Tochtergesellschaft verbundenen Steuergutschrift besteht.
+
+31
+
+Wie die Kommission geltend macht, führt die Durchführung des Urteils vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), durch den Conseil d’État dazu, dass bei Dividenden, die die gebietsansässige Muttergesellschaft von einer in einem anderen Mitgliedstaat ansässigen Tochtergesellschaft erhält, bei der Erstattung des auf die Weiterausschüttung der Dividenden an ihre Aktionäre entfallenden Steuervorabzugs die Besteuerung der Dividenden nur auf der Ebene der Tochtergesellschaft berücksichtigt wird. Die Besteuerung der Dividenden eine Stufe weiter unten in der Beteiligungskette, auf der Ebene einer Enkelgesellschaft, wird bei der Festsetzung der Erstattung hingegen nicht berücksichtigt.
+
+32
+
+Die Französische Republik bestreitet nicht, dass nach dem französischen System der Vermeidung der Doppelbesteuerung die Besteuerung der ausgeschütteten Dividenden bei einer rein innerstaatlichen Beteiligungskette automatisch auf jeder Stufe berücksichtigt wird. Bei jeder Ausschüttung von Dividenden durch eine Tochtergesellschaft besteht Anspruch auf eine Steuergutschrift, die die Muttergesellschaft auf den Steuervorabzug anrechnen lassen kann, den sie als Tochtergesellschaft schuldet, wenn sie die Dividenden an ihrer eigene Muttergesellschaft weiterausschüttet, und der genauso hoch ist wie die Steuergutschrift. Mit dem französischen System wird die wirtschaftliche Doppelbesteuerung ausgeschütteter Gewinne also vermieden, indem der Muttergesellschaft eine Steuergutschrift gewährt wird, die den auf die von ihr weiterausgeschütteten Dividenden entfallenden Steuervorabzug ausgleicht.
+
+33
+
+Dass im Falle einer grenzüberschreitenden Weiterausschüttung von Dividenden bei der Berechnung der Erstattung des von der gebietsansässigen Muttergesellschaft, die die Dividenden erhalten hat, auf die Weiterausschüttung der Dividenden zu zahlenden Steuervorabzugs die Besteuerung der Dividenden lediglich auf der Ebene der gebietsfremden Tochtergesellschaft, die die Dividenden ausgeschüttet hat, berücksichtigt wird, bedeutet, dass Dividenden, bei denen die entsprechenden Gewinne von einer Enkelgesellschaft erzielt worden sind, dann weniger günstig behandelt werden als im Fall einer rein nationalen Beteiligungskette.
+
+34
+
+Waren die von der gebietsfremden Tochtergesellschaft an die gebietsansässige Muttergesellschaft ausgeschütteten Dividenden im Sitzmitgliedstaat der Tochtergesellschaft von der Steuer befreit, ist bei Weiterausschüttung nämlich kein Steuervorabzug zu erstatten, da die Dividenden auf der Ebene der Tochtergesellschaft nicht besteuert wurden. Durch die Nichtberücksichtigung der tatsächlichen Besteuerung der Gewinne, die den vorher, auf einer niedrigeren Stufe der Beteiligungskette von einer Enkelgesellschaft ausgeschütteten Dividenden entsprechen, wird somit die wirtschaftliche Doppelbesteuerung der ausgeschütteten Gewinne aufrechterhalten.
+
+35
+
+Die Französische Republik weist zu Recht darauf hin, dass das Unionsrecht bei seinem gegenwärtigen Stand keine allgemeinen Kriterien für die Zuständigkeitsverteilung zwischen den Mitgliedstaaten in Bezug auf die Beseitigung der Doppelbesteuerung innerhalb der Union vorschreibt. Daher kann jeder Mitgliedstaat sein System für die Besteuerung ausgeschütteter Gewinne frei gestalten, solange dieses keine durch den AEU-Vertrag verbotenen Diskriminierungen enthält (vgl. in diesem Sinne Urteil vom 13. November 2012, Test Claimants in the FII Group Litigation, C‑35/11, EU:C:2012:707, Rn. 40).
+
+36
+
+Die Situation einer Gesellschaft, die als Anteilseignerin Dividenden aus ausländischen Quellen erhält, ist in Bezug auf eine Steuervorschrift, die wie die, deren Anwendungsmodalitäten von der Kommission beanstandet werden, die wirtschaftliche Doppelbesteuerung ausgeschütteter Gewinne verhindern soll, mit der einer Gesellschaft, die als Anteilseignerin Dividenden aus inländischen Quellen erhält, insofern vergleichbar, als es grundsätzlich in beiden Fällen zu einer mehrfachen Besteuerung der erzielten Gewinne kommen kann (Urteile vom 12. Dezember 2006, Test Claimants in the FII Group Litigation, C‑446/04, EU:C:2006:774, Rn. 62, vom 15. September 2011, Accor, C‑310/09, EU:C:2011:581, Rn. 45, und vom 13. November 2012, Test Claimants in the FII Group Litigation, C‑35/11, EU:C:2012:707, Rn. 37).
+
+37
+
+Nach den Art. 49 und 63 AEUV muss ein Mitgliedstaat, der bei von gebietsansässigen Gesellschaften an ebenfalls Gebietsansässige gezahlten Dividenden ein System zur Vermeidung der wirtschaftlichen Doppelbesteuerung anwendet, für von gebietsfremden Gesellschaften an Gebietsansässige gezahlte Dividenden eine gleichwertige Behandlung vorsehen (Urteil vom 12. Dezember 2006, Test Claimants in the FII Group Litigation, C‑446/04, EU:C:2006:774, Rn. 72, vom 10. Februar 2011, Haribo Lakritzen Hans Riegel und Österreichische Salinen, C‑436/08 und C‑437/08, EU:C:2011:61, Rn. 60, und Test Claimants in the FII Group Litigation, C‑35/11, EU:C:2012:707, Rn. 38), es sei denn, die Ungleichbehandlung ist durch zwingende Gründe des Allgemeininteresses gerechtfertigt (Urteile vom 15. September 2011, Accor, C‑310/09, EU:C:2011:581, Rn. 44, und vom 11. September 2014, Kronos International, C‑47/12, EU:C:2014:2200, Rn. 69).
+
+38
+
+Das Vorbringen der Französischen Republik, der Begriff der „Enkelgesellschaft“ sei dem französischen System der Vermeidung der Doppelbesteuerung fremd, ist in Anbetracht des Ziels der Regelung und des zu dessen Verwirklichung gewählten Mechanismus nicht stichhaltig.
+
+39
+
+Auch wenn die Erteilung der Steuergutschrift nur für das zweiseitige Verhältnis zwischen Mutter- und Tochtergesellschaft vorgesehen ist, wird durch die Steuerregelung, um die es hier geht, auch bei den von den gebietsansässigen Enkelgesellschaften ausgeschütteten Gewinnen die wirtschaftliche Doppelbesteuerung vermieden, weil der Steuervorteil sukzessive auf allen Stufen der Beteiligungskette der in Frankreich ansässigen Gesellschaften gewährt wird.
+
+40
+
+Die Französische Republik macht geltend, die Nachteile, die durch die parallele Ausübung der Steuerzuständigkeiten der verschiedenen Mitgliedstaaten entstehen könnten, stellten, sofern die Steuerzuständigkeiten nicht diskriminierend ausgeübt würden, keine Beschränkung der Verkehrsfreiheiten dar.
+
+41
+
+Die Eigenschaft als Sitzmitgliedstaat der die Dividenden beziehenden Gesellschaft kann für diesen Mitgliedstaat zwar nicht die Pflicht mit sich bringen, einen Steuernachteil auszugleichen, der sich aus einer Mehrfachbelastung ergibt, die zur Gänze durch den Mitgliedstaat bewirkt wird, in dessen Hoheitsgebiet die diese Dividenden ausschüttende Gesellschaft niedergelassen ist, sofern der zuerst genannte Mitgliedstaat die erhaltenen Dividenden bei den in seinem Hoheitsgebiet niedergelassenen Gesellschaften weder besteuert noch auf andere Art und Weise berücksichtigt (vgl. in diesem Sinne Urteil vom 11. September 2014, Kronos International, C‑47/12, EU:C:2014:2200, Rn. 84).
+
+42
+
+Wie bereits ausgeführt (siehe oben, Rn. 39), ergibt sich der Steuernachteil, um den es hier geht, aber aus der französischen Steuerregelung. Mit dem Steuervorabzug wird die Weiterausschüttung bereits besteuerter Gewinne besteuert, gleichzeitig aber die Möglichkeit eröffnet, die wirtschaftliche Doppelbesteuerung zu beseitigen, wenn die weiterausgeschütteten Gewinne bereits auf der Ebene einer gebietsansässigen Enkelgesellschaft besteuert worden sind. Die Weiterausschüttung von ursprünglich von einer gebietsfremden Enkelgesellschaft stammenden Gewinnen wird aber auch dann besteuert, wenn die Gewinne bereits im Sitzmitgliedstaat der Enkelgesellschaft besteuert worden sind, ohne dass diese Besteuerung zur Vermeidung der wirtschaftlichen Doppelbesteuerung, wie sie sich aus der französischen Steuerregelung ergibt, berücksichtigt werden kann.
+
+43
+
+Zur Abstellung der festgestellten Diskriminierung bei der Anwendung des Steuermechanismus zur Vermeidung der wirtschaftlichen Doppelbesteuerung der ausgeschütteten Dividenden war die Französischen Republik daher verpflichtet, im Rahmen ihrer eigenen Befugnis zur Besteuerung die vorherige Besteuerung der ausgeschütteten Dividenden durch den seine Befugnisse zur Besteuerung ausübenden Herkunftsmitgliedstaat der Dividenden zu berücksichtigen (vgl. in diesem Sinne Urteil vom 11. September 2014, Kronos International, C‑47/12, EU:C:2014:2200, Rn. 86), und zwar unabhängig davon, auf welcher Stufe der Beteiligungskette – Tochter- oder Enkelgesellschaft – die Besteuerung erfolgt ist.
+
+44
+
+Aus Rn. 82 des Urteils des Gerichtshofs vom 13. November 2012, Test Claimants in the FII Group Litigation (C‑35/11, EU:C:2012:707), in Verbindung mit dem Tenor des Urteils vom 12. Dezember 2006, Test Claimants in the FII Group Litigation (C‑446/04, EU:C:2006:774), ergibt sich nämlich, dass ein Mitgliedstaat, der es einer gebietsansässigen Gesellschaft, die von einer anderen gebietsansässigen Gesellschaft Dividenden erhält, ermöglicht, von der geschuldeten Körperschaftsteuer die von der anderen Gesellschaft entrichtete Körperschaftsteuer abzuziehen, verpflichtet ist, dies hinsichtlich der auf die ausgeschütteten Gewinne entfallenden Steuern auch einer gebietsansässigen Gesellschaft zuzugestehen, die Dividenden von einer gebietsfremden Gesellschaft erhält, und zwar unabhängig davon, ob die Steuern von einer unmittelbaren oder mittelbaren Tochtergesellschaft entrichtet worden sind.
+
+45
+
+Daran ändert auch der Umstand nichts, dass zwischen dem französischen Mechanismus der Steuergutschrift, um den es hier geht, und dem Mechanismus des Vereinigten Königreichs, um den es in den Rechtssachen ging, in denen die Urteile vom 12. Dezember 2006, Test Claimants in the FII Group Litigation (C‑446/04, EU:C:2006:774), und vom 13. November 2012, Test Claimants in the FII Group Litigation (C‑35/11, EU:C:2012:707), ergangen sind, ein Unterschied besteht. Dieser besteht nämlich nur hinsichtlich der steuerlichen Technik, die herangezogen wird, um dasselbe Ziel der Vermeidung der wirtschaftlichen Doppelbesteuerung der ausgeschütteten Gewinne zu erreichen. Jeder Mitgliedstaat kann sein System zur Vermeidung der wirtschaftlichen Doppelbesteuerung ausgeschütteter Gewinne aber frei gestalten, solange das in Rede stehende System keine durch den AEU-Vertrag verbotenen Diskriminierungen enthält (vgl. in diesem Sinne Urteil vom 13. November 2012, Test Claimants in the FII Group Litigation, C‑35/11, EU:C:2012:707, Rn. 40).
+
+46
+
+Somit ist festzustellen, dass die Französische Republik dadurch, dass sie es abgelehnt hat, bei der Berechnung der Erstattung des Steuervorabzugs, den eine gebietsansässige Muttergesellschaft auf die Weiterausschüttung von Dividenden gezahlt hat, die von einer gebietsfremden Enkelgesellschaft über eine gebietsfremde Tochtergesellschaft ausgeschüttet worden sind, die Besteuerung der entsprechenden Gewinne auf der Ebene der gebietsfremden Enkelgesellschaft in deren Sitzmitgliedstaat zu berücksichtigen, obwohl die Besteuerung ausgeschütteter Dividenden nach dem nationalen System der Vermeidung der wirtschaftlichen Doppelbesteuerung bei einer rein innerstaatlichen Beteiligungskette auf jeder Stufe der Beteiligungskette neutralisiert werden kann, gegen ihre Verpflichtungen aus den Art. 49 und 63 AEUV verstoßen hat.
+
+Zur zweiten Rüge: Unverhältnismäßigkeit der Anforderungen an die Belege für den Anspruch auf Erstattung des zu Unrecht erhobenen Steuervorabzugs
+
+Vorbringen der Parteien
+
+47
+
+Die zweite Rüge besteht aus drei Teilen.
+
+48
+
+Mit dem ersten Teil der zweiten Rüge macht die Kommission geltend, dass der Nachweis der Zugehörigkeit der ausgeschütteten Dividenden zu einem bestimmten Jahresgewinn durch das Erfordernis, dass neben den Buchhaltungsunterlagen zu den ausgeschütteten Dividenden die Hauptversammlungsprotokolle der Tochtergesellschaften mit den entsprechenden Gewinnausschüttungsbeschlüssen vorzulegen seien, überaus erschwert werde, da Gegenstand der Hauptversammlungsprotokolle oft ein Bilanzgewinn sei, in dessen Berechnung Gewinnvorträge aus früheren Jahren eingingen.
+
+49
+
+Mit dem zweiten Teil der zweiten Rüge macht die Kommission geltend, das Recht auf Erstattung des Steuervorabzugs werde durch die Urteile des Conseil d’État, die verlangten, dass eine vorherige Steuererklärung über den Steuervorabzug vorgelegt werde, in der die auf die Weiterausschüttung der Dividenden gezahlten Steuervorabzugsbeträge angegeben seien, praktisch ausgehöhlt. Das gelte insbesondere für die Gesellschaften, die vor der Verkündung des Urteils vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), für Dividenden von gebietsfremden Gesellschaften keine Steuergutschrift beantragt hätten.
+
+50
+
+Nach der französischen Regelung hätten gebietsansässige Gesellschaften keinen Anspruch auf eine Steuergutschrift für den auf die Weiterausschüttung von Dividenden von gebietsfremden Tochtergesellschaften entfallenden Steuervorabzug gehabt. Deshalb könne von ihnen nicht verlangt werden, dass sie diese Dividenden in ihrer Steuererklärung über den Steuervorabzug angäben.
+
+51
+
+Mit dem dritten Teil der zweiten Rüge macht die Kommission geltend, mit den Urteilen des Conseil d’État, in denen festgestellt werde, dass der Ablauf der gesetzlichen Frist zur Aufbewahrung von Unterlagen die Gesellschaft, die die Erstattung des zu Unrecht erhobenen Steuervorabzugs beantrage, nicht von ihrer Verpflichtung enthebe, ihre Angaben zu belegen, sei der Nachweis der Besteuerung der ausgeschütteten Dividenden auf der Ebene der gebietsfremden Gesellschaft überaus erschwert, wenn nicht unmöglich gemacht worden.
+
+52
+
+Die Französische Republik erwidert, im Urteil vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), sei ausdrücklich klargestellt worden, dass die Erstattung des Steuervorabzugs voraussetze, dass die Antragsteller die Steuern, die ihre Tochtergesellschaften in ihren Sitzmitgliedstaaten entrichtet hätten, nachwiesen, wobei sie sich aller Beweismittel bedienen dürften.
+
+53
+
+Der Conseil d’État habe sich in seinen Urteilen besonders großzügig gezeigt. Er habe als Beleg für den Steuersatz, dem die gebietsfremden Tochtergesellschaften unterlegen hätten, jede Art von Dokument gelten lassen.
+
+54
+
+Erstens habe der Conseil d’État in seinen Urteilen nicht den Nachweis verlangt, dass sich die anzurechnende Besteuerung auf Dividenden eines bestimmten Steuerjahrs beziehe. Es sei die insgesamt für die Dividenden entrichtete Steuer berücksichtigt worden, ohne Rücksicht auf die Steuerjahre, aus denen sie stammten.
+
+55
+
+Der Conseil d’État habe in den Rechtssachen, in denen seine Urteile ergangen seien, deshalb die Hauptversammlungsprotokolle der gebietsfremden Tochtergesellschaften herangezogen, weil diese ihm von den betreffenden Gesellschaften zum Nachweis der Höhe der Besteuerung der ausgeschütteten Dividenden vorgelegt worden seien.
+
+56
+
+Zweitens lasse sich anhand des Formulars der Steuererklärung über den Steuervorabzug ermitteln, welcher Steuervorabzug für die Weiterausschüttung von Dividenden gebietsfremder Tochtergesellschaften gezahlt worden sei. Da der Steuervorabzug nur bei Weiterausschüttung anfalle, werde der Nachweis der Höhe der Besteuerung zwangsläufig bei weiterausgeschütteten Dividenden verlangt.
+
+57
+
+Drittens habe der Conseil d’État in seinen Urteilen nicht die Vorlage von Belegen verlangt, für die die gesetzliche Aufbewahrungsfrist abgelaufen sei. Er habe die Dokumente verwertet, die ihm von den betreffenden Gesellschaften vorgelegt worden seien. Jedenfalls obliege es einem Steuerpflichtigen, der einen Antrag auf Erstattung von Steuer gestellt habe, die erforderlichen Belege bis zum Abschluss des Verwaltungs- oder gar Gerichtsverfahrens aufzubewahren. Dies gelte unabhängig von der gesetzlichen Aufbewahrungsfrist.
+
+Würdigung durch den Gerichtshof
+
+– Vorbemerkungen
+
+58
+
+Die Steuerbehörden eines Mitgliedstaats sind befugt, vom Steuerpflichtigen alle Belege zu verlangen, die ihnen für die Beurteilung der Frage notwendig erscheinen, ob die Voraussetzungen für einen von der betreffenden Steuerregelung vorgesehenen Steuervorteil erfüllt sind und dieser dementsprechend gewährt werden kann (vgl. in diesem Sinne Urteile vom 3. Oktober 2002, Danner, C‑136/00, EU:C:2002:558, Rn. 50, vom 26. Juni 2003, Skandia und Ramstedt, C‑422/01, EU:C:2003:380, Rn. 43, vom 27. Januar 2009, Persche, C‑318/07, EU:C:2009:33, Rn. 54, vom 10. Februar 2011, Haribo Lakritzen Hans Riegel und Österreichische Salinen, C‑436/08 und C‑437/08, EU:C:2011:61, Rn. 95, vom 30. Juni 2011, Meilicke u. a., C‑262/09, EU:C:2011:438, Rn. 45, und vom 15. September 2011, Accor, C‑310/09, EU:C:2011:581, Rn. 82).
+
+59
+
+Um in der Praxis die Unvereinbarkeit der französischen Regelung mit den Art. 49 und 63 AEUV, wie der Gerichtshof sie in seinem Urteil vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), ausgelegt hat, abzustellen, muss ein Mitgliedstaat, wie der Gerichtshof in diesem Urteil festgestellt hat, den im Staat der Niederlassung der ausschüttenden Gesellschaft gezahlten Körperschaftsteuerbetrag ermitteln können, auf den sich die der Empfängermuttergesellschaft erteilte Steuergutschrift bezieht. Der Gerichtshof hat insoweit klargestellt, dass es nicht genügt, nachzuweisen, dass die ausschüttende Gesellschaft in ihrem Sitzmitgliedstaat für die den ausgeschütteten Dividenden zugrunde liegenden Gewinne besteuert wurde, ohne Angaben über die Steuerart und den Steuersatz der Steuer zu machen, die tatsächlich auf diese Gewinne erhoben wurde (Urteil vom 15. September 2011, Accor, C‑310/09, EU:C:2011:581, Rn. 92).
+
+– Zum ersten Teil der zweiten Rüge
+
+60
+
+Die Kommission macht in der Klageschrift geltend, die Französische Republik habe dadurch, dass sie neben den Buchhaltungsunterlagen zu den ausgeschütteten Dividenden die Hauptversammlungsprotokolle mit den entsprechenden Ausschüttungsbeschlüssen verlangt habe, unverhältnismäßig hohe Anforderungen an den Nachweis gestellt. Sie bezieht sich insoweit auf die Rn. 43 und 56 des Urteils des Conseil d’État vom 10. Dezember 2012, Accor (FR:CESSR:2012:317075.20121210), in denen es um die erstattungsfähigen Beträge der Jahre 1999 bis 2001 geht.
+
+61
+
+Die Kommission bestreitet also nicht, dass eine Muttergesellschaft, die die Erstattung eines zu Unrecht erhobenen Steuervorabzugs begehrt, bei jeder Dividende belegen muss, welcher Steuersatz auf die von den gebietsfremden Tochtergesellschaften erzielten Gewinne tatsächlich angewandt und welche Steuer auf diese Gewinne tatsächlich entrichtet worden ist.
+
+62
+
+Dem Urteil des Conseil d’État vom 10. Dezember 2012, Accor (FR:CESSR:2012:317075.20121210), lässt sich aber nicht entnehmen, dass der Conseil d’État die Absicht gehabt hätte, als Beweis für die Tatsache, dass die erstattet verlangten Beträge tatsächlich ausgeschütteten Dividenden entsprechen, lediglich Hauptversammlungsprotokolle der Tochtergesellschaften, aus denen die entsprechende Ausschüttung hervorgeht, gelten zu lassen.
+
+63
+
+In dem Urteil ist zwar von solchen Dokumenten die Rede. Es ist aber nicht ersichtlich, dass der Anspruch auf Erstattung des zu Unrecht erhobenen Steuervorabzugs zwingend voraussetzte, dass derartige Dokumente vorgelegt werden.
+
+64
+
+Die Kommission muss im Rahmen eines Vertragsverletzungsverfahrens nach Art. 258 AEUV aber das Vorliegen der behaupteten Vertragsverletzung nachweisen, indem sie dem Gerichtshof alle für die Prüfung der Vertragsverletzung erforderlichen Anhaltspunkte liefert (Urteil vom 28. Januar 2016, Kommission/Portugal, C‑398/14, EU:C:2016:61, Rn. 47).
+
+65
+
+Somit ist festzustellen, dass die Kommission den ihr obliegenden Nachweis nicht erbracht hat. Sie kann deshalb mit dem ersten Teil der zweiten Rüge nicht durchdringen.
+
+– Zum zweiten Teil der zweiten Rüge
+
+66
+
+Die Kommission meint, das französische Recht, wie es in den Urteilen des Conseil d’État angewandt worden sei, insbesondere die Beschränkung durch das Erfordernis der Vorlage der Steuererklärung über den Steuervorabzug und die Verbindlichkeit der Angaben, die eine Muttergesellschaft bei der Abgabe dieser Erklärung hinsichtlich der Anrechnung des Steuervorabzuges mache, verstoße gegen die Grundsätze der Äquivalenz und der Effektivität.
+
+67
+
+Zur Abstellung der Unvereinbarkeit der französischen Regelung mit den Art. 49 und 63 AEUV, wie sie der Gerichtshof in seinem Urteil vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), ausgelegt hat, war die Französische Republik verpflichtet, den von gebietsansässigen Gesellschaften auf die Weiterausschüttung von Dividenden gebietsfremder Tochtergesellschaften gezahlten Steuervorabzug zu erstatten und dabei die Besteuerung der entsprechenden Gewinne im Sitzmitgliedstaat der Tochtergesellschaft bis zur Grenze des in Frankreich geltenden Steuersatzes zu berücksichtigen.
+
+68
+
+Da ein Antrag auf Erstattung eines Steuervorabzugs zwingend voraussetzt, dass zuvor ein Steuervorabzug gezahlt worden ist, und dieser bei der Ausschüttung von Dividenden anfällt, ist ein solcher Antrag, wenn kein Steuervorabzug gezahlt worden ist, nicht zulässig.
+
+69
+
+Die Steuererklärung über den Steuervorabzug betrifft daher die Ausschüttung sämtlicher Dividenden, unabhängig von ihrem Ursprung, so dass sich ermitteln lässt, welche Steuervorabzugsbeträge auf die Ausschüttung von Dividenden gebietsfremder Tochtergesellschaften gezahlt worden sind.
+
+70
+
+Die Französische Republik hat nachgewiesen, dass Ausschüttungen von Dividenden ausländischer Tochtergesellschaften in den Formularen für die Steuererklärung über den Steuervorabzug anzugeben sind, was die Kommission im Stadium der Erwiderung nicht mehr bestritten hat.
+
+71
+
+Deshalb kann nicht angenommen werden, dass die Verbindlichkeit der Angaben einer Muttergesellschaft hinsichtlich der Anrechnung des Steuervorabzugs bei der entsprechenden Erklärung gegen die Grundsätze der Äquivalenz und der Effektivität verstieße.
+
+72
+
+Wie bereits ausgeführt (siehe oben, Rn. 64), hat die Kommission die behauptete Vertragsverletzung nachzuweisen. Der zweite Teil der zweiten Rüge ist daher als unbegründet zurückzuweisen.
+
+– Zum dritten Teil der zweiten Rüge
+
+73
+
+Die Kommission meint, der Nachweis der Besteuerung der ausgeschütteten Dividenden auf der Ebene der gebietsfremden Tochtergesellschaft werde durch die Urteile des Conseil d’État insoweit überaus erschwert, wenn nicht gar unmöglich gemacht, als die Muttergesellschaft, die die Erstattung des Steuervorabzugs beantrage, bei Belegen für die Besteuerung, für die die gesetzliche Aufbewahrungsfrist gemäß den innerstaatlichen Rechtsvorschriften eines anderen Mitgliedstaats abgelaufen sei, nicht von der Verpflichtung zur Vorlage befreit sei.
+
+74
+
+Zur Beachtung des Grundsatzes der Effektivität ist festzustellen, dass die erforderlichen Nachweise den Steuerbehörden des Besteuerungsmitgliedstaats erlauben müssen, klar und genau zu überprüfen, ob die Voraussetzungen für die Inanspruchnahme eines Steuervorteils vorliegen (vgl. in diesem Sinne Urteil vom 15. September 2011, Accor, C‑310/09, EU:C:2011:581, Rn. 99).
+
+75
+
+Angaben über den tatsächlich angewandten Steuersatz und über die Steuer, die auf die von den in anderen Mitgliedstaaten ansässigen Tochtergesellschaften erzielten Gewinne tatsächlich entrichtet wurde, können nur verlangt werden, sofern es nicht praktisch unmöglich oder zu schwierig ist, die Zahlung der Steuer durch die in den anderen Mitgliedstaaten ansässigen Tochtergesellschaften nachzuweisen, insbesondere unter Berücksichtigung der Rechtsvorschriften dieser Mitgliedstaaten, die die Vermeidung der Doppelbesteuerung und die Eintragung der zu zahlenden Körperschaftsteuer sowie die Aufbewahrung von Geschäftsunterlagen betreffen (vgl. in diesem Sinne Urteil vom 15. September 2011, Accor, C‑310/09, EU:C:2011:581, Rn. 100).
+
+76
+
+Die Angaben müssen innerhalb der gesetzlichen Aufbewahrungsfrist für Verwaltungs- oder Buchführungsunterlagen, wie sie im Recht des Mitgliedstaats der Niederlassung der Tochtergesellschaft geregelt ist, angefordert werden. Unterlagen, die sich auf einen Zeitraum beziehen, der die Dauer der gesetzlichen Verpflichtung zur Aufbewahrung von Geschäftsunterlagen erheblich überschreitet, können deshalb nicht angefordert werden (vgl. in diesem Sinne Urteil vom 15. September 2011, Accor, C‑310/09, EU:C:2011:581, Rn. 101).
+
+77
+
+Nach dem Urteil vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), können die Steuerbehörden eines Mitgliedstaats demnach nicht verlangen, dass zur Stützung eines Antrags auf Erstattung Geschäftsunterlagen vorgelegt werden, für die im Herkunftsmitgliedstaat die gesetzliche Aufbewahrungsfrist bereits seit einiger Zeit abgelaufen ist.
+
+78
+
+Nach Rn. 35 des Urteils des Conseil d’État vom 10. Dezember 2012, Rhodia (FR:CESSR:2012:317074.20121210), und Rn. 31 des Urteils des Conseil d’État vom 10. Dezember 2012, Accor (FR:CESSR:2012:317075.20121210), obliegt es einer Gesellschaft, die einen Antrag auf Erstattung gestellt hat, während der gesamten Dauer des Verfahrens sämtliche Belege bereitzuhalten, ohne dass sie die gesetzliche Aufbewahrungsfrist von dieser Verpflichtung enthebt.
+
+79
+
+Wie der Generalanwalt in Nr. 64 seiner Schlussanträge ausgeführt hat, ist maßgeblicher Zeitpunkt für die Beurteilung der Frage, ob dadurch gegen den Grundsatz der Effektivität verstoßen worden ist, dass die Steuerbehörden eines Mitgliedstaats als Beleg für bestimmte Tatsachen die Vorlage eines Dokuments verlangt haben, die Einleitung des Vorverfahrens.
+
+80
+
+Solange sie sich nicht auf einen Zeitraum erstreckt, der die gesetzliche Frist zur Aufbewahrung von Geschäftsunterlagen erheblich überschreitet, verstößt die Verpflichtung, im Rahmen eines Erstattungsverfahrens Belege für den Anspruch auf Erstattung vorzulegen, daher nicht gegen den Grundsatz der Effektivität.
+
+81
+
+Die in den Urteilen des Conseil d’État enthaltene Feststellung, dass der Ablauf der gesetzlichen Frist zur Aufbewahrung von Unterlagen die Verpflichtung einer Gesellschaft, „während des gesamten Verfahrens“, insbesondere während des Gerichtsverfahrens, alle Belege für ihren Antrag bereitzuhalten, nicht berühre, lässt aber keinen Verstoß gegen diesen Grundsatz erkennen. Eine Gesellschaft kann nicht mit Erfolg geltend machen, dass der Ablauf der Aufbewahrungsfrist automatisch einen Anspruch auf Erstattung des gezahlten Steuervorabzugs begründete.
+
+82
+
+Den gerügten Verstoß gegen den Grundsatz der Äquivalenz hat die Kommission nicht dargetan.
+
+83
+
+Der dritte Teil der zweiten Rüge ist daher zurückzuweisen, und damit die zweite Rüge insgesamt.
+
+Zur dritten Rüge: Begrenzung der Erstattung eines zu Unrecht erhobenen Steuervorabzugs auf ein Drittel des Betrags der ausgeschütteten Dividenden
+
+Vorbringen der Parteien
+
+84
+
+Die Kommission macht geltend, durch die Urteile des Conseil d’État werde die Erstattung des Steuervorabzugs, den eine Muttergesellschaft auf die Ausschüttung von Dividenden einer gebietsfremden Tochtergesellschaft gezahlt habe, auf ein Drittel des Betrags der ausgeschütteten Dividenden begrenzt.
+
+85
+
+Für von einer gebietsansässigen Tochtergesellschaft ausgeschüttete Dividenden betrage die Steuergutschrift aber stets die Hälfte der Dividenden. Deshalb sei die Diskriminierung von Dividenden gebietsfremder Gesellschaften gegenüber denen gebietsansässiger, die der Gerichtshof in seinem Urteil vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), festgestellt habe, durch die Urteile des Conseil d’État nicht beseitigt worden.
+
+86
+
+Die Französische Republik macht geltend, die Begrenzung der Erstattung des Steuervorabzugs auf ein Drittel der erhaltenen Dividenden entspreche dem Betrag des tatsächlich gezahlten Steuervorabzugs. Dadurch sei die Gleichbehandlung von Dividenden gebietsansässiger und ‑fremder Tochtergesellschaften in vollem Umfang gewährleistet.
+
+87
+
+Eine solche Begrenzung der Erstattung des Steuervorabzugs ermögliche es, die Besteuerung der ausgeschütteten Dividenden durch den Sitzmitgliedstaat der Tochtergesellschaft in gleichem Maße zu berücksichtigen wie die Besteuerung der von einer gebietsansässigen Tochtergesellschaft ausgeschütteten Dividenden.
+
+88
+
+Die Begrenzung könne in der Praxis zwar dazu führen, dass der erstattete Steuervorabzug niedriger ausfalle als die Steuern, die die Tochtergesellschaft, die die Dividenden ausgeschüttet habe, in ihrem Sitzmitgliedstaat tatsächlich entrichtet habe. Der erstattete Betrag entspreche aber exakt dem Steuervorabzug, den die gebietsansässige Gesellschaft gezahlt habe. Auf diese Weise werde eine günstigere Behandlung von Dividenden aus dem Ausland gegenüber Dividenden, die von einer gebietsansässigen Gesellschaft ausgeschüttet würden, vermieden.
+
+Würdigung durch den Gerichtshof
+
+89
+
+Der Gerichtshof hat in Rn. 87 des Urteils vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), entschieden, dass aus der Rechtsprechung zwar folgt, dass nach dem Unionsrecht ein Mitgliedstaat, der bei von gebietsansässigen Gesellschaften an ebenfalls Gebietsansässige gezahlten Dividenden ein System der Vermeidung der wirtschaftlichen Doppelbesteuerung anwendet, für von gebietsfremden Gesellschaften an Gebietsansässige gezahlte Dividenden eine gleichwertige Behandlung vorsehen muss, dass jedoch das Unionsrecht den Mitgliedstaaten nicht die Verpflichtung auferlegt, die Steuerpflichtigen, die in ausländische Gesellschaften investiert haben, gegenüber den Steuerpflichtigen zu begünstigen, die in inländische Gesellschaften investiert haben.
+
+90
+
+Im vorliegenden Fall ist die Erstattung des Steuervorabzugs, den die Muttergesellschaft auf die Weiterausschüttung von Dividenden einer gebietsfremden Tochtergesellschaft gezahlt hat, nach den Urteilen des Conseil d’État auf ein Drittel des Betrags der erhaltenen Dividenden begrenzt.
+
+91
+
+Die Kommission meint, die Steuergutschrift, die eine Gesellschaft erhalte, die Dividenden einer gebietsansässigen Tochtergesellschaft ausschütte, betrage stets die Hälfte des Betrags der erhaltenen Dividenden. Die bei der Ausschüttung von Dividenden einer gebietsfremden Tochtergesellschaft geltende Begrenzung der Erstattung des gezahlten Steuervorabzugs auf ein Drittel des Betrags der Dividenden stelle daher eine Diskriminierung dar.
+
+92
+
+Dem kann nicht gefolgt werden.
+
+93
+
+Wie der Generalanwalt in Nr. 74 seiner Schlussanträge ausgeführt hat, kann mit der Anwendung der Bestimmungen des CGI, die während der Steuerjahre, um die es hier geht, galten und die Gegenstand der Urteile des Conseil d’État waren, letztlich eine steuerliche Gleichbehandlung der von einer Muttergesellschaft an ihre Aktionäre weiterausgeschütteten Dividenden erreicht werden, unabhängig davon, ob die Tochtergesellschaft, die die Gewinne ursprünglich erzielt hat, gebietsansässig oder -fremd ist.
+
+94
+
+Nach dem Wortlaut von Art. 223 sexies Abs. 1 Unterabs. 1 CGI entspricht der von der Muttergesellschaft auf die Weiterausschüttung der Dividenden an ihre Aktionäre zu zahlende Steuervorabzug der gemäß Art. 158 bis CGI ermittelten Steuergutschrift (Hälfte der Dividenden, die die Muttergesellschaft erhalten hat). Mit der Steuergutschrift kann auf der Ebene der Muttergesellschaft also die Verpflichtung zur Zahlung des Steuervorabzugs ausgeglichen und die wirtschaftliche Doppelbesteuerung der ausgeschütteten Gewinne vermieden werden.
+
+95
+
+Bei von einer Tochtergesellschaft ausgeschütteten Dividenden, für die keine Steuergutschrift besteht, was bei einer gebietsfremden Tochtergesellschaft der Fall ist, beträgt der von der Muttergesellschaft zu zahlende Steuervorabzug ein Drittel der ausgeschütteten Dividenden, wie die Französische Republik in der Klagebeantwortung erläutert hat, ohne dass ihr die Kommission insoweit widersprochen hätte. Mit der Beschränkung der Erstattung des Steuervorabzugs an die Muttergesellschaft auf ein Drittel der ausgeschütteten Dividenden kann die wirtschaftliche Doppelbesteuerung der ausgeschütteten Gewinne also im Ergebnis auch in diesem Fall vermieden werden.
+
+96
+
+Demnach kann mit der Begrenzung der Erstattung die Ungleichbehandlung von Dividenden gebietsfremder und ‑ansässiger Tochtergesellschaften, wie sie der Gerichtshof in seinem Urteil vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), festgestellt hat, beseitigt werden. Nach den in diesem Urteil – insbesondere in Rn. 88 – aufgestellten Grundsätzen kann ein Mitgliedstaat nicht verpflichtet sein, für die Besteuerung der ausgeschütteten Gewinne in einem anderen Mitgliedstaat eine Steuergutschrift zu gewähren, die die Besteuerung nach den eigenen Steuervorschriften übersteigt.
+
+97
+
+Die Kommission macht in der Erwiderung ferner geltend, dass, wenn der Muttergesellschaft der zu Unrecht gezahlte Steuervorabzug erstattet werde und sie diesen an ihre Aktionäre weiterleite, bei diesen gegenüber einer rein innerstaatlichen Situation ein „entgangener Gewinn“ zu verzeichnen sein könne.
+
+98
+
+Insoweit kann es mit dem Hinweis sein Bewenden haben, dass die Fälle, in denen die Urteile des Conseil d’État ergangen sind, nicht die Situation der Aktionäre der ausschüttenden Gesellschaften betrafen. Die Klage der betreffenden Muttergesellschaften war auf die Erstattung des von ihnen gezahlten Steuervorabzugs gerichtet.
+
+99
+
+Folglich ist die dritte Rüge zurückzuweisen.
+
+Zur vierten Rüge: Verstoß gegen Art. 267 Abs. 3 AEUV
+
+Vorbringen der Parteien
+
+100
+
+Die Kommission meint, der Conseil d’État hätte vor der Festlegung der Modalitäten der Erstattung des Steuervorabzugs, dessen Erhebung nach dem Urteil vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), nicht mit den Art. 49 und 63 AEUV vereinbar sei, den Gerichtshof um Vorabentscheidung ersuchen müssen.
+
+101
+
+Der Conseil d’État sei im Sinne von Art. 267 Abs. 3 AEUV ein Gericht, dessen Entscheidungen selbst nicht mehr mit Rechtsmitteln des innerstaatlichen Rechts angefochten werden könnten. Ein solches Gericht sei, wenn bei ihm ein Rechtsstreit anhängig sei, in dem sich eine Frage der Auslegung des Rechts der Union stelle, verpflichtet, den Gerichtshof um Vorabentscheidung zu ersuchen.
+
+102
+
+Es sei zumindest fraglich, ob die Beschränkungen, die sich aus den Urteilen des Conseil d’État ergäben, mit dem Unionsrecht vereinbar seien, insbesondere im Hinblick auf die durch das Urteil vom 13. November 2012, Test Claimants in the FII Group Litigation (C‑35/11, EU:C:2012:707), begründete Rechtsprechung. Allein schon der Umstand, dass die Kommission die in dem Urteil vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), aufgestellten Grundsätze anders auffasse als der Conseil d’État, zeige, dass für die Ergebnisse, zu denen der Conseil d’État in seinen Urteilen gelangt sei, nicht die Vermutung der Vereinbarkeit mit dem Unionsrecht sprechen könne.
+
+103
+
+Die Französische Republik macht geltend, die Kommission habe nicht erläutert, mit welchen Schwierigkeiten der Conseil d’État in den Rechtssachen, in denen die von ihr beanstandeten Urteile ergangen seien und die ein Vorabentscheidungsersuchen gemäß Art. 267 Abs. 3 AEUV gerechtfertigt haben sollen, konfrontiert gewesen wäre. Die einzigen Schwierigkeiten, mit denen der Conseil d’État konfrontiert gewesen sei, hätten den Sachverhalt betroffen, nicht die Auslegung des Unionsrechts.
+
+104
+
+Jedenfalls sei die Auffassung des Conseil d’État, dass sich die Antworten auf die ihm zur Beantwortung vorgelegten Fragen aus der Rechtsprechung ableiten ließen, nicht zu beanstanden.
+
+Würdigung durch den Gerichtshof
+
+105
+
+Die vierte Rüge beruht auf der Annahme, dass der Conseil d’État als Gericht, dessen Entscheidungen selbst nicht mehr mit Rechtsmitteln angefochten werden können, das Unionsrecht nicht hätte so auslegen dürfen, wie er es in seinen Urteilen vom 10. Dezember 2012, Rhodia (FR:CESSR:2012:317074.20121210), und vom 10. Dezember 2012, Accor (FR:CESSR:2012:317075.20121210), getan habe, ohne vorher den Gerichtshof um Vorabentscheidung zu ersuchen.
+
+106
+
+Die Verpflichtung der Mitgliedstaaten, die Vorschriften des AEU-Vertrags zu beachten, trifft alle Behörden der Mitgliedstaaten, im Rahmen ihrer Befugnisse auch die Gerichte.
+
+107
+
+Eine Vertragsverletzung eines Mitgliedstaats kann daher grundsätzlich gemäß Art. 258 AEUV unabhängig davon festgestellt werden, welches Staatsorgan durch sein Handeln oder Unterlassen den Verstoß verursacht hat, selbst wenn es sich um ein verfassungsmäßig unabhängiges Organ handelt (Urteile vom 9. Dezember 2003, Kommission/Italien, C‑129/00, EU:C:2003:656, Rn. 29, und vom 12. November 2009, Kommission/Spanien, C‑154/08, nicht veröffentlicht, EU:C:2009:695, Rn. 125).
+
+108
+
+Ein einzelstaatliches Gericht ist, soweit gegen seine Entscheidung kein Rechtsmittel gegeben ist, grundsätzlich verpflichtet, den Gerichtshof gemäß Art. 267 Abs. 3 AEUV anzurufen, wenn sich in einem bei ihm anhängigen Verfahren eine Frage nach der Auslegung des AEU-Vertrags stellt (Urteil vom 15. März 2017, Aquino, C‑3/16, EU:C:2017:209, Rn. 42).
+
+109
+
+Die in Art. 267 Abs. 3 AEUV vorgesehene Pflicht zur Vorlage soll insbesondere verhindern, dass sich in einem Mitgliedstaat eine nationale Rechtsprechung herausbildet, die mit den Normen des Unionsrechts nicht im Einklang steht (Urteil vom 15. März 2017, Aquino, C‑3/16, EU:C:2017:209, Rn. 33 und die dort angeführte Rechtsprechung).
+
+110
+
+Keine Vorlagepflicht besteht, wenn das Gericht feststellt, dass die gestellte Frage nicht entscheidungserheblich ist, dass die betreffende unionsrechtliche Bestimmung bereits Gegenstand einer Auslegung durch den Gerichtshof war oder dass die richtige Anwendung des Unionsrechts derart offenkundig ist, dass für einen vernünftigen Zweifel keinerlei Raum bleibt; ob ein solcher Fall gegeben ist, ist unter Berücksichtigung der Eigenheiten des Unionsrechts, der besonderen Schwierigkeiten seiner Auslegung und der Gefahr voneinander abweichender Gerichtsentscheidungen innerhalb der Union zu beurteilen (vgl. in diesem Sinne Urteile vom 6. Oktober 1982, Silfit u. a., 283/81, EU:C:1982:335, Rn. 21, vom 9. September 2015, Ferreira da Silva e Brito u. a., C‑160/14, EU:C:2015:565, Rn. 38 und 39, und vom 28. Juli 2016, Assoziation France Nature Environment, C‑379/15, EU:C:2016:603, Rn. 50).
+
+111
+
+Wie der Generalanwalt in Nr. 99 seiner Schlussanträge aufgezeigt hat, hat sich der Conseil d’État bei der Frage, die im Rahmen der ersten Rüge der vorliegenden Vertragsverletzungsklage geprüft worden ist und zu der das Urteil vom 15. September 2011, Accor (C‑310/09, EU:C:2011:581), keine Feststellungen enthält, dafür entschieden, vom Urteil vom 13. November 2012, Test Claimants in the FII Group Litigation (C‑35/11, EU:C:2012:707), abzuweichen, weil sich die Regelung des Vereinigten Königreichs, um die es in diesem Urteil ging, von der französischen Regelung der Steuergutschrift und des Steuervorabzugs unterscheide. Er konnte aber nicht sicher sein, dass der Gerichtshof ohne Weiteres zu demselben Schluss gelangen würde.
+
+112
+
+Wie sich aus den Rn. 29 bis 46 des vorliegenden Urteils (erste Rüge) ergibt, hat der Conseil d’État in den Urteilen vom 10. Dezember 2012, Rhodia (FR:CESSR:2012:317074.20121210), und vom 10. Dezember 2012, Accor (FR:CESSR:2012:317075.20121210), weil er in den Rechtssachen, in denen diese Urteile ergangen sind, kein Vorabentscheidungsersuchen eingereicht hat, einen Ansatz gewählt, der auf einer Auslegung der Art. 49 und 63 AEUV beruht, die in Widerspruch zu der steht, die im vorliegenden Urteil vorgenommen worden ist. Demnach konnte zum Zeitpunkt der Entscheidung des Conseil d’État ein vernünftiger Zweifel hinsichtlich der Auslegung dieser Vorschriften nicht ausgeschlossen werden.
+
+113
+
+Ohne dass auf das übrige Vorbringen der Kommission im Rahmen der vorliegenden Rüge eingegangen zu werden braucht, ist daher festzustellen, dass der Conseil d’État als Gericht, dessen Entscheidungen selbst nicht mehr mit Rechtsmitteln des innerstaatlichen Rechts angefochten werden können, gemäß Art. 267 Abs. 3 AEUV zur Anrufung des Gerichtshofs verpflichtet war, um die Gefahr einer fehlerhaften Auslegung des Unionsrechts auszuschließen (vgl. in diesem Sinne Urteil vom 9. September 2015, Ferreira da Silva e Brito u. a., C‑160/14, EU:C:2015:565, Rn. 44).
+
+114
+
+Da der Conseil d’État den Gerichtshof nicht gemäß Art. 267 Abs. 3 AEUV angerufen hat, um die Frage zu klären, ob bei der Berechnung der Erstattung des Steuervorabzugs, den eine gebietsansässige Gesellschaft auf die Weiterausschüttung von Dividenden gezahlt hat, die eine gebietsfremde Gesellschaft über eine gebietsfremde Tochtergesellschaft ausgeschüttet hat, die Berücksichtigung der Besteuerung der entsprechenden Gewinne auf der Ebene der Tochtergesellschaft abzulehnen ist, obwohl die Auslegung der Vorschriften des Unionsrechts, die der Conseil d’État in den Urteilen vom 10. Dezember 2012, Rhodia (FR:CESSR:2012:317074.20121210), und vom 10. Dezember 2012, Accor (FR:CESSR:2012:317075.20121210), vorgenommen hat, nicht derart offenkundig war, dass für einen vernünftigen Zweifel keinerlei Raum geblieben wäre, ist der vierten Rüge stattzugeben.
+
+Kosten
+
+115
+
+Nach Art. 138 Abs. 1 der Verfahrensordnung des Gerichtshofs ist die unterliegende Partei auf Antrag zur Tragung der Kosten zu verurteilen. Da die Kommission die Verurteilung der Französischen Republik beantragt hat, diese aber nur teilweise unterlegen ist, sind den Parteien jeweils ihre eigenen Kosten aufzuerlegen.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Fünfte Kammer) für Recht erkannt und entschieden:
+
+ 	
+1.
+
+Die Französische Republik hat dadurch, dass sie es abgelehnt hat, bei der Berechnung der Erstattung des Steuervorabzugs für ausgeschüttete Dividenden, den eine gebietsansässige Gesellschaft auf die Weiterausschüttung von Dividenden gezahlt hat, die von einer gebietsfremden Gesellschaft über eine gebietsfremde Tochtergesellschaft ausgeschüttet worden sind, die Besteuerung der entsprechenden Gewinne auf der Ebene dieser gebietsfremden Gesellschaft zu berücksichtigen, obwohl die Besteuerung ausgeschütteter Dividenden nach dem nationalen System der Vermeidung der wirtschaftlichen Doppelbesteuerung bei einer rein innerstaatlichen Beteiligungskette auf jeder Stufe der Beteiligungskette neutralisiert werden kann, gegen ihre Verpflichtungen aus den Art. 49 und 63 AEUV verstoßen.
+
+ 	
+2.
+
+Die Französische Republik hat dadurch, dass der Conseil d’État (Staatsrat, Frankreich) den Gerichtshof der Europäischen Union nicht gemäß Art. 267 Abs. 3 AEUV angerufen hat, um die Frage zu klären, ob bei der Berechnung der Erstattung des Steuervorabzugs für ausgeschüttete Dividenden, den eine gebietsansässige Gesellschaft auf die Weiterausschüttung von Dividenden gezahlt hat, die eine gebietsfremde Gesellschaft über eine gebietsfremde Tochtergesellschaft ausgeschüttet hat, die Berücksichtigung der Besteuerung der entsprechenden Gewinne auf der Ebene der Tochtergesellschaft abzulehnen ist, obwohl die Auslegung der Vorschriften des Unionsrechts, die der Conseil d’État in den Urteilen vom 10. Dezember 2012, Rhodia (FR:CESSR:2012:317074.20121210), und vom 10. Dezember 2012, Accor (FR:CESSR:2012:317075.20121210), vorgenommen hat, nicht derart offenkundig war, dass für einen vernünftigen Zweifel keinerlei Raum geblieben wäre, gegen ihre Verpflichtungen aus Art. 267 Abs. 3 AEUV verstoßen.
+
+ 	
+3.
+
+Im Übrigen wird die Klage abgewiesen.
+
+ 	
+4.
+
+Die Europäische Kommission und die Französische Republik tragen jeweils ihre eigenen Kosten.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Französisch.

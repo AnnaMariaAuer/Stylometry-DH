@@ -1,0 +1,450 @@
+URTEIL DES GERICHTSHOFS (Vierte Kammer)
+
+17. Mai 2017 ( *1 )
+
+„Vorlage zur Vorabentscheidung — Selbständige Handelsvertreter — Richtlinie 86/653/EWG — Provision des Handelsvertreters — Art. 11 — Teilweise Nichtausführung des Vertrags zwischen dem Dritten und dem Unternehmer — Auswirkungen auf den Provisionsanspruch — Begriff ‚Umstände, die vom Unternehmer zu vertreten sind‘“
+
+In der Rechtssache C‑48/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Okresný súd Dunajská Streda (Bezirksgericht Dunajská Streda, Slowakei) mit Entscheidung vom 23. November 2015, beim Gerichtshof eingegangen am 27. Januar 2016, in dem Verfahren
+
+ERGO Poist’ovňa a.s.
+
+gegen
+
+Alžbeta Barlíková
+
+erlässt
+
+DER GERICHTSHOF (Vierte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten T. von Danwitz sowie der Richter E. Juhász und C. Vajda, der Richterin K. Jürimäe (Berichterstatterin) und des Richters C. Lycourgos,
+
+Generalanwalt: M. Szpunar,
+
+Kanzler: A. Calot Escobar,
+
+aufgrund des schriftlichen Verfahrens,
+
+unter Berücksichtigung der Erklärungen
+
+—
+
+der slowakischen Regierung, vertreten durch B. Ricziová als Bevollmächtigte,
+
+—
+
+der deutschen Regierung, vertreten durch T. Henze und M. Hellmann als Bevollmächtigte,
+
+—
+
+der Europäischen Kommission, vertreten durch K.‑P. Wojcik, A. Tokár und L. Malferrari als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 12. Januar 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 11 der Richtlinie 86/653/EWG des Rates vom 18. Dezember 1986 zur Koordinierung der Rechtsvorschriften der Mitgliedstaaten betreffend die selbständigen Handelsvertreter (ABl. 1986, L 382, S. 17).
+
+2
+
+Es ergeht im Rahmen eines Rechtsstreits zwischen der ERGO Poist’ovňa a.s. (im Folgenden: ERGO) und Frau Alžbeta Barlíková wegen eines von ERGO gegen Frau Barlíková geltend gemachten Anspruchs auf Zahlung eines Betrags von 11421,42 Euro als Rückerstattung von Provisionen.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+3
+
+Die Erwägungsgründe 2 und 3 der Richtlinie 86/653 lauten:
+
+„Die Unterschiede zwischen den einzelstaatlichen Rechtsvorschriften auf dem Gebiet der Handelsvertretungen beeinflussen die Wettbewerbsbedingungen und die Berufsausübung innerhalb der [Europäischen Union] spürbar und beeinträchtigen den Umfang des Schutzes der Handelsvertreter in ihren Beziehungen zu ihren Unternehmen sowie die Sicherheit im Handelsverkehr. Diese Unterschiede erschweren im Übrigen auch erheblich den Abschluss und die Durchführung von Handelsvertreterverträgen zwischen einem Unternehmer und einem Handelsvertreter, die in verschiedenen Mitgliedstaaten niedergelassen sind.
+
+Der Warenaustausch zwischen den Mitgliedstaaten muss unter Bedingungen erfolgen, die denen eines Binnenmarktes entsprechen, weswegen die Rechtsordnungen der Mitgliedstaaten in dem zum guten Funktionieren des Gemeinsamen Marktes erforderlichen Umfang angeglichen werden müssen. Selbst vereinheitlichte Kollisionsnormen auf dem Gebiet der Handelsvertretung können die erwähnten Nachteile nicht beseitigen und lassen daher einen Verzicht auf die vorgeschlagene Harmonisierung nicht zu.“
+
+4
+
+Art. 1 Abs. 2 dieser Richtlinie bestimmt:
+
+„Handelsvertreter im Sinne dieser Richtlinie ist, wer als selbständiger Gewerbetreibender ständig damit betraut ist, für eine andere Person (im Folgenden Unternehmer genannt) den Verkauf oder den Ankauf von Waren zu vermitteln oder diese Geschäfte im Namen und für Rechnung des Unternehmers abzuschließen.“
+
+5
+
+Art. 3 Abs. 1 der Richtlinie sieht vor:
+
+„Bei der Ausübung seiner Tätigkeit hat der Handelsvertreter die Interessen des Unternehmers wahrzunehmen und sich nach den Geboten von Treu und Glauben zu verhalten.“
+
+6
+
+Art. 4 Abs. 1 der Richtlinie lautet:
+
+„Der Unternehmer hat sich gegenüber dem Handelsvertreter nach den Geboten von Treu und Glauben zu verhalten.“
+
+7
+
+Kapitel III („Vergütung“) der Richtlinie 86/653 enthält insbesondere die Bestimmungen, die anwendbar sind, wenn der Handelsvertreter als Vergütung eine Provision erhält. Gemäß Art. 6 Abs. 2 dieser Richtlinie gilt als Provision im Sinne der Richtlinie „[j]eder Teil der Vergütung, der je nach Zahl und Wert der Geschäfte schwankt“.
+
+8
+
+Art. 7 Abs. 1 der Richtlinie hat folgenden Wortlaut:
+
+„Für ein während des Vertragsverhältnisses abgeschlossenes Geschäft hat der Handelsvertreter Anspruch auf die Provision,
+
+a)
+
+wenn der Geschäftsabschluss auf seine Tätigkeit zurückzuführen ist oder
+
+b)
+
+wenn das Geschäft mit einem Dritten abgeschlossen wurde, den er bereits vorher für Geschäfte gleicher Art als Kunden geworben hatte.“
+
+9
+
+Art. 10 Abs. 1 der Richtlinie sieht vor:
+
+„Der Anspruch auf Provision besteht, sobald und soweit eines der folgenden Ereignisse eintritt:
+
+a)
+
+[D]er Unternehmer hat das Geschäft ausgeführt;
+
+b)
+
+der Unternehmer hätte nach dem Vertrag mit dem Dritten das Geschäft ausführen sollen;
+
+c)
+
+der Dritte hat das Geschäft ausgeführt.“
+
+10
+
+Art. 11 der Richtlinie 86/653 bestimmt:
+
+„(1)   Der Anspruch auf Provision erlischt nur, wenn und soweit
+
+—
+
+feststeht, dass der Vertrag zwischen dem Dritten und dem Unternehmer nicht ausgeführt wird, und
+
+—
+
+die Nichtausführung nicht auf Umständen beruht, die vom Unternehmer zu vertreten sind.
+
+(2)   Vom Handelsvertreter bereits empfangene Provisionen sind zurückzuzahlen, falls der Anspruch darauf erloschen ist.
+
+(3)   Vom Absatz 1 darf nicht durch Vereinbarungen zum Nachteil des Handelsvertreters abgewichen werden.“
+
+Slowakisches Recht
+
+Handelsgesetzbuch
+
+11
+
+Der den Vermittlungsvertrag betreffende § 642 des Obchodný zákonník (Handelsgesetzbuch) bestimmt:
+
+„Durch den Vermittlungsvertrag verpflichtet sich der Vermittler, darauf hinzuwirken, dass der Geschäftsherr die Gelegenheit zum Abschluss eines bestimmten Vertrags mit einem Dritten erhält, und der Geschäftsherr verpflichtet sich, dem Vermittler eine Vergütung (Provision) zu zahlen.“
+
+12
+
+Die Richtlinie 86/653 wurde durch die §§ 652 ff. des Handelsgesetzbuchs in das slowakische Recht umgesetzt. § 652 Abs. 1 dieses Gesetzbuchs sieht vor:
+
+„Durch den Handelsvertretervertrag verpflichtet sich der Handelsvertreter, als Gewerbetreibender für den Unternehmer eine auf den Abschluss von Verträgen bestimmten Typs (im Folgenden: Geschäfte) abzielende Tätigkeit auszuüben oder Geschäfte im Namen des Unternehmers und für dessen Rechnung auszuhandeln und abzuschließen, und der Unternehmer verpflichtet sich, dem Handelsvertreter eine Provision zu zahlen.“
+
+13
+
+§ 660 Abs. 1 und 2 dieses Gesetzbuchs lautet:
+
+„(1)   Der Anspruch auf die Provision … entsteht in dem Zeitpunkt, in dem
+
+a)
+
+der Unternehmer die sich aus dem Geschäft ergebenden Pflichten erfüllt hat oder
+
+b)
+
+der Unternehmer verpflichtet war, die sich aus dem Geschäft ergebenden Pflichten zu erfüllen, … oder
+
+c)
+
+der Dritte die sich aus dem Geschäft ergebenden Pflichten erfüllt hat.
+
+(2)   Der Anspruch auf Provision entsteht spätestens, wenn der Dritte seinen Teil des Geschäfts erfüllt hat oder verpflichtet war, ihn zu erfüllen, sofern der Unternehmer seinen Teil des Geschäfts erfüllt hat. Soll jedoch der Dritte seine Pflicht erst nach mehr als sechs Monaten nach dem Vertragsschluss erfüllen, entsteht der Anspruch des Handelsvertreters auf Provision nach dem Abschluss des Geschäfts.“
+
+14
+
+§ 662 Abs. 1 und 3 des Handelsgesetzbuchs bestimmt:
+
+„(1)   Der Anspruch auf Provision erlischt, wenn feststeht, dass das Geschäft zwischen dem Unternehmer und dem Dritten nicht ausgeführt wird und die Nichtausführung nicht auf Umständen beruht, die der Unternehmer zu vertreten hat, sofern sich aus dem Geschäft nicht etwas anderes ergibt.
+
+…
+
+(3)   Das Erlöschen des Anspruchs auf Provision gemäß Absatz 1 kann vertraglich nur zum Vorteil des Handelsvertreters abweichend geregelt werden.“
+
+Zivilgesetzbuch
+
+15
+
+§ 801 Abs. 1 und 2 des Občiansky zákonník (Zivilgesetzbuch) bestimmt:
+
+„(1)   Die Versicherung erlischt auch dadurch, dass die Prämie für den ersten Versicherungszeitraum oder die einmalige Prämie nicht innerhalb von drei Monaten nach ihrer Fälligkeit gezahlt worden ist.
+
+(2)   Die Versicherung erlischt auch dadurch, dass die Prämie für einen weiteren Versicherungszeitraum nicht innerhalb von einem Monat nach Zustellung der Zahlungsaufforderung des Versicherers gezahlt wird, sofern die Prämie nicht vor der Zustellung dieser Aufforderung gezahlt worden ist. …“
+
+Ausgangsrechtsstreit und Vorlagefragen
+
+16
+
+Am 13. März 2012 schlossen ERGO, eine im Versicherungssektor tätige Gesellschaft, und Frau Barlíková einen Vertrag, den sie als „Vermittlungsvertrag mit einem gebundenen Finanzvertreter“ bezeichneten (im Folgenden: streitgegenständlicher Vertrag). In diesem Vertrag wurde auf § 642 des Handelsgesetzbuchs Bezug genommen.
+
+17
+
+Mit diesem Vertrag verpflichtete sich Frau Barlíková zur Ausübung einer Tätigkeit der „Vermittlung im Versicherungssektor“ zugunsten von ERGO. Diese Tätigkeit bestand insbesondere darin, Kunden zu werben und ihnen den Abschluss von Versicherungsverträgen vorzuschlagen, die von dieser Gesellschaft angeboten wurden. Frau Barlíková war auch bevollmächtigt, diese Verträge im Namen und für Rechnung von ERGO abzuschließen.
+
+18
+
+Als Gegenleistung für den Abschluss jedes Versicherungsvertrags erhielt Frau Barlíková eine Provision, die einem Prozentsatz des Versicherungsbeitrags bzw. der jährlichen Versicherungsprämie entsprach. Mit Abschluss des Vertrags mit dem Kunden hatte sie Anspruch auf Vorauszahlung dieser Provision. Endgültig bestand der Provisionsanspruch allerdings nur, wenn der Versicherungsvertrag nicht vor Ablauf von drei bzw. fünf Jahren aufgelöst wurde.
+
+19
+
+Ferner war im streitgegenständlichen Vertrag geregelt, dass der Provisionsanspruch entfällt, wenn der Kunde in den ersten Monaten der Durchführung des Versicherungsvertrags die Prämien nicht zahlt, bzw. die Höhe der Provision sich anteilig verringert, wenn der Kunde nach Ablauf der ersten drei Monate der Vertragsdurchführung die Zahlungen einstellt.
+
+20
+
+Frau Barlíková warb für ERGO mehrere Kunden. In Übereinstimmung mit dem streitgegenständlichen Vertrag erhielt sie beim Abschluss der Versicherungsverträge mit diesen Kunden die ihr zustehenden Provisionen im Wege der Vorauszahlung. Drei bis sechs Monate nach Unterzeichnung dieser Versicherungsverträge hörten manche Kunden jedoch auf, die vertraglichen Prämien zu zahlen, und leisteten auch der von ERGO jeweils an sie gerichteten Zahlungsaufforderung nicht Folge. Dies führte gemäß § 801 des Zivilgesetzbuchs dazu, dass die Verträge kraft Gesetzes erloschen. Einige Kunden erklärten gegenüber ERGO, sie hätten die Zahlung der Prämien eingestellt, weil sie das ursprünglich in diese Gesellschaft gesetzte Vertrauen verloren hätten, nachdem sie von ihr unangemessen behandelt worden seien.
+
+21
+
+Infolge des Erlöschens der betreffenden Versicherungsverträge verlangte ERGO, gestützt auf den streitgegenständlichen Vertrag, von Frau Barlíková die Rückerstattung der als Vorauszahlung für diese Versicherungsverträge erhaltenen Provisionen in Höhe von insgesamt 11421,42 Euro. Da Frau Barlíková diesen Betrag nicht zahlte, erhob ERGO beim Okresný súd Dunajská Streda (Bezirksgericht Dunajská Streda, Slowakei) Klage auf Zahlung dieser Summe.
+
+22
+
+Frau Barlíková macht vor diesem Gericht geltend, das Erlöschen der Versicherungsverträge sei von ERGO zu vertreten. Aus den Schreiben mehrerer Kunden an diese Gesellschaft gehe nämlich hervor, dass diese sie unangemessen behandelt habe, insbesondere indem sie von ihnen die Beantwortung zahlreicher Fragen verlangt habe, obwohl der Versicherungsvertrag bereits geschlossen gewesen sei, und ihnen Mahnungen für bereits gezahlte Prämien geschickt habe.
+
+23
+
+In diesem Zusammenhang möchte das vorlegende Gericht klären, ob § 662 des Handelsgesetzbuchs, mit dem Art. 11 der Richtlinie 86/653 umgesetzt wird, den Klauseln des streitgegenständlichen Vertrags entgegensteht, nach denen die Nichtzahlung der im Vertrag zwischen dem Unternehmer und dem Dritten vorgesehenen Prämien je nach Fall den Provisionsanspruch entfallen lässt oder eine Verringerung dieser Provision im Verhältnis zur Dauer der Vertragsdurchführung zur Folge hat.
+
+24
+
+In dieser Hinsicht fragt sich das vorlegende Gericht zum einen, ob es Art. 11 Abs. 1 erster Gedankenstrich dieser Richtlinie erlaubt, die spezifischen Eigenschaften von Dauerschuldverhältnissen zu berücksichtigen. Insoweit weist es darauf hin, dass die Richtlinie den Fall einer teilweisen Nichtausführung des Vertrags nicht regle. Zum anderen sei der Begriff „Vertretenmüssen des Unternehmers“ im Sinne von Art. 11 Abs. 1 zweiter Gedankenstrich der Richtlinie zu klären. Dies sei in der vorliegenden Rechtssache entscheidungserheblich aufgrund der besonderen Regelung, die gemäß § 801 Abs. 2 des Zivilgesetzbuchs für das Erlöschen von Versicherungsverträgen gelte. Gemäß dieser Bestimmung könnten Versicherungsnehmer Verträge durch Nichtzahlung der geschuldeten Prämien beenden, auch wenn sie auf hergebrachte Mittel der Vertragsbeendigung wie Kündigung oder Rücktritt zurückgreifen könnten. In rechtlicher Hinsicht sei der Grund für die Vertragsbeendigung die Nichtzahlung der Prämien, die eine Pflichtverletzung des Versicherungsnehmers darstelle. Dieses Unterlassen könne jedoch durch anderweitige Umstände zu erklären sein, die den Versicherungsnehmer zu dieser Vorgehensweise bewogen hätten.
+
+25
+
+Unter diesen Umständen hat der Okresný súd Dunajská Streda (Bezirksgericht Dunajská Streda) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+1.
+
+Ist die Wendung „der Vertrag zwischen dem Dritten und dem Unternehmen nicht ausgeführt wird“ in Art. 11 der Richtlinie 86/653 dahin auszulegen, dass darunter:
+
+a)
+
+die vollständige Nichtausführung des Vertrags, also dass weder der Unternehmer noch der Dritte die im Vertrag vorgesehenen Leistungen, auch nicht teilweise, erbringen, oder
+
+b)
+
+auch die teilweise Nichtausführung des Vertrags, also dass beispielsweise der vorgesehene Geschäftsumfang nicht erreicht wird oder der Vertrag gegebenenfalls eine kürzere als die vorgesehene Laufzeit hat,
+
+zu verstehen ist?
+
+2.
+
+Sofern die Auslegung nach Buchst. b der Frage Nr. 1 richtig ist, ist Art. 11 Abs. 2 der Richtlinie 86/653 dahin auszulegen, dass eine Klausel des Handelsvertretervertrags, wonach der Vertreter zur anteiligen Rückzahlung seiner Provision verpflichtet ist, wenn der Vertrag zwischen dem Unternehmer und dem Dritten nicht in dem vorgesehenen Umfang bzw. nicht in dem im Handelsvertretervertrag festgelegten Umfang ausgeführt wird, keine Abweichung zum Nachteil des Vertreters darstellt?
+
+3.
+
+Sind in Fällen wie denen des Ausgangsrechtsstreits bei der Beurteilung des „Vertretenmüssens des Unternehmers“ im Sinne von Art. 11 Abs. 1 zweiter Gedankenstrich der Richtlinie 86/653
+
+a)
+
+nur die rechtlichen Umstände zu prüfen, die unmittelbar zur Beendigung des Vertrags führen (beispielsweise, dass der Vertrag wegen Nichterfüllung der vertraglichen Verpflichtungen durch den Dritten beendet worden ist), oder
+
+b)
+
+ist auch zu prüfen, ob diese rechtlichen Umstände nicht eine Folge des Verhaltens des Unternehmers in der Rechtsbeziehung mit dem Dritten sind, die zu einem Vertrauensverlust des Dritten in den Unternehmer geführt und folglich den Dritten veranlasst haben, seine Pflichten aus dem Vertrag mit dem Unternehmer zu verletzen?
+
+Zur Zuständigkeit des Gerichtshofs
+
+26
+
+Vorab ist zum einen darauf hinzuweisen, dass ERGO, wie aus dem Vorabentscheidungsersuchen hervorgeht, vor dem vorlegenden Gericht geltend macht, dass die Richtlinie 86/653 auf das Ausgangsverfahren nicht anwendbar sei, da der streitgegenständliche Vertrag in Anbetracht seiner Bezeichnung und der in ihm enthaltenen Bezugnahme auf § 642 des Handelsgesetzbuchs kein Handelsvertretervertrag, sondern ein Vermittlungsvertrag sei.
+
+27
+
+Insoweit genügt die Feststellung, dass das vorlegende Gericht laut dem Vorabentscheidungsersuchen davon ausgeht, dass der streitgegenständliche Vertrag als Handelsvertretervertrag und nicht als Vermittlungsvertrag einzustufen sei. Das vorliegende Urteil beruht daher auf dieser Annahme.
+
+28
+
+Zum anderen fällt dieser Vertrag zwar nicht in den Anwendungsbereich der Richtlinie 86/653, da diese gemäß der Definition des Begriffs „Handelsvertreter“ in ihrem Art. 1 Abs. 2 nur auf Handelsvertreter anwendbar ist, die ständig damit betraut sind, den Verkauf oder den Ankauf von Waren zu vermitteln oder diese Geschäfte abzuschließen. Ein Handelsvertreter, dessen Tätigkeit, wie im Ausgangsverfahren, in der Vermittlung und dem Abschluss von Versicherungsverträgen besteht, fällt also nicht unter die Definition gemäß diesem Art. 1 Abs. 2.
+
+29
+
+Nach ständiger Rechtsprechung besteht jedoch dann, wenn sich nationale Rechtsvorschriften zur Regelung rein innerstaatlicher Sachverhalte nach den im Unionsrecht getroffenen Regelungen richten sollen, um u. a. zu verhindern, dass es zu Benachteiligungen der eigenen Staatsangehörigen oder zu Wettbewerbsverzerrungen kommt, oder um sicherzustellen, dass in vergleichbaren Fällen ein einheitliches Verfahren angewandt wird, ein klares Interesse daran, dass die aus dem Unionsrecht übernommenen Bestimmungen oder Begriffe unabhängig davon, unter welchen Voraussetzungen sie angewandt werden sollen, einheitlich ausgelegt werden, um künftige Auslegungsunterschiede zu verhindern (Urteil vom 3. Dezember 2015, Quenon K., C‑338/14, EU:C:2015:795, Rn. 17 und die dort angeführte Rechtsprechung).
+
+30
+
+Insoweit hat das vorlegende Gericht erklärt, es sei sich der Tatsache bewusst, dass der bei ihm anhängige Rechtsstreit außerhalb des Geltungsbereichs des Unionsrechts liege. Unter Verweis auf das Urteil des Gerichtshofs vom 16. März 2006, Poseidon Chartering (C‑3/04, EU:C:2006:176), ist es dennoch der Ansicht, dass die Vorgaben der Richtlinie 86/653 im vorliegenden Fall, der einen auf Versicherungsleistungen bezogenen Handelsvertretervertrag betreffe, Geltung fänden.
+
+31
+
+Wie in Rn. 12 des vorliegenden Urteils angegeben, wurde die Richtlinie 86/653 durch die §§ 652 ff. des Handelsgesetzbuchs in das slowakische Recht umgesetzt. Gemäß den Erläuterungen der slowakischen Regierung sind diese Vorschriften nicht auf den Verkauf oder Ankauf von Waren beschränkt, sondern betreffen auch Verträge über Dienstleistungen. Demnach wollte der slowakische Gesetzgeber, als er die Richtlinie auf diese Weise in das nationale Recht umsetzte, auf Waren bezogene und Dienstleistungen betreffende Handelsvertreterverträge gleich behandeln.
+
+32
+
+Folglich ist der Gerichtshof für die Entscheidung über das vorliegende Vorabentscheidungsersuchen zuständig.
+
+Zu den Vorlagefragen
+
+Zur ersten Frage
+
+33
+
+Mit seiner ersten Frage möchte das vorlegende Gericht wissen, ob Art. 11 Abs. 1 erster Gedankenstrich der Richtlinie 86/653 dahin auszulegen ist, dass er sich nicht nur auf Fälle der vollständigen Nichtausführung des Vertrags zwischen dem Dritten und dem Unternehmer bezieht, sondern auch auf Fälle der teilweisen Nichtausführung dieses Vertrags, wie etwa das Nichterreichen des vertraglich vorgesehenen Geschäftsumfangs oder der vorgesehenen Laufzeit.
+
+34
+
+In der Mehrheit der Sprachfassungen sieht Art. 11 Abs. 1 erster Gedankenstrich dieser Richtlinie vor, dass der Anspruch auf Provision nur erlischt, „wenn und soweit“ feststeht, dass der Vertrag zwischen dem Dritten und dem Unternehmer nicht ausgeführt wird.
+
+35
+
+Die Verwendung des Ausdrucks „soweit“ verdeutlicht, dass für die Feststellung, ob der Provisionsanspruch erloschen ist, berücksichtigt werden muss, in welchem Ausmaß der Vertrag nicht ausgeführt worden ist. Somit lässt sich aus dem Gebrauch dieses Ausdrucks schließen, dass sich Art. 11 Abs. 1 erster Gedankenstrich dieser Richtlinie sowohl auf Fälle der vollständigen Nichtausführung als auch auf Fälle der teilweisen Nichtausführung des Vertrags bezieht.
+
+36
+
+Die tschechische, die lettische und die slowakische Fassung von Art. 11 Abs. 1 der Richtlinie 86/653 enthalten allerdings keinen Ausdruck, der mit „soweit“ übersetzt werden könnte.
+
+37
+
+Nach ständiger Rechtsprechung des Gerichtshofs müssen aber die Bestimmungen des Unionsrechts im Licht der Fassungen in allen Sprachen der Union einheitlich ausgelegt und angewandt werden. Weichen die verschiedenen Sprachfassungen eines Rechtstexts der Union voneinander ab, muss die fragliche Vorschrift anhand der allgemeinen Systematik und des Zwecks der Regelung ausgelegt werden, zu der sie gehört (Urteil vom 1. März 2016, Alo und Osso, C‑443/14 und C‑444/14, EU:C:2016:127, Rn. 27).
+
+38
+
+Daraus folgt in Anbetracht der in Rn. 36 des vorliegenden Urteils dargelegten Abweichung, dass Art. 11 Abs. 1 erster Gedankenstrich der Richtlinie 86/653 im Licht der allgemeinen Systematik und des Zwecks dieser Richtlinie auszulegen ist.
+
+39
+
+Was erstens die allgemeine Systematik der Richtlinie 86/653 betrifft, sieht Art. 7 Abs. 1 dieser Richtlinie vor, dass der Handelsvertreter insbesondere dann Anspruch auf die Provision hat, wenn der Geschäftsabschluss auf seine Tätigkeit zurückzuführen ist. In Art. 10 Abs. 1 der Richtlinie wird allerdings präzisiert, dass der Anspruch auf Provision besteht, „sobald und soweit“ das Geschäft ausgeführt worden ist oder hätte ausgeführt werden sollen. Aus der Verwendung des Ausdrucks „soweit“ kann zwar keine Schlussfolgerung gezogen werden, da dieser Ausdruck nicht in allen Sprachfassungen dieser Vorschrift verwendet wird.
+
+40
+
+Jedoch ergibt sich aus einer Zusammenschau von Art. 7 Abs. 1 und Art. 10 Abs. 1 der Richtlinie 86/653, dass der Handelsvertreter für die Geschäfte, die der Unternehmer mit den von ihm akquirierten Kunden abschließt, zwar Anspruch auf Provision hat, dieser Anspruch sich aber erst konkretisiert, wenn die fraglichen Geschäfte ausgeführt worden sind oder hätten ausgeführt werden sollen. Daraus lässt sich folgern, dass der Provisionsanspruch nach und nach mit dieser Ausführung entsteht, die bei sukzessive durchzuführenden Dauerschuldverhältnissen wie den im Ausgangsverfahren in Rede stehenden Versicherungsverträgen zeitlich gestaffelt ist. Wenn aber der Provisionsanspruch erst in dem Maße entsteht, in dem die Geschäfte ausgeführt werden, entfällt er, soweit die Geschäfte nicht ausgeführt worden sind. Somit ist Art. 11 Abs. 1 erster Gedankenstrich dieser Richtlinie dahin auszulegen, dass er sich auch auf Fälle der teilweisen Nichtausführung des Vertrags zwischen dem Unternehmer und dem Dritten bezieht.
+
+41
+
+Was zweitens den Zweck der Richtlinie 86/653 anbelangt, ist darauf hinzuweisen, dass diese Richtlinie laut ihren Erwägungsgründen 2 und 3 insbesondere den Schutz des Handelsvertreters in seiner Beziehung zum Unternehmer zum Ziel hat (vgl. in diesem Sinne Urteil vom 3. Dezember 2015, Quenon K., C‑338/14, EU:C:2015:795, Rn. 23).
+
+42
+
+Allerdings ergibt sich aus Art. 3 Abs. 1 und Art. 4 Abs. 1 dieser Richtlinie, dass sich der Handelsvertreter und der Unternehmer gegenüber dem jeweils anderen nach den Geboten von Treu und Glauben zu verhalten haben. Ferner geht aus Art. 10 Abs. 1 der Richtlinie hervor, dass der Gesetzgeber die Entstehung des Provisionsanspruchs von der Ausführung des Vertrags statt von dessen Abschluss abhängig machen wollte.
+
+43
+
+Eine dahin gehende Auslegung von Art. 11 Abs. 1 erster Gedankenstrich der Richtlinie 86/653, dass er sich ausschließlich auf Fälle der vollständigen Nichtausführung des Vertrags bezieht, liefe dem Zweck der in der vorstehenden Randnummer genannten Bestimmungen dieser Richtlinie sowie der Richtlinie insgesamt zuwider, wenn bei Dauerschuldverhältnissen wie den im Ausgangsverfahren in Rede stehenden Versicherungsverträgen dem Vertreter schon mit Beginn der Ausführung dieser Verträge seine gesamte Provision garantiert wäre, ohne dass gegebenenfalls eine teilweise Nichtausführung dieser Verträge berücksichtigt würde.
+
+44
+
+Nach alledem ist auf die erste Frage zu antworten, dass Art. 11 Abs. 1 erster Gedankenstrich der Richtlinie 86/653 dahin auszulegen ist, dass er sich nicht nur auf Fälle der vollständigen Nichtausführung des Vertrags zwischen dem Unternehmer und dem Dritten bezieht, sondern auch auf Fälle der teilweisen Nichtausführung dieses Vertrags, wie etwa das Nichterreichen des vertraglich vorgesehenen Geschäftsumfangs oder der vorgesehenen Laufzeit.
+
+Zur zweiten Frage
+
+45
+
+Mit seiner zweiten Frage möchte das vorlegende Gericht wissen, ob Art. 11 Abs. 2 und 3 der Richtlinie 86/653 dahin auszulegen ist, dass eine Klausel des Handelsvertretervertrags, wonach der Vertreter im Fall der teilweisen Nichtausführung des Vertrags zwischen dem Unternehmer und dem Dritten zur anteiligen Rückzahlung seiner Provision verpflichtet ist, eine „Abweichung zum Nachteil des Handelsvertreters“ im Sinne von Art. 11 Abs. 3 dieser Richtlinie darstellt.
+
+46
+
+Insoweit ist daran zu erinnern, dass Art. 11 Abs. 3 der Richtlinie 86/653 es untersagt, von Art. 11 Abs. 1 dieser Richtlinie durch Vereinbarungen zum Nachteil des Handelsvertreters abzuweichen.
+
+47
+
+Jedoch kann die Tatsache, dass der Handelsvertretervertrag den Vertreter zur anteiligen Rückzahlung seiner Provision verpflichtet, wenn der Vertrag zwischen dem Unternehmer und dem Dritten nur teilweise ausgeführt wird, grundsätzlich nicht als eine „Abweichung zum Nachteil des Handelsvertreters“ im Sinne von Art. 11 Abs. 3 der Richtlinie 86/653 angesehen werden. Vielmehr steht diese Verpflichtung im Einklang mit den Vorgaben nach Art. 11 Abs. 1 und 2 dieser Richtlinie.
+
+48
+
+Aus der Antwort auf die erste Frage ergibt sich nämlich, dass Art. 11 Abs. 1 erster Gedankenstrich der Richtlinie 86/653 dahin auszulegen ist, dass der Provisionsanspruch des Handelsvertreters auch in dem Fall erlöschen kann, dass der Vertrag zwischen dem Unternehmer und dem Dritten teilweise ausgeführt wird. Außerdem sind nach Art. 11 Abs. 2 dieser Richtlinie vom Handelsvertreter bereits empfangene Provisionen zurückzuzahlen, falls der Anspruch darauf erloschen ist. Daraus folgt, dass der Vertreter gemäß diesen Vorschriften verpflichtet sein kann, bereits gezahlte Provisionen zurückzuerstatten, soweit der Vertrag zwischen dem Unternehmer und dem Kunden nicht ausgeführt worden ist.
+
+49
+
+Allerdings ist zum einen klarzustellen, dass die Verpflichtung zur Rückzahlung der Provision strikt im Verhältnis zum Ausmaß der Nichtausführung des Vertrags stehen muss. Eine über das Ausmaß dieser Nichtausführung hinausgehende Verpflichtung zur anteiligen Rückzahlung der Provision wäre in der Tat eine durch Art. 11 Abs. 3 der Richtlinie 86/653 untersagte Abweichung zum Nachteil des Vertreters. Eine Abweichung zum Vorteil des Vertreters, wonach eine anteilige Rückzahlung der Provision verlangt wird, die das Ausmaß der Nichtausführung des Vertrags unterschreitet, bleibt hingegen möglich.
+
+50
+
+Zum anderen folgt aus Art. 11 Abs. 3 der Richtlinie 86/653, dass durch Vereinbarung nicht von der zweiten Voraussetzung in Art. 11 Abs. 1 dieser Richtlinie abgewichen werden darf, wonach der Anspruch auf Provision nur erlischt, wenn die Nichtausführung des Vertrags nicht auf Umständen beruht, die vom Unternehmer zu vertreten sind. Eine Vertragsklausel, wonach der Provisionsanspruch auch dann erlischt, wenn die Nichtausführung des Vertrags auf Umständen beruht, die vom Unternehmer zu vertreten sind, wäre folglich mit Art. 11 Abs. 3 unvereinbar.
+
+51
+
+Nach alledem ist auf die zweite Frage zu antworten, dass Art. 11 Abs. 2 und 3 der Richtlinie 86/653 dahin auszulegen ist, dass eine Klausel des Handelsvertretervertrags, wonach der Vertreter im Fall der teilweisen Nichtausführung des Vertrags zwischen dem Unternehmer und dem Dritten zur anteiligen Rückzahlung seiner Provision verpflichtet ist, keine „Abweichung zum Nachteil des Handelsvertreters“ im Sinne von Art. 11 Abs. 3 dieser Richtlinie darstellt, wenn der der Rückzahlungspflicht unterliegende Anteil der Provision im Verhältnis zum Ausmaß der Nichtausführung des Vertrags steht und diese Nichtausführung nicht auf Umständen beruht, die vom Unternehmer zu vertreten sind.
+
+Zur dritten Frage
+
+52
+
+Mit seiner dritten Frage möchte das vorlegende Gericht wissen, ob Art. 11 Abs. 1 zweiter Gedankenstrich der Richtlinie 86/653 dahin auszulegen ist, dass sich der Begriff „Umstände, die vom Unternehmer zu vertreten sind“ nur auf Rechtsgründe bezieht, die unmittelbar zur Beendigung des Vertrags zwischen dem Unternehmer und dem Dritten geführt haben, oder auf alle vom Unternehmer zu vertretenden rechtlichen und tatsächlichen Umstände, auf denen die Nichtausführung des Vertrags beruht.
+
+53
+
+Insoweit ist daran zu erinnern, dass im Ausgangsverfahren laut der Vorlageentscheidung die Nichtausführung der Versicherungsverträge, die nach Ansicht von ERGO einen Anspruch auf Rückzahlung der von Frau Barlíková empfangenen Provisionen begründet, darauf beruht, dass bestimmte Kunden die vertraglichen Versicherungsprämien nicht zahlten. Nach slowakischem Recht führt allein dieser Umstand gemäß § 801 des Zivilgesetzbuchs zur Auflösung der betreffenden Verträge kraft Gesetzes. Nach den Angaben des vorlegenden Gerichts bestand aber im Ausgangsverfahren der Beweggrund für die Nichtzahlung dieser Prämien durch die betreffenden Kunden wohl in einem Verlust des Vertrauens in den Unternehmer, der sich gegenüber diesen Kunden unprofessionell verhalten haben soll.
+
+54
+
+Der Begriff „Umstände, die vom Unternehmer zu vertreten sind“ wird in der Richtlinie 86/653 nicht definiert. Wie der Generalanwalt in Nr. 53 seiner Schlussanträge ausgeführt hat, ist Art. 11 Abs. 1 zweiter Gedankenstrich dieser Richtlinie in manchen Sprachfassungen, u. a. in der französischen, neutral formuliert und stellt nur darauf ab, dass die Nichtausführung des Vertrags mit dem Dritten nicht dem Unternehmer zugerechnet werden kann. In anderen Sprachfassungen dieser Richtlinie, u. a. in der slowakischen, bezieht sich diese Vorschrift hingegen auf ein schuldhaftes Verhalten des Unternehmers.
+
+55
+
+Entsprechend der in Rn. 37 des vorliegenden Urteils angeführten Rechtsprechung ist Art. 11 Abs. 1 zweiter Gedankenstrich der Richtlinie 86/653 daher im Licht insbesondere des Zwecks dieser Richtlinie auszulegen.
+
+56
+
+In den Rn. 41 und 42 des vorliegenden Urteils ist darauf hingewiesen worden, dass diese Richtlinie insbesondere den Handelsvertreter schützen soll und darüber hinaus vorsieht, dass die Beziehungen zwischen dem Handelsvertreter und dem Unternehmer auf die Gebote von Treu und Glauben gestützt sind. Die Voraussetzung, dass die Nichtausführung nicht auf Umständen beruhen darf, die vom Unternehmer zu vertreten sind, trägt zur Verwirklichung dieser Ziele bei, indem sie verhindert, dass der Unternehmer von seiner Verpflichtung zur Zahlung der Provision an den Vertreter befreit wird, obwohl er die Nichtausführung des Geschäfts verursacht hat.
+
+57
+
+Eine enge Auslegung des Begriffs „Umstände, die vom Unternehmer zu vertreten sind“, die nur auf Rechtsgründe abstellt, die unmittelbar zur Beendigung des Vertrags geführt haben, unabhängig von den rechtlichen und tatsächlichen Umständen, die das Eintreten dieser Beendigung erklären, würde diesen Zielen nicht entsprechen. Nach solch einer engen Auslegung wäre es nämlich weder möglich, zu beurteilen, ob in Wirklichkeit der Unternehmer die Beendigung des Vertrags verursacht hat, noch ob er die Nichtausführung des Vertrags zu vertreten hat. Es gäbe also Situationen, in denen der Unternehmer der Provisionszahlung entgehen könnte, obwohl diese Beendigung Folge seines eigenen Verhaltens ist.
+
+58
+
+So verhielte es sich insbesondere bei Geltung einer Regelung wie der im Ausgangsverfahren in Rede stehenden, nach der die Nichtzahlung der Versicherungsprämien gemäß § 801 des Zivilgesetzbuchs kraft Gesetzes zum Erlöschen der betreffenden Versicherungsverträge führt. Nach einer solchen Regelung beruht die Vertragsbeendigung nämlich auf der Nichterfüllung der vertraglichen Pflichten durch den Dritten, der die Zahlung der vertraglichen Versicherungsprämien einstellt, ohne dass die Ursache der Zahlungseinstellung berücksichtigt wird.
+
+59
+
+Daraus folgt, dass sich der Begriff „Umstände, die vom Unternehmer zu vertreten sind“ in Art. 11 Abs. 1 zweiter Gedankenstrich der Richtlinie 86/653 nicht nur auf Rechtsgründe beziehen kann, die unmittelbar zur Beendigung des Vertrags geführt haben, sondern sich auch auf die Ursachen dieser Beendigung bezieht, die das nationale Gericht auf der Grundlage aller maßgeblichen rechtlichen und tatsächlichen Umstände zu würdigen hat, um festzustellen, ob die Nichtausführung des Vertrags nicht auf Umständen beruht, die vom Unternehmer zu vertreten sind.
+
+60
+
+Was speziell den Sachverhalt des Ausgangsverfahrens betrifft, muss das vorlegende Gericht folglich, um über den Anspruch von ERGO auf Rückzahlung der Provisionen und über das mögliche Erlöschen des Provisionsanspruchs von Frau Barlíková zu entscheiden, über die Tatsache hinaus, dass die Versicherungsnehmer ihre Pflicht zur Zahlung der Versicherungsprämien nicht erfüllt haben, alle Umstände des Falls berücksichtigen, um festzustellen, ob die Nichtausführung der Versicherungsverträge nicht von dieser Gesellschaft zu vertreten ist.
+
+61
+
+Nach alledem ist auf die dritte Frage zu antworten, dass Art. 11 Abs. 1 zweiter Gedankenstrich der Richtlinie 86/653 dahin auszulegen ist, dass sich der Begriff „Umstände, die vom Unternehmer zu vertreten sind“ nicht nur auf Rechtsgründe bezieht, die unmittelbar zur Beendigung des Vertrags zwischen dem Unternehmer und dem Dritten geführt haben, sondern auf alle vom Unternehmer zu vertretenden rechtlichen und tatsächlichen Umstände, auf denen die Nichtausführung des Vertrags beruht.
+
+Kosten
+
+62
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Vierte Kammer) für Recht erkannt:
+
+ 	
+1.
+
+Art. 11 Abs. 1 erster Gedankenstrich der Richtlinie 86/653/EWG des Rates vom 18. Dezember 1986 zur Koordinierung der Rechtsvorschriften der Mitgliedstaaten betreffend die selbständigen Handelsvertreter ist dahin auszulegen, dass er sich nicht nur auf Fälle der vollständigen Nichtausführung des Vertrags zwischen dem Unternehmer und dem Dritten bezieht, sondern auch auf Fälle der teilweisen Nichtausführung dieses Vertrags, wie etwa das Nichterreichen des vertraglich vorgesehenen Geschäftsumfangs oder der vorgesehenen Laufzeit.
+
+ 	
+2.
+
+Art. 11 Abs. 2 und 3 der Richtlinie 86/653 ist dahin auszulegen, dass eine Klausel des Handelsvertretervertrags, wonach der Vertreter im Fall der teilweisen Nichtausführung des Vertrags zwischen dem Unternehmer und dem Dritten zur anteiligen Rückzahlung seiner Provision verpflichtet ist, keine „Abweichung zum Nachteil des Handelsvertreters“ im Sinne von Art. 11 Abs. 3 dieser Richtlinie darstellt, wenn der der Rückzahlungspflicht unterliegende Anteil der Provision im Verhältnis zum Ausmaß der Nichtausführung des Vertrags steht und diese Nichtausführung nicht auf Umständen beruht, die vom Unternehmer zu vertreten sind.
+
+ 	
+3.
+
+Art. 11 Abs. 1 zweiter Gedankenstrich der Richtlinie 86/653 ist dahin auszulegen, dass sich der Begriff „Umstände, die vom Unternehmer zu vertreten sind“ nicht nur auf Rechtsgründe bezieht, die unmittelbar zur Beendigung des Vertrags zwischen dem Unternehmer und dem Dritten geführt haben, sondern auf alle vom Unternehmer zu vertretenden rechtlichen und tatsächlichen Umstände, auf denen die Nichtausführung des Vertrags beruht.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Slowakisch.

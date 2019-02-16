@@ -1,0 +1,556 @@
+URTEIL DES GERICHTSHOFS (Zehnte Kammer)
+
+22. Juni 2017 ( 1 )
+
+„Vorlage zur Vorabentscheidung — Freizügigkeit der Arbeitnehmer — In einem anderen Mitgliedstaat als dem Wohnsitzmitgliedstaat erzielte Einkünfte — Methode der Steuerbefreiung mit Progressionsvorbehalt im Wohnsitzmitgliedstaat — Beiträge zur Altersvorsorge- und Krankenversicherung, die von den in einem anderen Mitgliedstaat als dem Wohnsitzmitgliedstaat erzielten Einkünften einbehalten werden — Abzug dieser Beiträge — Voraussetzung des Nichtvorliegens eines unmittelbaren Zusammenhangs mit steuerfreien Einnahmen“
+
+In der Rechtssache C‑20/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Bundesfinanzhof (Deutschland) mit Entscheidung vom 16. September 2015, beim Gerichtshof eingegangen am 15. Januar 2016, in dem Verfahren
+
+Wolfram Bechtel,
+
+Marie-Laure Bechtel
+
+gegen
+
+Finanzamt Offenburg
+
+erlässt
+
+DER GERICHTSHOF (Zehnte Kammer)
+
+unter Mitwirkung der Kammerpräsidentin M. Berger sowie der Richter E. Levits (Berichterstatter) und F. Biltgen,
+
+Generalanwalt: M. Campos Sánchez-Bordona,
+
+Kanzler: K. Malacek, Verwaltungsrat,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 1. Februar 2017,
+
+unter Berücksichtigung der Erklärungen
+
+—
+
+von Herrn und Frau Bechtel, vertreten durch Rechtsanwalt J. Garde,
+
+—
+
+des Finanzamts Offenburg, vertreten durch E. Lehmann als Bevollmächtigte,
+
+—
+
+der deutschen Regierung, vertreten durch T. Henze, R. Kanitz und D. Klebs als Bevollmächtigte,
+
+—
+
+der Europäischen Kommission, vertreten durch W. Roels und M. Wasmeier als Bevollmächtigte,
+
+aufgrund des nach Anhörung des Generalanwalts ergangenen Beschlusses, ohne Schlussanträge über die Rechtssache zu entscheiden,
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 45 AEUV.
+
+2
+
+Es ergeht im Rahmen eines Rechtsstreits zwischen Herrn Wolfram Bechtel und Frau Marie-Laure Bechtel auf der einen und dem Finanzamt Offenburg (Deutschland) auf der anderen Seite wegen der Berücksichtigung der von Frau Bechtel in Frankreich gezahlten Beiträge zur Altersvorsorge- und Krankenversicherung bei der Ermittlung des zu versteuernden Einkommens der Eheleute Bechtel und bei der Festsetzung des auf ihr zu versteuerndes Einkommen der Jahre 2005 und 2006 anwendbaren besonderen Steuersatzes.
+
+Rechtlicher Rahmen
+
+Deutsches Recht
+
+3
+
+Nach § 1 des Einkommensteuergesetzes 2002 in seiner auf den Ausgangsrechtsstreit anwendbaren Fassung (im Folgenden: EStG 2002) sind natürliche Personen, die im Inland einen Wohnsitz oder ihren gewöhnlichen Aufenthalt haben, unbeschränkt einkommensteuerpflichtig.
+
+4
+
+In § 2 EStG 2002, der den Umfang der Besteuerung und Begriffsbestimmungen regelt, heißt es:
+
+„(1)   Der Einkommensteuer unterliegen
+
+…
+
+4.
+
+Einkünfte aus nichtselbständiger Arbeit,
+
+…
+
+(2)   Einkünfte sind
+
+…
+
+2.
+
+bei den anderen Einkunftsarten der Überschuss der Einnahmen über die Werbungskosten (§§ 8 bis 9a).
+
+(3)   Die Summe der Einkünfte, vermindert um den Altersentlastungsbetrag, den Entlastungsbetrag für Alleinerziehende und den Abzug nach § 13 Absatz 3, ist der Gesamtbetrag der Einkünfte.
+
+(4)   Der Gesamtbetrag der Einkünfte, vermindert um die Sonderausgaben und die außergewöhnlichen Belastungen, ist das Einkommen.
+
+(5)   Das Einkommen, vermindert um die Freibeträge nach § 32 Absatz 6 und um die sonstigen vom Einkommen abzuziehenden Beträge, ist das zu versteuernde Einkommen; dieses bildet die Bemessungsgrundlage für die tarifliche Einkommensteuer. …“
+
+5
+
+§ 9 („Werbungskosten“) EStG 2002 sieht vor:
+
+„(1)   Werbungskosten sind Aufwendungen zur Erwerbung, Sicherung und Erhaltung der Einnahmen. Sie sind bei der Einkunftsart abzuziehen, bei der sie erwachsen sind. Werbungskosten sind auch:
+
+…
+
+3.
+
+Beiträge zu Berufsständen und sonstigen Berufsverbänden, deren Zweck nicht auf einen wirtschaftlichen Geschäftsbetrieb gerichtet ist;
+
+…“
+
+6
+
+Nach § 10 („Sonderausgaben“) Abs. 1 EStG 2002 gelten die in dieser Bestimmung aufgeführten Aufwendungen als Sonderausgaben, wenn sie weder Betriebsausgaben noch Werbungskosten sind. In § 10 Abs. 1 Nrn. 2 und 3 EStG 2002 sind folgende Aufwendungen aufgeführt:
+
+„2.
+
+a)
+
+Beiträge zu den gesetzlichen Rentenversicherungen oder landwirtschaftlichen Alterskassen sowie zu berufsständischen Versorgungseinrichtungen, die den gesetzlichen Rentenversicherungen vergleichbare Leistungen erbringen;
+
+b)
+
+Beiträge des Steuerpflichtigen zum Aufbau einer eigenen kapitalgedeckten Altersversorgung, wenn der Vertrag nur die Zahlung einer monatlichen auf das Leben des Steuerpflichtigen bezogenen lebenslangen Leibrente nicht vor Vollendung des 60. Lebensjahres oder die ergänzende Absicherung des Eintritts der Berufsunfähigkeit (Berufsunfähigkeitsrente), der verminderten Erwerbsfähigkeit (Erwerbsminderungsrente) oder von Hinterbliebenen (Hinterbliebenenrente) vorsieht; … die genannten Ansprüche dürfen nicht vererblich, nicht übertragbar, nicht beleihbar, nicht veräußerbar und nicht kapitalisierbar sein und es darf darüber hinaus kein Anspruch auf Auszahlungen bestehen.
+
+Zu den Beiträgen nach den Buchstaben a und b ist der … steuerfreie Arbeitgeberanteil zur gesetzlichen Rentenversicherung und ein diesem gleichgestellter steuerfreier Zuschuss des Arbeitgebers hinzuzurechnen.
+
+3.
+
+a)
+
+Beiträge zu Versicherungen gegen Arbeitslosigkeit, zu Erwerbs- und Berufsunfähigkeitsversicherungen, die nicht unter Nummer 2 Satz 1 Buchstabe b fallen, zu Kranken-, Pflege-, Unfall- und Haftpflichtversicherungen sowie zu Risikoversicherungen, die nur für den Todesfall eine Leistung vorsehen;
+
+…“
+
+7
+
+§ 10 Abs. 2 EStG 2002 bestimmt:
+
+„Voraussetzung für den Abzug der in Absatz 1 Nr. 2 und 3 bezeichneten Beträge (Vorsorgeaufwendungen) ist, dass sie
+
+1.
+
+nicht in unmittelbarem wirtschaftlichen Zusammenhang mit steuerfreien Einnahmen stehen,
+
+…“
+
+8
+
+Gemäß § 10 Abs. 3 EStG 2002 sind Vorsorgeaufwendungen nach § 10 Abs. 1 Nr. 2 Satz 2 dieses Gesetzes bis zu einem Höchstbetrag von 20000 Euro zu berücksichtigen; bei zusammenveranlagten Ehegatten verdoppelt sich dieser Höchstbetrag.
+
+9
+
+§ 32a („Einkommensteuertarif“) EStG 2002 lautet:
+
+„(1)   Die tarifliche Einkommensteuer bemisst sich nach dem zu versteuernden Einkommen. Sie beträgt vorbehaltlich der §§ 32b, 34, 34b und 34c jeweils in Euro für zu versteuernde Einkommen
+
+1.
+
+bis 7664 Euro (Grundfreibetrag):
+
+0;
+
+2.
+
+von 7665 Euro bis 12739 Euro: (883,74 · y + 1 500) · y;
+
+3.
+
+von 12740 Euro bis 52151 Euro:
+
+(228,74 · z + 2 397) · z + 989;
+
+4.
+
+von 52152 Euro an:
+
+0,42 · x –7914.
+
+‚y‘ ist ein Zehntausendstel des 7664 Euro übersteigenden Teils des auf einen vollen Euro-Betrag abgerundeten zu versteuernden Einkommens. ‚z‘ ist ein Zehntausendstel des 12739 Euro übersteigenden Teils des auf einen vollen Euro-Betrag abgerundeten zu versteuernden Einkommens. ‚x‘ ist das auf einen vollen Euro-Betrag abgerundete zu versteuernde Einkommen. Der sich ergebende Steuerbetrag ist auf den nächsten vollen Euro-Betrag abzurunden.“
+
+10
+
+In § 32b („Progressionsvorbehalt“) EStG 2002 heißt es:
+
+„(1)   Hat ein zeitweise oder während des gesamten Veranlagungszeitraums unbeschränkt Steuerpflichtiger …,
+
+…
+
+3.
+
+Einkünfte, die nach einem Abkommen zur Vermeidung der Doppelbesteuerung oder einem sonstigen zwischenstaatlichen Übereinkommen unter dem Vorbehalt der Einbeziehung bei der Berechnung der Einkommensteuer steuerfrei sind, oder bei Anwendung von § 1 Abs. 3 oder § 1a oder § 50 Abs. 5 Satz 2 Nr. 2 im Veranlagungszeitraum nicht der deutschen Einkommensteuer unterliegende Einkünfte, wenn deren Summe positiv ist,
+
+bezogen, so ist auf das nach § 32a Abs. 1 zu versteuernde Einkommen ein besonderer Steuersatz anzuwenden.
+
+…
+
+(2)   Der besondere Steuersatz nach Absatz 1 ist der Steuersatz, der sich ergibt, wenn bei der Berechnung der Einkommensteuer das nach § 32a Abs. 1 zu versteuernde Einkommen vermehrt oder vermindert wird um
+
+…
+
+2.
+
+im Fall des Absatzes 1 Nr. 2 und 3 die dort bezeichneten Einkünfte, wobei die darin enthaltenen außerordentlichen Einkünfte mit einem Fünftel zu berücksichtigen sind.
+
+…“
+
+Deutsch-französisches Abkommen
+
+11
+
+Art. 14 Abs. 1 des Abkommens vom 21. Juli 1959 zwischen der Bundesrepublik Deutschland und der Französischen Republik zur Vermeidung der Doppelbesteuerungen und über gegenseitige Amts- und Rechtshilfe auf dem Gebiet der Steuern vom Einkommen und vom Vermögen sowie der Gewerbesteuern und der Grundsteuern (BGBl. II 1961 S. 397) in der durch das Revisionsprotokoll vom 9. Juni 1969 (BGBl. II 1970 S. 717), durch das Zusatzabkommen vom 28. September 1989 (BGBl. II 1990 S. 770) und durch das Zusatzabkommen vom 20. September 2001 (BGBl. II 2002 S. 2370) geänderten Fassung (im Folgenden: deutsch-französisches Abkommen) bestimmt:
+
+„Gehälter, Löhne und ähnliche Vergütungen sowie Ruhegehälter, die einer der Vertragstaaten, ein Land oder eine juristische Person des öffentlichen Rechtes dieses Staates oder Landes an in dem anderen Staat ansässige natürliche Personen für gegenwärtige oder frühere Dienstleistungen in der Verwaltung oder in den Streitkräften zahlt, können nur in dem erstgenannten Staate besteuert werden. …“
+
+12
+
+In Art. 20 Abs. 1 des deutsch-französischen Abkommens heißt es:
+
+„Bei Personen, die in der Bundesrepublik ansässig sind, wird die Doppelbesteuerung wie folgt vermieden:
+
+a)
+
+Von der Bemessungsgrundlage der deutschen Steuer werden vorbehaltlich der Buchstaben b) und c) die aus Frankreich stammenden Einkünfte und die in Frankreich gelegenen Vermögensteile ausgenommen, die nach diesem Abkommen in Frankreich besteuert werden können. Diese Bestimmung schränkt das Recht der Bundesrepublik nicht ein, die auf diese Weise ausgenommenen Einkünfte und Vermögensteile bei der Festsetzung ihres Steuersatzes zu berücksichtigen.
+
+…“
+
+Ausgangsverfahren und Vorlagefragen
+
+13
+
+Die Kläger und Revisionskläger des Ausgangsverfahrens (im Folgenden: Kläger des Ausgangsverfahrens) sind Eheleute, die in den Jahren 2005 und 2006 in Deutschland ansässig waren, wo sie zusammen zur Einkommensteuer veranlagt wurden.
+
+14
+
+Herr Bechtel erzielte in den Jahren 2005 und 2006 Einkünfte aus seiner Tätigkeit als Beamter im deutschen öffentlichen Dienst, während Frau Bechtel, die französische Staatsangehörige ist, als Beamtin in der französischen Finanzverwaltung beschäftigt war und dafür Bruttoarbeitslöhne von 22342 Euro (2005) und 24397 Euro (2006) bezog.
+
+15
+
+Ausweislich ihrer Gehaltsmitteilungen wurden die Bruttobezüge der Klägerin des Ausgangsverfahrens um folgende Abzugspositionen gemindert: Retenue à la source (Quellensteuer), Beitrag für die Pension civile (Zivilpension), Beitrag für die Pension civile sur l’indemnité mensuelle de technicité (Zivilpension auf die monatliche Bruttoentschädigung für Fachwissen), Beitrag zur Mutuelle des agents des impôts (Zusatzkrankenversicherung der Steuerbediensteten), Beiträge zur Assurance complémentaire pour l’invalidité et les pensions de survie des fonctionnaires de l’administration des finances (Zusatzversicherung für Invalidität und Hinterbliebenenversorgung der Finanzbeamten), Contribution ouvrière maladie deplafonnée (Arbeitnehmerbeitrag zur Krankenversicherung) und Beitrag für die Retraite additionnelle de la fonction publique (Zusatzrente für den öffentlichen Sektor).
+
+16
+
+Das Finanzamt Offenburg nahm die Bruttoeinkünfte der Klägerin des Ausgangsverfahrens in den Jahren 2005 und 2006 als nach dem deutsch-französischen Abkommen steuerfreie Einkünfte von der Bemessungsgrundlage für die auf das Einkommen der Kläger des Ausgangsverfahrens festzusetzenden Steuer aus.
+
+17
+
+Hingegen wurden diese Bruttoeinkünfte – vermindert um die Positionen „Pension civile“ und „Pension civile sur l’indemnité mensuelle de technicité“ – im Rahmen der Berechnung des Progressionsvorbehalts nach § 32b Abs. 1 Nr. 3 EStG 2002 bei der Berechnung des auf das zu versteuernde Einkommen der Kläger des Ausgangsverfahrens anwendbaren besonderen Steuersatzes berücksichtigt.
+
+18
+
+Da die Kläger des Ausgangsverfahrens der Ansicht sind, dass die vom Arbeitslohn von Frau Bechtel einbehaltenen Beiträge von dem für die Berechnung im Rahmen des Progressionsvorbehalts heranzuziehenden Gehaltsbetrag abzuziehen seien, erhoben sie Klage beim Finanzgericht Baden-Württemberg (Deutschland). Nachdem diese Klage durch Urteil vom 31. Juli 2013 abgewiesen worden war, legten sie Revision zum Bundesfinanzhof (Deutschland) ein.
+
+19
+
+Dieses Gericht führt aus, dass die Einkünfte von Frau Bechtel aus ihrer Tätigkeit in Frankreich nach Art. 14 Abs. 1 in Verbindung mit Art. 20 Abs. 1 Buchst. a des deutsch-französischen Abkommens von der Bemessungsgrundlage der deutschen Einkommensteuer der Kläger des Ausgangsverfahrens auszunehmen seien. Jedoch sei zwischen den Parteien des Ausgangsverfahrens unstreitig, dass diese Einkünfte gemäß § 32b Abs. 1 Nr. 3 EStG 2002 in die Ermittlung eines besonderen Steuersatzes einzubeziehen seien, der auf das zu versteuernde Einkommen der Kläger des Ausgangsverfahrens anwendbar sei.
+
+20
+
+Nach der anwendbaren Regelung des deutschen Rechts fielen die im Bruttoarbeitslohn der Klägerin des Ausgangsverfahrens enthaltenen Vorsorgeaufwendungen materiell nicht unter den Begriff der „Werbungskosten“ im Sinne von § 9 EStG 2002.
+
+21
+
+Hingegen könnten die Beiträge zur Mutuelle des agents des impôts, zur Assurance complémentaire pour l’invalidité et les pensions de survie des fonctionnaires de l’administration des finances und für die Retraite additionnelle de la fonction publique sowie die Contribution ouvrière maladie deplafonnée vom Begriff der Sonderausgaben erfasst werden, da diese Vorsorgeaufwendungen den in § 10 Abs. 1 Nr. 2 Buchst. a oder § 10 Abs. 1 Nr. 3 Buchst. a EStG 2002 aufgeführten Fällen entsprächen.
+
+22
+
+Nach § 10 Abs. 2 Nr. 1 EStG 2002 setze allerdings der Abzug der Aufwendungen als Sonderausgaben voraus, dass diese nicht in unmittelbarem wirtschaftlichen Zusammenhang mit steuerfreien Einnahmen stünden. Da jedoch das Gehalt der Klägerin des Ausgangsverfahrens von einer Besteuerung in Deutschland freigestellt sei, liege ein solcher unmittelbarer wirtschaftlicher Zusammenhang vor und der Abzug der Vorsorgeaufwendungen als Sonderausgaben sei nicht möglich. Dies gelte unabhängig davon, ob der in § 10 Abs. 3 EStG 2002 festgelegte Höchstbetrag für den Sonderausgabenabzug ohne die Vorsorgeaufwendungen der Klägerin des Ausgangsverfahrens in den Jahren 2005 und 2006 erschöpft worden sei, was aus den angefochtenen Bescheiden nicht hervorgehe.
+
+23
+
+Die Vorsorgebeiträge der Klägerin des Ausgangsverfahrens könnten auch nicht bei der Bemessung des auf das zu versteuernde Einkommen der Kläger des Ausgangsverfahrens anwendbaren besonderen Steuersatzes nach § 32b EStG 2002 abgezogen werden. Nach § 32b Abs. 2 Nr. 2 EStG 2002 gingen in die Berechnung nur Einkünfte ein. Bei deren Ermittlung könnten Sonderausgaben nicht abgezogen werden.
+
+24
+
+Das vorlegende Gericht hegt Zweifel daran, ob das Verbot des Abzugs von Vorsorgeaufwendungen als Sonderausgaben mit dem Unionsrecht vereinbar ist. Die Weigerung, dem gebietsansässigen Steuerpflichtigen das Recht auf Abzug der in einem anderen Mitgliedstaat gezahlten Sozialversicherungsbeiträge von der Bemessungsgrundlage in Deutschland oder auf Minderung der in Deutschland geschuldeten Steuer um die in einem anderen Mitgliedstaat gezahlten Sozialversicherungsbeiträge zu gewähren, könne diesen davon abhalten, die Arbeitnehmerfreizügigkeit in Anspruch zu nehmen, und eine nicht gerechtfertigte Beschränkung dieser Grundfreiheit darstellen.
+
+25
+
+Unter diesen Umständen hat der Bundesfinanzhof beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+1.
+
+Steht Art. 39 EG (jetzt Art. 45 AEUV) einer Vorschrift deutschen Rechts entgegen, nach der Beiträge eines in Deutschland wohnenden und für die Verwaltung des französischen Staats tätigen Arbeitnehmers zur französischen Altersvorsorge- und Krankenversicherung – anders als vergleichbare Beiträge eines in Deutschland tätigen Arbeitnehmers zur deutschen Sozialversicherung – die Bemessungsgrundlage der Einkommensteuer nicht mindern, wenn der Arbeitslohn nach dem Abkommen zur Vermeidung der Doppelbesteuerung zwischen Deutschland und Frankreich in Deutschland nicht besteuert werden darf und nur den auf weitere Einkünfte anzuwendenden Steuersatz erhöht?
+
+2.
+
+Ist Frage 1 auch dann zu bejahen, wenn die fraglichen Versicherungsbeiträge im Rahmen der Besteuerung des Arbeitslohns durch den französischen Staat – konkret oder in pauschaler Weise –
+
+a)
+
+steuermindernd berücksichtigt worden sind oder
+
+b)
+
+zwar hätten steuermindernd berücksichtigt werden dürfen, aber nicht in diesem Sinne geltend gemacht und deshalb nicht berücksichtigt worden sind?
+
+Zu den Vorlagefragen
+
+26
+
+Mit seinen Fragen, die zusammen zu prüfen sind, möchte das vorlegende Gericht wissen, ob Art. 45 AEUV dahin auszulegen ist, dass er der Regelung eines Mitgliedstaats wie der des Ausgangsverfahrens entgegensteht, wonach ein in diesem Mitgliedstaat wohnender und für die öffentliche Verwaltung eines anderen Mitgliedstaats tätiger Steuerpflichtiger Beiträge zur Altersvorsorge- und Krankenversicherung, die im Beschäftigungsmitgliedstaat von seinem Arbeitslohn einbehalten werden, – anders als vergleichbare Beiträge zur Sozialversicherung des Wohnsitzmitgliedstaats – nicht von der Bemessungsgrundlage der Einkommensteuer im Wohnsitzmitgliedstaat abziehen kann, wenn der Arbeitslohn nach dem Abkommen zur Vermeidung der Doppelbesteuerung zwischen den beiden Mitgliedstaaten im Wohnsitzmitgliedstaat des Arbeitnehmers nicht besteuert werden darf und nur den auf weitere Einkünfte anzuwendenden Steuersatz erhöht.
+
+27
+
+Das vorlegende Gericht stellt sich zudem die Frage, welche Bedeutung dem Umstand beizumessen ist, dass die fraglichen Versicherungsbeiträge im Rahmen der Besteuerung des Arbeitslohns durch den Beschäftigungsmitgliedstaat – konkret oder in pauschaler Weise – steuermindernd berücksichtigt worden sind oder zwar hätten steuermindernd berücksichtigt werden dürfen, aber nicht in diesem Sinne geltend gemacht und deshalb nicht berücksichtigt worden sind.
+
+Zur anzuwendenden Verkehrsfreiheit
+
+28
+
+Vorab ist zu prüfen, ob Art. 45 AEUV, um dessen Auslegung vom vorlegenden Gericht ersucht wird, in einem Fall wie dem des Ausgangsverfahrens herangezogen werden kann, in dem es darum geht, wie in einem Mitgliedstaat Einkünfte behandelt werden, die ein im Inland Ansässiger aus seiner Tätigkeit in der öffentlichen Verwaltung eines anderen Mitgliedstaats erzielt, und insbesondere Beiträge zur Altersvorsorge- und Krankenversicherung, die im Beschäftigungsmitgliedstaat von diesen Einkünften einbehalten werden.
+
+29
+
+Die Kläger des Ausgangsverfahrens machen nämlich geltend, dass die im Ausgangsverfahren in Rede stehende Situation nach Art. 18 Abs. 1 AEUV zu beurteilen sei, da sie weder Arbeitnehmer noch Selbständige seien.
+
+30
+
+Hierzu ist zunächst darauf hinzuweisen, dass nach ständiger Rechtsprechung Art. 18 AEUV, der ein allgemeines Verbot jeder Diskriminierung aus Gründen der Staatsangehörigkeit anordnet, eigenständig nur auf unionsrechtlich geregelte Sachverhalte anzuwenden ist, für die der AEU‑Vertrag keine besonderen Diskriminierungsverbote vorsieht (vgl. u. a. Urteile vom 12. Mai 1998, Gilly, C‑336/96, EU:C:1998:221, Rn. 37, vom 26. November 2002, Oteiza Olazabal, C‑100/01, EU:C:2002:712, Rn. 25, vom 15. September 2011, Schulz-Delzers und Schulz, C‑240/10, EU:C:2011:591, Rn. 29, sowie vom 25. Oktober 2012, Prete, C‑367/11, EU:C:2012:668, Rn. 18).
+
+31
+
+Das Diskriminierungsverbot wurde aber für den Bereich der Freizügigkeit der Arbeitnehmer durch Art. 45 AEUV umgesetzt (vgl. u. a. Urteile vom 12. Mai 1998, Gilly, C‑336/96, EU:C:1998:221, Rn. 38, vom 10. September 2009, Kommission/Deutschland, C‑269/07, EU:C:2009:527, Rn. 98 und 99, vom 15. September 2011, Schulz-Delzers und Schulz, C‑240/10, EU:C:2011:591, Rn. 29, sowie vom 25. Oktober 2012, Prete, C‑367/11, EU:C:2012:668, Rn. 19).
+
+32
+
+Nach ständiger Rechtsprechung fällt jeder Angehörige der Europäischen Union, der vom Recht auf Freizügigkeit der Arbeitnehmer Gebrauch gemacht und in einem anderen Mitgliedstaat als dem Wohnsitzmitgliedstaat eine Berufstätigkeit ausgeübt hat, unabhängig von seinem Wohnort und seiner Staatsangehörigkeit in den Anwendungsbereich von Art. 45 AEUV (Urteile vom 12. Dezember 2002, de Groot, C‑385/00, EU:C:2002:750, Rn. 76, vom 2. Oktober 2003, van Lent, C‑232/01, EU:C:2003:535, Rn. 14, vom 13. November 2003, Schilling und Fleck-Schilling, C‑209/01, EU:C:2003:610, Rn. 23, sowie vom 16. Februar 2006, Öberg, C‑185/04, EU:C:2006:107, Rn. 11).
+
+33
+
+Hinsichtlich der Frage, ob die Klägerin des Ausgangsverfahrens, die in der öffentlichen Verwaltung eines Mitgliedstaats beschäftigt ist und in einem anderen Mitgliedstaat wohnt, unter den Begriff des Arbeitnehmers im Sinne von Art. 45 AEUV fällt, ist darauf hinzuweisen, dass die rechtliche Natur des Beschäftigungsverhältnisses für die Anwendung von Art. 45 AEUV nicht entscheidend ist und der Umstand, dass ein Arbeitnehmer in einem Beamtenverhältnis steht oder dass sein Beschäftigungsverhältnis nicht dem Privatrecht, sondern dem öffentlichen Recht unterliegt, insoweit unerheblich ist (vgl. Urteil vom 26. April 2007, Alevizos, C‑392/05, EU:C:2007:251, Rn. 68 und die dort angeführte Rechtsprechung).
+
+34
+
+Zwar finden die Bestimmungen von Art. 45 Abs. 1 bis 3 AEUV, in denen der tragende Grundsatz der Arbeitnehmerfreizügigkeit und die Abschaffung jeglicher Diskriminierung aufgrund der Staatsangehörigkeit zwischen den Arbeitnehmern der Mitgliedstaaten verankert sind, nach Art. 45 Abs. 4 AEUV keine Anwendung auf die Beschäftigung in der öffentlichen Verwaltung. Jedoch können die in dieser Bestimmung zugelassenen Ausnahmen wegen der grundlegenden Bedeutung, die der Grundsatz der Freizügigkeit der Arbeitnehmer innerhalb der Union im System des Vertrags hat, doch nicht weiter reichen als der Zweck, um dessentwillen sie vorgesehen sind, es erfordert (Urteile vom 12. Februar 1974, Sotgiu, 152/73, EU:C:1974:13, Rn. 4, und vom 26. April 2007, Alevizos, C‑392/05, EU:C:2007:251, Rn. 69).
+
+35
+
+Dieser Zweck besteht darin, den Mitgliedstaaten die Möglichkeit vorzubehalten, den Zugang ausländischer Staatsangehöriger zu bestimmten Tätigkeiten in der öffentlichen Verwaltung zu beschränken (Urteil vom 12. Februar 1974, Sotgiu, 152/73, EU:C:1974:13, Rn. 4), die ein Verhältnis besonderer Verbundenheit des jeweiligen Stelleninhabers zum Staat sowie die Gegenseitigkeit der Rechte und Pflichten voraussetzen, die dem Staatsangehörigkeitsband zugrunde liegen (vgl. Urteil vom 17. Dezember 1980, Kommission/Belgien, 149/79, EU:C:1980:297, Rn. 10). Hingegen kann Art. 45 Abs. 4 AEUV nicht dazu führen, dass ein Arbeitnehmer, der einmal in die öffentliche Verwaltung eines Mitgliedstaats aufgenommen worden ist, von der Anwendung der Bestimmungen des Art. 45 Abs. 1 bis 3 AEUV ausgeschlossen wird (Urteil vom 26. April 2007, Alevizos, C‑392/05, EU:C:2007:251, Rn. 70 und die dort angeführte Rechtsprechung).
+
+36
+
+Daher fällt die Klägerin des Ausgangsverfahrens unter den Arbeitnehmerbegriff im Sinne von Art. 45 AEUV, und ihre Beschäftigung in der öffentlichen Verwaltung eines Mitgliedstaats hat nicht zur Folge, dass ihr die Rechte und der Schutz, die ihr dieser Artikel gewährt, verweigert werden.
+
+Zum Vorliegen einer Beschränkung von Art. 45 AEUV
+
+37
+
+Nach ständiger Rechtsprechung zielen sämtliche Vertragsbestimmungen über die Freizügigkeit darauf ab, den Unionsbürgern die Ausübung beruflicher Tätigkeiten aller Art im Gebiet der Union zu erleichtern, und stehen Maßnahmen entgegen, die die Unionsbürger benachteiligen könnten, wenn sie im Gebiet eines anderen Mitgliedstaats eine wirtschaftliche Tätigkeit ausüben wollen (vgl. u. a. Urteile vom 13. November 2003, Schilling und Fleck-Schilling, C‑209/01, EU:C:2003:610, Rn. 24, vom 21. Februar 2006, Ritter-Coulais, C‑152/03, EU:C:2006:123, Rn. 33, vom 18. Juli 2007, Lakebrink und Peters-Lakebrink, C‑182/06, EU:C:2007:452, Rn. 17, sowie vom 16. Oktober 2008, Renneberg, C‑527/06, EU:C:2008:566, Rn. 43).
+
+38
+
+Die in der vorstehenden Randnummer dargestellte Rechtsprechung bezieht sich auf Maßnahmen, die diejenigen Unionsbürger benachteiligen könnten, die in einem anderen Mitgliedstaat als ihrem Wohnsitzmitgliedstaat einer Berufstätigkeit nachgehen, zu denen insbesondere auch die Unionsbürger gehören, die in einem bestimmten Mitgliedstaat weiterhin eine wirtschaftliche Tätigkeit ausüben wollen, nachdem sie ihren Wohnsitz in einen anderen Mitgliedstaat verlegt haben (Urteil vom 16. Oktober 2008, Renneberg, C‑527/06, EU:C:2008:566, Rn. 44).
+
+39
+
+Art. 45 AEUV steht insbesondere Maßnahmen entgegen, die – auch wenn sie ungeachtet der Staatsangehörigkeit anwendbar sind – sich ihrem Wesen nach stärker auf Wanderarbeitnehmer als auf inländische Arbeitnehmer auswirken können und folglich die Gefahr mit sich bringen, dass sie Wanderarbeitnehmer besonders benachteiligen (vgl. in diesem Sinne Urteile vom 5. Dezember 2013, Zentralbetriebsrat der gemeinnützigen Salzburger Landeskliniken, C‑514/12, EU:C:2013:799, Rn. 26 und die dort angeführte Rechtsprechung, sowie vom 2. März 2017, Eschenbrenner, C‑496/15, EU:C:2017:152, Rn. 36).
+
+40
+
+Aus der Vorlageentscheidung ergibt sich, dass die Kläger des Ausgangsverfahrens in Deutschland, wo sie wohnten, zusammen zur Einkommensteuer veranlagt wurden. Nach Art. 14 Abs. 1 und Art. 20 Abs. 1 des deutsch-französischen Abkommens wurde der von der Klägerin des Ausgangsverfahrens für ihre Tätigkeit in der französischen öffentlichen Verwaltung erzielte Lohn nicht in die Bemessungsgrundlage der Steuer der Kläger des Ausgangsverfahrens einbezogen. Allerdings wurde ihr Lohn nach Art. 20 Abs. 1 des Abkommens bei der Festsetzung des auf das gemäß § 32b EStG 2002 berechnete zu versteuernde Einkommen der Kläger des Ausgangsverfahrens anwendbaren besonderen Steuersatzes berücksichtigt.
+
+41
+
+Des Weiteren ist der Vorlageentscheidung zu entnehmen, dass von dem der Klägerin des Ausgangsverfahrens gezahlten Arbeitslohn bestimmte Beiträge zur Zusatzaltersvorsorge- und Zusatzkrankenversicherung in Frankreich einbehalten wurden. Diese Beiträge konnten vom Gesamtbetrag der Einkünfte der Kläger des Ausgangsverfahrens nicht als Sonderausgaben abgezogen werden. Zwar fallen nach den Angaben des vorlegenden Gerichts diese Beiträge materiell unter die in § 10 Abs. 1 Nrn. 2 und 3 EStG 2002 angeführten Fälle, jedoch hätten sie bei der Berechnung des zu versteuernden Einkommens der Kläger des Ausgangsverfahrens nicht abgezogen werden können, da sie in einem unmittelbaren wirtschaftlichen Zusammenhang mit steuerfreien Einnahmen stünden, weil der Arbeitslohn der Klägerin des Ausgangsverfahrens in Deutschland nicht besteuert werde.
+
+42
+
+Bei der Festsetzung des auf das zu versteuernde Einkommen der Kläger des Ausgangsverfahrens anwendbaren besonderen Steuersatzes nach § 32b EStG 2002 wurde der Arbeitslohn der Klägerin des Ausgangsverfahrens berücksichtigt, ohne dass die Beiträge zur Zusatzaltersvorsorge- und Zusatzkrankenversicherung abgezogen werden könnten. Nach § 32b Abs. 2 EStG 2002 ergibt sich die Berechnung des besonderen Steuersatzes nämlich daraus, dass das zu versteuernde Einkommen um die steuerfreien Einkünfte vermehrt wird. Die Beiträge zur Zusatzaltersvorsorge- und Zusatzkrankenversicherung konnten jedoch zum einen nicht bei der Berechnung des zu versteuernden Einkommens der Kläger des Ausgangsverfahrens in Abzug gebracht werden, weil diese Beiträge die Voraussetzung nach § 10 Abs. 2 EStG 2002 nicht erfüllten. Zum anderen war der Abzug dieser Beiträge im Stadium der Berechnung der Einkünfte nicht möglich, die nach § 2 Abs. 2 Nr. 2 EStG 2002 definiert sind als der Überschuss der Einnahmen über die Werbungskosten.
+
+43
+
+Die Möglichkeit, Beiträge zu Zusatzaltersvorsorge- und Zusatzkrankenversicherungen bei der Berechnung des zu versteuernden Einkommens des Steuerpflichtigen als Sonderausgaben abzuziehen, stellt eine steuerliche Vergünstigung dar, da sie die Minderung des zu versteuernden Einkommens sowie des hierauf anwendbaren Steuersatzes ermöglicht.
+
+44
+
+Die in § 10 Abs. 2 EStG 2002 vorgesehene Voraussetzung, wonach die Vorsorgeaufwendungen nicht in einem unmittelbaren wirtschaftlichen Zusammenhang mit steuerfreien Einnahmen stehen dürfen, führt zur Verweigerung dieser Vergünstigung in Fällen wie denen des Ausgangsverfahrens, in denen ein gebietsansässiger Steuerpflichtiger in einem anderen Mitgliedstaat als seinem Wohnsitzmitgliedstaat einen Arbeitslohn bezieht und dieser in seinem Wohnsitzmitgliedstaat von der Besteuerung befreit ist, allerdings im Rahmen des auf die weiteren Einkünfte des Steuerpflichtigen anwendbaren Steuersatzes berücksichtigt wird.
+
+45
+
+Die Voraussetzung des fehlenden unmittelbaren wirtschaftlichen Zusammenhangs mit steuerfreien Einnahmen kann zwar, wie die deutsche Regierung ausführt, nicht nur in Fällen mit grenzüberschreitendem Bezug, sondern auch bei rein innerstaatlichen Sachverhalten Anwendung finden.
+
+46
+
+Auf die Aufforderung, Beispiele für unter § 10 Abs. 2 EStG 2002 fallende inländische Einkünfte und Aufwendungen zu nennen, hat die deutsche Regierung Beiträge zur Rentenversicherung angeführt, die aufgrund des Bezugs von Krankengeld, Verletztengeld und Pflegeunterstützungsgeld zu zahlen sind, Beiträge zur Renten- und Krankenversicherung, soweit sie auf Gehaltszuschläge für Sonntags-, Feiertags- und Nachtarbeit zu zahlen sind, und Beiträge zur Kranken- und Rentenversicherung, die aufgrund eines Bezugs von Kapitalabfindungen eines Arbeitgebers, die in Deutschland von der Steuer befreit sind, zu zahlen sind.
+
+47
+
+Diese Arten von Zahlungen, Gehaltszuschlägen oder Leistungen sind jedoch mit den Löhnen und Gehältern, die Arbeitnehmern des privaten Sektors oder Angestellten im öffentlichen Dienst, die anders als deutsche Beamte sozialabgabenpflichtig sind, im Gegenzug für die geleistete Arbeit gezahlt werden, nicht vergleichbar. Aus den Akten und dem Verfahren vor dem Gerichtshof geht hervor, dass die Arbeitnehmer des privaten Sektors und die Angestellten im öffentlichen Dienst, die aus Deutschland Löhne und Gehälter beziehen, von denen Vorsorgeaufwendungen, die den im Ausgangsverfahren in Rede stehenden vergleichbar sind, einbehalten werden, ihr zu versteuerndes Einkommen um diese Beiträge mindern könnten.
+
+48
+
+Daher ist festzustellen, dass die Voraussetzung eines fehlenden unmittelbaren wirtschaftlichen Zusammenhangs mit steuerfreien Einnahmen sich trotz ihrer unterschiedslosen Anwendbarkeit stärker auf gebietsansässige Steuerpflichtige auswirken kann, die in einem anderen Mitgliedstaat als ihrem Wohnsitzmitgliedstaat Arbeitslöhne beziehen, die in ihrem Wohnsitzmitgliedstaat steuerbefreit sind.
+
+49
+
+Dass in Frankreich einbehaltene Beiträge zur Zusatzaltersvorsorge- und Zusatzkrankenversicherung, wie die im Ausgangsverfahren in Rede stehenden, nicht abgezogen werden, führt dazu, dass zum einen das zu versteuernde Einkommen von Steuerpflichtigen wie den Klägern des Ausgangsverfahrens erhöht wird und zum anderen der besondere Steuersatz auf der Grundlage dieses erhöhten zu versteuernden Einkommens berechnet wird, ohne dass er durch eine anderweitige Berücksichtigung dieser Beiträge korrigiert würde, was nicht der Fall gewesen wäre. Hätte die Klägerin des Ausgangsverfahrens ihren Arbeitslohn in Deutschland und nicht in Frankreich bezogen, wäre dies nicht der Fall gewesen.
+
+50
+
+Eine solche nachteilige Behandlung ist geeignet, gebietsansässige Arbeitnehmer davon abzubringen, in einem anderen Mitgliedstaat als ihrem Wohnsitzmitgliedstaat eine Beschäftigung zu suchen, anzunehmen oder ihr weiterhin nachzugehen.
+
+51
+
+Nationale Rechtsvorschriften wie die im Ausgangsverfahren in Rede stehenden, wonach der Abzug von Vorsorgeaufwendungen nur unter der Voraussetzung möglich ist, dass sie nicht in unmittelbarem wirtschaftlichem Zusammenhang mit steuerfreien Einnahmen stehen, stellen daher in einem Fall wie dem des Ausgangsverfahrens eine nach Art. 45 AEUV grundsätzlich verbotene Beschränkung der Arbeitnehmerfreizügigkeit dar.
+
+Zum Vorliegen einer Rechtfertigung
+
+52
+
+Eine solche Beschränkung ist nur statthaft, wenn sie Situationen betrifft, die nicht objektiv vergleichbar sind, oder wenn sie durch einen zwingenden Grund des Allgemeininteresses gerechtfertigt ist (vgl. u. a. Urteile vom 17. Dezember 2015, Timac Agro Deutschland, C‑388/14, EU:C:2015:829, Rn. 26, und vom 26. Mai 2016, Kohll und Kohll-Schlesser, C‑300/15, EU:C:2016:361, Rn. 45).
+
+53
+
+Zur objektiven Vergleichbarkeit der in Rede stehenden Situationen ist darauf hinzuweisen, dass die Vergleichbarkeit eines grenzüberschreitenden Sachverhalts mit einem innerstaatlichen Sachverhalt unter Berücksichtigung des mit den fraglichen nationalen Bestimmungen verfolgten Ziels zu prüfen ist (vgl. in diesem Sinne Urteile vom 25. Februar 2010, X Holding, C‑337/08, EU:C:2010:89, Rn. 22, vom 6. September 2012, Philips Electronics UK, C‑18/11, EU:C:2012:532, Rn. 17, und vom 26. Mai 2016, Kohll und Kohll-Schlesser, C‑300/15, EU:C:2016:361, Rn. 46).
+
+54
+
+Im vorliegenden Fall macht die deutsche Regierung geltend, dass eine rein nationale Situation, in der der Arbeitslohn des Steuerpflichtigen der deutschen Besteuerungsbefugnis unterliege, mit einer grenzüberschreitenden Situation wie der des Ausgangsverfahrens, in der die Bundesrepublik Deutschland nach dem deutsch-französischen Abkommen kein Besteuerungsrecht hinsichtlich des betreffenden Arbeitslohns habe, nicht objektiv vergleichbar sei, auch wenn die Klägerin des Ausgangsverfahrens in diesem Mitgliedstaat unbeschränkt steuerpflichtig sei.
+
+55
+
+Hierzu ist darauf hinzuweisen, dass es nach ständiger Rechtsprechung des Gerichtshofs grundsätzlich Sache des Wohnsitzmitgliedstaats ist, dem Steuerpflichtigen sämtliche an seine persönliche und familiäre Situation geknüpften steuerlichen Vergünstigungen zu gewähren, da dieser Staat, von Ausnahmen abgesehen, am besten die persönliche Steuerkraft des Steuerpflichtigen beurteilen kann, weil dieser dort den Mittelpunkt seiner persönlichen und seiner Vermögensinteressen hat (vgl. u. a. Urteile vom 14. Februar 1995, Schumacker, C‑279/93, EU:C:1995:31, Rn. 32, vom 16. Mai 2000, Zurstrassen, C‑87/99, EU:C:2000:251, Rn. 21, vom 28. Februar 2013, Beker und Beker, C‑168/11, EU:C:2013:117, Rn. 43, und vom 12. Dezember 2013, Imfeld und Garcet, C‑303/12, EU:C:2013:822, Rn. 43).
+
+56
+
+Die Verpflichtung, die persönliche und familiäre Situation zu berücksichtigen, kann den Beschäftigungsmitgliedstaat nur dann treffen, wenn der Steuerpflichtige sein gesamtes oder fast sein gesamtes zu versteuerndes Einkommen aus einer in diesem Staat ausgeübten Tätigkeit erzielt und in seinem Wohnsitzmitgliedstaat keine nennenswerten Einkünfte hat, so dass dieser nicht in der Lage ist, ihm die Vergünstigungen zu gewähren, die sich aus der Berücksichtigung seiner persönlichen und familiären Situation ergeben (vgl. u. a. Urteile vom 14. Februar 1995, Schumacker, C‑279/93, EU:C:1995:31, Rn. 36, vom 14. September 1999, Gschwind, C‑391/97, EU:C:1999:409, Rn. 27, vom 16. Mai 2000, Zurstrassen, C‑87/99, EU:C:2000:251, Rn. 21 bis 23, vom 12. Dezember 2002, de Groot, C‑385/00, EU:C:2002:750, Rn. 89, sowie vom 12. Dezember 2013, Imfeld und Garcet, C‑303/12, EU:C:2013:822, Rn. 44).
+
+57
+
+Ein gebietsansässiger Steuerpflichtiger, der in einem anderen Mitgliedstaat als seinem Wohnsitzmitgliedstaat Einkünfte erzielt, befindet sich hinsichtlich der aus der Berücksichtigung seiner persönlichen oder familiären Situation resultierenden Vergünstigungen nicht in einer Situation, die mit der eines gebietsansässigen Steuerpflichtigen vergleichbar ist, der in seinem Wohnsitzmitgliedstaat Einkünfte erzielt, insbesondere wenn der Wohnsitzmitgliedstaat des erstgenannten Steuerpflichtigen wegen des Nichtvorhandenseins nennenswerter Einkünfte in diesem Mitgliedstaat nicht in der Lage ist, ihm diese Vergünstigungen zu gewähren.
+
+58
+
+Im Ausgangsrechtsstreit ist dies jedoch nicht der Fall. Aufgrund der Zusammenveranlagung der Kläger des Ausgangsverfahrens wäre der Wohnsitzmitgliedstaat der Klägerin des Ausgangsverfahrens – selbst wenn sie dort über keine nennenswerte Einkünfte verfügte – in der Lage, ihr die Vergünstigungen aus der Berücksichtigung ihrer persönlichen und familiären Situation wie die Abzüge der im Ausgangsverfahren in Rede stehenden Beiträge zu gewähren.
+
+59
+
+Daher befindet sich die Klägerin des Ausgangsverfahrens in einer Situation, die der eines gebietsansässigen Steuerpflichtigen, der seine Einkünfte im Wohnsitzmitgliedstaat erzielt, vergleichbar ist.
+
+60
+
+Die Rechtfertigung der Beschränkung kann sich deshalb nur aus zwingenden Gründen des Allgemeininteresses ergeben. In diesem Fall muss die Beschränkung zudem geeignet sein, die Erreichung des verfolgten Ziels zu gewährleisten, und darf nicht über das hinausgehen, was hierzu erforderlich ist (Urteile vom 17. Dezember 2015, Timac Agro Deutschland, C‑388/14, EU:C:2015:829, Rn. 29 und die dort angeführte Rechtsprechung, sowie vom 26. Mai 2016, Kohll und Kohll-Schlesser, C‑300/15, EU:C:2016:361, Rn. 49).
+
+61
+
+In diesem Zusammenhang trägt die deutsche Regierung vor, dass die Versagung des Sonderausgabenabzugs bei steuerfreien Einkünften aus zwingenden Gründen des Allgemeininteresses im Hinblick auf die ausgewogene Aufteilung der Besteuerungsbefugnis zwischen der Bundesrepublik Deutschland und der Französischen Republik sowie auf die Kohärenz des nationalen Steuersystems gerechtfertigt sei.
+
+62
+
+Zum einen sei das Besteuerungsrecht für Einkünfte aus der französischen Staatskasse nach Art. 14 Abs. 1 Satz 1 des deutsch-französischen Abkommens der Französischen Republik zugewiesen. Die so vereinbarte Aufteilung der Besteuerungsbefugnis wäre gefährdet, wenn die Bundesrepublik Deutschland gezwungen wäre, die Sozialversicherungsbeiträge der Klägerin des Ausgangsverfahrens in vollem Umfang als Sonderausgaben zu berücksichtigen, ohne dabei das gesamte Welteinkommen zugrunde zu legen.
+
+63
+
+Zum anderen wäre § 10 Abs. 2 Nr. 1 EStG 2002, wenn nach ihm die in Frankreich gezahlten Sozialversicherungsbeiträge bei der Berechnung des zu versteuernden Einkommens berücksichtigt werden könnten, mit dem Grundsatz der Kohärenz der Steuersysteme insofern unvereinbar, als die Klägerin des Ausgangsverfahrens, obwohl die steuerfreien Einkünfte aus Frankreich bei der Berechnung der Bemessungsgrundlage keine Berücksichtigung fänden, die Vorsorgeaufwendungen im Rahmen der Zusammenveranlagung mit ihrem Ehemann dennoch von der Bemessungsgrundlage abziehen könnte. Der erhöhte Steuersatz im Rahmen des Progressionsvorbehalts der Eheleute würde über den Abzug der Aufwendungen bei der Berechnung des zu versteuernden Einkommens korrigiert werden. Außerdem weise die aus dem Abzug der Versicherungsbeiträge resultierende Vergünstigung einen unmittelbaren Zusammenhang mit der Besteuerung der entsprechenden Einkünfte auf, und im vorliegenden Fall erhalte die Klägerin des Ausgangsverfahrens, auch wenn ihr die theoretische Vergünstigung des Abzugs der Versicherungsbeiträge nicht gewährt werde, die Vergünstigung, dass ihre französischen Einkünfte in Deutschland nicht besteuert würden.
+
+64
+
+Erstens ist festzustellen, dass die Wahrung der Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten zwar einen zwingenden Grund des Allgemeininteresses darstellen kann, der eine Beschränkung der Ausübung einer Verkehrsfreiheit innerhalb der Union rechtfertigen kann (Urteile vom 28. Februar 2013, Beker und Beker, C‑168/11, EU:C:2013:117, Rn. 56, und vom 12. Dezember 2013, Imfeld und Garcet, C‑303/12, EU:C:2013:822, Rn. 68).
+
+65
+
+Diese Rechtfertigung kann insbesondere dann anerkannt werden, wenn mit der betreffenden Regelung Verhaltensweisen verhindert werden sollen, die geeignet sind, das Recht eines Mitgliedstaats auf Ausübung seiner Steuerhoheit für die in seinem Hoheitsgebiet durchgeführten Tätigkeiten zu gefährden (vgl. in diesem Sinne Urteile vom 29. März 2007, Rewe Zentralfinanz, C‑347/04, EU:C:2007:194, Rn. 42, vom 18. Juli 2007, Oy AA, C‑231/05, EU:C:2007:439, Rn. 54, vom 21. Januar 2010, SGI, C‑311/08, EU:C:2010:26, Rn. 60, vom 28. Februar 2013, Beker und Beker, C‑168/11, EU:C:2013:117, Rn. 57, sowie vom 12. Dezember 2013, Imfeld und Garcet, C‑303/12, EU:C:2013:822, Rn. 75).
+
+66
+
+Nach ständiger Rechtsprechung können die Mitgliedstaaten zwar im Rahmen bilateraler Abkommen zur Beseitigung der Doppelbesteuerung die Anknüpfungspunkte für die Bestimmung ihrer jeweiligen Steuerhoheit festlegen, jedoch erlaubt es diese Aufteilung der Steuerhoheit den Mitgliedstaaten nicht, Maßnahmen anzuwenden, die gegen die vom Vertrag garantierten Verkehrsfreiheiten verstoßen. Bei der Ausübung der in dieser Weise in bilateralen Doppelbesteuerungsabkommen aufgeteilten Steuerhoheit sind die Mitgliedstaaten nämlich verpflichtet, den Unionsvorschriften nachzukommen (vgl. in diesem Sinne Urteile vom 12. Dezember 2002, de Groot, C‑385/00, EU:C:2002:750, Rn. 93 und 94, vom 19. Januar 2006, Bouanich, C‑265/04, EU:C:2006:51, Rn. 49 und 50, sowie vom 12. Dezember 2013, Imfeld und Garcet, C‑303/12, EU:C:2013:822, Rn. 41 und 42).
+
+67
+
+Im vorliegenden Fall wurde die Frage der Aufteilung der Steuerhoheit zwischen der Französischen Republik und der Bundesrepublik Deutschland im deutsch-französischen Abkommen geregelt, wonach zunächst Gehälter, Löhne und ähnliche Vergütungen, die einer der Vertragsstaaten, ein Land oder eine juristische Person des öffentlichen Rechts dieses Staates oder Landes an in dem anderen Staat ansässige natürliche Personen für gegenwärtige oder frühere Dienstleistungen in der Verwaltung zahlt, nur in dem erstgenannten Staat besteuert werden können. Sodann bestimmt dieses Abkommen, dass die aus Frankreich stammenden Einkünfte, die nach dem Abkommen in diesem Mitgliedstaat zu versteuern sind und die von in der Bundesrepublik Deutschland gebietsansässigen Personen erzielt werden, von der Bemessungsgrundlage der deutschen Besteuerung ausgenommen sind, ohne dass diese Regelung das Recht der Bundesrepublik Deutschland einschränkte, die so ausgenommenen Einkünfte bei der Festsetzung ihres Steuersatzes zu berücksichtigen. Schließlich ist der Staat, aus dem die Einkünfte stammen, nach dem Abkommen nicht zur vollständigen Berücksichtigung der persönlichen und familiären Situation der Steuerpflichtigen verpflichtet, die ihre wirtschaftliche Betätigung in diesem Mitgliedstaat ausüben und im anderen Mitgliedstaat wohnen.
+
+68
+
+Die Bundesrepublik Deutschland hat somit die Aufteilung der Steuerhoheit, wie sie sich aus den Vereinbarungen selbst des deutsch-französischen Abkommens ergibt, freiwillig akzeptiert, indem sie auf das Recht zur Besteuerung von Löhnen wie den von der Klägerin des Ausgangsverfahrens erzielten verzichtet hat, ohne im Vertragswege von ihrer Verpflichtung zur vollständigen Berücksichtigung der persönlichen und familiären Situation der Steuerpflichtigen, die in ihrem Hoheitsgebiet wohnen und ihre wirtschaftliche Betätigung in Frankreich ausüben, entbunden zu sein.
+
+69
+
+Dieser Mechanismus für die Aufteilung der Steuerhoheit kann nicht zur Rechtfertigung dafür herangezogen werden, dass dem gebietsansässigen Steuerpflichtigen die Vergünstigungen, die sich aus der Berücksichtigung seiner persönlichen und familiären Situation ergeben, nicht gewährt werden.
+
+70
+
+Erlaubte die Bundesrepublik Deutschland den Abzug von Beiträgen zur Kranken- und Altersvorsorgeversicherung wie den im Ausgangsverfahren in Rede stehenden, würde dies zum einen die in dem deutsch-französischen Abkommen vereinbarte Aufteilung der Steuerhoheit nicht in Frage stellen. Durch die Gewährung des Abzugs dieser Beiträge würde die Bundesrepublik Deutschland nicht zugunsten anderer Mitgliedstaaten auf einen Teil ihrer Steuerhoheit verzichten, und dies würde nicht ihre Befugnis beeinträchtigen, die in ihrem Hoheitsgebiet ausgeübten Tätigkeiten zu besteuern.
+
+71
+
+Zum anderen hat der Gerichtshof bereits entschieden, dass sich der Wohnsitzmitgliedstaat eines Steuerpflichtigen nicht auf eine Rechtfertigung im Hinblick auf die ausgewogene Aufteilung der Steuerhoheit berufen kann, um sich der grundsätzlich ihm obliegenden Verantwortung zu entziehen, die dem Steuerpflichtigen zustehenden personen- und familienbezogenen Abzüge zu gewähren, es sei denn, dieser Staat wäre im Vertragswege von seiner Verpflichtung zur vollständigen Berücksichtigung der persönlichen und familiären Situation der Steuerpflichtigen, die in seinem Hoheitsgebiet wohnen und ihre wirtschaftliche Betätigung teilweise in einem anderen Mitgliedstaat ausüben, entbunden oder er stellte fest, dass ein oder mehrere Beschäftigungsstaaten – auch außerhalb irgendeiner Übereinkunft – in Bezug auf die von ihnen besteuerten Einkünfte Vergünstigungen gewähren, die mit der Berücksichtigung der persönlichen und familiären Situation derjenigen Steuerpflichtigen im Zusammenhang stehen, die nicht im Hoheitsgebiet dieser Staaten wohnen, dort aber zu versteuernde Einkünfte erzielen (vgl. in diesem Sinne Urteile vom 12. Dezember 2002, de Groot, C‑385/00, EU:C:2002:750, Rn. 99 und 100, vom 28. Februar 2013, Beker und Beker, C‑168/11, EU:C:2013:117, Rn. 56, sowie vom 12. Dezember 2013, Imfeld und Garcet, C‑303/12, EU:C:2013:822, Rn. 69).
+
+72
+
+Wie jedoch in den Rn. 67 und 68 des vorliegenden Urteils ausgeführt, ist die Bundesrepublik Deutschland nach dem deutsch-französischen Abkommen nicht von ihrer Verpflichtung zur vollständigen Berücksichtigung der persönlichen und familiären Situation der in ihrem Hoheitsgebiet ansässigen Steuerpflichtigen entbunden.
+
+73
+
+Hinsichtlich einer etwaigen einseitigen Berücksichtigung der persönlichen und familiären Situation der Klägerin des Ausgangsverfahrens durch den Beschäftigungsmitgliedstaat dadurch, dass ihr der steuerliche Abzug der im Ausgangsverfahren in Rede stehenden Versicherungsbeiträge gewährt wird, ist darauf hinzuweisen, dass im Vorabentscheidungsersuchen keine Angaben enthalten sind, anhand deren sich bestimmen ließe, ob eine solche Berücksichtigung erfolgt ist oder auch nur möglich wäre.
+
+74
+
+Jedenfalls stellt die im Ausgangsverfahren in Rede stehende Steuerregelung keine wechselseitige Beziehung zwischen den Gebietsansässigen des betreffenden Mitgliedstaats gewährten steuerlichen Vergünstigungen und den steuerlichen Vergünstigungen her, in deren Genuss diese in ihrem Beschäftigungsmitgliedstaat kommen können (vgl. entsprechend Urteil vom 12. Dezember 2013, Imfeld und Garcet, C‑303/12, EU:C:2013:822, Rn. 73).
+
+75
+
+Was zweitens die Notwendigkeit, die Kohärenz eines Steuersystems zu wahren, anbelangt, kann dieser zwingende Grund des Allgemeininteresses zwar eine Beschränkung der Ausübung der vom Vertrag gewährleisteten Grundfreiheiten rechtfertigen, doch kann ein auf diesen Rechtfertigungsgrund gestütztes Argument nur dann Erfolg haben, wenn zwischen der betreffenden steuerlichen Vergünstigung und deren Ausgleich durch eine bestimmte steuerliche Belastung ein unmittelbarer Zusammenhang besteht, wobei die Unmittelbarkeit dieses Zusammenhangs anhand des mit der fraglichen Regelung verfolgten Ziels beurteilt werden muss (vgl. in diesem Sinne Urteile vom 1. Juli 2010, Dijkman und Dijkman-Lavaleije, C‑233/09, EU:C:2010:397, Rn. 54 und 55 sowie die dort angeführte Rechtsprechung, und vom 26. Mai 2016, Kohll und Kohll-Schlesser, C‑300/15, EU:C:2016:361, Rn. 60).
+
+76
+
+Im vorliegenden Fall soll mit dem Vorbringen der deutschen Regierung zum einen dargetan werden, dass die Verweigerung des Abzugs der Sonderausgaben gewährleisten solle, dass der im Rahmen des Progressionsvorbehalts erhöhte Steuersatz der Eheleute nicht über die Minderung des zu versteuernden Einkommens korrigiert werde, und zum anderen, dass die aus dem Abzug der Beiträge resultierende Vergünstigung durch die Besteuerung der Einkünfte, die mit diesen Beiträgen in einem unmittelbaren Zusammenhang stünden, ausgeglichen werde.
+
+77
+
+Zwischen der Methode der Befreiung mit Progressionsvorbehalt, wonach der Wohnsitzmitgliedstaat darauf verzichtet, die in einem anderen Mitgliedstaat erzielten Einkünfte zu besteuern, sie aber gleichwohl bei der Festsetzung des auf das zu versteuernde Einkommen anwendbaren Steuersatzes berücksichtigt, und der Weigerung, in unmittelbarem Zusammenhang mit den steuerfreien Einkünften stehende Beiträge zu berücksichtigen, besteht jedoch kein unmittelbarer Zusammenhang im Sinne der in Rn. 75 des vorliegenden Urteils angeführten Rechtsprechung. Die Wirksamkeit der Einkommensteuerprogression im Wohnsitzmitgliedstaat, die mit der Methode der Befreiung mit Progressionsvorbehalt bezweckt wird, hängt nämlich nicht davon ab, dass die Berücksichtigung der persönlichen und familiären Situation des Steuerpflichtigen auf die Aufwendungen beschränkt wird, die in Zusammenhang mit den in diesem Mitgliedstaat versteuerten Einkünften stehen (vgl. entsprechend Urteil vom 12. Dezember 2002, de Groot, C‑385/00, EU:C:2002:750, Rn. 109).
+
+78
+
+Da die Bundesrepublik Deutschland im deutsch-französischen Abkommen vereinbart hat, dass die in Frankreich erzielten Einkünfte nur dort besteuert werden, kann sie zudem nicht geltend machen, dass der Nachteil, der sich aus der Verweigerung des Abzugs von Beiträgen wie den im Ausgangsverfahren in Rede stehenden ergibt, durch die Nichtbesteuerung dieser Einkünfte in Deutschland ausgeglichen werde. Diese Argumentation liefe in Wirklichkeit darauf hinaus, die Aufteilung der Steuerhoheit, die die Bundesrepublik Deutschland im deutsch-französischen Abkommen freiwillig vereinbart hat, in Frage zu stellen.
+
+79
+
+Die Weigerung, dem gebietsansässigen Steuerpflichtigen die Vergünstigungen aus der Berücksichtigung seiner persönlichen und familiären Situation in Form von Abzügen von Beiträgen zur Zusatzkranken- und Zusatzaltersvorsorgeversicherung, wie sie im Ausgangsverfahren in Rede stehen, als Sonderausgaben zu gewähren, kann daher weder durch Gründe einer ausgewogenen Aufteilung der Steuerhoheit noch durch die Wahrung der steuerlichen Kohärenz gerechtfertigt werden.
+
+80
+
+Nach alledem ist auf die Vorlagefragen zu antworten, dass Art. 45 AEUV dahin auszulegen ist, dass er der Regelung eines Mitgliedstaats wie der des Ausgangsverfahrens entgegensteht, wonach ein in diesem Mitgliedstaat wohnender und für die öffentliche Verwaltung eines anderen Mitgliedstaats tätiger Steuerpflichtiger Beiträge zur Altersvorsorge- und Krankenversicherung, die im Beschäftigungsmitgliedstaat von seinem Arbeitslohn einbehalten werden, – anders als vergleichbare Beiträge zur Sozialversicherung des Wohnsitzmitgliedstaats – nicht von der Bemessungsgrundlage der Einkommensteuer im Wohnsitzmitgliedstaat abziehen kann, wenn der Arbeitslohn nach dem Abkommen zur Vermeidung der Doppelbesteuerung zwischen den beiden Mitgliedstaaten im Wohnsitzmitgliedstaat des Arbeitnehmers nicht besteuert werden darf und nur den auf weitere Einkünfte anzuwendenden Steuersatz erhöht.
+
+Kosten
+
+81
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Zehnte Kammer) für Recht erkannt:
+
+ 	
+Art. 45 AEUV ist dahin auszulegen, dass er der Regelung eines Mitgliedstaats wie der des Ausgangsverfahrens entgegensteht, wonach ein in diesem Mitgliedstaat wohnender und für die öffentliche Verwaltung eines anderen Mitgliedstaats tätiger Steuerpflichtiger Beiträge zur Altersvorsorge- und Krankenversicherung, die im Beschäftigungsmitgliedstaat von seinem Arbeitslohn einbehalten werden, – anders als vergleichbare Beiträge zur Sozialversicherung des Wohnsitzmitgliedstaats – nicht von der Bemessungsgrundlage der Einkommensteuer im Wohnsitzmitgliedstaat abziehen kann, wenn der Arbeitslohn nach dem Abkommen zur Vermeidung der Doppelbesteuerung zwischen den beiden Mitgliedstaaten im Wohnsitzmitgliedstaat des Arbeitnehmers nicht besteuert werden darf und nur den auf weitere Einkünfte anzuwendenden Steuersatz erhöht.
+
+ 	
+Berger
+
+Levits
+
+Biltgen
+
+Verkündet in öffentlicher Sitzung in Luxemburg am 22. Juni 2017.
+
+Der Kanzler
+
+A. Calot Escobar
+
+Die Präsidentin der Zehnten Kammer
+
+M. Berger
+
+( 1 )	Verfahrenssprache: Deutsch.

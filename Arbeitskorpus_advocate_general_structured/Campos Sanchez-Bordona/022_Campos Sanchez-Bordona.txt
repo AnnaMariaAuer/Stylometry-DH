@@ -1,0 +1,656 @@
+﻿URTEIL DES GERICHTSHOFS (Fünfte Kammer)
+
+11. Juli 2018 ( *1 )
+
+„Vertragsverletzung eines Mitgliedstaats – Soziale Sicherheit – Verordnung (EG) Nr. 883/2004 – Art. 11, Art. 12 und Art. 76 Abs. 6 – Verordnung (EG) Nr. 987/2009 – Art. 5 – Entsendung eines Arbeitnehmers – Anschluss an ein System der sozialen Sicherheit – Betrugsbekämpfung – Bescheinigung A1 – Nichtanerkennung durch den Mitgliedstaat, in dem die betreffende Person ihre Erwerbstätigkeit ausübt, im Fall von Betrug oder Missbrauch“
+
+In der Rechtssache C‑356/15
+
+betreffend eine Vertragsverletzungsklage nach Art. 258 AEUV, eingelegt am 13. Juli 2015,
+
+Europäische Kommission, vertreten durch D. Martin als Bevollmächtigten, Zustellungsanschrift in Luxemburg,
+
+Klägerin,
+
+unterstützt durch
+
+Irland, vertreten durch E. Creedon, M. Browne, G. Hodge und A. Joyce als Bevollmächtigte im Beistand von C. Toland, BL,
+
+Streithelfer,
+
+gegen
+
+Königreich Belgien, vertreten durch L. Van den Broeck und M. Jacobs als Bevollmächtigte im Beistand von P. Paepe, avocat,
+
+Beklagter,
+
+erlässt
+
+DER GERICHTSHOF (Fünfte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten J. L. da Cruz Vilaça, der Richter E. Levits und A. Borg Barthet, der Richterin M. Berger (Berichterstatterin) sowie des Richters F. Biltgen,
+
+Generalanwalt: H. Saugmandsgaard Øe,
+
+Kanzler: A. Calot Escobar,
+
+aufgrund des schriftlichen Verfahrens,
+
+aufgrund des nach Anhörung des Generalanwalts ergangenen Beschlusses, ohne Schlussanträge über die Rechtssache zu entscheiden,
+
+folgendes
+
+Urteil
+
+1
+
+Mit ihrer Klage begehrt die Europäische Kommission die Feststellung, dass das Königreich Belgien mit den Art. 23 und 24 des Programmgesetzes vom 27. Dezember 2012 (Moniteur belge vom 31. Dezember 2012, S. 88860, im Folgenden: Programmgesetz) gegen seine Verpflichtungen aus Art. 11, Art. 12 und Art. 76 Abs. 6 der Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit (ABl. 2004, L 166, S. 1, Berichtigung: ABl. 2004, L 200, S. 1) in der durch die Verordnung (EU) Nr. 465/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 (ABl. 2012, L 149, S. 4) geänderten Fassung (im Folgenden: Verordnung Nr. 883/2004), aus Art. 5 der Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung Nr. 883/2004 (ABl. 2009, L 284, S. 1) und aus dem Beschluss Nr. A1 vom 12. Juni 2009 über die Einrichtung eines Dialog- und Vermittlungsverfahrens zu Fragen der Gültigkeit von Dokumenten, der Bestimmung der anzuwendenden Rechtsvorschriften und der Leistungserbringung gemäß der Verordnung Nr. 883/2004 (ABl. 2010, C 106, S. 1, im Folgenden: Beschluss Nr. A1) verstoßen hat.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+Verordnung Nr. 883/2004
+
+2
+
+In den Erwägungsgründen 5, 8, 15 und 17 der Verordnung Nr. 883/2004 heißt es:
+
+„(5)
+
+Es ist erforderlich, bei dieser Koordinierung innerhalb der Gemeinschaft sicherzustellen, dass die betreffenden Personen nach den verschiedenen nationalen Rechtsvorschriften gleich behandelt werden.
+
+…
+
+(8)
+
+Der allgemeine Grundsatz der Gleichbehandlung ist für Arbeitnehmer, die nicht im Beschäftigungsmitgliedstaat wohnen, einschließlich Grenzgängern, von besonderer Bedeutung.
+
+…
+
+(15)
+
+Es ist erforderlich, Personen, die sich innerhalb der Gemeinschaft bewegen, dem System der sozialen Sicherheit nur eines Mitgliedstaats zu unterwerfen, um eine Kumulierung anzuwendender nationaler Rechtsvorschriften und die sich daraus möglicherweise ergebenden Komplikationen zu vermeiden.
+
+…
+
+(17)
+
+Um die Gleichbehandlung aller im Hoheitsgebiet eines Mitgliedstaats erwerbstätigen Personen am besten zu gewährleisten, ist es zweckmäßig, als allgemeine Regel die Anwendung der Rechtsvorschriften des Mitgliedstaats vorzusehen, in dem die betreffende Person eine Beschäftigung oder eine selbstständige Erwerbstätigkeit ausübt.“
+
+3
+
+Art. 11 („Allgemeine Regelung“) Abs. 1 und 3 der Verordnung Nr. 883/2004 bestimmt:
+
+„(1)   Personen, für die diese Verordnung gilt, unterliegen den Rechtsvorschriften nur eines Mitgliedstaats. Welche Rechtsvorschriften dies sind, bestimmt sich nach diesem Titel.
+
+…
+
+(3)   Vorbehaltlich der Artikel 12 bis 16 gilt Folgendes:
+
+a)
+
+[E]ine Person, die in einem Mitgliedstaat eine Beschäftigung oder selbstständige Erwerbstätigkeit ausübt, unterliegt den Rechtsvorschriften dieses Mitgliedstaats;
+
+…“
+
+4
+
+Art. 12 („Sonderregelung“) Abs. 1 der Verordnung Nr. 883/2004 lautet:
+
+„Eine Person, die in einem Mitgliedstaat für Rechnung eines Arbeitgebers, der gewöhnlich dort tätig ist, eine Beschäftigung ausübt und die von diesem Arbeitgeber in einen anderen Mitgliedstaat entsandt wird, um dort eine Arbeit für dessen Rechnung auszuführen, unterliegt weiterhin den Rechtsvorschriften des ersten Mitgliedstaats, sofern die voraussichtliche Dauer dieser Arbeit 24 Monate nicht überschreitet und diese Person nicht eine andere entsandte Person ablöst.“
+
+5
+
+Art. 76 („Zusammenarbeit“) Abs. 6 der Verordnung Nr. 883/2004 lautet:
+
+„Werden durch Schwierigkeiten bei der Auslegung oder Anwendung dieser Verordnung die Rechte einer Person im Geltungsbereich der Verordnung in Frage gestellt, so setzt sich der Träger des zuständigen Mitgliedstaats oder des Wohnmitgliedstaats der betreffenden Person mit dem Träger des anderen betroffenen Mitgliedstaats oder den Trägern der anderen betroffenen Mitgliedstaaten in Verbindung. Wird binnen einer angemessenen Frist keine Lösung gefunden, so können die betreffenden Behörden die Verwaltungskommission befassen.“
+
+Verordnung Nr. 987/2009
+
+6
+
+Im zweiten Erwägungsgrund der Verordnung Nr. 987/2009 heißt es:
+
+„Die Organisation einer wirksameren und engeren Zusammenarbeit zwischen den Trägern der sozialen Sicherheit ist maßgeblich, damit die Personen im Geltungsbereich der Verordnung (EG) Nr. 883/2004 ihre Rechte so rasch und so gut wie möglich in Anspruch nehmen können.“
+
+7
+
+Art. 5 („Rechtswirkung der in einem anderen Mitgliedstaat ausgestellten Dokumente und Belege“) der Verordnung Nr. 987/2009 lautet:
+
+„(1)   Vom Träger eines Mitgliedstaats ausgestellte Dokumente, in denen der Status einer Person für die Zwecke der Anwendung der Grundverordnung und der Durchführungsverordnung bescheinigt wird, sowie Belege, auf deren Grundlage die Dokumente ausgestellt wurden, sind für die Träger der anderen Mitgliedstaaten so lange verbindlich, wie sie nicht von dem Mitgliedstaat, in dem sie ausgestellt wurden, widerrufen oder für ungültig erklärt werden.
+
+(2)   Bei Zweifeln an der Gültigkeit eines Dokuments oder der Richtigkeit des Sachverhalts, der den im Dokument enthaltenen Angaben zugrunde liegt, wendet sich der Träger des Mitgliedstaats, der das Dokument erhält, an den Träger, der das Dokument ausgestellt hat, und ersucht diesen um die notwendige Klarstellung oder gegebenenfalls um den Widerruf dieses Dokuments. Der Träger, der das Dokument ausgestellt hat, überprüft die Gründe für die Ausstellung und widerruft das Dokument gegebenenfalls.
+
+(3)   Bei Zweifeln an den Angaben der betreffenden Personen, der Gültigkeit eines Dokuments oder der Belege oder der Richtigkeit des Sachverhalts, der den darin enthaltenen Angaben zugrunde liegt, nimmt der Träger des Aufenthalts- oder Wohnorts, soweit dies möglich ist, nach Absatz 2 auf Verlangen des zuständigen Trägers die nötige Überprüfung dieser Angaben oder dieses Dokuments vor.
+
+(4)   Erzielen die betreffenden Träger keine Einigung, so können die zuständigen Behörden frühestens einen Monat nach dem Zeitpunkt, zu dem der Träger, der das Dokument erhalten hat, sein Ersuchen vorgebracht hat, die Verwaltungskommission anrufen. Die Verwaltungskommission bemüht sich binnen sechs Monaten nach ihrer Befassung um eine Annäherung der unterschiedlichen Standpunkte.“
+
+8
+
+Art. 6 („Vorläufige Anwendung der Rechtsvorschriften eines Mitgliedstaats und vorläufige Gewährung von Leistungen“) Abs. 1 der Verordnung Nr. 987/2009 bestimmt:
+
+„Besteht zwischen den Trägern oder Behörden zweier oder mehrerer Mitgliedstaaten eine Meinungsverschiedenheit darüber, welche Rechtsvorschriften anzuwenden sind, so unterliegt die betreffende Person vorläufig den Rechtsvorschriften eines dieser Mitgliedstaaten, sofern in der Durchführungsverordnung nichts anderes bestimmt ist, wobei die Rangfolge wie folgt festgelegt wird:
+
+a)
+
+den Rechtsvorschriften des Mitgliedstaats, in dem die Person ihrer Beschäftigung oder selbständigen Erwerbstätigkeit tatsächlich nachgeht, wenn die Beschäftigung oder selbständige Erwerbstätigkeit in nur einem Mitgliedstaat ausgeübt wird;
+
+…“
+
+9
+
+Mit dem Beschluss Nr. A1 wird ein Dialog- und Vermittlungsverfahren bei Zweifeln an der Gültigkeit eines Dokuments oder der Richtigkeit von Belegen oder bei einer Meinungsverschiedenheit zwischen Mitgliedstaaten darüber, welche Rechtsvorschriften anzuwenden sind oder welcher Träger die Leistungen zu erbringen hat, eingerichtet.
+
+Belgisches Recht
+
+10
+
+Das Programmgesetz enthält in Titel 3 („Sozialbetrug und korrekte Anwendung des Gesetzes“) Kapitel 1 Vorschriften über die Bekämpfung des Entsendungsbetrugs. Abschnitt 2 („Rechtsmissbrauch“) dieses Kapitels enthält die Art. 22 bis 25 des Programmgesetzes.
+
+11
+
+Art. 22 des Programmgesetzes bestimmt:
+
+„In diesem Kapitel bezeichnet der Ausdruck:
+
+1.   ‚europäische Koordinierungsverordnungen‘:
+
+a)
+
+Titel II der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und deren Familien, die innerhalb der Gemeinschaft zu- und abwandern [(ABl. 1971, L 149, S. 2)];
+
+b)
+
+Titel III der Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung [Nr. 1408/71 (ABl. 1972, L 74, S. 1)];
+
+c)
+
+Verordnung (EG) Nr. 859/2003 des Rates vom 14. Mai 2003 zur Ausdehnung der Bestimmungen der Verordnung (EWG) Nr. 1408/71 und der Verordnung (EWG) Nr. 574/72 auf Drittstaatsangehörige, die ausschließlich aufgrund ihrer Staatsangehörigkeit nicht bereits unter diese Bestimmungen fallen [(ABl. 2003, L 124, S. 1)];
+
+d)
+
+Titel II der Verordnung [Nr. 883/2004];
+
+e)
+
+Titel II der Verordnung [Nr. 987/2009];
+
+f)
+
+Verordnung (EU) Nr. 1231/2010 des Europäischen Parlaments und des Rates vom 24. November 2010 zur Ausdehnung der Verordnung (EG) Nr. 883/2004 und der Verordnung (EG) Nr. 987/2009 auf Drittstaatsangehörige, die ausschließlich aufgrund ihrer Staatsangehörigkeit nicht bereits unter diese Verordnungen fallen [(ABl. 2010, L 344, S. 1)];
+
+2.   ‚Leitfaden‘: von der Verwaltungskommission erarbeiteter Leitfaden zur Bestimmung des im Gebiet der Europäischen Union, des Europäischen Wirtschaftsraums und der Schweiz auf Arbeitnehmer anwendbaren Rechts;
+
+3.   ‚Verwaltungskommission‘: Verwaltungskommission zur Koordinierung der Systeme der sozialen Sicherheit;
+
+…“
+
+12
+
+Art. 23 des Programmgesetzes lautet:
+
+„Im Hinblick auf die in den europäischen Koordinierungsverordnungen enthaltenen Regeln zur Bestimmung des anwendbaren Rechts liegt ein Missbrauch vor, wenn bei einem Arbeitnehmer oder einem Selbstständigen Vorschriften der Koordinierungsverordnungen auf einen Sachverhalt angewandt werden, deren Voraussetzungen, wie sie in den Verordnungen festgelegt und im Leitfaden oder in den Beschlüssen der Verwaltungskommission präzisiert sind, nicht erfüllt sind, um sich den belgischen Rechtsvorschriften über die soziale Sicherheit, die auf den Sachverhalt hätten angewandt werden müssen, wenn die genannten Rechts- und Verwaltungsvorschriften beachtet worden wären, zu entziehen.“
+
+13
+
+Art. 24 des Programmgesetzes lautet:
+
+„(1)   Stellt ein nationales Gericht, eine öffentliche Einrichtung für soziale Sicherheit oder ein Sozialinspektor einen Missbrauch im Sinne des vorherigen Kapitels fest, werden auf den betreffenden Arbeitnehmer oder Selbstständigen die belgischen Rechtsvorschriften über die soziale Sicherheit angewandt, die nach den in Art. 22 genannten Rechts- und Verwaltungsvorschriften hätten angewandt werden müssen.
+
+(2)   Die belgischen Rechtsvorschriften über die soziale Sicherheit finden ab dem Tag Anwendung, an dem ihre Tatbestandsvoraussetzungen erfüllt sind, wobei die Verjährungsfristen gemäß Art. 42 Abs. 1 Satz 2 des Gesetzes vom 27. Juni 1969 zur Revision des Erlassgesetzes vom 28. Dezember 1944 über die soziale Sicherheit der Arbeitnehmer und Art. 16 des Königlichen Erlass[es] Nr. 38 vom 27. Juli 1967 zur Einführung des Sozialstatuts der Selbständigen berücksichtigt werden.“
+
+14
+
+Art. 25 des Programmgesetzes lautet:
+
+„Die Behörde oder der Inspektor, die bzw. der sich auf einen Missbrauch im Sinne von Art. 23 beruft, hat diesen nachzuweisen.“
+
+Vorverfahren
+
+15
+
+Die Kommission übermittelte dem Königreich Belgien am 21. November 2013 ein Mahnschreiben betreffend die Unvereinbarkeit der Art. 23 und 24 des Programmgesetzes mit Art. 11, Art. 12 und Art. 76 Abs. 6 der Verordnung Nr. 883/2004, Art. 5 der Verordnung Nr. 987/2009 und dem Beschluss Nr. A1.
+
+16
+
+Die Kommission rügte in diesem Schreiben, dass das Königreich Belgien die Art. 23 und 24 des Programmgesetzes erlassen habe, mit denen die zuständigen nationalen Behörden ermächtigt würden, einen entsandten Arbeitnehmer, der bereits in dem Mitgliedstaat, in dem sein Arbeitgeber gewöhnlich tätig sei, dem System der sozialen Sicherheit angeschlossen sei, unilateral und ohne Einhaltung des in den Verordnungen vorgesehenen Dialog- und Vermittlungsverfahrens den nationalen Rechtsvorschriften über die soziale Sicherheit zu unterwerfen, wenn das Dokument, mit dem der Anschluss an das System der sozialen Sicherheit dieses Mitgliedstaats gemäß den Verordnungen Nrn. 883/2004 und 987/2009 bescheinigt werde (im Folgenden: Bescheinigung A1), durch den entsprechenden Träger der sozialen Sicherheit rechtsmissbräuchlich ausgestellt worden sei.
+
+17
+
+Das Königreich Belgien antwortete auf das Mahnschreiben vom 21. November 2013 mit Schreiben vom 20. Januar 2014. Es berief sich u. a. auf das Rechtssprichwort fraus omnia corrumpit und das Verbot des Rechtsmissbrauchs als allgemeine Rechtsgrundsätze, aufgrund deren die Mitgliedstaaten mit nationalen Vorschriften vom abgeleiteten Unionsrecht abweichen dürften.
+
+18
+
+Die belgische Regierung machte ferner geltend, die Verordnungen Nrn. 883/2004 und 987/2009 ermöglichten es den Mitgliedstaaten, unilaterale Maßnahmen wie die durch Art. 23 und 24 des Programmgesetzes vorgesehenen zu erlassen, wenn sie der Auffassung seien, dass die Anwendung der Verordnungen zu Betrug und Rechtsmissbrauch führe.
+
+19
+
+Am 25. September 2014 übermittelte die Kommission dem Königreich Belgien eine mit Gründen versehene Stellungnahme, auf die dieses mit Schreiben vom 24. November 2014 antwortete. Die Kommission wies u. a. darauf hin, dass die in den Art. 23 und 24 des Programmgesetzes vorgesehenen Maßnahmen wegen des laufenden Vertragsverletzungsverfahrens vorläufig auszusetzen seien.
+
+20
+
+Da die Kommission die Antwort des Königreichs Belgien nicht für zufriedenstellend hielt, hat sie die vorliegende Klage erhoben.
+
+21
+
+Mit Beschluss des Präsidenten des Gerichtshofs vom 10. November 2015 ist Irland als Streithelfer zur Stützung der Anträge der Kommission zugelassen worden.
+
+Zur Klage
+
+Zur Zulässigkeit der Klage
+
+Zur Zulässigkeit der Klage insgesamt
+
+– Vorbringen der Parteien
+
+22
+
+Das Königreich Belgien hält die Klage insgesamt für unzulässig. Die Kommission habe die behauptete Vertragsverletzung, insbesondere die Unmöglichkeit, die streitigen Vorschriften des Programmgesetzes im Einklang mit den Vorschriften des Unionsrechts auszulegen und anzuwenden, nicht nachgewiesen, obwohl das Königreich Belgien in seiner Antwort auf die mit Gründen versehene Stellungnahme dargetan habe, dass eine solche Auslegung und Anwendung der betreffenden Vorschriften möglich sei.
+
+23
+
+Außerdem habe die Kommission ihre Behauptung, Art. 24 des Programmgesetzes stehe in offenem Widerspruch zu Art. 11, Art. 12 und Art. 76 Abs. 6 der Verordnung Nr. 883/2004 und Art. 5 der Verordnung Nr. 987/2009, nicht weiter untermauert.
+
+24
+
+Nach Auffassung der Kommission ist die Einrede der Unzulässigkeit zurückzuweisen.
+
+– Würdigung durch den Gerichtshof
+
+25
+
+Nach ständiger Rechtsprechung ist es in der Tat Sache der Kommission, das Vorliegen der behaupteten Vertragsverletzung nachzuweisen. Sie hat dem Gerichtshof alle erforderlichen Anhaltspunkte zu liefern, die es diesem ermöglichen, das Vorliegen der Vertragsverletzung zu prüfen, ohne dass sie sich hierfür auf irgendeine Vermutung stützen kann (Urteil vom 4. September 2014, Kommission/Frankreich, C‑237/12, EU:C:2014:2152, Rn. 32).
+
+26
+
+Ob die Kommission das Vorliegen der behaupteten Vertragsverletzung nachgewiesen hat, ist aber keine Frage der Zulässigkeit, sondern der Begründetheit der Klage (Urteil vom 4. Juni 2015, Kommission/Polen, C‑678/13, nicht veröffentlicht, EU:C:2015:358, Rn. 18 und die dort angeführte Rechtsprechung).
+
+27
+
+Die vom Königreich Belgien erhobene Einrede der Unzulässigkeit der Klage insgesamt ist also unbegründet. Sie ist zurückzuweisen.
+
+Zur Zulässigkeit der Rügen, mit denen ein Verstoß gegen Art. 11 der Verordnung Nr. 883/2004, Art. 5 der Verordnung Nr. 987/2009 und den Beschluss Nr. A1 geltend gemacht wird
+
+– Vorbringen der Parteien
+
+28
+
+Hilfsweise macht das Königreich Belgien erstens geltend, die Rüge eines Verstoßes gegen Art. 11 der Verordnung Nr. 883/2004 sei unbestimmt. Aus der Klageschrift gehe nicht eindeutig hervor, ob sich die Rüge auf Art. 11 insgesamt oder lediglich auf dessen Abs. 1 beziehe. Jedenfalls fehle es an einem genauen, zusammenhängenden Vorbringen speziell zu diesem Abs. 1.
+
+29
+
+Zweitens beziehe sich das Vorbringen in der Klageschrift zu einem Verstoß gegen Art. 5 der Verordnung Nr. 987/2009 ausschließlich auf dessen Abs. 1. Die Kommission habe in ihrer Erwiderung einen Verstoß gegen Art. 5 Abs. 2 bis 4 der Verordnung Nr. 987/2009 aus einem Verstoß gegen Art. 76 Abs. 6 der Verordnung Nr. 883/2004 abgeleitet. Das sei verspätet.
+
+30
+
+Drittens habe die Kommission einen Verstoß gegen den Beschluss Nr. A1 in ihrer Klageschrift lediglich genannt, ohne im Einzelnen darzulegen, inwieweit gegen diesen Beschluss verstoßen worden sei.
+
+31
+
+Nach Auffassung der Kommission ist die Einrede der Unzulässigkeit zurückzuweisen.
+
+– Würdigung durch den Gerichtshof
+
+32
+
+Aus Art. 120 Buchst. c der Verfahrensordnung des Gerichtshofs und der dazu ergangenen ständigen Rechtsprechung des Gerichtshofs ergibt sich, dass die Klageschrift den Streitgegenstand klar und deutlich angeben und eine kurze Darstellung der geltend gemachten Klagegründe enthalten muss, damit der Beklagte sein Verteidigungsvorbringen vorbereiten und der Gerichtshof seine Kontrollaufgabe wahrnehmen kann. Daraus leitet sich ab, dass sich die wesentlichen tatsächlichen und rechtlichen Umstände, auf die eine solche Klage gestützt wird, zusammenhängend und verständlich unmittelbar aus der Klageschrift ergeben müssen und dass die Klageanträge eindeutig formuliert sein müssen, um zu verhindern, dass der Gerichtshof ultra petita entscheidet oder eine Rüge übergeht (vgl. in diesem Sinne Urteil vom 2. Juni 2016, Kommission/Niederlande, C‑233/14, EU:C:2016:396, Rn. 32 und 34 sowie die dort angeführte Rechtsprechung).
+
+33
+
+Der Gerichtshof hat ferner entschieden, dass eine nach Art. 258 AEUV erhobene Klage eine zusammenhängende und genaue Darstellung der Rügen enthalten muss, damit der Mitgliedstaat und der Gerichtshof die Tragweite des gerügten Verstoßes gegen das Unionsrecht richtig erfassen können, was notwendig ist, damit der betreffende Staat sich sachgerecht verteidigen und der Gerichtshof überprüfen kann, ob die behauptete Vertragsverletzung vorliegt (Urteil vom 2. Juni 2016, Kommission/Niederlande, C‑233/14, EU:C:2016:396, Rn. 33 und die dort angeführte Rechtsprechung).
+
+34
+
+Insbesondere muss die Klage der Kommission eine zusammenhängende und detaillierte Darlegung der Gründe enthalten, aus denen diese zu der Überzeugung gelangt ist, dass der betreffende Mitgliedstaat gegen eine der ihm nach den Verträgen obliegenden Verpflichtungen verstoßen hat (Urteil vom 2. Juni 2016, Kommission/Niederlande, C‑233/14, EU:C:2016:396, Rn. 35 und die dort angeführte Rechtsprechung).
+
+35
+
+Im vorliegenden Fall genügt die Klageschrift den Anforderungen der in den vorstehenden Randnummern dargestellten Rechtsprechung.
+
+36
+
+Als Erstes ist zur Zulässigkeit der Rüge eines Verstoßes gegen Art. 11 der Verordnung Nr. 883/2004 festzustellen, dass sich sowohl aus den Klageanträgen als auch aus den in der Klageschrift ausgeführten Rügen eindeutig ergibt, dass Gegenstand der Klage die Unvereinbarkeit der Art. 23 und 24 des Programmgesetzes mit mehreren Vorschriften des Unionsrechts über die Entsendung von Arbeitnehmern ist. Die Situation entsandter Arbeitnehmer ist in Art. 12 Abs. 1 der Verordnung Nr. 883/2004 geregelt, der für solche Arbeitnehmer den die Verordnung prägenden Grundsatz umsetzt, nach dem Personen, für die die Verordnung gilt, nur den Rechtsvorschriften nur eines Mitgliedstaats unterliegen. Dieser Grundsatz ist in Art. 11 Abs. 1 der Verordnung Nr. 883/2004 niedergelegt. Die Abs. 2 bis 5 dieses Artikels betreffen nicht die Situation entsandter Arbeitnehmer.
+
+37
+
+Die Kommission hat sich in ihrer Klageschrift zwar allgemein auf Art. 11 der Verordnung Nr. 883/2004 bezogen. Diese enthält aber eine klare Darstellung der tatsächlichen und rechtlichen Umstände, auf die die Klage gestützt wird. Es ergibt sich sowohl aus dem Vorverfahren, insbesondere der mit Gründen versehenen Stellungnahme, die die Kommission dem Königreich Belgien übermittelt hat, als auch aus der Darstellung des rechtlichen Rahmens und der Gründe in der Klageschrift, dass die dem Königreich Belgien zur Last gelegte Vertragsverletzung in Bezug auf Art. 11 der Verordnung Nr. 883/2004 lediglich dessen Abs. 1 betrifft.
+
+38
+
+Im Übrigen hat das Königreich Belgien in seinen Schriftsätzen zur Rüge eines Verstoßes gegen Art. 11 Abs. 1 der Verordnung Nr. 883/2004 Stellung genommen. Es liegt also auf der Hand, dass es nicht darüber im Unklaren sein konnte, dass sich die Rügen der Kommission auf Abs. 1 dieses Artikels bezogen, und dass es sich zu diesen Rügen hat sachgerecht äußern können.
+
+39
+
+Als Zweites ist zur Zulässigkeit der Rüge eines Verstoßes gegen Art. 5 der Verordnung Nr. 987/2009 festzustellen, dass Art. 76 Abs. 6 der Verordnung Nr. 883/2004 den Mitgliedstaaten bei Schwierigkeiten bei der Auslegung oder Anwendung der Verordnung Nr. 883/2004 eine allgemeine Verpflichtung zur Zusammenarbeit auferlegt, wozu auch die Befassung der Verwaltungskommission gehört.
+
+40
+
+Nach Art. 5 Abs. 1 der Verordnung Nr. 987/2009 sind vom Träger eines Mitgliedstaats ausgestellte Dokumente, in denen der Status einer Person für die Zwecke der Anwendung der Verordnungen Nrn. 883/2004 und 987/2009 bescheinigt wird, sowie Belege, auf deren Grundlage die Dokumente ausgestellt wurden, für die Träger der anderen Mitgliedstaaten verbindlich. Die Abs. 2, 3 und 4 dieses Artikels beschreiben das Verfahren des Dialogs und der Vermittlung zwischen den betroffenen Trägern, das von dem Mitgliedstaat einzuhalten ist, der Zweifel an der Gültigkeit dieser Dokumente oder der Richtigkeit des Sachverhalts, der den darin enthaltenen Angaben zugrunde liegt, hat. Sie bestimmen also den Inhalt der allgemeinen Verpflichtung zur Zusammenarbeit zwischen den zuständigen Trägern der Mitgliedstaaten, wie sie in Art. 76 Abs. 6 der Verordnung Nr. 883/2004 vorgesehen ist.
+
+41
+
+Die Kommission hat in Rn. 10 ihrer Klageschrift den Inhalt von Art. 5 Abs. 1 der Verordnung Nr. 987/2009 und den Inhalt von Art. 76 Abs. 6 der Verordnung Nr. 883/2004 wiedergegeben. Außerdem ergibt sich eindeutig aus der Darstellung des rechtlichen Rahmens und der Gründe in der Klageschrift, dass dem Königreich Belgien zur Last gelegt wird, gegen seine Verpflichtung verstoßen zu haben, die durch Art. 76 Abs. 6 der Verordnung Nr. 883/2004 aufgestellten Grundsätze, wie sie in Art. 5 der Verordnung Nr. 987/2009 konkretisiert sind, zu beachten. Schließlich geht sowohl aus den im Vorverfahren ausgetauschten Schriftstücken, insbesondere der mit Gründen versehenen Stellungnahme, die die Kommission dem Königreich Belgien übermittelt hat, als auch aus der Klageschrift hervor, dass die Kommission einen Verstoß des Königreichs Belgien gegen Art. 5 der Verordnung 987/2009 insgesamt geltend macht.
+
+42
+
+Somit liegt auf der Hand, dass das Königreich Belgien, das über den Gegenstand der Rügen der Kommission zu Art. 5 der Verordnung Nr. 987/2009 insgesamt nicht im Unklaren sein konnte, in der Lage war, sachgerecht zu den Rügen der Kommission Stellung zu nehmen, und dass das Vorbringen, es bestehe ein Zusammenhang zwischen dieser Vorschrift und Art. 76 Abs. 6 der Verordnung Nr. 883/2004, nicht verspätet ist.
+
+43
+
+Als Drittes ist zur Zulässigkeit der Rüge eines Verstoßes gegen den Beschluss Nr. A1 festzustellen, dass die Kommission in Rn. 11 ihrer Klageschrift unter Berufung auf die Rechtsprechung des Gerichtshofs zur Bescheinigung A1 das Ziel und die Wirkungen dieser Bescheinigung beschreibt. Außerdem ergibt sich aus dem Vorbringen der Kommission in der Klageschrift insgesamt, insbesondere aus den Rn. 10 bis 12 der Klageschrift, dass sie dargelegt hat, warum sie dem Königreich Belgien vorwirft, die in dem Beschluss Nr. A1 vorgesehenen Verfahren nicht eingehalten zu haben.
+
+44
+
+Die Einrede des Königreichs Belgien, die Rügen, mit denen ein Verstoß gegen Art. 11 der Verordnung Nr. 883/2004, Art. 5 der Verordnung Nr. 987/2009 und den Beschluss Nr. A1 geltend gemacht wird, sei unzulässig, ist also unbegründet. Sie ist zurückzuweisen.
+
+45
+
+Mithin ist die Klage zulässig.
+
+Zur Begründetheit
+
+Vorbringen der Parteien
+
+46
+
+In ihrer Klageschrift weist die Kommission zunächst darauf hin, dass Art. 11 der Verordnung Nr. 883/2004 den Grundsatz aufstelle, dass die Personen, auf die diese Verordnung anwendbar sei, grundsätzlich den Rechtsvorschriften nur eines Mitgliedstaats unterlägen. Entsandte Arbeitnehmer unterlägen nach der Regel des Art. 12 der Verordnung Nr. 883/2004 weiterhin den Rechtsvorschriften des Mitgliedstaats, in dem sie gewöhnlich tätig seien. Dieser Mitgliedstaat stelle ihnen eine Bescheinigung A1 aus, mit der ihr Status als Versicherte in diesem Mitgliedstaat bescheinigt werde.
+
+47
+
+Nach Art. 5 Abs. 1 der Verordnung Nr. 987/2009 seien vom zuständigen Träger eines Mitgliedstaats ausgestellte Dokumente für die Träger der anderen Mitgliedstaaten so lange verbindlich, wie sie nicht von dem Mitgliedstaat, in dem sie ausgestellt worden seien, widerrufen oder für ungültig erklärt würden.
+
+48
+
+Für den Fall, dass durch Schwierigkeiten bei ihrer Auslegung oder Anwendung die Rechte einer Person in ihrem Geltungsbereich in Frage gestellt würden, sehe die Verordnung Nr. 883/2004 in Art. 76 vor, dass sich der zuständige Träger des Mitgliedstaats, in den der Arbeitnehmer entsandt sei, mit dem Träger des Herkunftsmitgliedstaats in Verbindung setze. Werde binnen einer angemessenen Frist keine Lösung gefunden, könne er die Verwaltungskommission befassen.
+
+49
+
+In dem Urteil vom 26. Januar 2006, Herbosch Kiere (C‑2/05, EU:C:2006:69, Rn. 24 und 25), habe der Gerichtshof bestätigt, dass die Bescheinigung A1, da sie eine Vermutung dafür begründe, dass die entsandten Arbeitnehmer dem System der sozialen Sicherheit des Mitgliedstaats, in dem das diese Arbeitnehmer entsendende Unternehmen seine Betriebsstätte habe, ordnungsgemäß angeschlossen seien, den zuständigen Träger des Mitgliedstaats, in den diese Arbeitnehmer entsandt seien, binde und notwendig zur Folge habe, dass das System der sozialen Sicherheit des anderen Mitgliedstaats nicht angewandt werden könne.
+
+50
+
+Der Erlass der Art. 23 und 24 des Programmgesetzes sei daher nicht mit den Art. 11, 12 und 76 der Verordnung Nr. 883/2004 und Art. 5 Abs. 1 der Verordnung Nr. 987/2009 in ihrer Auslegung durch den Gerichtshof zu vereinbaren.
+
+51
+
+Zu dem Vorbringen des Königreichs Belgien im Vorverfahren, es sei wegen des Rechtssprichworts fraus omnia corrumpit und des allgemeinen Grundsatzes des Verbots des Rechtsmissbrauchs zum Erlass der Art. 23 und 24 des Programmgesetzes verpflichtet, macht die Kommission geltend, für die Mitgliedstaaten gälten bei einem Missbrauchs- oder Betrugsverdacht strenge Vorgaben. Um Unionsbürgern den Genuss der Vorschriften des Unionsrechts vorzuenthalten, müssten die Gerichte eines Mitgliedstaats die Verhaltensweisen, die einen Missbrauch oder Betrug darstellen sollen, im Einzelfall auf der Grundlage tatsächlicher Umstände und unter Berücksichtigung der mit den betreffenden Vorschriften des Unionsrechts verfolgten Ziele beurteilen.
+
+52
+
+Die Modalitäten der Zusammenarbeit bei Betrug oder Missbrauch seien in den oben in Rn. 50 genannten Bestimmungen aber im Einzelnen geregelt, so dass für eine Abweichung von den Regeln des Unionsrechts auf der Grundlage des Grundsatzes fraus omnia corrumpit kein Raum sei.
+
+53
+
+Der allgemeine Grundsatz der Rechtssicherheit gebiete es, dass die Bescheinigung A1 für die Träger der sozialen Sicherheit und Gerichte des Mitgliedstaats, in den die betreffenden Arbeitnehmer entsandt seien, soweit mit ihr bescheinigt werde, dass die Arbeitnehmer dem System der sozialen Sicherheit des Mitgliedstaats, in dem ihr Unternehmen ansässig sei, angeschlossen seien, so lange verbindlich seien, wie sie nicht von dem Mitgliedstaat, in dem sie ausgestellt worden seien, widerrufen oder für ungültig erklärt würden. Der unilaterale Erlass der Art. 23 und 24 des Programmgesetzes verstoße gegen diesen Grundsatz und den in Art. 4 Abs. 3 EUV niedergelegten Grundsatz der loyalen Zusammenarbeit zwischen den Mitgliedstaaten.
+
+54
+
+Aus denselben Gründen tritt die Kommission dem Vorbringen des Königreichs Belgien entgegen, die Mitgliedstaaten seien nur, weil durch die Verordnungen Nrn. 883/2004 und 987/2009 für Betrugs- und Missbrauchsfälle spezielle Dialog- und Vermittlungsverfahren eingeführt worden seien, nicht daran gehindert, Betrug und Missbrauch mit anderen Mitteln zu bekämpfen.
+
+55
+
+Irland, das als Streithelfer die Anträge der Kommission unterstützt, macht insbesondere geltend, mit den genannten Verordnungen sei ein System der Bestimmung des anwendbaren Rechts eingeführt worden, das den Grundsatz der Rechtssicherheit beachte. Es beruhe auf der Regel der Anwendbarkeit der Rechtsvorschriften nur eines Mitgliedstaats und der Anerkennung der Bescheinigung A1. Außerdem sei ein System der Lösung von Streitfällen vorgesehen.
+
+56
+
+Zu dem Grundsatz fraus omnia corrumpit macht Irland geltend, ein solcher allgemeiner Grundsatz des Unionsrechts erlaube es nicht, sich über unzweideutiges geschriebenes Recht hinwegzusetzen. Sonst würde dessen Gültigkeit in Frage gestellt und der Grundsatz der Rechtssicherheit verletzt.
+
+57
+
+In seiner Klagebeantwortung weist das Königreich Belgien zunächst darauf hin, dass der Begriff des Missbrauchs im Hinblick auf die in den europäischen Koordinierungsverordnungen enthaltenen Regeln zur Bestimmung des anwendbaren Rechts im Sinne von Art. 23 des Programmgesetzes ein objektives und ein subjektives Tatbestandsmerkmal enthalte.
+
+58
+
+Als „Betrug“ würden z. B. gefälschte Bescheinigungen A1, Entsendungen in Belgien ansässiger Personen am Ende des Zeitraums ihres Anschlusses an das belgische System der sozialen Sicherheit, ununterbrochene Entsendungen, deren Dauer die Höchstdauer von 24 Monaten überschreite, oder das völlige Fehlen einer unmittelbaren Beziehung zwischen entsandtem Arbeitnehmer und Arbeitgeber sowie die in dem Leitfaden gemäß Art. 22 des Programmgesetzes beschriebenen Fälle eingestuft.
+
+59
+
+In solchen Fällen müsse nach Art. 23 des Programmgesetzes die Absicht, „sich den belgischen Rechtsvorschriften über die soziale Sicherheit, die auf den Sachverhalt hätten angewandt werden müssen, wenn die … Rechts- und Verwaltungsvorschriften eingehalten worden wären, zu entziehen“, festgestellt werden. Nicht unter diesen Artikel fielen Fälle der Sozialabgabenoptimierung oder Fälle, in denen die Bescheinigungen A1 lediglich sachliche Fehler enthielten.
+
+60
+
+Die Feststellung eines Missbrauchs im Sinne von Art. 24 Abs. 1 des Programmgesetzes könne nur nach einer Prüfung der objektiven Umstände im Einzelfall erfolgen.
+
+61
+
+Die Art. 23 und 24 des Programmgesetzes kämen also lediglich in den seltenen Fällen zum Tragen, in denen den zuständigen belgischen Behörden oder Gerichten der Nachweis eines Betrugs gelänge, der dazu geführt habe, dass eine Bescheinigung A1 ausgestellt worden sei, ohne dass die Vorschriften der Verordnungen Nrn. 883/2004 und 987/2009 erfüllt gewesen seien, um der Unterwerfung unter die nach diesen Vorschriften anwendbaren nationalen Rechtsvorschriften, nämlich den belgischen Rechtsvorschriften, zu entgehen. Die Behauptung der Kommission, die beanstandeten Vorschriften dienten dazu, eine Bescheinigung A1 für ungültig zu erklären, treffe nicht zu.
+
+62
+
+Der Dialog zwischen den Mitgliedstaaten über den Widerruf der Bescheinigungen A1 funktioniere nicht zufriedenstellend. Er sei nur ansatzweise und lückenhaft geregelt, so dass es notwendig sei, über wirksame Mittel zur Betrugsbekämpfung zu verfügen.
+
+63
+
+Das Königreich Belgien weist sodann auf die Bedeutung des in Art. 11 Abs. 3 Buchst. a der Verordnung Nr. 883/2004 niedergelegten Grundsatzes, nach dem die Rechtsvorschriften des Beschäftigungsmitgliedstaats Anwendung finden, und die für entsandte Arbeitnehmer vorgesehene Ausnahme von diesem Grundsatz hin. Ein Arbeitnehmer, der durch Betrug in den Genuss dieser Ausnahme komme, werde gegenüber anderen im Beschäftigungsmitgliedstaat beschäftigten Personen begünstigt.
+
+64
+
+Die Anwendung des durch die Verordnung Nr. 1408/71 eingeführten Kollisionssystems, das von der Verordnung Nr. 883/2004 übernommen worden sei, hänge allein von der objektiven Situation des betreffenden Arbeitnehmers ab. Die durch einen Betrug verursachte Anwendung von Art. 12 der Verordnung Nr. 883/2004 führe aber dazu, dass den Sozialversicherten unter Verstoß gegen zwingende Kollisionsregeln ein Wahlrecht gewährt werde.
+
+65
+
+Zum allgemeinen Grundsatz fraus omnia corrumpit macht das Königreich Belgien unter Berufung auf die Rechtsprechung des Gerichtshofs und die Lehre geltend, dass ein Mitgliedstaat keine Maßnahmen zur Durchführung der Verordnungen Nrn. 883/2004 und 987/2009 ergreifen dürfe, die gegen einen solchen allgemeinen Grundsatz des Unionsrechts verstießen. Einem Betrug müssten die nationalen Behörden und Gerichte unmittelbar entgegenwirken dürfen.
+
+66
+
+Zur Rüge eines Verstoßes gegen den Beschluss Nr. A1 macht das Königreich Belgien unter Berufung auf das Urteil vom 8. Juli 1992, Knoch (C‑102/91, EU:C:1992:303), geltend, der Beschluss habe keinen Rechtsnormcharakter, so dass seine Nichtbeachtung nicht Gegenstand einer Vertragsverletzungsklage sein könne.
+
+67
+
+Zur Rüge eines Verstoßes gegen die Art. 11 und 12 der Verordnung Nr. 883/2004 macht das Königreich Belgien geltend, die belgischen Behörden und Gerichte seien bei richtiger Anwendung der Verordnungen Nrn. 883/2004 und 987/2009 befugt, „den Genuss“ des durch Art. 12 der Verordnung Nr. 883/2004 „gewährten Vorteils“ zu verweigern, wenn dieser durch Betrug erlangt worden sei. Das Königreich Belgien weist insoweit das Vorbringen der Kommission zurück, die Existenz von Dialog- und Vermittlungsverfahren und die Verbindlichkeit der Bescheinigungen A1 stünden der Anwendung des Grundsatzes fraus omnia corrumpit entgegen.
+
+68
+
+Zu einem Verstoß gegen den Grundsatz, dass die Begünstigten der Verordnung Nr. 883/2004 den Rechtsvorschriften nur eines Mitgliedstaats unterlägen, macht das Königreich Belgien geltend, bei einem Betrug sei es möglich, dass der angeblich zuständige Träger die Bescheinigung A1 niemals ausgestellt habe, dass der Arbeitnehmer nicht den Rechtsvorschriften dieses Staates unterliege und dass er in Wirklichkeit über keinen Schutz im Bereich der sozialen Sicherheit verfüge. In einem solchen Fall liege kein qualifizierter Verstoß gegen den genannten Grundsatz vor. Außerdem führe Betrug zu unlauterem Wettbewerb und Sozialdumping. Die Anwendung der Art. 23 und 24 des Programmgesetzes garantiere somit einen „Anspruch auf die Leistungen der sozialen Sicherheit und die sozialen Vergünstigungen“ im Sinne von Art. 34 Abs. 2 der Charta der Grundrechte der Europäischen Union.
+
+69
+
+Selbst wenn die betreffende Person bereits dem System der sozialen Sicherheit des Mitgliedstaats des Trägers, der die Bescheinigung ausgestellt habe, angeschlossen sei, führe der Anschluss an das belgischen System der sozialen Sicherheit nicht zu einem doppelten Anschluss. Art. 6 Abs. 1 Buchst. a der Verordnung Nr. 987/2009 sehe nämlich ausdrücklich vor, dass die betreffende Person bei Meinungsverschiedenheiten zweier Mitgliedstaaten hinsichtlich der anzuwendenden Rechtsvorschriften vorläufig den Rechtsvorschriften eines dieser Mitgliedstaaten unterliege. In solchen Fällen hätten die Rechtsvorschriften des Mitgliedstaats, in dem die Person einer Erwerbstätigkeit tatsächlich nachgehe, Vorrang, sofern diese in nur einem Mitgliedstaat ausgeübt werde.
+
+70
+
+Zu einem Verstoß gegen Art. 5 Abs. 1 der Verordnung Nr. 987/2009 macht das Königreich Belgien geltend, die Anwendung des durch die Verordnung Nr. 883/2004 eingerichteten Kollisionssystems hänge von der objektiven Situation des betreffenden Arbeitnehmers ab, so dass in Fällen, in denen die zuständigen belgischen Behörden oder Gerichte feststellten, dass eine Bescheinigung A1 gefälscht oder durch Betrug erlangt worden sei, davon auszugehen sei, dass die Vermutung der Rechtmäßigkeit des Anschlusses der entsandten Arbeitnehmer widerlegt sei.
+
+71
+
+Außerdem habe sich der Gerichtshof noch nicht zu der Frage geäußert, ob solche Dokumente für die Träger der sozialen Sicherheit und die Gerichte des Mitgliedstaats, in den die Arbeitnehmer entsandt seien, selbst dann absolut verbindlich seien, wenn sie gefälscht oder durch Betrug erlangt worden seien. Die Vermutung der Rechtmäßigkeit des Anschlusses der entsandten Arbeitnehmer dürfe daher für Bescheinigungen A1, die nachweislich gefälscht oder durch Betrug erlangt worden seien, nicht gelten, so dass solche Bescheinigungen für die Träger der sozialen Sicherheit und die Gerichte des Mitgliedstaats, in denen die betreffenden Personen entsandt seien, nicht verbindlich seien.
+
+72
+
+Was die Rüge der Nichteinhaltung der Dialog- und Vermittlungsverfahren gemäß Art. 76 Abs. 6 der Verordnung Nr. 883/2004 und Art. 5 der Verordnung Nr. 987/2009 angeht, lässt das Königreich Belgien das Vorbringen der Kommission, die Anwendung dieser Verfahren sei das einzige Mittel, um Fällen von Betrug zu begegnen, andere Instrumente seien ausgeschlossen, nicht hingegen die parallele Anwendung der Dialog- und Vermittlungsverfahren, nicht gelten.
+
+73
+
+In ihrer Erwiderung wiederholt die Kommission die in der Klageschrift geltend gemachten Rügen und bekräftigt, dass die Art. 23 und 24 des Programmgesetzes es ermöglichten, die Bescheinigung A1 in Betrugsfällen für ungültig zu erklären, da die Anwendung dieser Artikel dazu führe, dass andere Rechtsvorschriften anwendbar seien.
+
+74
+
+Zu dem allgemeinen Grundsatz fraus omnia corrumpit macht die Kommission geltend, der Gerichtshof habe in dem Urteil vom 10. Februar 2000, FTS (C‑202/97, EU:C:2000:75, Rn. 53), ausdrücklich entschieden, dass die Mitgliedstaaten nicht ermächtigt seien, unilateral zu entscheiden, dass ein vom Herkunftsmitgliedstaat des Arbeitnehmers ausgestelltes Dokument durch Betrug erlangt worden sei.
+
+75
+
+Zur Rüge eines Verstoßes gegen Art. 11 Abs. 1 und Art. 12 der Verordnung Nr. 883/2004 macht die Kommission geltend, Art. 6 Abs. 1 Buchst. a der Verordnung Nr. 987/2009 sei entgegen dem Vorbringen des Königreichs Belgien in Fällen anwendbar, in denen die anwendbaren Rechtsvorschriften noch nicht bestimmt worden seien. Ziel dieser Vorschrift sei es, für die betreffenden Personen eine vorübergehende Sicherheit zu gewährleisten und nicht unter Verstoß gegen Art. 11 Abs. 1 und Art. 12 der Verordnung Nr. 883/2004 eine zweite gesetzliche Versicherung aufzuerlegen.
+
+76
+
+Zur Rüge eines Verstoßes gegen Art. 76 Abs. 6 der Verordnung Nr. 883/2004 und Art. 5 der Verordnung Nr. 987/2009 führt die Kommission aus, dass es ihr mit ihrer Klage nicht darum gehe, das Königreich Belgien daran zu hindern, Missbrauch und Betrug zu bekämpfen, sondern darum, zu gewährleisten, dass die durch die Verordnungen Nrn. 883/2004 und 987/2009 eingeführten Verfahren eingehalten würden. Indem es sich durch den Erlass der Art. 23 und 24 des Programmgesetzes erlaubt habe, unilateral Entscheidungen über die Unterwerfung entsandter Arbeitnehmer unter die belgischen Rechtsvorschriften zu erlassen, wenn seine eigenen Inspektoren und Träger der sozialen Sicherheit einen Betrugsfall „bescheinigt“ oder „bewiesen“ hätten, habe das Königreich Belgien gegen diese Verordnungen verstoßen, auch gegen den Grundsatz der loyalen Zusammenarbeit, der als allgemeiner Grundsatz auch im Fall von Betrug oder Missbrauch anwendbar bleibe.
+
+77
+
+Schließlich weist die Kommission im Zusammenhang mit dem Beschluss Nr. A1 darauf hin, dass darin die Modalitäten des durch Art. 76 der Verordnung Nr. 883/2004 und Art. 5 der Verordnung Nr. 987/2009 eingeführten Dialog- und Vermittlungsverfahrens präzisiert würden. In Art. 23 des Programmgesetzes werde im Übrigen darauf hingewiesen, dass dieses Verfahren einzuhalten sei. Das unilaterale Recht, das diese Vorschrift den belgischen Trägern in Verbindung mit Art. 24 des Programmgesetzes einräume, erlaube es dem Königreich Belgien aber gerade, die Modalitäten des Dialog- und Vermittlungsverfahrens, wie sie in dem Beschluss Nr. A1 präzisiert seien, nicht einzuhalten.
+
+78
+
+In seiner Gegenerwiderung wendet sich das Königreich Belgien insbesondere gegen das Verständnis der Kommission von Art. 6 Abs. 1 der Verordnung Nr. 987/2009. Dem Wortlaut dieser Vorschrift sei nicht zu entnehmen, dass sie nur in Fällen Anwendung finde, in denen die anwendbaren Rechtsvorschriften noch nicht bestimmt worden seien. Die Vorschrift komme zur Anwendung, wenn zwischen den Trägern oder Behörden von mindestens zwei Mitgliedstaaten hinsichtlich der Bestimmung der anwendbaren Rechtsvorschriften Meinungsverschiedenheiten bestünden, was, wenn die zuständigen Behörden oder Gerichte die Art. 23 und 24 des Programmgesetzes anwenden wollten, also in den überaus seltenen Fällen, in denen ein Betrug nachgewiesen sei, aber zwangsläufig der Fall sei.
+
+Würdigung durch den Gerichtshof
+
+79
+
+Zu den Rügen, mit denen ein Verstoß gegen Art. 11, Art. 12 und Art. 76 Abs. 6 der Verordnung Nr. 883/2004 und Art. 5 der Verordnung Nr. 987/2009 geltend gemacht wird, ist zunächst festzustellen, dass die Vorschriften der Verordnung Nr. 883/2004, nach denen sich die anzuwendenden Rechtsvorschriften bestimmen, u. a. bezwecken, dass die Betroffenen grundsätzlich dem System der sozialen Sicherheit eines einzigen Mitgliedstaats unterliegen, so dass die Kumulierung anwendbarer nationaler Rechtsvorschriften und die Schwierigkeiten, die sich daraus ergeben können, vermieden werden. Dieser Grundsatz kommt insbesondere in Art. 11 Abs. 1 der Verordnung zum Ausdruck (vgl. entsprechend Urteile vom 12. Juni 2012, Hudzinski und Wawrzyniak, C‑611/10 und C‑612/10, EU:C:2012:339, Rn. 41, und vom 12. Februar 2015, Bouman, C‑114/13, EU:C:2015:81, Rn. 33).
+
+80
+
+Nach Art. 12 Abs. 1 der Verordnung Nr. 883/2004 sind auf den entsandten Arbeitnehmer unter den in dieser Bestimmung genannten Voraussetzungen die Rechtsvorschriften des Mitgliedstaats anwendbar, in dem der Arbeitgeber gewöhnlich tätig ist, und nicht die Rechtsvorschriften des Mitgliedstaats, in den der Arbeitnehmer entsandt ist.
+
+81
+
+Die zuständigen Behörden des Mitgliedstaats, in dem der Arbeitgeber gewöhnlich tätig ist, stellen dem entsandten Arbeitnehmer die Bescheinigung A1 aus, mit der bescheinigt wird, dass er in diesem Mitgliedstaat versichert ist.
+
+82
+
+Art. 5 Abs. 1 der Verordnung Nr. 987/2009 bestimmt hinsichtlich der Rechtswirkung der vom Träger eines Mitgliedstaats ausgestellten Dokumente, in denen der Status einer Person für die Zwecke der Anwendung der Verordnungen Nrn. 883/2004 und 987/2009 bescheinigt wird, sowie der Belege, auf deren Grundlage die Dokumente ausgestellt wurden, dass diese Dokumente für die Träger der anderen Mitgliedstaaten so lange verbindlich sind, wie sie nicht von dem Mitgliedstaat, in dem sie ausgestellt wurden, widerrufen oder für ungültig erklärt werden.
+
+83
+
+Nach Art. 76 Abs. 6 der Verordnung Nr. 883/2004 setzt sich der Träger des zuständigen Mitgliedstaats oder des Wohnmitgliedstaats der betreffenden Person mit dem Träger des anderen betroffenen Mitgliedstaats in Verbindung, wenn durch Schwierigkeiten bei der Auslegung oder Anwendung dieser Verordnung die Rechte einer Person im Geltungsbereich der Verordnung in Frage gestellt werden. Wird binnen einer angemessenen Frist keine Lösung gefunden, so können die betreffenden Behörden die Verwaltungskommission befassen.
+
+84
+
+Art. 12 Abs. 1 der Verordnung Nr. 883/2004 übernimmt im Wesentlichen den Inhalt von Art. 14 Abs. 1 Buchst. a der Verordnung Nr. 1408/71. Da die Verordnung Nr. 883/2004 die Regel beibehält, dass der entsandte Arbeitnehmer den Rechtsvorschriften des Staates unterliegt, in dem sein Arbeitgeber gewöhnlich tätig ist, und mit den beiden Verordnungen dieselben Ziele verfolgt werden, ist die Rechtsprechung des Gerichtshofs zur Verordnung Nr. 1408/71 weiter analog heranzuziehen.
+
+85
+
+Danach erklärt der zuständige Träger des Mitgliedstaats, in dem der Arbeitgeber gewöhnlich tätig ist, in der Bescheinigung A1, dass sein eigenes System der sozialen Sicherheit auf entsandte Arbeitnehmer während der Dauer der Entsendung anwendbar bleibt. Wegen des Grundsatzes, dass die Arbeitnehmer einem einzigen System der sozialen Sicherheit angeschlossen sein sollen, hat die Bescheinigung A1 damit notwendig zur Folge, dass das System der sozialen Sicherheit des Mitgliedstaats, in den der Arbeitnehmer entsandt ist, nicht angewandt werden kann (vgl. in diesem Sinne Urteile vom 10. Februar 2000, FTS, C‑202/97, EU:C:2000:75, Rn. 49, und vom 26. Januar 2006, Herbosch Kiere, C‑2/05, EU:C:2006:69, Rn. 21).
+
+86
+
+Der Mitgliedstaat, in den die Arbeitnehmer entsandt werden, würde gegen den Grundsatz der loyalen Zusammenarbeit gemäß Art. 4 Abs. 3 EUV verstoßen und die mit Art. 12 Abs. 1 der Verordnung Nr. 883/2004 und Art. 5 Abs. 1 der Verordnung Nr. 987/2009 verfolgten Ziele verfehlen, wenn er Rechtsvorschriften erließe, mit denen seine Träger ermächtigt werden, sich unilateral nicht an die Angaben in der Bescheinigung gebunden zu sehen und die Arbeitnehmer ihrem eigenen System der sozialen Sicherheit zu unterstellen (vgl. in diesem Sinne Urteile vom 10. Februar 2000, FTS, C‑202/97, EU:C:2000:75, Rn. 52, vom 26. Januar 2006, Herbosch Kiere, C‑2/05, EU:C:2006:69, Rn. 23, und vom 6. Februar 2018, Altun u. a., C‑359/16, EU:C:2018:63, Rn. 38).
+
+87
+
+Da die Bescheinigung A1 eine Vermutung dafür begründet, dass der Anschluss der entsandten Arbeitnehmer an das System der sozialen Sicherheit des Mitgliedstaats, in dem das Unternehmen, das die Arbeitnehmer entsendet, seine Betriebsstätte hat, ordnungsgemäß ist, bindet sie folglich grundsätzlich den zuständigen Träger des Mitgliedstaats, in den die Arbeitnehmer entsandt sind (vgl. in diesem Sinne Urteile vom 10. Februar 2000, FTS, C‑202/97, EU:C:2000:75, Rn. 53, vom 26. Januar 2006, Herbosch Kiere, C‑2/05, EU:C:2006:69, Rn. 24, und vom 27. April 2017, A‑Rosa Flussschiff, C‑620/15, EU:C:2017:309, Rn. 41).
+
+88
+
+Jede andere Lösung würde den Grundsatz des Anschlusses der Arbeitnehmer an ein einziges System der sozialen Sicherheit sowie die Vorhersehbarkeit des anwendbaren Systems und damit die Rechtssicherheit beeinträchtigen: In Fällen, in denen die Feststellung des anwendbaren Systems schwierig wäre, könnte der zuständige Träger beider betreffenden Mitgliedstaaten sein eigenes System der sozialen Sicherheit für anwendbar erklären, was den betroffenen Arbeitnehmern zum Nachteil gereichen würde (vgl. Urteile vom 26. Januar 2006, Herbosch Kiere, C‑2/05, EU:C:2006:69, Rn. 25, und vom 27. April 2017, A‑Rosa Flussschiff, C‑620/15, EU:C:2017:309, Rn. 42).
+
+89
+
+Der Grundsatz der vertrauensvollen Zusammenarbeit nach Art. 4 Abs. 3 EUV verpflichtet den zuständigen Träger des Mitgliedstaats, der die Bescheinigung A1 ausgestellt hat, aber, den Sachverhalt, der für die Bestimmung der im Bereich der sozialen Sicherheit anwendbaren Rechtsvorschriften maßgebend ist, ordnungsgemäß zu beurteilen und damit die Richtigkeit der in der Bescheinigung aufgeführten Angaben zu gewährleisten (Urteile vom 27. April 2017, A‑Rosa Flussschiff, C‑620/15, EU:C:2017:309, Rn. 39, und vom 6. Februar 2018, Altun u. a., C‑359/16, EU:C:2018:63, Rn. 37).
+
+90
+
+Außerdem muss der zuständige Träger des Mitgliedstaats, der die Bescheinigung A1 ausgestellt hat, deren Richtigkeit überprüfen und die Bescheinigung gegebenenfalls zurückziehen, wenn der zuständige Träger des Mitgliedstaats, in den die Arbeitnehmer entsandt sind, Zweifel an der Richtigkeit des der Bescheinigung zugrunde liegenden Sachverhalts und demnach der darin gemachten Angaben insbesondere deshalb geltend macht, weil diese den Tatbestand des Art. 12 Abs. 1 der Verordnung Nr. 883/2004 nicht erfüllt haben (vgl. in diesem Sinne Urteil vom 6. Februar 2018, Altun u. a., C‑359/16, EU:C:2018:63, Rn. 43 und die dort angeführte Rechtsprechung).
+
+91
+
+Soweit die betroffenen Träger im Einzelfall namentlich bei der Beurteilung des Sachverhalts zu keiner Übereinstimmung gelangen, können sie sich an die Verwaltungskommission wenden (vgl. in diesem Sinne Urteil vom 6. Februar 2018, Altun u. a., C‑359/16, EU:C:2018:63, Rn. 44 und die dort angeführte Rechtsprechung).
+
+92
+
+Gelingt es dieser nicht, zwischen den Standpunkten der zuständigen Träger in Bezug auf das anwendbare Recht zu vermitteln, steht es dem Mitgliedstaat, in den die betreffenden Arbeitnehmer entsandt sind – unbeschadet einer in dem Mitgliedstaat der ausstellenden Behörde etwa möglichen Klage –, zumindest frei, gemäß Art. 259 AEUV ein Vertragsverletzungsverfahren einzuleiten, so dass der Gerichtshof die Frage des auf diese Arbeitnehmer anwendbaren Rechts und damit die Richtigkeit der Angaben in der Bescheinigung A1 prüfen kann (vgl. in diesem Sinne Urteil vom 6. Februar 2018, Altun u. a., C‑359/16, EU:C:2018:63, Rn. 45).
+
+93
+
+Im Fall eines – selbst offensichtlichen – Beurteilungsfehlers in Bezug auf die Anwendungsvoraussetzungen der Verordnung Nr. 883/2004, und auch wenn sich herausstellen sollte, dass die Bedingungen, unter denen die betreffenden Arbeitnehmer ihre Tätigkeit ausüben, offensichtlich nicht in den sachlichen Anwendungsbereich der Bestimmung fallen, auf deren Grundlage die Bescheinigung A1 ausgestellt worden ist, ist daher das Verfahren, das zu befolgen ist, um etwaige Streitigkeiten zwischen den Trägern der betreffenden Mitgliedstaaten über die Gültigkeit oder die Richtigkeit einer Bescheinigung A1 beizulegen, einzuhalten (Urteil vom 6. Februar 2018, Altun u. a., C‑359/16, EU:C:2018:63, Rn. 46 und die dort angeführte Rechtsprechung).
+
+94
+
+Könnte der Mitgliedstaat, in den der Arbeitnehmer entsandt ist, Rechtsvorschriften erlassen, mit denen seine Träger ermächtigt werden, eine Bescheinigung A1 von einem Gericht dieses Staates unilateral für ungültig erklären zu lassen, wäre das auf die vertrauensvolle Zusammenarbeit zwischen den zuständigen Trägern der Mitgliedstaaten gegründete System gefährdet. Solange sie nicht zurückgezogen oder für ungültig erklärt wird, gilt die Bescheinigung A1 deshalb grundsätzlich in der Rechtsordnung des Mitgliedstaats, in den die Arbeitnehmer entsandt worden sind, und bindet daher seine Träger (vgl. in diesem Sinne Urteil vom 26. Januar 2006, Herbosch Kiere, C‑2/05, EU:C:2006:69, Rn. 30 und 31).
+
+95
+
+Rechtsvorschriften wie die Art. 23 und 24 des Programmgesetzes, die die zuständigen Träger des Königreichs Belgien ermächtigen, einen Arbeitnehmer im Fall eines Rechtsmissbrauchs in Bezug auf die Verordnungen Nrn. 883/2004 und 987/2009 unilateral den belgischen Rechtsvorschriften über die soziale Sicherheit zu unterwerfen, sind daher nicht mit dem Grundsatz der Zugehörigkeit der Beschäftigten zu nur einem System der sozialen Sicherheit, wie er in Art. 11 Abs. 1 der Verordnung Nr. 883/2004 niedergelegt ist, und dem Grundsatz der Rechtssicherheit vereinbar, der u. a. gebietet, dass Rechtsnormen klar, bestimmt und hinsichtlich ihrer Folgen voraussehbar sein müssen, insbesondere dann, wenn sie für Einzelne und Unternehmen nachteilige Folgen haben können (vgl. in diesem Sinne u. a. Urteil vom 12. Dezember 2013, Claimants in the Franked Investment Income Group Litigation, C‑362/12, EU:C:2013:834, Rn. 44 und die dort angeführte Rechtsprechung).
+
+96
+
+Sie sind auch nicht mit den Vorschriften der Verordnungen Nrn. 883/2004 und 987/2009 über das Verfahren bei Schwierigkeiten bei der Auslegung oder Anwendung dieser Verordnungen vereinbar, insbesondere, wenn der Mitgliedstaat, in den der Arbeitnehmer entsandt ist, der Auffassung ist, dass die Voraussetzungen von Art. 12 Abs. 1 der Verordnung Nr. 883/2004 nicht erfüllt sind.
+
+97
+
+Diese Feststellung wird durch das Vorbringen des Königreichs Belgien, seine nationalen Behörden seien bei einem nachgewiesenen Betrug befugt, die Anwendung von Art. 12 Abs. 1 der Verordnung Nr. 883/2004 abzulehnen, nicht entkräftet.
+
+98
+
+Als Erstes ist festzustellen, dass keine Bestimmung der Verordnung Nr. 883/2004 oder der Verordnung Nr. 987/2009 eine Ermächtigung der Mitgliedstaaten enthält, bei einem Betrug oder Missbrauch unilateral durch ein Gesetz die Nichtanwendbarkeit von Art. 12 Abs. 1 der Verordnung Nr. 883/2004 vorzusehen, so dass der Grundsatz der loyalen Zusammenarbeit, den Art. 76 Abs. 6 der Verordnung Nr. 883/2004 und Art. 5 der Verordnung Nr. 987/2009 konkretisieren, auch in solchen Fällen Anwendung findet.
+
+99
+
+Nach der Rechtsprechung des Gerichtshofs können sich die Rechtsunterworfenen nicht in betrügerischer oder missbräuchlicher Weise auf die Rechtsvorschriften der Europäischen Union berufen. Der Grundsatz des Verbots von Betrug und Rechtsmissbrauch stellt einen allgemeinen Grundsatz des Unionsrechts dar, der von den Rechtsunterworfenen zu beachten ist. Die Anwendung der Unionsrechtsvorschriften kann nicht so weit gehen, dass Vorgänge geschützt werden, die zu dem Zweck durchgeführt werden, betrügerisch oder missbräuchlich in den Genuss von im Unionsrecht vorgesehenen Vorteilen zu gelangen (Urteil vom 6. Februar 2018, Altun u. a., C‑359/16, EU:C:2018:63, Rn. 48 und 49 sowie die dort angeführte Rechtsprechung).
+
+100
+
+Wenn im Rahmen des in Art. 76 Abs. 6 der Verordnung Nr. 883/2004 vorgesehenen Dialogs der Träger des Mitgliedstaats, in den Arbeitnehmer entsandt wurden, dem Träger, der die Bescheinigungen A1 ausgestellt hat, konkrete Beweise vorlegt, die den Schluss zulassen, dass diese Bescheinigungen betrügerisch erlangt wurden, hat der ausstellende Träger gemäß dem Grundsatz der loyalen Zusammenarbeit anhand dieser Beweise erneut zu prüfen, ob die Ausstellung zu Recht erfolgt ist, und die Bescheinigungen gegebenenfalls zurückzuziehen (Urteil vom 6. Februar 2018, Altun u. a., C‑359/16, EU:C:2018:63, Rn. 54).
+
+101
+
+Nimmt der ausstellende Träger nicht innerhalb einer angemessenen Frist eine solche erneute Überprüfung vor, müssen diese Beweise im Rahmen eines gerichtlichen Verfahrens geltend gemacht werden dürfen, um zu erreichen, dass das Gericht des Mitgliedstaats, in den die Arbeitnehmer entsandt wurden, die betreffenden Bescheinigungen außer Acht lässt (Urteil vom 6. Februar 2018, Altun u. a., C‑359/16, EU:C:2018:63, Rn. 55).
+
+102
+
+In einem solchen Fall kann das nationale Gericht die betreffenden Bescheinigungen A1 außer Acht lassen und hat festzustellen, ob die Personen, die verdächtigt werden, entsandte Arbeitnehmer unter Verwendung von betrügerisch erwirkten Bescheinigungen eingesetzt zu haben, auf der Grundlage des anwendbaren innerstaatlichen Rechts zur Verantwortung gezogen werden können (Urteil vom 6. Februar 2018, Altun u. a., C‑359/16, EU:C:2018:63, Rn. 60).
+
+103
+
+Die Personen, denen in einem solchen Verfahren zur Last gelegt wird, entsandte Arbeitnehmer unter Verwendung von betrügerisch erlangten Bescheinigungen eingesetzt zu haben, müssen jedoch unter Beachtung der mit dem Recht auf ein faires Verfahren zusammenhängenden Garantien die Möglichkeit erhalten, die Beweise, auf die sich dieses Verfahren stützt, zu entkräften, bevor das nationale Gericht gegebenenfalls entscheidet, diese Bescheinigungen außer Acht zu lassen, und über die Verantwortlichkeit dieser Personen nach dem anwendbaren innerstaatlichen Recht befindet (Urteil vom 6. Februar 2018, Altun u. a., C‑359/16, EU:C:2018:63, Rn. 56).
+
+104
+
+Die nationale Regelung, um die es im vorliegenden Fall geht, genügt nicht den oben in den Rn. 100 und 101 dargestellten Anforderungen.
+
+105
+
+Zum einen sieht sie keinerlei Verpflichtung zur Einleitung des Dialog- und Vermittlungsverfahrens gemäß den Verordnungen Nrn. 883/2004 und 987/2009 vor. Zum anderen wird nicht allein dem nationalen Richter die Befugnis eingeräumt, darüber zu entscheiden, ob ein Betrug vorliegt, und eine Bescheinigung A1 deshalb außer Acht zu lassen. Nach der Regelung können auch die belgischen öffentlichen Einrichtungen für soziale Sicherheit und die belgischen Sozialinspektoren ohne Gerichtsverfahren entscheiden, dass ein entsandter Arbeitnehmer den belgischen Rechtsvorschriften über die soziale Sicherheit unterliegt.
+
+106
+
+Als Zweites ist festzustellen, dass ein Mitgliedstaat die Nichterfüllung seiner Verpflichtungen aus dem Vertrag nach ständiger Rechtsprechung nicht mit dem Hinweis rechtfertigen kann, andere Mitgliedstaaten kämen ihren Verpflichtungen ebenfalls nicht nach. Denn in der durch den AEU-Vertrag geschaffenen Unionsrechtsordnung kann die Durchführung des Unionsrechts durch die Mitgliedstaaten nicht von einer Gegenseitigkeitsvoraussetzung abhängig gemacht werden. Die Art. 258 und 259 AEUV sehen die geeigneten Rechtsbehelfe vor, um Verstößen der Mitgliedstaaten gegen Verpflichtungen aus dem AEU-Vertrag zu begegnen (Urteil vom 19. November 2009, Kommission/Finnland, C‑118/07, EU:C:2009:715, Rn. 48 und die dort angeführte Rechtsprechung).
+
+107
+
+Als Drittes ist zu dem Vorbringen, die Rücknahme von Bescheinigungen A1 sei nur ansatzweise und lückenhaft geregelt, was den Mitgliedstaaten, die sofortige Maßnahmen zur Ahndung des Betrugs ergreifen müssten, Schwierigkeiten bereite, festzustellen, dass zwar nicht ausgeschlossen ist, dass das Dialog- und Vermittlungsverfahren in der Praxis nicht immer zufriedenstellend und reibungslos funktioniert. Die Mitgliedstaaten können jedoch aus etwaigen Schwierigkeiten beim Einholen der erforderlichen Informationen oder aus Defiziten, die bei der Kooperation ihrer zuständigen Behörden auftreten können, keine Rechtfertigung dafür herleiten, dass sie ihren Verpflichtungen aus dem Unionsrecht nicht nachkommen (vgl. in diesem Sinne Urteil vom 6. Juni 2013, Kommission/Belgien, C‑383/10, EU:C:2013:364, Rn. 53 und die dort angeführte Rechtsprechung).
+
+108
+
+Als Viertes ist zu dem Vorbringen des Königreichs Belgien, dass, auch wenn die betreffende Person bereits dem System der sozialen Sicherheit des Mitgliedstaats des Trägers, der die Bescheinigung ausgestellt hat, angeschlossen sei, der Anschluss an das belgische System der sozialen Sicherheit nicht zu einem Doppelanschluss führe, da die betreffende Person nach Art. 6 Abs. 1 Buchst. a der Verordnung Nr. 987/2009 vorläufig den Rechtsvorschriften des Mitgliedstaats unterliege, in dem sie tatsächlich einer Beschäftigung oder selbständigen Erwerbstätigkeit nachgehe, festzustellen, dass eine solche Auslegung Art. 5 Abs. 2, 3 und 4 der Verordnung Nr. 987/2009 gegenstandslos machen würde. Bei einem gemäß Art. 5 Abs. 1 dieser Verordnung ausgestellten Dokument muss bei zwischen den zuständigen Trägern verschiedener Mitgliedstaaten bestehenden Meinungsverschiedenheiten über das Dokument nämlich das Verfahren gemäß Art. 5 Abs. 2, 3 und 4 der Verordnung angewandt werden. Die Anwendung von Art. 6 der Verordnung Nr. 987/2009 ist in einem solchen Fall ausgeschlossen.
+
+109
+
+Den Rügen der Kommission, mit denen geltend gemacht wird, das Königreich Belgien habe gegen seine Verpflichtungen aus Art. 11 Abs. 1, Art. 12 Abs. 1 und Art. 76 Abs. 6 der Verordnung Nr. 883/2004 und Art. 5 der Verordnung Nr. 987/2009 verstoßen, ist daher stattzugeben.
+
+110
+
+Was die Rüge angeht, mit der ein Verstoß gegen den Beschluss Nr. A1 geltend gemacht wird, ist festzustellen, dass ein solcher Beschluss nach ständiger Rechtsprechung zwar für die Sozialversicherungsträger, denen die Durchführung des Unionsrechts auf diesem Gebiet übertragen ist, ein Hilfsmittel darstellen kann; er ist aber nicht geeignet, sie zu verpflichten, bei der Anwendung des Unionsrechts bestimmte Methoden anzuwenden oder von einer bestimmten Auslegung auszugehen (Urteile vom 8. Juli 1992, Knoch, C‑102/91, EU:C:1992:303, Rn. 52, und vom 1. Oktober 1992, Grisvard und Kreitz, C‑201/91, EU:C:1992:368, Rn. 25).
+
+111
+
+Da der Beschluss Nr. A1 demnach keinen normativen Charakter hat, kann dem Königreich Belgien nicht zur Last gelegt werden, mit dem Erlass der Art. 23 und 24 des Programmgesetzes gegen ihn verstoßen zu haben.
+
+112
+
+Die Rüge eines Verstoßes gegen den Beschluss Nr. A1 ist also als unbegründet zurückzuweisen.
+
+113
+
+Nach alledem ist festzustellen, dass das Königreich Belgien mit den Art. 23 und 24 des Programmgesetzes gegen seine Verpflichtungen aus Art. 11 Abs. 1, Art. 12 Abs. 1 und Art. 76 Abs. 6 der Verordnung Nr. 883/2004 und Art. 5 der Verordnung Nr. 987/2009 verstoßen hat.
+
+Kosten
+
+114
+
+Nach Art. 138 Abs. 1 der Verfahrensordnung ist die unterliegende Partei auf Antrag zur Tragung der Kosten zu verurteilen. Da die Vertragsverletzung im Wesentlichen festgestellt worden ist, ist das Königreich Belgien gemäß dem Antrag der Kommission zur Tragung der Kosten zu verurteilen.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Fünfte Kammer) für Recht erkannt und entschieden:
+
+ 	
+1.
+
+Das Königreich Belgien hat mit den Art. 23 und 24 des Programmgesetzes vom 27. Dezember 2012 gegen seine Verpflichtungen aus Art. 11 Abs. 1, Art. 12 Abs. 1 und Art. 76 Abs. 6 der Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit in der durch die Verordnung (EU) Nr. 465/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 geänderten Fassung und Art. 5 der Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung Nr. 883/2004 verstoßen.
+
+ 	
+2.
+
+Im Übrigen wird die Klage abgewiesen.
+
+ 	
+3.
+
+Das Königreich Belgien trägt die Kosten.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Französisch.

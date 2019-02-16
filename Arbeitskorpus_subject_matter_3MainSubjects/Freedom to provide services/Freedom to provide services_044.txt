@@ -1,0 +1,542 @@
+URTEIL DES GERICHTSHOFS (Sechste Kammer)
+
+28. Februar 2018 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Freier Dienstleistungsverkehr – Art. 56 AEUV – Art. 4 Abs. 3 EUV – Charta der Grundrechte der Europäischen Union – Beschränkungen – Glücksspiel – Nationale Regelung – Veranstaltung bestimmter Arten von Glücksspielen durch den Staat – Ausschließlichkeit – Konzessionssystem für andere Arten von Spielen – Erfordernis einer Erlaubnis – Verwaltungsrechtliche Sanktion“
+
+In der Rechtssache C‑3/17
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Fővárosi Közigazgatási és Munkaügyi Bíróság (Hauptstädtisches Verwaltungs- und Arbeitsgericht, Ungarn) mit Entscheidung vom 4. Oktober 2016, beim Gerichtshof eingegangen am 3. Januar 2017, in dem Verfahren
+
+Sporting Odds Ltd
+
+gegen
+
+Nemzeti Adó- és Vámhivatal Központi Irányítása
+
+erlässt
+
+DER GERICHTSHOF (Sechste Kammer)
+
+unter Mitwirkung des Kammerpräsidenten C. G. Fernlund sowie der Richter J.‑C. Bonichot und S. Rodin (Berichterstatter),
+
+Generalanwalt: M. Szpunar,
+
+Kanzler: A. Calot Escobar,
+
+aufgrund des schriftlichen Verfahrens,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der Sporting Odds Ltd, vertreten durch A. Nemescsói und Gy. V. Radics, ügyvédek,
+
+–
+
+der ungarischen Regierung, vertreten durch M. Z. Fehér und G. Koós als Bevollmächtigte,
+
+–
+
+der belgischen Regierung, vertreten durch L. Van den Broeck und M. Jacobs als Bevollmächtigte im Beistand von P. Vlaemminck, R. Verbeke und J. Auwerx, avocats,
+
+–
+
+der estnischen Regierung, vertreten durch N. Grünberg als Bevollmächtigte,
+
+–
+
+der maltesischen Regierung, vertreten durch A. Buhagiar als Bevollmächtigte,
+
+–
+
+der portugiesischen Regierung, vertreten durch L. Inez Fernandes, M. Figueiredo, A. Silva Coelho und P. de Sousa Inês als Bevollmächtigte,
+
+–
+
+der Europäischen Kommission, vertreten durch H. Tserepa-Lacombe und L. Havas als Bevollmächtigte,
+
+aufgrund des nach Anhörung des Generalanwalts ergangenen Beschlusses, ohne Schlussanträge über die Rechtssache zu entscheiden,
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 4 Abs. 3 EUV, Art. 56 AEUV sowie der Art. 41, 47 und 48 der Charta der Grundrechte der Europäischen Union (im Folgenden: Charta).
+
+2
+
+Es ergeht im Rahmen eines Rechtsstreits zwischen der Sporting Odds Ltd und der Nemzeti Adó- és Vámhivatal Központi Irányítása (Zentraldirektion der nationalen Steuer- und Zollverwaltung, Ungarn) (im Folgenden: Finanzverwaltung) wegen deren Entscheidung, Sporting Odds ein Bußgeld in Höhe von 3500000 ungarischen Forint (HUF) (etwa 11306 Euro) aufzuerlegen (im Folgenden: streitige Entscheidung), weil Sporting Odds ohne die hierfür erforderliche Konzession oder Erlaubnis Online-Glücksspiele veranstaltet habe.
+
+Rechtlicher Rahmen
+
+Das Glücksspielgesetz
+
+3
+
+§ 2 Abs. 2 des Szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény (Gesetz Nr. XXXIV von 1991 über die Veranstaltung von Glücksspielen) in der zur Zeit des Sachverhalts des Ausgangsverfahrens geltenden Fassung (im Folgenden: Glücksspielgesetz) lautet:
+
+„Die Veranstaltung von Glücksspielen bedarf – außer in den in diesem Gesetz vorgesehenen Fällen – der Erlaubnis durch die nationale Steuerbehörde. …“
+
+4
+
+In § 3 Abs. 1, 1(a), 1(b) und 3 des Glücksspielgesetzes heißt es:
+
+„(1)   Mit Ausnahme der Veranstaltung von Online-Glücksspielen oder des Betriebs von Online-Casinos kann die Veranstaltung von nicht liberalisierten Glücksspielen
+
+a)
+
+von einer zu 100 % im Eigentum des ungarischen Staates stehenden und zur regelmäßigen Veranstaltung von Glücksspielen gegründeten Wirtschaftsorganisation (im Folgenden: staatlicher Spielveranstalter), von einer im ausschließlichen Eigentum des staatlichen Spielveranstalters stehenden Handelsgesellschaft oder von einer Wirtschaftsorganisation, an der der Staat mehrheitlich beteiligt ist, durchgeführt werden;
+
+b)
+
+der Staat kann das Recht zur Ausübung dieser Tätigkeit durch Konzessionsvertrag zeitweilig auf eine andere Person übertragen.
+
+(1a)   Der Fernvertrieb von Glücksspielen darf
+
+a)
+
+mit Ausnahme von Pferdewetten ausschließlich von der zu 100 % im Eigentum des ungarischen Staates stehenden Szerencsejáték Zrt.,
+
+b)
+
+wenn es sich um Pferdewetten handelt, ausschließlich von der zu 100 % im Eigentum des ungarischen Staates stehenden Magyar Lóversenyfogadást-szervező Kft.
+
+veranstaltet werden.
+
+(1b)   Zur Veranstaltung von Online-Casinospielen sind ausschließlich Inhaber von Konzessionen zum Betrieb eines auf dem Gebiet Ungarns gelegenen Spielcasinos berechtigt, die die Online-Casinospiele über die zum Zweck der Veranstaltung von Casinospielen konzessionierte Gesellschaft durchführen dürfen.
+
+…
+
+(3)   Zur Veranstaltung von Zahlenlotterien und von Wetten – mit Ausnahme von Pferdewetten, Glücksspielen im Fernvertrieb und Buchmacherwetten – ist ausschließlich der staatliche Spielveranstalter berechtigt.“
+
+5
+
+§ 4 Abs. 1 und 6 des Glücksspielgesetzes bestimmt:
+
+„(1)   Der Abschluss eines Konzessionsvertrags erfolgt aufgrund öffentlicher Ausschreibung durch den Minister nach § 5 Abs. 1 des [A koncesszióról szóló 1991. évi XVI. törvény (Gesetz Nr. XVI von 1991 über die Konzessionen; im Folgenden: Konzessionsgesetz)]. Die Ausschreibung erfordert – außer bei einer landesweiten Ausschreibung – auch die Zustimmung der Vertretungskörperschaft der Gemeindeselbstverwaltung, in Budapest der Hauptstädtischen Selbstverwaltungsvollversammlung. Bei einem über eine landesweite Ausschreibung vergebenen Konzessionsrecht erteilt die staatliche Steuerverwaltung die Erlaubnis für die Gemeinden, bei denen die betreffende Selbstverwaltungskörperschaft – in Budapest die Hauptstädtische Selbstverwaltungsvollversammlung – der Ausübung der Tätigkeit auf dem Gemeindegebiet zugestimmt hat.
+
+…
+
+(6)   Gemäß § 10/C Abs. 2 des Konzessionsgesetzes kann der Minister mit einem zuverlässigen Glücksspielveranstalter im Sinne des vorliegenden Gesetzes einen Konzessionsvertrag auch ohne öffentliche Ausschreibung abschließen.“
+
+6
+
+§ 5 Abs. 1 des Glücksspielgesetzes lautet:
+
+„Bei einer öffentlichen Ausschreibung gemäß § 5 Abs. 1 des Konzessionsgesetzes kann der Minister den Konzessionsvertrag mit dem Zuschlagsempfänger abschließen.“
+
+7
+
+In § 37 Nr. 30 dieses Gesetzes heißt es:
+
+„Zuverlässiger Glücksspielveranstalter ist ein Glücksspielveranstalter, der als transparente Organisation im Sinne von § 3 Abs. 1 Nr. 1 des Nemzeti vagyonról szóló 2011. évi CXCVI. törvény [Gesetz Nr. CXCVI von 2011 über das Nationalvermögen] gilt und
+
+a)
+
+seinen Erklärungs- und Zahlungspflichten hinsichtlich sämtlicher bei der staatlichen Steuerbehörde registrierter öffentlicher Abgaben von mehr als 500000 HUF nachgekommen und mit der Erfüllung solcher Pflichten nie mehr als 90 Tage in Rückstand geraten ist,
+
+b)
+
+dessen Bankkonten niemals mit einem Soforteinzug in Höhe eines Betrags von mehr als 500000 HUF zugunsten der Steuerbehörde belastet waren und gegen den im Zusammenhang mit seiner Tätigkeit nie ein Vollstreckungsverfahren über einen Betrag von mehr als 500000 HUF eingeleitet wurde,
+
+c)
+
+bei seiner Tätigkeit bzw. im Zusammenhang damit keine Rechtsverletzung begangen hat, die im Einzelfall mit einem Bußgeld von mehr als 5000000 HUF bewehrt ist,
+
+d)
+
+mindestens zehn Jahre eine auf die Veranstaltung von Glücksspielen gerichtete Tätigkeit in Ungarn ausgeübt hat,
+
+e)
+
+die Regeln bezüglich der Feststellung der Identität der Spieler und der damit verbundenen Datenverwaltung vollständig beachtet hat, sofern er dazu verpflichtet war.“
+
+Das Konzessionsgesetz
+
+8
+
+In § 10/C Abs. 1 und 2 des Konzessionsgesetzes in der zu der für das Ausgangsverfahren maßgeblichen Zeit geltenden Fassung heißt es:
+
+„(1)   Ein Konzessionsvertrag kann auch nach Maßgabe dieses Paragrafen mit einem zuverlässigen Glücksspielveranstalter im Sinne des branchenspezifischen Gesetzes geschlossen werden.
+
+(2)   Der Fachminister kann von der öffentlichen Ausschreibung einer Konzession Abstand nehmen, wenn der Konzessionsvertrag auch mit einem zuverlässigen Glücksspielveranstalter geschlossen werden kann.“
+
+Ausgangsverfahren und Vorlagefragen
+
+9
+
+Sporting Odds ist eine britische Gesellschaft, die eine Erlaubnis zur Veranstaltung von Online-Glücksspielen im Vereinigten Königreich besitzt. Sie bietet Online-Glücksspieldienstleistungen in Ungarn an, verfügt aber über keine Konzession oder Erlaubnis zur Veranstaltung solcher Spiele in diesem Mitgliedstaat.
+
+10
+
+Aufgrund einer zwischen dem 6. und dem 12. Januar 2016 durchgeführten Kontrolle der Website „hu.sportingbeteuro.com“ stellte die Finanzverwaltung fest, dass Sporting Odds Sportwetten veranstaltet habe, ohne die nach den ungarischen Rechtsvorschriften dafür erforderliche Konzession oder Erlaubnis zu besitzen. Da die Finanzverwaltung der Auffassung war, dass es nach nationalem Recht nicht erforderlich sei, Sporting Odds von der Kontrolle oder dem Verfahren vorher in Kenntnis zu setzen, gelangte sie allein auf der Grundlage der bei der Kontrolle der Website von Sporting Odds gemachten Feststellungen zu dem Ergebnis, dass ein Rechtsverstoß vorliege. Infolgedessen verhängte sie mit der streitigen Entscheidung gegen Sporting Odds ein Bußgeld in Höhe von 3500000 HUF.
+
+11
+
+Da Sporting Odds die ungarische Regelung für die Glücksspielbranche für unionsrechtswidrig hielt, beschloss sie, gegen die streitige Entscheidung Klage beim Fővárosi Közigazgatási és Munkaügyi Bíróság (Hauptstädtisches Verwaltungs- und Arbeitsgericht, Ungarn) zu erheben.
+
+12
+
+Das vorlegende Gericht hat zum einen Zweifel, ob das Verfahren für die Vergabe von Konzessionen zur Veranstaltung von Glücksspielen in einer Weise ausgestaltet war, dass es Sporting Odds möglich war, eine solche Konzession zu beantragen, und zum anderen, ob eine wirksame gerichtliche Kontrolle des Verfahrens für die Vergabe solcher Konzessionen sichergestellt war. Es stellte insoweit fest, dass der Wirtschaftsminister keine Ausschreibung durchgeführt habe und für Sporting Odds keine Möglichkeit bestanden habe, eine Bewerbung abzugeben, um eine Konzession für die Veranstaltung von Glücksspielen zu erhalten, die als „zuverlässig“ geltenden Glücksspielveranstaltern vorbehalten sei, weil in diese Kategorie nur Glücksspielveranstalter fielen, die zehn Jahre lang Glücksspiele in Ungarn veranstaltet hätten.
+
+13
+
+Das vorlegende Gericht weist im Übrigen darauf hin, dass die nationalen Rechtsvorschriften keine Aussage darüber träfen, ob der Wirtschaftsminister verpflichtet sei, einer Bewerbung stattzugeben, und seine Entscheidung keiner Kontrolle durch die nationalen Gerichte zugänglich sei, da diese kein behördlicher Akt öffentlicher Gewalt sei.
+
+14
+
+Das vorlegende Gericht beschäftigt sich außerdem mit den Vergleichsparametern, die bei der Prüfung zu berücksichtigen sind, ob die Einschränkungen von Art. 56 AEUV, die sich zum einen aus der Regelung über das staatliche Monopol bei bestimmten Arten von Glücksspielen und zum anderen aus der Konzessionsregelung ergeben, kohärent und systematisch sind. Nach seinen Feststellungen werden, was Casinospiele und Online-Casinospiele betrifft, entgegen den Zielen des Verbraucherschutzes und der öffentlichen Gesundheit, die in den einschlägigen Rechtsvorschriften genannt würden, für die Verbraucher Anreize geschaffen, an dieser Art von Glücksspielen teilzunehmen.
+
+15
+
+Dem vorlegenden Gericht zufolge ergibt sich im Übrigen aus dem Register der Szerencsejáték Zrt. (zu 100 % im Eigentum des ungarischen Staates stehende Gesellschaft, die für die Veranstaltung von Glücksspielen verantwortlich ist), dass nur in Ungarn registrierte und ansässige Unternehmen Inhaber von Casinokonzessionen seien. Insoweit fragt es sich, ob eine Regel, wonach nur Gesellschaften, die eine Konzession für ein im Gebiet Ungarns belegenes Casino besitzen, Online-Glücksspiele veranstalten dürfen, ein nicht gerechtfertigtes Hindernis darstellt.
+
+16
+
+Das vorlegende Gericht stellt außerdem die Frage, auf der Grundlage welcher Regeln zu prüfen ist, ob die den freien Dienstleistungsverkehr einschränkenden Maßnahmen kohärent und systematisch sind. Insoweit fragt es sich, ob es im Rahmen der Verhältnismäßigkeitsprüfung von Amts wegen Beweise erheben oder ob es die Beweislast zwischen den Verfahrensparteien oder sogar anderen Personen aufteilen müsse.
+
+17
+
+Ferner sei fraglich, ob eine nationale Regel, nach der eine Partei die Frage der Vereinbarkeit des nationalen Rechts mit dem Unionsrecht erst im Stadium des gerichtlichen Verfahrens aufwerfen kann, gegen das von der Charta gewährleistete Recht auf eine gute Verwaltung – nämlich das Recht, gehört zu werden, und die Begründungspflicht – verstößt.
+
+18
+
+Unter diesen Umständen hat das Fővárosi Közigazgatási és Munkaügyi Bíróság (Hauptstädtisches Verwaltungs- und Arbeitsgericht, Ungarn) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+1.
+
+Sind Art. 56 AEUV, das Diskriminierungsverbot und das Erfordernis, dass die von einem Mitgliedstaat vorgenommene Begrenzung von Glücksspieltätigkeiten, deren gesetzliches Ziel dem Mitgliedstaat zufolge im Wesentlichen die Bekämpfung der Spielsucht und der Verbraucherschutz sein soll, in einer kohärenten und systematischen Weise erfolgen muss, dahin auszulegen, dass das nationale Monopol des Mitgliedstaats auf on- und offline veranstaltete Sport- und Pferdewetten im Widerspruch zu ihnen steht, wenn im Übrigen in dem Mitgliedstaat seit der durch ihn vorgenommenen Neuordnung des Marktes private Anbieter andere Online- und Offline-Glücksspiele (Casinospiele, Kartenspiele, Geldspielautomaten, Online-Casinospiele und Online-Kartenspiele), die eine erhebliche Suchtgefahr in sich bergen, im Rahmen einer Konzession in Präsenzspielbanken veranstalten dürfen?
+
+2.
+
+Sind Art. 56 AEUV, das Diskriminierungsverbot und das Erfordernis, dass die von einem Mitgliedstaat vorgenommene Begrenzung von Glücksspieltätigkeiten in einer kohärenten und systematischen Weise erfolgen muss, dahin auszulegen, dass ein Verstoß gegen diesen Artikel vorliegt und dieses Erfordernis nicht erfüllt ist, wenn sich feststellen lässt, dass die mit der Bekämpfung der Spielsucht und dem gesetzlichen Ziel des Verbraucherschutzes begründete Neuordnung der Marktstruktur in Wirklichkeit zur Folge hat oder bewirkt, dass seit der durch den Mitgliedstaat vorgenommenen Neuordnung des Marktes die Zahl der Spielbanken, die jährlichen Steuern auf Glücksspiele in Spielbanken, die in der staatlichen Haushaltsplanung vorgesehenen Einnahmen aus Gebühren für Spielbankkonzessionen, die von Spielern erworbenen Spielmarken und die zum Erwerb des Spielrechts an Geldspielautomaten erforderlichen Geldbeträge fortlaufend zunehmen?
+
+3.
+
+Sind Art. 56 AEUV, das Diskriminierungsverbot und das Erfordernis, dass die von einem Mitgliedstaat vorgenommene Begrenzung von Glücksspieltätigkeiten in einer kohärenten und systematischen Weise erfolgen muss, dahin auszulegen, dass ein Verstoß gegen diesen Artikel vorliegt und dieses Erfordernis nicht erfüllt ist, wenn sich feststellen lässt, dass neben die im Wesentlichen mit der Bekämpfung der Spielsucht und dem gesetzlichen Ziel des Verbraucherschutzes begründete Einführung eines staatlichen Monopols und die zugelassene Veranstaltung von Glücksspielen durch private Anbieter das wirtschaftspolitische Ziel tritt, höhere Nettoeinnahmen aus den Spielen zu erzielen und in möglichst kurzer Zeit außerordentlich hohe Erträge auf dem Spielbankenmarkt zu generieren, um andere Ausgaben aus dem Staatshaushalt und öffentliche Aufgaben zu finanzieren?
+
+4.
+
+Sind Art. 56 AEUV, das Diskriminierungsverbot und das Erfordernis, dass die von einem Mitgliedstaat vorgenommene Begrenzung von Glücksspieltätigkeiten in einer kohärenten und systematischen Weise erfolgen muss, dahin auszulegen, dass ein Verstoß gegen diesen Artikel vorliegt und dieses Erfordernis nicht erfüllt ist sowie eine nicht gerechtfertigte Ungleichbehandlung von Anbietern vorliegt, wenn sich feststellen lässt, dass der Mitgliedstaat – unter Berufung auf ein und denselben Grund der öffentlichen Ordnung – einige Online-Glücksspielangebote dem staatlichen Monopol vorbehält, während er den Zugang zu anderen Glücksspielangeboten ermöglicht, indem er eine steigende Zahl von Konzessionen vergibt?
+
+5.
+
+Sind Art. 56 AEUV und das Diskriminierungsverbot dahin auszulegen, dass es mit ihnen unvereinbar ist, wenn ausschließlich Anbieter, die über eine Präsenzspielbank (mit Konzession) in Ungarn verfügen, eine Genehmigung für Online-Casinospiele erhalten können, weshalb Anbieter, die nicht über eine Präsenzspielbank in Ungarn verfügen (einschließlich solcher Anbieter, die in einem anderen Mitgliedstaat über eine Präsenzspielbank verfügen), von Genehmigungen für Online-Casinospiele ausgeschlossen sind?
+
+6.
+
+Sind Art. 56 AEUV und das Diskriminierungsverbot dahin auszulegen, dass es zu ihnen im Widerspruch steht, wenn der Mitgliedstaat durch eine eventuelle Ausschreibung von Konzessionen für Präsenzspielbanken bzw. dadurch, dass er es zuverlässigen Glücksspielveranstaltern erlaubt, sich um eine Konzession für eine Präsenzspielbank zu bewerben, zwar die grundsätzliche Möglichkeit gewährleistet, dass jeder Anbieter, der die gesetzlichen Vorgaben erfüllt – auch solche, die in einem anderen Mitgliedstaat ansässig sind – eine Konzession für eine Präsenzspielbank und, wenn er eine solche besitzt, die Genehmigung für eine Online-Spielbank erhalten kann, der fragliche Mitgliedstaat aber keine öffentliche und transparente Ausschreibung der Vergabe von Konzessionen durchführt und der Anbieter in der Praxis auch nicht die Möglichkeit hat, eine Bewerbung abzugeben und die Behörden des Mitgliedstaats demgegenüber feststellen, dass der Anbieter widerrechtlich gehandelt habe, als er ohne Erlaubnis tätig geworden sei, und gegen ihn eine als verwaltungsrechtlich eingestufte Sanktion verhängen?
+
+7.
+
+Sind Art. 56 AEUV, das Diskriminierungsverbot und das Erfordernis, dass das Genehmigungsverfahren transparent, objektiv und öffentlich sein muss, dahin auszulegen, dass es zu ihnen im Widerspruch steht, wenn der Mitgliedstaat ein System zur Ausschreibung von Konzessionen für bestimmte Glücksspielangebote schafft, aber gleichzeitig die Stelle, die über die Konzessionen entscheidet, anstatt die Konzessionen auszuschreiben, auch Konzessionsverträge mit einzelnen Personen abschließen kann, die als zuverlässige Glücksspielveranstalter eingestuft sind, statt allen Anbietern mit einer einzigen Ausschreibung zu ermöglichen, zu gleichen Bedingungen am Vergabeverfahren teilzunehmen?
+
+8.
+
+Für den Fall, dass die siebte Frage zu verneinen ist und dass in dem betreffenden Mitgliedstaat unterschiedliche Verfahren für die Vergabe identischer Konzessionen geschaffen werden dürfen: Muss der Mitgliedstaat in Anwendung von Art. 56 AEUV unter Berücksichtigung des Erfordernisses, dass das Genehmigungsverfahren transparent, objektiv und öffentlich sein muss, und des Gleichbehandlungsgrundsatzes zur wirksamen Durchsetzung der Unionsvorschriften über die Grundfreiheiten die Gleichwertigkeit dieser Verfahren sicherstellen?
+
+9.
+
+Hat es Einfluss auf die Antworten auf die Fragen 6 bis 8, wenn gegen die Entscheidung über die Konzessionsvergabe weder im einen noch im anderen Fall eine gerichtliche Überprüfung oder ein anderer wirksamer Rechtsbehelf gewährleistet ist?
+
+10.
+
+Sind Art. 56 AEUV, der in Art. 4 Abs. 3 EUV verankerte Grundsatz der loyalen Zusammenarbeit sowie die institutionelle und die Verfahrensautonomie der Mitgliedstaaten in Verbindung mit den Art. 47 und 48 der Charta sowie den sich daraus ergebenden Rechten auf eine wirksame gerichtliche Kontrolle und auf Verteidigung dahin auszulegen, dass das mit der Sache befasste nationale Gericht bei der Prüfung der sich aus der Rechtsprechung des Gerichtshofs ergebenden unionsrechtlichen Anforderungen sowie der Erforderlichkeit und Verhältnismäßigkeit der von dem betreffenden Mitgliedstaat vorgeschriebenen Begrenzung auch dann von Amts wegen eine Prüfung und eine Beweiserhebung anordnen und durchführen darf, wenn das nationale Verfahrensrecht des Mitgliedstaats ansonsten keine gesetzliche Befugnis hierzu verleiht?
+
+11.
+
+Ist Art. 56 AEUV in Verbindung mit den Art. 47 und 48 der Charta und den sich daraus ergebenden Rechten auf eine wirksame gerichtliche Kontrolle und auf Verteidigung dahin auszulegen, dass das mit der Sache befasste nationale Gericht bei der Prüfung der sich aus der Rechtsprechung des Gerichtshofs ergebenden unionsrechtlichen Anforderungen sowie der Erforderlichkeit und Verhältnismäßigkeit der von dem betreffenden Mitgliedstaat vorgeschriebenen Begrenzung die Beweislast nicht den von der Begrenzung betroffenen Anbietern auferlegen darf, sondern dass es dem Mitgliedstaat obliegt – konkret der staatlichen Behörde, die die in dem Rechtsstreit angefochtene Entscheidung erlassen hat –, die Vereinbarkeit der nationalen Regelung mit dem Unionsrecht sowie deren Erforderlichkeit und Verhältnismäßigkeit darzulegen und zu beweisen, so dass in Ermangelung dessen automatisch feststeht, dass die nationale Regelung gegen das Unionsrecht verstößt?
+
+12.
+
+Ist Art. 56 AEUV auch unter Berücksichtigung des in Art. 41 Abs. 1 der Charta verankerten Rechts auf ein faires Verfahren, des in ihrem Art. 41 Abs. 2 Buchst. a verankerten Rechts, gehört zu werden, und der in ihrem Art. 41 Abs. 2 Buchst. c verankerten Begründungspflicht sowie des in Art. 4 Abs. 3 EUV verankerten Grundsatzes der loyalen Zusammenarbeit, aber auch der institutionellen und der Verfahrensautonomie der Mitgliedstaaten dahin auszulegen, dass diese Vorgaben nicht erfüllt sind, wenn die mit der Sache befasste Behörde des Mitgliedstaats den Glücksspielveranstalter gemäß den Bestimmungen des nationalen Rechts weder über die Einleitung des Verfahrens zur Verhängung einer verwaltungsrechtlichen Sanktion unterrichtet noch später im Verlauf des Verwaltungsverfahrens seine Stellungnahme zur Vereinbarkeit der Rechtsvorschriften des Mitgliedstaats mit dem Unionsrecht einholt und in einem Verfahren mit nur einer Instanz eine vom nationalem Recht als verwaltungsrechtlich eingestufte Sanktion verhängt, ohne in der Begründung ihrer Entscheidung diese Vereinbarkeit oder die sie untermauernden Beweise im Einzelnen darzulegen?
+
+13.
+
+Sind unter Berücksichtigung von Art. 56 AEUV, von Art. 41 Abs. 1, Art. 41 Abs. 2 Buchst. a und c, Art. 47 und Art. 48 der Charta sowie der sich daraus ergebenden Rechte auf eine wirksame gerichtliche Kontrolle und auf Verteidigung die in den genannten Artikeln vorgesehenen Anforderungen erfüllt, wenn der Glücksspielveranstalter die Unvereinbarkeit der nationalen Regelung mit dem Unionsrecht erstmals und ausschließlich vor dem nationalen Gericht geltend machen kann?
+
+14.
+
+Kann Art. 56 AEUV bzw. die Pflicht der Mitgliedstaaten, Beschränkungen des freien Dienstleistungsverkehrs zu rechtfertigen bzw. zu begründen, dahin ausgelegt werden, dass der Mitgliedstaat dieser Pflicht nicht genügt hat, wenn weder zum Zeitpunkt der Einführung der Beschränkung noch zum Zeitpunkt ihrer Überprüfung eine einschlägige Folgenabschätzung vorlag bzw. vorliegt, die die mit der Beschränkung verfolgten Zwecke der öffentlichen Ordnung untermauert?
+
+15.
+
+Lässt sich unter Berücksichtigung des gesetzlichen Rahmens für die Höhe der zu verhängenden verwaltungsrechtlichen Sanktion, der Natur der mit der Sanktion belegten Tätigkeit, insbesondere der Beeinträchtigung der öffentlichen Sicherheit und Ordnung durch die Tätigkeit, sowie des repressiven Zwecks der Geldbuße auf der Grundlage der Art. 47 und 48 der Charta feststellen, dass die fragliche verwaltungsrechtliche Sanktion „Strafcharakter“ hat, und wirkt sich dieser Umstand auf die Antworten auf die Fragen 11 bis 14 aus?
+
+16.
+
+Ist Art. 56 AEUV dahin auszulegen, dass das mit der Sache befasste Gericht, falls es aufgrund der Antworten auf die vorhergehenden Fragen feststellt, dass die Regelung und ihre Anwendung rechtswidrig sind, feststellen muss, dass auch die Sanktion, die auf der nicht mit Art. 56 AEUV im Einklang stehenden nationalen Regelung beruht, gegen Unionsrecht verstößt?
+
+Zu den Vorlagefragen
+
+Zu den Fragen 1 bis 4
+
+19
+
+Mit seinen Fragen 1 bis 4 möchte das vorlegende Gericht wissen, ob Art. 56 AEUV dahin auszulegen ist, dass er einem dualen System zur Organisation des Glücksspielmarkts entgegensteht, in dessen Rahmen bestimmte Arten von Glücksspielen einem staatlichen Monopol unterliegen, während für die Veranstaltung anderer Glücksspiele ein Konzessions- und Erlaubnissystem gilt.
+
+20
+
+Zunächst ist darauf hinzuweisen, dass die Regelung der Glücksspiele zu den Bereichen gehört, in denen beträchtliche sittliche, religiöse und kulturelle Unterschiede zwischen den Mitgliedstaaten bestehen. In Ermangelung einer diesbezüglichen Harmonisierung durch die Europäische Union ist es Sache der einzelnen Mitgliedstaaten, in diesen Bereichen im Einklang mit ihrer eigenen Wertordnung zu beurteilen, welche Erfordernisse sich aus dem Schutz der betroffenen Interessen ergeben (Urteil vom 8. September 2009, Liga Portuguesa de Futebol Profissional und Bwin International, C‑42/07, EU:C:2009:519, Rn. 57 und die dort angeführte Rechtsprechung).
+
+21
+
+Im Rahmen mit dem AEU-Vertrag vereinbarer Rechtsvorschriften obliegt sodann die Wahl der Bedingungen für die Organisation und die Kontrolle der in der Veranstaltung von und der Teilnahme an Glücks- oder Geldspielen bestehenden Tätigkeiten den nationalen Behörden im Rahmen ihres Ermessens (vgl. in diesem Sinne Urteil vom 8. September 2010, Carmen Media Group, C‑46/08, EU:C:2010:505, Rn. 59).
+
+22
+
+Der Gerichtshof hat schließlich klargestellt, dass im Bereich der Glücksspiele grundsätzlich gesondert für jede mit einer nationalen Rechtsvorschrift auferlegte Beschränkung namentlich zu prüfen ist, ob sie geeignet ist, die Verwirklichung des Ziels oder der Ziele zu gewährleisten, die von dem fraglichen Mitgliedstaat geltend gemacht werden, und ob sie nicht über das hinausgeht, was zur Erreichung dieses Ziels oder dieser Ziele erforderlich ist (Urteil vom 8. September 2010, Carmen Media Group, C‑46/08, EU:C:2010:505, Rn. 60).
+
+23
+
+Nach ständiger Rechtsprechung kann der Umstand, dass von verschiedenen Arten von Glücksspielen einige einem staatlichen Monopol und andere einer Regelung unterliegen, nach der private Veranstalter eine Erlaubnis benötigen, im Hinblick darauf, dass mit Maßnahmen, die – wie das staatliche Monopol – auf den ersten Blick als am restriktivsten und wirkungsvollsten erscheinen, legitime Ziele verfolgt werden, für sich genommen nicht dazu führen, dass diese Maßnahmen ihre Rechtfertigung verlieren. Derart divergierende rechtliche Regelungen ändern nämlich als solche nichts an der Eignung eines solchen staatlichen Monopols zur Verwirklichung des mit seiner Errichtung verfolgten Ziels, Anreize für die Bürger zu übermäßigen Ausgaben für das Spielen zu vermeiden und die Spielsucht zu bekämpfen (Urteil vom 8. September 2010, Carmen Media Group, C‑46/08, EU:C:2010:505, Rn. 63).
+
+24
+
+Ein solches duales System zur Organisation des Glücksspielmarkts kann sich jedoch als im Widerspruch zu Art. 56 AEUV stehend erweisen, wenn festgestellt wird, dass die zuständigen Behörden in Bezug auf andere Glücksspiele als die, die dem staatlichen Monopol unterliegen, eine Politik verfolgen, die eher darauf abzielt, zur Teilnahme an diesen anderen Spielen zu ermuntern, als darauf, die Spielgelegenheiten zu verringern und die Tätigkeiten in diesem Bereich in kohärenter und systematischer Weise zu begrenzen, was zur Folge hat, dass das der Errichtung dieses Monopols zugrunde liegende Ziel, Anreize zu übermäßigen Ausgaben für das Spielen zu vermeiden und die Spielsucht zu bekämpfen, mit ihm nicht mehr wirksam verfolgt werden kann (vgl. in diesem Sinne Urteil vom 8. September 2010, Carmen Media Group, C‑46/08, EU:C:2010:505, Rn. 68).
+
+25
+
+Im vorliegenden Fall beruft sich die ungarische Regierung zur Rechtfertigung des dualen Systems zur Regelung von Glücksspielen sowohl auf Gründe der öffentlichen Ordnung, Gesundheit und Sicherheit als auch auf zwingende Gründe des Verbraucherschutzes, der Suchtprävention und der Betrugsverhütung.
+
+26
+
+Solche Gründe können Beschränkungen von Glücksspieltätigkeiten sowohl in Gestalt der Regelung über das staatliche Monopol bei bestimmten Arten von Glücksspielen als auch in Gestalt der Regelung, wonach für die Veranstaltung von Glücksspielen eine Konzession oder Erlaubnis erforderlich ist, rechtfertigen.
+
+27
+
+Als Beleg für die Inkohärenz des ungarischen Systems für die Veranstaltung von Glücksspielen führt Sporting Odds allerdings an, Hauptzweck der nationalen Rechtsvorschriften sei in Wirklichkeit die Erhöhung der Haushaltseinnahmen, die aus Abgaben stammten, die auf Casinos erhoben würden, wobei sich die erwarteten Mehreinnahmen aus Gebühren für die Konzessionen der Casinos sowie aus dem Wert der von den Spielern erworbenen Jetons ergäben. Die Maßnahmen zur Liberalisierung bestimmter Arten von Glücksspielen hätten im Widerspruch zu den Zielen des Verbraucherschutzes und der Suchtprävention eine Ausweitung von Casinospielen begünstigt.
+
+28
+
+Insoweit vermag das Ziel, die Einnahmen der Staatskasse zu maximieren, für sich allein eine Beschränkung des freien Dienstleistungsverkehrs zwar nicht zu rechtfertigen, doch steht der Umstand, dass eine Beschränkung von Glücksspieltätigkeiten als Nebenfolge auch dem Haushalt des betreffenden Mitgliedstaats zugutekommt, einer Rechtfertigung dieser Beschränkung nicht entgegen, soweit damit in erster Linie wirklich Ziele verfolgt werden, die sich auf zwingende Gründe des Allgemeininteresses beziehen, was zu prüfen Sache des nationalen Gerichts ist (vgl. in diesem Sinne Urteil vom 11. Juni 2015, Berlington Hungary u. a., C‑98/14, EU:C:2015:386, Rn. 60 und 61).
+
+29
+
+Was zudem die Politik der Liberalisierung bestimmter Arten von Glücksspielen betrifft, die sich im Rahmen einer Politik der kontrollierten Expansion von Glücksspieltätigkeiten bewegen kann, hat der Gerichtshof entschieden, dass eine derartige Politik sowohl mit dem Ziel, die Ausnutzung von Glücksspieltätigkeiten zu kriminellen oder betrügerischen Zwecken zu verhindern, als auch mit dem Ziel der Vermeidung von Anreizen zu übermäßigen Ausgaben für das Spielen und der Bekämpfung der Spielsucht in Einklang stehen kann, indem die Verbraucher zu dem Angebot zugelassenen Anbieter gelenkt werden, bei dem davon auszugehen ist, dass es vor kriminellen Elementen geschützt und darauf ausgelegt ist, die Verbraucher besser vor übermäßigen Ausgaben und vor Spielsucht zu bewahren (vgl. in diesem Sinne Urteil vom 11. Juni 2015, Berlington Hungary u. a., C‑98/14, EU:C:2015:386, Rn. 69 sowie die dort angeführte Rechtsprechung).
+
+30
+
+Um dieses Ziel, die Spieltätigkeiten in kontrollierte Bahnen zu lenken, zu erreichen, müssen die zugelassenen Anbieter somit eine verlässliche und zugleich attraktive Alternative zu verbotenen Tätigkeiten bereitstellen, wozu u. a. der Einsatz neuer Vertriebstechniken gehören kann (Urteil vom 11. Juni 2015, Berlington Hungary u. a., C‑98/14, EU:C:2015:386, Rn. 70 sowie die dort angeführte Rechtsprechung).
+
+31
+
+Eine Politik der kontrollierten Expansion von Glücksspieltätigkeiten kann jedoch nur dann als kohärent angesehen werden, wenn zum einen die mit dem Spielen verbundenen kriminellen und betrügerischen Tätigkeiten und zum anderen die Spielsucht zu der für das Ausgangsverfahren maßgeblichen Zeit in Ungarn ein Problem darstellen konnten und eine Ausweitung der zugelassenen und regulierten Tätigkeiten geeignet war, diesem Problem abzuhelfen (Urteil vom 11. Juni 2015, Berlington Hungary u. a., C‑98/14, EU:C:2015:386, Rn. 71 sowie die dort angeführte Rechtsprechung).
+
+32
+
+Es ist Sache des vorlegenden Gerichts, im Rahmen der bei ihm anhängigen Rechtssache zu prüfen, ob diese Voraussetzungen erfüllt sind und, gegebenenfalls, ob die in Rede stehende Politik der Expansion nicht einen Umfang hat, die sie mit den von der ungarischen Regierung angegebenen Zielen unvereinbar macht (vgl. in diesem Sinne Urteil vom 11. Juni 2015, Berlington Hungary u. a., C‑98/14, EU:C:2015:386, Rn. 72 sowie die dort angeführte Rechtsprechung).
+
+33
+
+In Anbetracht der vorstehenden Erwägungen ist auf die Fragen 1 bis 4 zu antworten, dass Art. 56 AEUV dahin auszulegen ist, dass er einem dualen System zur Organisation des Glücksspielmarkts, in dessen Rahmen bestimmte Arten von Glücksspielen einem staatlichen Monopol unterliegen, während für die Veranstaltung anderer Glücksspiele ein Konzessions- und Erlaubnissystem gilt, nicht grundsätzlich entgegensteht, sofern das vorlegende Gericht feststellt, dass die den freien Dienstleistungsverkehr einschränkende Regelung tatsächlich in kohärenter und systematischer Weise die vom betreffenden Mitgliedstaat angegebenen Ziele verfolgt.
+
+Zur fünften Frage
+
+34
+
+Mit seiner fünften Frage möchte das vorlegende Gericht wissen, ob Art. 56 AEUV dahin auszulegen ist, dass er einer nationalen Regelung wie der im Ausgangsverfahren streitigen entgegensteht, nach der ausschließlich solche Glücksspielveranstalter, die aufgrund einer Konzession ein Casino im Inland betreiben, eine Erlaubnis für die Veranstaltung von Online-Glücksspielen erhalten können.
+
+35
+
+Für die Beantwortung dieser Frage ist zu berücksichtigen, dass der freie Dienstleistungsverkehr die Beseitigung jeder Diskriminierung gegenüber dem Dienstleistenden aufgrund seiner Staatsangehörigkeit oder des Umstands voraussetzt, dass er in einem anderen als dem Mitgliedstaat niedergelassen ist, in dem die Dienstleistung zu erbringen ist. Die Bedingung, wonach ein Unternehmen in dem Mitgliedstaat, in dem die Dienstleistung erbracht wird, eine feste Niederlassung oder ein Tochterunternehmen gründen muss, läuft dem freien Dienstleistungsverkehr direkt zuwider, da sie die Erbringung von Dienstleistungen in diesem Mitgliedstaat durch in anderen Mitgliedstaaten niedergelassene Unternehmen unmöglich macht (Urteil vom 21. Januar 2010, Kommission/Deutschland, C‑546/07, EU:C:2010:25, Rn. 39 sowie die dort angeführte Rechtsprechung).
+
+36
+
+Der Gerichtshof hat zwar entschieden, dass Art. 56 AEUV einer Regelung eines Mitgliedstaats nicht entgegensteht, nach der Wirtschaftsteilnehmer, die in anderen Mitgliedstaaten niedergelassen sind, in denen sie rechtmäßig entsprechende Dienstleistungen erbringen, im Hoheitsgebiet des erstgenannten Mitgliedstaats keine Glücksspiele über das Internet anbieten dürfen (vgl. in diesem Sinne Urteil vom 8. September 2009, Liga Portuguesa de Futebol Profissional und Bwin International, C‑42/07, EU:C:2009:519, Rn. 73); mit der nationalen Regelung, die im Rahmen der Rechtssache geprüft wurde, in der dieses Urteil ergangen ist, war aber ein Glücksspielmonopol geschaffen worden, das einer Einrichtung unter wirksamer Aufsicht des Staates Ausschließlichkeitsrechte für die Veranstaltung solcher Spiele gewährleistete.
+
+37
+
+Im Ausgangsverfahren beschränkt die streitige Regelung die Veranstaltung von Glücksspielen über das Internet auf Wirtschaftsteilnehmer, die ein im Inland gelegenes Casino betreiben und zu diesem Zweck über eine Konzession und eine Erlaubnis verfügen.
+
+38
+
+Insoweit ergibt sich aus einer ständigen Rechtsprechung, dass ein System von Konzessionen und Erlaubnissen für die Veranstaltung von Glücksspielen auf objektiven und nicht diskriminierenden Kriterien beruhen muss, die im Voraus bekannt sind, so dass dem Ermessen der nationalen Behörden Grenzen gesetzt werden, die seine missbräuchliche Ausübung verhindern (Urteil vom 22. Juni 2017, Unibet International, C‑49/16, EU:C:2017:491, Rn. 41 und die dort angeführte Rechtsprechung).
+
+39
+
+Eine Beschränkung wie die im Ausgangsverfahren festgestellte stellt somit eine Diskriminierung dar. Sie ist nur dann mit dem Unionsrecht vereinbar, wenn sie einer ausdrücklichen Ausnahmebestimmung wie Art. 52 AEUV zugeordnet werden kann, d. h. der öffentlichen Ordnung, Sicherheit oder Gesundheit (Urteil vom 9. September 2010, Engelmann, C‑64/08, EU:C:2010:506, Rn. 34 und die dort angeführte Rechtsprechung).
+
+40
+
+Die ungarische Regierung beruft sich auf Gründe der öffentlichen Ordnung und Gesundheit und macht insoweit geltend, dass die staatliche Kontrolle über online durchgeführte Spiele eingeschränkt sei und die nationale Regel sicherstelle, dass Online-Glücksspiele, die größere Risiken mit sich brächten als traditionelle Glücksspiele, zuverlässigen Veranstaltern vorbehalten seien, die ein im Inland gelegenes Casino betrieben und den Erfordernissen des Verbraucherschutzes und der öffentlichen Ordnung genügten.
+
+41
+
+Auch wenn feststeht, dass Glücksspiele über das Internet, verglichen mit den herkömmlichen Glücksspielmärkten, wegen des fehlenden unmittelbaren Kontakts zwischen dem Verbraucher und dem Anbieter anders geartete und größere Gefahren in sich bergen, dass die Verbraucher eventuell von den Anbietern betrogen werden (Urteil vom 8. September 2009, Liga Portuguesa de Futebol Profissional und Bwin International, C‑42/07, EU:C:2009:519, Rn. 70), muss die in Rede stehende Regel den sich aus der Rechtsprechung des Gerichtshofs ergebenden Anforderungen hinsichtlich ihrer Verhältnismäßigkeit genügen (vgl. in diesem Sinne Urteil vom 6. März 2007, Placanica u. a., C‑338/04, C‑359/04 und C‑360/04, EU:C:2007:133, Rn. 48).
+
+42
+
+Speziell erfordert die Zulässigkeit einer Einschränkung wie der im Ausgangsverfahren in Rede stehenden, nach der ein Online-Glücksspielveranstalter eine Konzession für ein auf ungarischem Gebiet gelegenes Casino erhalten muss, damit er Online-Glücksspiele anbieten darf, den Nachweis, dass diese Einschränkung eine unerlässliche Voraussetzung für die Erreichung des verfolgten Ziels ist (vgl. in diesem Sinne Urteil vom 9. Juli 1997, Parodi, C‑222/95, EU:C:1997:345, Rn. 31 und die dort angeführte Rechtsprechung).
+
+43
+
+Es ist aber offensichtlich, dass eine Einschränkung, die darauf hinausläuft, dass Betreibern von im Inland gelegenen Casinos der Zugang zum Markt für Online-Glücksspiele vorbehalten ist, über das hinausgeht, was als verhältnismäßig angesehen werden kann, sofern weniger restriktive Maßnahmen zur Erreichung der von der ungarischen Regierung angeführten Ziele zur Verfügung stehen.
+
+44
+
+Nach alledem ist auf die fünfte Frage zu antworten, dass Art. 56 AEUV dahin auszulegen ist, dass er einer nationalen Regelung wie der im Ausgangsverfahren streitigen entgegensteht, nach der ausschließlich solche Glücksspielveranstalter, die aufgrund einer Konzession ein Casino im Inland betreiben, eine Erlaubnis für die Veranstaltung von Online-Glücksspielen erhalten können, sofern diese Regelung keine unerlässliche Voraussetzung für die Erreichung der verfolgten Ziele ist und weniger restriktive Maßnahmen zu ihrer Erreichung zur Verfügung stehen.
+
+Zu den Fragen 6 bis 8
+
+45
+
+Mit seinen Fragen 6 bis 8 möchte das vorlegende Gericht wissen, ob Art. 56 AEUV dahin auszulegen ist, dass er einer nationalen Regelung wie der im Ausgangsverfahren streitigen entgegensteht, mit der ein System von Konzessionen und Erlaubnissen für die Veranstaltung von Online-Glücksspielen errichtet wird, wonach Wirtschaftsteilnehmer einen Vertrag über eine Casinokonzession abschließen und auf dessen Grundlage eine Erlaubnis zur Veranstaltung von Online-Glücksspielen erhalten können, indem sie sich entweder an einer vom Wirtschaftsminister durchgeführten Ausschreibung zur Vergabe eines Vertrags über eine Casinokonzession beteiligen oder beim Wirtschaftsminister eine Bewerbung zum Erhalt eines Konzessionsvertrags abgeben, wobei die letztgenannte Möglichkeit, Glücksspielbetreibern vorbehalten ist, die als „zuverlässig“ im Sinne der nationalen Rechtsvorschriften eingestuft werden.
+
+46
+
+Vorab ist darauf hinzuweisen, dass der Gerichtshof im Urteil vom 22. Juni 2017, Unibet International (C‑49/16, EU:C:2017:491), bereits Fragen zu den Modalitäten der Vergabe von Konzessionen und Erlaubnissen für die Veranstaltung von Glücksspielen in Ungarn beantwortet hat. Der einzige Unterschied zwischen der sechsten Vorlagefrage und den Fragen, die der Gerichtshof bereits beantwortet hat, betrifft die Art der Konzession, die erforderlich ist, damit einem Wirtschaftsteilnehmer eine Erlaubnis zur Veranstaltung von Online-Glücksspielen erteilt werden kann.
+
+47
+
+Aus der Vorlageentscheidung geht hervor, dass sich die Verfahren zur Konzessionsvergabe, nämlich die vom Wirtschaftsminister durchgeführte Ausschreibung zur Vergabe eines Konzessionsvertrags und die als „zuverlässig“ eingestuften Glücksspielveranstaltern vorbehaltene Möglichkeit, beim Wirtschaftsminister eine Bewerbung zum Erhalt eines Konzessionsvertrags abzugeben, nicht geändert haben. Zudem geht aus der Vorlageentscheidung auch hervor, dass immer noch keine in die Zuständigkeit des Wirtschaftsministers fallende Ausschreibung durchgeführt worden ist und die Voraussetzung, dass ein als „zuverlässig“ eingestufter Glücksspielbetreiber zehn Jahre lang in Ungarn Glücksspiele veranstaltet haben muss, sich weiterhin in den auf den Sachverhalt des Ausgangsverfahrens anwendbaren ungarischen Rechtsvorschriften findet.
+
+48
+
+Daher ergibt sich, ohne dass es erforderlich wäre, eine Prüfung der im Ausgangsverfahren streitigen Regelung vorzunehmen, aus Rn. 48 des Urteils vom 22. Juni 2017, Unibet International (C‑49/16, EU:C:2017:491), dass diese Regelung gegen Art. 56 AEUV verstößt.
+
+49
+
+Nach alledem ist auf die Fragen 6 bis 8 zu antworten, dass Art. 56 AEUV dahin auszulegen ist, dass er einer nationalen Regelung wie der im Ausgangsverfahren streitigen entgegensteht, mit der ein System von Konzessionen und Erlaubnissen für die Veranstaltung von Online-Glücksspielen errichtet wird, sofern sie Vorschriften enthält, die in anderen Mitgliedstaaten niedergelassene Wirtschaftsteilnehmer diskriminieren, oder wenn sie Vorschriften vorsieht, die nicht diskriminierend sind, aber nicht transparent angewandt werden oder in einer Weise gehandhabt werden, die die Bewerbung bestimmter Bieter, die in anderen Mitgliedstaaten niedergelassen sind, verhindert oder erschwert.
+
+Zur neunten Frage
+
+50
+
+Da aus dem Vorabentscheidungsersuchen hervorgeht, dass Sporting Odds eine Konzession weder beantragt noch erhalten hat, ist die Antwort auf diese Frage, bei der es um die zur Verfügung stehenden Rechtsbehelfe gegen Entscheidungen über die Vergabe von Konzessionen geht, hypothetisch.
+
+51
+
+Infolgedessen ist die neunte Frage unzulässig.
+
+Zur zehnten Frage
+
+52
+
+Mit dieser Frage möchte das vorlegende Gericht wissen, ob Art. 56 AEUV und Art. 4 Abs. 3 EUV in Verbindung mit den Art. 47 und 48 der Charta nationalen Rechtsvorschriften wie den im Ausgangsverfahren streitigen entgegenstehen, nach denen nicht von Amts wegen zu prüfen ist, ob die Maßnahmen, die den freien Dienstleistungsverkehr im Sinne von Art. 56 AEUV beschränken, verhältnismäßig sind und die Beweislast den Verfahrensparteien auferlegt ist.
+
+53
+
+Insoweit steht fest, dass es Sache der nationalen Gerichte ist, eine Gesamtwürdigung der Umstände, unter denen eine restriktive Regelung erlassen worden ist und durchgeführt wird, auf der Grundlage der Beweise vorzunehmen, die die zuständigen Behörden des Mitgliedstaats vorgelegt haben, um das Vorliegen von Zielen, mit denen sich eine Beschränkung einer vom AEU-Vertrag gewährleisteten Grundfreiheit rechtfertigen lässt, und deren Verhältnismäßigkeit darzutun (vgl. in diesem Sinne Urteil vom 14. Juni 2017, Online Games u. a., C‑685/15, EU:C:2017:452, Rn. 65).
+
+54
+
+Die nationalen Gerichte können nach den nationalen Verfahrensregeln zwar verpflichtet sein, die notwendigen Maßnahmen zu ergreifen, um die Vorlage solcher Beweise zu fördern, doch können diese Gerichte nicht verpflichtet sein, anstelle der zuständigen Behörden die Rechtfertigungsgründe vorzubringen, die die betreffenden Behörden vorzubringen haben. Werden solche Rechtfertigungsgründe wegen der Abwesenheit oder der Passivität dieser Behörden nicht vorgebracht, müssen die nationalen Gerichte alle Konsequenzen ziehen dürfen, die sich aus einem solchen Mangel ergeben (Urteil vom 14. Juni 2017, Online Games u. a., C‑685/15, EU:C:2017:452, Rn. 66).
+
+55
+
+Der Gerichtshof hat im Übrigen entschieden, dass das Unionsrecht einem nationalen System nicht entgegensteht, wonach ein nationales Gericht, das über die Vereinbarkeit einer nationalen Regelung, die die Ausübung einer Unionsgrundfreiheit einschränkt, mit dem Unionsrecht entscheiden muss, die Umstände der bei ihm anhängigen Rechtssache von Amts wegen zu ermitteln hat, sofern dieses System nicht zur Folge hat, dass das Gericht an die Stelle der zuständigen Behörden des betreffenden Mitgliedstaats zu treten hat, denen es obliegt, die Beweise vorzulegen, die erforderlich sind, damit das Gericht prüfen kann, ob die Beschränkung gerechtfertigt ist (Urteil vom 14. Juni 2017, Online Games u. a., C‑685/15, EU:C:2017:452, Rn. 67).
+
+56
+
+Daraus folgt, dass das Unionsrecht nicht verlangt, dass die Mitgliedstaaten vorsehen, dass die Grundfreiheiten beschränkende Maßnahmen von Amts wegen geprüft werden, und stehen somit einer nationalen Regelung nicht entgegen, nach der die Beweislast den Parteien auferlegt ist.
+
+57
+
+Nach alledem ist auf die zehnte Frage zu antworten, dass Art. 56 AEUV und Art. 4 Abs. 3 EUV in Verbindung mit den Art. 47 und 48 der Charta dahin auszulegen sind, dass sie nationalen Rechtsvorschriften wie den im Ausgangsverfahren streitigen nicht entgegenstehen, nach denen nicht von Amts wegen zu prüfen ist, ob die Maßnahmen, die den freien Dienstleistungsverkehr im Sinne von Art. 56 AEUV beschränken, verhältnismäßig sind und die Beweislast den Verfahrensparteien auferlegt ist.
+
+Zur elften Frage
+
+58
+
+Mit seiner elften Frage möchte das vorlegende Gericht wissen, ob Art. 56 AEUV in Verbindung mit den Art. 47 und 48 der Charta dahin auszulegen ist, dass es dem Mitgliedstaat, der eine restriktive Regelung durchgeführt hat, obliegt, die Beweise beizubringen, um das Vorliegen von Zielen, mit denen sich eine Beschränkung einer vom AEU-Vertrag gewährleisteten Grundfreiheit rechtfertigen lässt, und deren Verhältnismäßigkeit darzutun, oder ob es zulässig ist, eine solche Verpflichtung der anderen Verfahrenspartei aufzuerlegen.
+
+59
+
+Zum einen obliegt es – wie sich aus den Rn. 52 und 53 dieses Urteils ergibt – den zuständigen Behörden des Mitgliedstaats, der eine restriktive Regelung durchgeführt hat, die Beweise beizubringen, um das Vorliegen von Zielen, mit denen sich eine Beschränkung einer vom AEU-Vertrag gewährleisteten Grundfreiheit rechtfertigen lässt, und deren Verhältnismäßigkeit darzutun. Zum anderen müssen die nationalen Gerichte, wenn diese Rechtfertigungsgründe wegen der Abwesenheit oder der Passivität dieser Behörden nicht vorgebracht werden, alle Konsequenzen ziehen dürfen, die sich aus einem solchen Mangel ergeben.
+
+60
+
+In Anbetracht der vorstehenden Erwägungen ist Art. 56 AEUV in Verbindung mit den Art. 47 und 48 der Charta dahin auszulegen, dass es dem Mitgliedstaat, der eine restriktive Regelung durchgeführt hat, obliegt, die Beweise beizubringen, um das Vorliegen von Zielen, mit denen sich eine Beschränkung einer vom AEU-Vertrag gewährleisteten Grundfreiheit rechtfertigen lässt, und deren Verhältnismäßigkeit darzutun, und in Ermangelung dessen die nationalen Gerichte alle Konsequenzen ziehen dürfen, die sich aus einem solchen Mangel ergeben.
+
+Zur vierzehnten Frage
+
+61
+
+Mit seiner vierzehnten Frage, die im Anschluss an die elfte Frage zu prüfen ist, möchte das vorlegende Gericht wissen, ob Art. 56 AEUV dahin auszulegen ist, dass ein Mitgliedstaat seiner Pflicht zur Rechtfertigung einer restriktiven Maßnahme nicht genügt hat, weil er zum Zeitpunkt der Einführung dieser Maßnahme in die nationalen Rechtsvorschriften oder zum Zeitpunkt ihrer Überprüfung durch das nationale Gericht hinsichtlich der Maßnahme keine Folgenabschätzung vorgelegt hat.
+
+62
+
+Insoweit ist darauf hinzuweisen, dass es dem Mitgliedstaat, der sich auf ein Ziel berufen möchte, mit dem sich eine Beschränkung des freien Dienstleistungsverkehrs rechtfertigen lässt, obliegt, dem nationalen Gericht alle Umstände darzulegen, anhand deren dieses Gericht sich vergewissern kann, dass die Maßnahme tatsächlich den sich aus dem Grundsatz der Verhältnismäßigkeit ergebenden Anforderungen genügt (Urteil vom 30. April 2014, Pfleger u. a., C‑390/12, EU:C:2014:281, Rn. 50 und die dort angeführte Rechtsprechung).
+
+63
+
+Jedoch lässt sich aus dieser Rechtsprechung nicht ableiten, dass einem Mitgliedstaat nur deshalb die Möglichkeit genommen wäre, zu belegen, dass eine innerstaatliche restriktive Maßnahme diesen Anforderungen genügt, weil er keine Untersuchungen vorlegen kann, die dem Erlass der fraglichen Regelung zugrunde lagen (Urteil vom 30. April 2014, Pfleger u. a., C‑390/12, EU:C:2014:281, Rn. 51 und die dort angeführte Rechtsprechung).
+
+64
+
+Es ist nämlich Sache des nationalen Gerichts, eine Gesamtwürdigung der Umstände vorzunehmen, unter denen eine restriktive Regelung erlassen worden ist und durchgeführt wird (Urteil vom 30. April 2014, Pfleger u. a., C‑390/12, EU:C:2014:281, Rn. 52), und nicht lediglich festzustellen, dass im Vorfeld keine Studie dazu durchgeführt wurde, wie sich eine Regelung auswirken wird.
+
+65
+
+Nach alledem ist auf die vierzehnte Frage zu antworten, dass Art. 56 AEUV dahin auszulegen ist, dass nicht festgestellt werden kann, dass ein Mitgliedstaat seiner Pflicht zur Rechtfertigung einer restriktiven Maßnahme nicht genügt hat, weil er zum Zeitpunkt der Einführung dieser Maßnahme in die nationalen Rechtsvorschriften oder zum Zeitpunkt ihrer Überprüfung durch das nationale Gericht hinsichtlich der Maßnahme keine Folgenabschätzung vorgelegt hat.
+
+Zur sechzehnten Frage
+
+66
+
+Mit seiner sechzehnten Frage, die vor der zwölften, der dreizehnten und der fünfzehnten Frage zu beantworten ist, möchte das vorlegende Gericht wissen, ob Art. 56 AEUV dahin auszulegen ist, dass er einer Sanktion wie der im Ausgangsverfahren streitigen entgegensteht, die wegen Verstoßes gegen nationale Rechtsvorschriften verhängt wird, mit denen ein System von Konzessionen und Erlaubnissen für die Veranstaltung von Glücksspielen errichtet wird, falls sich herausstellt, dass solche nationalen Rechtsvorschriften gegen Art. 56 AEUV verstoßen.
+
+67
+
+Insoweit genügt der Hinweis, dass der Verstoß eines Wirtschaftsteilnehmers gegen eine beschränkende Regelung im Glücksspielbereich nicht zu einer Sanktion führen kann, wenn diese Regelung mit Art. 56 AEUV nicht vereinbar ist (Urteil vom 22. Juni 2017, Unibet International, C‑49/16, EU:C:2017:491, Rn. 50 und die dort angeführte Rechtsprechung).
+
+68
+
+In Anbetracht dessen ist auf die sechzehnte Frage zu antworten, dass Art. 56 AEUV dahin auszulegen ist, dass er einer Sanktion wie der im Ausgangsverfahren streitigen entgegensteht, die wegen Verstoßes gegen nationale Rechtsvorschriften verhängt wird, mit denen ein System von Konzessionen und Erlaubnissen für die Veranstaltung von Glücksspielen errichtet wird, falls sich herausstellt, dass solche nationalen Rechtsvorschriften gegen Art. 56 AEUV verstoßen.
+
+69
+
+Unter Berücksichtigung der Antwort auf diese Frage brauchen die zwölfte, die dreizehnte und die fünfzehnte Frage nicht beantwortet zu werden.
+
+Kosten
+
+70
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Sechste Kammer) für Recht erkannt:
+
+ 	
+1.
+
+Art. 56 AEUV ist dahin auszulegen, dass er einem dualen System zur Organisation des Glücksspielmarkts, in dessen Rahmen bestimmte Arten von Glücksspielen einem staatlichen Monopol unterliegen, während für die Veranstaltung anderer Glücksspiele ein Konzessions- und Erlaubnissystem gilt, nicht grundsätzlich entgegensteht, sofern das vorlegende Gericht feststellt, dass die den freien Dienstleistungsverkehr einschränkende Regelung tatsächlich in kohärenter und systematischer Weise die vom betreffenden Mitgliedstaat angegebenen Ziele verfolgt.
+
+ 	
+2.
+
+Art. 56 AEUV ist dahin auszulegen, dass er einer nationalen Regelung wie der im Ausgangsverfahren streitigen entgegensteht, nach der ausschließlich solche Glücksspielveranstalter, die aufgrund einer Konzession ein Casino im Inland betreiben, eine Erlaubnis für die Veranstaltung von Online-Glücksspielen erhalten können, sofern diese Regelung keine unerlässliche Voraussetzung für die Erreichung der verfolgten Ziele ist und weniger restriktive Maßnahmen zu ihrer Erreichung zur Verfügung stehen.
+
+ 	
+3.
+
+Art. 56 AEUV ist dahin auszulegen, dass er einer nationalen Regelung wie der im Ausgangsverfahren streitigen entgegensteht, mit der ein System von Konzessionen und Erlaubnissen für die Veranstaltung von Online-Glücksspielen errichtet wird, sofern sie Vorschriften enthält, die in anderen Mitgliedstaaten niedergelassene Wirtschaftsteilnehmer diskriminieren, oder wenn sie Vorschriften vorsieht, die nicht diskriminierend sind, aber nicht transparent angewandt werden oder in einer Weise gehandhabt werden, die die Bewerbung bestimmter Bieter, die in anderen Mitgliedstaaten niedergelassen sind, verhindert oder erschwert.
+
+ 	
+4.
+
+Art. 56 AEUV und Art. 4 Abs. 3 EUV in Verbindung mit den Art. 47 und 48 der Charta der Grundrechte der Europäischen Union sind dahin auszulegen, dass sie nationalen Rechtsvorschriften wie den im Ausgangsverfahren streitigen nicht entgegenstehen, nach denen nicht von Amts wegen zu prüfen ist, ob die Maßnahmen, die den freien Dienstleistungsverkehr im Sinne von Art. 56 AEUV beschränken, verhältnismäßig sind und die Beweislast den Verfahrensparteien auferlegt ist.
+
+ 	
+5.
+
+Art. 56 AEUV in Verbindung mit den Art. 47 und 48 der Charta der Grundrechte der Europäischen Union ist dahin auszulegen, dass es dem Mitgliedstaat, der eine restriktive Regelung durchgeführt hat, obliegt, die Beweise beizubringen, um das Vorliegen von Zielen, mit denen sich eine Beschränkung einer vom AEU-Vertrag gewährleisteten Grundfreiheit rechtfertigen lässt, und deren Verhältnismäßigkeit darzutun, und in Ermangelung dessen die nationalen Gerichte alle Konsequenzen ziehen dürfen, die sich aus einem solchen Mangel ergeben.
+
+ 	
+6.
+
+Art. 56 AEUV ist dahin auszulegen, dass nicht festgestellt werden kann, dass ein Mitgliedstaat seiner Pflicht zur Rechtfertigung einer restriktiven Maßnahme nicht genügt hat, weil er zum Zeitpunkt der Einführung dieser Maßnahme in die nationalen Rechtsvorschriften oder zum Zeitpunkt ihrer Überprüfung durch das nationale Gericht hinsichtlich der Maßnahme keine Folgenabschätzung vorgelegt hat.
+
+ 	
+7.
+
+Art. 56 AEUV ist dahin auszulegen, dass er einer Sanktion wie der im Ausgangsverfahren streitigen entgegensteht, die wegen Verstoßes gegen nationale Rechtsvorschriften verhängt wird, mit denen ein System von Konzessionen und Erlaubnissen für die Veranstaltung von Glücksspielen errichtet wird, falls sich herausstellt, dass solche nationalen Rechtsvorschriften gegen Art. 56 AEUV verstoßen.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Ungarisch.

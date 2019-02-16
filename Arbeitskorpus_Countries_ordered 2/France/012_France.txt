@@ -1,0 +1,936 @@
+﻿URTEIL DES GERICHTSHOFS (Fünfte Kammer)
+
+4. Oktober 2018 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Einlagensicherungssysteme – Richtlinie 94/19/EG – Art. 1 Nr. 3 Ziff. i – Art. 10 Abs. 1 – Begriff ‚nichtverfügbare Einlage‘ – Haftung eines Mitgliedstaats für Schäden, die dem Einzelnen durch Verstöße gegen das Unionsrecht entstanden sind – Hinreichend qualifizierter Verstoß gegen das Unionsrecht – Verfahrensautonomie der Mitgliedstaaten – Grundsatz der loyalen Zusammenarbeit – Art. 4 Abs. 3 EUV – Grundsätze der Äquivalenz und der Effektivität“
+
+In der Rechtssache C‑571/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Administrativen sad Varna (Verwaltungsgericht Varna, Bulgarien) mit Entscheidung vom 4. November 2016, beim Gerichtshof eingegangen am 14. November 2016, in dem Verfahren
+
+Nikolay Kantarev
+
+gegen
+
+Balgarska Narodna Banka,
+
+Beteiligte:
+
+Okrazhna prokuratura – Varna,
+
+erlässt
+
+DER GERICHTSHOF (Fünfte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten J. L. da Cruz Vilaça (Berichterstatter), der Richter E. Levits und A. Borg Barthet, der Richterin M. Berger sowie des Richters F. Biltgen,
+
+Generalanwältin: J. Kokott,
+
+Kanzler: A. Calot Escobar,
+
+aufgrund des schriftlichen Verfahrens,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+von Herrn Kantarev, vertreten durch K. Boncheva und M. Ekimdzhiev, advokati,
+
+–
+
+der Balgarska Narodna Banka, vertreten durch A. Kalaydzhiev, R. Georgiev und M. Kalaydzhieva, advokati,
+
+–
+
+der Europäischen Kommission, vertreten durch P. Mihaylova, A. Steiblytė und H. Krämer als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge der Generalanwältin in der Sitzung vom 7. Juni 2018
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 1 Nr. 3 Ziff. i und Art. 10 Abs. 1 der Richtlinie 94/19/EG des Europäischen Parlaments und des Rates vom 30. Mai 1994 über Einlagensicherungssysteme (ABl. 1994, L 135, S. 5) in der durch die Richtlinie 2009/14/EG des Europäischen Parlaments und des Rates vom 11. März 2009 (ABl. 2009, L 68, S. 3) geänderten Fassung (im Folgenden: Richtlinie 94/19).
+
+2
+
+Es ergeht in einem Rechtsstreit zwischen Herrn Nikolay Kantarev und der Balgarska Narodna Banka (Bulgarische Zentralbank, im Folgenden: BNB) über den Schaden, der Herrn Kantarev wegen der mutmaßlich verspäteten Zahlung der Einlagensicherung für nicht verfügbar gewordene Guthaben auf einem Girokonto bei der Korporativna Targovska Banka (im Folgenden: KTB) entstanden sein soll.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+Richtlinie 94/19
+
+3
+
+In den Erwägungsgründen 1, 2, 4, 8, 9, 11, 21 und 24 der Richtlinie 94/19 heißt es:
+
+„Gemäß den Zielen des Vertrages empfiehlt es sich, die harmonische Entwicklung der Tätigkeiten der Kreditinstitute in der Gemeinschaft durch die Aufhebung aller Beschränkungen der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs zu fördern und gleichzeitig die Stabilität des Bankensystems und den Schutz der Sparer zu erhöhen.
+
+Werden die Beschränkungen der Tätigkeiten von Kreditinstituten aufgehoben, so ist es zweckmäßig, sich zugleich mit der Situation zu befassen, die im Falle des Nichtverfügbarwerdens der Einlagen in einem Kreditinstitut mit Zweigstellen in anderen Mitgliedstaaten entstehen kann. Ein Mindestmaß an Harmonisierung der Einlagensicherung muss gewährleistet sein ohne Rücksicht darauf, wo in der Gemeinschaft die Einlagen lokalisiert sind. Für die Vollendung des einheitlichen Bankenmarktes ist die Einlagensicherung genauso wichtig wie die aufsichtsrechtlichen Vorschriften.
+
+…
+
+Die den Kreditinstituten aus der Teilnahme an einem Sicherungssystem erwachsenden Kosten stehen in keinem Verhältnis zu denjenigen, die bei einem massiven Abheben von Einlagen nicht nur bei dem sich in Schwierigkeiten befindlichen Unternehmen, sondern auch bei an sich gesunden Unternehmen entstehen würden, wenn das Vertrauen der Einleger in die Stabilität des Bankensystems erschüttert wird.
+
+…
+
+Die Harmonisierung muss sich auf die wesentlichen Aspekte der Einlagensicherungssysteme beschränken und die Zahlung der entsprechend der harmonisierten Mindestdeckung berechneten Entschädigung aus der Einlagensicherung innerhalb kürzester Frist gewährleisten.
+
+Die Einlagensicherungssysteme müssen tätig werden, sobald Einlagen nicht verfügbar werden.
+
+…
+
+Die Harmonisierung der in der Gemeinschaft bestehenden Einlagensicherungssysteme stellt als solche nicht die bereits funktionierenden Systeme in Frage, die den Schutz der Kreditinstitute insbesondere durch Gewährleistung ihrer Solvenz und Liquidität zum Ziel haben, um ein Nichtverfügbarwerden der Einlagen bei diesen Kreditinstituten, einschließlich ihrer Zweigstellen in anderen Mitgliedstaaten, auszuschließen. Diese alternativen Systeme, deren Ziel ein anders gearteter Schutz ist, können unter bestimmten Voraussetzungen von den zuständigen Behörden als mit den Zielen dieser Richtlinie im Einklang stehend anerkannt werden. Es obliegt den zuständigen Behörden zu überprüfen, ob diese Voraussetzungen erfüllt werden.
+
+…
+
+Die Information ist ein wesentlicher Bestandteil des Einlegerschutzes und ist deshalb ebenfalls durch bestimmte Mindestvorschriften zu regeln, die bindend sind. …
+
+…
+
+Die Mitgliedstaaten oder ihre zuständigen Behörden können aufgrund dieser Richtlinie den Einlegern gegenüber nicht haftbar gemacht werden, wenn sie für die Einrichtung bzw. die amtliche Anerkennung eines oder mehrerer Systeme Sorge getragen haben, die die Einlagen oder die Kreditinstitute selbst absichern und die Zahlung von Entschädigungen oder den Schutz der Einleger nach Maßgabe dieser Richtlinie gewährleisten.“
+
+4
+
+Art. 1 Nr. 1 Abs. 1 und Nr. 3 dieser Richtlinie bestimmt:
+
+„Im Sinne dieser Richtlinie bedeuten:
+
+1.
+
+Einlage: ein Guthaben, das sich aus auf einem Konto verbliebenen Beträgen oder aus Zwischenpositionen im Rahmen von normalen Bankgeschäften ergibt und vom Kreditinstitut nach den geltenden gesetzlichen und vertraglichen Bedingungen zurückzuzahlen ist, sowie Forderungen, die das Kreditinstitut durch Ausstellung einer Urkunde verbrieft hat.
+
+…
+
+3.
+
+Nichtverfügbare Einlage: eine Einlage, die gemäß den für sie geltenden gesetzlichen und vertraglichen Bedingungen zwar fällig und von einem Kreditinstitut zu zahlen ist, jedoch noch nicht gezahlt wurde, wobei einer der beiden folgenden Fälle vorliegt:
+
+i)
+
+Die jeweils zuständigen Behörden haben festgestellt, dass ihrer Auffassung nach das Kreditinstitut aus Gründen, die mit seiner Finanzlage unmittelbar zusammenhängen, vorerst nicht in der Lage ist, die Einlage zurückzuzahlen, und gegenwärtig keine Aussicht auf eine spätere Rückzahlung besteht.
+
+Die zuständigen Behörden treffen diese Feststellung so rasch wie möglich, jedenfalls jedoch spätestens fünf Arbeitstage, nachdem sie erstmals festgestellt haben, dass ein Kreditinstitut die fälligen und rückzahlbaren Einlagen nicht zurückgezahlt hat.
+
+ii)
+
+Ein Gericht hat aus Gründen, die mit der Finanzlage des Kreditinstituts unmittelbar zusammenhängen, eine Entscheidung getroffen, die ein Ruhen der Forderungen der Einleger gegen das Institut bewirkt, sofern diese Entscheidung vor der Feststellung nach Ziffer i) erfolgt ist.“
+
+5
+
+Art. 7 Abs. 1 und 1a der Richtlinie 94/19 sieht vor:
+
+„(1)   Für den Fall, dass Einlagen nicht verfügbar sind, gewährleisten die Mitgliedstaaten, dass die Deckungssumme für die Gesamtheit der Einlagen desselben Einlegers mindestens 50000 [Euro] beträgt.
+
+(1a)   Ab 31. Dezember 2010 gewährleisten die Mitgliedstaaten, dass die Deckungssumme für die Gesamtheit der Einlagen desselben Einlegers auf 100000 [Euro] festgesetzt ist, wenn die Einlagen nicht verfügbar sind.
+
+…“
+
+6
+
+In Art. 10 Abs. 1 der Richtlinie 94/19 heißt es:
+
+„Die Einlagensicherungssysteme treffen Vorkehrungen, um ordnungsgemäß geprüfte Forderungen der Einleger in Bezug auf nicht verfügbare Einlagen binnen 20 Arbeitstagen ab dem Zeitpunkt zahlen zu können, zu dem die zuständigen Behörden eine Feststellung nach Artikel 1 Nummer 3 Ziffer i getroffen haben oder ein Gericht eine Entscheidung nach Artikel 1 Nummer 3 Ziffer ii getroffen hat. Diese Frist umfasst die Erhebung und Übermittlung der einschlägigen Angaben zu den Einlegern und Einlagen, die für die Überprüfung der Forderungen erforderlich sind.
+
+Bei in jeder Hinsicht außergewöhnlichen Umständen kann ein Einlagensicherungssystem bei den zuständigen Behörden eine Fristverlängerung beantragen. Diese Verlängerung darf zehn Arbeitstage nicht überschreiten.
+
+…“
+
+Richtlinie 2009/14
+
+7
+
+Die Erwägungsgründe 11 und 12 der Richtlinie 2009/14 lauten:
+
+„(11)
+
+In den Fällen, in denen die Auszahlung durch eine Feststellung der zuständigen Behörden ausgelöst wird, sollte der für die Entscheidung zur Verfügung stehende Zeitraum von 21 Tagen auf fünf Arbeitstage verkürzt werden, damit er eine rasche Auszahlung nicht behindert. Allerdings sollten sich die zuständigen Behörden zuvor hinreichend davon überzeugt haben, dass ein Kreditinstitut die fälligen und rückzahlbaren Einlagen nicht zurückgezahlt hat. Diese Beurteilung sollte den Gerichts- oder Verwaltungsverfahren der Mitgliedstaaten unterliegen.
+
+(12)
+
+Einlagen können als nicht verfügbar angesehen werden, sobald eine frühzeitige Intervention oder Umstrukturierungsmaßnahmen sich als erfolglos erweisen. Dies sollte die zuständigen Behörden nicht daran hindern, während des Auszahlungszeitraums weitere Umstrukturierungsbemühungen zu unternehmen.“
+
+Bulgarisches Recht
+
+8
+
+Der Zakon za otgovornostta na darzhavata i obshtinite za vredi (Gesetz über die Haftung des Staates und der Gemeinden für Schäden) (DV Nr. 60 vom 5. August 1988; im Folgenden: Staatshaftungsgesetz) bestimmt in seinem Art. 1 Abs. 1 und 2:
+
+„(1)   Der Staat und die Gemeinden haften für Schäden, die natürlichen und juristischen Personen infolge von rechtswidrigen Rechtsakten, Handlungen oder Unterlassungen ihrer Organe oder Bediensteten bei oder anlässlich der Ausübung von deren Verwaltungstätigkeit entstanden sind.
+
+(2)   Klagen nach Abs. 1 werden in dem Verfahren nach dem Administrativnoprotsesualen kodeks (Verwaltungsverfahrensordnung) behandelt. …“
+
+9
+
+Art. 8 Abs. 1 und 3 des Staatshaftungsgesetzes bestimmt:
+
+„(1)   Der Ersatz von Schäden, die unter den Bedingungen von Art. 1 Abs. 1, Art. 2 Abs. 1 und 2, Art. 2a und Art. 2b Abs. 1 verursacht wurden, kann in dem Verfahren nach dem vorliegenden Gesetz und nicht in dem allgemeinen Verfahren geltend gemacht werden.
+
+…
+
+(3)   Wenn eine spezielle Art der Entschädigung in einem Gesetz oder einer Verordnung vorgesehen ist, findet das vorliegende Gesetz keine Anwendung.“
+
+10
+
+Art. 45 des Zakon za zadalzheniata i dogovorite (Gesetz über Schuldverhältnisse und Verträge) (DV Nr. 275 vom 22. November 1950) sieht vor:
+
+„Wer durch sein Verschulden einer anderen Person einen Schaden verursacht, ist zur Wiedergutmachung dieses Schadens verpflichtet. Bei Schäden, die Folge einer unerlaubten Handlung sind, wird das Verschulden bis zum Beweis des Gegenteils vermutet.“
+
+11
+
+In Art. 49 des Gesetzes über Schuldverhältnisse und Verträge heißt es:
+
+„Wer eine andere Person mit einer Aufgabe betraut, haftet für die von dieser Person bei oder anlässlich der Durchführung dieser Aufgabe verursachten Schäden.“
+
+12
+
+Der Zakon za garantirane na vlogovete v bankite (Gesetz über die Sicherung der Bankeinlagen) (DV Nr. 49 vom 29. April 1998) regelt die Gründung, die Aufgaben und die Tätigkeit des Fonds für die Sicherung von Bankeinlagen (im Folgenden: Fonds). Nach Art. 1a der Ergänzungsvorschriften von 2009 (DV Nr. 44 vom 12. Juni 2009) setzt dieses Gesetz die Richtlinien 94/19 und 2009/14 um.
+
+13
+
+Art. 23 Abs. 1, 2, 5 und 6 dieses Gesetzes lautet:
+
+„(1)   Der Fonds erstattet den Einlegern ihre Forderungen gegenüber der betreffenden Bank bis zur Höhe der Garantiebeträge, wenn die [BNB] die Banklizenz der Geschäftsbank widerruft.
+
+(2)   Der Fonds erstattet die garantierten Einlagebeträge über eine oder mehrere vom Verwaltungsrat bestimmte Geschäftsbanken.
+
+…
+
+(5)   Die Erstattung der Beträge durch den Fonds beginnt spätestens 20 Arbeitstage, nachdem die [BNB] die in Abs. 1 genannte Entscheidung getroffen hat.
+
+(6)   Bei Vorliegen besonderer Umstände kann der Fonds die Frist nach Abs. 5 um bis zu zehn Arbeitstage verlängern.“
+
+14
+
+Art. 24 Abs. 1 dieses Gesetzes sieht vor:
+
+„Ab dem Zeitpunkt, zu dem die [BNB] die in Art. 23 Abs. 1 genannte Entscheidung getroffen hat, gehen die Ansprüche der Einleger gegenüber der Bank bis zur Höhe des Garantiebetrags auf den Fonds über, unabhängig davon, in welcher Höhe und zu welchem Zeitpunkt der Fonds dem einzelnen Anleger Zahlungen aufgrund der Garantie geleistet hat.“
+
+15
+
+Der Zakon za Balgarskata Narodna Banka (Gesetz über die Bulgarische Zentralbank) (DV Nr. 46 vom 10. Juni 1997) regelt das Statut, die Ziele und die Zuständigkeiten der BNB.
+
+16
+
+Art. 1 Abs. 1 dieses Gesetzes bestimmt:
+
+„Die [BNB] ist die Zentralbank der Republik Bulgarien. Sie ist eine juristische Person.“
+
+17
+
+Art. 2 Abs. 6 des Gesetzes über die Bulgarische Zentralbank sieht vor:
+
+„Die [BNB] ist für die Regulierung und Überwachung der Tätigkeit der anderen im Inland ansässigen Banken zuständig, um die Stabilität des Bankensystems aufrechtzuerhalten und die Interessen der Einleger zu schützen.“
+
+18
+
+Nach Art. 16 dieses Gesetzes ist der Verwaltungsrat der BNB u. a. damit betraut, „Zulassungen für Banken, Betreiber von Zahlungssystemen, Zahlungsinstitute und E-Geld‑Institute zu den in einem Gesetz festgelegten Bedingungen und Modalitäten zu erteilen, zu verweigern oder zu widerrufen; … zu den im Gesetz über die Kreditinstitute festgelegten Bedingungen und Modalitäten Banken unter besondere Aufsicht zu stellen“.
+
+19
+
+Der Zakon za kreditnite institutsii (Gesetz über die Kreditinstitute) (DV Nr. 59 vom 21. Juli 2006) regelt die Voraussetzungen und das Verfahren für die Erteilung von Zulassungen, den Geschäftsbetrieb, die Kontrolle der Einhaltung der aufsichtsrechtsrechtlichen Anforderungen und die Einstellung des Geschäftsbetriebs von Banken zu dem Zweck, ein stabiles, zuverlässiges und sicheres Bankensystem zu gewährleisten, sowie die Informationspflichten der BNB im Bereich der Aufsichtsvorschriften und der Beaufsichtigung von Banken.
+
+20
+
+Nach Art. 1 Abs. 2 des Gesetzes über die Kreditinstitute ist die BNB „die in der Republik Bulgarien für die Bankenaufsicht zuständige Behörde im Sinne von Art. 4 Abs. 1 Nr. 40 der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. 2013, L 176, S. 1)“.
+
+21
+
+Art. 36 Abs. 2 und 3 dieses Gesetzes sieht vor:
+
+„(2)   Die [BNB] muss die einer Bank erteilte Zulassung wegen Zahlungsunfähigkeit der Bank widerrufen, wenn
+
+1.
+
+die Bank seit mehr als sieben Arbeitstagen ihre fällig gewordenen finanziellen Verbindlichkeiten nicht mehr bedient, sofern dies unmittelbar mit ihrer Finanzlage zusammenhängt und die [BNB] es für unwahrscheinlich hält, dass diese die fällig gewordenen finanziellen Verbindlichkeiten innerhalb einer angemessenen Frist erfüllt, oder
+
+2.
+
+das Eigenkapital der Bank einen negativen Wert aufweist.
+
+(3)   Die [BNB] trifft die Entscheidung nach Abs. 2 binnen fünf Arbeitstagen ab Feststellung der Zahlungsunfähigkeit.“
+
+22
+
+Art. 79 Abs. 8 des Gesetzes über die Kreditinstitute bestimmt:
+
+„Die [BNB], ihre Organe und die von ihr beauftragten Personen haften nicht für bei der Wahrnehmung ihrer Aufsichtsfunktionen verursachte Schäden, es sei denn, sie haben vorsätzlich gehandelt.“
+
+23
+
+In Art. 115 dieses Gesetzes heißt es:
+
+„(1)   Zum Zweck der Sanierung einer von Zahlungsunfähigkeit bedrohten Bank kann die [BNB] diese unter besondere Aufsicht stellen.
+
+(2)   Eine Bank ist von Zahlungsunfähigkeit bedroht,
+
+1.
+
+wenn die Gesamteigenkapitalquote unterhalb des festgelegten Mindestwertes liegt oder
+
+2.
+
+wenn die [BNB] feststellt, dass die liquiden Aktiva der Bank nicht ausreichen, um ihre Verbindlichkeiten an dem Tag, an dem diese fällig werden, zu erfüllen, oder
+
+3.
+
+wenn die Bank eine oder mehrere fällig gewordene Verbindlichkeiten gegenüber ihren Schuldnern nicht fristgerecht erfüllt hat.
+
+…“
+
+24
+
+Art. 116 des Gesetzes über die Kreditinstitute bestimmt:
+
+„(1)   In den Fällen des Art. 115 Abs. 1 stellt die [BNB] die betreffende Bank unter besondere Aufsicht und
+
+1.
+
+bestellt Verwalter, sofern zuvor keine Verwalter bestellt worden waren, und legt deren Befugnisse fest;
+
+2.
+
+bestimmt die Dauer und die Modalitäten der besonderen Aufsicht.
+
+(2)   In den Fällen des Abs. 1 kann die [BNB]
+
+1.
+
+die Zinsen auf die Verbindlichkeiten der Bank auf den Marktdurchschnitt senken;
+
+2.
+
+für einen bestimmten Zeitraum die Erfüllung aller oder bestimmter Verbindlichkeiten dieser Bank ganz oder teilweise aussetzen;
+
+3.
+
+deren Geschäftsbetrieb ganz oder teilweise einschränken;
+
+…“
+
+25
+
+Art. 119 Abs. 5 dieses Gesetzes sieht vor:
+
+„In den Fällen des Art. 116 Abs. 2 Nr. 2 haftet die Bank nicht für die Nichterfüllung von Verbindlichkeiten, deren Erfüllung infolge der besonderen Aufsicht ausgesetzt wurde. Während die Bank unter besonderer Aufsicht steht, fallen für die Nichterfüllung der finanziellen Verbindlichkeiten der Bank, deren Erfüllung ausgesetzt ist, weder Verzugs- noch Nichterfüllungszinsen an, wohingegen vertraglich vereinbarte Zinsen auf diese Verbindlichkeiten geschuldet werden, aber erst zu zahlen sind, nachdem die Anordnung der besonderen Aufsicht aufgehoben wurde.“
+
+Ausgangsverfahren und Vorlagefragen
+
+26
+
+Am 4. März 2014 schloss Herr Kantarev mit der KTB einen Rahmenvertrag über Zahlungsdienste und eine Zusatzvereinbarung über die Eröffnung eines Girokontos. In der Zusatzvereinbarung wurde u. a. darauf hingewiesen, dass die Einlagen auf diesem Konto durch den Fonds gedeckt seien. Die Einlagen auf diesem Konto sollten außerdem zu einem festen Zinssatz verzinst werden, wobei diese Zinsen einmal jährlich oder bei Kontoschließung auf diesem Konto gutgeschrieben werden sollten und ebenfalls durch den Fonds gedeckt waren.
+
+27
+
+Nachdem die KTB in Liquiditätsschwierigkeiten geraten war, weil bei ihr gehaltene Einlagen in großem Umfang abgezogen worden waren, beantragten ihre Vertreter am 20. Juni 2014 bei der BNB, die KTB unter besondere Aufsicht zu stellen. Sie informierten die BNB außerdem darüber, dass die Zahlungen und sämtliche Bankgeschäfte der KTB ausgesetzt worden seien. Mit Entscheidung vom selben Tag stellte der Verwaltungsrat der BNB die KTB für drei Monate unter besondere Aufsicht. Die Erfüllung der Verbindlichkeiten der KTB wurde ausgesetzt und ihr Geschäftsbetrieb eingeschränkt. Verwalter wurden bestellt und von der BNB damit beauftragt, durch einen externen Prüfer Vermögenswerte und Verbindlichkeiten der KTB bewerten zu lassen.
+
+28
+
+Die Prüfung ergab, dass das Betriebsergebnis der KTB negativ war und diese nicht die Eigenkapitalanforderungen nach der Unionsregelung erfüllte. Infolgedessen wurde von der BNB mit Entscheidung vom 6. November 2014 erstens die Banklizenz der KTB widerrufen, zweitens beschlossen, Maßnahmen im Hinblick auf die Eröffnung eines Insolvenzverfahrens über deren Vermögen zu treffen, und drittens verfügt, dass der Fonds zu unterrichten sei.
+
+29
+
+Das Konto des Klägers des Ausgangsverfahrens wurde am selben Tag von Amts wegen geschlossen, was nach bulgarischem Recht zu einer Erstattung der Einlage von Herrn Kantarev aufgrund der Einlagensicherung führte.
+
+30
+
+Am 4. Dezember 2014 zahlte ein bulgarisches Kreditinstitut, das vom Fonds mit der Erstattung der von der KTB gehaltenen Einlagen beauftragt war, an Herrn Kantarev einen Betrag von 86973,81 bulgarischen Leva (BGN) (ungefähr 44465 Euro), der die bis zum 6. November 2014, dem Tag des Widerrufs der Banklizenz der KTB, aufgelaufenen Zinsen, nämlich 2673,81 BGN, einschloss. Bis zum 1. Juli 2014 wurde die Einlage des Klägers des Ausgangsverfahrens gemäß den vertraglichen Bedingungen verzinst, ab diesem Datum bis zum 6. November 2014 hingegen zu dem Zinssatz, der in der Entscheidung des Verwaltungsrats der BNB vom 30. Juni 2014 festgelegt worden war, mit der der Zinssatz für die Verzinsung von Einlagen bei der KTB herabgesetzt wurde.
+
+31
+
+Anschließend stellte der Sofiyski gradski sad (Stadtgericht Sofia, Bulgarien) mit Urteil vom 22. April 2015 fest, dass die KTB seit dem 6. November 2014 zahlungsunfähig sei. Die BNB legte gegen diesen Teil des Urteils Berufung beim Sofiyski apelativen sad (Berufungsgericht Sofia, Bulgarien) ein, der das erstinstanzliche Urteil aufhob und dabei davon ausging, das maßgebliche Datum sei der 20. Juni 2014, der Tag, ab dem die Eigenmittel der KTB negativ gewesen seien.
+
+32
+
+Anfang 2016 erhob Herr Kantarev beim Administrativen sad Varna (Verwaltungsgericht Varna, Bulgarien) gegen die BNB Klage nach Art. 4 Abs. 3 EUV und machte geltend, die BNB hätte ungeachtet des Gesetzes über die Sicherung der Bankeinlagen die Nichtverfügbarkeit der Einlagen gemäß Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 – d. h. innerhalb von fünf Arbeitstagen nach der Entscheidung, die KTB unter besondere Aufsicht zu stellen – feststellen müssen. Folglich habe die BNB gegen Unionsrecht verstoßen, weshalb er Anspruch auf Entschädigung habe. Durch die verspätete Auszahlung seiner Einlage sei ihm ein Schaden in Höhe der Verzugszinsen entstanden.
+
+33
+
+Mit Beschluss vom 12. März 2016 unterbrach das vorlegende Gericht das Ausgangsverfahren mit der Begründung, dass die in Art. 1 Abs. 1 des Staatshaftungsgesetzes genannten Voraussetzungen nicht erfüllt seien. Dieser Beschluss wurde jedoch vom Varhoven administrativen sad (Oberstes Verwaltungsgericht, Bulgarien) mit Beschluss vom 18. Juli 2016 aufgehoben. In diesem Beschluss gab das Oberste Verwaltungsgericht dem vorlegenden Gericht Hinweise zu mehreren für die Entscheidung des Rechtsstreits zu prüfenden Gesichtspunkten.
+
+34
+
+In Anbetracht dieser Hinweise ist das vorlegende Gericht der Auffassung, dass der Erfolg der Klage von Herrn Kantarev erstens davon abhänge, ob die Haftung der BNB anhand der in Art. 1 Abs. 1 des Staatshaftungsgesetzes aufgestellten Voraussetzungen oder anhand der Voraussetzungen, die das Gesetz über Schuldverhältnisse und Verträge aufstelle, zu prüfen sei. Die Rechtsprechung der bulgarischen Gerichte sei hinsichtlich der Frage, ob die Zivil- oder die Verwaltungsgerichte für Klagen auf Schadensersatz wegen eines Verstoßes gegen das Unionsrecht zuständig seien, widersprüchlich. Auch die Rechtsprechung des Varhoven administrativen sad (Oberstes Verwaltungsgericht) sei widersprüchlich, da er in einigen Fällen entschieden habe, dass das Staatshaftungsgesetz auf die BNB keine Anwendung finde, weil sie weder ein Organ der Exekutive noch ein aus dem Staatshaushalt finanziertes Organ sei, und in anderen Fällen, dass sie als eine Einrichtung mit hoheitlichen Befugnissen anzusehen und dieses Gesetz daher auf sie anzuwenden sei.
+
+35
+
+Das vorlegende Gericht weist außerdem darauf hin, dass zwischen den Verfahren und den Voraussetzungen für die Haftung, wie sie jeweils im Staatshaftungsgesetz und im Gesetz über Schuldverhältnisse vorgesehen seien, wesentliche Unterschiede bestünden. So sei mit dem Staatshaftungsgesetz, das nur anwendbar sei, wenn der Schaden die Folge eines für nichtig erklärten rechtswidrigen Rechtsaktes oder einer rechtswidrigen Handlung oder Unterlassung sei, ein System der verschuldensunabhängigen Haftung geschaffen worden. Nach diesem Gesetz müsse der Kläger bei der Klageerhebung eine einfache Gebühr entrichten und könne das Gericht seines Wohnsitzes anrufen. Bei einer Klage nach dem Gesetz über Schuldverhältnis und Verträge hingegen müsse der Kläger an den Staat eine Gebühr in der Höhe eines bestimmten Prozentsatzes des Streitwertes entrichten und das Gericht des Sitzes des Beklagten oder des Ortes, an dem das schädigende Ereignis eingetreten sei, anrufen. Die Begründetheit einer Klage wie der im Ausgangsverfahren erfordere außerdem, dass der Kläger ein Verschulden oder ein vorsätzliches Verhalten der BNB beweise.
+
+36
+
+Zweitens müsse das vorlegende Gericht in der Sache prüfen, ob die BNB verpflichtet gewesen sei, die in Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 vorgesehene Entscheidung zu treffen, so dass es für die Entscheidung des Rechtsstreits erforderlich sei, zu prüfen, ob diese Bestimmung ordnungsgemäß in bulgarisches Recht umgesetzt worden sei. Hierbei fragt das vorlegende Gericht nach den in dieser Richtlinie vorgesehenen Bedingungen für die Nichtverfügbarkeit von Einlagen, um prüfen zu können, zu welchem Zeitpunkt diese Bedingungen vorlagen. In diesem Zusammenhang weist es darauf hin, dass die BNB für die Auslösung des Einlagensicherungsmechanismus nur die Zulassung für ein Kreditinstitut habe widerrufen können und andererseits vor dem Widerruf der Zulassung für die KTB entschieden habe, diese unter besondere Aufsicht zu stellen, um sie vor der Zahlungsunfähigkeit zu bewahren. Insoweit ist das vorlegende Gericht der Ansicht, dass die Erstattung nach dem Einlagensicherungssystem kein Hindernis dafür sei, eine Bank unter besondere Aufsicht zu stellen.
+
+37
+
+Drittens stellt sich das vorlegende Gericht die Frage, ob Art. 1 Nr. 3 Ziff. i und Art. 10 Abs. 1 der Richtlinie 94/19 den Einlegern das Recht einräume, von dem Mitgliedstaat Entschädigung dafür zu fordern, dass die zuständige Behörde gegen die Frist für die Feststellung, dass die Einlagen bei einem Kreditinstitut nicht verfügbar sind, verstoßen hat.
+
+38
+
+Auch insoweit sei die nationale Rechtsprechung widersprüchlich. Klagen von Einlegern gegen die BNB sei mit der Begründung stattgegeben worden, dass diese gegen unionsrechtliche Bestimmungen mit unmittelbarer Wirkung verstoßen habe; andere Klagen seien mit der Begründung abgewiesen worden, dass die Verspätung bei der Erstattung dem Fonds und nicht der BNB zuzurechnen sei, dass die Erstattung nicht möglich sei, solange die Banklizenz des betreffenden Instituts nicht widerrufen worden sei, oder aber dass die Bestimmungen der Richtlinie 94/19 keine unmittelbare Wirkung hätten und dass, falls eine mangelhafte Umsetzung dieser Richtlinie festzustellen sei, dafür nicht die BNB, sondern der Staat selbst hafte.
+
+39
+
+Das vorlegende Gericht ist der Ansicht, dass die BNB gegen das Unionsrecht verstoßen habe, fragt sich aber, ob es sich um einen „hinreichend qualifizierten Verstoß“ im Sinne des Unionsrechts handelt. Es stellt insoweit fest, dass die in Rede stehende Sanierungsmaßnahme von der BNB im Allgemeininteresse beschlossen worden sei und den Einlegern somit ein Schutz geboten worden sei, der dem von der Richtlinie 94/19 vorgesehenen gleichwertig sei, und dass die Einlagen während dieses Zeitraums verzinst worden seien.
+
+40
+
+Unter diesen Umständen hat der Administrativen sad Varna (Verwaltungsgericht Varna) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+1.
+
+Sind Art. 4 Abs. 3 EUV sowie der Äquivalenz- und der Effektivitätsgrundsatz dahin auszulegen, dass sie es in Ermangelung einer nationalen Regelung zulassen, dass sich die zuständige Gerichtsbarkeit und das Verfahren für Schadensersatzklagen wegen eines Verstoßes gegen das Unionsrecht nach der Behörde, die den Verstoß begangen hat, und nach der Art des Tuns/des Unterlassens, durch das der Verstoß begangen wurde, bestimmen, wenn die Anwendung dieser Kriterien dazu führt, dass die Klagen vor unterschiedlichen Gerichtsbarkeiten – der allgemeinen und der Verwaltungsgerichtsbarkeit – nach unterschiedlichen Verfahrensordnungen – der Zivilprozessordnung und der Verwaltungsgerichtsordnung – verhandelt werden, die die Zahlung unterschiedlicher Gebühren, nämlich anteiliger und einfacher, und den Nachweis unterschiedlicher Voraussetzungen, einschließlich des Verschuldens, erfordern?
+
+2.
+
+Sind Art. 4 Abs. 3 EUV und die vom Gerichtshof im Urteil vom 19. November 1991, Francovich u. a. (C‑6/90 und C‑9/90, EU:C:1991:428), aufgestellten Anforderungen dahin auszulegen, dass sie dem entgegenstehen, dass Schadensersatzklagen wegen eines Verstoßes gegen das Unionsrecht nach einem Verfahren wie dem gemäß den Art. 45 und 49 des Gesetzes über Schuldverhältnisse und Verträge, das die Zahlung einer anteiligen Gebühr und den Nachweis eines Verschuldens erfordert, und auch nach einem Verfahren wie dem gemäß Art. 1 des Staatshaftungsgesetzes verhandelt werden können, das zwar eine objektive Haftung vorsieht und besondere Regeln enthält, die den Zugang zu einem Gericht erleichtern sollen, gleichwohl aber nur auf Schäden anwendbar ist, die durch aufgehobene rechtswidrige Rechtsakte und rechtswidriges Tun/Unterlassen der Verwaltung entstanden sind, und Verstöße gegen das Unionsrecht, die von anderen Staatsorganen durch nach dem jeweiligen Verfahren nicht aufgehobene Rechtshandlungen/Unterlassungen begangen wurden, nicht erfasst?
+
+3.
+
+Sind Art. 1 Nr. 3 Ziff. i und Art. 10 Abs. 1 der Richtlinie 94/19 dahin auszulegen, dass sie einen legislativen Ansatz wie den zulassen, der in Art. 36 Abs. 3 des Gesetzes über die Kreditinstitute und Art. 23 Abs. 5 des Gesetzes über die Sicherung von Bankeinlagen gewählt wurde, wonach „die Voraussetzung, dass das Kreditinstitut aus Gründen, die mit seiner Finanzlage unmittelbar zusammenhängen, vorerst nicht in der Lage ist, die Einlage zurückzuzahlen, und gegenwärtig keine Aussicht auf eine spätere Rückzahlung besteht“, mit der Feststellung der Zahlungsunfähigkeit des Instituts und dem Widerruf seiner Zulassung gleichbedeutend ist und das Einlagensicherungssystem ab dem Zeitpunkt des Widerrufs der Banklizenz tätig wird?
+
+4.
+
+Ist Art. 1 Nr. 3 der Richtlinie 94/19 dahin auszulegen, dass für die Qualifizierung einer Einlage als „nicht verfügbar“ deren Nichtverfügbarkeit von den „jeweils zuständigen Behörden“ nach erfolgter Beurteilung gemäß Ziff. i dieser Vorschrift ausdrücklich festgestellt werden muss, oder lässt er es zu, dass bei einer Lücke im nationalen Recht die Beurteilung und der Wille der „jeweils zuständigen Behörde“ im Wege der Auslegung anderen Rechtsakten dieser Behörde entnommen werden – im vorliegenden Fall beispielsweise der Entscheidung Nr. 73 vom 20. Juni 2014 des Verwaltungsrats der BNB, mit der die KTB unter besondere Aufsicht gestellt wurde – oder aufgrund von Umständen wie denen des Ausgangsverfahrens vermutet werden?
+
+5.
+
+Ist unter Umständen wie denen des Ausgangsverfahrens, wo mit der Entscheidung Nr. 73 des Verwaltungsrats der BNB vom 20. Juni 2014 alle Zahlungen und Geschäfte eingestellt wurden und die Einleger im Zeitraum vom 20. Juni 2014 bis zum 6. November 2014 weder Auszahlungsanträge stellen konnten noch Zugang zu ihren Einlagen hatten, davon auszugehen, dass alle gesicherten unbefristeten Einlagen (über die ohne Voranzeige verfügt werden darf und die bei Aufforderung sofort auszuzahlen sind) im Sinne von Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 nicht verfügbar geworden sind, oder erfordert die Voraussetzung, dass eine Einlage „zwar fällig und von einem Kreditinstitut zu zahlen ist, jedoch noch nicht gezahlt wurde“, dass die Einleger vom Kreditinstitut die Zahlung (durch Antrag, Aufforderung) verlangt haben müssen, ohne dass dem Folge geleistet wurde?
+
+6.
+
+Sind Art. 1 Nr. 3 Ziff. i, Art. 10 Abs. 1 der Richtlinie 94/19 und der achte Erwägungsgrund der Richtlinie 2009/14 dahin auszulegen, dass der Ermessensspielraum der „jeweils zuständigen Behörden“ bei der Beurteilung nach Art. 1 Nr. 3 Ziff. i jedenfalls durch die Frist nach Ziff. i Satz 2 begrenzt ist, oder lassen sie es zu den Zwecken der besonderen Aufsicht wie der nach Art. 115 des Gesetzes über die Kreditinstitute zu, dass die Einlagen länger als in der Richtlinie vorgesehen nicht verfügbar bleiben?
+
+7.
+
+Haben Art. 1 Nr. 3 Ziff. i und Art. 10 Abs. 1 der Richtlinie 94/19 unmittelbare Wirkung, und verleihen sie den Inhabern von Einlagen in einer Bank, die einem Einlagensicherungssystem angeschlossen ist, zusätzlich zu ihrem Recht auf Entschädigung durch dieses System bis zu dem Betrag nach Art. 7 Abs. 1 der Richtlinie 94/19 auch das Recht, den Staat wegen eines Verstoßes gegen das Unionsrecht haftbar zu machen, indem sie die zur Feststellung der Nichtverfügbarkeit der Einlagen verpflichtete Behörde auf Ersatz des Schadens verklagen, der durch die verspätete Zahlung des gesicherten Einlagenbetrags entstanden ist, wenn die Entscheidung nach Art. 1 Nr. 3 Ziff. i nach Ablauf der in der Richtlinie festgelegten Frist von fünf Tagen getroffen wurde und diese Verspätung der Wirkung einer Sanierungsmaßnahme geschuldet ist, die die Bank vor der Zahlungsunfähigkeit schützen sollte und von dieser Behörde angeordnet wurde, oder lassen sie unter Umständen wie denen des Ausgangsverfahrens eine nationale Regelung wie die des Art. 79 Abs. 8 des Gesetzes über die Kreditinstitute zu, wonach die BNB, ihre Organe und die von ihnen bevollmächtigten Personen für die in Wahrnehmung ihrer Aufsichtstätigkeit entstandenen Schäden nur dann haften, wenn diese vorsätzlich herbeigeführt wurden?
+
+8.
+
+Stellt ein Verstoß gegen das Unionsrecht, der darin besteht, dass „die jeweils zuständige Behörde“ keine Entscheidung nach Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 getroffen hat, einen „hinreichend qualifizierten Verstoß“ dar, der die Haftung eines Mitgliedstaats für Schäden im Wege einer Klage gegen die Aufsichtsbehörde auslösen kann, und unter welchen Voraussetzungen ist dies der Fall und sind in diesem Zusammenhang folgende Umstände von Bedeutung: a) dass der Fonds nicht über genügend Mittel verfügte, um alle gesicherten Einlagen abzudecken; b) dass in dem Zeitraum, in dem die Zahlungen eingestellt blieben, das Kreditinstitut zum Schutz vor Zahlungsunfähigkeit unter besondere Aufsicht gestellt wurde; c) dass die Einlage des Klägers ausgezahlt wurde, nachdem die BNB die Erfolglosigkeit der Sanierungsmaßnahmen festgestellt hatte; d) dass die Einlage des Klägers ausgezahlt wurde, zuzüglich des Ertrags aus den Zinsen, einschließlich der Zinsen für den Zeitraum vom 20. Juni 2014 bis zum 6. November 2014?
+
+Zu den Vorlagefragen
+
+Zur Zulässigkeit
+
+41
+
+Die BNB bestreitet die Zulässigkeit des Vorabentscheidungsersuchens zum einen mit der Begründung, die Vorlagefragen seien nicht entscheidungserheblich und stünden in keinem Zusammenhang mit dem Sachverhalt des Ausgangsverfahrens. Außerdem sei es Sache des nationalen Gerichts und nicht des Gerichtshofs, festzustellen, ob Herrn Kantarev tatsächlich ein Schaden entstanden sei, und für den Fall, dass ein Verstoß gegen die Richtlinie 94/19 festgestellt werden sollte, hafte dafür allein der bulgarische Gesetzgeber, der als Einziger für die Umsetzung dieser Richtlinie in das nationale Recht zuständig sei. Zum anderen vertritt die BNB die Ansicht, aus dem Urteil vom 12. Oktober 2004, Paul u. a. (C‑222/02, EU:C:2004:606), ergebe sich, dass der Einzelne keinen Ersatz des Schadens verlangen könne, der ihm durch eine unzureichende Aufsicht seitens der mit der Aufsicht über die Kreditinstitute betrauten nationalen Behörde entstanden sei, wenn die in der Richtlinie 94/19 vorgesehene Entschädigung der Einleger gewährleistet sei.
+
+42
+
+Insoweit ist erstens darauf hinzuweisen, dass das Verfahren gemäß Art. 267 AEUV ein Instrument der Zusammenarbeit zwischen dem Gerichtshof und den nationalen Gerichten ist. Daraus ergibt sich, dass nur die mit dem Rechtsstreit befassten nationalen Gerichte, in deren Verantwortungsbereich die zu erlassende Entscheidung fällt, im Hinblick auf die Besonderheiten des jeweiligen Einzelfalls sowohl die Erforderlichkeit einer Vorabentscheidung für den Erlass ihres Urteils als auch die Erheblichkeit der dem Gerichtshof vorgelegten Fragen zu beurteilen haben (Urteil vom 2. März 2017, Pérez Retamero, C‑97/16, EU:C:2017:158, Rn. 20 und die dort angeführte Rechtsprechung).
+
+43
+
+Folglich ist der Gerichtshof grundsätzlich zu einer Entscheidung verpflichtet, wenn die von den nationalen Gerichten vorgelegten Fragen die Auslegung einer Bestimmung des Unionsrechts betreffen (Urteil vom 2. März 2017, Pérez Retamero, C‑97/16, EU:C:2017:158, Rn. 21 und die dort angeführte Rechtsprechung).
+
+44
+
+Allerdings darf er die Entscheidung über die Vorlagefrage eines nationalen Gerichts dann verweigern, wenn die erbetene Auslegung des Unionsrechts offensichtlich in keinem Zusammenhang mit der Realität oder dem Gegenstand des Ausgangsrechtsstreits steht, wenn das Problem hypothetischer Natur ist oder wenn er nicht über die tatsächlichen und rechtlichen Angaben verfügt, die für eine zweckdienliche Beantwortung der ihm vorgelegten Fragen erforderlich sind (Urteil vom 2. März 2017, Pérez Retamero, C‑97/16, EU:C:2017:158, Rn. 22 und die dort angeführte Rechtsprechung).
+
+45
+
+Im vorliegenden Fall lässt sich jedoch keine dieser Fallgestaltungen feststellen. Denn das vorlegende Gericht hat ausgeführt, dass der Kläger des Ausgangsverfahrens seine Schadensersatzklage mit einer unrichtigen Anwendung der Richtlinie 94/19 begründet habe, und die Gründe angegeben, weshalb es die Beantwortung der zur Vorabentscheidung vorgelegten Fragen als für die Entscheidung des Ausgangsrechtsstreits erforderlich ansieht.
+
+46
+
+Was sodann das auf das Urteil vom 12. Oktober 2004, Paul u. a. (C‑222/02, EU:C:2004:606), gestützte Vorbringen betrifft, ist darauf hinzuweisen, dass es Art. 267 AEUV den nationalen Gerichten stets gestattet, dem Gerichtshof Auslegungsfragen erneut vorzulegen, wenn sie dies für angebracht halten (Urteil vom 26. Mai 2011, Stichting Natuur en Milieu u. a., C‑165/09 bis C‑167/09, EU:C:2011:348, Rn. 52). Die Entscheidungserheblichkeit und die Bedeutung dieses Urteils werden somit bei der Beantwortung der Vorlagefragen zu prüfen sein.
+
+47
+
+Das Vorabentscheidungsersuchen ist daher als zulässig anzusehen.
+
+Zur Beantwortung der Fragen
+
+Zur dritten und zur sechsten Frage
+
+48
+
+Mit seiner dritten und sechsten Frage, die zusammen und an erster Stelle zu prüfen sind, möchte das vorlegende Gericht wissen, ob Art. 1 Nr. 3 und Art. 10 Abs. 1 der Richtlinie 94/19 dahin auszulegen sind, dass sie zum einen nationalen Rechtsvorschriften entgegenstehen, wonach die Feststellung der Nichtverfügbarkeit der Einlagen davon abhängt, dass das Kreditinstitut zahlungsunfähig ist und seine Banklizenz widerrufen wurde, und es zum anderen mit ihnen unvereinbar ist, dass von den Fristen, die dort für die Feststellung der Nichtverfügbarkeit der Einlagen und deren Erstattung vorgesehen sind, mit der Begründung abgewichen wird, dass es erforderlich sei, das Kreditinstitut unter besondere Aufsicht zu stellen.
+
+49
+
+Insoweit ist darauf hinzuweisen, dass aus dem Wortlaut von Art. 1 Nr. 3 Ziff. i Abs. 1 der Richtlinie 94/19 ausdrücklich hervorgeht, dass hinreichende und notwendige Voraussetzung für die Feststellung der Nichtverfügbarkeit einer fälligen und rückzahlbaren Einlage ist, dass ein Kreditinstitut nach Auffassung der zuständigen Behörde aus Gründen, die mit seiner Finanzlage unmittelbar zusammenhängen, vorerst nicht in der Lage ist, die Einlage zurückzuzahlen, und gegenwärtig keine Aussicht auf eine spätere Rückzahlung besteht.
+
+50
+
+Zudem wird in Art. 1 Nr. 3 Ziff. i Abs. 2 der Richtlinie klargestellt, dass die zuständige Behörde diese Feststellung „so rasch wie möglich“ und „spätestens fünf Arbeitstage, nachdem … erstmals festgestellt [worden ist], dass [das betreffende] Kreditinstitut die fälligen und rückzahlbaren Einlagen nicht zurückgezahlt hat“, treffen muss.
+
+51
+
+Aus diesen Bestimmungen ergibt sich, dass die Feststellung, dass die Einlagen bei einem Kreditinstitut nicht verfügbar sind, nicht davon abhängen kann, dass das betreffende Kreditinstitut zahlungsunfähig ist oder seine Banklizenz widerrufen wurde.
+
+52
+
+Denn zum einen muss die Nichtverfügbarkeit der Einlagen innerhalb kürzester Fristen festgestellt werden, ohne abzuwarten, ob die für die Eröffnung eines Insolvenzverfahrens oder den Widerruf der Bankzulassung erforderlichen Voraussetzungen vorliegen.
+
+53
+
+Zum anderen handelt es sich bei der Zahlungsunfähigkeit des Kreditinstituts oder dem Widerruf der Banklizenz um andere Umstände als die, die in Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 genannt sind. So kann der Grund für den Widerruf der Banklizenz eines Kreditinstituts u. a. sein, dass dieses keinem Einlagensicherungsfonds angehört, ohne dass es erforderlich wäre, dass die Einlagen bei ihm nicht verfügbar sind.
+
+54
+
+Außerdem deuten die Zahlungsunfähigkeit und der Widerruf der Banklizenz darauf hin, dass die Schwierigkeiten des Kreditinstituts dauerhaft sind. Hingegen kann, da Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 die Feststellung der Nichtverfügbarkeit von der Tatsache abhängig macht, dass das Kreditinstitut „vorerst“ nicht in der Lage ist, die Einlagen zurückzuzahlen, und dass „gegenwärtig“ keine Aussicht auf eine spätere Rückzahlung besteht, diese Nichtverfügbarkeit vorübergehend sein.
+
+55
+
+Demzufolge muss die Feststellung der Nichtverfügbarkeit der Einlagen auch bei vorübergehenden Schwierigkeiten erfolgen, sofern es dem betreffenden Kreditinstitut unmöglich ist, die fälligen und rückzahlbaren Einlagen zurückzuzahlen, und gegenwärtig keine Aussicht auf eine spätere Rückzahlung besteht.
+
+56
+
+Diese Auslegung wird durch das mit der Richtlinie 94/19 verfolgte zweifache Ziel gestützt. Die Richtlinie soll nämlich – wie aus ihrem ersten und vierten Erwägungsgrund hervorgeht – sowohl die Einleger schützen als auch die Stabilität des Bankensystems gewährleisten, indem das massive Abheben von Einlagen nicht nur bei dem sich in Schwierigkeiten befindlichen Unternehmen, sondern auch bei an sich gesunden Unternehmen, wenn das Vertrauen der Einleger in die Stabilität des Bankensystems erschüttert wird, verhindert wird (Urteil vom 22. März 2018, Anisimovienė u. a., C‑688/15 und C‑109/16, EU:C:2018:209, Rn. 83).
+
+57
+
+In Anbetracht dieses zweifachen Ziels ist es zwingend, dass die Einlagensicherung – wie aus dem achten und neunten Erwägungsgrund der Richtlinie hervorgeht – innerhalb „kürzester Frist“ greift, nachdem die Nichtverfügbarkeit der Einlagen bei einem Kreditinstitut eingetreten ist.
+
+58
+
+Der Schutz der Einleger verlangt nämlich zum einen, dass ihre Einlagen so schnell wie möglich erstattet werden, nachdem ihre Nichtverfügbarkeit eingetreten ist, damit den Einlegern ihre Sparguthaben nicht vorenthalten werden und es ihnen infolgedessen nicht unmöglich wird, u. a. ihre täglichen Ausgaben zu decken. Zum anderen erfordert auch die Stabilität des Bankensystems eine schnelle Auszahlung der Einleger, um zu verhindern, dass die Schwierigkeiten eines Kreditinstituts, seien sie auch nur vorübergehend, zu einem massiven Abzug der Einlagen führen und sich diese Schwierigkeiten dadurch auf das übrige Bankensystem ausbreiten.
+
+59
+
+Zwar verfügt die zuständige Behörde angesichts des Wortlauts von Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 und insbesondere des Umstands, dass sie die Nichtverfügbarkeit der Einlagen feststellen muss, wenn die dafür erforderlichen Voraussetzungen „ihrer Auffassung nach“ vorliegen, über einen gewissen Wertungsspielraum. Dieser Wertungsspielraum betrifft aber das Vorliegen der in dieser Vorschrift genannten Voraussetzungen und nicht diese Voraussetzungen als solche oder den Zeitpunkt, zu dem die betreffende Feststellung getroffen werden soll.
+
+60
+
+Was die Möglichkeit betrifft, von der Frist für die Feststellung der Nichtverfügbarkeit der Anlagen abzuweichen, um das Kreditinstitut unter besondere Aufsicht zu stellen, ist darauf hinzuweisen, dass die in Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 vorgesehene Frist bereits nach dem Wortlaut dieser Vorschrift eine zwingende Frist ist, von der in keiner anderen Vorschrift dieser Richtlinie eine Abweichung vorgesehen ist.
+
+61
+
+Würde den zuständigen Behörden erlaubt, von der Frist, die in der Richtlinie 94/19 für die Feststellung der Nichtverfügbarkeit der Einlagen vorgesehen ist, abzuweichen, um das Kreditinstitut unter besondere Aufsicht zu stellen, liefe dies zudem dem Erfordernis der Schnelligkeit zuwider, das sich aus dieser Richtlinie ableitet. Denn sowohl aus dem in Rn. 56 des vorliegenden Urteils genannten zweifachen Ziel dieser Richtlinie als auch aus der Verkürzung dieser Frist durch die Richtlinie 2009/14 von 21 auf fünf Tage ergibt sich, dass die Feststellung innerhalb kürzester Frist erfolgen muss.
+
+62
+
+Ferner wird in der Begründung des Vorschlags für eine Richtlinie des Rates über Einlagensicherungssysteme vom 4. Juni 1992 (KOM[92] 188 endg., ABl. 1992, C 163, S. 6), der zum Erlass der Richtlinie 94/19 führte, gerade darauf hingewiesen, dass die Auszahlung des Deckungsbetrags auf die objektive Feststellung, dass ein Einleger über eine Einlage, die das Kreditinstitut hätte zurückzahlen müssen, nicht verfügen konnte, gestützt werden muss, um „die Auszahlung des Deckungsbetrages zu beschleunigen“ und diese Auszahlung „nicht an die Risiken der Sanierungs- und Liquidationsverfahren der Kreditinstitute zu knüpfen“.
+
+63
+
+Es heißt zwar im 12. Erwägungsgrund der Richtlinie 2009/14, dass „Einlagen … als nicht verfügbar angesehen werden [können], sobald eine frühzeitige Intervention oder Umstrukturierungsmaßnahmen [für das betreffende Kreditinstitut] sich als erfolglos erweisen“.
+
+64
+
+Der 12. Erwägungsgrund der Richtlinie 2009/14 bezieht sich aber zum einen nur auf die Möglichkeit, dass Einlagen als nicht verfügbar angesehen werden, wenn eine frühzeitige Intervention oder Umstrukturierungsmaßnahmen erfolglos sind, er macht jedoch die Feststellung der Nichtverfügbarkeit nicht von dem Umstand abhängig, dass derartige frühzeitige Maßnahmen erfolglos waren.
+
+65
+
+Zum anderen ist zu bemerken, dass der zweite Satz dieses Erwägungsgrundes klarstellt, dass diese Möglichkeit „die zuständigen Behörden nicht daran hindern [sollte], während des Auszahlungszeitraums weitere Umstrukturierungsbemühungen zu unternehmen“, was folglich bedeutet, dass solche Maßnahmen weder die Feststellung der Nichtverfügbarkeit der Einlagen noch deren Auszahlung beeinträchtigen.
+
+66
+
+In Bezug auf die in Art. 10 Abs. 1 der Richtlinie 94/19 vorgesehene Frist für die Auszahlung der Einlagen geht aus dem Wortlaut dieser Vorschrift selbst hervor, dass eine Verlängerung dieser Frist nur bei Vorliegen von „in jeder Hinsicht außergewöhnlichen Umständen“ möglich ist und diese Verlängerung „zehn Arbeitstage nicht überschreiten [darf]“.
+
+67
+
+Dass ein säumiges Kreditinstitut unter besondere Aufsicht gestellt wird, um zu verhindern, dass es zahlungsunfähig wird, stellt aber keinen in jeder Hinsicht außergewöhnlichen Umstand dar, sondern vielmehr einen Umstand, der mit der Situation eines solchen Kreditinstituts und den möglichen Maßnahmen zur Behebung dieser Situation untrennbar verknüpft ist.
+
+68
+
+Jedenfalls zeigt die Tatsache, dass die Verlängerung der Frist für die Auszahlung der Einlagen auf zehn Arbeitstage begrenzt ist, dass diese Verlängerung keine Maßnahmen betrifft, die erlassen werden könnten, um die Zahlungsunfähigkeit des Kreditinstituts zu verhindern, da solche Maßnahmen mehr als zehn Tage benötigen, um ihre volle Wirksamkeit zu entfalten.
+
+69
+
+Nach alledem ist auf die dritte und sechste Frage zu antworten, dass Art. 1 Nr. 3 und Art. 10 Abs. 1 der Richtlinie 94/19 dahin auszulegen sind, dass sie zum einen nationalen Rechtsvorschriften entgegenstehen, wonach die Feststellung der Nichtverfügbarkeit der Einlagen davon abhängt, dass das Kreditinstitut zahlungsunfähig ist und seine Banklizenz widerrufen wurde, und es zum anderen mit ihnen unvereinbar ist, dass von den Fristen, die dort für die Feststellung der Nichtverfügbarkeit der Einlagen und deren Erstattung vorgesehen sind, mit der Begründung abgewichen wird, es sei erforderlich, das Kreditinstitut unter besondere Aufsicht zu stellen.
+
+Zur vierten Frage
+
+70
+
+Mit seiner vierten Frage möchte das vorlegende Gericht wissen, ob Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 dahin auszulegen ist, dass die Nichtverfügbarkeit der Einlagen bei einem Kreditinstitut durch eine ausdrückliche Handlung der zuständigen Behörden festgestellt werden muss oder ob sie aus anderen Handlungen dieser Behörden – wie der Entscheidung der BNB, die KTB unter besondere Aufsicht zu stellen – abgeleitet werden kann oder aber ob sie aufgrund von Umständen wie denen des Ausgangsverfahrens vermutet werden kann.
+
+71
+
+Insoweit ist hervorzuheben, dass sich Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 darauf beschränkt, die Umstände zu benennen, unter denen die zuständigen Behörden die Feststellung, dass die Einlagen bei einem Kreditinstitut nicht verfügbar sind, treffen müssen, ohne anzugeben, in welcher Form diese Feststellung erfolgen muss.
+
+72
+
+Dennoch bedingt die Feststellung, dass die Einlagen bei einem Kreditinstitut nicht verfügbar sind, im System der Richtlinie 94/19 zum einen die Erstattung dieser Einlagen durch die Sicherungssysteme und markiert zum anderen nach Art. 10 Abs. 1 dieser Richtlinie den Beginn der Frist, in der die Erstattung erfolgen muss.
+
+73
+
+In Anbetracht dessen muss daher die Nichtverfügbarkeit der Anlagen bei einem Kreditinstitut im Sinne von Art. 1 Nr. 3 Ziff. i der Richtlinie notwendigerweise durch eine ausdrückliche Entscheidung der zuständigen Behörden festgestellt werden, die die Erklärung der Nichtverfügbarkeit zum Gegenstand hat, da jede andere Auslegung eine Situation der Unsicherheit schaffen würde, der diese Richtlinie gerade entgegenwirken soll.
+
+74
+
+Aus dem 21. Erwägungsgrund der Richtlinie 94/19 geht nämlich hervor, dass die Information ein wesentlicher Bestandteil des Einlegerschutzes ist. Außerdem sollen mit dieser Richtlinie, wie in Rn. 56 des vorliegenden Urteils ausgeführt, zwei eng miteinander verknüpfte Ziele verwirklicht werden, nämlich die Stabilität des Bankensystems und der Einlegerschutz. Diese Ziele setzen indes voraus, dass die Einleger mit Sicherheit feststellen können, dass ihre Einlagen nicht verfügbar sind und ab welchem Zeitpunkt ein Verfahren zur Auszahlung dieser Einlagen eingeleitet wird, damit Panikreaktionen vermieden werden, die die Stabilität des Bankensystems gefährden könnten.
+
+75
+
+Da die Feststellung der Nichtverfügbarkeit die Erstattung der Einlagen sowie den Beginn der Frist bedingt, in der die Erstattung erfolgen muss, benötigen die Einleger und die Einlagensicherungsfonds ferner eine ausdrückliche, klare und genaue Entscheidung, die es ihnen ermöglicht, schnell und mit Sicherheit zu wissen, dass die Einlagen infolge der Beurteilung gemäß Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 für nicht verfügbar erklärt wurden. Eine solche Entscheidung gewährleistet, dass der Einlagensicherungsfonds in der Lage ist, ein Auszahlungsverfahren einzuleiten und festzustellen, dass der Lauf der Frist nach Art. 10 Abs. 1 der Richtlinie 94/19 begonnen hat, und darüber hinaus, dass die Einleger die Rechte geltend machen können, die ihnen diese Richtlinie verleiht.
+
+76
+
+Folglich muss eine ausdrückliche Entscheidung erlassen werden, um die Nichtverfügbarkeit der Einlagen festzustellen, und diese Entscheidung muss dem Einlagensicherungsfonds mit ihrem Erlass bekannt gegeben werden.
+
+77
+
+Außerdem kann die Nichtverfügbarkeit der Einlagen nicht aus anderen Handlungen der zuständigen nationalen Behörde – wie der, mit der eine Bank unter besondere Aufsicht gestellt wird – abgeleitet werden oder aufgrund von Umständen wie denen des Ausgangsverfahrens, die nicht auf eine Bewertung der Nichtverfügbarkeit der Einlagen im Sinne von Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 folgen, vermutet werden.
+
+78
+
+Somit ist auf die vierte Frage zu antworten, dass Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 dahin auszulegen ist, dass die Nichtverfügbarkeit der Einlagen im Sinne dieser Vorschrift durch eine ausdrückliche Handlung der zuständigen nationalen Behörde festgestellt werden muss und weder aus anderen Handlungen der nationalen Behörden – wie der Entscheidung der BNB, die KTB unter besondere Aufsicht zu stellen – abgeleitet noch aufgrund von Umständen wie denen des Ausgangsverfahrens vermutet werden kann.
+
+Zur fünften Frage
+
+79
+
+Mit seiner fünften Frage möchte das vorlegende Gericht wissen, ob Art. 1 Nr. 3 der Richtlinie 94/19 dahin auszulegen ist, dass die Feststellung der Nichtverfügbarkeit einer Bankeinlage im Sinne dieser Vorschrift von der Voraussetzung abhängt, dass der Inhaber dieser Einlage bei dem betreffenden Kreditinstitut zuvor einen erfolglos gebliebenen Antrag auf Auszahlung gestellt hat.
+
+80
+
+Insoweit ergibt sich aus Art. 1 Nr. 1 und Nr. 3 Ziff. i der Richtlinie 94/19, dass die Einlagen zwar nach den für sie geltenden gesetzlichen und vertraglichen Bedingungen zurückzuzahlen sind, die Beurteilung ihrer Nichtverfügbarkeit aber ausschließlich anhand der in Art. 1 Nr. 3 Ziff. i dieser Richtlinie genannten Bedingungen stattfindet.
+
+81
+
+Diese Vorschrift sieht jedoch nicht vor, dass die Feststellung der Nichtverfügbarkeit der Einlagen von einem vorherigen, erfolglos gebliebenen Antrag auf Auszahlung abhängt.
+
+82
+
+Diese Feststellung knüpft nämlich – wie die Europäische Kommission zutreffend ausführt – an die objektive Finanzlage des Kreditinstituts an und betrifft allgemein die Gesamtheit der Einlagen bei diesem Kreditinstitut und nicht jede einzelne der dort gehaltenen Einlagen. Somit genügt es zu konstatieren, dass das betreffende Kreditinstitut einige Einlagen nicht zurückgezahlt hat und dass die in Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 genannten Bedingungen erfüllt sind, damit die Feststellung getroffen wird, dass alle Einlagen bei diesem Kreditinstitut nicht verfügbar sind.
+
+83
+
+Im Übrigen ließe sich das zweifache Ziel der Richtlinie 94/19, wie es sich aus Rn. 56 des vorliegenden Urteils ergibt, nicht erreichen, wenn für die Einstufung einer Einlage als „nichtverfügbar“ verlangt würde, dass ihr Inhaber bei dem betreffenden Kreditinstitut einen erfolglos gebliebenen Antrag auf Auszahlung gestellt hat.
+
+84
+
+Ein solches Erfordernis wäre nämlich zum einen geeignet, das Vertrauen der Einleger in das Einlagensicherungssystem zu untergraben und eine sehr große Zahl von Auszahlungsanträgen auszulösen.
+
+85
+
+Zum anderen würde ein solches Erfordernis dazu führen, dass das Verfahren zur Feststellung der Nichtverfügbarkeit von Einlagen verkompliziert und das Schnelligkeitsziel der Richtlinie 94/19 beeinträchtigt würde.
+
+86
+
+Unter Umständen wie denen des Ausgangsverfahrens ist eine solche Bedingung, wenn sämtliche Geschäfte und Zahlungen des Kreditinstituts ausgesetzt worden sind, schließlich umso weniger gerechtfertigt, als sie nicht erforderlich ist und praktisch schwer oder gar nicht erfüllt werden kann, da der Inhaber der Einlage nicht unbedingt in der Lage ist, den Beweis zu erbringen, dass er einen vorherigen Antrag auf Rückzahlung gestellt hat und dieser erfolglos geblieben ist.
+
+87
+
+Folglich ist auf die fünfte Frage zu antworten, dass Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 dahin auszulegen ist, dass die Feststellung der Nichtverfügbarkeit einer Bankeinlage im Sinne dieser Vorschrift nicht von der Voraussetzung abhängig gemacht werden kann, dass der Inhaber dieser Einlage bei dem betreffenden Kreditinstitut zuvor einen erfolglos gebliebenen Antrag auf Auszahlung gestellt hat.
+
+Zur siebten und zur achten Frage
+
+88
+
+Mit seiner siebten und achten Frage, die zusammen zu prüfen sind, möchte das vorlegende Gericht wissen, ob Art. 1 Nr. 3 Ziff. i und Art. 10 Abs. 1 der Richtlinie 94/19 dahin auszulegen sind, dass sie unmittelbare Wirkung haben und den Einlegern das Recht verleihen, unter Berufung auf die Staatshaftung für Unionsrechtsverstöße gegen die Behörde, die, wie die BNB, die Nichtverfügbarkeit der Einlagen bei einer Bank festzustellen hat, eine Klage auf Ersatz des durch die verspätete Rückzahlung der Einlagen mutmaßlich verursachten Schadens zu erheben. Bejahendenfalls ersucht das vorlegende Gericht um ergänzende Hinweise zum Begriff des „hinreichend qualifizierten“ Verstoßes im Sinne des Unionsrechts und wirft die Frage auf, ob bestimmte tatsächliche Umstände des Falles für diese Prüfung erheblich sind.
+
+89
+
+Zunächst ist – entgegen der von der BNB vertretenen Auffassung und entsprechend den Ausführungen der Generalanwältin in den Nrn. 78 bis 82 ihrer Schlussanträge – klarzustellen, dass sich die Umstände des Ausgangsrechtsstreits von denen des Rechtsstreits unterscheiden, der zu dem Urteil vom 12. Oktober 2004, Paul u. a. (C‑222/02, EU:C:2004:606), geführt hat, so dass sich in diesem Urteil keine Antworten auf die Fragen des vorlegenden Gerichts finden.
+
+90
+
+Aus dem Urteil vom 12. Oktober 2004, Paul u. a. (C‑222/02, EU:C:2004:606), geht hervor, dass, wenn im nationalen Recht ein Einlagensicherungssystem geschaffen wurde, die Richtlinie 94/19 einer nationalen Vorschrift nicht entgegensteht, die ausschließt, dass der Einzelne Ersatz des durch eine unzureichende oder mangelnde Aufsicht über die Kreditinstitute verursachten Schadens verlangen oder den Staat auf der Grundlage des Unionsrechts haftbar machen kann, und dies damit begründet, dass diese Überwachungsaufgaben nur im öffentlichen Interesse wahrgenommen werden.
+
+91
+
+Im vorliegenden Fall möchte das vorlegende Gericht hingegen wissen, ob ein Mitgliedstaat für eine nicht ordnungsgemäße Umsetzung der Richtlinie 94/19 und eine nicht ordnungsgemäße Ausgestaltung des von dieser Richtlinie vorgesehenen Einlagensicherungssystems haftbar gemacht werden kann.
+
+92
+
+Insoweit ist daran zu erinnern, dass nach ständiger Rechtsprechung der Grundsatz der Haftung des Staates für Schäden, die dem Einzelnen durch dem Staat zuzurechnende Verstöße gegen das Unionsrecht entstehen, dem System der Verträge innewohnt, auf denen die Union beruht (Urteil vom 26. Januar 2010, Transportes Urbanos y Servicios Generales, C‑118/08, EU:C:2010:39, Rn. 29 und die dort angeführte Rechtsprechung).
+
+93
+
+Jeder Mitgliedstaat muss somit sicherstellen, dass dem Einzelnen der Schaden ersetzt wird, der ihm durch die Nichtbeachtung des Unionsrechts entstanden ist, gleichgültig, welche staatliche Stelle diesen Verstoß begangen hat und welche Stelle nach dem Recht des betreffenden Mitgliedstaats diesen Schadensersatz grundsätzlich zu leisten hat (Urteil vom 25. November 2010, Fuß, C‑429/09, EU:C:2010:717, Rn. 46 und die dort angeführte Rechtsprechung).
+
+94
+
+Der Gerichtshof hat zudem, was die Voraussetzungen für den Eintritt der Haftung eines Mitgliedstaats für Schäden betrifft, die dem Einzelnen durch dem Staat zuzurechnende Verstöße gegen das Unionsrecht entstanden sind, wiederholt entschieden, dass die Geschädigten einen Ersatzanspruch haben, wenn drei Voraussetzungen erfüllt sind: Die unionsrechtliche Norm, gegen die verstoßen worden ist, bezweckt, ihnen Rechte zu verleihen, der Verstoß gegen diese Norm ist hinreichend qualifiziert, und zwischen diesem Verstoß und dem den Geschädigten entstandenen Schaden besteht ein unmittelbarer Kausalzusammenhang (Urteil vom 28. Juli 2016, Tomášová, C‑168/15, EU:C:2016:602, Rn. 22 und die dort angeführte Rechtsprechung).
+
+95
+
+Es ist ebenfalls ständige Rechtsprechung, dass es grundsätzlich den nationalen Gerichten obliegt, die Voraussetzungen für die Haftung der Mitgliedstaaten für Schäden, die Einzelnen durch Verstöße gegen das Unionsrecht entstanden sind, entsprechend den vom Gerichtshof hierfür entwickelten Leitlinien konkret anzuwenden (Urteile vom 25. November 2010, Fuß, C‑429/09, EU:C:2010:717, Rn. 48, sowie vom 19. Juni 2014, Specht u. a., C‑501/12 bis C‑506/12, C‑540/12 und C‑541/12, EU:C:2014:2005, Rn. 100).
+
+96
+
+Was die Frage betrifft, ob Art. 1 Nr. 3 Ziff. i und Art. 10 Abs. 1 der Richtlinie 94/19 unmittelbare Wirkung haben und das Recht verleihen, eine Klage auf Ersatz des Schadens zu erheben, der durch die verspätete Rückzahlung der Einlagen verursacht wurde, ist zunächst darauf hinzuweisen, dass der Kläger vor dem vorlegenden Gericht einen Schaden geltend macht, der durch einen von der BNB begangenen Verstoß gegen Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 verursacht worden sein soll, und daher für den Gerichtshof kein Anlass besteht, sich zu Art. 10 Abs. 1 dieser Richtlinie zu äußern.
+
+97
+
+Was die unmittelbare Wirkung von Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 betrifft, so macht die Rechtsprechung diese zwar nicht zur Voraussetzung für den Eintritt der Haftung eines Mitgliedstaats wegen Verletzung des Unionsrechts (vgl. entsprechend Urteil vom 5. März 1996, Brasserie du pêcheur und Factortame, C‑46/93 und C‑48/93, EU:C:1996:79, Rn. 21 und 22); das vorlegende Gericht weist jedoch darauf hin, dass die BNB, falls diese Bestimmung unmittelbare Wirkung habe, gegen Unionsrecht verstoßen habe, weil sie es unterlassen habe, anstelle der nationalen Vorschriften zur Umsetzung der Richtlinie 94/19 diese Bestimmung anzuwenden.
+
+98
+
+Insoweit ist darauf hinzuweisen, dass sich der Einzelne in allen Fällen, in denen die Bestimmungen einer Richtlinie inhaltlich unbedingt und hinreichend genau sind, vor nationalen Gerichten gegenüber dem Mitgliedstaat auf diese Bestimmungen berufen kann, wenn dieser die Richtlinie nicht fristgemäß oder nur unzulänglich in das nationale Recht umgesetzt hat (Urteil vom 25. Juni 2015, Indėlių ir investicijų draudimas und Nemaniūnas, C‑671/13, EU:C:2015:418, Rn. 57).
+
+99
+
+Zwar lässt Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 dem Mitgliedstaat einen Wertungsspielraum hinsichtlich der Bestimmung der für die Feststellung der Nichtverfügbarkeit der Einlagen zuständigen Behörde und dieser Behörde wiederum einen Wertungsspielraum bei der Prüfung der finanziellen Situation des betreffenden Kreditinstituts.
+
+100
+
+Doch mit der Vorgabe, dass die zuständige Behörde die Feststellung der Nichtverfügbarkeit der Einlagen so rasch wie möglich, jedenfalls aber spätestens fünf Arbeitstage, nachdem sie erstmals festgestellt hat, dass ein Kreditinstitut die fälligen und rückzahlbaren Einlagen nicht zurückgezahlt hat, treffen muss, stellt diese Bestimmung eine unbedingte und hinreichend genaue Verpflichtung auf, deren Einhaltung die BNB als die Behörde, die mit der Feststellung der Nichtverfügbarkeit der Einlagen betraut ist, im Rahmen ihrer Zuständigkeiten zu gewährleisten hatte.
+
+101
+
+Von dieser Auslegung bleibt der Umstand unberührt, dass die Behörde, die den Unionsrechtsverstoß begangen hat, von den nationalen Gerichten gemäß dem Recht des betreffenden Mitgliedstaats zu ermitteln ist.
+
+102
+
+Zu der Frage, ob es sich bei Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 um eine Unionsrechtsvorschrift handelt, die dem Einzelnen Rechte verleihen soll, ist zu bemerken, dass diese Richtlinie u. a. die Einleger schützen soll.
+
+103
+
+Außerdem wirkt sich die Feststellung der Nichtverfügbarkeit der Einlagen unmittelbar auf die Rechtsstellung eines Einlegers aus, da diese Feststellung den Einlagensicherungsmechanismus und damit die Auszahlung der Einleger auslöst.
+
+104
+
+Unter diesen Umständen stellt Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 offensichtlich eine Unionsrechtsvorschrift dar, die dem Einzelnen Rechte verleihen soll.
+
+105
+
+Was die Voraussetzung betrifft, dass ein hinreichend qualifizierter Verstoß gegen das Unionsrecht vorliegen muss, ist darauf hinzuweisen, dass ein solcher Verstoß nach der Rechtsprechung des Gerichtshofs dann vorliegt, wenn der Mitgliedstaat die Grenzen, die seinem Wertungsspielraum gesetzt sind, offenkundig und erheblich überschritten hat. Zu den insoweit zu berücksichtigenden Gesichtspunkten gehören u. a. das Maß an Klarheit und Genauigkeit der verletzten Bestimmung, der Umfang des Wertungsspielraums, den die verletzte Bestimmung den nationalen Behörden belässt, die Entschuldbarkeit oder Unentschuldbarkeit eines etwaigen Rechtsirrtums, die Frage, ob der Verstoß vorsätzlich oder nicht vorsätzlich begangen bzw. der Schaden vorsätzlich oder nicht vorsätzlich zugefügt wurde, und der Umstand, dass das Verhalten eines Unionsorgans möglicherweise dazu beigetragen hat, dass nationale Maßnahmen oder Praktiken in unionsrechtswidriger Weise unterlassen, eingeführt oder aufrechterhalten wurden (Urteil vom 5. März 1996, Brasserie du pêcheur und Factortame, C‑46/93 und C‑48/93, EU:C:1996:79, Rn. 56).
+
+106
+
+Im vorliegenden Fall ist hervorzuheben, dass die BNB zwar nach Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 bei der Feststellung, ob Einlagen bei einem Kreditinstitut nicht verfügbar sind, über einen gewissen Wertungsspielraum verfügt, dieser Wertungsspielraum aber eingegrenzt ist.
+
+107
+
+Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 nennt nämlich klar die Voraussetzungen für die Feststellung der Nichtverfügbarkeit der Einlagen sowie die Frist, in der diese Feststellung erfolgen muss.
+
+108
+
+Wenn folglich die in Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 genannten Voraussetzungen erfüllt sind, muss die zuständige nationale Behörde die Nichtverfügbarkeit der Einlagen innerhalb der zwingenden Frist von fünf Arbeitstagen feststellen.
+
+109
+
+Eine Analyse der Umstände des Ausgangsverfahrens ergibt, dass die BNB die KTB, nachdem sie von der KTB über deren finanzielle Schwierigkeiten und Liquiditätsprobleme informiert worden war, wegen drohender Zahlungsunfähigkeit unter besondere Aufsicht gestellt und beschlossen hatte, sämtliche Zahlungen und Geschäfte der KTB auszusetzen. Die Aufsichtsmaßnahmen gegenüber der KTB belegen somit die Zweifel, die die BNB angesichts der Finanzlage der KTB hinsichtlich der Frage hegte, ob diese in der Lage sein werde, die Einlagen kurzfristig zurückzuzahlen. Außerdem war die KTB durch die von der BNB beschlossene Aussetzung ihrer Zahlungen und Geschäfte an der Rückzahlung der Einlagen gehindert.
+
+110
+
+Neben diesen Gesichtspunkten wird das vorlegende Gericht bei der Prüfung, ob sich die BNB rechtswidrig verhalten hat, auch prüfen müssen, ob der fragliche Schaden vorsätzlich oder nicht vorsätzlich zugefügt wurde.
+
+111
+
+Die anderen vom vorlegenden Gericht erwähnten Umstände schließlich sind für die Beantwortung der Frage, ob die BNB dadurch, dass sie die Nichtverfügbarkeit der Einlagen nicht innerhalb der in Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 vorgesehenen Frist von fünf Arbeitstagen festgestellt hat, einen hinreichend qualifizierten Verstoß im Sinne des Unionsrechts begangen hat, nicht maßgeblich.
+
+112
+
+Erstens ist nämlich der Umstand, dass der Fonds nicht über genügend Mittel verfügte, um alle gesicherten Einlagen abzudecken, nicht maßgeblich, da dieser Umstand nicht zu den Umständen zählt, die die zuständige nationale Behörde bei der Entscheidung, ob die Nichtverfügbarkeit der Einlagen festzustellen ist, berücksichtigen muss.
+
+113
+
+Ebenso wenig maßgeblich sind zweitens der Umstand, dass das Kreditinstitut in dem Zeitraum, in dem die Zahlungen ausgesetzt waren, unter besonderer Aufsicht stand, um es vor Zahlungsunfähigkeit zu schützen, und die Tatsache, dass die Einlage des Klägers des Ausgangsverfahrens zurückgezahlt wurde, nachdem die BNB das Scheitern der Sanierungsmaßnahmen festgestellt hatte. Zum einen macht die Richtlinie 94/19, wie der Gerichtshof in Beantwortung der dritten Vorlagefrage klargestellt hat, die Feststellung der Nichtverfügbarkeit der Einlagen nicht von der Zahlungsunfähigkeit des Kreditinstituts abhängig. Zum anderen soll die Richtlinie 94/19 die Einleger schützen, indem sie verlangt, dass deren Einlagen gesichert und innerhalb kürzester Fristen zurückgezahlt werden.
+
+114
+
+Drittens betrifft der Umstand, dass die Einlage des Klägers des Ausgangsverfahrens – zuzüglich Zinsen, die auch den Zeitraum vom 20. Juni 2014 bis 6. November 2014 abdeckten – zurückgezahlt wurde, den von Herrn Kantarev geltend gemachten Schaden und nicht das Vorliegen eines hinreichend qualifizierten Verstoßes gegen Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19.
+
+115
+
+In Anbetracht der vorstehenden Gesichtspunkte und vorbehaltlich der vom vorlegenden Gericht vorzunehmenden Überprüfungen kann es unter den Umständen des Ausgangsverfahrens einen hinreichend qualifizierten Verstoß im Sinne des Unionsrechts darstellen, wenn innerhalb der Frist von fünf Arbeitstagen keine Feststellung der Nichtverfügbarkeit der Einlagen nach Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 erfolgt, obwohl die in dieser Bestimmung klar festgelegten Voraussetzungen vorlagen, da die anderen, vom vorlegenden Gericht genannten Umstände insoweit unerheblich sind.
+
+116
+
+Was die dritte Voraussetzung für eine Haftung des Staates wegen eines Verstoßes gegen das Unionsrecht betrifft, obliegt dem vorlegenden Gericht die Prüfung, ob – wie sich aus den dem Gerichtshof vorliegenden Akten zu ergeben scheint – ein unmittelbarer Kausalzusammenhang zwischen dem Verstoß gegen Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 und dem Herrn Kantarev entstandenen Schaden besteht.
+
+117
+
+In Anbetracht aller vorstehenden Erwägungen ist auf die siebte und die achte Frage zu antworten, dass Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 unmittelbare Wirkung hat und eine Rechtsvorschrift darstellt, die den Einzelnen Rechte verleihen soll, die es den Einlegern ermöglichen, eine Klage auf Ersatz des durch die verspätete Rückzahlung verursachten Schadens zu erheben. Es ist Sache des vorlegenden Gerichts, zum einen zu prüfen, ob es unter den Umständen des Ausgangsverfahrens einen hinreichend qualifizierten Verstoß im Sinne des Unionsrechts darstellt, dass innerhalb der Frist von fünf Arbeitstagen keine Feststellung der Nichtverfügbarkeit der Einlagen nach dieser Vorschrift erfolgt ist, obwohl die dort eindeutig festgelegten Voraussetzungen vorlagen, und zum anderen, ob zwischen diesem Verstoß und dem Schaden, der einem Einleger wie Herrn Kantarev entstanden ist, ein unmittelbarer Kausalzusammenhang besteht.
+
+Zur ersten und zur zweiten Frage
+
+118
+
+Mit seiner ersten und zweiten Frage, die zusammen zu prüfen sind, möchte das vorlegende Gericht wissen, ob Art. 4 Abs. 3 EUV sowie die Grundsätze der Äquivalenz und der Effektivität dahin auszulegen sind, dass sie in Anbetracht dessen, dass es in Bulgarien kein spezielles Verfahren gibt, um diesen Mitgliedstaat für Schäden infolge einer Verletzung des Unionsrechts durch eine nationale Behörde haftbar zu machen, einer nationalen Regelung wie der im Ausgangsverfahren streitigen entgegenstehen, die zum einen zwei unterschiedliche Rechtsbehelfe vorsieht, die in die Zuständigkeit unterschiedlicher Gerichtsbarkeiten fallen und für die unterschiedliche Voraussetzungen gelten, und zum anderen den Anspruch des Einzelnen auf Entschädigung davon abhängig macht, dass der Schaden von der betreffenden Behörde vorsätzlich verursacht wurde, der Einzelne ein Verschulden beweist, eine einfache oder eine vom Streitwert abhängige Gebühr entrichtet wird oder der Verwaltungsakt, der dem Schaden zugrunde liegt, zuvor aufgehoben wurde.
+
+119
+
+Das vorlegende Gericht weist insoweit darauf hin, dass die Rechtsprechung zu der Frage, welche rechtliche Regelung auf Klagen gegen die BNB wegen Verletzung des Unionsrechts anwendbar sei, uneinheitlich sei; einige Gerichte seien der Auffassung gewesen, dass solche Klagen unter das Staatshaftungsgesetz fielen, während andere Gerichte angenommen hätten, dass für sie die allgemeinen Haftungsregeln gälten, die das Gesetz über Schuldverhältnisse und Verträge aufstelle. Außerdem beschränke das Gesetz über die Bulgarische Zentralbank die Haftung der BNB im Rahmen der Ausübung ihrer Überwachungsaufgaben auf durch vorsätzliche Handlungen verursachte Schäden.
+
+120
+
+Zunächst ist darauf hinzuweisen, dass die drei in Rn. 94 des vorliegenden Urteils genannten Voraussetzungen nach der Rechtsprechung des Gerichtshofs ausreichend sind, um einen Entschädigungsanspruch des Einzelnen zu begründen (Urteil vom 25. November 2010, Fuß, C‑429/09, EU:C:2010:717, Rn. 65 und die dort angeführte Rechtsprechung).
+
+121
+
+Folglich schließt das Unionsrecht zwar in keiner Weise aus, dass ein Staat nach nationalem Recht unter weniger strengen Voraussetzungen für einen Verstoß gegen das Unionsrecht haftet, es erlaubt dagegen nicht, dass im nationalen Recht zusätzliche Voraussetzungen für diese Haftung aufgestellt werden (Urteil vom 25. November 2010, Fuß, C‑429/09, EU:C:2010:717, Rn. 66 und die dort angeführte Rechtsprechung).
+
+122
+
+Außerdem ist darauf hinzuweisen, dass es mangels einer einschlägigen unionsrechtlichen Regelung Sache der nationalen Rechtsordnung der einzelnen Mitgliedstaaten ist, die zuständigen Gerichte zu bestimmen und das Verfahren für die Klagen auszugestalten, die den vollen Schutz der dem Einzelnen aus dem Unionsrecht erwachsenden Rechte gewährleisten sollen (Urteil vom 30. September 2003, Köbler, C‑224/01, EU:C:2003:513, Rn. 46 und die dort angeführte Rechtsprechung).
+
+123
+
+Der Gerichtshof hat allerdings auch festgestellt, dass, abgesehen von dem Entschädigungsanspruch, der unmittelbar im Unionsrecht begründet ist, sobald die hierfür erforderlichen Voraussetzungen erfüllt sind, der Staat die Folgen des verursachten Schadens im Rahmen des nationalen Haftungsrechts zu beheben hat; dabei dürfen die im nationalen Schadensersatzrecht festgelegten Voraussetzungen nicht ungünstiger sein als bei ähnlichen Klagen, die nur nationales Recht betreffen (Äquivalenzgrundsatz), und nicht so ausgestaltet sein, dass sie es praktisch unmöglich machen oder übermäßig erschweren, die Entschädigung zu erlangen (Effektivitätsgrundsatz) (Urteil vom 26. Januar 2010, Transportes Urbanos y Servicios Generales, C‑118/08, EU:C:2010:39, Rn. 31 und die dort angeführte Rechtsprechung).
+
+124
+
+Der Äquivalenzgrundsatz verlangt, dass bei der Anwendung sämtlicher für Rechtsbehelfe geltenden Vorschriften nicht danach unterschieden wird, ob ein Verstoß gegen Unionsrecht oder gegen innerstaatliches Recht gerügt wird (Urteil vom 15. März 2017, Aquino, C‑3/16, EU:C:2017:209, Rn. 50 und die dort angeführte Rechtsprechung).
+
+125
+
+Nach dem Effektivitätsgrundsatz dürfen nationale Verfahrensvorschriften die Ausübung der durch das Unionsrecht verliehenen Rechte nicht praktisch unmöglich machen oder übermäßig erschweren (Urteil vom 15. März 2017, Aquino, C‑3/16, EU:C:2017:209, Rn. 52 und die dort angeführte Rechtsprechung).
+
+126
+
+Was im vorliegenden Fall die Voraussetzungen betrifft, die vorliegen müssen, damit eine Klage wie die des Klägers des Ausgangsverfahrens für begründet erklärt wird, macht das Gesetz über die Bulgarische Zentralbank den Entschädigungsanspruch, indem es diesen an die Vorsätzlichkeit der Verursachung des Schadens durch die BNB knüpft von einer Bedingung abhängig, die über den hinreichend qualifizierten Verstoß gegen das Unionsrecht hinausgeht.
+
+127
+
+Was die im Gesetz über Schuldverhältnisse und Verträge vorgesehene Voraussetzung betrifft, der zufolge der Kläger des Ausgangsverfahrens beweisen muss, dass ein Verschulden vorliegt, hat der Gerichtshof bereits entschieden, dass angesichts der in Rn. 105 des vorliegenden Urteils genannten Rechtsprechung bestimmte objektive und subjektive Elemente, die im Rahmen einer nationalen Rechtsordnung an den Begriff „Verschulden“ geknüpft sein können, zwar für die Beurteilung der Frage von Bedeutung sein können, ob ein Verstoß gegen das Unionsrecht hinreichend qualifiziert ist; die Verpflichtung zum Ersatz der dem Einzelnen entstandenen Schäden kann jedoch nicht von einer an den Verschuldensbegriff geknüpften Voraussetzung abhängig gemacht werden, die über den hinreichend qualifizierten Verstoß gegen das Unionsrecht hinausgeht (Urteil vom 25. November 2010, Fuß, C‑429/09, EU:C:2010:717, Rn. 67 und die dort angeführte Rechtsprechung).
+
+128
+
+Folglich verwehrt zum einen das Unionsrecht, dass der Entschädigungsanspruch im Rahmen einer Klage wie der des Ausgangsverfahrens von der Vorsätzlichkeit der Verursachung des Schadens durch die betreffende nationale Behörde abhängig gemacht wird. Die Haftung der BNB kann in einem Rechtsstreit wie dem des Ausgangsverfahrens daher nicht anhand der im Gesetz über die Bulgarische Zentralbank genannten Voraussetzungen beurteilt werden. Zum anderen ist es Sache des vorlegenden Gerichts, festzustellen, ob der Begriff „Verschulden“ im Sinne des Gesetzes über Schuldverhältnisse und Verträge über den hinreichend qualifizierten Verstoß gegen das Unionsrecht hinausgeht.
+
+129
+
+Hinsichtlich der nationalen Verfahrensregeln ist darauf hinzuweisen, dass die Frage, ob die Zuständigkeit des nationalen Gerichts und das Verfahren für die Entscheidung des Rechtsstreits von der Art der Behörde, der der Verstoß zuzurechnen ist, sowie den Merkmalen der mutmaßlichen Handlung oder Unterlassung abhängen sollen, in die Verfahrensautonomie der Mitgliedstaaten fallen (vgl. in diesem Sinne Urteil vom 30. September 2003, Köbler, C‑224/01, EU:C:2003:513, Rn. 47).
+
+130
+
+Somit hat – wie die Generalanwältin in Nr. 102 ihrer Schlussanträge ausgeführt hat – das Unionsrecht, wenn mehrere Verfahren in Betracht kommen, nicht vorzugeben, welches Verfahren zur Anwendung kommen soll. Bei der Auswahl des geeigneten Verfahrens und folglich der Haftungsregeln müssen jedoch sowohl die sich aus der Rechtsprechung des Gerichtshofs ergebenden Voraussetzungen der Staatshaftung für Schäden, die Einzelnen durch Verstöße gegen das Unionsrecht verursacht werden, als auch die Grundsätze der Äquivalenz und Effektivität beachtet werden.
+
+131
+
+Was den Grundsatz der Äquivalenz betrifft, hat der Gerichtshof keinen Anhaltspunkt, der daran zweifeln ließe, dass die mit dem Staatshaftungsgesetz bzw. dem Gesetz über Schuldverhältnisse und Verträge aufgestellten Regeln mit diesem Grundsatz im Einklang stehen.
+
+132
+
+Was den Grundsatz der Effektivität betrifft, wirft das vorlegende Gericht erstens die Frage auf, ob die Gebühr, die nach dem Staatshaftungsgesetz und dem Gesetz über Schuldverhältnisse und Verträge zu entrichten ist, mit diesem Grundsatz im Einklang steht.
+
+133
+
+Insoweit ist darauf hinzuweisen, dass jeder Fall, in dem sich die Frage stellt, ob eine nationale Verfahrensvorschrift die Ausübung der dem Einzelnen durch die Unionsrechtsordnung verliehenen Rechte praktisch unmöglich macht oder übermäßig erschwert, unter Berücksichtigung der Stellung der betreffenden Vorschrift im gesamten Verfahren, des Ablaufs dieses Verfahrens und seiner Besonderheiten vor den verschiedenen nationalen Stellen zu prüfen ist (vgl. in diesem Sinne Urteil vom 6. Oktober 2015, Târşia, C‑69/14, EU:C:2015:662, Rn. 36).
+
+134
+
+Zu diesem Zweck muss ermittelt werden, ob die nationalen Rechtsvorschriften die Erhebung der Schadensersatzklage von der Zahlung einer Gebühr abhängig machen und ob es Möglichkeiten gibt, von dieser Gebühr befreit zu werden.
+
+135
+
+Außerdem ist die Höhe der Gebühr sowie der Umstand zu berücksichtigen, ob sie für den Zugang zum Recht gegebenenfalls ein unüberwindliches Hindernis darstellt oder nicht (vgl. entsprechend Urteil vom 22. Dezember 2010, DEB, C‑279/09, EU:C:2010:811, Rn. 61).
+
+136
+
+Aus den dem Gerichtshof vorgelegten Akten geht hervor, dass eine natürliche Person wie Herr Kantarev in einem Rechtsstreit wie dem des Ausgangsverfahrens bei einer Klage nach dem Staatshaftungsgesetz eine feste Gebühr in Höhe von 10 BGN (ungefähr 5 Euro) und bei einer Klage nach dem Gesetz über Schuldverhältnisse und Verträge eine wertabhängige Gebühr in Höhe von 4 % des Streitwerts entrichten muss.
+
+137
+
+Unter Berücksichtigung der Angaben, über die der Gerichtshof verfügt, scheint eine feste Gebühr in Höhe von 10 BGN (ungefähr 5 Euro) kein unüberwindliches Hindernis für den Zugang zum Recht darzustellen, was zu überprüfen Sache des vorlegenden Gerichts ist.
+
+138
+
+Nicht ausgeschlossen ist hingegen, dass eine wertabhängige Gebühr in Höhe von 4 % des Streitwerts ein erhebliches Hindernis für die Geltendmachung des Entschädigungsanspruchs darstellt, insbesondere bei Fehlen einer Möglichkeit der Gebührenbefreiung, was zu überprüfen Sache des vorlegenden Gerichts ist.
+
+139
+
+Zweitens stellt sich das vorlegende Gericht die Frage, ob die Tatsache, dass das Staatshaftungsgesetz den Entschädigungsanspruch auf die Fälle beschränkt, in denen der Schaden auf einem rechtswidrigen, für nichtig erklärten Verwaltungsakt oder einem rechtswidrigen tatsächlichen Verwaltungshandeln oder ‑unterlassen beruht, mit dem Grundsatz der Effektivität im Einklang steht.
+
+140
+
+Zur Inanspruchnahme der Rechtsschutzmöglichkeiten, die zur Verfügung stehen, um einen Mitgliedstaat wegen Verletzung des Unionsrechts in Anspruch zu nehmen, hat der Gerichtshof bereits festgestellt, dass das nationale Gericht prüfen kann, ob sich der Geschädigte in angemessener Form um die Verhinderung des Schadenseintritts oder um die Begrenzung des Schadensumfangs bemüht hat und ob er insbesondere rechtzeitig von allen ihm zur Verfügung stehenden Rechtsschutzmöglichkeiten Gebrauch gemacht hat (Urteil vom 25. November 2010, Fuß, C‑429/09, EU:C:2010:717, Rn. 75 und die dort angeführte Rechtsprechung).
+
+141
+
+Nach einem allgemeinen, den Rechtsordnungen der Mitgliedstaaten gemeinsamen Grundsatz muss sich nämlich der Geschädigte in angemessener Form um die Begrenzung des Schadensumfangs bemühen, wenn er nicht Gefahr laufen will, den Schaden selbst tragen zu müssen (Urteil vom 25. November 2010, Fuß, C‑429/09, EU:C:2010:717, Rn. 76 und die dort angeführte Rechtsprechung).
+
+142
+
+Nach der Rechtsprechung des Gerichtshofs widerspräche es jedoch dem Grundsatz der Effektivität, von den Geschädigten zu verlangen, systematisch von allen ihnen zur Verfügung stehenden Rechtsschutzmöglichkeiten Gebrauch zu machen, selbst wenn dies zu übermäßigen Schwierigkeiten führen würde oder ihnen nicht zugemutet werden könnte (Urteil vom 25. November 2010, Fuß, C‑429/09, EU:C:2010:717, Rn. 77 und die dort angeführte Rechtsprechung).
+
+143
+
+Somit steht die Verpflichtung, zuvor die Nichtigkeit des dem Schaden zugrunde liegenden Verwaltungsakts feststellen zu lassen, als solche nicht im Widerspruch zum Grundsatz der Effektivität. Allerdings kann diese Verpflichtung die Erlangung von Schadensersatz wegen Verletzung des Unionsrechts übermäßig erschweren, falls eine solche Nichtigerklärung praktisch ausgeschlossen (vgl. in diesem Sinne Urteil vom 9. September 2015, Ferreira da Silva e Brito u. a., C‑160/14, EU:C:2015:565, Rn. 51) oder sehr eingeschränkt ist.
+
+144
+
+Im vorliegenden Fall ist zu betonen, dass das Erfordernis, dass der Rechtsakt der Behörde oder ihr Tun oder Unterlassen rechtswidrig war, kein Verfahrenserfordernis ist, sondern eine Voraussetzung für den Eintritt der Haftung des Staates, die dem Begriff des hinreichend qualifizierten Verstoßes im Sinne des Unionsrechts nahekommt.
+
+145
+
+Es stellt hingegen ein Verfahrenserfordernis dar, wenn der Eintritt der Haftung des Staates und damit der Entschädigungsanspruch von der vorherigen Nichtigerklärung des dem Schaden zugrunde liegenden Verwaltungsakts gemäß dem hierfür vorgesehenen Verfahren abhängig gemacht werden.
+
+146
+
+Um festzustellen, ob dieses Erfordernis in einer Situation wie der des Ausgangsverfahrens im Widerspruch zum Grundsatz der Effektivität steht, wird das vorlegende Gericht unter Berücksichtigung sämtlicher Umstände des Ausgangsverfahrens, der bulgarischen Rechtsvorschriften und insbesondere der Verfahrensmodalitäten für Klagen auf Nichtigerklärung von Verwaltungsakten zu prüfen haben, ob die Nichtigerklärung des dem betreffenden Schaden zugrunde liegenden Verwaltungsakts praktisch ausgeschlossen oder stark eingeschränkt ist.
+
+147
+
+Art. 4 Abs. 3 EUV sowie die Grundsätze der Äquivalenz und der Effektivität sind dahin auszulegen, dass sie in Anbetracht dessen, dass es in Bulgarien kein spezielles Verfahren gibt, um diesen Mitgliedstaat für Schäden infolge einer Verletzung des Unionsrechts durch eine nationale Behörde haftbar zu machen,
+
+–
+
+einer nationalen Regelung nicht entgegenstehen, die zwei unterschiedliche Rechtsbehelfe vorsieht, die in die Zuständigkeit unterschiedlicher Gerichtsbarkeiten fallen und für die unterschiedliche Voraussetzungen gelten, sofern das vorlegende Gericht feststellt, ob unter Berücksichtigung des nationalen Rechts eine nationale Behörde wie die BNB aufgrund des Staatshaftungsgesetzes oder des Gesetzes über Schuldverhältnisse und Verträge haftbar zu machen ist, und bei jedem der beiden Rechtsbehelfe die Grundsätze der Äquivalenz und der Effektivität gewahrt sind;
+
+–
+
+einer nationalen Regelung entgegenstehen, die den Anspruch des Einzelnen auf Entschädigung von der zusätzlichen Voraussetzung der Vorsätzlichkeit der Verursachung des Schadens durch die betreffende nationale Behörde abhängig macht;
+
+–
+
+einer nationalen Regelung nicht entgegenstehen, die den Anspruch des Einzelnen auf Entschädigung an seine Pflicht knüpft, zu beweisen, dass ein Verschulden vorlag, sofern – was zu prüfen Sache des vorlegenden Gerichts ist – der Begriff „Verschulden“ nicht über den Begriff des „hinreichend qualifizierten Verstoßes“ hinausgeht;
+
+–
+
+einer nationalen Regelung nicht entgegenstehen, die die Entrichtung einfacher oder streitwertabhängiger Gebühren vorsieht, sofern – was zu prüfen Sache des vorlegenden Gerichts ist – die Entrichtung einer einfachen oder einer streitwertabhängigen Gebühr unter Berücksichtigung ihrer Höhe und Bedeutung, der Unüberwindlichkeit oder Überwindlichkeit des Hindernisses, die sie für den Zugang zum Recht darstellt, ihrer Verbindlichkeit sowie der Möglichkeiten der Gebührenbefreiung nicht gegen die Grundsätze der Äquivalenz und Effektivität verstößt; und
+
+–
+
+einer nationalen Regelung nicht entgegenstehen, die den Anspruch des Einzelnen auf Entschädigung von der vorherigen Nichtigerklärung des dem Schaden zugrunde liegenden Verwaltungsakts abhängig macht, sofern – was zu beurteilen Sache des vorlegenden Gerichts ist – die Erfüllung dieses Erfordernisses vernünftigerweise von dem Geschädigten erwartet werden kann.
+
+Kosten
+
+148
+
+Für die Parteien der Ausgangsverfahren ist das Verfahren ein Zwischenstreit in den beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Fünfte Kammer) für Recht erkannt:
+
+ 	
+1.
+
+Art. 1 Nr. 3 und Art. 10 Abs. 1 der Richtlinie 94/19/EG des Europäischen Parlaments und des Rates vom 30. Mai 1994 über Einlagensicherungssysteme in der durch die Richtlinie 2009/14/EG des Europäischen Parlaments und des Rates vom 11. März 2009 geänderten Fassung sind dahin auszulegen, dass sie zum einen nationalen Rechtsvorschriften entgegenstehen, wonach die Feststellung der Nichtverfügbarkeit der Einlagen davon abhängt, dass das Kreditinstitut zahlungsunfähig ist und seine Banklizenz widerrufen wurde, und es zum anderen mit ihnen unvereinbar ist, dass von den Fristen, die dort für die Feststellung der Nichtverfügbarkeit der Einlagen und deren Erstattung vorgesehen sind, mit der Begründung abgewichen wird, dass es erforderlich sei, das Kreditinstitut unter besondere Aufsicht zu stellen.
+
+ 	
+2.
+
+Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 in der durch die Richtlinie 2009/14 geänderten Fassung ist dahin auszulegen, dass die Nichtverfügbarkeit der Einlagen im Sinne dieser Bestimmung durch einen ausdrücklichen Rechtsakt der zuständigen nationalen Behörde festgestellt werden muss und weder aus anderen Rechtsakten der nationalen Behörden, wie der Entscheidung der Balgarska Narodna Banka (Bulgarische Zentralbank), die Korporativna Targovska Banka unter besondere Aufsicht zu stellen, abgeleitet noch aufgrund von Umständen wie denen des Ausgangsverfahrens vermutet werden kann.
+
+ 	
+3.
+
+Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 in der durch die Richtlinie 2009/14 geänderten Fassung ist dahin auszulegen, dass die Feststellung der Nichtverfügbarkeit einer Bankeinlage im Sinne dieser Bestimmung nicht von der Voraussetzung abhängig gemacht werden kann, dass der Inhaber dieser Einlage bei dem betreffenden Kreditinstitut zuvor einen erfolglos gebliebenen Antrag auf Auszahlung gestellt hat.
+
+ 	
+4.
+
+Art. 1 Nr. 3 Ziff. i der Richtlinie 94/19 in der durch die Richtlinie 2009/14 geänderten Fassung hat unmittelbare Wirkung und stellt eine Rechtsvorschrift dar, die den Einzelnen Rechte verleihen soll, die es den Einlegern ermöglichen, einen Rechtsbehelf auf Ersatz des durch die verspätete Rückzahlung verursachten Schadens einzulegen. Es ist Sache des vorlegenden Gerichts, zum einen zu prüfen, ob es unter den Umständen des Ausgangsverfahrens einen hinreichend qualifizierten Verstoß im Sinne des Unionsrechts darstellt, dass innerhalb der Frist von fünf Arbeitstagen keine Feststellung der Nichtverfügbarkeit der Einlagen nach dieser Vorschrift erfolgt ist, obwohl die dort eindeutig festgelegten Voraussetzungen vorlagen, und zum anderen, ob zwischen diesem Verstoß und dem Schaden, der einem Einleger wie Herrn Kantarev entstanden ist, ein unmittelbarer Kausalzusammenhang besteht.
+
+ 	
+5.
+
+Art. 4 Abs. 3 EUV sowie die Grundsätze der Äquivalenz und der Effektivität sind dahin auszulegen, dass sie in Anbetracht dessen, dass es in Bulgarien kein spezielles Verfahren gibt, um diesen Mitgliedstaat für Schäden infolge einer Verletzung des Unionsrechts durch eine nationale Behörde haftbar zu machen,
+
+–
+
+einer nationalen Regelung nicht entgegenstehen, die zwei unterschiedliche Rechtsbehelfe vorsieht, die in die Zuständigkeit unterschiedlicher Gerichtsbarkeiten fallen und für die unterschiedliche Voraussetzungen gelten, sofern das vorlegende Gericht feststellt, ob unter Berücksichtigung des nationalen Rechts eine nationale Behörde wie die Bulgarische Zentralbank aufgrund des Zakon za otgovornostta na darzhavata i obshtinite za vredi (Gesetz über die Haftung des Staates und der Gemeinden) oder des Zakon za zadalzheniata i dogovorite (Gesetz über Schuldverhältnisse und Verträge) haftbar zu machen ist, und dass bei jedem der beiden Rechtsbehelfe die Grundsätze der Äquivalenz und der Effektivität gewahrt sind;
+
+–
+
+einer nationalen Regelung entgegenstehen, die den Anspruch des Einzelnen auf Entschädigung von der zusätzlichen Voraussetzung der Vorsätzlichkeit der Verursachung des Schadens durch die betreffende nationale Behörde abhängig macht;
+
+–
+
+einer nationalen Regelung nicht entgegenstehen, die den Anspruch des Einzelnen auf Entschädigung an seine Pflicht knüpft, zu beweisen, dass ein Verschulden vorlag, sofern – was zu prüfen Sache des vorlegenden Gerichts ist – der Begriff „Verschulden“ nicht über den Begriff des „hinreichend qualifizierten Verstoßes“ hinausgeht;
+
+–
+
+einer nationalen Regelung nicht entgegenstehen, die die Entrichtung einfacher oder streitwertabhängiger Gebühren vorsieht, sofern – was zu prüfen Sache des vorlegenden Gerichts ist – die Entrichtung einer einfachen oder einer streitwertabhängigen Gebühr unter Berücksichtigung ihrer Höhe und Bedeutung, der Unüberwindlichkeit oder Überwindlichkeit des Hindernisses, die sie für den Zugang zum Recht darstellt, ihrer Verbindlichkeit sowie der Möglichkeiten der Gebührenbefreiung nicht gegen die Grundsätze der Äquivalenz und Effektivität verstößt; und
+
+–
+
+einer nationalen Regelung nicht entgegenstehen, die den Anspruch des Einzelnen auf Entschädigung von der vorherigen Nichtigerklärung des dem Schaden zugrunde liegenden Verwaltungsakts abhängig macht, sofern – was zu beurteilen Sache des vorlegenden Gerichts ist – die Erfüllung dieses Erfordernisses vernünftigerweise von dem Geschädigten erwartet werden kann.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Bulgarisch.

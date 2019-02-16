@@ -1,0 +1,424 @@
+URTEIL DES GERICHTSHOFS (Dritte Kammer)
+
+27. April 2017 ( *1 )
+
+„Vorlage zur Vorabentscheidung — Richtlinie 73/239/EWG — Richtlinie 92/49/EWG — Grundsatz der einheitlichen Zulassung — Grundsatz der Aufsicht durch den Herkunftsmitgliedstaat — Art. 40 Abs. 6 — Begriff ‚Unregelmäßigkeiten‘ — Zuverlässigkeit der Aktionäre — Verbot für ein in einem Mitgliedstaat niedergelassenes Versicherungsunternehmen, im Staatsgebiet eines anderen Mitgliedstaats neue Verträge abzuschließen“
+
+In der Rechtssache C‑559/15
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Consiglio di Stato (Staatsrat, Italien) mit Entscheidung vom 22. September 2015, beim Gerichtshof eingegangen am 3. November 2015, in dem Verfahren
+
+Onix Asigurări SA
+
+gegen
+
+Istituto per la Vigilanza Sulle Assicurazioni (IVASS)
+
+erlässt
+
+DER GERICHTSHOF (Dritte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten L. Bay Larsen sowie der Richter M. Vilaras, J. Malenovský (Berichterstatter), M. Safjan und D. Šváby,
+
+Generalanwalt: Y. Bot,
+
+Kanzler: R. Schiano, Verwaltungsrat,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 21. September 2016,
+
+unter Berücksichtigung der Erklärungen
+
+—
+
+der Onix Asigurări SA, vertreten durch G. Buscemi und G. Pellegrino, avvocati,
+
+—
+
+des Istituto per la Vigilanza Sulle Assicurazioni (IVASS), vertreten durch P. Rosatone und E. Galanti, avvocati,
+
+—
+
+der italienischen Regierung, vertreten durch G. Palmieri als Bevollmächtigte im Beistand von P. Gentili, avvocato dello Stato,
+
+—
+
+der Europäischen Kommission, vertreten durch V. Di Bucci und K.‑P. Wojcik als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 9. November 2016
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 40 Abs. 6 der Richtlinie 92/49/EWG des Rates vom 18. Juni 1992 zur Koordinierung der Rechts- und Verwaltungsvorschriften für die Direktversicherung (mit Ausnahme der Lebensversicherung) sowie zur Änderung der Richtlinien 73/239/EWG und 88/357/EWG (Dritte Richtlinie Schadenversicherung) (ABl. 1992, L 228, S. 1).
+
+2
+
+Dieses Ersuchen ergeht im Rahmen eines Rechtsstreits, den die Onix Asigurări SA (im Folgenden: Onix), eine Gesellschaft nach rumänischem Recht, gegen das Istituto per la vigilanza sulle assicurazioni private e di interesse collettivo (ISVAP) (Aufsichtsorgan für Privatversicherungen von allgemeinem Interesse, Italien), das später zum Istituto per la Vigilanza Sulle Assicurazioni (IVASS) (Versicherungsaufsichtsbehörde, Italien), der Aufsichtsbehörde für italienische Versicherungen, wurde, wegen seiner Entscheidung führt, Onix den Abschluss neuer Verträge auf italienischem Staatsgebiet zu untersagen.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+3
+
+Die Richtlinie 92/49 wurde durch die Richtlinie 2009/138/EG des Europäischen Parlaments und des Rates vom 25. November 2009 betreffend die Aufnahme und Ausübung der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität II) (ABl. 2009, L 335, S. 1) aufgehoben. In den Erwägungsgründen 1, 3, 5, 6 und 29 der Richtlinie 92/49 hieß es:
+
+„(1)
+
+Der Binnenmarkt in der Direktversicherung (mit Ausnahme der Lebensversicherung) muss unter dem doppelten Gesichtspunkt der Niederlassungsfreiheit und des freien Dienstleistungsverkehrs vollendet werden, um es den Versicherungsunternehmen mit Sitz in der Gemeinschaft zu erleichtern, in der Gemeinschaft belegene Risiken zu decken.
+
+…
+
+(3)
+
+Die [Zweite Richtlinie 88/357/EWG des Rates vom 22. Juni 1988 zur Koordinierung der Rechts- und Verwaltungsvorschriften für die Direktversicherung (mit Ausnahme der Lebensversicherung) und zur Erleichterung der tatsächlichen Ausübung des freien Dienstleistungsverkehrs sowie zur Änderung der Richtlinie 73/239/EWG (ABl. 1988, L 172, S. 1)] stellt folglich einen bedeutenden Abschnitt bei der Verschmelzung der einzelstaatlichen Märkte zu einem einheitlichen Binnenmarkt dar: [D]ieser Abschnitt muss durch weitere Gemeinschaftsinstrumente ergänzt werden, damit es allen Versicherungsnehmern, unabhängig von ihrer Eigenschaft, ihrer Bedeutung oder der Art der zu deckenden Risiken[,] ermöglicht wird, jeden Versicherer mit Sitz in der Gemeinschaft zu wählen, der in ihr seine Geschäftstätigkeit im Rahmen der Niederlassungs- oder der Dienstleistungsfreiheit ausübt, wobei ihnen gleichzeitig ein angemessener Schutz zu gewährleisten ist.
+
+…
+
+(5)
+
+Der gewählte Ansatz besteht in einer wesentlichen, notwendigen und ausreichenden Harmonisierung, um zu einer gegenseitigen Anerkennung der Zulassungen und der Aufsichtssysteme zu gelangen, die die Erteilung einer einheitlichen, innerhalb der ganzen Gemeinschaft gültigen Zulassung sowie die Anwendung des Grundsatzes der Aufsicht durch den Herkunftsmitgliedstaat erlaubt.
+
+(6)
+
+… [K]ünftig [hängen] der Zugang zum Versicherungsgeschäft und die Ausübung des Versicherungsgeschäfts von einer einheitlichen Zulassung ab, die von den Behörden des Mitgliedstaats erteilt wird, in dem das Versicherungsunternehmen seinen Sitz hat. Diese Zulassung erlaubt es dem Unternehmen, überall in der Gemeinschaft im Rahmen der Niederlassungsfreiheit oder der Dienstleistungsfreiheit Geschäfte zu betreiben. Der Mitgliedstaat der Zweigniederlassung oder der Dienstleistung kann von Versicherungsunternehmen, die in ihm tätig werden möchten und schon im Herkunftsmitgliedstaat zugelassen sind, keine neue Zulassung mehr verlangen. Es ist also erforderlich, die Richtlinien 73/239/EWG [des Rates vom 24. Juli 1973 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend die Aufnahme und Ausübung der Tätigkeit der Direktversicherung (mit Ausnahme der Lebensversicherung) (ABl. 1973, L 228, S. 3)] und 88/357/EWG in diesem Sinne zu ändern.
+
+…
+
+(29)
+
+Es ist angebracht, Sanktionen für den Fall vorzusehen, dass das Versicherungsunternehmen in dem Mitgliedstaat, in dem das Risiko belegen ist, sich nicht an die Vorschriften zum Schutz des Allgemeininteresses hält, denen es unterliegt.“
+
+4
+
+In Art. 4 der Richtlinie 92/49 hieß es:
+
+„Artikel 6 der Richtlinie 73/239/EWG erhält folgende Fassung:
+
+‚Artikel 6
+
+Die Aufnahme der Direktversicherungstätigkeit ist von einer vorherigen behördlichen Zulassung abhängig.
+
+Diese Zulassung muss bei den Behörden des Herkunftsmitgliedstaats beantragt werden von
+
+a)
+
+Unternehmen, die ihren Sitz im Staatsgebiet dieses Mitgliedstaats begründen,
+
+b)
+
+Unternehmen, die die Zulassung gemäß Unterabsatz 1 erhalten haben und ihre Tätigkeit auf einen ganzen Versicherungszweig oder auf andere Versicherungszweige ausdehnen.‘“
+
+5
+
+In Art. 5 der Richtlinie 92/49 hieß es:
+
+„Artikel 7 der Richtlinie 73/239/EWG erhält folgende Fassung:
+
+‚Artikel 7
+
+(1)   Die Zulassung gilt für die gesamte Gemeinschaft. Sie erlaubt dem Unternehmen, dort Tätigkeiten auszuüben, sei es im Rahmen der Niederlassungsfreiheit, sei es im Rahmen der Dienstleistungsfreiheit.
+
+…‘“
+
+6
+
+In Art. 6 der Richtlinie 92/49 hieß es:
+
+„Artikel 8 der Richtlinie 73/239/EWG erhält folgende Fassung:
+
+‚Artikel 8
+
+(1)   Der Herkunftsmitgliedstaat verlangt, dass die Versicherungsunternehmen, die ihre Zulassung beantragen,
+
+…
+
+e)
+
+wirklich von Personen geleitet werden, die die erforderliche Zuverlässigkeit und die notwendige fachliche Qualifikation bzw. Berufserfahrung besitzen.
+
+…‘“
+
+7
+
+Art. 8 der Richtlinie 92/49 lautete:
+
+„Die zuständigen Behörden des Herkunftsmitgliedstaats erteilen einem Unternehmen die Zulassung für die Aufnahme der Versicherungstätigkeit nur, wenn ihnen die Identität und der Beteiligungsbetrag der direkten oder indirekten Aktionäre oder Gesellschafter, die als juristische oder natürliche Personen eine qualifizierte Beteiligung an dem Unternehmen halten, mitgeteilt wurden.
+
+Diese Behörden verweigern die Zulassung, wenn sie nicht davon überzeugt sind, dass die betreffenden Aktionäre oder Gesellschafter den im Interesse einer soliden und umsichtigen Führung des Versicherungsunternehmens zu stellenden Ansprüchen genügen.“
+
+8
+
+Art. 14 der Richtlinie 92/49 bestimmte:
+
+„Artikel 22 der Richtlinie 73/239/EWG erhält folgende Fassung:
+
+‚Artikel 22
+
+(1)   Die zuständige Behörde des Herkunftsmitgliedstaats kann die von ihr einem Versicherungsunternehmen erteilte Zulassung widerrufen, wenn dieses
+
+a)
+
+von der Zulassung nicht binnen zwölf Monaten Gebrauch macht, ausdrücklich auf sie verzichtet oder seit mehr als sechs Monaten seine Tätigkeit eingestellt hat, es sei denn, dass der betreffende Mitgliedstaat in diesen Fällen das Erlöschen der Zulassung vorsieht;
+
+b)
+
+die Zulassungsbedingungen nicht mehr erfüllt;
+
+c)
+
+sich als außerstande erweist, innerhalb der gesetzten Frist die Maßnahmen durchzuführen, die der Sanierungsplan oder der Finanzierungsplan im Sinne von Artikel 20 vorsieht;
+
+d)
+
+in schwerwiegender Weise die Verpflichtungen verletzt, die ihm nach dem für das Unternehmen geltenden Recht obliegen.
+
+…‘“
+
+9
+
+Art. 40 Abs. 3 bis 7 der Richtlinie 92/49 bestimmte:
+
+„(3)   Stellen die zuständigen Behörden eines Mitgliedstaats fest, dass ein Unternehmen, das im Gebiet dieses Mitgliedstaats eine Zweigniederlassung hat oder Dienstleistungen erbringt, die in diesem Mitgliedstaat für das Unternehmen geltenden Rechtsvorschriften nicht einhält, so fordern sie das Unternehmen auf, diese Unregelmäßigkeit abzustellen.
+
+(4)   Trifft das Unternehmen nicht die erforderlichen Maßnahmen, so machen die zuständigen Behörden des betroffenen Mitgliedstaats hiervon den zuständigen Behörden des Herkunftsmitgliedstaats Mitteilung. Diese treffen unverzüglich alle zweckdienlichen Maßnahmen, damit das Unternehmen diese Unregelmäßigkeit abstellt. Die Art dieser Maßnahmen wird den zuständigen Behörden des betroffenen Mitgliedstaats mitgeteilt.
+
+(5)   Verletzt das Unternehmen trotz der Maßnahmen des Herkunftsmitgliedstaats – oder weil sich die Maßnahmen als unzureichend erweisen oder der betreffende Staat keine Maßnahmen getroffen hat – weiterhin die in dem betroffenen Mitgliedstaat geltenden Rechtsvorschriften, so kann dieser nach Unterrichtung der zuständigen Behörden des Herkunftsmitgliedstaats die geeigneten Maßnahmen treffen, um weitere Unregelmäßigkeiten zu verhindern oder zu ahnden … und, soweit unbedingt erforderlich, das Unternehmen daran zu hindern, weitere Versicherungsverträge in seinem Staatsgebiet abzuschließen. Die Mitgliedstaaten tragen dafür Sorge, dass die für diese Maßnahmen erforderlichen Zustellungen an die Versicherungsunternehmen in ihrem Staatsgebiet möglich sind.
+
+(6)   Die Absätze 3, 4 und 5 berühren nicht die Befugnis der Mitgliedstaaten, in dringenden Fällen geeignete Maßnahmen zu ergreifen, um Unregelmäßigkeiten in ihrem Staatsgebiet zu verhindern oder zu ahnden. Dies schließt die Möglichkeit ein, ein Versicherungsunternehmen zu hindern, weitere neue Versicherungsverträge in ihrem Staatsgebiet abzuschließen.
+
+(7)   Die Absätze 3, 4 und 5 berühren nicht die Befugnis der Mitgliedstaaten, Verstöße in ihrem Staatsgebiet zu ahnden.“
+
+Italienisches Recht
+
+10
+
+Art. 14 Abs. 1 Buchst. e des Privatversicherungsgesetzbuchs, erlassen durch das Gesetzesdekret Nr. 209 vom 7. September 2005, lautet in seiner für den Sachverhalt des Ausgangsverfahrens maßgeblichen Fassung (im Folgenden: CAP) wie folgt:
+
+„[Das IVASS] erteilt die Zulassung, wenn …
+
+e)
+
+[bei] den Inhabern qualifizierter Beteiligungen … die Voraussetzungen für die Erteilung der Zulassung gemäß Art. 68 vorliegen.“
+
+11
+
+Art. 68 Abs. 5 CAP lautete:
+
+„Das [IVASS] erteilt die Zulassung, wenn die Bedingungen für die Gewährleistung einer soliden und umsichtigen Führung des Versicherungs- oder Rückversicherungsunternehmens erfüllt sind, wobei sie die Eignung des potenziellen Erwerbers und die finanzielle Solidität des geplanten Erwerbs auch im Hinblick auf mögliche Auswirkungen des Vorgangs auf den Schutz der Versicherungsnehmer des betreffenden Unternehmens auf der Grundlage der folgenden Kriterien prüft: die Zuverlässigkeit des potenziellen Erwerbers …“
+
+12
+
+Art. 76 CAP bestimmte:
+
+„(1)   Personen, die in Versicherungs- und Rückversicherungsunternehmen Verwaltungs-, Leitungs- oder Aufsichtsfunktionen wahrnehmen, müssen die Anforderungen der Verordnung 130, die der Minister für Produktionstätigkeiten nach Anhörung des [IVASS] erlassen hat, an Befähigung, persönliche Zuverlässigkeit und Unabhängigkeit erfüllen.
+
+(2)   Bei anfänglicher oder späterer Nichteinhaltung der Bedingungen tritt der Verfall ein. Der Verwaltungsrat, der Aufsichtsrat oder der Vorstand erklären den Verfall innerhalb von 30 Tagen nach dem Zeitpunkt, an dem die Nichteinhaltung der Bedingungen zu Tage getreten ist oder ihnen bekannt wurde. Im Fall ihrer Untätigkeit wird der Verfall durch das [IVASS] erklärt.
+
+(3)   Werden die im Zivilgesetzbuch oder in der Satzung des Versicherungs- oder Rückversicherungsunternehmens vorgesehenen Bedingungen für die Unabhängigkeit nicht eingehalten, gilt Absatz 2.
+
+(4)   Die nach Absatz 1 erlassene Verordnung legt die Gründe für die vorübergehende Aussetzung der Funktionen und ihre Dauer fest. Die Aussetzung wird nach den in Absatz 2 genannten Modalitäten erklärt.“
+
+13
+
+Art. 193 des CAP lautete:
+
+„(1)   Versicherungsunternehmen, die ihren Sitz in anderen Mitgliedstaaten haben, unterliegen auch hinsichtlich der Geschäfte, die sie im Gebiet der Republik im Rahmen der Niederlassungsfreiheit oder im Rahmen der Dienstleistungsfreiheit tätigen, der Aufsicht durch die Behörde ihres Herkunftsmitgliedstaats.
+
+(2)   Unbeschadet der Bestimmungen des Abs. 1 beanstandet das [IVASS], wenn es feststellt, dass das Versicherungsunternehmen für es geltende Vorschriften des italienischen Rechts nicht einhält, den Rechtsverstoß und gibt dem Unternehmen auf, den Gesetzen und Durchführungsbestimmungen nachzukommen.
+
+(3)   Kommt das Unternehmen den Gesetzen und Durchführungsbestimmungen nicht nach, macht das [IVASS] der Aufsichtsbehörde des Herkunftsmitgliedstaats davon Mitteilung und ersucht sie, die zur Beendigung der Verstöße notwendigen Maßnahmen zu treffen.
+
+(4)   Wenn die Aufsichtsbehörde des Herkunftsmitgliedstaats keine oder keine adäquaten Maßnahmen ergreift, wenn die begangenen Unregelmäßigkeiten Allgemeininteressen beeinträchtigen können oder wenn die dringende Notwendigkeit besteht, Maßnahmen zum Schutz der Interessen der Versicherten und anderer zur Inanspruchnahme von Versicherungsleistungen Berechtigter zu ergreifen, kann das [IVASS], nachdem es der Aufsichtsbehörde des Herkunftsmitgliedstaats davon Mitteilung gemacht hat, gegenüber dem Versicherungsunternehmen die notwendigen Maßnahmen einschließlich der Untersagung des Abschlusses neuer Verträge im Rahmen der Niederlassungsfreiheit oder der Dienstleistungsfreiheit mit den in Art. 167 vorgesehenen Folgen treffen.
+
+(5)   Wenn das Versicherungsunternehmen, das die Zuwiderhandlung begangen hat, seine Tätigkeiten über eine Niederlassung im Gebiet der Republik ausübt oder dort Vermögensgegenstände besitzt, werden die nach den italienischen Rechtsvorschriften anwendbaren administrativen Sanktionen gegenüber dieser Niederlassung verhängt oder in Form der Sicherstellung der in Italien befindlichen Vermögensgegenstände durchgeführt.
+
+(6)   Maßnahmen, durch die Tätigkeiten im Rahmen der Niederlassungsfreiheit oder im Rahmen der Dienstleistungsfreiheit sanktioniert oder beschränkt werden, werden dem betroffenen Unternehmen mitgeteilt. Die Kommunikation zwischen dem [IVASS] und dem Versicherungsunternehmen findet auf Italienisch statt.“
+
+Ausgangsverfahren und Vorabentscheidungsfrage
+
+14
+
+Onix ist ein Versicherungsunternehmen mit Sitz in Bukarest (Rumänien). Es übt seit dem 24. Oktober 2012 in Italien eine Tätigkeit im Rahmen des freien Dienstleistungsverkehrs aus, u. a. für öffentliche Auftraggeber, indem es für Privatunternehmen, die infolge einer Beteiligung an einem Ausschreibeverfahren ausgewählt wurden, bürgt, um ihre Beteiligung an den betreffenden öffentlichen Aufträgen und deren Ausführung zu garantieren.
+
+15
+
+Nach den von der Autoritatea de Supraveghere Financiară (Rumänische Finanzaufsichtsbehörde, im Folgenden: ASF) an das IVASS übermittelten Informationen nahm Onix während der zwei Monate, in denen sie ihre Tätigkeiten im Jahr 2012 ausübte, Prämien von insgesamt 795363 Euro ein, von denen etwa 75 % aus Italien und 25 % aus Rumänien stammten.
+
+16
+
+Als Antwort auf ein Informationsersuchen des IVASS, das selbst zuvor von öffentlichen Verwaltungen, die von einer Garantie von Onix abgesichert waren, um eine Auskunft gebeten worden war, teilte die ASF mit, dass der Referenzaktionär von Onix ein italienischer Staatsangehöriger sei, der als natürliche Person 0,01 % des Kapitals von Onix und als alleiniger Aktionär der Egady Company SRL, einer Gesellschaft nach rumänischem Recht, die verbleibenden 99,99 % des Kapitals halte. Die ASF teilte weiter mit, dass er auch der Vorstand und Geschäftsführer von Onix sei.
+
+17
+
+Das IVASS stellte jedoch fest, dass mehrere die Zuverlässigkeit des Referenzaktionärs beeinträchtigende Verurteilungen vorlagen. Zunächst wurde dieser am 29. Juli 2013 durch das Tribunale de Marsala (Gericht von Marsala, Italien) wegen versuchten schweren Betrugs zulasten des italienischen Staates verurteilt. Des Weiteren sei er der alleinige Geschäftsführer der G.C.C. Garanzie Crediti e Cauzioni SpA, einer Gesellschaft nach italienischem Recht, gewesen, die am 28. August 2008 auf eine Entscheidung der Banca d’Italia (Bank von Italien) hin wegen schwerwiegender Unregelmäßigkeiten bei der Geschäftsführung und der Nichteinhaltung der Mindesteinlageanforderungen aus der Liste der Finanzmittler gestrichen wurde. In diesem Rahmen verhängte die Bank von Italien eine Verwaltungsstrafe in Höhe von 80000 Euro gegen ihn. Schließlich waren die Beträge, die von der Garanzie Crediti e Cauzioni Srl, einer Gesellschaft nach italienischem Recht, die aus der Umwandlung der G.C.C. Garanzie Crediti e Cauzioni SpA hervorgegangen ist, gehalten wurden, Gegenstand zweier Entscheidungen der Agenzia delle entrate (Steuerverwaltung, Italien) vom 27. April und 28. Mai 2010 über eine Beschlagnahme, mit denen die Einhaltung der nicht erfüllten Kautionsverpflichtungen gewährleistet werden sollte.
+
+18
+
+Mit Schreiben vom 4. Oktober 2013 übermittelte das IVASS der ASF die in seinem Besitz befindlichen Informationen und Unterlagen und forderte sie auf, geeignete Maßnahmen zum Schutz der Versicherten zu ergreifen, wobei es darauf hinwies, dass es, wenn die ASF nicht eingreife, selbst geeignete und erforderliche Maßnahmen ergreifen werde, um die Interessen der italienischen Versicherten zu schützen.
+
+19
+
+Mit Schreiben vom 8. November 2013 bot die ASF ihre Mitwirkung an, indem es die Einsetzung einer internen Arbeitsgruppe ankündigte, die die zu ergreifenden Maßnahmen prüfen sollte, und das IVASS aufforderte, mit ihr zusammenzuarbeiten.
+
+20
+
+Mit Schreiben vom 19. November 2013 bestätigte das IVASS seine Bereitschaft zur Zusammenarbeit, wobei es auf die Dringlichkeit der Angelegenheit hinwies und erklärte, es sehe sich, wenn die ASF nicht innerhalb von 30 Tagen die Zulassung von Onix widerrufe, gezwungen, dem Unternehmen den Abschluss neuer Versicherungsverträge in Italien zu untersagen.
+
+21
+
+Am 9. Dezember 2013 fand ein Treffen zwischen den beiden Aufsichtsbehörden statt, in der die ASF erklärt haben soll, dass sie u. a. deswegen nicht in der Lage sei, die Zulassung von Onix zu widerrufen, weil die Kriterien gemäß den Leitlinien für die aufsichtsrechtliche Beurteilung des Erwerbs und der Erhöhung von Beteiligungen im Finanzsektor, die durch die Richtlinie 2007/44/EG vorgeschrieben sind, nicht ins rumänische Recht umgesetzt worden seien.
+
+22
+
+Mit Verfügung vom 20. Dezember 2013, die auf der Grundlage von Art. 40 Abs. 6 der Richtlinie 92/49 und Art. 193 Abs. 4 CAP erlassen wurde, untersagte das IVASS Onix den Abschluss neuer Versicherungsverträge im italienischen Staatsgebiet.
+
+23
+
+Nach dieser Entscheidung legte Onix zum einen am 5. Februar 2014 bei der Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung (EIOPA) eine Beschwerde ein.
+
+24
+
+Der Vorsitzende der EIOPA erklärte die Beschwerde mit Beschluss vom 2. Juni 2014 für zulässig, wies sie dann jedoch mit Beschluss vom 6. Juni 2014 zurück. Er begründete dies damit, dass die Befugnis der zuständigen Behörden des Mitgliedstaats der Dienstleistung, in dringenden Fällen geeignete Maßnahmen wie die in Art. 40 Abs. 6 der Richtlinie 92/49 genannten zu ergreifen, ausgeübt werden könne, wenn die Bedenken dieser Behörden nicht auf andere Weise ausgeräumt werden könnten, nämlich insbesondere mittels einer Zusammenarbeit der Aufsichtsbehörden. Mit demselben Beschluss vom 6. Juni 2014 stellte er auch fest, dass es Sache des Mitgliedstaats sei, die Tragweite und die Grenzen dieser Befugnis festzulegen, dass die Einhaltung der nationalen Regelungen der gerichtlichen Überprüfung durch die italienischen Gerichte unterliege, und dass es keinen Grund gebe, einen Verstoß der Richtlinie 92/49 durch das IVASS festzustellen.
+
+25
+
+Als Antwort auf ein Schreiben von Onix vom 8. Oktober 2014 haben die Dienststellen der EIOPA diesen Standpunkt mit Schreiben vom 24. November 2014 bestätigt.
+
+26
+
+Onix legte gegen dieses Schreiben eine Beschwerde beim Beschwerdeausschuss ein, die dieser mit Beschluss vom 3. August 2015 zurückwies. Die Beschwerde sei unzulässig, da sie gegen eine Handlung gerichtet sei, die eine reine Bestätigung einer früheren, nicht rechtzeitig angefochtenen Handlung darstelle. Dieser Beschluss war Gegenstand einer Klage vor dem Gericht der Europäischen Union (Rechtssache T‑590/15).
+
+27
+
+Das Gericht wies mit Beschluss vom 24. Juni 2016 diese Klage als teils offensichtlich unzulässig und als teils offensichtlich jeder rechtlichen Grundlage entbehrend ab.
+
+28
+
+Zum anderen erhob Onix gegen die Entscheidung des IVASS beim Tribunale amministrativo regionale per il Lazio (Verwaltungsgericht der Region Lazio, Italien) Klage. Dieses wies die Klage durch das Urteil Nr. 478/2015 ab und begründete dies damit, dass die Feststellung, der Referenzaktionär des seine Tätigkeit im Rahmen des freien Dienstleistungsverkehrs ausübenden Unternehmens erfülle nicht die Anforderungen an die Zuverlässigkeit, um die Versicherungstätigkeit auf italienischem Staatsgebiet ausüben zu können, einen dringenden Grund darstelle, der das Einschreiten des IVASS abweichend vom Grundsatz der Aufsicht durch den Herkunftsmitgliedstaat rechtfertige.
+
+29
+
+Onix legte gegen dieses Urteil beim Consiglio di Stato (Staatsrat, Italien) Rechtsmittel ein, wobei sie insbesondere geltend machte, dass die Aufsichtsbehörde des Mitgliedstaats der Dienstleistung keine Befugnis habe, abweichend vom Grundsatz der Aufsicht durch den Herkunftsmitgliedstaat einem dort zugelassenen Versicherungsunternehmen den Abschluss neuer Verträge in seinem Staatsgebiet mit der Begründung zu untersagen, dass das Zuverlässigkeitserfordernis nicht eingehalten sei.
+
+30
+
+Das vorlegende Gericht beabsichtigt, das Rechtsmittel aufgrund der Erwägung zurückzuweisen, dass Art. 40 Abs. 6 der Richtlinie 92/49 den Aufsichtsbehörden des Mitgliedstaats der Dienstleistung gestatte, dem Versicherungsunternehmen wegen nachgewiesener Vorstrafen des Referenzaktionärs vorsorglich die Fortsetzung der Tätigkeit im Staatsgebiet dieses Mitgliedstaats zu untersagen, um die Interessen der Versicherten zu schützen.
+
+31
+
+Da es jedoch Zweifel an der Vereinbarkeit einer solchen Lösung mit dem Unionsrecht und insbesondere mit dem Grundsatz der einheitlichen Zulassung und der Prüfung der Voraussetzung hinsichtlich der Zuverlässigkeit durch den Herkunftsmitgliedstaat hat, hat der Consiglio di Stato (Staatsrat) beschlossen, das Verfahren auszusetzen und dem Gerichtshof die folgende Frage zur Vorabentscheidung vorzulegen:
+
+Stehen das Unionsrecht, insbesondere Art. 40 Abs. 6 der Richtlinie 92/49, Nr. 5 der Mitteilung 2000/C 43/03 der Kommission zu Auslegungsfragen – Freier Dienstleistungsverkehr und Allgemeininteresse im Versicherungswesen (ABl. 2000, C 43, S. 5) und der Unionsgrundsatz der Aufsicht durch den Herkunftsstaat einer Auslegung (wie der – vom vorlegenden Gericht geteilten – des Art. 193 Abs. 4 CAP) entgegen, nach der die Aufsichtsbehörde eines Staates, der ein Versicherungsunternehmen im Rahmen des freien Dienstleistungsverkehrs aufnimmt, in dringenden Fällen zum Schutz der Interessen der Versicherten und der zur Inanspruchnahme von Versicherungsleistungen Berechtigten Untersagungsverfügungen erlassen und insbesondere den Abschluss neuer Verträge im Staatsgebiet des Aufnahmemitgliedstaats untersagen darf, wenn sie im Rahmen ihres Beurteilungsspielraums feststellt, dass eine subjektive Voraussetzung für die Erteilung der Zulassung zur Ausübung der Versicherungstätigkeit, insbesondere die Voraussetzung der Zuverlässigkeit, nicht oder nicht mehr erfüllt ist?
+
+Zum Antrag auf Wiedereröffnung des mündlichen Verfahrens
+
+32
+
+Mit Schriftsatz, der am 1. Dezember 2016 bei der Kanzlei des Gerichtshofs eingegangen ist, hat Onix die Wiedereröffnung des mündlichen Verfahrens beantragt. Sie macht im Wesentlichen geltend, dass bestimmtes Vorbringen, das im Rahmen des vorliegenden Vorabentscheidungsersuchens als wesentlich dargestellt worden sei, zwischen den Beteiligten nicht erörtert worden sei.
+
+33
+
+Hierzu ist darauf hinzuweisen, dass der Gerichtshof gemäß Art. 83 seiner Verfahrensordnung jederzeit nach Anhörung des Generalanwalts die Wiedereröffnung des mündlichen Verfahrens beschließen kann, insbesondere wenn er sich für unzureichend unterrichtet hält oder wenn ein zwischen den Parteien oder den in Art. 23 der Satzung des Gerichtshofs der Europäischen Union bezeichneten Beteiligten nicht erörtertes Vorbringen entscheidungserheblich ist.
+
+34
+
+In der vorliegenden Rechtssache ist der Gerichtshof nach Anhörung des Generalanwalts der Auffassung, dass er über sämtliche Informationen verfügt, die er für die Beantwortung der vorgelegten Frage benötigt, und dass diese zwischen den Beteiligten des Ausgangsverfahrens und den in diesem Artikel genannten Beteiligten erörtert worden sind.
+
+35
+
+Somit ist der Antrag von Onix zurückzuweisen.
+
+Zur Vorabentscheidungsfrage
+
+36
+
+Mit seiner Frage möchte das vorlegende Gericht wissen, ob die Richtlinie 92/49 und insbesondere ihr Art. 40 Abs. 6 dahin auszulegen sind, dass sie dem entgegenstehen, dass die Aufsichtsbehörden eines Mitgliedstaats gegen ein im Staatsgebiet dieses Mitgliedstaats im Rahmen des freien Dienstleistungsverkehrs tätiges Direktversicherungsunternehmen, das kein Lebensversicherungsunternehmen ist, zum Schutz der Interessen der Versicherten und anderer zur Inanspruchnahme von Versicherungsleistungen Berechtigten Sofortmaßnahmen wie die Untersagung des Abschlusses neuer Verträge in diesem Staatsgebiet ergreifen, wenn sie im Rahmen ihres Beurteilungsspielraums feststellen, dass eine subjektive Voraussetzung für die Erteilung der für die Versicherungstätigkeit erforderlichen Zulassung wie die Voraussetzung der Zuverlässigkeit nicht oder nicht mehr erfüllt ist.
+
+37
+
+Zunächst ist darauf hinzuweisen, dass Art. 40 Abs. 6 dieser Richtlinie im Wesentlichen vorsieht, dass ein Mitgliedstaat abgesehen von den nach den Abs. 3 bis 5 des Artikels zu erlassenden Maßnahmen in dringenden Fällen befugt ist, geeignete Maßnahmen zu ergreifen, um Unregelmäßigkeiten in seinem Staatsgebiet zu verhindern und insbesondere um ein Versicherungsunternehmen daran zu hindern, in seinem Staatsgebiet neue Versicherungsverträge abzuschließen.
+
+38
+
+Zum letztgenannten Punkt ist darauf hinzuweisen, dass bestimmte Sprachfassungen dieser Bestimmungen, u. a. die spanische und die französische, auf im Staatsgebiet des betreffenden Mitgliedstaats „begangene“ Unregelmäßigkeiten Bezug nehmen, was möglicherweise darauf hindeuten könnte, dass diese Bestimmung nur auf bereits eingetretene Unregelmäßigkeiten Anwendung findet.
+
+39
+
+Jedoch ist darauf hinzuweisen, dass der Text einer Bestimmung wegen der Notwendigkeit einer einheitlichen Auslegung der Unionsverordnungen im Fall von Zweifeln nicht isoliert betrachtet werden darf, sondern vielmehr unter Berücksichtigung ihrer Fassungen in den anderen Amtssprachen ausgelegt und angewandt werden muss (Urteil vom 19. September 2013, Van Buggenhout und Van de Mierop, C‑251/12, EU:C:2013:566, Rn. 27).
+
+40
+
+Zum einen enthalten andere Sprachfassungen wie die deutsche oder die englische aber kein vergleichbares Attribut. Zum anderen verwenden alle Sprachfassungen zur Beschreibung des Zwecks der zu erlassenden Maßnahmen das Verb „verhindern“ oder ein entsprechendes Wort. Somit ist diese Bestimmung dahin auszulegen, dass sie den Erlass von Maßnahmen zur Verhinderung zukünftiger Unregelmäßigkeiten gestattet.
+
+41
+
+Sodann ist zu beachten, dass der Wortlaut von Art. 40 Abs. 6 der Richtlinie 92/49 isoliert betrachtet keine Antwort auf die Vorabentscheidungsfrage ermöglicht. Unter diesen Umständen sind der Kontext, in dem diese Bestimmung steht, und die mit dieser Richtlinie verfolgten Ziele zu prüfen (vgl. in diesem Sinne Urteil vom 25. Juni 2015, CO Sociedad de Gestión y Participación u. a., C‑18/14, EU:C:2015:419, Rn. 27).
+
+42
+
+In diesem Zusammenhang geht erstens aus den Erwägungsgründen 1, 5 und 6 der Richtlinie hervor, dass die Richtlinie, die den Binnenmarkt in der Direktversicherung (mit Ausnahme der Lebensversicherung) vollenden soll, auf zwei Grundsätzen beruht. Diese sind zum einen die Schaffung einer einheitlichen Zulassung, die den Unternehmen nach ihrer Erteilung erlaubt, in der gesamten Union tätig zu sein, und zum anderen der Grundsatz der Aufsicht durch den Herkunftsmitgliedstaat.
+
+43
+
+Zur Erreichung dieses Ziels sieht die Richtlinie 92/49 zunächst in ihrem Art. 4 vor, dass die einheitliche Zulassung nur bei den Behörden des Herkunftsmitgliedstaats beantragt werden kann, wobei Art. 6 der Richtlinie die Voraussetzungen für die Erteilung dieser Zulassung nennt, zu denen die Zuverlässigkeit der Geschäftsführer des betreffenden Unternehmens gehört. Des Weiteren ergibt sich aus Art. 14 der Richtlinie, dass es dem Herkunftsmitgliedstaat auch obliegt, die Zulassung zu widerrufen, die einem Versicherungsunternehmen erteilt wurde, das die Zulassungsbedingungen nicht mehr erfüllt oder in schwerwiegender Weise die Verpflichtungen verletzt, die ihm nach dem für das Unternehmen geltenden Recht obliegen.
+
+44
+
+Daraus folgt, dass nur die zuständigen Behörden des Herkunftsmitgliedstaats unter Ausschluss derer anderer Mitgliedstaaten prüfen können, ob ein Versicherungsunternehmen die Voraussetzung hinsichtlich der Zuverlässigkeit seiner Geschäftsführer erfüllt.
+
+45
+
+Zweitens ist darauf hinzuweisen, dass Art. 40 der Richtlinie 92/49 zwei unterschiedliche Verfahren einrichtet, mit deren Hilfe die zuständigen Behörden des Mitgliedstaats der Dienstleistung bei Unregelmäßigkeiten oder bei der Gefahr von Unregelmäßigkeiten Maßnahmen gegen das betreffende Unternehmen ergreifen können.
+
+46
+
+Hierzu stellt Art. 40 Abs. 4 und 5 der Richtlinie 92/49 die Modalitäten klar, die die zuständigen Behörden des Mitgliedstaats der Dienstleistung beachten müssen, wenn sie den Erlass solcher Maßnahmen beabsichtigen. Sie müssen nämlich zuvor die zuständigen Behörden des Herkunftsmitgliedstaats über die Nichteinhaltung bestimmter Rechtsvorschriften durch ein Unternehmen, das von ihnen eine einheitliche Zulassung erhalten hat, informieren und ihnen die Möglichkeit geben, unverzüglich Maßnahmen zur Abhilfe zu treffen.
+
+47
+
+Art. 40 Abs. 6 der Richtlinie, der nur anwendbar ist, wenn es um dringende Fälle geht und die Gefahr von Unregelmäßigkeiten besteht, sieht abweichend von dem gewöhnlichen Verfahren gemäß Art. 40 Abs. 4 und 5 für den betreffenden Mitgliedstaat der Dienstleistung weder eine Verpflichtung vor, die zuständigen Behörden des Herkunftsmitgliedstaats über diese Unregelmäßigkeiten zu informieren, noch eine Verpflichtung, ihnen seine Absicht mitzuteilen, geeignete Maßnahmen zu treffen.
+
+48
+
+Die drohende Gefahr einer Unregelmäßigkeit kann nämlich den sofortigen Erlass von Maßnahmen erfordern. Daher kann vom Mitgliedstaat der Dienstleistung nicht verlangt werden, dass er sich bei Dringlichkeit an einem Verfahren zur Information des Herkunftsmitgliedstaats beteiligt, das den Erlass solcher Maßnahmen zulasten der Interessen der Versicherten und der zur Inanspruchnahme von Versicherungsleistungen Berechtigten verzögern kann.
+
+49
+
+Liegen keine gegenteiligen Anhaltspunkte vor, ist Art. 40 Abs. 6 der Richtlinie 92/49 hingegen nicht dahin auszulegen, dass er es dem Mitgliedstaat der Dienstleistung gestatten würde, abweichend von der in Rn. 44 des vorliegenden Urteils genannten ausschließlichen Zuständigkeit des Herkunftsmitgliedstaats zur Einhaltung der Zulassungsvoraussetzungen durch ein Versicherungsunternehmen – insbesondere zur Zuverlässigkeit seiner Geschäftsführer – Stellung zu nehmen, deren Aufsicht gemäß Art. 4 der Richtlinie 92/49 in die alleinige Zuständigkeit des Herkunftsmitgliedstaats fällt.
+
+50
+
+Dennoch steht es dem Mitgliedstaat der Dienstleistung zu, bei der Ausübung der ihm in dringenden Fällen selbst zustehenden Sonderrechte darzulegen, ob bestimmte Unzulänglichkeiten oder Unsicherheiten hinsichtlich der Zuverlässigkeit der Geschäftsführer des betreffenden Versicherungsunternehmens eine ernste und unmittelbare Gefahr erkennen lassen, dass Unregelmäßigkeiten zulasten der Interessen der Versicherten oder anderer zur Inanspruchnahme von Versicherungsleistungen Berechtigter eintreten, und in einem solchen Fall unmittelbar angemessene Maßnahmen zu treffen, wie gegebenenfalls den Abschluss neuer Verträge in seinem Staatsgebiet zu untersagen.
+
+51
+
+Aus dem dritten Erwägungsgrund der Richtlinie 92/49 ergibt sich nämlich, dass die Richtlinie Versicherungsnehmern einen angemessenen Schutz gewährleisten soll. Ein solcher Schutz wäre jedoch nicht zu gewährleisten, wenn Art. 40 Abs. 6 der Richtlinie dahin auszulegen wäre, dass er den betreffenden Mitgliedstaat der Dienstleistung daran hindert, bei Dringlichkeit das Vorliegen einer drohenden Gefahr für die Interessen dieser Versicherungsnehmer zu prüfen und sofortige Maßnahmen zu ihrer Abhilfe zu treffen, ohne dem Herkunftsmitgliedstaat die Durchführung der zu diesem Zweck angemessenen Maßnahmen überlassen zu müssen.
+
+52
+
+Da die Richtlinie, wie in Rn. 42 des vorliegenden Urteils festgestellt wurde, dem Grundsatz der Aufsicht der Versicherungsunternehmen durch den Herkunftsmitgliedstaat den Vorrang einräumt, kann es sich jedoch bei den Maßnahmen, die der Mitgliedstaat der Dienstleistung bei Dringlichkeit ergreifen kann, nur um Sicherungsmaßnahmen handeln. Sie sind folglich nur anwendbar, solange eine Entscheidung der zuständigen Behörden des Herkunftsmitgliedstaats abgewartet wird, die im Hinblick auf die Voraussetzungen für die Erteilung der Zulassung, u. a. auf die der Zuverlässigkeit, die Konsequenz aus den Tatsachen zieht, die der Mitgliedstaat der Dienstleistung festgestellt hat, wie es der zur Rechtsordnung der Union gehörende Grundsatz der Rechtssicherheit erfordert.
+
+53
+
+Daher ist auf die Vorabentscheidungsfrage zu antworten, dass die Richtlinie 92/49 und insbesondere ihr Art. 40 Abs. 6 dahin auszulegen sind, dass sie dem entgegenstehen, dass die Aufsichtsbehörden eines Mitgliedstaats gegen ein im Staatsgebiet dieses Mitgliedstaats im Rahmen des freien Dienstleistungsverkehrs tätiges Direktversicherungsunternehmen, das kein Lebensversicherungsunternehmen ist, zum Schutz der Interessen der Versicherten und anderer zur Inanspruchnahme von Versicherungsleistungen Berechtigter Sofortmaßnahmen wie die Untersagung des Abschlusses neuer Verträge in diesem Staatsgebiet ergreifen, wenn sie im Rahmen ihres Beurteilungsspielraums feststellen, dass eine subjektive Voraussetzung für die Erteilung der für die Versicherungstätigkeit erforderlichen Zulassung wie die Voraussetzung der Zuverlässigkeit nicht oder nicht mehr erfüllt ist. Die Richtlinie hindert diesen Mitgliedstaat jedoch nicht daran, bei der Ausübung der ihm in dringenden Fällen selbst zustehenden Sonderrechte darzulegen, ob bestimmte Unzulänglichkeiten oder Unsicherheiten hinsichtlich der Zuverlässigkeit der Geschäftsführer des betreffenden Versicherungsunternehmens eine ernste und unmittelbare Gefahr erkennen lassen, dass Unregelmäßigkeiten zulasten der Interessen der Versicherten oder anderer zur Inanspruchnahme von Versicherungsleistungen Berechtigter eintreten, und in einem solchen Fall unmittelbar angemessene Maßnahmen zu treffen, wie gegebenenfalls den Abschluss neuer Verträge in seinem Staatsgebiet zu untersagen.
+
+Kosten
+
+54
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Dritte Kammer) für Recht erkannt:
+
+ 	
+Die Richtlinie 92/49/EWG des Rates vom 18. Juni 1992 zur Koordinierung der Rechts- und Verwaltungsvorschriften für die Direktversicherung (mit Ausnahme der Lebensversicherung) sowie zur Änderung der Richtlinien 73/239/EWG und 88/357/EWG (Dritte Richtlinie Schadenversicherung) und insbesondere ihr Art. 40 Abs. 6 sind dahin auszulegen, dass sie dem entgegenstehen, dass die Aufsichtsbehörden eines Mitgliedstaats gegen ein im Staatsgebiet dieses Mitgliedstaats im Rahmen des freien Dienstleistungsverkehrs tätiges Direktversicherungsunternehmen, das kein Lebensversicherungsunternehmen ist, zum Schutz der Interessen der Versicherten und anderer zur Inanspruchnahme von Versicherungsleistungen Berechtigter Sofortmaßnahmen wie die Untersagung des Abschlusses neuer Verträge in diesem Staatsgebiet ergreifen, wenn sie im Rahmen ihres Beurteilungsspielraums feststellen, dass eine subjektive Voraussetzung für die Erteilung der für die Versicherungstätigkeit erforderlichen Zulassung wie die Voraussetzung der Zuverlässigkeit nicht oder nicht mehr erfüllt ist. Die Richtlinie hindert diesen Mitgliedstaat jedoch nicht daran, bei der Ausübung der ihm in dringenden Fällen selbst zustehenden Sonderrechte darzulegen, ob bestimmte Unzulänglichkeiten oder Unsicherheiten hinsichtlich der Zuverlässigkeit der Geschäftsführer des betreffenden Versicherungsunternehmens eine ernste und unmittelbare Gefahr erkennen lassen, dass Unregelmäßigkeiten zulasten der Interessen der Versicherten oder anderer zur Inanspruchnahme von Versicherungsleistungen Berechtigter eintreten, und in einem solchen Fall unmittelbar angemessene Maßnahmen zu treffen, wie gegebenenfalls den Abschluss neuer Verträge in seinem Staatsgebiet zu untersagen.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Italienisch.

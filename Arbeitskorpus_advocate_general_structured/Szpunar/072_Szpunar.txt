@@ -1,0 +1,232 @@
+URTEIL DES GERICHTSHOFS (Dritte Kammer)
+
+13. September 2017 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Anwendung der Systeme der sozialen Sicherheit – Wandererwerbstätige – Bestimmung der anzuwendenden Rechtsvorschriften – Verordnung (EWG) Nr. 1408/71 – Art. 14 Nr. 2 Buchst. b Ziff. i – Person, die gewöhnlich im Gebiet von zwei oder mehr Mitgliedstaaten abhängig beschäftigt ist – Person, die in einem Mitgliedstaat beschäftigt ist und einen Teil ihrer Tätigkeiten im Mitgliedstaat ihres Wohnsitzes ausübt“
+
+In der Rechtssache C‑570/15
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Hoge Raad der Nederlanden (Oberster Gerichtshof der Niederlande) mit Entscheidung vom 30. Oktober 2015, beim Gerichtshof eingegangen am 5. November 2015, in dem Verfahren
+
+X
+
+gegen
+
+Staatssecretaris van Financiën
+
+erlässt
+
+DER GERICHTSHOF (Dritte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten L. Bay Larsen (Berichterstatter) sowie der Richter M. Vilaras, J. Malenovský, M. Safjan und D. Šváby,
+
+Generalanwalt: M. Szpunar,
+
+Kanzler: M. Ferreira, Hauptverwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 14. Dezember 2016,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+von X, vertreten durch A. B. Bongers, belastingadviseur,
+
+–
+
+der niederländischen Regierung, vertreten durch M. Bulterman und M. Noort als Bevollmächtigte,
+
+–
+
+der belgischen Regierung, vertreten durch M. Jacobs und L. Van den Broeck als Bevollmächtigte,
+
+–
+
+der tschechischen Regierung, vertreten durch M. Smolek und J. Vláčil als Bevollmächtigte,
+
+–
+
+der Europäischen Kommission, vertreten durch D. Martin und M. van Beek als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 8. März 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 13 Abs. 2 Buchst. a und Art. 14 Nr. 2 Buchst. b Ziff. i der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern, in der durch die Verordnung (EG) Nr. 118/97 des Rates vom 2. Dezember 1996 (ABl. 1997, L 28, S. 1) geänderten und aktualisierten Fassung, die wiederum durch die Verordnung (EG) Nr. 592/2008 des Europäischen Parlaments und des Rates vom 17. Juni 2008 (ABl. 2008, L 177, S. 1) geändert wurde (im Folgenden: Verordnung Nr. 1408/71).
+
+2
+
+Dieses Ersuchen ergeht im Rahmen eines Rechtsstreits zwischen X und dem Staatssecretaris van Financiën (Staatssekretär für Finanzen, Niederlande) wegen eines Bescheids über Einkommensteuer und Sozialversicherungsbeiträge.
+
+Rechtlicher Rahmen
+
+3
+
+Art. 13 der Verordnung Nr. 1408/71 bestimmt:
+
+„(1)   Vorbehaltlich der Artikel 14c und 14f unterliegen Personen, für die diese Verordnung gilt, den Rechtsvorschriften nur eines Mitgliedstaats. Welche Rechtsvorschriften diese sind, bestimmt sich nach diesem Titel.
+
+(2)   Soweit nicht die Artikel 14 bis 17 etwas anderes bestimmen, gilt Folgendes:
+
+a)
+
+Eine Person, die im Gebiet eines Mitgliedstaats abhängig beschäftigt ist, unterliegt den Rechtsvorschriften dieses Staates, und zwar auch dann, wenn sie im Gebiet eines anderen Mitgliedstaats wohnt oder ihr Arbeitgeber oder das Unternehmen, das sie beschäftigt, seinen Wohnsitz oder Betriebssitz im Gebiet eines anderen Mitgliedstaats hat;
+
+…“
+
+4
+
+Art. 14 der Verordnung sieht vor:
+
+„Vom Grundsatz des Artikels 13 Absatz 2 Buchstabe a) gelten folgende Ausnahmen und Besonderheiten:
+
+…
+
+2.
+
+Eine Person, die gewöhnlich im Gebiet von zwei oder mehr Mitgliedstaaten abhängig beschäftigt ist, unterliegt den wie folgt bestimmten Rechtsvorschriften:
+
+…
+
+b)
+
+eine Person, die nicht unter Buchstabe a) fällt, unterliegt:
+
+i)
+
+den Rechtsvorschriften des Mitgliedstaats, in dessen Gebiet sie wohnt, wenn sie ihre Tätigkeit zum Teil im Gebiet dieses Staates ausübt oder wenn sie für mehrere Unternehmen oder mehrere Arbeitgeber tätig ist, die ihren Sitz oder Wohnsitz im Gebiet verschiedener Mitgliedstaaten haben;
+
+ii)
+
+den Rechtsvorschriften des Mitgliedstaats, in dessen Gebiet das Unternehmen oder der Arbeitgeber, das bzw. der sie beschäftigt, seinen Sitz oder Wohnsitz hat, sofern sie nicht im Gebiet eines der Mitgliedstaaten wohnt, in denen sie ihre Tätigkeit ausübt.
+
+…“
+
+5
+
+In Art. 14a Nr. 2 der Verordnung heißt es:
+
+„Eine Person, die eine selbständige Tätigkeit gewöhnlich im Gebiet von zwei oder mehr Mitgliedstaaten ausübt, unterliegt den Rechtsvorschriften des Mitgliedstaats, in dessen Gebiet sie wohnt, wenn sie ihre Tätigkeit zum Teil im Gebiet dieses Mitgliedstaats ausübt. …“
+
+Ausgangsrechtsstreit und Vorlagefrage
+
+6
+
+Im Jahr 2009 arbeitete X, ein niederländischer Staatsangehöriger mit Wohnsitz in Belgien, 1872 Stunden für einen in den Niederlanden ansässigen Arbeitgeber als Account-Manager/Beziehungsmanager Telekommunikation.
+
+7
+
+Von den 1872 Arbeitsstunden arbeitete er 121 in Belgien, was ungefähr 6,5 % seiner gesamten Arbeitszeit in dem Jahr entsprach. Es handelte sich um 17 Stunden für Kundenbesuche und 104 Stunden, in denen er zu Hause arbeitete. Diese Tätigkeiten wurden nicht nach einem bestimmten Arbeitsplan ausgeführt, und der Arbeitsvertrag sah keine Leistung in Belgien vor.
+
+8
+
+Die übrige der im Jahr 2009 für seinen Arbeitgeber ausgeübten Tätigkeit im Umfang von 1751 Stunden verrichtete X – entweder in den Büroräumen des Unternehmens oder bei potenziellen Kunden – in den Niederlanden.
+
+9
+
+Der Rechtsstreit zwischen X und dem Staatssekretär für Finanzen betrifft die Berechnung der Einkommensteuer und der Sozialversicherungsbeiträge für das Steuerjahr 2009.
+
+10
+
+Der mit einer Berufung gegen das Urteil der Rechtbank Zeeland-West-Brabant (Gericht Zeeland-West-Brabant, Niederlande) befasste Gerechtshof ‘s‑Hertogenbosch (Berufungsgericht Herzogenbusch, Niederlande) entschied, dass X im Jahr 2009 in Belgien nur punktuell tätig gewesen sei. Er kam deshalb zu dem Ergebnis, dass diese Tätigkeit bei der Bestimmung der im Bereich der sozialen Sicherheit anzuwendenden Rechtsvorschriften nicht zu berücksichtigen sei. Gemäß Art. 13 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 seien für das Steuerjahr 2009 somit ausschließlich die niederländischen Rechtsvorschriften anzuwenden.
+
+11
+
+Gegen dieses Urteil legte X bei dem vorlegenden Gericht Kassationsbeschwerde ein.
+
+12
+
+Vor diesem Hintergrund hat der Hoge Raad der Nederlanden (Oberster Gerichtshof der Niederlande) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Frage zur Vorabentscheidung vorzulegen:
+
+Nach welchem Maßstab oder welchen Maßstäben ist zu prüfen, welche Rechtsvorschriften die Verordnung Nr. 1408/71 im Fall eines in Belgien wohnhaften Arbeitnehmers als anwendbar bezeichnet, der den bei weitem größten Teil seiner Tätigkeiten für seinen niederländischen Arbeitgeber im Königreich der Niederlande ausführt und daneben 6,5 % dieser Tätigkeiten im betreffenden Jahr in Belgien – zu Hause und bei Kunden – verrichtet, ohne dass dabei von einem festen Muster gesprochen werden kann und ohne dass mit seinem Arbeitgeber Vereinbarungen über die Ausführung von Tätigkeiten in Belgien getroffen worden sind?
+
+Zur Vorlagefrage
+
+13
+
+Mit seiner Frage möchte das vorlegende Gericht wissen, ob Art. 14 Nr. 2 Buchst. b Ziff. i der Verordnung Nr. 1408/71 dahin auszulegen ist, dass eine Person wie die im Ausgangsverfahren in Rede stehende, die bei einem im Gebiet eines Mitgliedstaats ansässigen Arbeitgeber abhängig beschäftigt ist und in einem anderen Mitgliedstaat wohnt, in dessen Gebiet sie im abgelaufenen Jahr einen Teil dieser abhängigen Beschäftigung im Umfang von 6,5 % ihrer Arbeitszeit ausgeübt hat, ohne dass dies zuvor mit ihrem Arbeitgeber vereinbart worden war, als im Sinne dieser Vorschrift gewöhnlich im Gebiet von zwei Mitgliedstaaten abhängig beschäftigt anzusehen ist.
+
+14
+
+Insoweit ist darauf hinzuweisen, dass die Bestimmungen des Titels II der Verordnung Nr. 1408/71, zu dem Art. 14 Nr. 2 gehört, nach ständiger Rechtsprechung ein vollständiges und einheitliches System von Kollisionsnormen bilden, das bezweckt, die Arbeitnehmer, die innerhalb der Union zu- und abwandern, dem System der sozialen Sicherheit nur eines Mitgliedstaats zu unterwerfen, so dass die Kumulierung anwendbarer nationaler Rechtsvorschriften und die Schwierigkeiten, die sich daraus ergeben können, vermieden werden (Urteil vom 4. Oktober 2012, Format Urządzenia i Montaże Przemysłowe, C‑115/11, EU:C:2012:606, Rn. 29 und die dort angeführte Rechtsprechung).
+
+15
+
+Zu diesem Zweck wird in Art. 13 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 der Grundsatz aufgestellt, dass eine Person, die im Gebiet eines Mitgliedstaats abhängig beschäftigt ist, den Rechtsvorschriften dieses Staates unterliegt, und zwar auch dann, wenn sie im Gebiet eines anderen Mitgliedstaats wohnt (vgl. in diesem Sinne Urteil vom 4. Oktober 2012, Format Urządzenia i Montaże Przemysłowe, C‑115/11, EU:C:2012:606, Rn. 30).
+
+16
+
+Dieser Grundsatz gilt jedoch nur, „[s]oweit nicht die Artikel 14 bis 17 [der Verordnung Nr. 1408/71] etwas anderes bestimmen“. In der Tat könnte die ausnahmslose Anwendung des in Art. 13 Abs. 2 Buchst. a dieser Verordnung aufgestellten allgemeinen Grundsatzes in bestimmten Sonderfällen sowohl für den Arbeitnehmer als auch für den Arbeitgeber und die Sozialversicherungseinrichtungen zur Schaffung statt zur Vermeidung administrativer Schwierigkeiten führen, die eine Beeinträchtigung der Freizügigkeit der Personen bewirken würden, die unter die genannte Verordnung fallen (Urteil vom 4. Oktober 2012, Format Urządzenia i Montaże Przemysłowe, C‑115/11, EU:C:2012:606, Rn. 31).
+
+17
+
+Nach Art. 14 Nr. 2 Buchst. b Ziff. i der Verordnung Nr. 1408/71 unterliegt eine Person, die gewöhnlich im Gebiet von zwei oder mehr Mitgliedstaaten abhängig beschäftigt ist, den Rechtsvorschriften des Mitgliedstaats, in dessen Gebiet sie wohnt, wenn sie ihre Tätigkeit zum Teil im Gebiet dieses Staates ausübt.
+
+18
+
+Aus dieser Vorschrift, die von der allgemeinen Regel der Anknüpfung an den Beschäftigungsmitgliedstaat abweicht, ergibt sich, dass ihre Anwendung der Voraussetzung unterliegt, dass der Betroffene gewöhnlich im Gebiet von zwei oder mehr Mitgliedstaaten abhängig beschäftigt ist.
+
+19
+
+Diese Anforderung setzt indessen voraus, dass die betreffende Person gewohnheitsmäßig nennenswerte Tätigkeiten im Gebiet von zwei oder mehr Mitgliedstaaten verrichtet (vgl. in diesem Sinne Urteil vom 30. März 2000, Banks u. a., C‑178/97, EU:C:2000:169, Rn. 25).
+
+20
+
+Insoweit kann der Umstand, dass die betreffende Person nur punktuell Tätigkeiten im Gebiet eines Mitgliedstaats ausübt, für die Anwendung von Art. 14 Nr. 2 Buchst. b Ziff. i der Verordnung Nr. 1408/71 nicht berücksichtigt werden.
+
+21
+
+Bei der Beurteilung der Frage, ob eine Person als gewöhnlich im Gebiet von zwei oder mehr Mitgliedstaaten abhängig beschäftigt anzusehen ist oder ob es sich vielmehr um Tätigkeiten handelt, die nur punktuell auf das Gebiet mehrerer Mitgliedstaaten verteilt sind, ist insbesondere auf die Dauer der Beschäftigungszeiten und das Wesen der unselbständig verrichteten Arbeit, wie sie in den Vertragsunterlagen festgelegt sind, sowie gegebenenfalls die tatsächlich verrichtete Tätigkeit abzustellen (vgl. in diesem Sinne Urteile vom 12. Juli 1973, Hakenberg, 13/73, EU:C:1973:92, Rn. 20, und vom 4. Oktober 2012, Format Urządzenia i Montaże Przemysłowe, C‑115/11, EU:C:2012:606, Rn. 44).
+
+22
+
+Für die Beurteilung des gewohnheitsmäßigen und nennenswerten Charakters der im Gebiet von zwei oder mehr Mitgliedstaaten ausgeübten Tätigkeit ist darauf hinzuweisen, dass der Gerichtshof in seinem Urteil vom 16. Februar 1995, Calle Grenzshop Andresen (C‑425/93, EU:C:1995:37), entschieden hat, dass die Situation eines Arbeitnehmers, der in einem Mitgliedstaat wohnt und von einem Unternehmen mit Sitz in einem anderen Mitgliedstaat beschäftigt wird und der im Rahmen dieses Arbeitsverhältnisses einen Teil seiner Tätigkeit regelmäßig im Umfang von zehn Stunden pro Woche im Mitgliedstaat seines Wohnsitzes ausübt, unter Art. 14 Nr. 2 Buchst. b Ziff. i der Verordnung Nr. 1408/71 fällt.
+
+23
+
+Der Gerichtshof hat ferner entschieden, dass eine Person, die eine selbständige Tätigkeit jeweils etwa zur Hälfte im Gebiet des Mitgliedstaats ihres Wohnsitzes und im Gebiet eines anderen Mitgliedstaats ausübt, als eine Person anzusehen ist, die im Sinne von Art. 14a der Verordnung Nr. 1408/71 eine selbständige Tätigkeit gewöhnlich im Gebiet von zwei Mitgliedstaaten ausübt (vgl. in diesem Sinne Urteil vom 13. Oktober 1993, Zinnecker, C‑121/92, EU:C:1993:840, Rn. 15 bis 18).
+
+24
+
+Im vorliegenden Fall geht aus der Vorlageentscheidung hervor, dass der im Ausgangsverfahren in Rede stehende Arbeitsvertrag nicht vorsieht, dass X Leistungen im Gebiet des Mitgliedstaats seines Wohnsitzes erbringt. Ferner soll der Betroffene im fraglichen Jahr nur ungefähr 6,5 % seiner gesamten Arbeitszeit in diesem Mitgliedstaat geleistet haben, und zwar im Wesentlichen zu Hause.
+
+25
+
+Unter diesen Umständen kann nicht angenommen werden, dass eine Person wie die im Ausgangsverfahren in Rede stehende gewohnheitsmäßig eine nennenswerte Tätigkeit im Gebiet des Mitgliedstaats ihres Wohnsitzes verrichtet.
+
+26
+
+Diese Feststellung steht im Einklang mit dem System der Kollisionsnormen, das die Vorschriften in Titel II der Verordnung Nr. 1408/71 vorsehen.
+
+27
+
+Wie aus Art. 13 Abs. 2 Buchst. a der Verordnung hervorgeht, ist von der allgemeinen Regel der Anknüpfung an den Beschäftigungsmitgliedstaat nämlich nur in den Sonderfällen abzuweichen, in denen sich ein anderer Anknüpfungspunkt als zweckmäßiger erweist.
+
+28
+
+Könnte die Anwendung von Art. 14 Nr. 2 der Verordnung Nr. 1408/71 damit gerechtfertigt werden, dass eine Person von der gesamten Jahresarbeitszeit, die sie für ihren im Gebiet eines Mitgliedstaats ansässigen Arbeitgeber geleistet hat, nur 6,5 % im Gebiet eines anderen Mitgliedstaats – dem ihres Wohnsitzes – leistet, ohne dass dies zuvor mit dem Arbeitgeber vereinbart wurde, dann würde, wie der Generalanwalt in Nr. 29 seiner Schlussanträge ausgeführt hat, zum einen der Ausnahmecharakter der Anknüpfung an den Mitgliedstaat des Wohnsitzes verkannt und zum anderen die Gefahr einer Umgehung der Kollisionsnormen in Titel II der Verordnung geschaffen.
+
+29
+
+Nach alledem ist auf die Vorlagefrage zu antworten, dass Art. 14 Nr. 2 Buchst. b Ziff. i der Verordnung Nr. 1408/71 dahin auszulegen ist, dass eine Person wie die im Ausgangsverfahren in Rede stehende, die bei einem im Gebiet eines Mitgliedstaats ansässigen Arbeitgeber abhängig beschäftigt ist und in einem anderen Mitgliedstaat wohnt, in dessen Gebiet sie im abgelaufenen Jahr einen Teil dieser abhängigen Beschäftigung im Umfang von 6,5 % ihrer Arbeitszeit ausgeübt hat, ohne dass dies zuvor mit ihrem Arbeitgeber vereinbart worden war, nicht als im Sinne dieser Vorschrift gewöhnlich im Gebiet von zwei Mitgliedstaaten abhängig beschäftigt anzusehen ist.
+
+Kosten
+
+30
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem bei dem vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Dritte Kammer) für Recht erkannt:
+
+ 	
+Art. 14 Nr. 2 Buchst. b Ziff. i der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern, in der durch die Verordnung (EG) Nr. 118/97 des Rates vom 2. Dezember 1996 geänderten und aktualisierten Fassung, die wiederum durch die Verordnung (EG) Nr. 592/2008 des Europäischen Parlaments und des Rates vom 17. Juni 2008 geändert wurde, ist dahin auszulegen, dass eine Person wie die im Ausgangsverfahren in Rede stehende, die bei einem im Gebiet eines Mitgliedstaats ansässigen Arbeitgeber abhängig beschäftigt ist und in einem anderen Mitgliedstaat wohnt, in dessen Gebiet sie im abgelaufenen Jahr einen Teil dieser abhängigen Beschäftigung im Umfang von 6,5 % ihrer Arbeitszeit ausgeübt hat, ohne dass dies zuvor mit ihrem Arbeitgeber vereinbart worden war, nicht als im Sinne dieser Vorschrift gewöhnlich im Gebiet von zwei Mitgliedstaaten abhängig beschäftigt anzusehen ist.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Niederländisch.

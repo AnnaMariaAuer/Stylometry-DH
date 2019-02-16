@@ -1,0 +1,350 @@
+﻿URTEIL DES GERICHTSHOFS (Zweite Kammer)
+
+31. Mai 2018 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Niederlassungsfreiheit – Körperschaftsteuer – Regelung eines Mitgliedstaats – Feststellung des steuerpflichtigen Einkommens der Gesellschaften – Vorteil, den eine gebietsansässige Gesellschaft einer mit ihr verflochtenen nicht gebietsansässigen Gesellschaft unentgeltlich gewährt – Berichtigung der steuerpflichtigen Einkünfte der gebietsansässigen Gesellschaft – Nichtberichtigung der steuerpflichtigen Einkünfte im Fall eines identischen Vorteils, den eine gebietsansässige Gesellschaft einer anderen gebietsansässigen mit ihr verflochtenen Gesellschaft gewährt – Beschränkung der Niederlassungsfreiheit – Rechtfertigung“
+
+In der Rechtssache C‑382/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Finanzgericht Rheinland-Pfalz (Deutschland) mit Entscheidung vom 28. Juni 2016, beim Gerichtshof eingegangen am 11. Juli 2016, in dem Verfahren
+
+Hornbach-Baumarkt AG
+
+gegen
+
+Finanzamt Landau
+
+erlässt
+
+DER GERICHTSHOF (Zweite Kammer)
+
+unter Mitwirkung des Kammerpräsidenten M. Ilešič, des Richters A. Rosas (Berichterstatter), der Richterinnen C. Toader und A. Prechal sowie des Richters E. Jarašiūnas,
+
+Generalanwalt: M. Bobek,
+
+Kanzler: K. Malacek, Verwaltungsrat,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 27. September 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der Hornbach-Baumarkt AG, vertreten durch J. Uterhark und J. Nagler, Rechtsanwälte,
+
+–
+
+der deutschen Regierung, vertreten durch T. Henze und R. Kanitz als Bevollmächtigte,
+
+–
+
+der schwedischen Regierung, vertreten durch A. Falk, C. Meyer-Seitz, H. Shev, U. Persson, N. Otte Widgren, F. Bergius und L. Swedenborg als Bevollmächtigte,
+
+–
+
+der Europäischen Kommission, vertreten durch W. Roels und M. Wasmeier als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 14. Dezember 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 43 EG (jetzt Art. 49 AEUV) in Verbindung mit Art. 48 EG (jetzt Art. 54 AEUV).
+
+2
+
+Es ergeht im Rahmen eines Rechtsstreits zwischen der Hornbach-Baumarkt AG und dem Finanzamt Landau (Deutschland) (im Folgenden: Finanzamt) wegen der von diesem vorgenommenen Festlegung der Körperschaftsteuer und des Gewerbesteuermessbetrags dieser Gesellschaft für das Jahr 2003.
+
+Rechtlicher Rahmen
+
+3
+
+Das Gesetz über die Besteuerung bei Auslandsbeziehungen (Außensteuergesetz) in der Fassung des Gesetzes zum Abbau von Steuervergünstigungen und Ausnahmeregelungen vom 16. Mai 2003 (BGBl. 2003 I, S. 660) (im Folgenden: AStG) bestimmt in § 1 („Berichtigung von Einkünften“):
+
+„(1)   Werden Einkünfte eines Steuerpflichtigen aus Geschäftsbeziehungen mit einer ihm nahestehenden Person dadurch gemindert, dass er im Rahmen solcher Geschäftsbeziehungen zum Ausland Bedingungen vereinbart, die von denen abweichen, die voneinander unabhängige Dritte unter gleichen oder ähnlichen Verhältnissen vereinbart hätten, so sind seine Einkünfte unbeschadet anderer Vorschriften so anzusetzen, wie sie unter den zwischen unabhängigen Dritten vereinbarten Bedingungen angefallen wären.
+
+(2)   Dem Steuerpflichtigen ist eine Person nahestehend, wenn
+
+1.
+
+die Person an dem Steuerpflichtigen mindestens zu einem Viertel unmittelbar oder mittelbar beteiligt (wesentlich beteiligt) ist oder auf den Steuerpflichtigen unmittelbar oder mittelbar einen beherrschenden Einfluss ausüben kann oder umgekehrt der Steuerpflichtige an der Person wesentlich beteiligt ist oder auf diese Person unmittelbar oder mittelbar einen beherrschenden Einfluss ausüben kann oder
+
+2.
+
+eine dritte Person sowohl an der Person als auch an dem Steuerpflichtigen wesentlich beteiligt ist oder auf beide unmittelbar oder mittelbar einen beherrschenden Einfluss ausüben kann oder
+
+3.
+
+die Person oder der Steuerpflichtige imstande ist, bei der Vereinbarung der Bedingungen einer Geschäftsbeziehung auf den Steuerpflichtigen oder die Person einen außerhalb dieser Geschäftsbeziehung begründeten Einfluss auszuüben[,] oder wenn einer von ihnen ein eigenes Interesse an der Erzielung der Einkünfte des anderen hat.
+
+(3)   Ist bei in Absatz 1 genannten Einkünften eine Schätzung nach § 162 der Abgabenordnung vorzunehmen, so ist mangels anderer geeigneter Anhaltspunkte bei der Schätzung als Anhaltspunkt von einer Verzinsung für das im Unternehmen eingesetzte Kapital oder einer Umsatzrendite auszugehen, die nach Erfahrung und Üblichkeit unter normalen Umständen zu erwarten ist.
+
+(4)   Geschäftsbeziehung im Sinne der Absätze 1 und 2 ist jede den Einkünften zugrunde liegende schuldrechtliche Beziehung, die keine gesellschaftsvertragliche Vereinbarung ist und entweder beim Steuerpflichtigen oder bei der nahestehenden Person Teil einer Tätigkeit ist, auf die die §§ 13, 15, 18 oder 21 des Einkommensteuergesetzes anzuwenden sind oder im Fall eines ausländischen Nahestehenden anzuwenden wären, wenn die Tätigkeit im Inland vorgenommen würde.“
+
+Ausgangsrechtsstreit und Vorlagefrage
+
+4
+
+Die Hornbach-Baumarkt AG ist eine Aktiengesellschaft mit Sitz in Deutschland, die in diesem Mitgliedstaat und in anderen Mitgliedstaaten Baumärkte betreibt.
+
+5
+
+Im Jahr 2003 war die Hornbach-Baumarkt AG über ihre Tochtergesellschaft Hornbach International GmbH und deren niederländische Tochtergesellschaft Hornbach Holding BV mittelbar zu 100 % am Kapital der Hornbach Real Estate Groningen BV und der Hornbach Real Estate Wateringen BV, zweier Gesellschaften mit Sitz in den Niederlanden (im Folgenden: ausländische Konzerngesellschaften), beteiligt.
+
+6
+
+Die ausländischen Konzerngesellschaften hatten ein negatives Eigenkapital und waren für die Fortführung ihres Geschäftsbetriebs sowie für die Finanzierung der beabsichtigten Errichtung eines Bau- und Gartenmarkts auf Bankkredite in Höhe von 10057000 Euro in Bezug auf die Hornbach Real Estate Groningen BV und in Höhe von 14800000 Euro in Bezug auf die Hornbach Real Estate Wateringen BV angewiesen.
+
+7
+
+Die diese Gesellschaften finanzierende Bank hatte die Gewährung der Kredite von der Gestellung von Garantie- und Patronatserklärungen durch die Hornbach-Baumarkt AG abhängig gemacht.
+
+8
+
+Am 25. September 2002 gab die Hornbach-Baumarkt AG diese Patronatserklärungen ab, ohne hierfür ein Entgelt einzufordern.
+
+9
+
+In den Patronatserklärungen verpflichtete sich die Hornbach-Baumarkt AG gegenüber der finanzierenden Bank, ihre Beteiligung an der Hornbach Holding BV nicht zu veräußern oder zu verändern und ferner darauf hinzuwirken, dass die Hornbach Holding BV ihre Beteiligung an den ausländischen Konzerngesellschaften ebenfalls nicht veräußern oder verändern werde, ohne der Bank darüber mindestens drei Wochen vor einer Veräußerung oder Veränderung eine schriftliche Mitteilung zu machen.
+
+10
+
+Außerdem verpflichtete sich die Hornbach-Baumarkt AG unwiderruflich und unbedingt, die ausländischen Konzerngesellschaften finanziell so ausgestattet zu halten, dass sie in der Lage seien, ihre sämtlichen Verbindlichkeiten zu erfüllen. Deshalb werde sie, sollte dies notwendig werden, diesen Gesellschaften die finanziellen Mittel zur Verfügung stellen, um ihnen zu ermöglichen, ihre Verbindlichkeiten gegenüber der finanzierenden Bank zu erfüllen. Darüber hinaus werde die Hornbach-Baumarkt AG dafür Sorge tragen, dass diese finanziellen Mittel zur Begleichung der Verbindlichkeit gegenüber der Bank eingesetzt würden.
+
+11
+
+Da das Finanzamt davon ausging, dass voneinander unabhängige Dritte unter gleichen oder ähnlichen Umständen eine Haftungsvergütung vereinbart hätten, entschied es, dass die Einkünfte der Hornbach-Baumarkt AG gemäß § 1 Abs. 1 und 4 AStG um einen Betrag erhöht werden müssten, der der angenommenen Haftungsvergütung entspreche, und es änderte die Körperschaftsteuer und den Gewerbesteuermessbetrag dieser Gesellschaft für das Jahr 2003. Dabei nahm das Finanzamt Einkünftekorrekturen um 15253 Euro und um 22447 Euro aufgrund der für die Hornbach Real Estate Groningen BV bzw. für die Hornbach Real Estate Wateringen BV abgegebenen Garantien vor.
+
+12
+
+Da das Finanzamt die gegen diese berichtigenden Bescheide eingelegten Einsprüche als unbegründet zurückgewiesen hatte, erhob die Hornbach-Baumarkt AG gegen diese Bescheide Klage beim Finanzgericht Rheinland-Pfalz (Deutschland).
+
+13
+
+Im Rahmen dieses Klageverfahrens machte die Hornbach-Baumarkt AG geltend, § 1 AStG führe zu einer Ungleichbehandlung von in- und ausländischem Sachverhalt, weil bei rein inländischen Sachverhalten keine Berichtigung der Höhe der Einkünfte erfolge, um die angenommene Haftungsvergütung für die den Tochtergesellschaften gewährten Garantien zu berücksichtigen.
+
+14
+
+In diesem Zusammenhang ergebe sich insbesondere aus dem Urteil vom 21. Januar 2010, SGI (C‑311/08, EU:C:2010:26), in Bezug auf eine Bestimmung des belgischen Steuerrechts, die § 1 AStG entspreche, dass diese Bestimmung als Beschränkung der Niederlassungsfreiheit anzusehen sei, die aufgrund ihrer Unverhältnismäßigkeit nicht gerechtfertigt sei. Entgegen den sich aus diesem Urteil ergebenden Anforderungen enthalte § 1 AStG nämlich keine Bestimmung, die die Möglichkeit einräume, wirtschaftliche Gründe zur Rechtfertigung eines nicht fremdüblichen Geschäfts beizubringen. Vorliegend rechtfertigten wirtschaftliche Gründe die Tatsache, dass für die im Ausgangsverfahren in Rede stehenden Patronatserklärungen kein Entgelt vorgesehen gewesen sei. Es handele sich um eigenkapitalersetzende Stützungsmaßnahmen zugunsten der ausländischen Konzerngesellschaften.
+
+15
+
+Das Finanzamt wendet hierzu ein, wenn auch § 1 AStG keine eigenständige Regelung zum Vorbringen von Beweisen für etwaige wirtschaftliche Gründe für den Abschluss des Geschäfts enthalte, so habe der Steuerpflichtige jedoch die Möglichkeit, Beweise für die Angemessenheit des abgeschlossenen Geschäfts vorzubringen.
+
+16
+
+Dem vorlegenden Gericht zufolge ist das Finanzamt zu Recht davon ausgegangen, dass die zwischen der Hornbach-Baumarkt AG und den ausländischen Konzerngesellschaften vereinbarten Bedingungen von denjenigen Bedingungen abwichen, die voneinander unabhängige Dritte unter gleichen oder ähnlichen Verhältnissen vereinbart hätten. Voneinander unabhängige Geschäftspartner würden für die Abgabe einer Garantie- und Patronatserklärung wegen des für den Patron hiermit verbundenen Haftungsrisikos nämlich ein Entgelt vereinbaren. Die tatbestandlichen Voraussetzungen von § 1 Abs. 1 in Verbindung mit Abs. 2 Nr. 1 3. Alt. AStG für eine Einkünftekorrektur bei der Hornbach-Baumarkt AG seien damit erfüllt.
+
+17
+
+Das vorlegende Gericht hat jedoch Zweifel an der Vereinbarkeit einer Regelung wie der des Ausgangsverfahrens mit der Niederlassungsfreiheit.
+
+18
+
+In dieser Hinsicht weist es darauf hin, dass gemäß § 1 Abs. 1 AStG die durch die Vereinbarung von nicht fremdüblichen Bedingungen geminderten Einkünfte eines gebietsansässigen Steuerpflichtigen des betreffenden Mitgliedstaats nur dann in dieser Weise berichtigt würden, wenn die nahestehende Person in einem anderen Mitgliedstaat niedergelassen sei. Handele es sich bei dieser nahestehenden Person hingegen um eine Tochtergesellschaft des Steuerpflichtigen, die im Gebiet des Mitgliedstaats niedergelassen sei, in dem der Steuerpflichtige ansässig sei, so erfolge weder nach § 1 Abs. 1 AStG noch nach einer anderen nationalen Regelung eine Einkünftekorrektur.
+
+19
+
+Daraus ergebe sich, dass ein im betreffenden Mitgliedstaat ansässiger Steuerpflichtiger im Fall einer Beteiligung an einer in einem anderen Mitgliedstaat niedergelassenen Gesellschaft weniger günstig behandelt wird als im Fall der Beteiligung an einer gebietsansässigen Gesellschaft. Das vorlegende Gericht geht daher davon aus, dass § 1 Abs. 1 AStG eine Beschränkung der Niederlassungsfreiheit des gebietsansässigen Steuerpflichtigen bewirke, die gemäß Art. 43 EG (jetzt Art. 49 AEUV) verboten sei.
+
+20
+
+In dieser Hinsicht gehe aus dem Urteil vom 21. Januar 2010, SGI (C‑311/08, EU:C:2010:26), hervor, dass die Regelung eines Mitgliedstaats, die Unterschiede in der steuerlichen Behandlung von gebietsansässigen Gesellschaften schaffe, je nachdem, ob die Gesellschaften, denen sie außergewöhnliche und unentgeltliche Vorteile gewährt hätten und mit denen sie verflochten seien, in diesem Mitgliedstaat niedergelassen seien oder nicht, grundsätzlich eine Beschränkung der Niederlassungsfreiheit darstelle, dass sie aber die berechtigten Ziele der Notwendigkeit der Wahrung einer ausgewogenen Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten und der Notwendigkeit der Verhinderung einer Steuerumgehung verfolge.
+
+21
+
+Das vorlegende Gericht fragt sich allerdings, ob eine Regelung wie § 1 Abs. 1 AStG mit dem Grundsatz der Verhältnismäßigkeit vereinbar ist.
+
+22
+
+Wenn nicht ausgeschlossen werden könne, dass ein Geschäft nicht einem geschäftlichen Vorgang unter Marktbedingungen entspreche, sei es im Sinne von Rn. 71 des Urteils vom 21. Januar 2010, SGI (C‑311/08, EU:C:2010:26), zur Einhaltung des Grundsatzes der Verhältnismäßigkeit erforderlich, dass dem Steuerpflichtigen, ohne ihn übermäßigen Verwaltungszwängen zu unterwerfen, die Möglichkeit eingeräumt werde, Beweise für etwaige wirtschaftliche Gründe für den Abschluss dieses Geschäfts beizubringen.
+
+23
+
+Das vorlegende Gericht fragt sich aber, ob die wirtschaftlichen Gründe, die für den Abschluss eines Geschäfts zu nicht fremdüblichen Bedingungen vorgebracht werden könnten, mit der Beteiligung der Hornbach-Baumarkt AG an den ausländischen Konzerngesellschaften zusammenhängen könnten, insbesondere in den Fällen, in denen der Tochtergesellschaft durch eine Bank Fremdkapital für eine Kapitalerhöhung zugeführt werde. Die Muttergesellschaft habe nämlich ein wirtschaftliches Eigeninteresse am geschäftlichen Erfolg ihrer Tochtergesellschaft, und sie trage im Übrigen gegebenenfalls eine Verantwortung hinsichtlich der Finanzierung dieser Tochtergesellschaft.
+
+24
+
+Zwar habe der Steuerpflichtige nach deutschem Recht die Möglichkeit, Gründe dafür darzulegen und nachzuweisen, dass die mit der ausländischen Gesellschaft vereinbarten Bedingungen den Bedingungen entsprächen, die auch voneinander unabhängige Dritte unter gleichen oder ähnlichen Verhältnissen vereinbart hätten. § 1 Abs. 1 AStG sehe jedoch für den Steuerpflichtigen nicht die Möglichkeit vor, wirtschaftliche Gründe für den Abschluss eines Geschäfts zu nicht fremdüblichen Bedingungen geltend zu machen, wenn diese Gründe auf den Verflechtungen zwischen den betreffenden Personen beruhten.
+
+25
+
+Das vorlegende Gericht hält es daher für klärungsbedürftig, ob eine Rechtsvorschrift wie § 1 Abs. 1 in Verbindung mit Abs. 2 Nr. 1 3. Alt. AStG den unionsrechtlichen Anforderungen an die Möglichkeit des Vorbringens von wirtschaftlichen Gründen für das Abweichen einer zwischen verflochtenen Personen begründeten Geschäftsbeziehung vom Fremdüblichen genügt.
+
+26
+
+Unter diesen Umständen hat das Finanzgericht Rheinland-Pfalz (Deutschland) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Frage zur Vorabentscheidung vorzulegen:
+
+Steht Art. 49 AEUV (früher Art. 43 EG) in Verbindung mit Art. 54 AEUV (früher Art. 48 EG) der Regelung eines Mitgliedstaats entgegen, nach welcher Einkünfte eines gebietsansässigen Steuerpflichtigen aus Geschäftsbeziehungen mit einer in einem anderen Mitgliedstaat ansässigen Gesellschaft, an der er mindestens zu einem Viertel unmittelbar oder mittelbar beteiligt ist und mit der er Bedingungen vereinbart hat, die von denen abweichen, die voneinander unabhängige Dritte unter gleichen oder ähnlichen Verhältnissen vereinbart hätten, so anzusetzen sind, wie sie unter den zwischen unabhängigen Dritten vereinbarten Bedingungen angefallen wären, wenn eine solche Korrektur in Bezug auf Einkünfte aus Geschäftsbeziehungen mit einer gebietsansässigen Gesellschaft nicht erfolgt und die Regelung dem gebietsansässigen Steuerpflichtigen nicht die Möglichkeit des Nachweises einräumt, dass die Bedingungen aus wirtschaftlichen Gründen, die sich aus seiner Stellung als Gesellschafter der in dem anderen Mitgliedstaat ansässigen Gesellschaft ergeben, vereinbart wurden?
+
+Zur Vorlagefrage
+
+27
+
+Mit seiner Frage möchte das vorlegende Gericht wissen, ob Art. 43 EG (jetzt Art. 49 AEUV) in Verbindung mit Art. 48 EG (jetzt Art. 54 AEUV) dahin auszulegen ist, dass er einer nationalen Regelung wie der im Ausgangsverfahren in Rede stehenden entgegensteht, nach der die Einkünfte einer in einem Mitgliedstaat ansässigen Gesellschaft, die einer in einem anderen Mitgliedstaat niedergelassenen mit ihr verflochtenen Gesellschaft unter Bedingungen Vorteile gewährt hat, die von denen abweichen, die voneinander unabhängige Dritte unter gleichen oder ähnlichen Verhältnissen vereinbart hätten, so anzusetzen sind, wie sie angefallen wären, wenn die zwischen solchen Dritten vereinbarten Bedingungen anwendbar gewesen wären, und zu berichtigen sind, während eine solche Berichtigung der steuerpflichtigen Einkünfte nicht erfolgt, wenn eine gebietsansässige Gesellschaft einer anderen gebietsansässigen mit ihr verflochtenen Gesellschaft dieselben Vorteile gewährt hat, und diese Regelung dem gebietsansässigen Steuerpflichtigen nicht die Möglichkeit des Nachweises einräumt, dass die Bedingungen aus wirtschaftlichen Gründen vereinbart wurden, die sich aus seiner Stellung als Gesellschafter der gebietsfremden Gesellschaft ergeben.
+
+28
+
+Nach ständiger Rechtsprechung des Gerichtshofs fällt eine nationale Regelung, die nur auf Beteiligungen anwendbar ist, die es ermöglichen, einen sicheren Einfluss auf die Entscheidungen einer Gesellschaft auszuüben und deren Tätigkeiten zu bestimmen, in den Anwendungsbereich der Niederlassungsfreiheit (Urteile vom 13. November 2012, Test Claimants in the FII Group Litigation, C‑35/11, EU:C:2012:707, Rn. 91, vom 5. Februar 2014, Hervis Sport- és Divatkereskedelmi, C‑385/12, EU:C:2014:47, Rn. 22, und vom 10. Juni 2015, X, C‑686/13, EU:C:2015:375, Rn. 18).
+
+29
+
+Die dritte Alternative des § 1 Abs. 2 Nr. 1 AStG betrifft den Fall, dass ein gebietsansässiger Steuerpflichtiger eine Beteiligung von mindestens 25 % des Kapitals einer Gesellschaft hält, die in einem anderen Mitgliedstaat niedergelassen ist als dem, in dem der Steuerpflichtige ansässig ist, und zwar eine Beteiligung, die es dem Steuerpflichtigen ermöglicht, einen sicheren Einfluss auf die betreffende Gesellschaft auszuüben.
+
+30
+
+Wie das vorlegende Gericht hervorgehoben hat, hielt im Ausgangsverfahren die Hornbach-Baumarkt AG mittelbar eine Beteiligung von 100 % des Kapitals der ausländischen Konzerngesellschaften und konnte daher einen sicheren Einfluss auf deren Entscheidungen und Tätigkeiten ausüben.
+
+31
+
+Die im Ausgangsverfahren in Rede stehende nationale Regelung ist daher im Licht der Bestimmungen des EG-Vertrags über die Niederlassungsfreiheit zu prüfen.
+
+32
+
+Nach ständiger Rechtsprechung verbieten es die Vertragsbestimmungen über die Niederlassungsfreiheit, dass der Herkunftsmitgliedstaat die Niederlassung einer nach seinem Recht gegründeten Gesellschaft – insbesondere durch eine Tochtergesellschaft – in einem anderen Mitgliedstaat behindert. Die Niederlassungsfreiheit wird behindert, wenn nach der Steuerregelung eines Mitgliedstaats eine gebietsansässige Gesellschaft, die eine Tochtergesellschaft in einem anderen Mitgliedstaat unterhält, steuerlich ungünstiger behandelt wird als eine gebietsansässige Gesellschaft mit einer Tochtergesellschaft im erstgenannten Mitgliedstaat (Urteil vom 21. Dezember 2016, Masco Denmark und Damixa, C‑593/14, EU:C:2016:984, Rn. 24 und 25)
+
+33
+
+Vorliegend erfolgt nach Angaben des vorlegenden Gerichts eine Berichtigung der Einkünfte eines Steuerpflichtigen gemäß § 1 Abs. 1 AStG nur im Rahmen von Geschäftsbeziehungen dieses Steuerpflichtigen mit dem Ausland. Die Einkünfte eines gebietsansässigen Steuerpflichtigen, die durch die Vereinbarung von nicht fremdüblichen Bedingungen mit einer nahestehenden Person gemindert wurden, werden daher nur berichtigt, wenn diese Person außerhalb des nationalen Hoheitsgebiets niedergelassen ist. Handelt es sich bei der nahestehenden Person hingegen um eine im nationalen Hoheitsgebiet niedergelassene Tochtergesellschaft des Steuerpflichtigen, erfolgt weder nach § 1 Abs. 1 AStG noch nach einer anderen nationalen Regelung eine Einkünftekorrektur.
+
+34
+
+Folglich wird eine im betreffenden Mitgliedstaat ansässige Muttergesellschaft, die eine Beteiligung an einer in einem anderen Mitgliedstaat niedergelassenen Gesellschaft hält, ungünstiger behandelt, als wenn sie eine Beteiligung an einer gebietsansässigen Gesellschaft hielte.
+
+35
+
+Nach der Rechtsprechung des Gerichtshofs können derartige Unterschiede in der steuerlichen Behandlung von Steuerpflichtigen, je nach dem Ort des Sitzes der Gesellschaften, mit denen die nicht fremdüblichen Bedingungen vereinbart wurden, eine Beschränkung der Niederlassungsfreiheit im Sinne von Art. 43 EG darstellen. Der Steuerpflichtige könnte sich nämlich dazu veranlasst sehen, von dem Erwerb, der Gründung oder der Aufrechterhaltung einer Tochtergesellschaft in einem anderen Mitgliedstaat als dem seiner Niederlassung oder von dem Erwerb oder der Aufrechterhaltung einer wesentlichen Beteiligung an einer in diesem anderen Mitgliedstaat niedergelassenen Gesellschaft aufgrund der steuerlichen Belastung abzusehen, die in einer grenzüberschreitenden Situation mit der Gewährung von nicht fremdüblichen Bedingungen verbunden ist (vgl. in diesem Sinne Urteil vom 21. Januar 2010, SGI, C‑311/08, EU:C:2010:26, Rn. 44).
+
+36
+
+Nach ständiger Rechtsprechung des Gerichtshofs ist eine steuerliche Maßnahme, die geeignet ist, die in Art. 43 EG verankerte Niederlassungsfreiheit zu beschränken, nur statthaft, wenn sie Situationen betrifft, die nicht objektiv miteinander vergleichbar sind, oder wenn sie durch vom Unionsrecht anerkannte zwingende Gründe des Allgemeininteresses gerechtfertigt ist. In diesem Fall muss die Beschränkung aber außerdem geeignet sein, die Erreichung des fraglichen Ziels zu gewährleisten, und darf nicht über das hinausgehen, was zur Erreichung dieses Ziels erforderlich ist (vgl. in diesem Sinne Urteile vom 29. November 2011, National Grid Indus, C‑371/10, EU:C:2011:785, Rn. 42, vom 17. Dezember 2015, Timac Agro Deutschland, C‑388/14, EU:C:2015:829, Rn. 26 und 29, vom 21. Dezember 2016, Masco Denmark und Damixa, C‑593/14, EU:C:2016:984, Rn. 28, sowie vom 23. November 2017, A, C‑292/16, EU:C:2017:888, Rn. 28).
+
+37
+
+Gemäß der im Ausgangsverfahren in Rede stehenden nationalen Regelung wird eine gebietsansässige Gesellschaft besteuert, wenn sie einer mit ihr verbundenen gebietsfremden Gesellschaft Vorteile zu Bedingungen einräumt, die nicht den Marktbedingungen entsprechen, so dass das im betreffenden Mitgliedstaat steuerpflichtige Einkommen der gebietsansässigen Gesellschaft gemindert sein kann.
+
+38
+
+Der deutschen Regierung zufolge unterscheidet sich die steuerliche Situation einer gebietsansässigen Muttergesellschaft, je nachdem, ob sie Geschäftsbeziehungen mit einer gebietsfremden oder mit einer gebietsansässigen Tochtergesellschaft unterhalte. Die Bundesrepublik Deutschland verfüge nämlich über keine Besteuerungsbefugnis über die Einkünfte von in anderen Mitgliedstaaten niedergelassenen Tochtergesellschaften.
+
+39
+
+Der Verzicht auf eine Korrektur bei einer Muttergesellschaft in Bezug auf Einkünfte aus Geschäftsbeziehungen mit reinem Inhaltssachverhalt liege in dem Umstand begründet, dass der von dieser Muttergesellschaft unentgeltlich gewährte Vorteil die Einkünfte ihrer Tochtergesellschaft erhöhe und die Bundesrepublik Deutschland sowohl die Einkünfte der Muttergesellschaft als auch den Gewinn der in ihrem Hoheitsgebiet niedergelassenen Tochtergesellschaft besteuere. Anders verhalte es sich bei den in den Niederlanden niedergelassenen Tochtergesellschaften der Hornbach-Baumarkt AG, da die Bundesrepublik Deutschland deren Gewinne nicht besteuern könne.
+
+40
+
+Dazu ist festzustellen, dass es sich bei diesen Argumenten nicht um die Frage der Vergleichbarkeit der Situationen handelt, sondern um Rechtfertigungen, die auf den Grundsatz der Territorialität gestützt sind, dem zufolge die Mitgliedstaaten berechtigt sind, die in ihrem Hoheitsgebiet erzielten Einkünfte zu besteuern, oder um Rechtfertigungen, die mit der Notwendigkeit der Wahrung der Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten verbunden sind, bei der es sich um ein vom Gerichtshof anerkanntes legitimes Ziel handelt (vgl. in diesem Sinne Urteile vom 17. Juli 2014, Nordea Bank Danmark, C‑48/13, EU:C:2014:2087, Rn. 27, und vom 23. November 2017, A, C‑292/16, EU:C:2017:888, Rn. 30).
+
+41
+
+In dieser Hinsicht machen sowohl die deutsche als auch die schwedische Regierung geltend, dass eine Regelung wie die im Ausgangsverfahren in Rede stehende durch den in der Wahrung einer ausgewogenen Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten liegenden zwingenden Grund des Allgemeininteresses gerechtfertigt sei, und berufen sich in dieser Hinsicht auf das Urteil vom 21. Januar 2010, SGI (C‑311/08, EU:C:2010:26, Rn. 69).
+
+42
+
+Die schwedische Regierung hebt darüber hinaus hervor, dass die Bestimmungen des deutschen Rechts, in denen das sogenannte Arm’s‑length-Prinzip zum Ausdruck komme, eine natürliche Folge des Grundsatzes der Territorialität seien und dass sie erforderlich dafür seien, dass dieses Prinzip und eine ausgewogene Aufteilung der Besteuerungsbefugnis gewährleistet werden könnten.
+
+43
+
+Nach ständiger Rechtsprechung kann die Notwendigkeit, eine ausgewogene Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten zu wahren, eine Ungleichbehandlung dann rechtfertigen, wenn mit der untersuchten Regelung Verhaltensweisen verhindert werden sollen, die geeignet sind, das Recht eines Mitgliedstaats auf Ausübung seiner Besteuerungszuständigkeit für die in seinem Hoheitsgebiet durchgeführten Tätigkeiten zu gefährden (Urteile vom 29. März 2007, Rewe Zentralfinanz, C‑347/04, EU:C:2007:194, Rn. 42, vom 18. Juli 2007, Oy AA, C‑231/05, EU:C:2007:439, Rn. 54, vom 21. Februar 2013, A, C‑123/11, EU:C:2013:84, Rn. 41, sowie vom 21. Dezember 2016, Masco Denmark und Damixa, C‑593/14, EU:C:2016:984, Rn. 35).
+
+44
+
+Der Gerichtshof hat festgestellt, dass es zu einer Beeinträchtigung der ausgewogenen Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten kommen kann, wenn den gebietsansässigen Gesellschaften eines Mitgliedstaats erlaubt würde, ihre Gewinne in Form von außergewöhnlichen oder unentgeltlichen Vorteilen auf mit ihnen verflochtene Gesellschaften, die in anderen Mitgliedstaaten niedergelassen sind, zu übertragen, und dass die Regelung eines Mitgliedstaats, die die Besteuerung solcher Vorteile bei der gebietsansässigen Gesellschaft vorsieht, die diese einer in einem anderen Mitgliedstaat niedergelassenen Gesellschaft gewährt hat, dem ersten Mitgliedstaat ermöglicht, seine Steuerhoheit für die in seinem Hoheitsgebiet durchgeführten Tätigkeiten auszuüben. Zudem verfolgt eine solche nationale Regelung berechtigte und mit dem Vertrag zu vereinbarende Ziele, die zwingenden Gründen des Allgemeininteresses entsprechen, und ist zur Erreichung dieser Ziele geeignet (vgl. in diesem Sinne Urteil vom 21. Januar 2010, SGI, C‑311/08, EU:C:2010:26, Rn. 63, 64 und 69).
+
+45
+
+Dies gilt auch für die im Ausgangsverfahren in Rede stehende nationale Regelung. Gewährt nämlich eine gebietsansässige Gesellschaft einer mit ihr verflochtenen in einem anderen Mitgliedstaat niedergelassenen Gesellschaft Vorteile unter Bedingungen, die nicht auf Marktbedingungen beruhen, könnte der gebietsansässigen Gesellschaft die Übertragung der Gewinne in Form von Vorteilen an ihre gebietsfremde Tochtergesellschaft ermöglicht und die ausgewogene Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten beeinträchtigt werden.
+
+46
+
+Indem die im Ausgangsverfahren in Rede stehende Regelung die Besteuerung der im betreffenden Mitgliedstaat ansässigen Gesellschaft in Höhe des angenommenen Entgelts für den Vorteil vorsieht, den diese Gesellschaft einer mit ihr verflochtenen, in einem anderen Mitgliedstaat niedergelassenen Gesellschaft ohne Gegenleistung gewährt hat, um den Betrag zu berücksichtigen, den die Muttergesellschaft als Teil ihrer Gewinne hätte angeben müssen, wäre das Geschäft unter Marktbedingungen abgeschlossen worden, ermöglicht sie dem erstgenannten Mitgliedstaat die Ausübung seiner Steuerhoheit für die in seinem Hoheitsgebiet durchgeführten Tätigkeiten.
+
+47
+
+Eine nationale Regelung wie die im Ausgangsverfahren in Rede stehende, die verhindern soll, dass in dem betreffenden Mitgliedstaat erzielte Gewinne im Wege von Geschäften, die nicht auf Marktbedingungen beruhen, unversteuert aus dem Steuerhoheitsgebiet dieses Staates hinaus transferiert werden, ist daher geeignet, die Wahrung der Aufteilung der Steuerhoheit zwischen den Mitgliedstaaten sicherzustellen.
+
+48
+
+Schließlich ist zu prüfen, ob eine solche nationale Regelung nicht über das hinausgeht, was zur Erreichung des verfolgten Ziels erforderlich ist.
+
+49
+
+In dieser Hinsicht hat der Gerichtshof festgestellt, dass eine nationale Regelung, die eine Prüfung objektiver und nachprüfbarer Umstände vorsieht, damit festgestellt werden kann, ob ein geschäftlicher Vorgang eine rein künstliche Konstruktion zu steuerlichen Zwecken darstellt, nicht über das hinausgeht, was zur Erreichung der Ziele der Notwendigkeit, die Ausgewogenheit der Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten zu wahren, und der Notwendigkeit, Steuerumgehungen zu verhindern, erforderlich ist, wenn erstens in jedem Fall, in dem der Verdacht besteht, dass ein geschäftlicher Vorgang über das hinausgeht, was die betreffenden Gesellschaften unter Marktbedingungen vereinbart hätten, dem Steuerpflichtigen, ohne ihn übermäßigen Verwaltungszwängen zu unterwerfen, die Möglichkeit eingeräumt wird, Beweise für etwaige wirtschaftliche Gründe für den Abschluss dieses Geschäfts beizubringen. Zweitens muss sich die steuerliche Berichtigung gegebenenfalls auf den Teil beschränken, der über das hinausgeht, was die betreffenden Gesellschaften unter Marktbedingungen vereinbart hätten (Urteil vom 21. Januar 2010, SGI, C‑311/08, EU:C:2010:26, Rn. 71 und 72).
+
+50
+
+Was zunächst die Berechnung des Betrags der Berichtigung der Einkünfte des betreffenden Steuerpflichtigen angeht, ist hervorzuheben, dass diese Frage von der Hornbach-Baumarkt AG und dem Finanzamt vor dem Gerichtshof nicht erörtert wurde. Allerdings hat die deutsche Regierung unwidersprochen geltend gemacht, dass sich die Berichtigungen, die die deutschen Steuerbehörden in Fällen wie denen des Ausgangsverfahrens vornähmen, auf den Teil beschränkten, der über das hinausgehe, was ohne die gegenseitige Verflechtung zwischen den betreffenden Gesellschaften vereinbart worden wäre.
+
+51
+
+Was sodann die Möglichkeit angeht – die dem Steuerpflichtigen offenstehen muss –, Nachweise zu möglichen wirtschaftlichen Gründen zu führen, um den Abschluss von Geschäften unter nicht fremdüblichen Bedingungen zu rechtfertigen, geht es bei der Frage des vorlegenden Gerichts insbesondere darum, ob diese wirtschaftlichen Gründe solche umfassen können, die sich aus dem alleinigen Vorliegen von Verflechtungen zwischen der im betreffenden Mitgliedstaat ansässigen Muttergesellschaft und ihren in einem anderen Mitgliedstaat ansässigen Tochtergesellschaften ergeben.
+
+52
+
+Der deutschen Regierung zufolge ist der Begriff „wirtschaftliche Gründe“ nach Rn. 71 des Urteils vom 21. Januar 2010, SGI (C‑311/08, EU:C:2010:26), unter Berücksichtigung des Grundsatzes des freien Wettbewerbs auszulegen, der naturgemäß die Statthaftigkeit von wirtschaftlichen Gründen ausschließe, die sich aus der Stellung als Gesellschafter ergäben. Zur Beurteilung der Verhältnismäßigkeit einer Regelung wie der im Ausgangsverfahren in Rede stehenden sei außerdem zwischen der Möglichkeit, die Gründe für die Gewährung von unentgeltlichen Vorteilen zwischen Gesellschaften derselben Gruppe vorzubringen, und der Prüfung der Begründetheit dieser Gründe zu unterscheiden. Die Hornbach-Baumarkt AG habe die Gelegenheit gehabt, die Gründe für ihre Entscheidung darzulegen. Sie habe jedoch nicht nachzuweisen vermocht, dass diese wirtschaftlichen Gründen entsprächen.
+
+53
+
+In der vorliegenden Rechtssache geht aber aus der Vorlageentscheidung hervor, dass die ausländischen Konzerngesellschaften über ein negatives Eigenkapital verfügten und dass die finanzierende Bank die Gewährung der für die Fortführung und Erweiterung des Geschäftsbetriebs dieser Gesellschaften erforderlichen Kredite von der Gestellung einer Patronatserklärung durch die Hornbach-Baumarkt AG abhängig gemacht hatte.
+
+54
+
+Ist die Tochtergesellschaft für die Erweiterung ihres Geschäftsbetriebs auf die Zuführung von Kapital angewiesen, weil sie über kein ausreichendes Eigenkapital verfügt, so können wirtschaftliche Gründe die Überlassung von Kapital durch die Muttergesellschaft unter nicht fremdüblichen Bedingungen rechtfertigen.
+
+55
+
+Im Übrigen wurde in der vorliegenden Rechtssache keine Gefahr einer Steuerumgehung geltend gemacht. Die deutsche Regierung hat weder das Vorliegen einer rein künstlichen Gestaltung im Sinne der Rechtsprechung des Gerichtshofs angeführt, noch die Absicht der Klägerin des Ausgangsverfahrens, ihre in Deutschland steuerpflichtigen Gewinne zu mindern.
+
+56
+
+Unter diesen Umständen könnten mit der von der Hornbach-Baumarkt AG eingenommenen Stellung als Gesellschafterin der ausländischen Konzerngesellschaften zusammenhängende wirtschaftliche Gründe den Abschluss des im Ausgangsverfahren in Rede stehenden Geschäfts unter nicht fremdüblichen Bedingungen rechtfertigen. Da nämlich die Fortführung oder Ausweitung des Geschäftsbetriebs dieser ausländischen Gesellschaften mangels ausreichendem Eigenkapital von einer Zuführung von Kapital abhing, ließe sich die unentgeltliche Abgabe von Garantie- und Patronatserklärungen – obgleich voneinander unabhängige Gesellschaften eine Haftungsvergütung für solche Garantien vereinbart hätten – durch das wirtschaftliche Eigeninteresse der Hornbach-Baumarkt AG am geschäftlichen Erfolg der ausländischen Konzerngesellschaften erklären, an dem sie über Gewinnausschüttungen partizipiert, sowie durch eine gewisse Verantwortung der Klägerin des Ausgangsverfahrens als Gesellschafterin bei der Finanzierung dieser Gesellschaften.
+
+57
+
+Im vorliegenden Fall ist es Sache des vorlegenden Gerichts, zu überprüfen, ob der Hornbach-Baumarkt AG, ohne sie übermäßigen Verwaltungszwängen zu unterwerfen, die Möglichkeit eingeräumt wurde, Beweise für etwaige wirtschaftliche Gründe für den Abschluss der im Ausgangsverfahren in Rede stehenden Geschäfte beizubringen, ohne dabei auszuschließen, dass wirtschaftliche Gründe, die sich aus ihrer Stellung als Gesellschafterin der gebietsfremden Gesellschaft ergeben, berücksichtigt werden können.
+
+58
+
+Daher geht eine Regelung wie die im Ausgangsverfahren in Rede stehende nicht über das hinaus, was zur Erreichung des von ihr verfolgten Ziels erforderlich ist, sofern die mit der Anwendung dieser Regelung betrauten Behörden dem ansässigen Steuerpflichtigen die Möglichkeit einräumen, zu beweisen, dass die Bedingungen aus wirtschaftlichen Gründen vereinbart wurden, die sich aus seiner Stellung als Gesellschafter der gebietsfremden Gesellschaft ergeben können; dies zu prüfen, ist Sache des vorlegenden Gerichts.
+
+59
+
+Nach alledem ist auf die Vorlagefrage zu antworten, dass Art. 43 EG in Verbindung mit Art. 48 EG dahin auszulegen ist, dass er einer nationalen Regelung wie der im Ausgangsverfahren in Rede stehenden grundsätzlich nicht entgegensteht, nach der die Einkünfte einer in einem Mitgliedstaat ansässigen Gesellschaft, die einer in einem anderen Mitgliedstaat niedergelassenen mit ihr verflochtenen Gesellschaft unter Bedingungen Vorteile gewährt hat, die von denen abweichen, die voneinander unabhängige Dritte unter gleichen oder ähnlichen Verhältnissen vereinbart hätten, so anzusetzen sind, wie sie angefallen wären, wenn die zwischen solchen Dritten vereinbarten Bedingungen anwendbar gewesen wären, und zu berichtigen sind, während eine solche Berichtigung der steuerpflichtigen Einkünfte nicht erfolgt, wenn eine gebietsansässige Gesellschaft einer anderen gebietsansässigen mit ihr verflochtenen Gesellschaft dieselben Vorteile gewährt hat. Es ist jedoch Sache des nationalen Gerichts, zu prüfen, ob diese Regelung dem gebietsansässigen Steuerpflichtigen die Möglichkeit des Nachweises einräumt, dass die Bedingungen aus wirtschaftlichen Gründen vereinbart wurden, die sich aus seiner Stellung als Gesellschafter der gebietsfremden Gesellschaft ergeben.
+
+Kosten
+
+60
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Zweite Kammer) für Recht erkannt:
+
+ 	
+Art. 43 EG (jetzt Art. 49 AEUV) in Verbindung mit Art. 48 EG (jetzt Art. 54 AEUV) ist dahin auszulegen, dass er einer nationalen Regelung wie der im Ausgangsverfahren in Rede stehenden grundsätzlich nicht entgegensteht, nach der die Einkünfte einer in einem Mitgliedstaat ansässigen Gesellschaft, die einer in einem anderen Mitgliedstaat niedergelassenen mit ihr verflochtenen Gesellschaft unter Bedingungen Vorteile gewährt hat, die von denen abweichen, die voneinander unabhängige Dritte unter gleichen oder ähnlichen Verhältnissen vereinbart hätten, so anzusetzen sind, wie sie angefallen wären, wenn die zwischen solchen Dritten vereinbarten Bedingungen anwendbar gewesen wären, und zu berichtigen sind, während eine solche Berichtigung der steuerpflichtigen Einkünfte nicht erfolgt, wenn eine gebietsansässige Gesellschaft einer anderen gebietsansässigen mit ihr verflochtenen Gesellschaft dieselben Vorteile gewährt hat. Es ist jedoch Sache des nationalen Gerichts, zu prüfen, ob diese Regelung dem gebietsansässigen Steuerpflichtigen die Möglichkeit des Nachweises einräumt, dass die Bedingungen aus wirtschaftlichen Gründen vereinbart wurden, die sich aus seiner Stellung als Gesellschafter der gebietsfremden Gesellschaft ergeben.
+
+ 	
+Ilešič
+
+Rosas
+
+Toader
+
+Prechal
+
+Jarašiūnas
+
+Verkündet in öffentlicher Sitzung in Luxemburg am 31. Mai 2018.
+
+Der Kanzler
+
+A. Calot Escobar
+
+Der Präsident der Zweiten Kammer
+
+M. Ilešič
+
+( *1 )	Verfahrenssprache: Deutsch.

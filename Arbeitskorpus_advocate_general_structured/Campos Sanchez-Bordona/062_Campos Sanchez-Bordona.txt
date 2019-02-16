@@ -1,0 +1,304 @@
+URTEIL DES GERICHTSHOFS (Vierte Kammer)
+
+16. November 2017 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Richtlinie 2004/39/EG – Märkte für Finanzinstrumente – Art. 4 Abs. 1 Nr. 14 – Begriff ‚geregelter Markt‘ – Geltungsbereich – System, an dem zum einen Anleger vertretende Broker und zum anderen Fund Agents sogenannter ‚Open-end‘-Investmentgesellschaften teilnehmen, die zur Ausführung der ihre Fonds betreffenden Aufträge verpflichtet sind“
+
+In der Rechtssache C‑658/15
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom College van Beroep voor het bedrijfsleven (Berufungsgericht für Wirtschaftssachen, Niederlande) mit Entscheidung vom 2. Dezember 2015, beim Gerichtshof eingegangen am 7. Dezember 2015, in dem Verfahren
+
+Robeco Hollands Bezit NV u. a.
+
+gegen
+
+Stichting Autoriteit Financiële Markten (AFM)
+
+erlässt
+
+DER GERICHTSHOF (Vierte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten T. von Danwitz, der Richter C. Vajda (Berichterstatter) und E. Juhász, der Richterin K. Jürimäe und des Richters C. Lycourgos,
+
+Generalanwalt: M. Campos Sánchez-Bordona,
+
+Kanzler: M. Ferreira, Hauptverwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 1. Februar 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der Robeco Hollands Bezit NV u. a., vertreten durch E. Pijnacker Hordijk und A. M. ter Haar, advocaten,
+
+–
+
+der Stichting Autoriteit Financiële Markten (AFM), vertreten durch M. J. Blotwijk, advocaat, und M. van Kwawegen als Bevollmächtigte,
+
+–
+
+der Regierung des Vereinigten Königreichs, vertreten durch D. Robertson, B. Kennelly und S. Simmons als Bevollmächtigte,
+
+–
+
+der Europäischen Kommission, vertreten durch I. V. Rogalski und F. Wilman als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 26. April 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 4 Abs. 1 Nr. 14 der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über Märkte für Finanzinstrumente, zur Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates (ABl. 2004, L 145, S. 1).
+
+2
+
+Dieses Ersuchen ergeht im Rahmen eines Rechtsstreits zwischen der Robeco Hollands Bezit NV und zehn weiteren Gesellschaften einerseits und der Stichting Autoriteit Financiële Markten (AFM) (Finanzmarktaufsichtsbehörde, Niederlande) andererseits wegen Abgaben, die von diesen Gesellschaften für die Kosten erhoben wurden, die der AFM im Rahmen ihrer Überwachungsaufgaben entstanden sind.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+Richtlinie 2004/39
+
+3
+
+Die Erwägungsgründe 2, 5 und 6 der Richtlinie 2004/39 lauten:
+
+„(2)
+
+… [Es ist] erforderlich, eine Harmonisierung in dem Umfang vorzunehmen, der notwendig ist, um Anlegern ein hohes Schutzniveau zu bieten und Wertpapierfirmen das Erbringen von Dienstleistungen in der gesamten Gemeinschaft im Rahmen des Binnenmarkts auf der Grundlage der Herkunftslandaufsicht zu gestatten …
+
+…
+
+(5)
+
+Es ist erforderlich, die Ausführung von Geschäften mit Finanzinstrumenten – unabhängig von den für den Abschluss dieser Geschäfte verwendeten Handelsmethoden – umfassend zu regeln, damit bei der Ausführung der entsprechenden Anlegeraufträge eine hohe Qualität gewährleistet ist und die Integrität und Gesamteffizienz des Finanzsystems gewahrt werden. Es sollte ein kohärenter und risikosensibler Rahmen zur Regelung der wichtigsten Arten der derzeit auf dem europäischen Finanzmarkt vertretenen Auftragsausführungssysteme geschaffen werden. …
+
+(6)
+
+Es sollten Begriffsbestimmungen für den geregelten Markt und das MTF [(multilaterales Handelssystem)] eingeführt und eng aneinander angelehnt werden, um der Tatsache Rechnung zu tragen, dass beide die Funktion des organisierten Handels erfüllen. Die Begriffsbestimmungen sollten bilaterale Systeme ausschließen, bei denen eine Wertpapierfirma jedes Geschäft für eigene Rechnung tätigt und nicht als risikolose Gegenpartei zwischen Käufer und Verkäufer steht. Der Begriff ‚System‘ umfasst sowohl die Märkte, die aus einem Regelwerk und einer Handelsplattform bestehen, als auch solche, die ausschließlich auf der Grundlage eines Regelwerks funktionieren. Geregelte Märkte und MTF müssen keine ‚technischen‘ Systeme für das Zusammenführen von Aufträgen betreiben. Ein Markt, der nur aus einem Regelwerk besteht, das Fragen in Bezug auf die Mitgliedschaft, die Zulassung von Finanzinstrumenten zum Handel, den Handel zwischen Mitgliedern, die Meldung von Geschäften und gegebenenfalls die Transparenzpflichten regelt, ist ein geregelter Markt oder ein MTF im Sinne dieser Richtlinie; Geschäfte, die nach diesen Regeln abgeschlossen werden, gelten als an einem geregelten Markt oder über ein MTF geschlossene Geschäfte. Der Begriff ‚Interesse am Kauf und Verkauf‘ ist im weiten Sinne zu verstehen und schließt Aufträge, Kursofferten und Interessenbekundungen ein. Die Anforderung, wonach die Interessen innerhalb des Systems und nach den nichtdiskretionären, vom Betreiber des Systems festgelegten Regeln zusammengeführt werden müssen, bedeutet, dass die Zusammenführung nach den Regeln des Systems oder mit Hilfe der Protokolle oder internen Betriebsverfahren des Systems (einschließlich der in Computersoftware enthaltenen Verfahren) erfolgt. …“
+
+4
+
+Art. 4 Abs. 1 Nrn. 6, 7, 14, 15 und 17 der Richtlinie bestimmt:
+
+„Für die Zwecke dieser Richtlinie bezeichnet der Ausdruck
+
+…
+
+6.
+
+Handel für eigene Rechnung: den Handel unter Einsatz des eigenen Kapitals, der zum Abschluss von Geschäften mit einem oder mehreren Finanzinstrumenten führt.
+
+7.
+
+Systematischer Internalisierer: eine Wertpapierfirma, die in organisierter und systematischer Weise häufig regelmäßig Handel für eigene Rechnung durch Ausführung von Kundenaufträgen außerhalb eines geregelten Marktes oder eines MTF treibt.
+
+…
+
+14.
+
+Geregelter Markt: ein von einem Marktbetreiber betriebenes und/oder verwaltetes multilaterales System, das die Interessen einer Vielzahl Dritter am Kauf und Verkauf von Finanzinstrumenten innerhalb des Systems und nach seinen nichtdiskretionären Regeln in einer Weise zusammenführt oder das Zusammenführen fördert, die zu einem Vertrag in Bezug auf Finanzinstrumente führt, die gemäß den Regeln und/oder den Systemen des Marktes zum Handel zugelassen wurden, sowie eine Zulassung erhalten hat und ordnungsgemäß und gemäß den Bestimmungen des Titels III funktioniert.
+
+15.
+
+Multilaterales Handelssystem (MTF): ein von einer Wertpapierfirma oder einem Marktbetreiber betriebenes multilaterales System, das die Interessen einer Vielzahl Dritter am Kauf und Verkauf von Finanzinstrumenten innerhalb des Systems und nach nichtdiskretionären Regeln in einer Weise zusammenführt, die zu einem Vertrag gemäß den Bestimmungen des Titels II führt.
+
+…
+
+17.
+
+Finanzinstrument: die in Anhang I Abschnitt C genannten Instrumente.
+
+…“
+
+5
+
+In Abschnitt C sind unter Nr. 3 „Anteile an Organismen für gemeinsame Anlagen“ genannt.
+
+Niederländisches Recht
+
+6
+
+Gemäß Art. 1:40 Abs. 1 der Wet op het financieel toezicht (Gesetz über die Finanzaufsicht, im Folgenden: Wft) stellt die Aufsichtsbehörde die Kosten der Tätigkeiten, die sie im Zusammenhang mit der Ausübung ihrer gesetzlichen Aufgabe verrichtet, den Unternehmen in Rechnung, in Bezug auf die die Tätigkeiten verrichtet wurden, soweit diese Kosten nicht zulasten des Staatshaushalts gehen.
+
+7
+
+Gemäß den Art. 5, 6 und 8 Abs. 1 Buchst. i Nr. 4 des Besluit bekostiging financieel toezicht (Verordnung über die Finanzierung der Finanzaufsicht) ist die AFM befugt, bei den Emittenten im Sinne von Art. 5:60 Abs. 1 Buchst. a Wft hierfür Abgaben zu erheben.
+
+8
+
+Nach Art. 5:60 Abs. 1 Buchst. a Wft ist jeder, der das Tagesgeschäft eines Emittenten mit Sitz in den Niederlanden, der Finanzinstrumente im Sinne von Art. 5:56 Abs. 1 Buchst. a Wft emittiert hat oder zu emittieren beabsichtigt, bestimmt oder mitbestimmt, sowie jeder, auf dessen Vorschlag ein Kaufvertrag über ein Finanzinstrument im Sinne dieser Bestimmung, das kein Wertpapier ist, zustande gekommen ist, oder der einen Kaufvertrag über ein Finanzinstrument im Sinne dieser Bestimmung, das kein Wertpapier ist, vorschlägt, verpflichtet, auf eigene Rechnung abgeschlossene oder durchgeführte Geschäfte mit Anteilen, die den Emittenten im Sinne von Art. 5:60 Abs. 1 Buchst. a bis c Wft betreffen, oder mit Finanzinstrumenten, deren Wert durch den Wert dieser Anteile mitbestimmt wird, spätestens am fünften Werktag nach dem Tag der Vornahme des Geschäfts zu melden.
+
+9
+
+Gemäß Art. 5:56 Abs. 1 Buchst. a Wft ist es den Personen, die zu der in Abs. 2 dieser Vorschrift angeführten Kategorie gehören, untersagt, Insiderwissen für den Abschluss oder die Durchführung eines Geschäfts in oder aus den Niederlanden oder einem Nichtmitgliedstaat der Europäischen Union mit Finanzinstrumenten zu nutzen, die zum Handel auf einem geregelten Markt, für den eine Zulassung im Sinne von Art. 5:26 Abs. 1 Wft erteilt worden ist, oder in einem multilateralen Handelssystem, für das die Wertpapierfirma eine Zulassung im Sinne von Art. 2:96 Wft besitzt, zugelassen sind oder für die die Zulassung zum Handel beantragt ist.
+
+10
+
+In Art. 1:1 Wft heißt es:
+
+,,geregelter Markt: ein multilaterales System, das die Interessen einer Vielzahl Dritter am Kauf und Verkauf von Finanzinstrumenten innerhalb des Systems und nach seinen nichtdiskretionären Regeln in einer Weise zusammenführt oder das Zusammenführen fördert, die zu einem Vertrag in Bezug auf Finanzinstrumente führt, die gemäß den Regeln und den Systemen des Marktes zum Handel zugelassen wurden, und das ordnungsgemäß und gemäß den geltenden Bestimmungen über die Zulassung und die laufende Aufsicht funktioniert.“
+
+Ausgangsverfahren und Vorlagefrage
+
+11
+
+Bei den Rechtsmittelführerinnen des Ausgangsverfahrens (im Folgenden: Rechtsmittelführerinnen) handelt es sich um sogenannte „Open‑end“-Investmentgesellschaften. Um mit ihren Fondsanteilen zu handeln, bedienen sie sich eines als „Euronext Fund Services“ bezeichneten Systems (im Folgenden: EFS-System), das ein Segment der Euronext Amsterdam NV (im Folgenden: Euronext) ist; diese verfügt über eine Zulassung gemäß Art. 5:26 Abs. 1 Wft für den Betrieb oder die Verwaltung eines geregelten Marktes.
+
+12
+
+Aus der Vorlageentscheidung geht hervor, dass das EFS-System ein gesondertes Handelssystem ist, in dem ausschließlich offene Investmentfonds gehandelt werden. Dem System sind Fund Agents und Broker als Mitglieder angeschlossen. Die Broker sammeln die An- und Verkaufsaufträge der Anleger und geben sie an den Fund Agent des betreffenden Investmentfonds weiter. Die Geschäfte werden anhand des Forward Pricing abgewickelt, d. h., wenn ein Broker einen Auftrag bis 16 Uhr bei einem Fund Agent platziert, führt dieser den Auftrag am folgenden Tag um 10 Uhr auf der Grundlage des Nettoinventarwerts des Investmentfonds unter Berücksichtigung der Transaktionskosten aus.
+
+13
+
+Mit einer Reihe von Bescheiden, die durch Bescheid vom 13. Dezember 2012 bestätigt wurden, erhob die AFM von den Rechtsmittelführerinnen für die Jahre 2009 bis 2012 Abgaben nach Art. 1:40 Wft. Nach Auffassung der AFM waren die Abgaben zu erheben, da es sich bei dem EFS-System um einen„geregelten Markt“ im Sinne des durch Art. 1:1 Wft in niederländisches Recht umgesetzten Art. 4 Abs. 1 Nr. 14 der Richtlinie 2004/39 handele, was bedeute, dass Art. 5:60 Wft auf die Vorstände und Aufsichtsräte der Rechtsmittelführerinnen anwendbar sei.
+
+14
+
+Nachdem die Rechtbank Rotterdam (Bezirksgericht Rotterdam, Niederlande) die Klage gegen den bestätigenden Bescheid abgewiesen hatte, riefen die Rechtsmittelführerinnen das vorlegende Gericht an. Dieses möchte wissen, ob das EFS-System unter die Definition des Begriffs „geregelter Markt“ in der genannten Bestimmung der Richtlinie 2004/39 fällt.
+
+15
+
+Das vorlegende Gericht sieht mehrere Anhaltspunkte dafür, dass das EFS-System kein multilaterales System und damit kein geregelter Markt im Sinne der genannten Bestimmung sei.
+
+16
+
+Erstens ähnele das EFS-System eher einem bilateralen System, in dem, wie u. a. aus dem sechsten Erwägungsgrund der Richtlinie 2004/39 hervorgehe, die Geschäfte ausschließlich zwischen der Investmentgesellschaft und dem Anleger abgeschlossen würden. Insoweit sei darauf hinzuweisen, dass der Fund Agent die Investmentgesellschaft und der Broker den Anleger vertrete und dass Ersterer stets die Aufträge von Letzterem ausführe.
+
+17
+
+Zweitens seien die über das EFS-System abgeschlossenen Geschäfte nicht meldepflichtig. Daraus, dass im sechsten Erwägungsgrund ein u. a. die Meldung von Geschäften betreffendes Regelwerk für einen geschlossenen Markt erwähnt werde, könne geschlossen werden, dass ein System, in dem ausschließlich nicht meldepflichtige Geschäfte abgeschlossen würden, nicht als „geregelter Markt“ angesehen werden könne.
+
+18
+
+In diesem Kontext ergebe sich aus der Verordnung (EG) Nr. 1287/2006 der Kommission vom 10. August 2006 zur Durchführung der Richtlinie 2004/39 betreffend die Aufzeichnungspflichten für Wertpapierfirmen, die Meldung von Geschäften, die Markttransparenz, die Zulassung von Finanzinstrumenten zum Handel und bestimmte Begriffe im Sinne dieser Richtlinie (ABl. 2006, L 241, S. 1), dass Primärmarktgeschäfte nicht meldepflichtig seien, so dass ein System wie EFS, über das ausschließlich Primärmarktgeschäfte abgeschlossen würden, nicht als „geregelter Markt“ anzusehen sei.
+
+19
+
+Drittens werde der Wert der Anteilsrechte im EFS-System durch ihren Nettoinventarwert bestimmt, während sich nach den Ausführungen der Rechtsmittelführerinnen der Preis auf geregelten Märkten gehandelter Finanzinstrumente aus dem Zusammenspiel von Angebot und Nachfrage ergebe.
+
+20
+
+Viertens sei die Auslegung, wonach das EFS-System kein geregelter Markt sei, mit den Zielen der Richtlinie 2004/39 vereinbar, da die Gefahr von Marktmanipulationen oder Insidergeschäften im Rahmen dieses Systems sehr gering sei.
+
+21
+
+Vertretbar sei allerdings auch die gegenteilige Auffassung, wonach es sich beim EFS-System um einen geregelten Markt im Sinne von Art. 4 Abs. 1 Nr. 14 der Richtlinie 2004/39 handele. Das System werde selbständig von Euronext betrieben, die hierfür eine Zulassung erhalten habe. Das EFS-System könne als multilateral angesehen werden, da ihm eine Vielzahl von Brokern und Fund Agents angeschlossen seien, dort mit Anteilen mehrerer Investmentgesellschaften gehandelt werde und mehrere Parteien dort Aufträge erteilten. Mit dem in dieser Bestimmung verwendeten und nach dem gewöhnlichen Wortsinn ausgelegten Begriff „Dritter“ werde jeder Nutzer des Systems bezeichnet. Außerdem würden die jeweiligen Interessen der Käufer und Verkäufer im EFS-System zusammengeführt, um in einem Geschäftsabschluss zu münden, und es funktioniere nach den im „EFS Trading Manual“ (Leitfaden für den EFS-Handel) und im „TCS-web user Guide to the EFS“ (TCS-Web Benutzerhandbuch für den EFS) enthaltenen nicht diskretionären Regeln.
+
+22
+
+Überdies lasse sich weder aus dem sechsten Erwägungsgrund noch aus Art. 4 Abs. 1 Nr. 14 der Richtlinie 2004/39 unmittelbar herleiten, dass die fehlende Meldepflicht und die Preisbildung durch Angebot und Nachfrage die Einstufung des EFS-Systems als „geregelter Markt“ ausschlössen.
+
+23
+
+Unter diesen Umständen hat das College van Beroep voor het bedrijfsleven (Berufungsgericht für Wirtschaftssachen, Niederlande) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Frage zur Vorabentscheidung vorzulegen:
+
+Ist ein System, an dem eine Vielzahl von Fund Agents und Brokern teilnehmen, die innerhalb dieses Systems „Open-end“-Investmentgesellschaften bzw. Anleger bei Geschäften vertreten, und das faktisch ausschließlich diese „Open‑end“-Investmentgesellschaften in ihrer Verpflichtung, durch Anleger platzierte Aufträge zum An- und Verkauf von Anteilsrechten auszuführen, unterstützt, als ein geregelter Markt im Sinne von Art. 4 Abs. 1 Nr. 14 der Richtlinie 2004/39 anzusehen, und, wenn ja, welche Merkmale sind dafür entscheidend?
+
+Zur Vorlagefrage
+
+24
+
+Das vorlegende Gericht möchte mit seiner Frage wissen, ob Art. 4 Abs. 1 Nr. 14 der Richtlinie 2004/39 dahin auszulegen ist, dass ein Handelssystem, innerhalb dessen eine Vielzahl von Fund Agents und Brokern „Open‑end“-Investmentgesellschaften bzw. Anleger vertreten und das allein dazu dient, die Investmentgesellschaften bei ihrer Verpflichtung zur Ausführung der von den Anlegern platzierten Aufträge zum An- und Verkauf von Anteilen zu unterstützen, unter den Begriff „geregelter Markt“ im Sinne dieser Bestimmung fällt.
+
+25
+
+Es ist zwar allein Sache des vorlegenden Gerichts, sich zur Einstufung des EFS‑Systems anhand der konkreten Umstände des Ausgangsverfahrens zu äußern. Gleichwohl ist der Gerichtshof dafür zuständig, aus den Bestimmungen der Richtlinie 2004/39, konkret aus ihrem Art. 4 Abs. 1 Nr. 14, die Kriterien herzuleiten, die das vorlegende Gericht dabei anwenden kann oder muss (vgl. in diesem Sinne Urteil vom 3. Dezember 2015, Banif Plus Bank, C‑312/14, EU:C:2015:794, Rn. 51 und die dort angeführte Rechtsprechung).
+
+26
+
+In Art. 4 Abs. 1 Nr. 14 der Richtlinie 2004/39 wird ein geregelter Markt definiert als ein von einem Marktbetreiber betriebenes und/oder verwaltetes multilaterales System, das die Interessen einer Vielzahl Dritter am Kauf und Verkauf von Finanzinstrumenten innerhalb des Systems und nach seinen nicht diskretionären Regeln in einer Weise zusammenführt oder das Zusammenführen fördert, die zu einem Vertrag in Bezug auf Finanzinstrumente führt, die gemäß den Regeln und/oder den Systemen des Marktes zum Handel zugelassen wurden, sowie eine Zulassung erhalten hat und ordnungsgemäß und gemäß den Bestimmungen des Titels III der Richtlinie funktioniert.
+
+27
+
+Insoweit ergibt sich aus der Vorlageentscheidung, dass das EFS-System tatsächlich einige der in dieser Definition genannten Merkmale eines geregelten Marktes aufweist. Es wird nach den Angaben des vorlegenden Gerichts von Euronext betrieben und unterliegt nicht diskretionären, in zwei von Euronext erstellten Dokumenten, dem „EFS Trading Manual“ und dem „TCS-web user Guide to the EFS“, enthaltenen Regeln. Die von den Brokern im Rahmen des EFS-Systems den Fund Agents der Investmentfonds erteilten Aufträge führen zum Abschluss von Verträgen über Anteile an diesen Fonds. Außerdem hat Euronext eine Zulassung für den Betrieb des EFS-Systems erhalten, und es gibt keine Anhaltspunkte dafür, dass das System nicht im Einklang mit den Bestimmungen des Titels III der Richtlinie 2004/39 steht; dies zu prüfen ist Sache des vorlegenden Gerichts.
+
+28
+
+Zudem ist festzustellen, dass es sich bei den genannten Anteilen an Investmentfonds um „Finanzinstrumente“ im Sinne von Art. 4 Abs. 1 Nr. 17 der Richtlinie 2004/39 in Verbindung mit ihrem Anhang I Abschnitt C Nr. 3 handelt.
+
+29
+
+Um die Frage des vorlegenden Gerichts beantworten zu können, bleibt somit zu prüfen, ob ein solches Handelssystem als multilaterales System anzusehen ist, das im Sinne von Art. 4 Abs. 1 Nr. 14 der Richtlinie 2004/39 die Interessen einer Vielzahl Dritter am Kauf und Verkauf zusammenführt oder das Zusammenführen fördert.
+
+30
+
+Zwar wird der Begriff des multilateralen Systems als solcher in der Richtlinie nicht definiert, aber in ihrem sechsten Erwägungsgrund heißt es, dass die Definitionen der Begriffe „geregelter Markt“ und „multilaterales Handelssystem (MTF)“, bei denen es sich um die beiden von der Richtlinie erfassten Arten multilateraler Systeme handelt, bilaterale Systeme ausschließen sollten, bei denen eine Wertpapierfirma jedes Geschäft für eigene Rechnung tätigt und nicht als risikolose Gegenpartei zwischen Käufer und Verkäufer steht. Nach Art. 4 Abs. 1 Nr. 6 der Richtlinie 2004/39 bezeichnet „Handel für eigene Rechnung“ den Handel unter Einsatz des eigenen Kapitals, der zum Abschluss von Geschäften mit Finanzinstrumenten führt.
+
+31
+
+Aus der klaren Unterscheidung zwischen einem multilateralen und einem bilateralen System ist zu schließen, dass Marktbetreiber oder Wertpapierfirmen, die ein multilaterales System betreiben, risikolos und ohne Einsatz eigenen Kapitals beim Abschluss von Geschäften innerhalb dieses Systems tätig werden. Nach der Definition in Art. 4 Abs. 1 Nr. 14 der Richtlinie 2004/39 findet diese Vermittlung zwischen den Interessen einer Vielzahl Dritter am Kauf und Verkauf statt, wobei Dritter jede mit dem Handelssystem und dessen Betreiber nicht identische und von ihm unabhängige natürliche oder juristische Person ist.
+
+32
+
+Die Erläuterungen des vorlegenden Gerichts deuten darauf hin, dass das EFS‑System diese Merkmale aufweist und folglich als „geregelter Markt“ im Sinne von Art. 4 Abs. 1 Nr. 14 der Richtlinie 2004/39 anzusehen ist.
+
+33
+
+Erstens findet nämlich der An- und Verkauf von Anteilen an „Open‑end“-Investmentgesellschaften offenbar zwischen den die Anleger vertretenden Brokern und den Fund Agents der Investmentgesellschaften innerhalb des EFS-Systems statt, das im Rahmen dieser Geschäfte kein Anlagerisiko trägt und kein eigenes Kapital einsetzt.
+
+34
+
+In diesem Kontext kann der These, dass das ESF‑System eher einem bilateralen System entspreche, da der Auftrag eines Anlegers in Wirklichkeit immer von einer Investmentgesellschaft innerhalb des Systems ausgeführt werde, nicht gefolgt werden. Wie der Generalanwalt in Nr. 92 seiner Schlussanträge ausgeführt hat, bleibt bei einer solchen These das Tätigwerden von Euronext als der unabhängigen Betreiberin des EFS-Systems im Rahmen dieser Geschäfte außer Betracht. Beim bilateralen Handel gibt es kein solches Tätigwerden.
+
+35
+
+Insoweit ist es, wie die Regierung des Vereinigten Königreichs darlegt, unerheblich, dass bei einem System wie dem EFS kein Handel zwischen den verschiedenen Brokern oder zwischen den verschiedenen Fund Agents der Investmentfonds stattfindet, da im Rahmen dieses Systems die Fund Agents Geschäfte mit mehreren Brokern tätigen können und umgekehrt.
+
+36
+
+Zweitens ist zu berücksichtigen, dass die Zusammenführung der Interessen einer Vielzahl Dritter am Kauf und Verkauf darin besteht, dass es innerhalb des EFS‑Systems sowohl Broker als Vertreter der Anleger als auch Fund Agents der Investmentfonds gibt.
+
+37
+
+Zum einen sind die Broker und Fund Agents im Verhältnis zu diesem System Dritte, da sie nicht mit ihm identisch und von ihm unabhängig sind.
+
+38
+
+Zum anderen ändert der vom vorlegenden Gericht und den Rechtsmittelführerinnen hervorgehobene Umstand, dass die Fund Agents und ihre Investmentfonds ausschließlich und zwingend die ihnen über das EFS-System erteilten Aufträge zur Ausgabe und zum Ankauf von Investmentfondsanteilen ausführen, nichts daran, dass aufgrund der Anwesenheit dieser Fund Agents sowie der Broker innerhalb des Systems dort eine Vielzahl von Interessen am Kauf und Verkauf zusammengeführt werden. Insbesondere angesichts des großen Bedeutungsumfangs des im sechsten Erwägungsgrund der Richtlinie 2004/39 verwendeten Ausdrucks „Interessen am Kauf und Verkauf“ kann dieser nämlich nicht dahin ausgelegt werden, dass er Positionen eines Teilnehmers am Handelssystem allein deshalb ausschließt, weil sie aus einer Verpflichtung zum Ankauf oder zur Ausgabe solcher Anteile resultieren.
+
+39
+
+Drittens weisen das vorlegende Gericht und die Rechtsmittelführerinnen auf bestimmte Merkmale des EFS-Systems hin, und zwar auf die fehlende Meldepflicht für die im Rahmen dieses Systems ausgeführten Geschäfte, den Primärcharakter dieser Geschäfte, die Tatsache, dass die Preise keine unmittelbare Folge des Zusammenspiels von Angebot und Nachfrage seien, sondern sich aus dem am Tag nach der Auftragserteilung ermittelten Nettoinventarwert der ge- oder verkauften Anteile ergäben, sowie die geringe Gefahr von Marktmanipulationen oder Insidergeschäften. Sie sind der Auffassung, dass diese Merkmale gegen eine Einstufung des Systems als geregelter Markt sprächen.
+
+40
+
+Keines dieser Merkmale, ihr Vorliegen unterstellt, kann aber als unvereinbar mit dem Begriff des geregelten Marktes im Sinne von Art. 4 Abs. 1 Nr. 14 der Richtlinie 2004/39 angesehen werden.
+
+41
+
+Wie die AFM, die Regierung des Vereinigten Königreichs sowie die Europäische Kommission in ihren schriftlichen Erklärungen ausführen, enthält diese Bestimmung nämlich keine die Funktionsweise eines geregelten Marktes betreffende Konkretisierung oder Einschränkung hinsichtlich der Meldepflicht von Geschäften, deren Primär- oder Sekundärcharakter oder der Preisbildung bei diesen Geschäften.
+
+42
+
+Speziell zur Meldepflicht von Geschäften ist festzustellen, dass die Angabe im sechsten Erwägungsgrund der Richtlinie 2004/39, wonach ein Markt, der nur aus einem Regelwerk besteht, das u. a. Fragen in Bezug auf die Meldung von Geschäften regelt, ein geregelter Markt oder ein MTF ist, lediglich besagt, dass es für die Einstufung eines Marktes als geregelter Markt oder als MTF ausreicht, dass er diese Merkmale aufweist. Daraus kann nicht hergeleitet werden, dass die Meldung von Geschäften eine notwendige Voraussetzung für eine solche Einstufung wäre.
+
+43
+
+Auch das Vorbringen, das im Wesentlichen dahin geht, dass es angesichts der geringen Missbrauchsgefahr bei der Ausführung der Geschäfte nicht erforderlich sei, das EFS-System als „geregelten Markt“ einzustufen, kann keinen Erfolg haben. Wie die Kommission in ihren schriftlichen Erklärungen hervorhebt, beschränkt sich das Ziel der die geregelten Märkte betreffenden Bestimmungen der Richtlinie 2004/39 nicht auf die Verhinderung von Missbrauch. Wie sich u. a. aus den Erwägungsgründen 2 und 5 der Richtlinie ergibt, zielen diese Bestimmungen allgemeiner darauf ab, durch die Schaffung umfassender Regeln für die Ausführung von Geschäften mit Finanzinstrumenten eine Harmonisierung in dem für ein hohes Schutzniveau der Anleger notwendigen Umfang vorzunehmen, damit bei der Ausführung der Aufträge eine hohe Qualität gewährleistet ist und die Integrität sowie die Gesamteffizienz des Finanzsystems gewahrt werden.
+
+44
+
+Nach alledem ist auf die Vorlagefrage zu antworten, dass Art. 4 Abs. 1 Nr. 14 der Richtlinie 2004/39 dahin auszulegen ist, dass ein Handelssystem, innerhalb dessen eine Vielzahl von Fund Agents und Brokern „Open‑end“-Investmentgesellschaften bzw. Anleger vertreten und das allein dazu dient, die Investmentgesellschaften bei ihrer Verpflichtung zur Ausführung der von den Anlegern platzierten Aufträge zum An- und Verkauf von Anteilen zu unterstützen, unter den Begriff „geregelter Markt“ im Sinne dieser Bestimmung fällt.
+
+Kosten
+
+45
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Vierte Kammer) für Recht erkannt:
+
+ 	
+Art. 4 Abs. 1 Nr. 14 der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über Märkte für Finanzinstrumente, zur Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates ist dahin auszulegen, dass ein Handelssystem, innerhalb dessen eine Vielzahl von Fund Agents und Brokern „Open‑end“-Investmentgesellschaften bzw. Anleger vertreten und das allein dazu dient, die Investmentgesellschaften bei ihrer Verpflichtung zur Ausführung der von den Anlegern platzierten Aufträge zum An- und Verkauf von Anteilen zu unterstützen, unter den Begriff „geregelter Markt“ im Sinne dieser Bestimmung fällt.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Niederländisch.

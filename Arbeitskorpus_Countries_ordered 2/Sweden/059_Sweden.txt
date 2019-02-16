@@ -1,0 +1,377 @@
+URTEIL DES GERICHTSHOFS (Fünfte Kammer)
+
+7. Dezember 2017 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Soziale Sicherheit der Wandererwerbstätigen – Verordnung (EWG) Nr. 1408/71 – Art. 46 Abs. 2 – Art. 47 Abs. 1 Buchst. d – Art. 50 – Garantierente – Mindestleistung – Berechnung der Rentenansprüche“
+
+In der Rechtssache C‑189/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Högsta förvaltningsdomstol (Oberster Verwaltungsgerichtshof, Schweden) mit Entscheidung vom 23. März 2016, beim Gerichtshof eingegangen am 4. April 2016, in dem Verfahren
+
+Boguslawa Zaniewicz-Dybeck
+
+gegen
+
+Pensionsmyndigheten
+
+erlässt
+
+DER GERICHTSHOF (Fünfte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten J. L. da Cruz Vilaça, der Richter E. Levits und A. Borg Barthet, der Richterin M. Berger sowie des Richters F. Biltgen (Berichterstatter),
+
+Generalanwalt: M. Wathelet,
+
+Kanzler: C. Strömholm, Verwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 9. März 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der Pensionsmyndighet, vertreten durch M. Westberg, M. Irving und A. Svärd als Bevollmächtigte,
+
+–
+
+der schwedischen Regierung, vertreten durch A. Falk, C. Meyer‑Seitz, U. Persson und L. Swedenborg als Bevollmächtigte,
+
+–
+
+der tschechischen Regierung, vertreten durch M. Smolek, J. Pavliš und J. Vláčil als Bevollmächtigte,
+
+–
+
+der Europäischen Kommission, vertreten durch K. Simonsson und D. Martin als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 3. Mai 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 46 Abs. 2 und Art. 47 Abs. 1 Buchst. d der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern, in ihrer durch die Verordnung (EG) Nr. 118/97 des Rates vom 2. Dezember 1996 (ABl. 1997, L 28, S. 1) geänderten und aktualisierten Fassung, geändert durch die Verordnung (EG) Nr. 1606/98 des Rates vom 29. Juni 1998 (ABl. 1998, L 209, S. 1) (im Folgenden: Verordnung Nr. 1408/71).
+
+2
+
+Dieses Ersuchen ergeht im Rahmen eines Rechtsstreits zwischen Frau Boguslawa Zaniewicz-Dybeck und der Pensionsmyndighet (Rentenversicherungsanstalt, Schweden) wegen der Gewährung einer Garantierente nach dem allgemeinen schwedischen Rentensystem.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+3
+
+In Titel III („Besondere Vorschriften für die einzelnen Leistungsarten“) umfasst das Kapitel 3 („Alter und Tod [Renten]“) der Verordnung Nr. 1408/71 deren Art. 44 bis 51a.
+
+4
+
+Art. 44 („Allgemeine Vorschriften für die Feststellung der Leistungen, wenn für den Arbeitnehmer oder Selbständigen die Rechtsvorschriften von zwei oder mehr Mitgliedstaaten galten“) der Verordnung Nr. 1408/71 bestimmt in seinem Abs. 1:
+
+„Die Leistungsansprüche eines Arbeitnehmers, für den die Rechtsvorschriften von zwei oder mehr Mitgliedstaaten galten, und die Leistungsansprüche seiner Hinterbliebenen werden nach diesem Kapitel festgestellt.“
+
+5
+
+Art. 45 („Berücksichtigung der Versicherungs- oder Wohnzeiten, die nach Rechtsvorschriften zurückgelegt worden sind, die für den Arbeitnehmer oder Selbständigen im Hinblick auf den Erwerb, die Aufrechterhaltung oder das Wiederaufleben des Leistungsanspruchs galten“) Abs. 1 dieser Verordnung lautet:
+
+„Ist nach den Rechtsvorschriften eines Mitgliedstaats der Erwerb, die Aufrechterhaltung oder das Wiederaufleben des Anspruchs auf die Leistungen eines Systems, das kein Sondersystem im Sinne des Absatzes 2 oder 3 ist, davon abhängig, dass Versicherungs- oder Wohnzeiten zurückgelegt worden sind, berücksichtigt der zuständige Träger dieses Mitgliedstaats, soweit erforderlich, die nach den Rechtsvorschriften jedes anderen Mitgliedstaats zurückgelegten Versicherungs- oder Wohnzeiten; dabei ist unwesentlich, ob diese in einem allgemeinen oder in einem Sondersystem, in einem System für Arbeitnehmer oder in einem System für Selbständige zurückgelegt worden sind. Zu diesem Zweck berücksichtigt er diese Zeiten, als ob es sich um nach den von ihm anzuwendenden Rechtsvorschriften zurückgelegte Zeiten handelte.“
+
+6
+
+Art. 46 („Feststellung der Leistungen“) der Verordnung Nr. 1408/71 bestimmt:
+
+„(1)   Sind die Voraussetzungen für den Leistungsanspruch nach den Rechtsvorschriften eines Mitgliedstaats auch ohne Anwendung des Artikels 45 und des Artikels 40 Absatz 3 erfüllt, so gilt Folgendes:
+
+a)
+
+Der zuständige Träger berechnet den Leistungsbetrag, der wie folgt geschuldet würde:
+
+i)
+
+allein nach den von ihm anzuwendenden Rechtsvorschriften,
+
+ii)
+
+nach Absatz 2.
+
+…
+
+(2)   Sind die Voraussetzungen für den Leistungsanspruch nach den Rechtsvorschriften eines Mitgliedstaats nur nach Anwendung des Artikels 45 und/oder des Artikels 40 Absatz 3 erfüllt, so gilt Folgendes:
+
+a)
+
+Der zuständige Träger berechnet den theoretischen Betrag der Leistung, auf die die betreffende Person Anspruch hätte, wenn alle nach den für den Arbeitnehmer oder Selbständigen geltenden Rechtsvorschriften der Mitgliedstaaten zurückgelegten Versicherungs- und/oder Wohnzeiten nur in dem betreffenden Staat und nach den für diesen Träger zum Zeitpunkt der Feststellung der Leistung geltenden Rechtsvorschriften zurückgelegt worden wären. Ist nach diesen Rechtsvorschriften der Betrag der Leistung von der Dauer der zurückgelegten Zeiten unabhängig, so gilt dieser Betrag als theoretischer Betrag.
+
+b)
+
+Der zuständige Träger ermittelt sodann den tatsächlich geschuldeten Betrag auf der Grundlage des unter Buchstabe a) genannten theoretischen Betrages nach dem Verhältnis zwischen den nach seinen Rechtsvorschriften vor Eintritt des Versicherungsfalles zurückgelegten Versicherungs- oder Wohnzeiten und den gesamten nach den Rechtsvorschriften aller beteiligten Mitgliedstaaten vor Eintritt des Versicherungsfalles zurückgelegten Versicherungs- und Wohnzeiten.
+
+(3)   Die betreffende Person hat gegen den zuständigen Träger jedes beteiligten Mitgliedstaats Anspruch auf den höchsten nach den Absätzen 1 und 2 errechneten Betrag, wobei gegebenenfalls alle Kürzungs-, Ruhens- oder Entziehungsbestimmungen der Rechtsvorschriften, aufgrund deren diese Leistung geschuldet wird, zur Anwendung kommen.
+
+Ist dies der Fall, erstreckt sich der vorzunehmende Vergleich auf die nach Anwendung dieser Bestimmungen ermittelten Beträge.
+
+…“
+
+7
+
+Art. 47 („Ergänzende Vorschriften für die Berechnung der Leistungen“) Abs. 1 Buchst. d der Verordnung sieht Folgendes vor:
+
+„Für die Berechnung des theoretischen Betrags und des zeitanteiligen Betrags nach Artikel 46 Absatz 2 gilt Folgendes:
+
+…
+
+d)
+
+Der zuständige Träger eines Mitgliedstaats, nach dessen Rechtsvorschriften bei der Berechnung von Leistungen die Höhe der Arbeitsentgelte, Arbeitseinkommen, Beiträge oder Steigerungsbeträge zugrunde zu legen ist, ermittelt die Entgelte, Einkommen, Beiträge oder Steigerungsbeträge für die nach den Rechtsvorschriften anderer Mitgliedstaaten zurückgelegten Versicherungs- oder Wohnzeiten auf der Grundlage der Durchschnittsarbeitsentgelte, ‑arbeitseinkommen, ‑beiträge oder ‑steigerungsbeträge, die für die Versicherungszeiten festgestellt worden sind, die nach den von dem genannten Träger angewendeten Rechtsvorschriften zurückgelegt wurden.
+
+…“
+
+8
+
+Art. 50 („Gewährung einer Zulage, wenn die Summe der nach den Rechtsvorschriften der einzelnen Mitgliedstaaten geschuldeten Leistungen nicht den Mindestbetrag erreicht, der in den Rechtsvorschriften des Mitgliedstaats vorgesehen ist, in dessen Gebiet der Empfänger wohnt“) der Verordnung Nr. 1408/71 lautet:
+
+„Der Empfänger von Leistungen nach [Kapitel 3 der Verordnung Nr. 1408/71] darf in dem Mitgliedstaat, in dessen Hoheitsgebiet er wohnt und nach dessen Rechtsvorschriften ihm eine Leistung zusteht, keinen niedrigeren Leistungsbetrag als die Mindestleistung erhalten, die nach den Rechtsvorschriften dieses Mitgliedstaats für eine Versicherungs- oder Wohnzeit vorgesehen ist, welche den Zeiten insgesamt entspricht, die bei der Feststellung seiner Leistung gemäß den vorstehenden Artikeln angerechnet wurden. Der zuständige Träger dieses Staates zahlt dem Betreffenden gegebenenfalls während der gesamten Zeit, in der er im Gebiet dieses Staates wohnt, eine Zulage in Höhe des Unterschiedsbetrags zwischen der Summe der nach [Kapitel 3 der Verordnung Nr. 1408/71] geschuldeten Leistungen und dem Betrag der Mindestleistung.“
+
+Schwedisches Recht
+
+9
+
+Die Altersrente nach dem allgemeinen schwedischen Rentensystem besteht aus drei Teilen, nämlich der Einkommensrente, der Zusatzrente und der Garantierente.
+
+10
+
+Die Einkommensrente und die Zusatzrente beruhen auf dem Einkommen der Betroffenen. Die Einkommensrente stützt sich auf die erworbenen Rentenansprüche; die Zusatzrente, die Teil des in Schweden vor 2003 geltenden Rentensystems ist, erhalten die bis einschließlich 1953 Geborenen. Diese beiden Rentenarten werden im Wesentlichen durch Beiträge finanziert.
+
+11
+
+Dagegen handelt es sich bei der Garantierente zur Grundsicherung von Menschen mit geringem oder gar keinem Einkommen um eine wohnortbezogene und durch Steuergelder finanzierte Leistung. Sie wurde durch Änderungen des schwedischen Systems der Altersvorsorge in den 1990er Jahren eingeführt und ersetzt die Volksrente.
+
+12
+
+Die Höhe der Garantierente richtet sich nach der Höhe der anderen Altersrenten, die der Betroffene bezieht. Sie wird unter Berücksichtigung der Einkommensrente, der Zusatzrente und bestimmter anderer Leistungen schrittweise gekürzt.
+
+13
+
+Bei den für die vorliegende Rechtssache relevanten nationalen Rechtsvorschriften über die Garantierente handelt es sich um das Lag (1998:702) om garantipension (Gesetz Nr. 702 aus dem Jahr 1998 über die Garantierente), das durch das Socialförsäkringsbalk (2010:110) (Sozialversicherungsgesetzbuch Nr. 110 aus dem Jahr 2010, im Folgenden: SFB) ersetzt wurde.
+
+14
+
+Gemäß Kapitel 55 §§ 8 und 10 SFB stellt die Garantierente die Grundversorgung im Rahmen der Altersrente nach dem allgemeinen schwedischen Rentensystem dar. Sie richtet sich nach der Versicherungszeit und kann Versicherten gewährt werden, die keine einkommensabhängige Rente erhalten oder bei denen die einkommensabhängige Rente einen bestimmten Betrag nicht übersteigt.
+
+15
+
+Gemäß Kapitel 67 § 2 SFB kann einem 1938 oder später geborenen Versicherten mit einer Versicherungszeit von mindestens drei Jahren eine Garantierente gewährt werden.
+
+16
+
+Kapitel 67 § 4 SFB bestimmt, dass die Garantierente frühestens ab dem Monat bezogen werden kann, in dem der Versicherte das 65. Lebensjahr vollendet.
+
+17
+
+Nach Kapitel 67 § 11 SFB ist bei der Berechnung der Versicherungszeit nur die Zeit ab dem Kalenderjahr, in dem der Betroffene das 16. Lebensjahr vollendet, bis zu dem Kalenderjahr, in dem er das 64. Lebensjahr vollendet, zu berücksichtigen.
+
+18
+
+Kapitel 67 § 15 SFB sieht vor, dass der Berechnung der Garantierente die einkommensabhängige Altersrente zugrunde zu legen ist, auf die der Versicherte für diese Jahre Anspruch hat.
+
+19
+
+Nach Kapitel 67 § 16 SFB sind „einkommensabhängige Altersrenten“ im Sinne von § 15 dieses Kapitels die Altersrente im Sinne des SFB vor den in bestimmten Paragrafen des SFB vorgesehenen Kürzungen sowie solche allgemeinen Altersrenten aus ausländischen Rentenpflichtversicherungen, die der Garantierente nach dem SFB nicht gleichzustellen sind.
+
+20
+
+Der Grundbetrag, der bei der Berechnung bestimmter Sozialleistungen, zu denen auch die Garantierente gehört, zugrunde zu legen ist, wird in Kapitel 2 § 7 SFB definiert. Dieser Betrag ist an den allgemeinen Preisindex gebunden. In dem für die vorliegende Rechtssache maßgeblichen Jahr belief sich der Grundbetrag auf 39400 schwedische Kronen (SEK) (rund 4137 Euro).
+
+21
+
+Gemäß Kapitel 67 § 23 SFB beträgt die jährliche Garantierente für Verheiratete, bei denen die Berechnungsgrundlage das 1,14‑Fache des Grundbetrags nicht übersteigt, das 1,9‑Fache des Grundbetrags abzüglich der Berechnungsgrundlage.
+
+22
+
+Kapitel 67 § 24 SFB sieht für Verheiratete, bei denen die Berechnungsgrundlage das 1,14‑Fache des Grundbetrags übersteigt, eine jährliche Garantierente in Höhe des 0,76‑Fachen des Grundbetrags abzüglich 48 % des Teils der Berechnungsgrundlage vor, der das 1,14‑Fache des Grundbetrags übersteigt.
+
+23
+
+Aus Kapitel 67 § 25 SFB ergibt sich, dass für Versicherte, die weniger als 40 Versicherungsjahre zurückgelegt haben, alle in den §§ 21 bis 24 dieses Kapitels genannten grundbetragsbezogenen Beträge entsprechend dem Verhältnis der tatsächlichen Versicherungszeit zu einer Versicherungszeit von 40 Jahren zeitanteilig herabzusetzen sind.
+
+24
+
+Die Rättsligt ställningstagande (2007:2) (rechtliche Stellungnahme Nr. 2 aus dem Jahr 2007, im Folgenden: rechtliche Stellungnahme) der Försäkringskassa (Rentenkasse, Schweden) sieht vor, dass im Rahmen der Berechnung der zeitanteiligen Garantierente im Sinne von Kapitel 67 § 25 SFB für die Berechnung des theoretischen Betrags nach Art. 46 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 jedem in einem anderen Mitgliedstaat zurückgelegten Versicherungszeitraum ein fiktiver Rentenwert beigemessen wird, der dem durchschnittlichen Rentenwert der schwedischen Versicherungszeiten entspricht.
+
+Ausgangsverfahren und Vorlagefragen
+
+25
+
+Frau Zaniewicz-Dybeck, eine polnische Staatsangehörige, wurde 1940 geboren und zog 1980 von Polen nach Schweden. In Polen war sie bereits 19 Jahre berufstätig und in den 24 Jahren, die sie in Schweden wohnte, war sie während 23 Jahren berufstätig.
+
+26
+
+Der von Frau Zaniewicz-Dybeck im Jahr 2005 gestellte Antrag auf Garantierente wurde von der Rentenkasse abgelehnt.
+
+27
+
+Mit Rechtsbehelfsbescheid vom 1. September 2008 bestätigte die Rentenkasse ihre ablehnende Entscheidung.
+
+28
+
+Da Frau Zaniewicz-Dybeck sowohl in Schweden als auch in Polen Versicherungszeiten zurückgelegt hat, wurde ihre Garantierente von der Rentenkasse gemäß der Verordnung Nr. 1408/71 zum einen nach nationalem Recht und zum anderen zeitanteilig nach Art. 46 Abs. 2 der Verordnung berechnet.
+
+29
+
+Im Rahmen der Berechnung der Garantierente von Frau Zaniewicz‑Dybeck nach nationalem Recht bestimmte die Rentenkasse gemäß Kapitel 67 § 25 SFB und gemäß der rechtlichen Stellungnahme die Berechnungsgrundlage hierfür anhand einer zeitanteiligen Berechnung. Außerdem ließ die Rentenkasse bei der Berechnung des Grundbetrags im Sinne von Art. 46 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 die von Frau Zaniewicz-Dybeck in Polen erworbenen Ansprüche auf eine einkommensabhängige Rente unberücksichtigt, maß jedoch den von Frau Zaniewicz-Dybeck in Schweden erworbenen Ansprüchen auf eine einkommensabhängige Rente einen Rentenwert von 75216 SEK (rund 7897 Euro) für 24 Versicherungsjahre und damit einen Wert von jährlich 3134 SEK (rund 329 Euro) (75216 SEK geteilt durch 24) bei. Diesen Betrag multiplizierte sie mit der für die Garantierente geltenden maximalen Versicherungszeit von 40 Jahren und erhielt so einen fiktiven Rentenwert von 125360 SEK (rund 13162 Euro).
+
+30
+
+Angesichts dessen nahm die Rentenkasse an, dass Frau Zaniewicz‑Dybecks Ansprüche auf eine einkommensabhängige Rente, die gemäß Kapitel 67 § 15 SFB als Berechnungsgrundlage für die Garantierente dienen, die Höchstgrenze für die Gewährung einer Garantierente überstiegen.
+
+31
+
+Gegen diesen Bescheid erhob Frau Zaniewicz-Dybeck zunächst erfolglos Klage beim Förvaltningsrätt i Stockholm (Verwaltungsgericht Stockholm, Schweden). Danach legte sie ebenfalls ohne Erfolg beim Kammarrätt i Stockholm (Verwaltungsgerichtshof Stockholm, Schweden) und schließlich beim Högsta förvaltningsdomstol (Oberster Verwaltungsgerichtshof, Schweden) Rechtsmittel ein.
+
+32
+
+Frau Zaniewicz-Dybeck macht geltend, dass der theoretische Betrag der Garantierente nach der Verordnung Nr. 1408/71 zu berechnen sei. Dabei sei weder Art. 47 Abs. 1 Buchst. d der Verordnung – weil die Garantierente allein auf die zurückgelegte Versicherungszeit abzüglich der in Schweden bezogenen einkommensabhängige Rente abstelle – noch die rechtliche Stellungnahme – durch die die Wanderarbeitnehmer benachteiligt würden, die aus einem anderen Mitgliedstaat nur eine niedrige einkommensabhängige Rente bezögen – anzuwenden.
+
+33
+
+Nach Auffassung der schwedischen Rentenversicherungsanstalt, seit dem 1. Januar 2010 Rechtsnachfolgerin der Rentenkasse, werden durch die in einem anderen Mitgliedstaat zurückgelegten Versicherungszeiten dort Rentenansprüche erworben. Da die Garantierente aber ergänzend gewährt werde, habe eine Rentenberechnung ohne Anwendung von Art. 47 Abs. 1 Buchst. d der Verordnung Nr. 1408/71 zur Folge, dass der Betroffene, der Versicherungszeiten in einem anderen Mitgliedstaat zurückgelegt habe, hierfür überkompensiert werde. Werde den in einem anderen Mitgliedstaat zurückgelegten Versicherungszeiten kein durchschnittlicher schwedischer Rentenwert beigemessen, führe dies dazu, dass diesen Zeiten ein geringerer Wert als den entsprechenden im Königreich Schweden zurückgelegten Zeiten beigemessen werde.
+
+34
+
+Das vorlegende Gericht weist darauf hin, dass der zuständige Träger, also die Rentenkasse oder die Rentenversicherungsanstalt, bei der Berechnung der Garantierente nach Art. 46 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 jeder vom Arbeitnehmer in einem anderen Mitgliedstaat zurückgelegten Versicherungszeit einen fiktiven Rentenwert beimesse, der dem durchschnittlichen Rentenwert der im Königreich Schweden zurückgelegten Versicherungszeiten entspreche und von der Garantierente unabhängig davon abgezogen werde, ob der Betroffene in diesem Zeitraum gearbeitet habe. Habe der Betroffene in diesem Zeitraum gearbeitet und folglich einen Rentenanspruch erworben, der den vom zuständigen Träger berechneten fiktiven Rentenwert übersteige, stelle dies einen Vorteil für ihn dar. Habe er dagegen in dem anderen Mitgliedstaat nicht gearbeitet oder habe er Rentenansprüche erworben, die unter dem vom zuständigen Träger berechneten fiktiven Rentenwert lägen, werde er benachteiligt.
+
+35
+
+Aufgrund dessen besteht nach Ansicht des vorlegenden Gerichts Unklarheit darüber, wie die Garantierente zu berechnen ist. Insbesondere möchte das vorlegende Gericht wissen, ob bei der Berechnung der Garantierente Art. 46 Abs. 2 und Art. 47 Abs. 1 Buchst. d der Verordnung Nr. 1408/71 anzuwenden sind. Sollte dies der Fall sein, möchte es außerdem wissen, ob gemäß diesen Bestimmungen den in einem anderen Mitgliedstaat zurückgelegten Versicherungszeiten zur Bestimmung der Berechnungsgrundlage einer Garantierente ein fiktiver Rentenwert beigemessen werden kann, der dem durchschnittlichen Rentenwert der im Königreich Schweden zurückgelegten Versicherungszeiten entspricht. Falls dies verneint wird, möchte das vorlegende Gericht wissen, ob bei der Berechnung der Garantierente Altersrenten zu berücksichtigen sind, die der Betroffene aus anderen Mitgliedstaaten bezieht.
+
+36
+
+Der Högsta förvaltningsdomstol (Oberster Verwaltungsgerichtshof) hat deshalb beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+Zu den Vorlagefragen
+
+Zur ersten Frage
+
+37
+
+Mit seiner ersten Frage möchte das vorlegende Gericht wissen, ob die Verordnung Nr. 1408/71 dahin auszulegen ist, dass der zuständige Träger eines Mitgliedstaats eine Leistung wie die im Ausgangsverfahren in Rede stehende Garantierente nach der in Art. 46 Abs. 2 der Verordnung vorgesehenen zeitanteiligen Berechnung zu bestimmen und gemäß Art. 47 Abs. 1 Buchst. d der Verordnung den vom Versicherten in einem anderen Mitgliedstaat zurückgelegten Versicherungszeiten einen fiktiven Durchschnittswert beizumessen hat.
+
+38
+
+Für eine sachgerechte Antwort an das vorlegende Gericht ist vorab darauf hinzuweisen, dass die Verordnung Nr. 1408/71 kein gemeinsames System der sozialen Sicherheit schafft, sondern unterschiedliche nationale Systeme bestehen lässt und diese nur koordinieren soll. Somit sind die Mitgliedstaaten nach ständiger Rechtsprechung weiterhin für die Ausgestaltung ihrer Systeme der sozialen Sicherheit zuständig (vgl. u. a. Urteil vom 21. Februar 2013, Salgado González, C‑282/11, EU:C:2013:86, Rn. 35 und die dort angeführte Rechtsprechung).
+
+39
+
+In Ermangelung einer Harmonisierung auf Unionsebene bestimmt somit das Recht eines jeden Mitgliedstaats u. a. die Voraussetzungen für die Begründung von Ansprüchen auf Leistungen (Urteil vom 21. Februar 2013, Salgado González, C‑282/11, EU:C:2013:86, Rn. 36 und die dort angeführte Rechtsprechung).
+
+40
+
+Gleichwohl müssen die Mitgliedstaaten bei der Ausübung dieser Befugnis das Unionsrecht und insbesondere die Bestimmungen des AEU-Vertrags über die jedem Unionsbürger zuerkannte Freiheit beachten, sich im Hoheitsgebiet der Mitgliedstaaten frei zu bewegen und aufzuhalten (Urteil vom 21. Februar 2013, Salgado González, C‑282/11, EU:C:2013:86, Rn. 37 und die dort angeführte Rechtsprechung).
+
+41
+
+Insoweit ist daran zu erinnern, dass nach Art. 45 der Verordnung Nr. 1408/71 der zuständige Träger eines Mitgliedstaats, wenn nach den Rechtsvorschriften dieses Mitgliedstaats der Erwerb, die Aufrechterhaltung oder das Wiederaufleben des Anspruchs auf die Leistungen eines Systems davon abhängig ist, dass Versicherungszeiten zurückgelegt worden sind, die nach den Rechtsvorschriften jedes anderen Mitgliedstaats zurückgelegten Versicherungszeiten so berücksichtigen muss, als ob es sich um nach den von ihm anzuwendenden Rechtsvorschriften zurückgelegte Zeiten handelte. Mit anderen Worten: Die in verschiedenen Mitgliedstaaten zurückgelegten Versicherungszeiten müssen zusammengerechnet werden.
+
+42
+
+In einem solchen Fall sieht Art. 46 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 vor, dass der zuständige Träger den theoretischen Betrag der Leistung, auf die der Versicherte Anspruch hätte, so berechnet, als ob alle von ihm in verschiedenen Mitgliedstaaten zurückgelegten Zeiten der Erwerbstätigkeit im Mitgliedstaat des zuständigen Trägers zurückgelegt worden wären. Der zuständige Träger ermittelt sodann gemäß Art. 46 Abs. 2 Buchst. b der Verordnung den tatsächlich geschuldeten Betrag auf der Grundlage des theoretischen Betrags zeitanteilig nach dem Verhältnis zwischen der Dauer der Versicherungs- und/oder Wohnzeiten im Mitgliedstaat des zuständigen Trägers zu den gesamten Versicherungs- und/oder Wohnzeiten in den verschiedenen Mitgliedstaaten. Dies ist die zeitanteilige Berechnung.
+
+43
+
+Art. 47 der Verordnung Nr. 1408/71 sieht ergänzende Vorschriften für die Berechnung des theoretischen und des zeitanteiligen Betrags im Sinne von Art. 46 Abs. 2 der Verordnung vor. So stellt Art. 47 Abs. 1 Buchst. d der Verordnung u. a. klar, dass der zuständige Träger eines Mitgliedstaats, nach dessen Rechtsvorschriften bei der Berechnung von Leistungen die Höhe der Arbeitsentgelte, Arbeitseinkommen, Beiträge oder Steigerungsbeträge zugrunde zu legen ist, diese Entgelte, Einkommen, Beiträge oder Steigerungsbeträge für die nach den Rechtsvorschriften anderer Mitgliedstaaten zurückgelegten Versicherungs- oder Wohnzeiten auf der Grundlage der Durchschnittsarbeitsentgelte, ‑arbeitseinkommen, ‑beiträge oder ‑steigerungsbeträge ermittelt, die für die nach den von dem genannten Träger angewendeten Rechtsvorschriften zurückgelegten Versicherungszeiten festgestellt worden sind.
+
+44
+
+Im vorliegenden Fall ist darauf hinzuweisen, dass die schwedische Regierung in der mündlichen Verhandlung selbst eingeräumt hat, dass die Garantierente ihren Empfängern einen angemessenen Lebensstandard gewährleisten soll, indem ihnen, wenn die einkommensabhängige Rente zu niedrig ist oder gar kein entsprechender Anspruch besteht, ein Mindesteinkommen garantiert wird, das über das hinausgeht, was ihnen gewährt würde, wenn sie nur die einkommensabhängige Rente erhielten. Die Garantierente stellt somit die Grundsicherung im Rahmen der Altersrente des allgemeinen schwedischen Rentensystems dar.
+
+45
+
+Der Gerichtshof hat insoweit in Rn. 15 des Urteils vom 17. Dezember 1981, Browning (22/81, EU:C:1981:316), festgestellt, dass eine „Mindestleistung“ im Sinne von Art. 50 der Verordnung Nr. 1408/71 vorliegt, wenn die Rechtsvorschriften des Wohnstaats eine spezifische Garantie enthalten, die den Empfängern von Leistungen der sozialen Sicherheit ein Mindesteinkommen sichern soll, das über dem Betrag der Leistungen liegt, die sie allein aufgrund ihrer Versicherungszeiten und Beiträge verlangen könnten.
+
+46
+
+Im Hinblick auf den in Rn. 44 des vorliegenden Urteils beschriebenen Zweck handelt es sich bei der im Ausgangsverfahren in Rede stehenden Garantierente um eine Mindestleistung im Sinne von Art. 50 der Verordnung Nr. 1408/71.
+
+47
+
+Wie der Generalanwalt in Nr. 47 seiner Schlussanträge ausgeführt hat, kann Art. 46 Abs. 2 der Verordnung Nr. 1408/71 keine speziellen und detaillierten Regeln für die Berechnung von Mindestleistungen vorschreiben, da die Verordnung nicht verlangt, dass die Mitgliedstaaten solche Mindestleistungen vorsehen, und somit auch nicht unbedingt die Rechtsvorschriften aller Mitgliedstaaten solche Leistungen umfassen.
+
+48
+
+Folglich ist der Anspruch auf eine Mindestleistung wie die im Ausgangsverfahren in Rede stehende Garantierente nicht anhand von Art. 46 Abs. 2 oder Art. 47 Abs. 1 Buchst. d der Verordnung Nr. 1408/71, sondern nach den besonderen Vorschriften des Art. 50 der Verordnung und den einschlägigen nationalen Rechtsvorschriften zu ermitteln.
+
+49
+
+Aus der Darstellung des Sachverhalts in Rn. 29 des vorliegenden Urteils geht jedoch hervor, dass der zuständige Träger für die Berechnung der Ansprüche von Frau Zaniewicz-Dybeck auf eine Garantierente zum einen gemäß Kapitel 67 § 25 SFB die Einkommens- und die Zusatzrente der Betroffenen, die die Berechnungsgrundlage der Garantierente darstellen, zeitanteilig berechnet hat, was – wie der Generalanwalt in den Nrn. 45 und 46 seiner Schlussanträge ausgeführt hat – der in Art. 46 Abs. 2 Buchst. a und b der Verordnung Nr. 1408/71 vorgesehenen Methode entspricht. Zum anderen hat der zuständige Träger die von Frau Zaniewicz-Dybeck in Polen erworbenen Rentenansprüche bei der zeitanteiligen Berechnung nach Art. 46 Abs. 2 gemäß der rechtlichen Stellungnahme nicht berücksichtigt, sondern den von ihr in Schweden erworbenen Ansprüchen auf eine einkommensabhängige Rente gemäß Art. 47 Abs. 1 Buchst. d der Verordnung Nr. 1408/71 einen jährlichen Wert beigemessen und diesen dann mit der für die Garantierente geltenden maximalen Versicherungszeit von 40 Jahren multipliziert. Wie aus dem Vorlagebeschluss hervorgeht, überstieg das mit der eben beschriebenen Berechnungsmethode erzielte Ergebnis die für die Gewährung einer Garantierente geltende Obergrenze.
+
+50
+
+Wie aus Rn. 48 des vorliegenden Urteils hervorgeht, kann eine solche auf Art. 46 Abs. 2 und Art. 47 Abs. 1 Buchst. d der Verordnung Nr. 1408/71 beruhende Berechnungsmethode nicht angewandt werden, um eine Mindestleistung wie die im Ausgangsverfahren in Rede stehende Garantierente zu berechnen.
+
+51
+
+Der zuständige Träger muss die Garantierente gemäß den Bestimmungen des Art. 50 der Verordnung Nr. 1408/71 und des nationalen Rechts – mit Ausnahme von Kapitel 67 § 25 SFB und der rechtlichen Stellungnahme – berechnen.
+
+52
+
+Daher ist auf die erste Frage zu antworten, dass die Verordnung Nr. 1408/71 dahin auszulegen ist, dass bei der Berechnung einer Mindestleistung wie der im Ausgangsverfahren in Rede stehenden Garantierente durch den zuständigen Träger eines Mitgliedstaats weder Art. 46 Abs. 2 noch Art. 47 Abs. 1 Buchst. d der Verordnung anzuwenden ist. Eine solche Leistung muss gemäß Art. 50 der Verordnung in Verbindung mit dem nationalen Recht – mit Ausnahme von die zeitanteilige Berechnung betreffenden nationalen Rechtsvorschriften wie den im Ausgangsverfahren in Rede stehenden – berechnet werden.
+
+Zur zweiten Frage
+
+53
+
+Mit seiner zweiten Frage möchte das vorlegende Gericht wissen, ob die Verordnung Nr. 1408/71 dahin auszulegen ist, dass sie Rechtsvorschriften eines Mitgliedstaats entgegensteht, nach denen der zuständige Träger bei der Berechnung einer Leistung wie der im Ausgangsverfahren in Rede stehenden Garantierente alle Altersrenten berücksichtigen muss, die der Betroffene tatsächlich aus einem oder mehreren anderen Mitgliedstaaten bezieht.
+
+54
+
+Wie aus der Beantwortung der ersten Frage hervorgeht, ist eine Mindestleistung wie die im Ausgangsverfahren in Rede stehende Garantierente nach Art. 50 der Verordnung Nr. 1408/71 und dem einschlägigen nationalen Recht zu berechnen.
+
+55
+
+Aus den die Garantierente betreffenden nationalen Rechtsvorschriften des SFB, wie sie in Rn. 19 des vorliegenden Urteils wiedergegeben sind, geht ausdrücklich hervor, dass die Altersrenten aus ausländischen Rentenpflichtversicherungen, die der Garantierente nicht gleichgestellt werden können, Teil der Berechnungsgrundlage der Garantierente sind. Somit hat der zuständige Träger im betreffenden Mitgliedstaat gemäß den einschlägigen nationalen Rechtsvorschriften bei der Berechnung der Garantierente die Altersrenten zu berücksichtigen, die der Betroffene aus anderen Mitgliedstaaten bezieht.
+
+56
+
+Unter diesen Umständen ist zu prüfen, ob die Verordnung Nr. 1408/71 und insbesondere ihr Art. 50 den Rechtsvorschriften eines Mitgliedstaats entgegenstehen, nach denen der zuständige Träger im Rahmen der Berechnung von Ansprüchen auf eine Mindestleistung wie die im Ausgangsverfahren in Rede stehende Garantierente Altersrenten berücksichtigen muss, die der Betroffene aus einem anderen Mitgliedstaat bezieht.
+
+57
+
+Nach ständiger Rechtsprechung gilt Art. 50 der Verordnung Nr. 1408/71 für die Fälle, in denen die Beschäftigungszeiten des Arbeitnehmers gemäß den für ihn geltenden Rechtsvorschriften der entsprechenden Staaten verhältnismäßig kurz waren, so dass der Gesamtbetrag der aus diesen Staaten geschuldeten Leistungen kein für einen angemessenen Lebensstandard erforderliches Niveau erreicht (Urteile vom 30. November 1977, Torri, 64/77, EU:C:1977:197, Rn. 5, und vom 17. Dezember 1981, Browning, 22/81, EU:C:1981:316, Rn. 12).
+
+58
+
+Um dem abzuhelfen, bestimmt Art. 50 der Verordnung, dass, wenn das Recht des Wohnsitzstaats eine Mindestleistung vorsieht, die vom Wohnsitzstaat geschuldete Leistung um einen Zuschlag in Höhe des Unterschiedsbetrags zwischen der Summe der von den verschiedenen Staaten geschuldeten Leistungen und dem Betrag der Mindestleistung erhöht wird (Urteil vom 30. November 1977, Torri, 64/77, EU:C:1977:197, Rn. 6).
+
+59
+
+Wie der Generalanwalt in Nr. 59 seiner Schlussanträge ausgeführt hat, sieht daher Art. 50 der Verordnung Nr. 1408/71 für die Berechnung der Ansprüche auf eine Mindestleistung wie die im Ausgangsverfahren in Rede stehende Garantierente vor, dass insbesondere der tatsächliche Betrag der Altersrenten, die der Betroffene aus einem anderen Mitgliedstaat bezieht, zu berücksichtigen ist.
+
+60
+
+Folglich ist auf die zweite Frage zu antworten, dass die Verordnung Nr. 1408/71 und insbesondere ihr Art. 50 dahin auszulegen ist, dass sie Rechtsvorschriften eines Mitgliedstaats, nach denen der zuständige Träger bei der Berechnung einer Mindestleistung wie der im Ausgangsverfahren in Rede stehenden Garantierente alle Altersrenten berücksichtigen muss, die der Betroffene tatsächlich aus einem oder mehreren anderen Mitgliedstaaten bezieht, nicht entgegensteht.
+
+Kosten
+
+61
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Fünfte Kammer) für Recht erkannt:
+
+ 	
+1.
+
+Die Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern, in ihrer durch die Verordnung (EG) Nr. 118/97 des Rates vom 2. Dezember 1996 geänderten und aktualisierten Fassung, geändert durch die Verordnung (EG) Nr. 1606/98 des Rates vom 29. Juni 1998, ist dahin auszulegen, dass bei der Berechnung einer Mindestleistung wie der im Ausgangsverfahren in Rede stehenden Garantierente durch den zuständigen Träger eines Mitgliedstaats weder Art. 46 Abs. 2 noch Art. 47 Abs. 1 Buchst. d der Verordnung anzuwenden ist. Eine solche Leistung muss gemäß Art. 50 der Verordnung in Verbindung mit dem nationalen Recht – mit Ausnahme von die zeitanteilige Berechnung betreffenden nationalen Rechtsvorschriften wie den im Ausgangsverfahren in Rede stehenden – berechnet werden.
+
+ 	
+2.
+
+Die Verordnung Nr. 1408/71 in ihrer durch die Verordnung Nr. 118/97 geänderten und aktualisierten Fassung, geändert durch die Verordnung Nr. 1606/98, und insbesondere ihr Art. 50 ist dahin auszulegen, dass sie Rechtsvorschriften eines Mitgliedstaats, nach denen der zuständige Träger bei der Berechnung einer Mindestleistung wie der im Ausgangsverfahren in Rede stehenden Garantierente alle Altersrenten berücksichtigen muss, die der Betroffene tatsächlich aus einem oder mehreren anderen Mitgliedstaaten bezieht, nicht entgegensteht.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Schwedisch.

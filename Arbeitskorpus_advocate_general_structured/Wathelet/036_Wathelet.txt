@@ -1,0 +1,564 @@
+URTEIL DES GERICHTSHOFS (Erste Kammer)
+
+22. März 2018 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Direkte Besteuerung – Niederlassungsfreiheit – Fusionen, Spaltungen, Einbringung von Unternehmensteilen und Austausch von Anteilen, die Gesellschaften verschiedener Mitgliedstaaten betreffen – Richtlinie 90/434/EWG – Art. 8 – Austausch von Anteilen – Auf diesen Vorgang entfallende Wertsteigerung – Aufschub der Besteuerung – Wertminderung bei der späteren Veräußerung der erhaltenen Anteile – Steuerhoheit des Wohnsitzmitgliedstaats – Ungleichbehandlung – Rechtfertigung – Wahrung der Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten“
+
+In den verbundenen Rechtssachen C‑327/16 und C‑421/16
+
+betreffend zwei Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Conseil d’État (Staatsrat, Frankreich) mit Entscheidungen vom 31. Mai 2016 und vom 19. Juli 2016, beim Gerichtshof eingegangen am 10. Juni 2016 und am 28. Juli 2016, in den Verfahren
+
+Marc Jacob
+
+gegen
+
+Ministre des Finances et des Comptes publics (C‑327/16)
+
+und
+
+Ministre des Finances et des Comptes publics
+
+gegen
+
+Marc Lassus (C‑421/16)
+
+erlässt
+
+DER GERICHTSHOF (Erste Kammer)
+
+unter Mitwirkung der Kammerpräsidentin R. Silva de Lapuerta, des Präsidenten des Gerichtshofs K. Lenaerts in Wahrnehmung der Aufgaben eines Richters der Ersten Kammer sowie der Richter C. G. Fernlund (Berichterstatter), A. Arabadjiev und E. Regan,
+
+Generalanwalt: M. Wathelet,
+
+Kanzler: V. Giacobbo-Peyronnel, Verwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 13. September 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+von Herrn Jacob, vertreten durch E. Ginter und J. Bellet, avocats,
+
+–
+
+der französischen Regierung, vertreten durch D. Colas, E. de Moustier und S. Ghiandoni als Bevollmächtigte,
+
+–
+
+der österreichischen Regierung, vertreten durch G. Eberhard als Bevollmächtigten,
+
+–
+
+der finnischen Regierung, vertreten durch J. Heliskoski als Bevollmächtigten,
+
+–
+
+der schwedischen Regierung, vertreten durch A. Falk, C. Meyer-Seitz, U. Persson, N. Otte Widgren, H. Shev und F. Bergius als Bevollmächtigte,
+
+–
+
+der Europäischen Kommission, vertreten durch N. Gossement und W. Roels als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 15. November 2017
+
+folgendes
+
+Urteil
+
+1
+
+Die Vorabentscheidungsersuchen betreffen die Auslegung von Art. 8 der Richtlinie 90/434/EWG des Rates vom 23. Juli 1990 über das gemeinsame Steuersystem für Fusionen, Spaltungen, die Einbringung von Unternehmensteilen und den Austausch von Anteilen, die Gesellschaften verschiedener Mitgliedstaaten betreffen (ABl. 1990, L 225, S. 1), in der durch die Akte über die Bedingungen des Beitritts des Königreichs Norwegen, der Republik Österreich, der Republik Finnland und des Königreichs Schweden (ABl. 1994, C 241, S. 21) geänderten Fassung, angepasst durch den Beschluss 95/1/EG, Euratom, EGKS des Rates der Europäischen Union vom 1. Januar 1995 (ABl. 1995, L 1, S. 1) (im Folgenden: Fusionsrichtlinie) und von Art. 49 AEUV.
+
+2
+
+Diese Ersuchen ergehen im Rahmen von Rechtsstreitigkeiten zwischen Herrn Marc Jacob und dem Ministre des Finances et des Comptes publics (Minister für Finanzen und die öffentlichen Haushalte, Frankreich, im Folgenden: Finanzverwaltung) sowie zwischen der Finanzverwaltung und Herrn Marc Lassus über Entscheidungen der Finanzverwaltung, die Wertsteigerung aus einem Anteilstausch anlässlich der späteren Veräußerung der erworbenen Anteile zu besteuern.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+3
+
+Die Erwägungsgründe 1, 4 und 8 der Fusionsrichtlinie sehen vor:
+
+„Fusionen, Spaltungen, die Einbringung von Unternehmensanteilen und der Austausch von Anteilen, die Gesellschaften verschiedener Mitgliedstaaten betreffen, können notwendig sein, um binnenmarktähnliche Verhältnisse in der Gemeinschaft zu schaffen und damit die Errichtung und das Funktionieren des Gemeinsamen Marktes zu gewährleisten. Sie dürfen nicht durch besondere Beschränkungen, Benachteiligungen oder Verfälschungen aufgrund von steuerlichen Vorschriften der Mitgliedstaaten behindert werden. Demzufolge müssen wettbewerbsneutrale steuerliche Regelungen für diese Vorgänge geschaffen werden, um die Anpassung von Unternehmen an die Erfordernisse des Gemeinsamen Marktes, eine Erhöhung ihrer Produktivität und eine Stärkung ihrer Wettbewerbsfähigkeit auf internationaler Ebene zu ermöglichen.
+
+…
+
+Die gemeinsame steuerliche Regelung muss eine Besteuerung anlässlich einer Fusion, Spaltung, Einbringung von Unternehmensteilen oder eines Austauschs von Anteilen vermeiden, unter gleichzeitiger Wahrung der finanziellen Interessen des Staates der einbringenden oder erworbenen Gesellschaft.
+
+…
+
+Die Zuteilung von Anteilen an der übernehmenden oder erwerbenden Gesellschaft an die Gesellschafter der einbringenden Gesellschaft darf für sich allein keine Besteuerung in der Person der Gesellschafter auslösen.“
+
+4
+
+Nach Art. 1 dieser Richtlinie „[wendet j]eder Mitgliedstaat … diese Richtlinie auf Fusionen, Spaltungen, die Einbringung von Unternehmensteilen und den Austausch von Anteilen an, wenn daran Gesellschaften aus zwei oder mehr Mitgliedstaaten beteiligt sind“.
+
+5
+
+In Art. 2 der Fusionsrichtlinie heißt es:
+
+„Im Sinne dieser Richtlinie ist
+
+…
+
+d)
+
+‚Austausch von Anteilen‘ der Vorgang, durch den eine Gesellschaft am Gesellschaftskapital einer anderen Gesellschaft eine Beteiligung erwirbt, die ihr die Mehrheit der Stimmrechte verleiht, und zwar gegen Gewährung von Anteilen an der erwerbenden Gesellschaft an die Gesellschafter der anderen Gesellschaft sowie gegebenenfalls einer baren Zuzahlung; letztere darf 10 % des Nennwerts oder – bei Fehlen eines solchen – des rechnerischen Werts der gewährten Anteile nicht überschreiten;
+
+…
+
+g)
+
+‚erworbene Gesellschaft‘ die Gesellschaft, an der beim Austausch von Anteilen eine Beteiligung erworben wurde;
+
+h)
+
+‚erwerbende Gesellschaft‘ die Gesellschaft, die beim Austausch von Anteilen eine Beteiligung erwirbt;
+
+…“
+
+6
+
+Art. 3 der Fusionsrichtlinie bestimmt:
+
+„Im Sinne dieser Richtlinie ist ‚Gesellschaft eines Mitgliedstaats‘ jede Gesellschaft,
+
+a)
+
+die eine der im Anhang aufgeführten Formen aufweist;
+
+b)
+
+die nach dem Steuerrecht eines Mitgliedstaats als in diesem Staate ansässig und nicht aufgrund eines Doppelbesteuerungsabkommens mit einem dritten Staat als außerhalb der Gemeinschaft ansässig angesehen wird;
+
+c)
+
+die ferner ohne Wahlmöglichkeit einer der nachstehenden Steuern
+
+…
+
+–
+
+impôt sur les sociétés in Frankreich,
+
+…
+
+–
+
+impôt sur le revenu des collectivités in Luxemburg,
+
+…
+
+oder irgendeiner Steuer, die eine dieser Steuern ersetzt, unterliegt, ohne davon befreit zu sein.“
+
+7
+
+In Art. 8 Abs. 1 und 2 der Fusionsrichtlinie heißt es:
+
+„(1)   Die Zuteilung von Anteilen am Gesellschaftskapital der übernehmenden oder erwerbenden Gesellschaft an die Gesellschafter der einbringenden oder erworbenen Gesellschaft gegen Anteile an deren Gesellschaftskapital aufgrund der Fusion, der Spaltung oder des Austausches von Anteilen darf für sich allein keine Besteuerung des Veräußerungsgewinns auslösen.
+
+(2)   Die Mitgliedstaaten machen die Anwendung von Absatz 1 von der Voraussetzung abhängig, dass der Gesellschafter den erworbenen Anteilen keinen höheren steuerlichen Wert beimisst, als den Anteilen an der einbringenden oder erworbenen Gesellschaft unmittelbar vor der Fusion, der Spaltung oder dem Austausch von Anteilen beigemessen war.
+
+Die Anwendung des Absatzes 1 hindert die Mitgliedstaaten nicht, den Gewinn aus einer späteren Veräußerung der erworbenen Anteile in gleicher Weise zu besteuern wie den Gewinn aus einer Veräußerung der vor dem Erwerb vorhandenen Anteile.
+
+…“
+
+Zwischenstaatliches Recht
+
+8
+
+Art. 18 des am 10. März 1964 in Brüssel unterzeichneten Abkommens zwischen Frankreich und Belgien zur Vermeidung der Doppelbesteuerung und zur Festlegung von Regeln über die gegenseitige Verwaltungs- und Rechtshilfe im Bereich der Einkommensteuer sieht vor:
+
+„Soweit die vorstehenden Artikel dieses Abkommens nichts anderes bestimmen, werden die Einkünfte der Gebietsansässigen eines der beiden Vertragsstaaten nur in diesem Staat besteuert.“
+
+9
+
+Art. 13 Abs. 3 und 4 des am 22. Mai 1968 in London unterzeichneten Abkommens zwischen der Französischen Republik und der Regierung des Vereinigten Königreichs und Nordirlands zur Vermeidung der Doppelbesteuerung und zur Verhinderung der Steuerhinterziehung im Bereich der Einkommen- und Vermögensteuer (im Folgenden: französisch-britisches Abkommen) bestimmt:
+
+„3.   Gewinne aus der Veräußerung des in den Abs. 1 und 2 nicht genannten Vermögens können nur in dem Staat besteuert werden, in dem der Veräußerer ansässig ist.
+
+4.   Unbeschadet der Bestimmungen des Abs. 3 werden die Gewinne, die eine in einem Vertragsstaat ansässige natürliche Person bei der Veräußerung von mehr als 25 Prozent der Anteile erzielt, die allein oder mit verwandten Personen an einer in einem anderen Vertragsstaat ansässigen Gesellschaft gehalten wurden, in diesem anderen Staat besteuert. Die Bestimmungen dieses Absatzes finden nur Anwendung, wenn
+
+a)
+
+die natürliche Person die Staatsangehörigkeit des anderen Vertragsstaats besitzt, ohne zugleich die Staatsangehörigkeit des ersten Vertragsstaats zu besitzen, und
+
+b)
+
+die natürliche Person in den letzten fünf Jahren vor der Veräußerung der Anteile während eines beliebig langen Zeitraums in dem anderen Vertragsstaat gebietsansässig war.
+
+Die Bestimmungen dieses Absatzes finden auch Anwendung auf die aus der Veräußerung anderer Gesellschaftsrechte an dieser Gesellschaft erzielten Gewinne, die für Zwecke der Kapitalertragsbesteuerung nach den Rechtsvorschriften dieses anderen Vertragsstaats derselben Regelung wie die aus der Veräußerung von Anteilen erzielten Gewinne unterliegen.“
+
+Französisches Recht
+
+10
+
+Art. 92 B Teil II Abs. 1 des Code général des impôts (Allgemeines Steuergesetzbuch, im Folgenden: CGI) in seiner auf die Wertsteigerungen, deren Besteuerung bis zum 1. Januar 2000 aufgeschoben war, anwendbaren Fassung lautet:
+
+„Ab 1. Januar 1992 bzw. 1. Januar 1991 kann bei der Einbringung von Anteilen in eine körperschaftsteuerpflichtige Gesellschaft die Besteuerung der Wertsteigerung, die beim Austausch von Anteilen aufgrund eines öffentlichen Angebots, einer Fusion, einer Spaltung, einer Übernahme eines Kapitalanlagefonds durch eine Investmentgesellschaft mit veränderlichem Kapital entsprechend den geltenden Vorschriften oder aufgrund der Einbringung von Anteilen in eine körperschaftsteuerpflichtige Gesellschaft erzielt wird, bis zur Veräußerung oder zum Rückerwerb der beim Tausch erworbenen Anteile aufgeschoben werden …“
+
+11
+
+Art. 160 Teile I und I ter des CGI in seiner für die Ausgangsverfahren maßgebenden Fassung bestimmt:
+
+„I. … Die Besteuerung der so realisierten Wertsteigerung setzt nur voraus, dass die unmittelbaren oder mittelbaren Rechte des Veräußerers oder seines Ehegatten und ihrer Verwandten in aufsteigender oder absteigender Linie an den Gesellschaftsgewinnen zu irgendeinem Zeitpunkt im Laufe der letzten fünf Jahre zusammen 25 % dieser Gewinne überstiegen. Erfolgt aber die Veräußerung an eine der in diesem Absatz genannten Personen, so ist die Wertsteigerung von der Steuer befreit, wenn diese Gesellschaftsrechte weder insgesamt noch teilweise innerhalb von fünf Jahren an einen Dritten weiterveräußert werden. Andernfalls wird die Wertsteigerung beim ersten Veräußerer für das Jahr der Weiterveräußerung der Rechte an einen Dritten besteuert.
+
+…
+
+Die im Laufe eines Jahres erlittenen Wertverluste können nur mit Wertsteigerungen gleicher Art verrechnet werden, die im Lauf desselben Jahres oder in den folgenden fünf Jahren realisiert worden sind.
+
+…
+
+I ter. … 4. Die Besteuerung der Wertsteigerung, die ab 1. Januar 1991 beim Umtausch von Gesellschaftsrechten aufgrund einer Fusion, einer Spaltung oder einer Einbringung von Anteilen in eine körperschaftsteuerpflichtige Gesellschaft erzielt wird, kann unter den Voraussetzungen des Art. 92 B Abs. II aufgeschoben werden …“
+
+12
+
+Nach Art. 164 B Teil I Buchst. f des CGI in seiner 1999 geltenden Fassung gelten als Einkünfte französischen Ursprungs „die in Art. 160 genannten Wertsteigerungen aus der Veräußerung von Rechten an Gesellschaften mit Sitz in Frankreich“.
+
+13
+
+Art. 244 bis B des CGI in seiner zur Zeit der Veräußerung der Anteile im Jahr 1999 geltenden Fassung sah vor:
+
+„Die Erlöse aus der in Art. 160 genannten Veräußerung von Gesellschaftsrechten, die von natürlichen Personen, die nicht im Sinne von Art. 4 B in Frankreich steuerlich ansässig sind, oder von juristischen Person oder Einrichtungen gleich welcher Rechtsform mit Sitz außerhalb von Frankreich erzielt werden, werden gemäß den Bestimmungen des Art. 160 ermittelt und besteuert.“
+
+Ausgangsverfahren und Vorlagefragen
+
+Rechtssache C‑327/16
+
+14
+
+Am 23. Dezember 1996 brachte Herr Jacob, der seinen steuerlichen Wohnsitz in Frankreich hat, seine Anteile an einer Gesellschaft französischen Rechts im Austausch gegen Anteile an einer anderen Gesellschaft französischen Rechts in diese zuletzt genannte Gesellschaft ein. Im Einklang mit der zum Zeitpunkt des Sachverhalts geltenden Steuergesetzgebung wurde die Besteuerung der bei diesem Anteilstausch realisierten Wertsteigerung aufgeschoben.
+
+15
+
+Am 1. Oktober 2004 verlegte Herr Jacob seinen steuerlichen Wohnsitz von Frankreich nach Belgien.
+
+16
+
+Am 21. Dezember 2007 veräußerte Herr Jacob alle Anteile, die er anlässlich des in Rede stehenden Austauschvorgangs erhalten hatte. Daraufhin wurde auf die Wertsteigerung, deren Besteuerung aufgeschoben war, für das Jahr 2007 eine Steuer nebst Verzugszinsen und eines Zuschlags von 10 % erhoben.
+
+17
+
+Mit Urteil vom 8. Juni 2012 ordnete das Tribunal administratif de Montreuil (Verwaltungsgericht Montreuil, Frankreich) den Erlass der zusätzlichen Einkommensteuerbeträge an. Am 28. Mai 2015 hob die Cour administrative d’appel de Versailles (Verwaltungsberufungsgericht Versailles, Frankreich) dieses Urteil auf und setzte sämtliche Steuerbeträge, die Herrn Jacob erlassen worden waren, wieder in Kraft.
+
+18
+
+Am 1. Oktober 2015 legte Herr Jacob Kassationsbeschwerde beim Conseil d’État (Staatsrat, Frankreich) ein, wobei er geltend machte, dass die im Ausgangsverfahren in Rede stehenden nationalen Rechtsvorschriften, die der Umsetzung von Art. 8 der Fusionsrichtlinie in französisches Recht dienten, die von diesem Art. 8 verfolgten Ziele verkennen würden. Herr Jacob trägt hierzu vor, dass der die Besteuerung einer Wertsteigerung auslösende Tatbestand gemäß Art. 8 die spätere Veräußerung der erhaltenen Anteile sei und nicht der Vorgang des Austauschs der Anteile, welcher lediglich einen steuerlich neutralen Zwischenumsatz darstelle.
+
+19
+
+Das vorlegende Gericht führt im Wesentlichen aus, dass es für die Auslegung der in Rede stehenden nationalen Rechtsvorschriften auf die Auslegung von Art. 8 der Fusionsrichtlinie ankomme.
+
+20
+
+Unter diesen Umständen hat der Conseil d’État (Staatsrat) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+Rechtssache C‑421/16
+
+21
+
+Herr Lassus, der seit 1997 seinen steuerlichen Wohnsitz in Großbritannien hat, brachte am 7. Dezember 1999 seine Anteile an einer Gesellschaft französischen Rechts im Austausch gegen Anteile an einer Gesellschaft luxemburgischen Rechts in diese zuletzt genannte Gesellschaft ein. Dabei wurde eine Wertsteigerung festgestellt, deren Besteuerung gemäß den zum Zeitpunkt des Sachverhalts geltenden Rechtsvorschriften aufgeschoben wurde.
+
+22
+
+Aus der dem Gerichtshof vorliegenden Akte ergibt sich, dass Herr Lassus nach diesem Anteilstausch weitere Anteile an der Gesellschaft luxemburgischen Rechts erwarb. Im Dezember 2002 veräußerte Herr Lassus 45 % der Anteile, die er an dieser Gesellschaft hielt.
+
+23
+
+Aufgrund der Annahme, dass 45 % der beim Austausch von Herrn Lassus erhaltenen Anteile veräußert worden seien, besteuerte die Finanzverwaltung einen entsprechenden Bruchteil der in der Besteuerung aufgeschobenen Wertsteigerung, wie sie für das Jahr 1999 festgestellt worden war. Die Steuerverwaltung setzte daher gegen Herrn Lassus zusätzliche Einkommensteuerbeträge für das Jahr 2002 fest.
+
+24
+
+Herr Lassus wandte sich gegen diese Einkommensteuerbeträge und rief das Tribunal administratif de Paris (Verwaltungsgericht Paris, Frankreich) an, das seine Klage abwies. Die mit dem Rechtsmittel befasste Cour administrative d’appel de Paris (Verwaltungsberufungsgericht Paris, Frankreich) hob die Entscheidung des erstinstanzlichen Gerichts auf und erließ Herrn Lassus die genannten Einkommensteuerbeträge. Die Finanzverwaltung legte daraufhin beim Conseil d’État (Staatsrat) Kassationsbeschwerde gegen diese Entscheidung ein.
+
+25
+
+Das vorlegende Gericht führt aus, dass nach den im Ausgangsverfahren streitigen Rechtsvorschriften und nach Art. 13 Abs. 4 Buchst. a und b des französisch-britischen Steuerabkommens die aus dem Anteilstausch entstandene, von Herrn Lassus – der seinen steuerlichen Wohnsitz in Großbritannien habe – im Jahr 1999 erzielte Wertsteigerung in Frankreich besteuert werden könne.
+
+26
+
+Das Gericht ist ferner der Auffassung, dass die in Rede stehenden nationalen Rechtsvorschriften – abweichend von der Regel, wonach der die Besteuerung einer Wertsteigerung auslösende Tatbestand im Jahr von deren Eintritt erfüllt werde – lediglich ermöglichen sollten, die aus dem Anteilstausch entstandene Wertsteigerung im Jahr ihres Eintritts festzustellen und festzusetzen und dann in dem Jahr zu besteuern, in dem das den Aufschub der Besteuerung beendende Ereignis eintrete, d. h. dem Jahr der Veräußerung der beim Anteilstausch erworbenen Anteile.
+
+27
+
+In diesem Zusammenhang sei der Umstand, dass die aus der späteren Veräußerung der erworbenen Anteile entstandene Wertsteigerung in einem anderen Mitgliedstaat als der Französischen Republik steuerbar sei, für die Befugnis des letztgenannten Staates, die Wertsteigerung aus dem im Ausgangsverfahren in Rede stehenden Anteilstausch zu besteuern, unerheblich.
+
+28
+
+Herr Lassus ist mit dieser Auslegung jedoch nicht einverstanden. Er macht in erster Linie geltend, dass die mit den nationalen Rechtsvorschriften eingeführte Regelung über den Besteuerungsaufschub mit Art. 8 der Fusionsrichtlinie unvereinbar sei. Dieser Artikel sehe die spätere Veräußerung der erworbenen Anteile als den die Besteuerung auslösenden Tatbestand vor, nicht aber den Anteilstausch, der einen steuerlich neutralen Zwischenumsatz darstelle. Überdies habe die Französische Republik im vorliegenden Fall zum Zeitpunkt der Veräußerung der im Austausch erhaltenen Anteile ihre Besteuerungshoheit über die betreffende Wertsteigerung verloren gehabt, da der maßgebliche Verkauf der Steuerhoheit des Vereinigten Königreichs unterliege.
+
+29
+
+Wenn die Veräußerung in Frankreich steuerbar wäre, würde, da nach den nationalen Rechtsvorschriften die mit der Veräußerung verbundene Wertminderung von gebietsansässigen Steuerpflichtigen auf gleichartige Wertsteigerungen angerechnet werden könne, die Weigerung der Finanzverwaltung, die durch die Veräußerung der Anteile im Jahr 2002 entstandene Wertminderung auf die aus dem Anteilstausch entstandene Wertsteigerung, für die Besteuerungsaufschub gewährt worden sei, anzurechnen, eine Beschränkung der Niederlassungsfreiheit darstellen.
+
+30
+
+Unter diesen Umständen hat der Conseil d’État (Staatsrat) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+31
+
+Mit Beschluss des Präsidenten des Gerichtshofs vom 10. November 2017 sind die Rechtssachen C‑327/16 und C‑421/16 zu gemeinsamem mündlichen Verfahren und zu gemeinsamer Entscheidung verbunden worden.
+
+Zu den Vorlagefragen
+
+Zur Zulässigkeit
+
+32
+
+Wie der Generalanwalt in Nr. 46 seiner Schlussanträge ausgeführt hat, ergibt sich aus Art. 1 der Fusionsrichtlinie, dass sie für Fusionen, Spaltungen, die Einbringung von Unternehmensteilen und den Austausch von Anteilen bei grenzüberschreitenden Sachverhalten gilt, wenn daran Gesellschaften aus zwei oder mehr Mitgliedstaaten beteiligt sind. Der Sachverhalt, der dem Ausgangsverfahren in der Rechtssache C‑327/16 zugrunde liegt, bezieht sich allerdings auf einen Austausch von Anteilen, an dem zwei in ein und demselben Mitgliedstaat, hier Frankreich, ansässige Gesellschaften beteiligt sind.
+
+33
+
+Insoweit ist darauf hinzuweisen, dass der Gerichtshof Vorabentscheidungsersuchen in Fällen für zulässig erklärt hat, in denen zwar der Sachverhalt des Ausgangsverfahrens nicht unmittelbar in den Geltungsbereich des Unionsrechts fiel, aber die Vorschriften des Unionsrechts durch das nationale Recht, das sich zur Regelung rein innerstaatlicher Sachverhalte, deren Merkmale sämtlich nicht über die Grenzen eines Mitgliedstaats hinauswiesen, nach denen im Unionsrecht getroffenen Regelungen richtete, für anwendbar erklärt worden waren (Urteil vom 15. November 2016, Ullens de Schooten,C‑268/15, EU:C:2016:874, Rn. 53 und die dort angeführte Rechtsprechung).
+
+34
+
+In solchen Fällen besteht nämlich ein klares Interesse der Union daran, dass die aus dem Unionsrecht übernommenen Bestimmungen oder Begriffe unabhängig davon, unter welchen Voraussetzungen sie angewandt werden sollen, einheitlich ausgelegt werden, um künftige Auslegungsunterschiede zu vermeiden (Urteil vom 14. März 2013, Allianz Hungária Biztosító u. a.,C‑32/11, EU:C:2013:160, Rn. 20 und die dort angeführte Rechtsprechung).
+
+35
+
+Im vorliegenden Fall ist zunächst festzustellen, dass sich die Vorlagefragen auf die Auslegung von Bestimmungen des Unionsrechts, nämlich diejenigen der Fusionsrichtlinie, beziehen.
+
+36
+
+Zweitens hat das vorlegende Gericht auf ein Ersuchen um Klarstellung des Gerichtshofs vom 21. Juli 2016 präzisiert, dass die im Ausgangsverfahren in Rede stehenden Rechtsvorschriften zur Umsetzung der Fusionsrichtlinie, soweit der steuerpflichtige Anteilsinhaber zum Zeitpunkt des Austauschs seinen steuerlichen Wohnsitz in Frankreich hat, unter den gleichen Voraussetzungen für den Austausch von Anteilen gelten, unabhängig davon, ob er rein innerstaatlich oder grenzüberschreitend stattfindet.
+
+37
+
+Da die im Ausgangsverfahren in Rede stehenden nationalen Rechtsvorschriften für die Behandlung von Sachverhalten, in denen der Anteilstausch rein innerstaatlich stattfindet, mit den Bestimmungen der Fusionsrichtlinie übereinstimmen, ist festzustellen, dass die vom vorlegenden Gericht in der Rechtssache C‑327/16 vorgelegten Fragen zulässig sind.
+
+38
+
+In der Rechtssache C‑421/16 ist die österreichische Regierung im Wesentlichen der Auffassung, dass ein Sachverhalt, bei dem der Anteilsinhaber der erworbenen Gesellschaft seinen steuerlichen Wohnsitz in einem anderen Mitgliedstaat als dem der erworbenen Gesellschaft oder dem der erwerbenden Gesellschaft hat, nicht in den Anwendungsbereich der Fusionsrichtlinie fällt. Im Ausgangsverfahren hatte Herr Lassus seinen steuerlichen Wohnsitz bei dem in Rede stehenden Vorgang des Anteilstauschs im Vereinigten Königreich, während die erworbene Gesellschaft und die erwerbende Gesellschaft ihren Sitz in Frankreich bzw. in Luxemburg hatten.
+
+39
+
+Hierzu ist festzustellen, dass in keiner Bestimmung der Fusionsrichtlinie eine solche Beschränkung ihres Geltungsbereichs vorgesehen ist.
+
+40
+
+Die Fusionsrichtlinie soll nämlich, wie in Rn. 32 des vorliegenden Urteils ausgeführt, gelten, sobald ein Austausch von Anteilen im Sinne von Art. 2 der Richtlinie zwischen zwei oder mehr Gesellschaften aus unterschiedlicher Mitgliedstaaten stattfindet, die die in Art. 3 der Fusionsrichtlinie genannten Voraussetzungen erfüllen.
+
+41
+
+Dass der Inhaber der fraglichen Anteile seinen steuerlichen Wohnsitz in einem anderen Mitgliedstaat als dem der von dem Anteilstausch betroffenen Gesellschaften hat, ist daher für die Bestimmung des Geltungsbereichs der Fusionsrichtlinie ohne Belang.
+
+42
+
+Im vorliegenden Fall steht zum einen fest, dass der im Ausgangsverfahren in Rede stehende Vorgang zwei Gesellschaften aus zwei unterschiedlichen Mitgliedstaaten betrifft, und zum anderen, dass die betroffenen Gesellschaften die in Art. 3 dieser Richtlinie genannten Voraussetzungen erfüllen.
+
+43
+
+Unter diesen Umständen kann nicht davon ausgegangen werden, dass die Fusionsrichtlinie nur in dem Fall Anwendung findet, in dem der Teilhaber der erworbenen Gesellschaft seinen steuerlichen Wohnsitz im gleichen Mitgliedstaat wie dem der erworbenen Gesellschaft oder dem der erwerbenden Gesellschaft hat. Folglich sind die vom vorlegenden Gericht in der Rechtssache C‑421/16 vorgelegten Fragen zu beantworten.
+
+Zur Beantwortung der Fragen
+
+Zur jeweils ersten Frage
+
+44
+
+Mit seiner jeweils ersten Frage in den Rechtssachen C‑327/16 und C‑421/16 möchte das vorlegende Gericht wissen, ob Art. 8 der Fusionsrichtlinie dahin auszulegen ist, dass er Rechtsvorschriften eines Mitgliedstaats entgegensteht, wonach die aus einem Austausch von Anteilen entstandene Wertsteigerung anlässlich des Austauschs festgestellt wird, ihre Besteuerung aber bis zu dem Jahr aufgeschoben wird, in dem das den Aufschub der Besteuerung beendende Ereignis – im vorliegenden Fall die Veräußerung der erworbenen Anteile – eintritt.
+
+45
+
+Vorab ist festzustellen, dass in beiden Rechtssachen nicht vorgetragen wurde, dass die betreffenden Steuerpflichtigen den erworbenen Anteilen einen höheren steuerlichen Wert beigemessen hätten als den, der den Anteilen unmittelbar vor dem Austausch beigemessen war. Daher ist Art. 8 Abs. 1 der Fusionsrichtlinie auf den jeweils in Rede stehenden Austausch anwendbar.
+
+46
+
+Nach dieser Bestimmung darf die Zuteilung von Anteilen am Gesellschaftskapital der übernehmenden oder erwerbenden Gesellschaft an die Gesellschafter der einbringenden oder erworbenen Gesellschaft gegen Anteile an deren Gesellschaftskapital aufgrund des Austauschs von Anteilen für sich allein keine Besteuerung des Veräußerungsgewinns auslösen.
+
+47
+
+Durch dieses Gebot der steuerlichen Neutralität gegenüber einem solchen Gesellschafter soll die Fusionsrichtlinie, wie aus ihren Erwägungsgründen 1 und 4 hervorgeht, gewährleisten, dass ein Austausch von Anteilen, der Gesellschaften verschiedener Mitgliedstaaten betrifft, nicht durch besondere Beschränkungen, Benachteiligungen oder Verfälschungen aufgrund von steuerlichen Vorschriften der Mitgliedstaaten behindert wird (Urteil vom 11. Dezember 2008, A.T.,C‑285/07, EU:C:2008:705, Rn. 21).
+
+48
+
+Allerdings ist zu beachten, dass die Fusionsrichtlinie nach ihrem vierten Erwägungsgrund die finanziellen Interessen des Staates der einbringenden oder erworbenen Gesellschaft wahren soll. Zu diesen finanziellen Interessen zählt die Befugnis, eine Wertsteigerung bei den vor dem Austausch vorhandenen Anteilen zu besteuern.
+
+49
+
+Daher hindert nach Art. 8 Abs. 2 Unterabs. 2 der Fusionsrichtlinie die Anwendung des Abs. 1 dieses Artikels die Mitgliedstaaten nicht, den Gewinn aus einer späteren Veräußerung der erworbenen Anteile in gleicher Weise zu besteuern wie den Gewinn aus einer Veräußerung der vor dem Erwerb vorhandenen Anteile (vgl. in diesem Sinne Urteil vom 11. Dezember 2008, A.T.,C‑285/07, EU:C:2008:705, Rn. 35).
+
+50
+
+Auch wenn Art. 8 Abs. 1 der Fusionsrichtlinie die steuerliche Neutralität eines Austauschs von Anteilen sicherstellt, indem er vorsieht, dass ein solcher Austausch für sich allein nicht zu einer Besteuerung der daraus entstandenen Wertsteigerung führen darf, ist doch klar ersichtlich, dass diese steuerliche Neutralität die Wertsteigerung nicht der Besteuerung durch die Mitgliedstaaten, die insoweit über die Steuerhoheit verfügen, entziehen soll, sondern nur verbietet, den Austausch als Tatbestand, der die Besteuerung auslöst, anzusehen.
+
+51
+
+Dagegen enthält weder Art. 8 der Fusionsrichtlinie selbst noch irgendein anderer Artikel der Richtlinie Bestimmungen über geeignete steuerliche Maßnahmen zu seiner Durchführung.
+
+52
+
+Die Mitgliedstaaten verfügen daher unter Beachtung des Unionsrechts über einen gewissen Gestaltungsspielraum für seine Durchführung (vgl. in diesem Sinne Urteile vom 5. Juli 2007, Kofoed,C‑321/05, EU:C:2007:408, Rn. 41 bis 43, und vom 23. November 2017, A,C‑292/16, EU:C:2017:888, Rn. 22).
+
+53
+
+Die in den im Ausgangsverfahren in Rede stehenden Rechtsvorschriften vorgesehene Maßnahme besteht darin, in einem ersten Schritt die aus dem Austausch von Anteilen entstandene Wertsteigerung anlässlich dieses Vorgangs festzustellen und in einem zweiten Schritt dessen Besteuerung auf den Zeitpunkt der späteren Veräußerung der erworbenen Anteile aufzuschieben.
+
+54
+
+Da eine solche Maßnahme dazu führt, dass der die Besteuerung dieser Wertsteigerung auslösende Tatbestand bis zu dem Jahr aufgeschoben wird, in dem das Ereignis eintritt, das den Aufschub der Besteuerung beendet, d. h. die Veräußerung der erworbenen Anteile, gewährleistet sie – wie der Generalanwalt in den Nrn. 59 und 60 seiner Schlussanträge ausgeführt hat –, dass der Austausch von Anteilen für sich allein zu keiner Besteuerung der Wertsteigerung führt. Diese Maßnahme wahrt daher den Grundsatz der steuerlichen Neutralität im Sinne von Art. 8 Abs. 1 der Fusionsrichtlinie.
+
+55
+
+Dies kann durch den bloßen Umstand, dass die aus dem Anteilstausch entstandene Wertsteigerung anlässlich des Austauschs festgestellt wird, nicht in Frage gestellt werden. Denn eine solche Feststellung ist lediglich eine Technik, die es dem Mitgliedstaat, der bezüglich der vor dem Austausch vorhandenen Anteile über die Steuerhoheit verfügt, aber aufgrund von Art. 8 Abs. 1 der Fusionsrichtlinie daran gehindert war, sie bei dieser Gelegenheit auszuüben, ermöglicht, seine Steuerhoheit zu behalten und sie später, zum Zeitpunkt der Veräußerung der erworbenen Anteile, im Einklang mit Art. 8 Abs. 2 Unterabs. 2 der Richtlinie auszuüben.
+
+56
+
+Daher ist auf die jeweils erste Frage in den Rechtssachen C‑327/16 und C‑421/16 zu antworten, dass Art. 8 der Fusionsrichtlinie dahin auszulegen ist, dass er Rechtsvorschriften eines Mitgliedstaats nicht entgegensteht, wonach die aus einem unter die Richtlinie fallenden Austausch von Anteilen entstandene Wertsteigerung anlässlich des Austauschs festgestellt wird, ihre Besteuerung aber bis zu dem Jahr aufgeschoben wird, in dem das den Aufschub der Besteuerung beendende Ereignis – im vorliegenden Fall die Veräußerung der erworbenen Anteile – eintritt.
+
+Zur jeweils zweiten Frage
+
+57
+
+Mit seiner jeweils zweiten Frage in den Rechtssachen C‑327/16 und C‑421/16 möchte das vorlegende Gericht wissen, ob Art. 8 der Fusionsrichtlinie dahin auszulegen ist, dass er Rechtsvorschriften eines Mitgliedstaats entgegensteht, wonach die auf einen Austausch von Anteilen entfallende Wertsteigerung, für die ein Besteuerungsaufschub gewährt wurde, bei einer späteren Veräußerung der erworbenen Anteile auch dann besteuert wird, wenn die Veräußerung nicht der Steuerhoheit dieses Mitgliedstaats unterliegt.
+
+58
+
+Wie sich aus den Rn. 49 und 50 des vorliegenden Urteils ergibt, folgt aus Art. 8 Abs. 2 Unterabs. 2 der Fusionsrichtlinie, dass das nach Art. 8 Abs. 1 der Richtlinie für den Anteilstausch geltende Gebot der steuerlichen Neutralität die Mitgliedstaaten nicht daran hindert, die Wertsteigerung aus einer späteren Veräußerung der erworbenen Anteile in gleicher Weise zu besteuern wie die Wertsteigerung aus einer Veräußerung der vor dem Erwerb vorhandenen Anteile.
+
+59
+
+Art. 8 Abs. 2 Unterabs. 2 der Fusionsrichtlinie erkennt somit an, dass die Mitgliedstaaten, in deren Steuerhoheit die auf den Anteilstausch entfallende Wertsteigerung fällt, die aber nach Art. 8 Abs. 1 der Richtlinie daran gehindert waren, ihre Steuerhoheit beim Austausch auszuüben, berechtigt sind, sie zum Zeitpunkt der späteren Veräußerung der erworbenen Anteile auszuüben.
+
+60
+
+Wie der Generalanwalt in Nr. 68 seiner Schlussanträge ausgeführt hat, harmonisiert die Fusionsrichtlinie allerdings nicht die Kriterien für die Aufteilung der Steuerhoheit zwischen den Mitgliedstaaten. Sie regelt daher nicht die Zuweisung der Steuerhoheit für eine solche Wertsteigerung.
+
+61
+
+In Ermangelung einer Harmonisierung auf Unionsebene bleiben die Mitgliedstaaten befugt, zur Beseitigung der Doppelbesteuerung die Kriterien für die Aufteilung ihrer Steuerhoheit unter Beachtung des Unionsrechts vertraglich oder einseitig festzulegen (vgl. entsprechend Urteil vom 29. November 2011, National Grid Indus,C‑371/10, EU:C:2011:785, Rn. 45 und 46 sowie die dort angeführte Rechtsprechung).
+
+62
+
+Das vorlegende Gericht geht davon aus, dass die aus dem in Rede stehenden Anteilsaustausch entstandene Wertsteigerung nach dem nationalen und dem zwischenstaatlichen Recht in die Steuerhoheit der Französischen Republik fällt.
+
+63
+
+Da die Fusionsrichtlinie, wie sich aus Rn. 56 des vorliegenden Urteils ergibt, einem Aufschub der Besteuerung der aus dem Anteilstausch entstandenen Wertsteigerung bis zu einer späteren Veräußerung der erworbenen Anteile nicht entgegensteht, hindert diese Richtlinie den betreffenden Mitgliedstaat daher nicht daran, die Wertsteigerung anlässlich der Veräußerung zu besteuern.
+
+64
+
+Der bloße Umstand, dass die Veräußerung der erworbenen Anteile in die Steuerhoheit eines anderen Mitgliedstaats als desjenigen fällt, der die Steuerhoheit über die aus dem Anteilstausch entstandene Wertsteigerung besitzt, kann, wie sich aus den Nrn. 69 bis 71 der Schlussanträge des Generalanwalts ergibt, nicht dazu führen, dass der zuletzt genannte Mitgliedstaat sein Recht verliert, seine Steuerhoheit über eine in deren Rahmen eingetretene Wertsteigerung auszuüben.
+
+65
+
+Diese Feststellung steht außerdem im Einklang mit dem vom Gerichtshof anerkannten Grundsatz der steuerlichen Territorialität, verbunden mit einem zeitlichen Element, nach dem ein Mitgliedstaat das Recht hat, die im Rahmen seiner Steuerhoheit entstandene Wertsteigerung zu besteuern, wodurch die Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten gewahrt werden soll (vgl. in diesem Sinne Urteil vom 29. November 2011, National Grid Indus,C‑371/10, EU:C:2011:785, Rn. 45 und 46 sowie die dort angeführte Rechtsprechung).
+
+66
+
+Daher ist auf die jeweils zweite Frage in den Rechtssachen C‑327/16 und C‑421/16 zu antworten, dass Art. 8 der Fusionsrichtlinie dahin auszulegen ist, dass er Rechtsvorschriften eines Mitgliedstaats nicht entgegensteht, wonach die auf einen Austausch von Anteilen entfallende Wertsteigerung, für die ein Besteuerungsaufschub gewährt wurde, bei einer späteren Veräußerung der erworbenen Anteile auch dann besteuert wird, wenn die Veräußerung nicht der Steuerhoheit dieses Mitgliedstaats unterliegt.
+
+Zu den Fragen 3 bis 5 in der Rechtssache C‑421/16
+
+67
+
+Zunächst ist darauf hinzuweisen, dass Herr Lassus, wie sich aus der dem Gerichtshof vorliegenden Akte ergibt, seinen steuerlichen Wohnsitz zur Zeit des im Ausgangsverfahren in Rede stehenden Anteilstauschs im Vereinigten Königreich hatte. Gemäß dem französisch-britischen Abkommen wurde er jedoch einem in Frankreich wohnhaften Anteilseigner gleichgestellt, so dass die aus dem Anteilstausch entstandene Wertsteigerung in die Steuerhoheit dieses Mitgliedstaats fiel.
+
+68
+
+Aus der Akte ergibt sich weiterhin, dass die im Laufe eines Jahres eingetretenen Wertminderungen nach den im Ausgangsverfahren in Rede stehenden Rechtsvorschriften auf Wertsteigerungen gleicher Art anrechenbar sind, die im selben Jahr oder in den fünf Folgejahren realisiert werden. Im Ausgangsverfahren ist die fragliche Wertminderung unstreitig innerhalb dieser Fünfjahresfrist eingetreten.
+
+69
+
+Die französische Regierung hat in der mündlichen Verhandlung erklärt, dass die Anrechnung einer bei der späteren Veräußerung der erworbenen Anteile gegebenenfalls eintretenden Wertminderung auf die in der Besteuerung aufgeschobene Wertsteigerung dann nicht gewährt wird, wenn der steuerpflichtige Anteilsinhaber seinen steuerlichen Wohnsitz zum Zeitpunkt dieser Veräußerung nicht in Frankreich hat.
+
+70
+
+Das vorlegende Gericht möchte mit seinen Fragen 3 bis 5 in der Rechtssache C‑421/16, die zusammen zu prüfen sind, sinngemäß wissen, ob die Fusionsrichtlinie und Art. 49 AEUV dahin auszulegen sind, dass sie Rechtsvorschriften eines Mitgliedstaats entgegenstehen, wonach, falls die spätere Veräußerung der erworbenen Anteile nicht in die Steuerhoheit dieses Mitgliedstaats fällt, die Wertsteigerung, deren Besteuerung aufgeschoben ist, zum Zeitpunkt dieser Veräußerung ohne Berücksichtigung einer dabei gegebenenfalls realisierten Wertminderung besteuert wird, während eine solche Wertminderung berücksichtigt wird, wenn der steuerpflichtige Anteilsinhaber zum Zeitpunkt der Veräußerung seinen steuerlichen Wohnsitz in diesem Mitgliedstaat hat. Außerdem möchte das vorlegende Gericht gegebenenfalls wissen, nach welchen Modalitäten die Anrechnung und Berechnung dieser Wertminderung zu erfolgen hat.
+
+71
+
+Die unter die Fusionsrichtlinie fallenden Vorgänge stellen eine besondere, für das reibungslose Funktionieren des Binnenmarkts wichtige Modalität der Ausübung der Niederlassungsfreiheit dar und gehören damit zu den wirtschaftlichen Tätigkeiten, hinsichtlich deren die Mitgliedstaaten diese Freiheit beachten müssen (Urteil vom 23. November 2017, A,C‑292/16, EU:C:2017:888, Rn. 23 und die dort angeführte Rechtsprechung).
+
+72
+
+Die Fusionsrichtlinie regelt allerdings, wie der Generalanwalt in den Nrn. 78, 100 und 101 seiner Schlussanträge ausgeführt hat, weder die Frage einer möglichen Anrechnung der bei einer späteren Veräußerung der erworbenen Anteile gegebenenfalls realisierten Wertminderung noch die Frage der Modalitäten einer solchen Anrechnung und ihrer Berechnung. Die zu einer solchen Anrechnung gestellten Fragen sind daher nach dem nationalen Recht des Herkunftsmitgliedstaats unter Beachtung des Unionsrechts, im vorliegenden Fall insbesondere von Art. 49 AEUV, zu beantworten.
+
+73
+
+Infolgedessen sind die Fragen 3 bis 5 allein im Hinblick auf Art. 49 AEUV zu prüfen.
+
+74
+
+Insoweit ist darauf hinzuweisen, dass als Beschränkungen der Niederlassungsfreiheit im Sinne von Art. 49 AEUV alle Maßnahmen anzusehen sind, die die Ausübung dieser Freiheit unterbinden, behindern oder weniger attraktiv machen (Urteil vom 23. November 2017, A,C‑292/16, EU:C:2017:888, Rn. 25 und die dort angeführte Rechtsprechung).
+
+75
+
+Im vorliegenden Fall ist festzustellen, dass Herr Lassus zum Zeitpunkt der späteren Veräußerung der erworbenen Anteile ein gebietsfremder steuerpflichtiger Anteilsinhaber war, so dass er eine bei dieser Veräußerung gegebenenfalls realisierte Wertminderung nicht auf die aus dem Austausch entstandene Wertsteigerung, deren Besteuerung aufgeschoben worden war, anrechnen durfte, während er, wenn er ein gebietsansässiger steuerpflichtiger Anteilsinhaber gewesen wäre, diese Anrechnung hätte vornehmen können.
+
+76
+
+Eine solche Ungleichbehandlung, die darauf abstellt, ob der steuerpflichtige Anteilsinhaber zum Zeitpunkt der Veräußerung der erworbenen Anteile seinen steuerlichen Wohnsitz in dem betreffenden Mitgliedstaat hat oder nicht, ist geeignet, Umstrukturierungsvorgänge von Gesellschaften, die unter die Fusionsrichtlinie fallen, in Bezug auf gebietsfremde steuerpflichtige Anteilsinhaber zu behindern oder weniger attraktiv zu machen, und stellt somit eine Beschränkung der Niederlassungsfreiheit dar.
+
+77
+
+Diese Beschränkung ist nur statthaft, wenn sie Situationen betrifft, die nicht objektiv miteinander vergleichbar sind, oder wenn sie durch unionsrechtlich anerkannte zwingende Gründe des Allgemeininteresses gerechtfertigt ist. In diesem Fall muss die Beschränkung außerdem geeignet sein, die Erreichung des verfolgten Ziels zu gewährleisten, und darf nicht über das hinausgehen, was zur Erreichung dieses Ziels erforderlich ist (Urteil vom 23. November 2017, A,C‑292/16, EU:C:2017:888, Rn. 28 und die dort angeführte Rechtsprechung).
+
+78
+
+Zur Vergleichbarkeit der betreffenden Situationen ist darauf hinzuweisen, dass die im Ausgangsverfahren in Rede stehenden Rechtsvorschriften der Besteuerung einer Wertsteigerung dienen, die auf einem Austausch von Anteilen beruht und zu einem Zeitpunkt entstanden ist, zu dem Herr Lassus einem Steuerpflichtigen mit steuerlichem Wohnsitz in Frankreich gleichgestellt war. Im Hinblick auf eine solche Besteuerung, die bis zum Zeitpunkt der späteren Veräußerung der erworbenen Anteile aufgeschoben ist, ist die Situation eines gebietsfremden steuerpflichtigen Anteilsinhabers wie Herrn Lassus zum Zeitpunkt dieser Veräußerung mit der Situation eines gebietsansässigen steuerpflichtigen Anteilsinhabers zum Zeitpunkt eben dieser Veräußerung objektiv vergleichbar.
+
+79
+
+Zur Frage, ob die in Rede stehende Beschränkung durch unionsrechtlich anerkannte zwingende Gründe des Allgemeininteresses gerechtfertigt sein kann, geht die französische Regierung davon aus, dass der mit der Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten in Zusammenhang stehende zwingende Grund des Allgemeininteresses eine solche Beschränkung rechtfertigen kann.
+
+80
+
+Hierzu ist festzustellen, dass die Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten ein vom Gerichtshof anerkanntes Ziel ist (vgl. in diesem Sinne Urteil vom 29. November 2011, National Grid Indus,C‑371/10, EU:C:2011:785, Rn. 45).
+
+81
+
+Unter Umständen wie denen im Ausgangsverfahren kann dieses Ziel, wie der Generalanwalt in Nr. 93 seiner Schlussanträge festgestellt hat, eine solche Beschränkung allerdings nicht rechtfertigen, da nur die Besteuerungsbefugnis der Französischen Republik in Frage steht.
+
+82
+
+Insoweit ist klarzustellen, dass sich der im Ausgangsverfahren in Rede stehende Sachverhalt von denen unterscheidet, zu denen die Rechtsprechung des Gerichtshofs zur Wegzugsbesteuerung von Wertsteigerungen ergangen ist, wie etwa das Urteil vom 29. November 2011, National Grid Indus (C‑371/10, EU:C:2011:785). Die Rechtssache, in der dieses Urteil ergangen ist, bezog sich nämlich auf den Aufschub der Steuereinziehung, d. h. einer Steuerschuld, die zu dem Zeitpunkt, zu dem die Steuerpflichtigkeit des Betroffenen im Herkunftsmitgliedstaat aufgrund der Verlegung seines Wohnsitzes endete, endgültig bestimmt wurde, und nicht wie im Ausgangsverfahren auf einen Aufschub der Besteuerung. Vor diesem Hintergrund hat der Gerichtshof in Rn. 61 des Urteils vom 29. November 2011, National Grid Indus (C‑371/10, EU:C:2011:785), festgestellt, dass die eventuelle Nichtberücksichtigung der Wertminderung durch den Aufnahmemitgliedstaat den Herkunftsmitgliedstaat keineswegs verpflichtet, zum Zeitpunkt der endgültigen Veräußerung der neuen Gesellschaftsanteile eine Steuerschuld neu zu bewerten, die zu dem Zeitpunkt, zu dem die Steuerpflichtigkeit des Betroffenen im Herkunftsmitgliedstaat aufgrund der Verlegung seines Wohnsitzes endete, endgültig bestimmt wurde.
+
+83
+
+Der Aufschub der Besteuerung der im Ausgangsverfahren in Rede stehenden Wertsteigerung bis zur späteren Veräußerung der erworbenen Anteile hat zur Folge, dass diese Wertsteigerung ungeachtet des Umstands, dass sie zur Zeit des Anteilstauschs festgestellt wurde, erst zum Zeitpunkt der späteren Veräußerung besteuert wird. Dies bedeutet, dass der betreffende Mitgliedstaat seine Steuerhoheit über die Wertsteigerung zum Zeitpunkt der Realisierung der in Rede stehenden Wertminderung ausübt. Infolgedessen erwächst, wie die Europäische Kommission ausgeführt hat, dem Mitgliedstaat, der von seiner Steuerhoheit in Bezug auf die zum Zeitpunkt der Veräußerung tatsächlich besteuerbar gewordene Wertsteigerung Gebrauch machen möchte, damit einhergehend die Pflicht, die Wertminderung zu berücksichtigen.
+
+84
+
+Folglich steht Art. 49 AEUV Rechtsvorschriften eines Mitgliedstaats entgegen, wonach, falls die spätere Veräußerung der erworbenen Anteile nicht in die Steuerhoheit dieses Mitgliedstaats fällt, die Wertsteigerung, deren Besteuerung aufgeschoben ist, zum Zeitpunkt dieser Veräußerung ohne Berücksichtigung einer dabei gegebenenfalls realisierten Wertminderung besteuert wird, während eine solche Wertminderung berücksichtigt wird, wenn der steuerpflichtige Anteilsinhaber zum Zeitpunkt der Veräußerung seinen steuerlichen Wohnsitz in diesem Mitgliedstaat hat.
+
+85
+
+Was die Modalitäten zur Anrechnung und Berechnung der im Ausgangsverfahren in Rede stehenden Wertminderung anbelangt, so ist es, da das Unionsrecht, wie sich aus Rn. 72 des vorliegenden Urteils ergibt, keine solchen Modalitäten vorsieht, Sache der Mitgliedstaaten, unter Beachtung des Unionsrechts, im vorliegenden Fall insbesondere des Art. 49 AEUV, solche Modalitäten vorzusehen.
+
+86
+
+Nach alledem ist auf die Fragen 3 bis 5 in der Rechtssache C‑421/16 zu antworten, dass Art. 49 AEUV dahin auszulegen ist, dass er Rechtsvorschriften eines Mitgliedstaats entgegensteht, wonach, falls die spätere Veräußerung der erworbenen Anteile nicht in die Steuerhoheit dieses Mitgliedstaats fällt, die Wertsteigerung, deren Besteuerung aufgeschoben ist, zum Zeitpunkt dieser Veräußerung ohne Berücksichtigung einer dabei gegebenenfalls realisierten Wertminderung besteuert wird, während eine solche Wertminderung berücksichtigt wird, wenn der steuerpflichtige Anteilsinhaber zum Zeitpunkt der Veräußerung seinen steuerlichen Wohnsitz in diesem Mitgliedstaat hat. Es ist Sache der Mitgliedstaaten, unter Beachtung des Unionsrechts, im vorliegenden Fall insbesondere der Niederlassungsfreiheit, Modalitäten zur Anrechnung und Berechnung dieser Wertminderung vorzusehen.
+
+Kosten
+
+87
+
+Für die Parteien der Ausgangsverfahren ist das Verfahren ein Zwischenstreit in den beim vorlegenden Gericht anhängigen Rechtsstreitigkeiten; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Erste Kammer) für Recht erkannt:
+
+ 	
+1.
+
+Art. 8 der Richtlinie 90/434/EWG des Rates vom 23. Juli 1990 über das gemeinsame Steuersystem für Fusionen, Spaltungen, die Einbringung von Unternehmensteilen und den Austausch von Anteilen, die Gesellschaften verschiedener Mitgliedstaaten betreffen, in der durch die Akte über die Bedingungen des Beitritts des Königreichs Norwegen, der Republik Österreich, der Republik Finnland und des Königreichs Schweden geänderten Fassung, angepasst durch den Beschluss 95/1/EG, Euratom, EGKS des Rates der Europäischen Union vom 1. Januar 1995, ist dahin auszulegen, dass er Rechtsvorschriften eines Mitgliedstaats nicht entgegensteht, wonach die aus einem unter die Richtlinie fallenden Austausch von Anteilen entstandene Wertsteigerung anlässlich des Austauschs festgestellt wird, ihre Besteuerung aber bis zu dem Jahr aufgeschoben wird, in dem das den Aufschub der Besteuerung beendende Ereignis – im vorliegenden Fall die Veräußerung der erworbenen Anteile – eintritt.
+
+ 	
+2.
+
+Art. 8 der Richtlinie 90/434 in der durch die Akte über die Bedingungen des Beitritts des Königreichs Norwegen, der Republik Österreich, der Republik Finnland und des Königreichs Schweden geänderten Fassung, angepasst durch den Beschluss 95/1, ist dahin auszulegen, dass er Rechtsvorschriften eines Mitgliedstaats nicht entgegensteht, wonach die auf einen Austausch von Anteilen entfallende Wertsteigerung, für die ein Besteuerungsaufschub gewährt wurde, bei einer späteren Veräußerung der erworbenen Anteile auch dann besteuert wird, wenn die Veräußerung nicht der Steuerhoheit dieses Mitgliedstaats unterliegt.
+
+ 	
+3.
+
+Art. 49 AEUV ist dahin auszulegen, dass er Rechtsvorschriften eines Mitgliedstaats entgegensteht, wonach, falls die spätere Veräußerung der erworbenen Anteile nicht in die Steuerhoheit dieses Mitgliedstaats fällt, die Wertsteigerung, deren Besteuerung aufgeschoben ist, zum Zeitpunkt dieser Veräußerung ohne Berücksichtigung einer dabei gegebenenfalls realisierten Wertminderung besteuert wird, während eine solche Wertminderung berücksichtigt wird, wenn der steuerpflichtige Anteilsinhaber zum Zeitpunkt der Veräußerung seinen steuerlichen Wohnsitz in diesem Mitgliedstaat hat. Es ist Sache der Mitgliedstaaten, unter Beachtung des Unionsrechts, im vorliegenden Fall insbesondere der Niederlassungsfreiheit, Modalitäten zur Anrechnung und Berechnung dieser Wertminderung vorzusehen.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Französisch.

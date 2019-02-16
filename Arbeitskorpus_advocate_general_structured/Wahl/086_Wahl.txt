@@ -1,0 +1,412 @@
+URTEIL DES GERICHTSHOFS (Fünfte Kammer)
+
+8. Juni 2017 ( *1 )
+
+„Vorlage zur Vorabentscheidung — Art. 56 AEUV — Art. 36 des Abkommens über den Europäischen Wirtschaftsraum — Steuerrecht — Einkommensteuer — Steuerbefreiung für von Banken gezahlte Zinsen, die nur gewährt wird, wenn bestimmte rechtliche Voraussetzungen erfüllt sind — Mittelbare Diskriminierung — Banken mit Sitz in Belgien und Banken mit Sitz in einem anderen Mitgliedstaat“
+
+In der Rechtssache C‑580/15
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht von der Rechtbank van eerste aanleg West-Vlaanderen, afdeling Brugge (Gericht erster Instanz Westflandern, Abteilung Brügge, Belgien) mit Entscheidung vom 28. Oktober 2015, beim Gerichtshof eingegangen am 9. November 2015, in dem Verfahren
+
+Maria Eugenia Van der Weegen,
+
+Miguel Juan Van der Weegen,
+
+Anna Pot
+
+– als Rechtsnachfolger des verstorbenen Johannes Van der Weegen –,
+
+Anna Pot
+
+gegen
+
+Belgische Staat
+
+erlässt
+
+DER GERICHTSHOF (Fünfte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten J. L. da Cruz Vilaça, des Präsidenten des Gerichtshofs K. Lenaerts in Wahrnehmung der Aufgaben eines Richters der Fünften Kammer, der Richterin M. Berger (Berichterstatterin) sowie der Richter A. Borg Barthet und F. Biltgen,
+
+Generalanwalt: N. Wahl,
+
+Kanzler: M. Ferreira, Hauptverwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 15. September 2016,
+
+unter Berücksichtigung der Erklärungen
+
+—
+
+von Frau Van der Weegen, Herrn Van der Weegen und Frau Pot, vertreten durch C. Hendrickx und M. Vandendijk, advocaten,
+
+—
+
+der belgischen Regierung, vertreten durch J.-C. Halleux und M. Jacobs als Bevollmächtigte im Beistand von S. D’Aloia, Sachverständiger,
+
+—
+
+der Europäischen Kommission, vertreten durch W. Roels als Bevollmächtigten,
+
+aufgrund des nach Anhörung des Generalanwalts ergangenen Beschlusses, ohne Schlussanträge über die Rechtssache zu entscheiden,
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung der Art. 56 und 63 AEUV sowie der Art. 36 und 40 des Abkommens über den Europäischen Wirtschaftsraum vom 2. Mai 1992 (ABl. 1994, L 1, S. 3, im Folgenden: EWR-Abkommen).
+
+2
+
+Es ergeht im Rahmen eines Rechtsstreits zwischen Maria Eugenia Van der Weegen, Miguel Juan Van der Weegen und Anna Pot – als Rechtsnachfolger von Johannes Van der Weegen – sowie Anna Pot einerseits und dem belgischen Staat andererseits wegen der Versagung einer Steuerbefreiung für die Vergütung einer Spareinlage in einem anderen Mitgliedstaat als dem Königreich Belgien.
+
+Belgisches Recht
+
+3
+
+Art. 21 des Wetboek van de inkomstenbelastingen (Einkommensteuergesetzbuch) 1992 (im Folgenden: WIB 1992) in seiner für das Steuerjahr 2010 (Einkommen des Jahres 2009) geltenden Fassung sah vor:
+
+„Einkünfte aus Kapitalvermögen und beweglichen Gütern umfassen nicht:
+
+…
+
+5.
+
+den ersten Teilbetrag von 1730 [Euro] (Grundbetrag 1250 [Euro]) pro Jahr der Einkünfte aus Spareinlagen, die in Belgien ansässige Kreditinstitute, die unter das Gesetz vom 22. März 1993 über den Status und die Kontrolle der Kreditinstitute fallen, ohne vertraglich festgelegte Laufzeit oder Abhebungs- beziehungsweise Entnahmevorankündigungsfrist entgegennehmen, wobei:
+
+—
+
+diese Einlagen außerdem die vom König auf Stellungnahme der Kommission für das Bank-, Finanz- und Versicherungswesen … festgelegten Kriterien in Bezug auf die Währung, auf die sie lauten, in Bezug auf Bedingungen und Modalitäten der Abhebungen und Entnahmen und in Bezug auf Struktur, Niveau und Modalitäten der Berechnung ihrer Vergütung erfüllen müssen,
+
+…“
+
+4
+
+Mit Urteil vom 6. Juni 2013, Kommission/Belgien (C‑383/10, EU:C:2013:364), hat der Gerichtshof entschieden, dass diese Vorschrift gegen Art. 56 AEUV und Art. 36 des EWR-Abkommens verstößt.
+
+5
+
+Durch Art. 170 der Wet van 25 april 2014 houdende diverse bepalingen (Gesetz vom 25. April 2014 zur Festlegung verschiedener Bestimmungen) (Belgisches Staatsblatt vom 7. Mai 2014, S. 36946, deutsche Übersetzung der maßgeblichen Bestimmungen: Belgisches Staatsblatt vom 27. April 2015, S. 23405, im Folgenden: Gesetz vom 25. April 2014) wurde Art. 21 Nr. 5 WIB 1992 wie folgt geändert:
+
+„Einkünfte aus Kapitalvermögen und beweglichen Gütern umfassen nicht:
+
+…
+
+5.
+
+den ersten Teilbetrag von 1250 Euro (nichtindexierter Betrag) pro Jahr der Einkünfte aus Spareinlagen, die in Artikel 56 § 2 Nr. 2 Buchstabe a) erwähnte Kreditinstitute ohne vertraglich festgelegte Laufzeit oder Abhebungs- beziehungsweise Entnahmevorankündigungsfrist entgegennehmen, wobei:
+
+—
+
+diese Einlagen außerdem die vom König auf Stellungnahme der Belgischen Nationalbank und der Autorität Finanzielle Dienste und Märkte – jede für ihren Zuständigkeitsbereich – festgelegten Kriterien in Bezug auf die Währung, auf die sie lauten, in Bezug auf Bedingungen und Modalitäten der Abhebungen und Entnahmen und in Bezug auf Struktur, Niveau und Modalitäten der Berechnung ihrer Vergütung erfüllen müssen oder, für Einlagen, die in einem anderen Mitgliedstaat des Europäischen Wirtschaftsraums ansässige Kreditinstitute entgegennehmen, diese Einlagen ähnliche Kriterien wie von den entsprechenden zuständigen Behörden des anderen Mitgliedstaates festgelegt erfüllen müssen,
+
+…“
+
+6
+
+In der Begründung für die Änderung von Art. 21 Nr. 5 WIB 1992 heißt es:
+
+„Damit, dass die Kriterien ‚ähnlich‘ sein müssen, ist zunächst gemeint, dass für die Spareinlagen die Voraussetzungen gelten müssen, die als Grundvoraussetzungen auch in Art. 21 Nr. 5 WIB 1992 aufgeführt sind, und ferner, dass sie die von den staatlichen Stellen in dem betreffenden Mitgliedstaat aufgestellten Kriterien in Bezug auf die Währung, auf die die Einlagen lauten, in Bezug auf Bedingungen und Modalitäten der Abhebungen und Entnahmen und in Bezug auf Struktur, Niveau und Modalitäten der Berechnung ihrer Vergütung erfüllen. Diese letztgenannten Kriterien müssen den in Belgien geltenden Kriterien gleichwertig sein. Dies bedeutet, dass sie – ohne gleich zu sein – über eine vergleichbare Tragweite verfügen müssen. …“
+
+7
+
+Die Kriterien, denen Spareinlagen im Sinne von Art. 21 Nr. 5 WIB 1992 darüber hinaus entsprechen müssen, damit diese Bestimmung auf sie Anwendung findet, sind im Koninklijk besluit tot uitvoering van het WIB 1992 (Königlicher Erlass zur Ausführung des WIB 1992) vom 27. August 1993 (Belgisches Staatsblatt vom 13. September 1993, S. 20096) in der durch den Königlichen Erlass vom 7. Dezember 2008 (Belgisches Staatsblatt vom 22. Dezember 2008, S. 67513) geänderten Fassung (deutsche konsolidierte Fassung der maßgeblichen Bestimmungen: Belgisches Staatsblatt vom 27. Juli 2015, S. 47618, 47634, im Folgenden: KB/WIB 92) vorgesehen.
+
+8
+
+Art. 2 KB/WIB 92 bestimmt:
+
+„Um in den Anwendungsbereich von Artikel 21 Nr. 5 [WIB 1992] zu fallen, müssen in diesem Artikel erwähnte Spareinlagen außerdem folgende Kriterien erfüllen:
+
+1.
+
+Die Spareinlagen müssen auf Euro lauten.
+
+2.
+
+Entnahmen von den Spareinlagen können direkt oder über ein Sichtkonto nur für folgende Verrichtungen getätigt werden:
+
+a)
+
+Barrückzahlungen,
+
+b)
+
+Übertragung oder Überweisung – auf anderem Wege als per Dauerauftrag – auf ein Konto auf den Namen des Inhabers der Spareinlage,
+
+c)
+
+Übertragung auf eine Spareinlage beim selben Institut auf den Namen des Ehepartners oder eines Verwandten bis zum zweiten Grad des Inhabers der Spareinlage,
+
+…
+
+3.
+
+Die Bedingungen für die Abhebung müssen dem verwahrenden Institut erlauben, für Entnahmen von mehr als 1250 [Euro] eine Entnahmevorankündigungsfrist von fünf Kalendertagen vorzusehen und den Betrag der Entnahmen auf 2500 [Euro] pro halben Monat zu beschränken.
+
+4.
+
+a)
+
+Die Vergütung für die Spareinlagen umfasst zwingend, jedoch ausschließlich:
+
+—
+
+einen Basiszins und
+
+—
+
+eine Treueprämie.
+
+b)
+
+Basiszins und Treueprämie werden zu einem Zinssatz auf Jahresbasis berechnet.
+
+Einlagen erbringen einen Basiszins spätestens ab dem Kalendertag nach dem Kalendertag der Einzahlung und erbringen keinen Zins mehr ab dem Kalendertag der Abhebung.
+
+Einzahlungen und Abhebungen, die am selben Kalendertag erfolgen, werden für die Berechnung des Basiszinses und der Treueprämie miteinander verrechnet.
+
+Der erworbene Basiszins wird einmal pro Kalenderjahr der Spareinlage zugeführt, so dass er in Abweichung von Absatz 2 ab dem 1. Januar des Jahres einen Basiszins erbringt.
+
+Inhabern von Spareinlagen dürfen keine Sollzinsen berechnet werden.
+
+Treueprämie wird gewährt auf Einlagen, die während zwölf aufeinander folgender Monate demselben Konto gutgeschrieben waren.
+
+Bei einer Übertragung auf anderem Wege als per Dauerauftrag aus einer Spareinlage auf eine andere Spareinlage, die auf den Namen desselben Inhabers bei demselben Institut eröffnet ist, bleibt der für den Erwerb der Treueprämie auf die erste Spareinlage laufende Zeitraum erhalten, sofern sich der Betrag der Übertragung auf mindestens 500 [Euro] beläuft und der betreffende Inhaber im Laufe desselben Kalenderjahres nicht bereits drei Übertragungen dieser Art aus derselben Spareinlage vorgenommen hat.
+
+…
+
+c)
+
+Der Basiszinssatz, den ein Institut auf Spareinlagen gewährt, die es entgegennimmt, darf den höchsten der beiden folgenden Zinssätze nicht überschreiten:
+
+—
+
+3 Prozent,
+
+—
+
+den Hauptrefinanzierungssatz der Europäischen Zentralbank, der am zehnten des Monats vor dem laufenden Kalenderhalbjahr anwendbar war.
+
+Erhöhungen des Basiszinssatzes werden für einen Zeitraum von mindestens drei Monaten beibehalten, außer bei Herabsetzung des Hauptrefinanzierungssatzes der Europäischen Zentralbank.
+
+Unbeschadet der Bestimmung von Buchstabe e) weiter unten darf der Zinssatz der Treueprämie:
+
+—
+
+50 Prozent des in Absatz 1 erwähnten maximalen Basiszinssatzes nicht überschreiten. Entspricht dieser Prozentsatz nicht einem Vielfachen eines Zehntelprozents, wird der Höchstsatz der Treueprämie auf das untere Zehntelprozent abgerundet,
+
+—
+
+25 Prozent des Basiszinssatzes nicht unterschreiten. Entspricht dieser Prozentsatz nicht einem Vielfachen eines Zehntelprozents, wird der Mindestsatz der Treueprämie auf das untere Zehntelprozent abgerundet.
+
+d)
+
+Auf jede Spareinlage findet zu einem bestimmten Zeitpunkt nur ein einziger Basiszinssatz Anwendung.
+
+e)
+
+Die Treueprämie, die zu einem bestimmten Zeitpunkt gewährt wird, ist dieselbe für Neueinzahlungen wie für Einlagen, für die ein neuer Treuezeitraum beginnt. Unbeschadet der Anwendung von Nr. 4 Buchstabe b) Absatz 7 bleibt die bei Einzahlung oder zu Beginn eines neuen Treuezeitraums geltende Treueprämie während des gesamten Treuezeitraums anwendbar.
+
+5.
+
+Jedes Mal, wenn der Basiszins und die Treueprämie dem Konto gutgeschrieben werden, prüft das verwahrende Institut, ob die in Artikel 21 Nr. 5 [WIB 1992] festgelegte Grenze erreicht ist, und berücksichtigt dazu alle während des Besteuerungszeitraums gewährten Beträge.“
+
+9
+
+Die Verwaltung hat hierzu das Rundschreiben AAFisc Nr. 22/2014 (Nr. Ci.RH.231/633.479) vom 12. Juni 2014 veröffentlicht, das in Nr. 2 („Kriterien, die die von der Befreiung erfassten ausländischen Spareinlagen erfüllen müssen“) vorsieht:
+
+„4.
+
+Nach Art. 21 Nr. 5 WIB 1992 … müssen die ausländischen Spareinlagen die vom Gesetzgeber (oder einer für die Durchführung des Steuerrechts zuständigen Behörde) festgelegten Kriterien erfüllen, zu denen Stellen, die der Belgischen Nationalbank und der Autorität Finanzielle Dienste und Märkte gleichgestellt sind, eine vorherige Stellungnahme abgegeben haben.
+
+5.
+
+Darüber hinaus müssen diese Kriterien den in Art. 2 KB/WIB 92 festgelegten Kriterien ähnlich sein, und zwar in Bezug auf:
+
+—
+
+die Währung, auf die sie lauten,
+
+—
+
+die Bedingungen und Modalitäten der Abhebungen und Entnahmen
+
+—
+
+und Struktur, Niveau und Modalitäten der Berechnung ihrer Vergütung.
+
+Für die Einzelheiten zu diesen Kriterien wird auf Art. 2 KB/WIB 92 … verwiesen.“
+
+Ausgangsrechtsstreit und Vorlagefrage
+
+10
+
+Johannes Van der Weegen und Frau Pot verfügten, was die Steuerjahre 2010 bis 2013 anbelangt, über fünf Sparkonten bei Finanzinstituten mit Sitz in einem anderen Mitgliedstaat als dem Königreich Belgien. Sie beantragten die Gewährung der in Art. 21 Nr. 5 WIB 1992 in der durch das Gesetz vom 25. April 2014 geänderten Fassung vorgesehenen Steuerbefreiung.
+
+11
+
+Da keines dieser Institute bescheinigen konnte, dass die Sparkonten bei ihnen Voraussetzungen – u. a. in Bezug auf den Basiszins und die Treueprämie – erfüllten, die den für die belgischen geregelten Spareinlagen geltenden Voraussetzungen entsprechen, lehnten die belgischen Steuerbehörden die Gewährung einer Steuerbefreiung für die Erträge aus diesen Spareinlagen ab.
+
+12
+
+Johannes Van der Weegen und Frau Pot fochten diese Entscheidung bei dem vorlegenden Gericht an, das Zweifel an der Vereinbarkeit von Art. 21 Nr. 5 WIB 1992 in der durch das Gesetz vom 25. April 2014 geänderten Fassung mit dem Unionsrecht hat.
+
+13
+
+Daher hat die Rechtbank van eerste aanleg West-Vlaanderen, afdeling Brugge (Gericht erster Instanz Westflandern, Abteilung Brügge, Belgien) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Frage zur Vorabentscheidung vorzulegen:
+
+Verstößt Art. 21 Nr. 5 WIB 1992 in der Fassung von Art. 170 des Gesetzes vom 25. April 2014 gegen die Art. 56 und 63 AEUV sowie gegen die Art. 36 und 40 des EWR-Abkommens, weil die fragliche Bestimmung, obwohl sie unterschiedslos für in- und ausländische Dienstleistende gilt, verlangt, dass Voraussetzungen erfüllt sind, die denen des Art. 2 KB/WIB 92 entsprechen und die de facto für den belgischen Markt spezifisch sind und dadurch für ausländische Dienstleistende ein ernsthaftes Hindernis beim Angebot ihrer Dienstleistungen in Belgien darstellen?
+
+14
+
+Aus den dem Gerichtshof vorliegenden Unterlagen ergibt sich, dass Johannes Van der Weegen am 20. Januar 2016 verstorben ist. Frau Van der Weegen, Miguel Juan Van der Weegen und Frau Pot traten in seine Rechte ein.
+
+Zur Vorlagefrage
+
+Einleitende Bemerkungen
+
+15
+
+Es ist darauf hinzuweisen, dass der Gerichtshof in seinem Urteil vom 6. Juni 2013, Kommission/Belgien (C‑383/10, EU:C:2013:364), festgestellt hat, dass das Königreich Belgien dadurch gegen seine Verpflichtungen aus Art. 56 AEUV und Art. 36 des EWR-Abkommens verstoßen hat, dass es eine Regelung eingeführt und beibehalten hat, die für von gebietsfremden Banken gezahlte Zinsen eine insofern diskriminierende Besteuerung vorsieht, als eine Steuerbefreiung ausschließlich auf von gebietsansässigen Banken gezahlte Zinsen Anwendung findet.
+
+16
+
+Im Anschluss an dieses Urteil wurde die Regelung dahin geändert, dass die Steuerbefreiung inzwischen auch für von nicht gebietsansässigen Banken gezahlte Zinsen gilt.
+
+17
+
+Nach dem WIB 1992 in der durch das Gesetz vom 25. April 2014 geänderten Fassung müssen, damit die Einleger die Gewährung einer solchen Befreiung geltend machen können, die Bedingungen der in Rede stehenden Spareinlage bestimmte gesetzlich geregelte Kriterien erfüllen. Dazu gehören die Angabe der Spareinlage in Euro, Beschränkungen der Abhebungen und Entnahmen sowie Modalitäten der Berechnung der Vergütung, die einen Basiszins und eine Treueprämie umfassen muss.
+
+18
+
+Das WIB 1992 sieht vor, dass Einlagen, die von Kreditinstituten mit Sitz in einem anderen Mitgliedstaat des Europäischen Währungsraums entgegengenommen werden, ähnliche Kriterien erfüllen müssen, die von den zuständigen Behörden dieses anderen Mitgliedstaats festgelegt wurden.
+
+19
+
+Nach der Begründung des Gesetzes vom 25. April 2014 ist „[d]amit, dass die Kriterien ‚ähnlich‘ sein müssen, … gemeint, dass für die Spareinlagen die Voraussetzungen gelten müssen, die als Grundvoraussetzungen auch in Art. 21 Nr. 5 WIB 1992 aufgeführt sind“.
+
+20
+
+In der mündlichen Verhandlung vor dem Gerichtshof hat die belgische Regierung klargestellt, dass diese Ausführungen dahin zu verstehen seien, dass die Bedingungen, denen die Spareinlagen bei in einem anderen Mitgliedstaat als Belgien ansässigen Banken unterlägen, nicht mit denen identisch sein müssten, denen die Spareinlagen bei in Belgien ansässigen Banken unterlägen, sondern es genüge, dass es sich um ähnliche Bedingungen handele.
+
+21
+
+Es ist jedoch festzustellen, dass unabhängig von dieser Frage feststeht, dass eine Spareinlage bei einer in Belgien ansässigen Bank oder bei einer im Ausland ansässigen Bank jedenfalls, um unter die in Rede stehende Steuerbefreiung fallen zu können, insbesondere zwei Bedingungen erfüllen muss.
+
+22
+
+Zum einen muss ein solches Sparkonto bestimmten Beschränkungen in Bezug auf die Modalitäten und Bedingungen der Abhebungen und Entnahmen von diesem Konto unterliegen, und zum anderen muss die Vergütung eines solchen Kontos einen Basiszins und zugleich eine Treueprämie umfassen.
+
+23
+
+Die Frage des vorlegenden Gerichts ist im Licht dieser Feststellungen zu beantworten.
+
+Zur Vorlagefrage
+
+24
+
+Mit seiner Frage möchte das vorlegende Gericht wissen, ob die Art. 56 und 63 AEUV sowie die Art. 36 und 40 des EWR-Abkommens dahin auszulegen sind, dass sie einer nationalen Steuerbefreiungsregelung wie der in Art. 21 Nr. 5 WIB 1992 in der durch das Gesetz vom 25. April 2014 geänderten Fassung vorgesehenen entgegenstehen, die, obwohl sie unterschiedslos für Einkünfte aus Spareinlagen bei Bankdienstleistern mit Sitz in Belgien oder in einem anderen Mitgliedstaat des EWR gilt, Einkünften aus Spareinlagen bei Banken vorbehalten ist, die Voraussetzungen erfüllen, die de facto nur für den nationalen Markt spezifisch sind.
+
+25
+
+Zur Beantwortung dieser Frage ist zunächst festzustellen, dass eine solche nationale Regelung zwar unter die beiden von dem vorlegenden Gericht angeführten Grundfreiheiten fallen kann, dass die etwaigen beschränkenden Wirkungen dieser Regelung auf den freien Kapitalverkehr jedoch nur die unvermeidbare Folge der etwaigen Beschränkungen des freien Dienstleistungsverkehrs wären. Steht aber eine nationale Maßnahme gleichzeitig mit mehreren Grundfreiheiten im Zusammenhang, prüft der Gerichtshof sie grundsätzlich nur im Hinblick auf eine dieser Freiheiten, wenn sich herausstellt, dass unter den Umständen des Einzelfalls die anderen Freiheiten dieser ersten gegenüber völlig zweitrangig sind und ihr zugeordnet werden können (vgl. entsprechend Urteile vom 8. September 2009, Liga Portuguesa de Futebol Profissional und Bwin International, C‑42/07, EU:C:2009:519, Rn. 47, und vom 11. März 2010, Attanasio Group, C‑384/08, EU:C:2010:133, Rn. 40, sowie Beschluss vom 28. September 2016, Durante, C‑438/15, nicht veröffentlicht, EU:C:2016:728, Rn. 14).
+
+26
+
+Daher ist die in Rede stehende Steuerbefreiungsregelung ausschließlich mit Blick auf Art. 56 AEUV und Art. 36 des EWR-Abkommens zu prüfen.
+
+27
+
+Darüber hinaus ist festzustellen, dass Bankleistungen Dienstleistungen im Sinne von Art. 57 AEUV darstellen. Art. 56 AEUV steht jedoch der Anwendung einer nationalen Regelung entgegen, die die Möglichkeit für einen Dienstleistungserbringer, von der Dienstleistungsfreiheit tatsächlich Gebrauch zu machen, ohne objektive Rechtfertigung beschränkt (vgl. in diesem Sinne Urteil vom 14. Januar 2016, Kommission/Griechenland, C‑66/15, nicht veröffentlicht, EU:C:2016:5, Rn. 22 und die dort angeführte Rechtsprechung).
+
+28
+
+Im vorliegenden Fall sehen die im Ausgangsverfahren in Rede stehenden Rechtsvorschriften eine Steuerregelung vor, die unterschiedslos für Vergütungen von Spareinlagen, die von Banken mit Sitz in Belgien gezahlt werden, und für Vergütungen, die von Banken mit Sitz in einem anderen Mitgliedstaat gezahlt werden, gilt.
+
+29
+
+Auch nationale Rechtsvorschriften, die – unabhängig vom Ort der Niederlassung des Dienstleistungserbringers – unterschiedslos für alle Dienstleistungen gelten, können jedoch eine Beschränkung des freien Dienstleistungsverkehrs darstellen, wenn damit eine Vergünstigung nur denjenigen Nutzern von Dienstleistungen vorbehalten wird, die bestimmte Voraussetzungen erfüllen, die de facto für den nationalen Markt spezifisch sind, und somit die Nutzer anderer, im Wesentlichen vergleichbarer Dienstleistungen, die jedoch nicht die in diesen Rechtsvorschriften vorgesehenen besonderen Voraussetzungen erfüllen, von dieser Vergünstigung ausgeschlossen werden. Solche Rechtsvorschriften berühren nämlich die Situation der Nutzer von Dienstleistungen als solche und sind daher geeignet, diese Nutzer davon abzuhalten, Dienstleistungen bestimmter Erbringer in Anspruch zu nehmen, da die von diesen Dienstleistungserbringern angebotenen Leistungen nicht die in den Rechtsvorschriften aufgestellten Voraussetzungen erfüllen, und damit den Marktzugang zu beeinflussen (vgl. in diesem Sinne Urteile vom 10. Mai 1995, Alpine Investments, C‑384/93, EU:C:1995:126, Rn. 26 bis 28 und 35 bis 38, sowie vom 10. November 2011, Kommission/Portugal, C‑212/09, EU:C:2011:717, Rn. 65 und die dort angeführte Rechtsprechung).
+
+30
+
+Daher ist als Erstes zu prüfen, ob die im Ausgangsverfahren in Rede stehenden Rechtsvorschriften, auch wenn sie unterschiedslos anwendbar sind, den freien Dienstleistungsverkehr beschränken.
+
+31
+
+Insoweit ist darauf hinzuweisen, dass die Einlagen, wie im Rundschreiben AAFisc Nr. 22/2014 klargestellt, die in Art. 2 KB/WIB 92 festgelegten Kriterien erfüllen müssen, nach denen u. a. die Abhebungen solcher Einlagen beschränkt sein müssen, um diese von einem Girokonto zu unterscheiden, und die Vergütung der Spareinlagen zwingend und ausschließlich aus einem Basiszins und einer Treueprämie bestehen muss.
+
+32
+
+Aus den Ausführungen der Betroffenen in der mündlichen Verhandlung vor dem Gerichtshof geht auch hervor, dass es in anderen Mitgliedstaaten des EWR als dem Königreich Belgien keine Regelungen über Spareinlagen gibt, die die Anforderungen von Art. 2 KB/WIB 92, insbesondere die an die Vergütung einer solchen Einlage, erfüllen. Diese Art der Vergütung stellt offensichtlich eine Besonderheit des belgischen Bankenmarkts dar.
+
+33
+
+Daher führt die in Rede stehende nationale Regelung, obwohl sie unterschiedslos sowohl für Sparkonten gilt, die bei Instituten mit Sitz in Belgien eröffnet wurden, als auch für Sparkonten, die bei Instituten mit Sitz in anderen Mitgliedstaaten des EWR eröffnet wurden, zum einen dazu, die belgischen Gebietsansässigen de facto davon abzuhalten, Dienstleistungen von Banken mit Sitz in diesen anderen Mitgliedstaaten in Anspruch zu nehmen und bei diesen Banken Sparkonten zu eröffnen oder zu behalten, da die von diesen gezahlten Zinsen – u. a. deshalb, weil die Vergütung der Sparkonten nicht aus einem Basiszinssatz und einer Treueprämie besteht – nicht unter die fragliche Steuerbefreiung fallen können.
+
+34
+
+Zum anderen ist diese Regelung geeignet, die Inhaber eines Sparkontos bei einer in Belgien ansässigen Bank, das die Voraussetzungen für eine Steuerbefreiung erfüllt, davon abzuhalten, ihre Ersparnisse auf eine in einem anderen Mitgliedstaat ansässige Bank zu übertragen, die keine Konten anbietet, die diese Voraussetzungen erfüllen.
+
+35
+
+Daher kann diese Regelung eine nach Art. 56 Abs. 1 AEUV grundsätzlich verbotene Beschränkung des freien Dienstleistungsverkehrs darstellen, indem sie den Zugang von Dienstleistungserbringern mit Sitz in anderen Mitgliedstaaten zum belgischen Bankenmarkt Bedingungen unterwirft; dies festzustellen ist, insbesondere im Hinblick auf die in Rn. 29 des vorliegenden Urteils dargelegten Gesichtspunkte, Sache des vorlegenden Gerichts.
+
+36
+
+Als Zweites ist zu prüfen, ob eine solche Beschränkung durch die von der belgischen Regierung vorgetragenen Gründe gerechtfertigt sein kann.
+
+37
+
+Nationale Maßnahmen, die geeignet sind, die Ausübung der durch den Vertrag garantierten Grundfreiheiten zu behindern oder weniger attraktiv zu machen, können dennoch zulässig sein, wenn mit ihnen ein im Allgemeininteresse liegendes Ziel verfolgt wird, wenn sie geeignet sind, dessen Erreichung zu gewährleisten, und wenn sie nicht über das hinausgehen, was zur Erreichung des verfolgten Ziels erforderlich ist (vgl. u. a. Urteil vom 6. Juni 2013, Kommission/Belgien, C‑383/10, EU:C:2013:364, Rn. 49 und die dort angeführte Rechtsprechung).
+
+38
+
+Die belgische Regierung macht geltend, dass die in Rede stehende Regelung zum Verbraucherschutz beitrage. Zu diesem Zweck sei es unerlässlich, dass belgische Gebietsansässige über ein dauerhaftes, gesichertes, stabiles, ausreichendes und risikoloses Sparkonto verfügten, um große oder unvorhergesehene Ausgaben decken zu können.
+
+39
+
+In diesem Zusammenhang hat der Gerichtshof entschieden, dass zu den zwingenden Gründen des Allgemeininteresses, die eine Beschränkung der Dienstleistungsfreiheit rechtfertigen können, der Verbraucherschutz gehört (vgl. u. a. Urteil vom 23. Januar 2014, Kommission/Belgien, C‑296/12, EU:C:2014:24, Rn. 47).
+
+40
+
+Das vorlegende Gericht hat daher zum einen zu prüfen, ob die in Rede stehenden Rechtsvorschriften einem solchen zwingenden Grund des Allgemeininteresses entsprechen.
+
+41
+
+Zum anderen hat es sich zu vergewissern, dass die fragliche Steuerregelung, sofern damit tatsächlich ein solches Ziel verfolgt wird, nicht über das zur Erreichung dieses Ziels Erforderliche hinausgeht und den Grundsatz der Verhältnismäßigkeit beachtet.
+
+42
+
+Selbst wenn man unterstellt, dass die fragliche Regelung einem im Allgemeininteresse liegenden Grund entspricht, kann sie nämlich dadurch, dass sie de facto die Gesamtheit der im Binnenmarkt verfügbaren Einkünfte aus Sparkonten – mit Ausnahme der Einkünfte aus Konten, die bei in Belgien ansässigen Banken unterhalten werden – von der Steuervergünstigung ausnimmt, den Ausschluss von bei Bankinstituten, namentlich bei anderen als belgischen Bankinstituten, eröffneten Sparkonten bewirken, mit denen sich das auch mit dieser Regelung verfolgte Ziel, nämlich der Verbraucherschutz, verwirklichen ließe. Insbesondere lässt keines der vor dem Gerichtshof vorgetragenen Argumente die Annahme zu, dass die Anwendung der in Art. 2 KB/WIB 92 vorgesehenen Anforderungen an die Vergütung von Einlagen zur Verwirklichung dieses Ziels notwendig wäre.
+
+43
+
+Daher kann der Verbraucherschutz nicht zur Rechtfertigung der in Rede stehenden Beschränkung des freien Dienstleistungsverkehrs herangezogen werden.
+
+44
+
+Was Art. 36 des EWR-Abkommens betrifft, ist festzustellen, dass diese Bestimmung Art. 56 AEUV entspricht, so dass die in den Rn. 27 bis 43 des vorliegenden Urteils dargelegten Erwägungen zu diesem Artikel auch für Art. 36 des EWR-Abkommens gelten.
+
+45
+
+Nach alledem ist auf die Vorlagefrage zu antworten, dass Art. 56 AEUV und Art. 36 des EWR-Abkommens dahin auszulegen sind, dass sie nationalen Rechtsvorschriften wie den im Ausgangsverfahren fraglichen entgegenstehen, die eine nationale Steuerbefreiungsregelung vorsehen, soweit diese – obwohl sie unterschiedslos für Einkünfte aus Spareinlagen bei Bankdienstleistern mit Sitz in Belgien oder in einem anderen Mitgliedstaat des EWR gilt – für in anderen Mitgliedstaaten ansässige Dienstleistungserbringer den Zugang zum belgischen Bankenmarkt Bedingungen unterwirft, was zu prüfen Sache des vorlegenden Gerichts ist.
+
+Kosten
+
+46
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem bei dem vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Fünfte Kammer) für Recht erkannt:
+
+ 	
+Art. 56 AEUV und Art. 36 des Abkommens über den Europäischen Wirtschaftsraum vom 2. Mai 1992 sind dahin auszulegen, dass sie nationalen Rechtsvorschriften wie den im Ausgangsverfahren fraglichen entgegenstehen, die eine nationale Steuerbefreiungsregelung vorsehen, soweit diese – obwohl sie unterschiedslos für Einkünfte aus Spareinlagen bei Bankdienstleistern mit Sitz in Belgien oder in einem anderen Mitgliedstaat des Europäischen Wirtschaftsraums gilt – für in anderen Mitgliedstaaten ansässige Dienstleistungserbringer den Zugang zum belgischen Bankenmarkt Bedingungen unterwirft, was zu prüfen Sache des vorlegenden Gerichts ist.
+
+ 	
+Unterschriften.
+
+( *1 )	Verfahrenssprache: Niederländisch.

@@ -1,0 +1,491 @@
+﻿URTEIL DES GERICHTSHOFS (Fünfte Kammer)
+
+13. September 2018 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Rechtsangleichung – Richtlinie 2004/39/EG – Art. 54 Abs. 1 und 3 – Tragweite der Pflicht der nationalen Finanzaufsichtsbehörden zur Wahrung des Berufsgeheimnisses – Aberkennung des guten beruflichen Leumunds – Fälle, die unter das Strafrecht fallen – Charta der Grundrechte der Europäischen Union – Art. 47 und 48 – Verteidigungsrechte – Akteneinsicht“
+
+In der Rechtssache C‑358/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht von der Cour administrative (Verwaltungsgerichtshof, Luxemburg) mit Entscheidung vom 21. Juni 2016, beim Gerichtshof eingegangen am 24. Juni 2016, in dem Verfahren
+
+UBS Europe SE, vormals UBS (Luxembourg) SA,
+
+Alain Hondequin u. a.,
+
+Beteiligte:
+
+DV,
+
+EU,
+
+Commission de surveillance du secteur financier (CSSF),
+
+Ordre des avocats du barreau de Luxembourg,
+
+erlässt
+
+DER GERICHTSHOF (Fünfte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten J. L. da Cruz Vilaça (Berichterstatter), des Vizepräsidenten des Gerichtshofs A. Tizzano, des Richters E. Levits, der Richterin M. Berger und des Richters F. Biltgen,
+
+Generalanwältin: J. Kokott,
+
+Kanzler: V. Giacobbo-Peyronnel, Verwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 1. Juni 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der UBS Europe SE, vertreten durch M. Elvinger und L. Arpetti, avocats,
+
+–
+
+von A. Hondequin u. a., vertreten durch V. Hoffeld und P. Urbany, avocats, sowie E. Fronczak, advocate,
+
+–
+
+von DV und EU, vertreten durch J.‑P. Noesen, avocat,
+
+–
+
+der Commission de surveillance du secteur financier (CSSF), vertreten durch A. Rodesch und P. Sondhi, avocats,
+
+–
+
+der deutschen Regierung, vertreten durch T. Henze, J. Möller und D. Klebs als Bevollmächtigte,
+
+–
+
+der Regierung von Estland, vertreten durch N. Grünberg als Bevollmächtigte,
+
+–
+
+der griechischen Regierung, vertreten durch K. Georgiadis und Z. Chatzipavlou als Bevollmächtigte,
+
+–
+
+der italienischen Regierung, vertreten durch G. Palmieri als Bevollmächtigte im Beistand von P. Gentili, avvocato dello Stato,
+
+–
+
+der polnischen Regierung, vertreten durch B. Majczyna, als Bevollmächtigten,
+
+–
+
+der Europäischen Kommission, vertreten durch V. Di Bucci, J. Rius und I. V. Rogalski als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge der Generalanwältin in der Sitzung vom 26. Juli 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 54 Abs. 1 und 3 der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über Märkte für Finanzinstrumente, zur Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates (ABl. 2004, L 145, S. 1) in Verbindung mit den Art. 41, 47 und 48 der Charta der Grundrechte der Europäischen Union (im Folgenden: Charta).
+
+2
+
+Es ergeht in Drittwiderspruchsverfahren, die von der UBS Europe SE, vormals UBS (Luxembourg) SA (im Folgenden: UBS), sowie Herrn Alain Hondequin u. a. gegen das Urteil der Cour administrative (Verwaltungsgerichtshof, Luxemburg) vom 16. Dezember 2014 eingeleitet worden sind, mit dem über das Rechtsmittel der Herren DV und EU gegen das Urteil des Tribunal administratif (Verwaltungsgericht, Luxemburg) vom 5. Juni 2014 über die Weigerung der Commission de surveillance du secteur financier (Aufsichtsbehörde für den Finanzsektor, im Folgenden: CSSF) entschieden wurde, im Rahmen der Rechtsstreitigkeiten zwischen Herrn DV und der CSSF infolge der Aberkennung seines guten beruflichen Leumunds bestimmte Unterlagen vorzulegen.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+3
+
+In den Erwägungsgründen 2 und 63 der Richtlinie 2004/39 heißt es:
+
+„(2)
+
+… [Es] ist … erforderlich, eine Harmonisierung in dem Umfang vorzunehmen, der notwendig ist, um Anlegern ein hohes Schutzniveau zu bieten und Wertpapierfirmen das Erbringen von Dienstleistungen in der gesamten Gemeinschaft im Rahmen des Binnenmarkts auf der Grundlage der Herkunftslandaufsicht zu gestatten. …
+
+…
+
+(63)
+
+… In Anbetracht zunehmender grenzüberschreitender Tätigkeiten sollten die zuständigen Behörden einander die für die Wahrnehmung ihrer Aufgaben zweckdienlichen Informationen übermitteln, um eine wirksame Anwendung dieser Richtlinie auch in Situationen zu gewährleisten, in denen Verstöße oder mutmaßliche Verstöße für die Behörden in zwei oder mehreren Mitgliedstaaten von Bedeutung sein können. Bei diesem Informationsaustausch ist die strikte Wahrung des Berufsgeheimnisses erforderlich, um die reibungslose Übermittlung dieser Informationen und den Schutz individueller Rechte zu gewährleisten.“
+
+4
+
+In Titel II („Zulassung von Wertpapierfirmen und Bedingungen für die Ausübung der Tätigkeit“) der Richtlinie 2004/39 sieht deren Art. 8 („Entzug der Zulassung“) Buchst. c vor, dass die zuständige Behörde einer Wertpapierfirma die Zulassung entziehen kann, wenn diese Wertpapierfirma die Voraussetzungen, auf denen die Zulassung beruht, nicht mehr erfüllt.
+
+5
+
+Im selben Titel II bestimmt Art. 9 („Personen, die die Geschäfte tatsächlich leiten“) dieser Richtlinie:
+
+„(1)   Die Mitgliedstaaten schreiben vor, dass die Personen, die die Geschäfte einer Wertpapierfirma tatsächlich leiten, gut beleumdet sind und über ausreichende Erfahrung verfügen, um die solide und umsichtige Führung der Wertpapierfirma sicherzustellen.
+
+…
+
+(3)   Die zuständige Behörde verweigert die Zulassung, wenn sie nicht davon überzeugt ist, dass die Personen, die die Geschäfte der Wertpapierfirma tatsächlich leiten werden, gut beleumdet sind oder über ausreichende Erfahrung verfügen, oder wenn objektive und nachweisbare Gründe für die Vermutung vorliegen, dass die vorgeschlagenen Veränderungen in der Geschäftsleitung der Firma deren solide und umsichtige Führung gefährden.
+
+…“
+
+6
+
+Art. 17 („Allgemeine Verpflichtung zur laufenden Überwachung“) der Richtlinie bestimmt in Abs. 1:
+
+„Die Mitgliedstaaten stellen sicher, dass die zuständigen Behörden die Tätigkeit von Wertpapierfirmen überwachen, um die Einhaltung der Bedingungen für die Ausübung der Tätigkeit gemäß dieser Richtlinie zu beurteilen. Die Mitgliedstaaten stellen sicher, dass geeignete Maßnahmen vorhanden sind, damit die zuständigen Behörden die notwendigen Informationen erhalten, um die Einhaltung dieser Bedingungen durch die Wertpapierfirmen zu prüfen.“
+
+7
+
+Art. 50 („Befugnisse der zuständigen Behörden“) der Richtlinie sieht vor:
+
+„(1)   Die zuständigen Behörden sind mit allen für die Wahrnehmung ihrer Aufgaben notwendigen Überwachungs- und Ermittlungsbefugnissen auszustatten.
+
+…
+
+(2)   Die Befugnisse gemäß Absatz 1 werden in Einklang mit dem nationalen Recht ausgeübt und umfassen zumindest das Recht,
+
+a)
+
+Unterlagen aller Art einzusehen und Kopien von ihnen zu erhalten,
+
+b)
+
+von jeder Person Auskünfte zu verlangen und, falls notwendig, eine Person vorzuladen und zu vernehmen,
+
+…
+
+l)
+
+eine Sache zwecks strafrechtlicher Verfolgung an ein Gericht zu verweisen,
+
+…“
+
+8
+
+Art. 51 (Verwaltungssanktionen) der Richtlinie bestimmt in Abs. 1:
+
+„Unbeschadet der Verfahren für den Entzug der Zulassung oder des Rechts der Mitgliedstaaten, strafrechtliche Sanktionen zu verhängen, sorgen die Mitgliedstaaten entsprechend ihrem nationalen Recht dafür, dass bei Verstößen gegen die gemäß dieser Richtlinie erlassenen Vorschriften gegen die verantwortlichen Personen, geeignete Verwaltungsmaßnahmen ergriffen oder im Verwaltungsverfahren zu erlassende Sanktionen verhängt werden können. Die Mitgliedstaaten sorgen dafür, dass diese Maßnahmen wirksam, verhältnismäßig und abschreckend sind.“
+
+9
+
+Art. 52 („Recht auf Einlegung eines Rechtsbehelfs“) sieht in Abs. 1 vor:
+
+„Die Mitgliedstaaten stellen sicher, dass jede Entscheidung, die im Rahmen der nach dieser Richtlinie erlassenen Rechts- oder Verwaltungsvorschriften getroffen wird, ordnungsgemäß begründet wird und die Gerichte angerufen werden können. …“
+
+10
+
+Art. 54 („Berufsgeheimnis“) der Richtlinie 2004/39 lautet:
+
+„(1)   Die Mitgliedstaaten stellen sicher, dass die zuständigen Behörden, alle Personen, die für diese oder für Stellen, denen nach Artikel 48 Absatz 2 Aufgaben übertragen wurden, tätig sind oder waren, sowie die von den zuständigen Behörden beauftragten Wirtschaftsprüfer und Sachverständigen dem Berufsgeheimnis unterliegen. Diese dürfen vertrauliche Informationen, die sie in ihrer beruflichen Eigenschaft erhalten, an keine Person oder Behörde weitergeben, es sei denn in zusammengefasster oder allgemeiner Form, so dass die einzelnen Wertpapierfirmen, Marktbetreiber, geregelten Märkte oder anderen Personen nicht zu erkennen sind; davon unberührt bleiben Fälle, die unter das Strafrecht oder andere Bestimmungen dieser Richtlinie fallen.
+
+(2)   Wurde gegen eine Wertpapierfirma, einen Marktbetreiber oder einen geregelten Markt durch Gerichtsbeschluss das Konkursverfahren eröffnet oder ihre Zwangsabwicklung eingeleitet, so dürfen vertrauliche Informationen, die sich nicht auf Dritte beziehen, in zivil- oder handelsrechtlichen Verfahren weitergegeben werden, sofern dies für das betreffende Verfahren erforderlich ist.
+
+(3)   Unbeschadet der Fälle, die unter das Strafrecht fallen, dürfen die zuständigen Behörden, Stellen oder andere natürliche oder juristische Personen als die zuständigen Behörden vertrauliche Informationen, die sie gemäß dieser Richtlinie erhalten, nur zur Wahrnehmung ihrer Verantwortlichkeiten und Aufgaben – im Falle der zuständigen Behörden – innerhalb des Geltungsbereichs dieser Richtlinie oder – im Falle anderer Behörden, Stellen, natürlicher oder juristischer Personen – für die Zwecke, für die die Information übermittelt wurde, und/oder bei Verwaltungs- oder Gerichtsverfahren, die sich speziell auf die Wahrnehmung dieser Aufgaben beziehen, verwenden. Gibt die zuständige Behörde oder andere Behörde, Stelle oder Person, die die Information übermittelt, jedoch ihre Zustimmung, so darf die Behörde, die die Information erhält, diese für andere Zwecke verwenden.
+
+(4)   Vertrauliche Informationen, die gemäß dieser Richtlinie empfangen, ausgetauscht oder übermittelt werden, unterliegen den Vorschriften dieses Artikels über das Berufsgeheimnis. Dieser Artikel steht dem allerdings nicht entgegen, dass die zuständigen Behörden im Einklang mit dieser Richtlinie und mit anderen, für Wertpapierfirmen, Kreditinstitute, Pensionsfonds, [Organismen für gemeinsame Anlagen in Wertpapieren (OGAW)], Versicherungs- und Rückversicherungsvermittler, Versicherungsunternehmen, geregelte Märkte oder Marktbetreiber geltenden Richtlinien vertrauliche Informationen mit Zustimmung der die Informationen übermittelnden zuständigen Behörde oder anderen Behörden, Stellen und sonstigen juristischen oder natürlichen Personen austauschen oder solche übermitteln.
+
+(5)   Dieser Artikel steht dem Austausch oder der Übermittlung vertraulicher Informationen, die nicht von der zuständigen Behörde eines anderen Mitgliedstaats empfangen wurden, durch die zuständigen Behörden im Einklang mit de[m] jeweils maßgebenden nationalem Recht nicht entgegen.“
+
+11
+
+Art. 56 („Pflicht zur Zusammenarbeit“) dieser Richtlinie bestimmt in Abs. 1:
+
+„Die zuständigen Behörden der einzelnen Mitgliedstaaten arbeiten zusammen, wann immer dies zur Wahrnehmung der in dieser Richtlinie festgelegten Aufgaben erforderlich ist und machen dazu von den ihnen entweder durch diese Richtlinie oder das nationale Recht übertragenen Befugnissen Gebrauch.
+
+Die zuständigen Behörden leisten den zuständigen Behörden der anderen Mitgliedstaaten Amtshilfe. Sie tauschen insbesondere Informationen aus und arbeiten bei Ermittlungen oder der Überwachung zusammen.
+
+…“
+
+Luxemburgisches Recht
+
+12
+
+Art. 19 („Guter beruflicher Leumund und berufliche Erfahrung“) der Loi du 5 avril 1993 relative au secteur financier (Gesetz vom 5. April 1993 über den Finanzsektor) (Mémorial A 1993, S. 462) bestimmt in Abs. 1:
+
+„Um eine Zulassung zu erhalten, müssen natürliche Personen und bei juristischen Personen die Mitglieder der Verwaltungs-, Geschäftsführungs- und Aufsichtsorgane sowie die im vorangegangen Artikel genannten Aktionäre oder Gesellschafter ihren guten beruflichen Leumund nachweisen. Der gute Leumund wird anhand des Strafregisters und aller Anhaltspunkte beurteilt, aus denen hervorgeht, dass die betroffenen Personen einen guten Ruf besitzen und Gewähr für eine einwandfreie Tätigkeit bieten.“
+
+13
+
+Art. 32 („Berufsgeheimnis der CSSF“) der Loi du 13 juillet 2007 relative aux marchés d’instruments financiers et portant transposition notamment de la directive 2004/39 (Gesetz vom 13. Juli 2007 über Märkte für Finanzinstrumente und zur Umsetzung namentlich der Richtlinie 2004/39) (Mémorial A 2007, S. 2076) sieht vor:
+
+„(1)   Alle Personen, die eine Tätigkeit für die [CSSF] ausüben oder ausgeübt haben, sowie die zugelassenen Wirtschaftsprüfungsgesellschaften oder von der [CSSF] beauftragten Sachverständigen unterliegen dem in Art. 16 der Loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier [(geändertes Gesetz vom 23. Dezember 1998 über die Schaffung einer Finanzaufsichtsbehörde)] genannten Berufsgeheimnis. Dieses Berufsgeheimnis hat zum Inhalt, dass vertrauliche Informationen, die sie in ihrer beruflichen Eigenschaft erhalten, an keine Person oder Behörde weitergegeben werden dürfen, es sei denn, in zusammengefasster oder allgemeiner Form, so dass der Marktteilnehmer, der geregelte Markt, [das multilaterale Handelssystem (MTF)] oder eine andere betroffene Person oder ein anderes betroffenes System nicht zu erkennen sind; davon unberührt bleiben Fälle, die unter das Strafrecht oder andere Vorschriften des vorliegenden Titels fallen.
+
+…
+
+(3)   Unbeschadet der Fälle, die unter das Strafrecht fallen, darf die [CSSF] die vertraulichen Informationen, die sie gemäß diesem Titel erhalten hat, nur zur Ausübung ihrer nach diesem Titel obliegenden Pflichten oder im Rahmen von speziell mit der Wahrnehmung ihrer Aufgaben zusammenhängenden Verwaltungs- oder Gerichtsverfahren verwenden.
+
+…“
+
+Ausgangsverfahren und Vorlagefragen
+
+14
+
+Aus dem Vorabentscheidungsersuchen ergibt sich, dass die CSSF mit Bescheid vom 4. Januar 2010 Herrn DV anwies, seine sämtlichen Funktionen schnellstmöglich niederzulegen, da sie ihn für nicht mehr vertrauenswürdig und daher nicht mehr geeignet hielt, bei einem beaufsichtigten Unternehmen die Geschäftsführungsfunktion oder eine andere zulassungspflichtige Funktion auszuüben. Zur Begründung verwies die CSSF u. a. auf die Rolle, die Herr DV bei der Gründung und dem Betrieb der Luxalpha Sicav (im Folgenden: Luxalpha) gespielt habe.
+
+15
+
+Herr DV erhob mit Klageschriften, die am 26. Februar und 31. März 2010 beim Tribunal administratif (Verwaltungsgericht, Luxemburg) eingingen, Klage auf Abänderung oder, hilfsweise, auf Aufhebung des vorstehend genannten Bescheids der CSSF.
+
+16
+
+Am 11. November 2010 beantragte Herr DV bei der CSSF im Rahmen dieser seinerzeit anhängigen Rechtsstreitigkeiten die Übermittlung eines Schreibens vom 27. Januar 2009, das UBS auf ein Auskunftsersuchen der CSSF vom 31. Dezember 2008 im Zusammenhang mit der „Rechtssache Madoff“ an die CSSF gerichtet hatte. Mit Bescheid vom 13. Dezember 2010 lehnte die CSSF diesen Antrag ab. Am 10. Januar 2011 erhob Herr DV eine Klage auf Änderung oder, hilfsweise, auf Aufhebung dieses Bescheids der CSSF. Am 15. Dezember 2011 wies das Tribunal administratif (Verwaltungsgericht) die CSSF an, ihm dieses Schreiben vorzulegen. Mit Urteil vom 18. Juli 2012 erklärte das Tribunal administratif die von Herrn DV eingereichte Klage für teilweise begründet und erklärte daher den Bescheid der CSSF vom 13. Dezember 2010, mit dem die Übermittlung des oben genannten Schreibens vom 27. Januar 2009 abgelehnt wurde, mit Ausnahme bestimmter Informationen für nichtig.
+
+17
+
+Am 26. Februar 2013 beantragte Herr DV bei der CSSF – weiterhin im Rahmen der Ausgangsrechtsstreitigkeiten – die Übermittlung mehrerer Unterlagen, einschließlich des „Schreibens der CSSF vom 31. Dezember 2008 an [UBS] und ihres Fragebogens“ sowie „sämtlicher Untersuchungen und/oder Verfahren, die von der CSSF im Rahmen der Rechtssache Madoff, Teil Luxalpha, vorgenommen wurden, und die Schriftstücke, die sie bei dieser Gelegenheit erhalten hat“. Nach Ansicht von Herrn DV belegen diese Unterlagen die Rolle von UBS bei der Gründung und dem Betrieb von Luxalpha, weshalb sie für das Verständnis der Rolle der verschiedenen Personen, die bei der Gründung dieser Gesellschaft beteiligt gewesen seien, unerlässlich seien.
+
+18
+
+Mit Bescheid vom 9. April 2013 lehnte die CSSF die Übermittlung der beantragten Unterlagen u. a. aus dem Grund ab, dass sie nicht in der Verwaltungsakte zu Herrn DV enthalten seien, dass sie unter ihre Pflicht zur Wahrung des Berufsgeheimnisses fielen, dass sie sich während des Verwaltungsverfahrens gegen Herrn DV zu keinem Zeitpunkt auf die beantragten Schriftstücke berufen habe und dass der Antrag von Herrn DV nicht hinreichend genau sei.
+
+19
+
+Am 5. Juni 2013 erhob Herr DV eine Klage, die in der Hauptsache auf Nichtigerklärung und, hilfsweise, auf Abänderung des oben genannten Bescheids der CSSF gerichtet war. Mit Klageschrift, die am 7. Juni 2013 beim Tribunal administratif (Verwaltungsgericht) einging, erklärte Herr EU, dem Rechtsstreit als Streithelfer beitreten zu wollen, weil gegen ihn – genau wie gegen Herrn DV – ein Verwaltungsverfahren durchgeführt worden sei, in dem gegen ihn u. a. wegen seiner Rolle bei der Gründung und dem Betrieb von Luxalpha eine Strafe verhängt worden sei. Ferner habe er die Aberkennung seines guten beruflichen Leumunds durch die CSSF im Klageweg angefochten und benötige im Rahmen dieses Gerichtsverfahrens verschiedene Unterlagen, deren Übermittlung die CSSF ihm vorenthalten habe.
+
+20
+
+Nach Zulassung des Streitbeitritts von Herrn EU wies das Tribunal administratif (Verwaltungsgericht) die CSSF mit Urteil vom 5. Juni 2014 an, diesem ihr Schreiben, das sie am 31. Dezember 2008 in der „Rechtssache Madoff“ an UBS gerichtet habe, zu übermitteln; im Übrigen wies es die von Herrn DV erhobene Nichtigkeitsklage ab.
+
+21
+
+Die Herren DV und EU legten mit Rechtsmittelschrift, die am 26. Juni 2014 einging, gegen dieses Urteil des Tribunal administratif (Verwaltungsgericht) ein Rechtsmittel bei der Cour administrative (Verwaltungsgerichtshof) ein.
+
+22
+
+Die Cour administrative (Verwaltungsgerichtshof) erklärte mit Urteil vom 16. Dezember 2014 das Rechtsmittel der Herren DV und EV für teilweise begründet und verurteilte die CSSF, im Rahmen der Hauptsacheverfahren sämtliche Untersuchungen oder Verfahren, die sie in der „Rechtssache Madoff“, insbesondere in Bezug auf Luxalpha, durchgeführt habe, und die Schriftstücke, die sie in diesem Zusammenhang erhalten habe, offenzulegen.
+
+23
+
+Die Cour administrative (Verwaltungsgerichtshof) stellte in diesem Urteil insbesondere fest, dass in einem Verfahren, das sich auf eine Verwaltungssanktion beziehe, vor allem, wenn es, wie das Verfahren im vorliegenden Fall, angesichts der am 4. November 1950 in Rom unterzeichneten Europäischen Konvention zum Schutz der Menschenrechte und Grundfreiheiten (im Folgenden: EMRK) einem strafrechtlichen Verfahren ähnele, einer Person, die sich gegen die Anklage verteidige oder Rechtsschutz gegen eine gegen sie verhängte Verwaltungssanktion begehre, grundsätzlich keine Geheimhaltungspflicht entgegengehalten werden könne. Wenn die Verwaltung sich auf ein Schriftstück gestützt habe, das auch einen Dritten betreffe, könne sie daher dem Betroffenen das Berufsgeheimnis nur in sehr engen Grenzen entgegenhalten, ohne ihn in seinen Verteidigungsrechten zu verletzen. Die Cour administrative (Verwaltungsgerichtshof) hob auch hervor, dass es Aufgabe der Verwaltung sei, die zu der ihr vorgelegten Akte grundsätzlich die gesamte Verwaltungsakte mit allen Schriftstücken zu dem angefochtenen Rechtsakt nehmen müsse, die Gründe darzulegen, aus denen ein vom Beklagten beanspruchtes Schriftstück nicht einschlägig sei. Im vorliegenden Fall habe sich die CSSF jedoch darauf beschränkt, sich auf das Berufsgeheimnis zu berufen, ohne im Einzelnen die zwingenden Gründe darzulegen, die sie daran hinderten, Herrn DV sämtliche Unterlagen vorzulegen, die a priori nützlich zur Verteidigung gegen die gegen ihn verhängte Sanktion erschienen.
+
+24
+
+Mit Klageschriften, die am 23. Oktober 2015 und am 3. März 2016 bei der Cour administrative (Verwaltungsgerichtshof) eingingen, erhoben UBS sowie Herr Alain Hondequin u. a. in ihrer Eigenschaft als ehemalige Mitglieder des Verwaltungsrates von Luxalpha jeweils Drittwiderspruchsklage gegen dieses Urteil. UBS rügt im Wesentlichen, die Cour administrative (Verwaltungsgerichtshof) habe Art. 54 der Richtlinie 2004/39 nicht beachtet.
+
+25
+
+Für das vorlegende Gericht stellen sich ihm in diesem Zusammenhang zwei Arten von Fragen, die sich auf die Auslegung von Art. 54 der Richtlinie 2004/39 beziehen. Als Erstes möchte es wissen, was im Hinblick auf Art. 41 der Charta als Ausnahme im Sinne der in den Abs. 1 und 3 dieses Art. 54 angeführten „Fälle, die unter das Strafrecht fallen“, erachtet werden kann. Als Zweites möchte es wissen, wie die Anforderungen und Garantien nach den Art. 47 und 48 der Charta sowie den Art. 6 und 13 EMRK mit der in diesem Art. 54 festgelegten Pflicht zur Wahrung des Berufsgeheimnisses vereinbart werden können.
+
+26
+
+Unter diesen Umständen hat die Cour administrative (Verwaltungsgerichtshof) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+1.
+
+Erfasst die Ausnahme für die „Fälle, die unter das Strafrecht fallen“, die sowohl in Art. 54 Abs. 1 a. E. der Richtlinie 2004/39 als auch am Anfang von Abs. 3 dieses Art. 54 enthalten ist – insbesondere vor dem Hintergrund von Art. 41 der Charta, in dem der Grundsatz der guten Verwaltung niedergelegt ist – einen Fall, der nach nationalem Recht einer Verwaltungssanktion zuzuordnen ist, aber im Licht der EMRK als zum Strafrecht gehörend betrachtet wird, wie den der im Ausgangsverfahren in Rede stehenden Sanktion, die von der nationalen Regulierungsbehörde, nämlich der nationalen Aufsichtsbehörde, festgesetzt worden ist, und in dem ein zugelassener Rechtsanwalt angewiesen wird, bei einem von dieser Behörde beaufsichtigten Unternehmen keine Geschäftsführerfunktion oder andere der Zulassung unterliegende Funktion mehr auszuüben, und ihm dabei vorgeschrieben wird, alle damit verbundenen Funktionen schnellstmöglich niederzulegen?
+
+2.
+
+In welchem Maß wird – soweit diese nach nationalem Recht als solche eingestufte Verwaltungssanktion im Rahmen eines Verwaltungsverfahrens festgesetzt wird – die Pflicht zur Wahrung des Berufsgeheimnisses, auf die sich eine nationale Aufsichtsbehörde gemäß Art. 54 der Richtlinie 2004/39 berufen kann, von den Erfordernissen eines einen wirksamen Rechtsbehelf umfassenden fairen Verfahrens geprägt, wie sie sich aus Art. 47 der Charta ergeben, der im Licht der Anforderungen zu betrachten ist, die parallel aus den Art. 6 und 13 EMRK für ein faires Verfahren und die Wirksamkeit des Rechtsbehelfs sowie aus den Garantien gemäß Art. 48 der Charta folgen, namentlich im Hinblick auf den – zur Wahrung der Interessen und der bürgerlichen Rechte der mit der Sanktion belegten Person erforderlichen – vollständigen Zugang des Betroffenen zur Verwaltungsakte der Behörde, die die Verwaltungssanktion festgesetzt hat und die gleichzeitig die Aufsichtsbehörde ist?
+
+Zu den Vorlagefragen
+
+27
+
+Mit seinen Fragen, die zusammen zu prüfen sind, möchte das vorlegende Gericht wissen, ob Art. 54 Abs. 1 und 3 der Richtlinie 2004/39 in Verbindung mit Art. 41 der Charta dahin auszulegen ist, dass die in dieser Vorschrift vorgesehene Ausnahme von der Pflicht zur Wahrung des Berufsgeheimnisses für die „Fälle, die unter das Strafrecht fallen“, anwendbar ist, wenn die Behörden, die von den Mitgliedstaaten zur Erfüllung der in dieser Richtlinie vorgesehenen Aufgaben bezeichnet wurden (im Folgenden: zuständige Behörden), eine Maßnahme oder sogar eine Sanktion erlassen, die dem nationalen Verwaltungsrecht zuzuordnen ist. Sollte dies zu verneinen sein, möchte es wissen, inwieweit diese Pflicht zur Wahrung des Berufsgeheimnisses auf jeden Fall durch die Anforderungen des Rechts auf einen wirksamen Rechtsbehelf und ein faires Verfahren sowie durch die Wahrung der Verteidigungsrechte, verankert in den Art. 47 und 48 der Charta in Verbindung mit den Art. 6 und 13 EMRK, beschränkt wird.
+
+28
+
+Als Erstes ist zu den Fallgestaltungen, die von der Wendung „Fälle, die unter das Strafrecht fallen“ im Sinne von Art. 54 Abs. 1 und 3 der Richtlinie 2004/39 in Verbindung mit Art. 41 der Charta erfasst werden, festzustellen, dass sich aus dem Wortlaut der letzteren Bestimmung eindeutig ergibt, dass sich diese nicht an die Mitgliedstaaten, sondern ausschließlich an die Organe, Einrichtungen und sonstigen Stellen der Union richtet (Urteile vom 17. Dezember 2015, WebMindLicenses, C‑419/14, EU:C:2015:832, Rn. 83, und vom 9. März 2017, Doux, C‑141/15, EU:C:2017:188, Rn.60). Folglich ist Art. 41 der Charta im Ausgangsverfahren nicht einschlägig.
+
+29
+
+Ferner ist festzustellen, dass weder Art. 54 der Richtlinie 2004/39 noch eine andere Bestimmung dieser Richtlinie eine Definition der in den Abs. 1 und 3 dieses Artikels enthaltenden Wendung „Fälle, die unter das Strafrecht fallen“ enthält.
+
+30
+
+Nach ständiger Rechtsprechung sind daher der Zusammenhang, in dem Art. 54 der Richtlinie 2004/39 steht, sowie die Ziele, die mit dieser Richtlinie verfolgt werden, zu beachten (vgl. in diesem Sinne Urteil vom 22. April 2015, Drukarnia Multipress, C‑357/13, EU:C:2015:253, Rn. 22 und die dort angeführte Rechtsprechung).
+
+31
+
+Aus dem zweiten Erwägungsgrund dieser Richtlinie ergibt sich, dass mit ihr eine Harmonisierung in dem Umfang vorgenommen werden soll, der notwendig ist, um Anlegern ein hohes Schutzniveau zu bieten und Wertpapierfirmen das Erbringen von Dienstleistungen in der gesamten Union auf der Grundlage der Herkunftslandaufsicht zu gestatten (Urteil vom 19. Juni 2018, Baumeister, C‑15/16, EU:C:2018:464, Rn. 26).
+
+32
+
+Ferner geht aus dem zweiten Satz des 63. Erwägungsgrundes der Richtlinie 2004/39 hervor, dass die zuständigen Behörden der Mitgliedstaaten in Anbetracht zunehmender grenzüberschreitender Tätigkeiten einander die für die Wahrnehmung ihrer Aufgaben zweckdienlichen Informationen übermitteln sollen, um eine wirksame Anwendung dieser Richtlinie zu gewährleisten (Urteil vom 19. Juni 2018, Baumeister, C‑15/16, EU:C:2018:464, Rn. 27).
+
+33
+
+Die Mitgliedstaaten haben daher nach Art. 17 Abs. 1 der Richtlinie 2004/39 sicherzustellen, dass die zuständigen Behörden die Tätigkeit von Wertpapierfirmen ständig überwachen, um sich zu vergewissern, dass diese ihren Pflichten nachkommen (Urteil vom 19. Juni 2018, Baumeister, C‑15/16, EU:C:2018:464, Rn. 28).
+
+34
+
+Nach Art. 50 Abs. 1 und 2 der Richtlinie müssen die zuständigen Behörden über alle für die Wahrnehmung ihrer Aufgaben notwendigen Überwachungs- und Ermittlungsbefugnisse verfügen, einschließlich des Rechts, Unterlagen aller Art einzusehen und von jeder Person Auskünfte zu verlangen (Urteil vom 19. Juni 2018, Baumeister, C‑15/16, EU:C:2018:464, Rn. 29).
+
+35
+
+Überdies schreibt Art. 56 Abs. 1 der Richtlinie 2004/39 vor, dass die zuständigen Behörden den zuständigen Behörden der anderen Mitgliedstaaten Amtshilfe leisten und dass sie insbesondere Informationen austauschen und bei Ermittlungen oder der Überwachung zusammenarbeiten (Urteil vom 19. Juni 2018, Baumeister, C‑15/16, EU:C:2018:464, Rn. 30).
+
+36
+
+Das wirksame Funktionieren des in den vorstehenden Randnummern kurz beschriebenen Systems zur Überwachung der Tätigkeit von Wertpapierfirmen, das auf einer Überwachung innerhalb eines Mitgliedstaats und dem Informationsaustausch zwischen den zuständigen Behörden mehrerer Mitgliedstaaten beruht, erfordert es, dass sowohl die überwachten Firmen als auch die zuständigen Behörden sicher sein können, dass die vertraulichen Informationen grundsätzlich auch vertraulich bleiben (Urteil vom 19. Juni 2018, Baumeister, C‑15/16, EU:C:2018:464, Rn. 31).
+
+37
+
+Wie u. a. aus dem letzten Satz des 63. Erwägungsgrundes der Richtlinie 2004/39 hervorgeht, könnte das Fehlen eines solchen Vertrauens die reibungslose Übermittlung der vertraulichen Informationen gefährden, die zur Ausübung der Überwachungstätigkeit erforderlich sind (Urteil vom 19. Juni 2018, Baumeister, C‑15/16, EU:C:2018:464, Rn. 32).
+
+38
+
+Daher stellt Art. 54 Abs. 1 der Richtlinie 2004/39 zum Schutz nicht nur der speziellen Interessen der unmittelbar betroffenen Firmen, sondern auch des allgemeinen Interesses am normalen Funktionieren der Unionsmärkte für Finanzinstrumente die Grundregel auf, dass das Berufsgeheimnis zu wahren ist (Urteil vom 19. Juni 2018, Baumeister, C‑15/16, EU:C:2018:464, Rn. 33).
+
+39
+
+Insoweit hat der Gerichtshof darauf hingewiesen, dass Art. 54 der Richtlinie 2004/39 einen allgemeinen Grundsatz aufstellt, wonach die Weitergabe der den zuständigen Behörden vorliegenden vertraulichen Informationen verboten ist, und dass er die speziellen Fälle, in denen dieses allgemeine Verbot ausnahmsweise der Übermittlung oder Verwendung solcher Informationen nicht entgegensteht, abschließend aufführt (Urteil vom 19. Juni 2018, Baumeister, C‑15/16, EU:C:2018:464, Rn. 38).
+
+40
+
+Im vorliegenden Fall ist festzustellen, dass Art. 54 Abs. 1 und 3 der Richtlinie 2004/39 bestimmt, dass die Pflicht der zuständigen Behörden zur Wahrung des Berufsgeheimnisses „[u]nbeschadet der Fälle, die unter das Strafrecht fallen“, gilt.
+
+41
+
+Da es sich um eine Ausnahme von dem allgemeinen Grundsatz handelt, wonach die Weitergabe der den zuständigen Behörden vorliegenden vertraulichen Informationen verboten ist, ist die Wendung „[u]nbeschadet der Fälle, die unter das Strafrecht fallen“, in Art. 54 Abs. 1 und 3 der Richtlinie 2004/39 eng auszulegen (vgl. in diesem Sinne Urteil vom 22. April 2010, Kommission/Vereinigtes Königreich, C‑346/08, EU:C:2010:213, Rn. 39 und die dort angeführte Rechtsprechung).
+
+42
+
+Insoweit ist darauf hinzuweisen, dass die zuständigen Behörden nach Art. 50 Abs. 2 Buchst. l der Richtlinie 2004/39 über das Recht verfügen müssen, eine Sache zwecks strafrechtlicher Verfolgung an ein Gericht zu verweisen.
+
+43
+
+Darüber hinaus sieht Art. 51 Abs. 1 dieser Richtlinie vor, dass, unbeschadet der Verfahren für den Entzug der Zulassung oder des Rechts der Mitgliedstaaten, strafrechtliche Sanktionen zu verhängen, die Mitgliedstaaten entsprechend ihrem nationalen Recht dafür sorgen, dass bei Verstößen gegen die gemäß dieser Richtlinie erlassenen Vorschriften gegen die verantwortlichen Personen geeignete Verwaltungsmaßnahmen ergriffen oder im Verwaltungsverfahren zu erlassende Sanktionen verhängt werden können.
+
+44
+
+In diesem Rahmen ist, worauf die Generalanwältin im Wesentlichen in den Nrn. 47 und 48 ihrer Schlussanträge hingewiesen hat, davon auszugehen, dass Art. 54 Abs. 1 und 3 der Richtlinie 2004/39, wenn er vorsieht, dass von der Pflicht zur Wahrung des Berufsgeheimnisses ausnahmsweise in den „Fälle[n], die unter das Strafrecht fallen“, abgerückt werden kann, die Weiterleitung oder Verwendung vertraulicher Informationen zur Verweisung zwecks strafrechtlicher Verfolgung an ein Gericht sowie die entsprechende Durchführung oder Verhängung strafrechtlicher Sanktionen betrifft.
+
+45
+
+Zudem wird diese Auslegung durch Art. 76 Abs. 1 und 3 der Richtlinie 2014/65/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 über Märkte für Finanzinstrumente sowie zur Änderung der Richtlinien 2002/92/EG und 2011/61/EU (ABl. 2014, L 173, S. 349), mit der die Richtlinie 2004/39 neu gefasst wurde, gestützt, der nunmehr klarstellt, dass die Pflicht zur Wahrung des Berufsgeheimnisses „[u]nbeschadet der Anforderungen des nationalen [Strafrechts]“ gilt.
+
+46
+
+Im Übrigen ist darauf hinzuweisen, dass die Maßnahmen, die die zuständigen Behörden nach der Feststellung, dass eine Person nicht mehr die Anforderungen an ihren guten Leumund nach Art. 9 der Richtlinie 2004/39 erfüllt, ergreifen müssen, unabhängig von ihrer Einstufung nach nationalem Recht, auf die sich das vorlegende Gericht bezieht, zu den in Art. 51 Abs. 1 dieser Richtlinie genannten „Verfahren für den Entzug der Zulassung“ gehören, ohne dass sie deswegen Sanktionen im Sinne dieser Vorschrift darstellten oder ihre Anwendung sich auf Fälle bezöge, die im Sinne von Art. 54 Abs. 1 und 3 dieser Richtlinie unter das Strafrecht fallen.
+
+47
+
+Folglich ist davon auszugehen, dass die Ausnahme von dem allgemeinen Grundsatz, wonach die Weitergabe der den zuständigen Behörden vorliegenden vertraulichen Informationen verboten ist, die sich auf „Fälle, die unter das Strafrecht fallen“, bezieht, in einem Fall wie dem des Ausgangsverfahrens nicht anwendbar ist.
+
+48
+
+Gleichwohl ist als Zweites zu prüfen, inwieweit die in Art. 54 Abs. 1 der Richtlinie 2004/39 vorgesehene Pflicht zur Wahrung des Berufsgeheimnisses jedenfalls durch die Anforderungen des Rechts auf einen wirksamen Rechtsbehelf und auf ein faires Verfahren sowie durch die Wahrung der Verteidigungsrechte eingeschränkt wird, die in den Art. 47 und 48 der Charta in Verbindung mit den Art. 6 und 13 EMRK verankert sind.
+
+49
+
+Einleitend ist, soweit das vorlegende Gericht auch die Art. 6 und 13 EMRK anführt, darauf hinzuweisen, dass die durch die EMRK anerkannten Grundrechte zwar, wie Art. 6 Abs. 3 EUV bestätigt, als allgemeine Grundsätze Teil des Unionsrechts sind und nach Art. 52 Abs. 3 der Charta die in ihr enthaltenen Rechte, die den durch die EMRK garantierten Rechten entsprechen, die gleiche Bedeutung und Tragweite haben, wie sie ihnen in der EMRK verliehen werden. Jedoch stellt die EMRK, solange die Union ihr nicht beigetreten ist, kein Rechtsinstrument dar, das formell in die Unionsrechtsordnung übernommen wurde (Urteil vom 20. März 2018, Garlsson Real Estate u. a., C‑537/16, EU:C:2018:193, Rn. 24 und die dort angeführte Rechtsprechung).
+
+50
+
+Aus den Erläuterungen zur Charta, die nach Art. 6 Abs. 1 Unterabs. 3 EUV und Art. 52 Abs. 7 der Charta bei ihrer Auslegung zu berücksichtigen sind (Urteil vom 15. Februar 2016, N., C‑601/15 PPU, EU:C:2016:84, Rn. 47), ergibt sich, dass die Art. 47 und 48 der Charta den Schutz, der durch die Art. 6 und 13 EMRK verliehen ist, gewährleisten. Daher sind lediglich diese Artikel der Charta heranzuziehen.
+
+51
+
+Darüber hinaus ist festzustellen, dass nach ständiger Rechtsprechung die in der Unionsrechtsordnung garantierten Grundrechte in allen unionsrechtlich geregelten Fallgestaltungen Anwendung finden und die Anwendbarkeit des Unionsrechts die Anwendbarkeit der durch die Charta garantierten Grundrechte umfasst (Urteil vom 16. Mai 2017, Berlioz Investment Fund, C‑682/15, EU:C:2017:373, Rn. 49 und die dort angeführte Rechtsprechung).
+
+52
+
+In der Rechtssache des Ausgangsverfahrens geht aus den beim Gerichtshof eingereichten Unterlagen hervor, dass die in Rede stehenden Bescheide der CSSF auf innerstaatlichen Vorschriften beruhen, mit denen das Unionsrecht im Sinne von Art. 51 Abs. 1 der Charta umgesetzt wurde. In einer solchen Rechtssache sind folglich die Vorschriften der Charta anwendbar.
+
+53
+
+Ferner ist darauf hinzuweisen, dass nach einem allgemeinen Auslegungsgrundsatz ein Unionsrechtsakt so weit wie möglich in einer seine Gültigkeit nicht in Frage stellenden Weise und im Einklang mit dem gesamten Primärrecht und insbesondere mit den Bestimmungen der Charta auszulegen ist (Urteil vom 15. Februar 2016, N., C‑601/15 PPU, EU:C:2016:84, Rn. 48).
+
+54
+
+Erstens sieht, was das Recht auf einen wirksamen Rechtsbehelf betrifft, Art. 47 Abs. 1 der Charta insoweit vor, dass jede Person, deren durch das Recht der Union garantierte Rechte oder Freiheiten verletzt worden sind, das Recht hat, nach Maßgabe der in diesem Artikel vorgesehenen Bedingungen bei einem Gericht einen wirksamen Rechtsbehelf einzulegen.
+
+55
+
+Um die Wahrung dieses Grundrechts in der Union zu gewährleisten, verpflichtet Art. 19 Abs. 1 Unterabs. 2 EUV die Mitgliedstaaten, die erforderlichen Rechtsbehelfe zu schaffen, damit ein wirksamer Rechtsschutz in den vom Unionsrecht erfassten Bereichen gewährleistet ist (Urteil vom 26. September 2013, Texdata Software, C‑418/11, EU:C:2013:588, Rn. 78).
+
+56
+
+Insbesondere ist zu dem Erfordernis eines durch das Recht der Union garantierten Rechts im Sinne von Art. 47 Abs. 1 der Charta darauf hinzuweisen, dass der Schutz vor willkürlichen oder unverhältnismäßigen Eingriffen der öffentlichen Gewalt in die Sphäre der privaten Betätigung einer natürlichen oder juristischen Person nach einer ständigen Rechtsprechung einen allgemeinen Grundsatz des Unionsrechts darstellt. Diesen Schutz kann ein Verwaltungsunterworfener gegen einen ihn belastenden Rechtsakt geltend machen (vgl. in diesem Sinne Urteil vom 16. Mai 2017, Berlioz Investment Fund, C‑682/15, EU:C:2017:373, Rn. 51 und 52).
+
+57
+
+Im Übrigen ist jedoch festzustellen, dass das Recht auf einen wirksamen Rechtsbehelf durch die Richtlinie 2004/39 selbst bekräftigt wird, die in Art. 52 Abs. 1 Satz 1 vorsieht, dass „[d]ie Mitgliedstaaten … sicher[stellen], dass jede Entscheidung, die im Rahmen der nach dieser Richtlinie erlassenen Rechts- oder Verwaltungsvorschriften getroffen wird, ordnungsgemäß begründet wird und die Gerichte angerufen werden können“.
+
+58
+
+Auch ist darauf hinzuweisen, dass die in Rede stehenden Bescheide der CSSF im Ausgangsverfahren zur Überprüfung ihrer Rechtmäßigkeit vor Gericht angefochten wurden.
+
+59
+
+Zweitens ist, was das in Art. 47 Abs. 2 der Charta verankerte Recht auf ein faires Verfahren betrifft, darauf hinzuweisen, dass die Achtung der Verteidigungsrechte einen besonderen Aspekt des Rechts auf ein faires Verfahren darstellt (vgl. in diesem Sinne EGMR, 1. Juni 2010, Gäfgen/Deutschland, CE:ECHR:2010:0601JUD002297805, § 169, sowie Urteil vom 6. November 2012, Otis u. a., C‑199/11, EU:C:2012:684, Rn. 48). Die Achtung der Verteidigungsrechte ist auch in Art. 48 Abs. 2 der Charta verankert.
+
+60
+
+Der Gerichtshof hat festgestellt, dass die Verteidigungsrechte in allen Verfahren, die zu einer den Betroffenen beschwerenden Maßnahme führen können, gewahrt werden müssen (vgl. in diesem Sinne Urteile vom 13. Februar 1979, Hoffmann-La Roche/Kommission, 85/76, EU:C:1979:36, Rn. 9, vom 2. Oktober 2003, ARBED/Kommission, C‑176/99 P, EU:C:2003:524, Rn. 19, und vom 26. September 2013, Texdata Software, C‑418/11, EU:C:2013:588, Rn. 83).
+
+61
+
+Die Einsicht in die Akten wiederum stellt die notwendige Ergänzung der wirksamen Inanspruchnahme der Verteidigungsrechte dar (vgl. in diesem Sinne Urteile vom 15. Oktober 2002, Limburgse Vinyl Maatschappij u. a./Kommission, C‑238/99 P, C‑244/99 P, C‑245/99 P, C‑247/99 P, C‑250/99 P bis C‑252/99 P und C‑254/99 P, EU:C:2002:582, Rn. 316, und vom 1. Juli 2010, Knauf Gips/Kommission, C‑407/08 P, EU:C:2010:389, Rn. 22).
+
+62
+
+Jedoch sind nach ständiger Rechtsprechung die Grundrechte nicht schrankenlos gewährleistet, sondern können Beschränkungen unterworfen werden, sofern diese tatsächlich dem Gemeinwohl dienenden Zielen entsprechen und keinen im Hinblick auf den verfolgten Zweck unverhältnismäßigen, nicht tragbaren Eingriff darstellen, der die so gewährleisteten Rechte in ihrem Wesensgehalt antastet (Urteile vom 18. März 2010, Alassini u. a., C‑317/08 bis C‑320/08, EU:C:2010:146, Rn. 63, und vom 26. September 2013, Texdata Software, C‑418/11, EU:C:2013:588, Rn. 84).
+
+63
+
+Solche Beschränkungen können u. a. den gebotenen Schutz der Vertraulichkeit oder des Geschäftsgeheimnisses betreffen, der durch den Zugang zu bestimmten Informationen und Dokumenten beeinträchtigt werden könnte (vgl. in diesem Sinne Urteil vom 9. November 2017, Ispas, C‑298/16, EU:C:2017:843, Rn. 36).
+
+64
+
+Insoweit ist insbesondere hinsichtlich der nach Art. 54 Abs. 1 der Richtlinie 2004/39 den zuständigen Behörden obliegenden Pflicht zur Wahrung des Berufsgeheimnisses darauf hinzuweisen, dass, wie oben in Rn. 38 des vorliegenden Urteils ausgeführt, diese Pflicht dem Schutz nicht nur der speziellen Interessen der unmittelbar betroffenen Firmen, sondern auch des allgemeinen Interesses am normalen Funktionieren der Unionsmärkte für Finanzinstrumente dient.
+
+65
+
+Hierzu hat der Gerichtshof entschieden, dass das in Art. 54 Abs. 1 der Richtlinie aufgestellte allgemeine Verbot der Weitergabe vertraulicher Informationen die den zuständigen Behörden vorliegenden Informationen betrifft, die erstens nicht öffentlich zugänglich sind und bei deren Weitergabe zweitens die Gefahr einer Beeinträchtigung der Interessen der natürlichen oder juristischen Person, die sie geliefert hat, oder der Interessen Dritter oder des ordnungsgemäßen Funktionierens des vom Unionsgesetzgeber durch den Erlass der Richtlinie 2004/39 geschaffenen Systems zur Überwachung der Tätigkeit von Wertpapierfirmen bestünde (Urteil vom 19. Juni 2018, Baumeister, C‑15/16, EU:C:2018:464, Rn. 35).
+
+66
+
+Was ferner speziell das Recht auf Einsicht in die Akten betrifft, bedeutet dieses nach einer ständigen Rechtsprechung, dass die von einem sie beschwerenden Rechtsakt betroffene Person die Möglichkeit hat, alle Schriftstücke in der Ermittlungsakte zu prüfen, die für ihre Verteidigung erheblich sein könnten. Zu diesen gehören sowohl belastende als auch entlastende Schriftstücke mit Ausnahme von Geschäftsgeheimnissen anderer Personen, internen Schriftstücken der Behörde, die die Handlung erlassen hat, und anderen vertraulichen Informationen (vgl. in diesem Sinne Urteile vom 7. Januar 2004, Aalborg Portland u. a./Kommission, C‑204/00 P, C‑205/00 P, C‑211/00 P, C‑213/00 P, C‑217/00 P und C‑219/00 P, EU:C:2004:6, Rn. 68, und vom 25. Oktober 2011, Solvay/Kommission, C‑110/10 P, EU:C:2011:687, Rn. 49).
+
+67
+
+Zu den Unterlagen, die in die Ermittlungsakte aufzunehmen sind, ist darauf hinzuweisen, dass sich ebenfalls aus der Rechtsprechung des Gerichtshofs ergibt, dass es zwar nicht Sache allein der Behörde, die die Beschwerdepunkte mitteilt und die Entscheidung über die Verhängung einer Sanktion trifft, sein kann, die für die Verteidigung der betroffenen Person nützlichen Schriftstücke zu bestimmen, sie jedoch vom Verwaltungsverfahren die Bestandteile ausschließen darf, die in keinem Zusammenhang mit den Sach- und Rechtsausführungen in der Mitteilung der Beschwerdepunkte stehen und folglich für die Untersuchung nicht erheblich sind (vgl. in diesem Sinne Urteile vom 7. Januar 2004, Aalborg Portland u. a./Kommission, C‑204/00 P, C‑205/00 P, C‑211/00 P, C‑213/00 P, C‑217/00 P und C‑219/00 P, EU:C:2004:6, Rn. 126 und die dort angeführte Rechtsprechung).
+
+68
+
+Aus den vorangegangenen Erwägungen ergibt sich, dass das Recht auf Weitergabe der Unterlagen, die für die Verteidigung erheblich sind, nicht unbegrenzt und absolut ist. Vielmehr muss, wie von der Generalanwältin im Wesentlichen in Nr. 90 ihrer Schlussanträge festgestellt, der Schutz der Vertraulichkeit der Informationen, die der den zuständigen Behörden nach Art. 54 Abs. 1 der Richtlinie 2004/39 obliegenden Pflicht zur Wahrung des Berufsgeheimnisses unterliegen, in einer Weise gewährleistet und durchgesetzt werden, die mit der Wahrung der Verteidigungsrechte vereinbar ist.
+
+69
+
+So obliegt es im Fall eines Konflikts zwischen einerseits dem Interesse der von einem sie beschwerenden Rechtsakt betroffenen Person, über die notwendigen Informationen zu verfügen, um von ihren Verteidigungsrechten in vollem Umfang Gebrauch machen zu können, und andererseits den im Zusammenhang mit der Pflicht zur Wahrung des Berufsgeheimnisses stehenden Interessen den zuständigen Behörden oder Gerichten, für jeden Einzelfall eine Abwägung zwischen diesen einander gegenüberstehenden Interessen vorzunehmen (vgl. in diesem Sinne Urteil vom 14. Februar 2008, Varec, C‑450/06, EU:C:2008:91, Rn. 51 und 52 sowie die dort angeführte Rechtsprechung).
+
+70
+
+In einem Fall wie dem des Ausgangsverfahrens, in dem sich eine zuständige Behörde auf die in Art. 54 Abs. 1 der Richtlinie 2004/39 vorgesehene Pflicht zur Wahrung des Berufsgeheimnisses beruft, um die Übermittlung von in ihrem Besitz befindlichen Informationen zu verweigern, die nicht in der Akte zu der Person, die von einem sie beschwerenden Rechtsakt betroffen ist, enthalten sind, ist es daher Sache des zuständigen nationalen Gerichts, zu prüfen, ob diese Informationen einen objektiven Zusammenhang mit den gegen sie gerichteten Beschwerdepunkten aufweisen, und, sollte dies zu bejahen sein, die in der vorstehenden Randnummer aufgeführten Interessen gegeneinander abzuwägen, bevor sie über die Übermittlung der einzelnen beantragten Informationen entscheidet.
+
+71
+
+Nach alledem ist auf die Vorlagefragen zu antworten, dass Art. 54 der Richtlinie 2004/39 dahin auszulegen ist, dass
+
+–
+
+die Wendung „Fälle, die unter das Strafrecht fallen“ in den Abs. 1 und 3 dieser Vorschrift nicht auf den Fall anwendbar ist, dass die zuständigen Behörden eine Maßnahme wie die des Ausgangsverfahrens ergreifen, die darin besteht, einer Person zu untersagen, bei einem beaufsichtigten Unternehmen eine Geschäftsführerfunktion oder eine andere der Zulassung unterliegende Funktion auszuüben, verbunden mit der Anweisung, alle damit verbundenen Funktionen schnellstmöglich niederzulegen, weil diese Person nicht mehr die in Art. 9 dieser Richtlinie vorgesehenen Anforderungen an den guten beruflichen Leumund erfülle, die zu den Maßnahmen gehört, die die zuständigen Behörden bei der Wahrnehmung der Befugnisse, über die sie nach den Bestimmungen des Titels II dieser Richtlinie verfügen, ergreifen müssen. Indem diese Vorschrift vorsieht, dass von der Pflicht zur Wahrung des Berufsgeheimnisses ausnahmsweise in solchen Fällen abgerückt werden kann, betrifft sie nämlich die Weiterleitung oder Verwendung vertraulicher Informationen zur Verweisung zwecks strafrechtlicher Verfolgung an ein Gericht sowie entsprechender Durchführung oder Verhängung strafrechtlicher Sanktionen;
+
+–
+
+die Pflicht zur Wahrung des Berufsgeheimnisses gemäß Abs. 1 dieses Artikels in Verbindung mit den Art. 47 und 48 der Charta in einer Weise gewährleistet und durchgeführt werden muss, die mit der Wahrung der Verteidigungsrechte vereinbar ist. Beruft sich eine zuständige Behörde auf diese Pflicht, um die Übermittlung von in ihrem Besitz befindlichen Informationen zu verweigern, die nicht in der Akte zu der Person enthalten sind, die von einem sie beschwerenden Rechtsakt betroffen ist, ist es daher Sache des zuständigen nationalen Gerichts, zu prüfen, ob diese Informationen einen objektiven Zusammenhang mit den gegen sie gerichteten Beschwerdepunkten aufweisen, und, sollte dies zu bejahen sein, das Interesse der fraglichen Person, über die notwendigen Informationen zu verfügen, um von ihren Verteidigungsrechten in vollem Umfang Gebrauch machen zu können, gegen die im Zusammenhang mit der Pflicht zur Wahrung des Berufsgeheimnisses stehenden Interessen abzuwägen, bevor sie über die Übermittlung der einzelnen beantragten Informationen entscheidet.
+
+Kosten
+
+72
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem bei dem vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Fünfte Kammer) für Recht erkannt:
+
+ 	
+Art. 54 der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über Märkte für Finanzinstrumente, zur Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates ist dahin auszulegen, dass
+
+ 	
+–
+
+die Wendung „Fälle, die unter das Strafrecht fallen“ in den Abs. 1 und 3 dieser Vorschrift nicht auf den Fall anwendbar ist, dass die von den Mitgliedstaaten zur Erfüllung der in dieser Richtlinie vorgesehenen Aufgaben bezeichneten Behörden eine Maßnahme wie die des Ausgangsverfahrens ergreifen, die darin besteht, einer Person zu untersagen, bei einem beaufsichtigten Unternehmen eine Geschäftsführerfunktion oder eine andere der Zulassung unterliegende Funktion auszuüben, verbunden mit der Anweisung, alle damit verbundenen Funktionen schnellstmöglich niederzulegen, weil diese nicht mehr die in Art. 9 dieser Richtlinie vorgesehenen Anforderungen an den guten beruflichen Leumund erfülle, die zu den Maßnahmen gehört, die die zuständigen Behörden bei der Wahrnehmung der Befugnisse, über die sie nach den Bestimmungen des Titels II dieser Richtlinie verfügen, ergreifen müssen. Indem diese Vorschrift vorsieht, dass von der Pflicht zur Wahrung des Berufsgeheimnisses ausnahmsweise in solchen Fällen abgerückt werden kann, betrifft sie nämlich die Weiterleitung oder Verwendung vertraulicher Informationen zur Verweisung zwecks strafrechtlicher Verfolgung an ein Gericht sowie entsprechender Durchführung oder Verhängung strafrechtlicher Sanktionen;
+
+–
+
+die Pflicht zur Wahrung des Berufsgeheimnisses gemäß Abs. 1 dieses Artikels in Verbindung mit den Art. 47 und 48 der Charta der Grundrechte der Europäischen Union in einer Weise gewährleistet und durchgeführt werden muss, die mit der Wahrung der Verteidigungsrechte vereinbar ist. Beruft sich eine zuständige Behörde auf diese Pflicht, um die Übermittlung von in ihrem Besitz befindlichen Informationen zu verweigern, die nicht in der Akte zu der Person enthalten sind, die von einem sie beschwerenden Rechtsakt betroffen ist, ist es daher Sache des zuständigen nationalen Gerichts, zu prüfen, ob diese Informationen einen objektiven Zusammenhang mit den gegen sie gerichteten Beschwerdepunkten aufweisen, und, sollte dies zu bejahen sein, das Interesse der fraglichen Person, über die notwendigen Informationen zu verfügen, um von ihren Verteidigungsrechten in vollem Umfang Gebrauch machen zu können, gegen die im Zusammenhang mit der Pflicht zur Wahrung des Berufsgeheimnisses stehenden Interessen abzuwägen, bevor sie über die Übermittlung der einzelnen beantragten Informationen entscheidet.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Französisch.

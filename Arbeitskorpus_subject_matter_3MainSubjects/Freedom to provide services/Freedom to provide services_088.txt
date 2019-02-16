@@ -1,0 +1,292 @@
+URTEIL DES GERICHTSHOFS (Dritte Kammer)
+
+18. Mai 2017 ( *1 )
+
+„Vorlage zur Vorabentscheidung — Freier Dienstleistungsverkehr — Richtlinie 77/249/EWG — Art. 4 — Ausübung des Rechtsanwaltsberufs — Router für den Zugang zum privaten virtuellen Anwaltsnetzwerk (RPVA) — RPVA-Router — Weigerung, einem Rechtsanwalt, der in einem anderen Mitgliedstaat zugelassen ist, den Router zur Verfügung zu stellen — Diskriminierende Maßnahme“
+
+In der Rechtssache C‑99/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Tribunal de grande instance de Lyon (Landgericht Lyon, Frankreich) mit Entscheidung vom 15. Februar 2016, beim Gerichtshof eingegangen am 19. Februar 2016, in dem Verfahren
+
+Jean-Philippe Lahorgue
+
+gegen
+
+Ordre des avocats du barreau de Lyon,
+
+Conseil national des barreaux (CNB),
+
+Conseil des barreaux européens (CCBE),
+
+Ordre des avocats du barreau de Luxembourg,
+
+Beteiligter:
+
+Ministère public,
+
+erlässt
+
+DER GERICHTSHOF (Dritte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten L. Bay Larsen (Berichterstatter) sowie der Richter M. Vilaras, J. Malenovský, M. Safjan und D. Šváby,
+
+Generalanwalt: M. Wathelet,
+
+Kanzler: V. Giacobbo-Peyronnel, Verwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 11. Januar 2017,
+
+unter Berücksichtigung der Erklärungen
+
+—
+
+von J.-P. Lahorgue, avocat, vertreten durch sich selbst,
+
+—
+
+des Ordre des avocats du barreau de Lyon, vertreten durch S. Bracq, avocat,
+
+—
+
+des Conseil national des barreaux (CNB), vertreten durch J.‑P. Hordies und A.‑G. Haie, avocats,
+
+—
+
+der französischen Regierung, vertreten durch D. Colas und R. Coesme als Bevollmächtigte,
+
+—
+
+der Europäischen Kommission, vertreten durch H. Støvlbæk und H. Tserepa-Lacombe als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 9. Februar 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 4 der Richtlinie 77/249/EWG des Rates vom 22. März 1977 zur Erleichterung der tatsächlichen Ausübung des freien Dienstleistungsverkehrs der Rechtsanwälte (ABl. 1977, L 78, S. 17).
+
+2
+
+Es ergeht im Rahmen eines von Rechtsanwalt Jean-Philippe Lahorgue gegen den Ordre des avocats du barreau de Lyon (Anwaltskammer Lyon, Frankreich), den Conseil national des barreaux (CNB) (Nationalrat der Anwaltskammern, Frankreich) und den Conseil des barreaux européens (CCBE) (Rat der europäischen Anwaltschaften) sowie den Ordre des avocats du barreau de Luxembourg (Anwaltskammer Luxemburg) angestrengten Verfahrens des vorläufigen Rechtsschutzes, in dem er beantragt, der Anwaltskammer Lyon aufzugeben, ihm als Erbringer grenzüberschreitender Dienstleistungen den Router für den Zugang zum privaten virtuellen Anwaltsnetzwerk (RPVA) (im Folgenden: RPVA-Router) zur Verfügung zu stellen.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+3
+
+Art. 4 der Richtlinie 77/249 lautet:
+
+„(1)   Die mit der Vertretung oder der Verteidigung eines Mandanten im Bereich der Rechtspflege oder vor Behörden zusammenhängenden Tätigkeiten des Rechtsanwalts werden im jeweiligen Aufnahmestaat unter den für die in diesem Staat niedergelassenen Rechtsanwälte vorgesehenen Bedingungen ausgeübt, wobei jedoch das Erfordernis eines Wohnsitzes sowie das der Zugehörigkeit zu einer Berufsorganisation in diesem Staat ausgeschlossen sind.
+
+(2)   Bei der Ausübung dieser Tätigkeit hält der Rechtsanwalt die Standesregeln des Aufnahmestaats neben den ihm im Herkunftsstaat obliegenden Verpflichtungen ein.
+
+…“
+
+4
+
+Art. 5 der Richtlinie sieht vor:
+
+„Für die Ausübung der Tätigkeiten, die mit der Vertretung und der Verteidigung von Mandanten im Bereich der Rechtspflege verbunden sind, kann ein Mitgliedstaat den unter Artikel 1 fallenden Rechtsanwälten als Bedingung auferlegen,
+
+—
+
+dass sie nach den örtlichen Regeln oder Gepflogenheiten beim Präsidenten des Gerichtes und gegebenenfalls beim zuständigen Vorsitzenden der Anwaltskammer des Aufnahmestaats eingeführt sind;
+
+—
+
+dass sie im Einvernehmen entweder mit einem bei dem angerufenen Gericht zugelassenen Rechtsanwalt, der gegebenenfalls diesem Gericht gegenüber die Verantwortung trägt, oder mit einem bei diesem Gericht tätigen ‚avoué‘ oder ‚procuratore‘ handeln.“
+
+5
+
+Gemäß Art. 7 Abs. 1 der Richtlinie 77/249 kann die zuständige Stelle des Aufnahmestaats von dem Dienstleistungserbringer verlangen, dass er seine Eigenschaft als Rechtsanwalt nachweist.
+
+Französisches Recht
+
+6
+
+Für Rechtsanwälte, die Angehörige eines Mitgliedstaats der Europäischen Union mit einer dauerhaften Niederlassung in einem Mitgliedstaat sind, sieht Art. 202‑1 des Décret no 91‑1197 du 27 novembre 1991 organisant la profession d’avocat (Dekret Nr. 91‑1197 vom 27. November 1991 zur Regelung des Rechtsanwaltsberufs) vor:
+
+„Ist ein [solcher] Rechtsanwalt als Vertreter oder zur Verteidigung eines Mandanten vor Gericht oder vor staatlichen Stellen tätig, übt er seine Tätigkeit unter denselben Bedingungen wie ein in Frankreich zugelassener Rechtsanwalt aus.
+
+…
+
+In Zivilsachen, in denen vor dem Tribunal de grande instance [(Landgericht)] Anwaltszwang besteht, kann er nur dann als Anwalt auftreten, wenn er eine Zustellungsanschrift bei einem bei dem angerufenen Gericht zugelassenen Rechtsanwalt angegeben hat. …“
+
+7
+
+Gemäß Art. 748-1 des Code de procédure civile (im Folgenden: Zivilprozessordnung) können „[d]as Versenden, die Übergabe und die Zustellung von Verfahrensschriftstücken, Unterlagen, Mitteilungen, Bescheiden oder Vorladungen, Berichten, Protokollen sowie mit der Vollstreckungsklausel versehenen Kopien und Ausfertigungen gerichtlicher Entscheidungen … unter den in diesem Abschnitt festgelegten Bedingungen und Modalitäten elektronisch erfolgen, unbeschadet der besonderen Bestimmungen, die diese Art der Kommunikation vorschreiben.“
+
+8
+
+Hinsichtlich des Berufungsverfahrens bestimmt Art. 930-1 der Zivilprozessordnung:
+
+„Verfahrensschriftstücke werden dem Gericht auf elektronischem Wege übermittelt, andernfalls werden sie von Amts wegen als unzulässig zurückgewiesen.
+
+Kann ein Schriftstück aus einem vom Versender nicht zu vertretenden Grund nicht elektronisch übermittelt werden, wird es auf Papier erstellt und der Kanzlei übermittelt. In diesem Fall wird die Berufungsschrift an die Kanzlei übermittelt …
+
+Mitteilungen, Bescheide oder Vorladungen werden den Rechtsanwälten der Parteien elektronisch übermittelt, es sei denn, dies ist aus einem vom Versender nicht zu vertretenden Grund nicht möglich.
+
+Eine Verordnung des Justizministers regelt die Modalitäten der elektronischen Kommunikation.“
+
+9
+
+Nach Art. 5 des Arrêté du 7 avril 2009 relatif à la communication par voie électronique devant les tribunaux de grande instance (Verordnung vom 7. April 2009 betreffend die elektronische Kommunikation vor den Landgerichten) erfolgt „[d]er Zugang von Rechtsanwälten zum elektronischen Kommunikationssystem der Gerichte … über einen Anschluss an ein unabhängiges privates Netzwerk mit der Bezeichnung [RPVA], das unter der Verantwortung des Conseil national des barreaux [(Nationalrat der Anwaltskammern)] geführt wird.“
+
+10
+
+Gemäß Art. 9 dieser Verordnung wird „[d]ie Sicherheit der Verbindung der Rechtsanwälte zum RPVA … durch einen Identifikationsmechanismus gewährleistet. Grundlage dieses Mechanismus ist ein Zertifizierungsdienst, der … die Authentifizierung eines Rechtsanwalts als natürliche Person sicherstellt. Dieser Mechanismus überprüft die Gültigkeit des elektronischen Zertifikats. Dieses wird von einem Erbringer elektronischer Zertifizierungsdienste im Namen des Conseil national des barreaux, der Zertifizierungsbehörde, ausgestellt.“
+
+11
+
+In der Praxis wird die Authentifizierung dadurch ermöglicht, dass das persönliche elektronische Zertifikat des Rechtsanwalts mit dem nationalen Verzeichnis der Rechtsanwälte verknüpft ist, das durch täglichen Abgleich mit den Anwaltsverzeichnissen aller französischen Anwaltskammern automatisch aktualisiert wird.
+
+Ausgangsrechtsstreit und Vorlagefrage
+
+12
+
+Herr Lahorgue, französischer Staatsangehöriger, ist ein in Luxemburg zugelassener Rechtsanwalt.
+
+13
+
+Er beantragte beim Ordre des avocats du barreau de Lyon (Anwaltskammer Lyon), ihm einen RPVA-Router zur Verfügung zu stellen, der im Rahmen der Ausübung des Rechtsanwaltsberufs die Erbringung grenzüberschreitender Dienste erleichtert.
+
+14
+
+Die Anwaltskammer gab seinem Antrag nicht statt, da er nicht der Anwaltskammer Lyon angehöre.
+
+15
+
+Daraufhin beantragte Herr Lahorgue beim Tribunal de grande instance de Lyon (Landgericht Lyon, Frankreich) in einem Verfahren des vorläufigen Rechtsschutzes u. a., der Anwaltskammer Lyon unter Androhung eines Zwangsgelds aufzugeben, ihm binnen acht Tagen den RPVA-Router zur Verfügung zu stellen, so dass er den Anwaltsberuf in Frankreich uneingeschränkt und unter denselben Voraussetzungen ausüben könne wie ein französischer Anwalt.
+
+16
+
+Im Rahmen dieses Verfahrens des vorläufigen Rechtsschutzes regte Herr Lahorgue an, gegebenenfalls dem Gerichtshof die Frage vorzulegen, ob die Weigerung, einem in einem Mitgliedstaat ordnungsgemäß zugelassenen Rechtsanwalt einen RPVA-Router zur Verfügung zu stellen, nur weil er in dem anderen Mitgliedstaat, in dem er den Anwaltsberuf als freier Dienstleister ausüben möchte, nicht zugelassen ist, gegen Art. 4 der Richtlinie 77/249 verstößt, da es sich hierbei um eine diskriminierende Maßnahme handelt, die die Berufsausübung als freier Dienstleister behindert.
+
+17
+
+Das vorlegende Gericht hat Zweifel an der Vereinbarkeit der ablehnenden Entscheidung der Anwaltskammer Lyon mit dem Unionsrecht.
+
+18
+
+Es führt im Einzelnen aus, dass es, da ein Rechtsanwalt aus einem anderen Mitgliedstaat bei Beschreitung des Rechtswegs in Straf- oder Sozialsachen nicht durch die Pflicht eingeschränkt sei, einen der Anwaltschaft des angerufenen Gerichts angehörenden Anwalt hinzuzuziehen, möglicherweise mit der Dienstleistungsfreiheit unvereinbar sei, Rechtsanwälte eines anderen Mitgliedstaats zu verpflichten, einen anderen Rechtsanwalt hinzuzuziehen, wenn sie mittels eines RPVA-Routers freien Zugang zu dem Gericht haben und damit diese Freiheit ausüben könnten.
+
+19
+
+Unter diesen Umständen hat das Tribunal de grande instance de Lyon (Landgericht Lyon) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Frage zur Vorabentscheidung vorzulegen:
+
+Verstößt die Weigerung, einem Rechtsanwalt, der in einem Mitgliedstaat ordnungsgemäß zugelassen ist, in dem er den Rechtsanwaltsberuf als freier Dienstleister ausüben möchte, einen RPVA-Router zur Verfügung zu stellen, in Fällen, in denen ein Einvernehmensanwalt nicht gesetzlich vorgeschrieben ist, gegen Art. 4 der Richtlinie 77/249, weil es sich dabei um eine diskriminierende Maßnahme handelt, die die Berufsausübung als freier Dienstleistungserbringer behindern kann?
+
+Zur Vorlagefrage
+
+20
+
+Wie die französische Regierung und der Generalanwalt zutreffend ausgeführt haben, enthält die Frage so, wie sie vom vorlegenden Gericht formuliert wurde, eine Aussage, die der Situation des Antragstellers des Ausgangsverfahrens nicht entspricht, da sie sich auf die Situation eines Rechtsanwalts bezieht, der „in einem Mitgliedstaat zugelassen ist, in dem er den Rechtsanwaltsberuf als freier Dienstleister ausüben möchte“, was bei Herrn Lahorgue nicht der Fall ist.
+
+21
+
+Im Rahmen des durch Art. 267 AEUV eingerichteten Verfahrens der Zusammenarbeit zwischen den nationalen Gerichten und dem Gerichtshof ist es jedoch Aufgabe des Letzteren, dem nationalen Gericht eine für die Entscheidung des bei diesem anhängigen Rechtsstreits dienliche Antwort zu geben, und hierzu hat er die ihm vorgelegten Fragen gegebenenfalls umzuformulieren (Urteil vom 20. Oktober 2016, Danqua, C‑429/15, EU:C:2016:789, Rn. 36).
+
+22
+
+Da der Gerichtshof nach seiner Rechtsprechung im Rahmen eines Verfahrens nach Art. 267 AEUV nicht über die Vereinbarkeit innerstaatlicher Rechtsnormen mit dem Unionsrecht entscheiden kann (vgl. u. a. Urteil vom 19. März 2015, OTP Bank, C‑672/13, EU:C:2015:185, Rn. 29), muss die Frage des vorlegenden Gerichts dahin verstanden werden, dass geklärt werden soll, ob die Weigerung der zuständigen Behörden eines Mitgliedstaats, einem in einem anderen Mitgliedstaat ordnungsgemäß zugelassenen Rechtsanwalt einen RPVA-Router zur Verfügung zu stellen, nur weil er in dem ersten Mitgliedstaat, in dem er seinen Beruf als freier Dienstleister ausüben möchte, nicht zugelassen ist, deshalb eine Beschränkung des freien Dienstleistungsverkehrs im Sinne von Art. 4 der Richtlinie 77/249 darstellt, weil diese Weigerung in Fällen, in denen das Hinzuziehen eines Einvernehmensanwalts nicht gesetzlich vorgeschrieben ist, eine diskriminierende Maßnahme darstellt, die die Berufsausübung als freier Dienstleister behindern kann.
+
+23
+
+Aus den dem Gerichtshof vorgelegten Akten geht hervor, dass die Nutzung elektronischer Kommunikation in bestimmten Verfahren zugelassen ist, in denen kein Anwaltszwang herrscht, wie z. B. in bestimmten Straf- oder Sozialverfahren; um diese Verfahren geht es in dem Vorabentscheidungsersuchen. Der Zugang zu diesem Kommunikationsmittel ist Rechtsanwälten vorbehalten, die in Frankreich zugelassen sind. Zu dem im Ausgangsverfahren maßgeblichen Zeitpunkt war der Zugang zu diesem Kommunikationsmittel grundsätzlich Rechtsanwälten vorbehalten, die der Anwaltschaft des betreffenden Gerichts angehören. Für die in einem anderen Mitgliedstaat niedergelassenen Rechtsanwälte ist nur die Übermittlung durch Einreichung bei der Kanzlei oder auf dem Postweg zulässig.
+
+24
+
+In diesem Zusammenhang ist daran zu erinnern, dass nach Art. 56 AEUV alle Beschränkungen des freien Dienstleistungsverkehrs aufgehoben werden müssen, um es dem Leistenden gemäß Art. 57 Abs. 3 AEUV zu ermöglichen, seine Tätigkeit in dem Land auszuüben, in dem die Leistung erbracht wird, und zwar unter den Voraussetzungen, die dieses Land für seine eigenen Angehörigen vorschreibt (vgl. in diesem Sinne Urteil vom 10. Juli 1991, Kommission/Frankreich, C‑294/89, EU:C:1991:302, Rn. 25).
+
+25
+
+Art. 57 Abs. 3 AEUV ist auf dem Gebiet des freien Dienstleistungsverkehrs der Rechtsanwälte durch die Richtlinie 77/249 näher bestimmt worden, deren Art. 4 Abs. 1 vorsieht, dass die gerichtliche Vertretung eines Mandanten in einem anderen Mitgliedstaat „unter den für die in diesem Staat niedergelassenen Rechtsanwälte vorgesehenen Bedingungen“ wahrgenommen werden muss, wobei „das Erfordernis eines Wohnsitzes sowie das der Zugehörigkeit zu einer Berufsorganisation in diesem Staat“ ausgeschlossen sind (vgl. in diesem Sinne Urteil vom 11. Dezember 2003, AMOK, C‑289/02, EU:C:2003:669, Rn. 29).
+
+26
+
+Ferner steht Art. 56 AEUV nach ständiger Rechtsprechung des Gerichtshofs der Anwendung einer nationalen Regelung entgegen, die die Möglichkeit für einen Dienstleistungserbringer, von der Dienstleistungsfreiheit tatsächlich Gebrauch zu machen, ohne objektive Rechtfertigung beschränkt (vgl. Urteil vom 14. Januar 2016, Kommission/Griechenland, C‑66/15, nicht veröffentlicht, EU:C:2016:5, Rn. 22 und die dort angeführte Rechtsprechung). Beschränkungen des freien Dienstleistungsverkehrs sind solche nationalen Maßnahmen, die die Ausübung dieser Freiheit verbieten, behindern oder weniger attraktiv machen (vgl. Urteil vom 14. Januar 2016, Kommission/Griechenland, C‑66/15, EU:C:2016:5, Rn. 24 und die dort angeführte Rechtsprechung).
+
+27
+
+Insoweit ist festzustellen, dass die Weigerung, Rechtsanwälten, die nicht in Frankreich zugelassen sind, einen RPVA-Router zur Verfügung zu stellen, die Ausübung des freien Dienstleistungsverkehrs durch die Rechtsanwälte behindert oder weniger attraktiv macht.
+
+28
+
+Da diese Rechtsanwälte nämlich keinen Zugang zu den digitalisierten Verfahren erhalten können, müssen sie entweder auf die Übermittlung durch Einreichung bei der Kanzlei oder auf dem Postweg zurückgreifen oder aber die Unterstützung eines in Frankreich zugelassenen Rechtsanwalts in Anspruch nehmen, der über einen RPVA-Router verfügt. Diese Alternativen zur elektronischen Kommunikation sind jedoch umständlicher und grundsätzlich teurer.
+
+29
+
+Somit stellt die Weigerung, Rechtsanwälten, die nicht in Frankreich zugelassen sind, einen RPVA-Router zur Verfügung zu stellen, eine Beschränkung des freien Dienstleistungsverkehrs im Sinne von Art. 56 AEUV dar.
+
+30
+
+In Anbetracht der Besonderheiten von Dienstleistungen, die von Personen erbracht werden, die nicht in dem Mitgliedstaat, in dem die Dienstleistung erbracht werden soll, niedergelassen sind, darf jedoch bei Rechtsanwälten die Anforderung, dass der Betreffende der örtlichen Anwaltschaft angehören muss, um Zugang zum digitalisierten Verfahren zu erhalten, dann nicht als mit den Art. 56 und 57 AEUV unvereinbar angesehen werden, wenn sie zum Schutz des Allgemeininteresses insbesondere am reibungslosen Funktionieren der Justiz sachlich geboten ist (vgl. entsprechend Urteil vom 3. Dezember 1974, van Binsbergen, 33/74, EU:C:1974:131, Rn. 11, 12 und 14). Dies ist der Rahmen, in dem die Richtlinie 77/249 auszulegen ist (vgl. entsprechend Urteil vom 25. Februar 1988, Kommission/Deutschland, 427/85, EU:C:1988:98, Rn. 13).
+
+31
+
+Nach gefestigter Rechtsprechung können nationale Maßnahmen, die geeignet sind, die Ausübung der durch den AEU-Vertrag garantierten Grundfreiheiten zu behindern oder weniger attraktiv zu machen, dennoch zulässig sein, wenn sie zwingenden Gründen des Allgemeinwohls entsprechen, wenn sie geeignet sind, die Verwirklichung des mit ihnen verfolgten Ziels zu gewährleisten, und wenn sie nicht über das hinausgehen, was zur Erreichung dieses Ziels erforderlich ist (vgl. in diesem Sinne Urteile vom 5. Dezember 2006, Cipolla u. a., C‑94/04 und C‑202/04, EU:C:2006:758, Rn. 61, sowie vom 11. Dezember 2014, Kommission/Spanien, C‑678/11, EU:C:2014:2434, Rn. 42), wobei eine nationale Regelung nur dann geeignet ist, die Erreichung des angestrebten Ziels zu gewährleisten, wenn sie tatsächlich dem Anliegen gerecht wird, dieses Ziel in kohärenter und systematischer Weise zu erreichen (vgl. Urteil vom 13. Februar 2014, Sokoll-Seebacher, C‑367/12, EU:C:2014:68, Rn. 39 und die dort angeführte Rechtsprechung).
+
+32
+
+Die Beschränkung des freien Dienstleistungsverkehrs durch die Weigerung, Rechtsanwälten, die nicht in Frankreich zugelassen sind, einen RPVA-Router zur Verfügung zu stellen, wird vom CNB und von der französischen Regierung mit dem Grundsatz der geordneten Rechtspflege gerechtfertigt. Nach Ansicht der französischen Regierung ist diese Beschränkung auch durch den Schutz des Endempfängers der juristischen Dienstleistung gerechtfertigt.
+
+33
+
+In Frankreich verfüge nämlich jeder Rechtsanwalt über ein eigenes elektronisches Zertifikat, das es ihm erlaube, seine Eigenschaft als Rechtsanwalt, der in Frankreich zugelassen und zur Ausübung seines Berufs befugt sei, nachzuweisen. Sein elektronisches Zertifikat sei mit dem nationalen Anwaltsverzeichnis verknüpft, das durch täglichen Abgleich mit den Anwaltsverzeichnissen aller französischen Anwaltskammern automatisch aktualisiert werde. Dieses Zertifikat sei also gültig, solange der Anwalt im nationalen Anwaltsverzeichnis eingetragen sei. Sobald ein Anwalt hingegen nicht mehr in diesem Verzeichnis eingetragen sei, weil er z. B. von der Anwaltskammer, der er angehört habe, ausgeschlossen worden sei, werde sein elektronisches Zertifikat ungültig.
+
+34
+
+Hier ist darauf hinzuweisen, dass zum einen der Schutz der Verbraucher, u. a. der Empfänger juristischer, von Organen der Rechtspflege erbrachter Dienstleistungen, und zum anderen die geordnete Rechtspflege Ziele darstellen, die als zwingende Gründe des Allgemeininteresses angesehen werden können und mit denen sich eine Beschränkung des freien Dienstleistungsverkehrs rechtfertigen lässt (vgl. in diesem Sinne Urteil vom 5. Dezember 2006, Cipolla u. a., C‑94/04 und C‑202/04, EU:C:2006:758, Rn. 64).
+
+35
+
+Wie der Generalanwalt in Nr. 55 seiner Schlussanträge ausgeführt hat, sind der Schutz der Bürger als Endempfänger juristischer Dienstleistungen und die geordnete Rechtspflege u. a. an das Erfordernis der Kontrolle des Dienstleisters geknüpft.
+
+36
+
+Daher ist das dem RPVA zugrunde liegende Identifikationssystem, das sicherstellen soll, dass nur Rechtsanwälte, die die notwendigen Bedingungen für die Ausübung des Berufs erfüllen, sich beim RPVA einloggen können, als solches geeignet, die Ziele des Schutzes sowohl der Empfänger juristischer Dienstleistungen als auch der geordneten Rechtspflege zu gewährleisten.
+
+37
+
+Zur Verhältnismäßigkeit der Weigerung, in einem anderen Mitgliedstaat niedergelassenen Rechtsanwälten einen RPVA-Router zur Verfügung zu stellen, trägt die französische Regierung vor, diese Weigerung beruhe darauf, dass nach dem aktuellen Stand der Digitalisierung von Gerichtsverfahren keine Interoperabilität zwischen den in den verschiedenen Mitgliedstaaten gegebenenfalls vorhandenen Anwaltsverzeichnissen bestehe. Deshalb könne das Identifikationssystem beim Einloggen in das RPVA die Gültigkeit des elektronischen Zertifikats allein bei Rechtsanwälten überprüfen, die in Frankreich zugelassen seien.
+
+38
+
+Es ist Sache des vorlegenden Gerichts, zu prüfen, ob es sich im vorliegenden Fall erreichen lässt, dass in einem anderen Mitgliedstaat niedergelassenen Rechtsanwälten – gegebenenfalls unter bestimmten Anpassungen – ein RPVA-Router zur Verfügung gestellt und dabei der Schutz des Rechtsuchenden als Endempfänger juristischer Dienstleistungen und eine geordnete Rechtspflege auf eine gleichwertige Weise gewährleistet werden wie bei in Frankreich zugelassenen Rechtsanwälten. Ist dies der Fall, ist die im Ausgangsverfahren in Rede stehende Beschränkung des freien Dienstleistungsverkehrs nicht gerechtfertigt.
+
+39
+
+Aus den dem Gerichtshof vorgelegten Akten geht außerdem hervor, dass in den Verfahren ohne Anwaltszwang, um die es im Ausgangsverfahren geht, die Übermittlung der Verfahrensschriftstücke an das angerufene Gericht auf elektronischem Weg fakultativ ist. Somit können alle Rechtsanwälte, einschließlich der in einem anderen Mitgliedstaat niedergelassenen, ihre Verfahrensakten dem Gericht durch Einreichung bei der Kanzlei oder auf dem Postweg übermitteln, während nur die der Anwaltschaft des Gerichts angehörenden Rechtsanwälte die Möglichkeit hatten, gegebenenfalls die elektronische Kommunikation zu nutzen.
+
+40
+
+Sollte sich herausstellen, dass bei der Übermittlung durch Einreichung bei der Kanzlei oder auf dem Postweg die Anwaltseigenschaft nicht systematisch und durchgängig überprüft werden muss, um eine Kontrolle des Anwalts zu gewährleisten, die derjenigen beim RPVA-System gleichwertig ist, kann die Weigerung, Rechtsanwälten, die in einem anderen Mitgliedstaat als der Französischen Republik niedergelassen sind, einen RPVA-Router zur Verfügung zu stellen, nicht als im Hinblick auf die Ziele des Schutzes der Empfänger juristischer Dienste und der geordneten Rechtspflege kohärent angesehen werden.
+
+41
+
+Es ist Sache des vorlegenden Gerichts, zu überprüfen, ob die im Ausgangsverfahren in Rede stehende Beschränkung des freien Dienstleistungsverkehrs im Licht dieses Kriteriums der Gleichwertigkeit im Hinblick auf die genannten Zielen kohärent ist. Ist dies nicht der Fall, ist diese Beschränkung des freien Dienstleistungsverkehrs nicht gerechtfertigt.
+
+42
+
+Nach alledem ist auf die Vorlagefrage zu antworten, dass die Weigerung der zuständigen Behörden eines Mitgliedstaats, einem in einem anderen Mitgliedstaat ordnungsgemäß zugelassenen Rechtsanwalt einen RPVA-Router zur Verfügung zu stellen, nur weil er in dem ersten Mitgliedstaat, in dem er seinen Beruf als freier Dienstleister ausüben möchte, nicht zugelassen ist, in Fällen, in denen das Hinzuziehen eines Einvernehmensanwalts nicht gesetzlich vorgeschrieben ist, eine Beschränkung des freien Dienstleistungsverkehrs im Sinne von Art. 4 der Richtlinie 77/249 in Verbindung mit Art. 56 und Art. 57 Abs. 3 AEUV darstellt. Es ist Sache des vorlegenden Gerichts, zu prüfen, ob eine solche Weigerung angesichts des Kontexts, in dem sie ausgesprochen wird, tatsächlich den Zielen des Verbraucherschutzes und der geordneten Rechtspflege entspricht, die sie rechtfertigen könnten, und ob die damit verbundenen Beschränkungen in einem angemessenen Verhältnis zu diesen Zielen stehen.
+
+Kosten
+
+43
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Dritte Kammer) für Recht erkannt:
+
+ 	
+Die Weigerung der zuständigen Behörden eines Mitgliedstaats, einem in einem anderen Mitgliedstaat ordnungsgemäß zugelassenen Rechtsanwalt einen Router für den Zugang zum privaten virtuellen Anwaltsnetzwerk zur Verfügung zu stellen, nur weil er in dem ersten Mitgliedstaat, in dem er seinen Beruf als freier Dienstleister ausüben möchte, nicht zugelassen ist, stellt in Fällen, in denen das Hinzuziehen eines Einvernehmensanwalts nicht gesetzlich vorgeschrieben ist, eine Beschränkung des freien Dienstleistungsverkehrs im Sinne von Art. 4 der Richtlinie 77/249/EWG des Rates vom 22. März 1977 zur Erleichterung der tatsächlichen Ausübung des freien Dienstleistungsverkehrs der Rechtsanwälte in Verbindung mit Art. 56 und Art. 57 Abs. 3 AEUV dar. Es ist Sache des vorlegenden Gerichts, zu prüfen, ob eine solche Weigerung angesichts des Kontexts, in dem sie ausgesprochen wird, tatsächlich den Zielen des Verbraucherschutzes und der geordneten Rechtspflege entspricht, die sie rechtfertigen könnten, und ob die damit verbundenen Beschränkungen in einem angemessenen Verhältnis zu diesen Zielen stehen.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Französisch.

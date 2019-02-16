@@ -1,0 +1,364 @@
+URTEIL DES GERICHTSHOFS (Vierte Kammer)
+
+14. Dezember 2017 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Gesellschaftsrecht – Richtlinie 2009/101/EG – Art. 2 und 6 bis 8 – Richtlinie 2012/30/EU – Art. 19 und 36 – Charta der Grundrechte der Europäischen Union – Art. 20, 21 und 51 – Beitreibung von Forderungen aus einem Arbeitsvertrag – Recht, vor derselben Gerichtsbarkeit eine Klage gegen die Gesellschaft und gegen ihren Geschäftsführer als mithaftenden Gesamtschuldner für die Schulden der Gesellschaft zu erheben“
+
+In der Rechtssache C‑243/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Juzgado de lo Social n.o 30 de Barcelona (Arbeits- und Sozialgericht Nr. 30 Barcelona, Spanien) mit Entscheidung vom 14. April 2016, beim Gerichtshof eingegangen am 27. April 2016, in dem Verfahren
+
+Antonio Miravitlles Ciurana,
+
+Alberto Marina Lorente,
+
+Jorge Benito García,
+
+Juan Gregorio Benito García
+
+gegen
+
+Contimark SA,
+
+Jordi Socías Gispert
+
+erlässt
+
+DER GERICHTSHOF (Vierte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten T. von Danwitz (Berichterstatter), der Richter C. Vajda und E. Juhász, der Richterin K. Jürimäe sowie des Richters C. Lycourgos,
+
+Generalanwalt: Y. Bot,
+
+Kanzler: I. Illéssy, Verwaltungsrat,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 26. April 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+von Herrn Marina Lorente, vertreten durch J. García Vicente, abogado,
+
+–
+
+der spanischen Regierung, vertreten durch A. Gavela Llopis als Bevollmächtigte,
+
+–
+
+der Europäischen Kommission, vertreten durch J. Rius und H. Støvlbæk als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 26. Juli 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung der Art. 2 und 6 bis 8 der Richtlinie 2009/101/EG des Europäischen Parlaments und des Rates vom 16. September 2009 zur Koordinierung der Schutzbestimmungen, die in den Mitgliedstaaten den Gesellschaften im Sinne des Artikels 48 Absatz 2 [EG] im Interesse der Gesellschafter sowie Dritter vorgeschrieben sind, um diese Bestimmungen gleichwertig zu gestalten (ABl. 2009, L 258, S. 11), der Art. 19 und 36 der Richtlinie 2012/30/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur Koordinierung der Schutzbestimmungen, die in den Mitgliedstaaten den Gesellschaften im Sinne des Artikels 54 Absatz 2 [AEUV] im Interesse der Gesellschafter sowie Dritter für die Gründung der Aktiengesellschaft sowie für die Erhaltung und Änderung ihres Kapitals vorgeschrieben sind, um diese Bestimmungen gleichwertig zu gestalten (ABl. 2012, L 315, S. 74), sowie der Art. 20, 21 und 51 der Charta der Grundrechte der Europäischen Union (im Folgenden: Charta).
+
+2
+
+Es ergeht im Rahmen eines Rechtsstreits zwischen Antonio Miravitlles Ciurana, Alberto Marina Lorente, Jorge Benito García und Juan Gregorio Benito García auf der einen und der Contimark SA und ihrem Geschäftsführer, Jordi Socías Gispert, auf der anderen Seite wegen der Beitreibung von Gehaltsrückständen und anderer Entschädigungen, die die Gesellschaft infolge einer entsprechenden Verurteilung an Erstere zu zahlen hat.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+Richtlinie 2009/101
+
+3
+
+Die Richtlinie 2009/101 wurde durch die Richtlinie (EU) 2017/1132 des Europäischen Parlaments und des Rates vom 14. Juni 2017 über bestimmte Aspekte des Gesellschaftsrechts (ABl. 2017, L 69, S. 46) aufgehoben. Zum Zeitpunkt des Sachverhalts des Ausgangsverfahrens war die Richtlinie 2009/101 noch gültig.
+
+4
+
+In den Erwägungsgründen 1 und 2 der Richtlinie 2009/101 hieß es:
+
+„(1)
+
+Die [Erste Richtlinie 68/151/EWG des Rates vom 9. März 1968 zur Koordinierung der Schutzbestimmungen, die in den Mitgliedstaaten den Gesellschaften im Sinne des Artikels 58 Absatz 2 des Vertrags im Interesse der Gesellschafter sowie Dritter vorgeschrieben sind, um diese Bestimmungen gleichwertig zu gestalten (ABl. 1968, L 65, S. 8)] wurde mehrfach und erheblich geändert. Aus Gründen der Klarheit und der Übersichtlichkeit empfiehlt es sich, die genannte Richtlinie zu kodifizieren.
+
+(2)
+
+Der Koordinierung der einzelstaatlichen Vorschriften über die Offenlegung, die Wirksamkeit eingegangener Verpflichtungen von Aktiengesellschaften, Kommanditgesellschaften auf Aktien oder Gesellschaften mit beschränkter Haftung sowie die Nichtigkeit dieser Gesellschaften kommt insbesondere zum Schutz der Interessen Dritter eine besondere Bedeutung zu.“
+
+5
+
+Art. 2 der Richtlinie bestimmte:
+
+„Die Mitgliedstaaten treffen die erforderlichen Maßnahmen, damit sich die Pflicht zur Offenlegung hinsichtlich der in Artikel 1 genannten Gesellschaften mindestens auf folgende Urkunden und Angaben erstreckt:
+
+a)
+
+den Errichtungsakt und, falls sie Gegenstand eines gesonderten Aktes ist, die Satzung;
+
+b)
+
+Änderungen der unter Buchstabe a genannten Akte, einschließlich der Verlängerung der Dauer der Gesellschaft;
+
+c)
+
+nach jeder Änderung des Errichtungsaktes oder der Satzung den vollständigen Wortlaut des geänderten Aktes in der geltenden Fassung;
+
+d)
+
+die Bestellung, das Ausscheiden sowie die Personalien derjenigen, die als gesetzlich vorgesehenes Gesellschaftsorgan oder als Mitglieder eines solchen Organs
+
+i)
+
+befugt sind, die Gesellschaft gerichtlich und außergerichtlich zu vertreten; bei der Offenlegung muss angegeben werden, ob die zur Vertretung der Gesellschaft befugten Personen die Gesellschaft allein oder nur gemeinschaftlich vertreten können;
+
+ii)
+
+an der Verwaltung, Beaufsichtigung oder Kontrolle der Gesellschaft teilnehmen;
+
+e)
+
+zumindest jährlich den Betrag des gezeichneten Kapitals, falls der Errichtungsakt oder die Satzung ein genehmigtes Kapital erwähnt und falls die Erhöhung des gezeichneten Kapitals keiner Satzungsänderung bedarf;
+
+f)
+
+die nach Maßgabe der [Vierten Richtlinie 78/660/EWG des Rates vom 25. Juli 1978 aufgrund von Artikel 54 Absatz 3 Buchstabe g des Vertrags über den Jahresabschluss von Gesellschaften bestimmter Rechtsformen (ABl. 1978, L 222, S. 11), der Siebenten Richtlinie 83/349/EWG des Rates vom 13. Juni 1983 aufgrund von Artikel 54 Absatz 3 Buchstabe g des Vertrags über den konsolidierten Abschluss (ABl. 1983, L 193, S. 1), der Richtlinie 86/635/EWG des Rates vom 8. Dezember 1986 über den Jahresabschluss und den Konsolidierten Abschluss von Banken und anderen Finanzinstituten (ABl. 1986, L 372, S. 1) und der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den Jahresabschluss und den konsolidierten Abschluss von Versicherungsunternehmen (ABl. 1991, L 374, S. 7)] für jedes Geschäftsjahr offenzulegenden Unterlagen der Rechnungslegung;
+
+g)
+
+jede Verlegung des Sitzes der Gesellschaft;
+
+h)
+
+die Auflösung der Gesellschaft;
+
+i)
+
+die gerichtliche Entscheidung, in der die Nichtigkeit der Gesellschaft ausgesprochen wird;
+
+j)
+
+die Bestellung und die Personalien der Liquidatoren sowie ihre Befugnisse, sofern diese nicht ausdrücklich und ausschließlich aus dem Gesetz oder der Satzung hervorgehen;
+
+k)
+
+den Abschluss der Liquidation sowie in solchen Mitgliedstaaten, in denen die Löschung Rechtswirkungen auslöst, die Löschung der Gesellschaft im Register.“
+
+6
+
+Art. 6 dieser Richtlinie lautete:
+
+„Jeder Mitgliedstaat bestimmt, welche Personen verpflichtet sind, die Formalitäten der Offenlegung zu erfüllen.“
+
+7
+
+Art. 7 der Richtlinie hatte folgenden Wortlaut:
+
+„Die Mitgliedstaaten drohen geeignete Maßregeln zumindest für den Fall an,
+
+a)
+
+dass die in Artikel 2 Buchstabe f vorgeschriebene Offenlegung der Rechnungslegungsunterlagen unterbleibt;
+
+b)
+
+dass die in Artikel 5 vorgesehenen obligatorischen Angaben auf den Geschäftspapieren oder auf der Webseite der Gesellschaft fehlen.“
+
+8
+
+Art. 8 der Richtlinie 2009/101 sah vor:
+
+„Ist im Namen einer in Gründung befindlichen Gesellschaft gehandelt worden, ehe diese die Rechtsfähigkeit erlangt hat, und übernimmt die Gesellschaft die sich aus diesen Handlungen ergebenden Verpflichtungen nicht, so haften die Personen, die gehandelt haben, aus diesen Handlungen unbeschränkt als Gesamtschuldner, sofern nichts anderes vereinbart worden ist.“
+
+Richtlinie 2012/30
+
+9
+
+Auch die Richtlinie 2012/30 wurde durch die Richtlinie 2017/1132 aufgehoben. Zum Zeitpunkt des Sachverhalts des Ausgangsverfahrens war die Richtlinie 2012/30 noch gültig.
+
+10
+
+Der dritte Erwägungsgrund der Richtlinie 2012/30 lautete:
+
+„Die Koordinierung der einzelstaatlichen Vorschriften über die Gründung der Aktiengesellschaft sowie die Aufrechterhaltung, die Erhöhung und die Herabsetzung ihres Kapitals ist vor allem bedeutsam, um beim Schutz der Aktionäre einerseits und der Gläubiger der Gesellschaft andererseits ein Mindestmaß an Gleichwertigkeit sicherzustellen.“
+
+11
+
+Art. 19 der Richtlinie bestimmte:
+
+„(1)   Bei schweren Verlusten des gezeichneten Kapitals muss die Hauptversammlung innerhalb einer durch die Rechtsvorschriften der Mitgliedstaaten zu bestimmenden Frist einberufen werden, um zu prüfen, ob die Gesellschaft aufzulösen ist oder andere Maßnahmen zu ergreifen sind.
+
+(2)   Die Rechtsvorschriften eines Mitgliedstaats können die Höhe des als schwer zu erachtenden Verlustes im Sinne des Absatzes 1 nicht auf mehr als die Hälfte des gezeichneten Kapitals festsetzen.“
+
+12
+
+Art. 36 dieser Richtlinie hatte folgenden Wortlaut:
+
+„(1)   Im Falle einer Herabsetzung des gezeichneten Kapitals haben zumindest die Gläubiger, deren Forderungen vor der Bekanntmachung der Entscheidung über die Herabsetzung entstanden sind, mindestens das Recht, eine Sicherheit für die im Zeitpunkt dieser Bekanntmachung noch nicht fälligen Forderungen zu erhalten. Die Mitgliedstaaten können dieses Recht nur dann ausschließen, wenn der Gläubiger bereits angemessene Sicherheiten hat oder wenn diese Sicherheiten in Anbetracht des Gesellschaftsvermögens nicht notwendig sind.
+
+Die Mitgliedstaaten legen fest, unter welchen Bedingungen das in Unterabsatz 1 genannte Recht ausgeübt werden kann. Die Mitgliedstaaten sorgen in jedem Fall dafür, dass die Gläubiger das Recht haben, bei der zuständigen Verwaltungsbehörde oder dem zuständigen Gericht angemessene Sicherheiten zu beantragen, wenn sie glaubhaft machen können, dass die Befriedigung ihrer Forderungen durch die Herabsetzung des gezeichneten Kapitals gefährdet ist und sie von der Gesellschaft keine angemessenen Sicherheiten erhalten haben.
+
+(2)   Die Rechtsvorschriften der Mitgliedstaaten schreiben mindestens weiter vor, dass die Herabsetzung unwirksam ist … oder dass keine Zahlungen zugunsten der Aktionäre geleistet werden dürfen, solange den Gläubigern nicht Genüge getan worden ist oder solange ein Gericht nicht entschieden hat, dass ihrem Antrag nicht entsprochen zu werden braucht.
+
+(3)   Dieser Artikel gilt auch, wenn die Herabsetzung des gezeichneten Kapitals durch einen vollständigen oder teilweisen Verzicht auf die Leistung von Einlagen der Aktionäre vorgenommen wird.“
+
+Spanisches Recht
+
+13
+
+Art. 236 („Voraussetzungen und persönliche Reichweite der Haftung“) der durch das Real Decreto Legislativo 1/2010 (Königliches Gesetzesdekret Nr. 1/2010) vom 2. Juli 2010 gebilligten Ley de Sociedades de Capital (im Folgenden: Gesetz über Kapitalgesellschaften) bestimmt:
+
+„1.   Die Geschäftsführer haften gegenüber der Gesellschaft, gegenüber den Gesellschaftern und gegenüber den Gesellschaftsgläubigern für den Schaden, den sie ihnen durch Handlungen oder Unterlassungen zugefügt haben, die gegen das Gesetz oder gegen die Satzung verstoßen oder mit denen sie die sich aus ihrer Organstellung ergebenden Pflichten verletzen, …
+
+2.   Der Umstand, dass die Handlung oder der Beschluss, durch die oder den der Schaden verursacht worden ist, von der Gesellschafterversammlung beschlossen, gestattet oder genehmigt worden ist, schließt in keinem Fall die Haftung aus.
+
+…“
+
+14
+
+Art. 237 („Gesamtschuldnerische Haftung“) dieses Gesetzes lautet:
+
+„Alle Mitglieder des Geschäftsführungsorgans, das den schadensverursachenden Beschluss gefasst oder die schadensverursachende Handlung vorgenommen hat, haften hierfür als Gesamtschuldner, mit Ausnahme derjenigen, die den Beweis erbringen, dass ihnen die Existenz des Beschlusses oder der Handlung unbekannt war, da sie an dessen Erlass oder ihrer Durchführung nicht beteiligt waren, dass sie, falls sie davon Kenntnis hatten, angemessen reagiert haben, um den Schaden zu verhindern, oder dass sie ihm oder ihr ausdrücklich widersprochen haben.“
+
+15
+
+Art. 238 („Haftungsklage der Gesellschaft“) Abs. 1 des Gesetzes sieht vor:
+
+„Die Haftungsklage gegen die Geschäftsführer wird von der Gesellschaft nach einem entsprechenden Beschluss der Gesellschafterversammlung erhoben, der auf Antrag eines jeden Gesellschafters gefasst werden kann …“
+
+16
+
+Art. 241 („Individualhaftungsklage“) desselben Gesetzes lautet:
+
+„Die Möglichkeit zur Erhebung von Schadensersatzklagen durch Gesellschafter oder Dritte gegen die Geschäftsführer wegen Handlungen, die unmittelbar ihre Interessen verletzen, bleibt unberührt.“
+
+17
+
+Art. 362 („Auflösung der Gesellschaft wegen Feststellung eines gesetzlichen oder in der Satzung vorgesehenen Auflösungsgrundes“) des Gesetzes über Kapitalgesellschaften bestimmt:
+
+„Kapitalgesellschaften sind bei Vorliegen eines gesetzlichen oder in der Satzung vorgesehenen Auflösungsgrundes durch Beschluss der Gesellschafterversammlung oder durch gerichtliche Entscheidung aufzulösen.“
+
+18
+
+In Art. 363 („Auflösungsgründe“) Abs. 1 dieses Gesetzes heißt es:
+
+„Die Kapitalgesellschaft ist aufzulösen:
+
+a)
+
+bei Einstellung der Geschäftstätigkeit, die ihren Gesellschaftszweck bildet. Die Einstellung wird vermutet nach Ablauf von mehr als einem Jahr der Untätigkeit.
+
+…
+
+e)
+
+Bei Verlusten, die das Nettovermögen auf einen Betrag verringern, der unter der Hälfte des Gesellschaftskapitals liegt, es sei denn, dieses wird in ausreichender Weise erhöht oder herabgesetzt, wenn es nicht geboten ist, Konkurs anzumelden.
+
+…“
+
+19
+
+Art. 365 („Pflicht zur Einberufung [der Gesellschafterversammlung]“) Abs. 1 des Gesetzes sieht vor:
+
+„Die Geschäftsführer müssen binnen zwei Monaten eine Gesellschafterversammlung einberufen, damit diese beschließen kann, die Gesellschaft aufzulösen oder, sofern die Gesellschaft zahlungsunfähig ist, dass diese Konkurs anmelden soll.
+
+…“
+
+20
+
+Art. 367 („Gesamtschuldnerische Haftung der Geschäftsführer“) Abs. 1 des Gesetzes lautet:
+
+„Geschäftsführer, die die Pflicht verletzen, die Gesellschafterversammlung binnen zwei Monaten einzuberufen, damit diese gegebenenfalls den Beschluss zur Auflösung der Gesellschaft fassen kann, die es versäumen, die gerichtliche Auflösung zu beantragen oder, falls dies geboten ist, binnen zwei Monaten ab dem für die Gesellschafterversammlung vorgesehen Zeitpunkt, wenn diese nicht zusammengetreten ist, oder ab dem Zeitpunkt dieser Versammlung, wenn sie gegen die Auflösung gestimmt hat, Konkurs anzumelden, haften für die Verpflichtungen der Gesellschaft, die nach dem Eintritt des gesetzlichen Auflösungsgrundes entstanden sind, als Gesamtschuldner.
+
+…“
+
+Ausgangsverfahren und Vorlagefragen
+
+21
+
+Contimark ist eine Aktiengesellschaft mit Herrn Socías Gispert als Alleingeschäftsführer. In den Jahren 2012 und 2013 erlitt sie Verluste und stellte ihre Geschäftstätigkeit im zweiten Halbjahr 2013 ein.
+
+22
+
+Die Kläger des Ausgangsverfahrens sind ehemalige Beschäftigte von Contimark. Diese wurde durch Urteile des Juzgado de lo Social de Barcelona (Arbeits- und Sozialgericht Barcelona, Spanien) dazu verurteilt, den Klägern nach der Beendigung ihrer Arbeitsverträge in diesem Zusammenhang Gehaltsrückstände und Entschädigungen zu zahlen. Aufgrund der Zahlungsunfähigkeit von Contimark und der Höchstbetragsregelung der Entgeltgarantie konnten die Kläger ihre Forderungen nicht in vollem Umfang beitreiben.
+
+23
+
+Im Rahmen des nachfolgenden Verfahrens zur Vollstreckung dieser Urteile erhoben die Kläger des Ausgangsverfahrens vor dem vorlegenden Gericht, dem Juzgado de lo Social n.o 30 de Barcelona (Arbeits- und Sozialgericht Nr. 30 Barcelona), als Zwischenstreit eine Haftungsklage gegen Herrn Socías Gispert in seiner Eigenschaft als Geschäftsführer von Contimark, die darauf gerichtet war, festzustellen, dass er gegen das Gesetz über Kapitalgesellschaften verstoßen habe und mit dieser Gesellschaft gesamtschuldnerisch für die ihnen noch zustehenden Beträge hafte. Die Haftung von Herrn Socías Gispert ergebe sich daraus, dass er es trotz des Umstands, dass Contimark in den Jahren 2012 und 2013 schwere Verluste erlitten habe, versäumt habe, deren Gesellschafterversammlung einzuberufen, damit diese beschließen könne, die Gesellschaft aufzulösen oder dass diese Konkurs anmelden soll.
+
+24
+
+Das vorlegende Gericht führt aus, dass es nach der Rechtsprechung des Tribunal Supremo (Oberster Gerichtshof, Spanien) nicht für eine Entscheidung über die Haftung der Geschäftsführer von Aktiengesellschaften zuständig sei. Nach dieser Rechtsprechung könnten die Inhaber von Lohnforderungen den Juzgado de lo Social (Arbeits- und Sozialgericht) nicht mit einer Klage befassen, die gleichzeitig darauf abziele, ihre Forderungen gegen die Handelsgesellschaft, bei der sie beschäftigt waren, geltend zu machen und festzustellen, dass einer der Geschäftsführer der Handelsgesellschaft als Gesamtschuldner für diese Forderungen hafte. Im Gegensatz zu den anderen Gläubigern dieser Gesellschaft müssten die Inhaber von Lohnforderungen in einem ersten Schritt den Juzgado de lo Social (Arbeits- und Sozialgericht) anrufen, um ihre Forderung feststellen zu lassen, und sich sodann in einem zweiten Schritt an die für die Entscheidung über eine Klage auf gesamtschuldnerische Haftung gegen den Geschäftsführer dieser Gesellschaft zuständige Zivil- oder Handelsgerichtsbarkeit wenden.
+
+25
+
+Darüber hinaus sehe das Gesetz über die Kapitalgesellschaften die Haftung der Geschäftsführer im Fall von Verstößen gegen die Bestimmungen der Richtlinien 2009/101 und 2012/30 vor. Insbesondere solle Art. 367 dieses Gesetzes, der die gesamtschuldnerische Haftung der Geschäftsführer betreffe, Art. 19 der Richtlinie 2012/30 in innerstaatliches Recht umsetzen. Die genannte Haftung falle somit unter diese Richtlinien. Die Rechtsprechung des Tribunal Supremo (Oberster Gerichtshof) könnte im Widerspruch stehen zu diesen Richtlinien in Verbindung mit den in den Art. 20 und 21 der Charta niedergelegten Grundsätzen der Gleichbehandlung und der Nichtdiskriminierung, indem sie den Gläubigern, deren Forderung sich aus einem Arbeitsvertrag ergebe, hinsichtlich des Rechts zur Ausübung einer solchen Haftungsklage aufgebe, sich an eine andere Gerichtsbarkeit als diejenige zu wenden, die für die Feststellung ihrer Forderung zuständig sei.
+
+26
+
+Unter diesen Umständen hat der Juzgado de lo Social n.o 30 de Barcelona (Arbeits- und Sozialgericht Nr. 30 Barcelona) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+1.
+
+Kann der Gläubiger einer Handelsgesellschaft nach den Richtlinien 2009/101 und 2012/30 und deren Umsetzung in das spanische Recht u. a. in den Art. 236 bis 238, 241 und 367 des Gesetzes über Kapitalgesellschaften, wenn er seine Forderung aus einem Arbeitsverhältnis vor den hierfür zuständigen spanischen Gerichten – denjenigen der Arbeits- und Sozialgerichtsbarkeit – geltend macht, gleichzeitig vor demselben Gericht mit der unmittelbaren Klage gegen das Unternehmen auf Feststellung seiner Forderung aus dem Arbeitsverhältnis (kumulativ) auch die Klage gegen die natürliche Person – den Geschäftsführer des Unternehmens – erheben mit der Begründung, dieser hafte, da er die in diesen Richtlinien vorgesehenen und im Gesetz über die Kapitalgesellschaften in das nationale Recht umgesetzten handelsrechtlichen Pflichten verletzt habe, als Gesamtschuldner mit für die Schulden der Gesellschaft?
+
+2.
+
+Verletzt die Rechtsprechung der Kammer für Arbeits- und Sozialrecht des Tribunal Supremo (Oberster Gerichtshof) die Art. 2 und 6 bis 8 der Richtlinie 2009/101 und die Art. 19 und 36 der Richtlinie 2012/30, weil nach dieser Rechtsprechung die spanischen Arbeits- und Sozialgerichte die in den diesen Richtlinien vorgesehenen und in den Art. 236 bis 238, 241, 367 und anderen Vorschriften des Gesetzes über Kapitalgesellschaften in das nationale Recht umgesetzten Sicherheiten zugunsten der Gläubiger von Handelsgesellschaften (die eingreifen, wenn die auf der Führungsebene der Gesellschaft Verantwortlichen – natürliche Personen – die formellen Anforderungen an die Offenlegung der wesentlichen Urkunden der Gesellschaft nach der Richtlinie 2009/101 und der Richtlinie 2012/30, die im Gesetz über die Kapitalgesellschaften in das nationale Recht umgesetzt wurden, verletzt haben) nicht unmittelbar auf eine Forderung aus einem Arbeitsverhältnis anwenden dürfen?
+
+3.
+
+Verletzt die Rechtsprechung der Kammer für Arbeits- und Sozialrecht des Tribunal Supremo (Oberster Gerichtshof) die Art. 20 und 21 in Verbindung mit Art. 51 der Charta, weil sie den Gläubiger einer Forderung aus einem Arbeitsverhältnis – d. h. einen Arbeitnehmer – dazu zwingt, doppelte Gerichtsverfahren zu führen, nämlich zuerst vor den Arbeits- und Sozialgerichten zur Feststellung seines Anspruchs aus dem Arbeitsverhältnis gegen das Unternehmen und danach vor den Zivil- oder Handelsgerichten, um die gesamtschuldnerische Mithaftung des Geschäftsführers oder anderer natürlicher Personen feststellen zu lassen, obwohl diese Anforderung für andere Gläubiger unabhängig von der Art ihrer Forderungen weder in der Richtlinie 2009/101 noch in der Richtlinie 2012/30 noch in den nationalen Vorschriften festgelegt ist, die diese gemeinschaftsrechtlichen Vorschriften in das nationale Recht umsetzen?
+
+Zu den Vorlagefragen
+
+27
+
+Mit seinen Fragen, die zusammen zu prüfen sind, möchte das vorlegende Gericht wissen, ob die Richtlinie 2009/101, insbesondere deren Art. 2 und 6 bis 8, und die Richtlinie 2012/30, insbesondere deren Art. 19 und 36, in Verbindung mit den Art. 20 und 21 der Charta dahin auszulegen sind, dass sie Arbeitnehmern, die nach der Beendigung ihrer Arbeitsverträge Gläubiger einer Aktiengesellschaft sind, das Recht gewähren, vor der für die Entscheidung über ihre Klage auf Feststellung ihrer Gehaltsforderung zuständigen Arbeits- und Sozialgerichtsbarkeit eine Haftungsklage gegen den Geschäftsführer dieser Gesellschaft zu erheben, um feststellen zu lassen, dass dieser als Gesamtschuldner für die genannte Gehaltsforderung mithaftet, weil er es trotz der schweren Verluste, die die Gesellschaft erlitten hat, unterlassen hat, deren Hauptversammlung einzuberufen.
+
+28
+
+Zunächst ist festzustellen, dass bei dem vorlegenden Gericht eine Haftungsklage gegen den Geschäftsführer von Contimark anhängig ist, weil dieser der Pflicht zur Einberufung der Hauptversammlung trotz der erlittenen schweren Verluste nicht nachgekommen sei. Diese Klage stützt sich auf die Bestimmungen des Gesetzes über die Kapitalgesellschaften, u. a. dessen Art. 367, die nach den Angaben in der Vorlageentscheidung die Geltendmachung dieser Haftung ermöglichen.
+
+29
+
+Hierzu geht aus den Erwägungsgründen 1 und 2 der Richtlinie 2009/101 hervor, dass diese Richtlinie die einzelstaatlichen Vorschriften über die Offenlegung, die Wirksamkeit eingegangener Verpflichtungen von Aktiengesellschaften, Kommanditgesellschaften auf Aktien oder Gesellschaften mit beschränkter Haftung sowie die Nichtigkeit dieser Gesellschaften koordinieren soll. Die Richtlinie 2012/30 zielt nach ihrem dritten Erwägungsgrund darauf ab, beim Schutz der Aktionäre einerseits und der Gläubiger der Aktiengesellschaft andererseits ein Mindestmaß an Gleichwertigkeit sicherzustellen. Zu diesem Zweck harmonisiert sie die einzelstaatlichen Vorschriften über die Gründung sowie die Aufrechterhaltung, die Erhöhung und die Herabsetzung des Kapitals dieser Gesellschaften (vgl. zur Richtlinie 2012/30 Urteil vom 19. Juli 2016, Kotnik u. a., C‑526/14, EU:C:2016:570, Rn. 86).
+
+30
+
+Was die Bestimmungen dieser Richtlinien angeht, auf die das vorlegende Gericht Bezug nimmt, sehen die Art. 2, 6 und 7 der Richtlinie 2009/101 die Verpflichtungen der Mitgliedstaaten im Hinblick auf die Formalitäten der Offenlegung bezüglich der Gesellschaften vor. Art. 8 dieser Richtlinie betrifft Handlungen im Namen einer in Gründung befindlichen Gesellschaft. Diese Bestimmungen sehen – wie im Übrigen auch die anderen Richtlinienbestimmungen – weder eine Pflicht zur Einberufung der Gesellschafterversammlung einer Handelsgesellschaft für den Fall, dass sie schwere Verluste erleidet, vor noch ein Recht der Gläubiger, in einem solchen Fall eine Haftungsklage gegen den Geschäftsführer zu erheben, oder diesbezügliche Verfahrensvorschriften. Daher weisen sie offensichtlich keinen Zusammenhang mit dem Sachverhalt des Ausgangsrechtsstreits auf. Gleiches gilt für Art. 36 der Richtlinie 2012/30, der nur das Recht der Gläubiger betrifft, bei einer Herabsetzung des gezeichneten Kapitals eine Sicherheit zu erhalten.
+
+31
+
+Weder Art. 19 der Richtlinie 2012/30 noch die anderen Bestimmungen dieser Richtlinie betreffen die Haftung der Geschäftsführer oder bestimmen besondere Anforderungen für die Zuständigkeit der Gerichte, um hierüber zu befinden. Zwar sieht dieser Artikel bei schweren Verlusten des gezeichneten Kapitals eine Verpflichtung zur Einberufung der Hauptversammlung der Gesellschaft vor. Er beschränkt sich jedoch darauf, diese Verpflichtung zu nennen, ohne weitere Voraussetzungen für ihr Entstehen näher zu bestimmen, wie u. a. das Gesellschaftsorgan, dem sie obliegt. Insbesondere nennt dieser Artikel nicht die möglichen Folgen einer Verletzung dieser Verpflichtung.
+
+32
+
+Somit schreibt Art. 19 der Richtlinie 2012/30 keinen Anspruch auf Schadensersatz gegenüber dem Geschäftsführer einer Aktiengesellschaft und keine Regelung über die materiellen und verfahrensrechtlichen Modalitäten vor, um ihn als Haftenden in Anspruch zu nehmen, wenn die Einberufung der Hauptversammlung trotz schwerer Verluste des gezeichneten Kapitals unterbleibt.
+
+33
+
+Für die Frage, ob und unter welchen materiellen und verfahrensrechtlichen Voraussetzungen die Gläubiger einer Aktiengesellschaft eventuell im Wege einer Haftungsklage gegen den Geschäftsführer vorgehen können, um Schadensersatz zu erlangen, wenn die Hauptversammlung bei schweren Verlusten des gezeichneten Kapitals nicht einberufen wurde, ist somit das nationale Recht maßgeblich.
+
+34
+
+Da Art. 19 der Richtlinie 2012/30 diesbezüglich keine bestimmten Verpflichtungen der Mitgliedstaaten schafft, kann die im Ausgangsverfahren in Rede stehende Situation nicht anhand der Bestimmungen der Charta beurteilt werden (vgl. in diesem Sinne Urteil vom 10. Juli 2014, Julián Hernández u. a., C‑198/13, EU:C:2014:2055, Rn. 35 und die dort angeführte Rechtsprechung).
+
+35
+
+Nach alledem ist auf die Vorlagefragen zu antworten, dass die Richtlinie 2009/101, insbesondere deren Art. 2 und 6 bis 8, und die Richtlinie 2012/30, insbesondere deren Art. 19 und 36, dahin auszulegen sind, dass sie Arbeitnehmern, die nach der Beendigung ihrer Arbeitsverträge Gläubiger einer Aktiengesellschaft sind, nicht das Recht gewähren, vor der für die Entscheidung über ihre Klage auf Feststellung ihrer Gehaltsforderung zuständigen Arbeits- und Sozialgerichtsbarkeit eine Haftungsklage gegen den Geschäftsführer dieser Gesellschaft zu erheben, um feststellen zu lassen, dass dieser als Gesamtschuldner für die genannte Gehaltsforderung mithaftet, weil er es trotz der schweren Verluste, die die Gesellschaft erlitten hat, unterlassen hat, deren Hauptversammlung einzuberufen.
+
+Kosten
+
+36
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Vierte Kammer) für Recht erkannt:
+
+ 	
+Die Richtlinie 2009/101/EG des Europäischen Parlaments und des Rates vom 16. September 2009 zur Koordinierung der Schutzbestimmungen, die in den Mitgliedstaaten den Gesellschaften im Sinne des Artikels 48 Absatz 2 [EG] im Interesse der Gesellschafter sowie Dritter vorgeschrieben sind, um diese Bestimmungen gleichwertig zu gestalten, insbesondere deren Art. 2 und 6 bis 8, und die Richtlinie 2012/30/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur Koordinierung der Schutzbestimmungen, die in den Mitgliedstaaten den Gesellschaften im Sinne des Artikels 54 Absatz 2 [AEUV] im Interesse der Gesellschafter sowie Dritter für die Gründung der Aktiengesellschaft sowie für die Erhaltung und Änderung ihres Kapitals vorgeschrieben sind, um diese Bestimmungen gleichwertig zu gestalten, insbesondere deren Art. 19 und 36, sind dahin auszulegen, dass sie Arbeitnehmern, die nach der Beendigung ihrer Arbeitsverträge Gläubiger einer Aktiengesellschaft sind, nicht das Recht gewähren, vor der für die Entscheidung über ihre Klage auf Feststellung ihrer Gehaltsforderung zuständigen Arbeits- und Sozialgerichtsbarkeit eine Haftungsklage gegen den Geschäftsführer dieser Gesellschaft zu erheben, um feststellen zu lassen, dass dieser als Gesamtschuldner für die genannte Gehaltsforderung mithaftet, weil er es trotz der schweren Verluste, die die Gesellschaft erlitten hat, unterlassen hat, deren Hauptversammlung einzuberufen.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Spanisch.

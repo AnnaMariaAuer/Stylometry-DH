@@ -1,0 +1,981 @@
+URTEIL DES GERICHTSHOFS (Große Kammer)
+
+30. Januar 2018 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Dienstleistungen im Binnenmarkt – Richtlinie 2006/123/EG – Anwendungsbereich – Art. 2 Abs. 2 Buchst. c – Ausschluss der Dienstleistungen und Netze der elektronischen Kommunikation – Art. 4 Nr. 1 – Begriff ‚Dienstleistung‘ – Einzelhandel mit Waren – Kapitel III – Niederlassungsfreiheit der Dienstleistungserbringer – Anwendbarkeit auf rein innerstaatliche Sachverhalte – Art. 15 – Zu prüfende Anforderungen – Territoriale Beschränkung – Bauleitplan, der die Tätigkeit des Einzelhandels mit Waren ohne großen Platzbedarf in Gebieten außerhalb des Stadtzentrums verbietet – Schutz der städtischen Umwelt – Genehmigung elektronischer Kommunikationsnetze und ‑dienste – Richtlinie 2002/20/EG – Finanzielle Belastungen im Zusammenhang mit Rechten zur Installation von Einrichtungen für ein öffentliches elektronisches Kommunikationsnetz“
+
+In den verbundenen Rechtssachen C‑360/15 und C‑31/16
+
+betreffend Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Hoge Raad der Nederlanden (Oberster Gerichtshof der Niederlande) (C‑360/15) und vom Raad van State (Staatsrat, Niederlande) (C‑31/16) mit Entscheidungen vom 5. Juni 2015 und vom 13. Januar 2016, beim Gerichtshof eingegangen am 13. Juli 2015 und am 18. Januar 2016, in den Verfahren
+
+College van Burgemeester en Wethouders van de gemeente Amersfoort
+
+gegen
+
+X BV (C‑360/15)
+
+und
+
+Visser Vastgoed Beleggingen BV
+
+gegen
+
+Raad van de gemeente Appingedam (C‑31/16)
+
+erlässt
+
+DER GERICHTSHOF (Große Kammer)
+
+unter Mitwirkung des Präsidenten K. Lenaerts, des Vizepräsidenten A. Tizzano, der Kammerpräsidentin R. Silva de Lapuerta, der Kammerpräsidenten T. von Danwitz, J. L. da Cruz Vilaça (Berichterstatter), C. G. Fernlund und C. Vajda, des Richters A. Arabadjiev, der Richterin C. Toader, der Richter M. Safjan und D. Šváby, der Richterinnen M. Berger und A. Prechal sowie der Richter E. Jarašiūnas und S. Rodin,
+
+Generalanwalt: M. Szpunar,
+
+Kanzler: M. Ferreira, Hauptverwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 14. Februar 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+des College van Burgemeester en Wethouders van de gemeente Amersfoort, vertreten durch J. de Groot und P. Fruytier, advocaten,
+
+–
+
+der Visser Vastgoed Beleggingen BV, vertreten durch I. Haverkate, advocaat,
+
+–
+
+der X BV, vertreten durch M. Robichon-Lindenkamp, advocaat,
+
+–
+
+des Raad van de gemeente Appingedam, vertreten durch H. Wessels, H. Mulder, J. Seerden, R. Louwes und H. Pot als Bevollmächtigte,
+
+–
+
+der niederländischen Regierung, vertreten durch M. H. S. Gijzen, K. Bulterman und J. Langer als Bevollmächtigte,
+
+–
+
+der tschechischen Regierung, vertreten durch T. Müller, M. Smolek und J. Vláčil als Bevollmächtigte,
+
+–
+
+der deutschen Regierung, vertreten durch T. Henze und K. Stranz als Bevollmächtigte,
+
+–
+
+Irlands, vertreten durch E. Creedon, M. Browne, G. Hodge und A. Joyce als Bevollmächtigte im Beistand von N. Butler, SC, und C. Keeling, BL,
+
+–
+
+der italienischen Regierung, vertreten durch G. Palmieri als Bevollmächtigte im Beistand von C. Colelli und P. Gentili, avvocati dello Stato,
+
+–
+
+der polnischen Regierung, vertreten durch B. Majczyna als Bevollmächtigten,
+
+–
+
+der Europäischen Kommission, vertreten durch H. Tserepa-Lacombe, L. Malferrari und F. Wilman als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 18. Mai 2017
+
+folgendes
+
+Urteil
+
+1
+
+Die Vorabentscheidungsersuchen betreffen die Auslegung der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt (ABl. 2006, L 376, S. 36) sowie der Art. 34 bis 36 und 49 bis 55 AEUV.
+
+2
+
+Sie ergehen im Rahmen von zwei Rechtsstreitigkeiten; im ersten Rechtsstreit zwischen dem College van Burgemeester en Wethouders van de gemeente Amersfoort (Kollegium von Bürgermeister und Beigeordneten der Gemeinde Amersfoort, Niederlande) (im Folgenden: Magistrat) und der X BV geht es um die Zahlung von Gebühren („leges“) im Zusammenhang mit der Verlegung von Glasfaserkabeln für ein öffentliches elektronisches Kommunikationsnetz und im zweiten Rechtsstreit zwischen der Visser Vastgoed Beleggingen BV (im Folgenden: Visser) und dem Raad van de gemeente Appingedam (Gemeinderat von Appingedam, Niederlande) um Vorschriften in einem Bauleitplan, nach denen bestimmte außerhalb des Stadtzentrums gelegene Gebiete ausschließlich dem Einzelhandel für Waren mit großem Platzbedarf vorbehalten sind.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+Richtlinie 2002/21/EG
+
+3
+
+Art. 1 („Geltungsbereich und Zielsetzung“) Abs. 1 der Richtlinie 2002/21/EG des Europäischen Parlaments und des Rates vom 7. März 2002 über einen gemeinsamen Rechtsrahmen für elektronische Kommunikationsnetze und ‑dienste (Rahmenrichtlinie) (ABl. 2002, L 108, S. 33) in der durch die Richtlinie 2009/140/EG des Europäischen Parlaments und des Rates vom 25. November 2009 (ABl. 2009, L 337, S. 37) geänderten Fassung (im Folgenden: Rahmenrichtlinie) lautet:
+
+„Mit dieser Richtlinie wird ein harmonisierter Rahmen für die Regulierung elektronischer Kommunikationsdienste, elektronischer Kommunikationsnetze, zugehöriger Einrichtungen und zugehöriger Dienste sowie bestimmter Aspekte der Endeinrichtungen zur Erleichterung des Zugangs behinderter Nutzer errichtet. Sie legt die Aufgaben der nationalen Regulierungsbehörden sowie eine Reihe von Verfahren fest, die die [union]sweit harmonisierte Anwendung des Rechtsrahmens gewährleisten.“
+
+4
+
+Art. 2 („Begriffsbestimmungen“) der Rahmenrichtlinie bestimmt:
+
+„Für die Zwecke dieser Richtlinie gelten folgende Begriffsbestimmungen:
+
+…
+
+g)
+
+‚nationale Regulierungsbehörde‘: eine oder mehrere Stellen, die von einem Mitgliedstaat mit einer der in dieser Richtlinie und den Einzelrichtlinien festgelegten Regulierungsaufgaben beauftragt werden;
+
+…“
+
+5
+
+In Art. 11 („Wegerechte“) der Rahmenrichtlinie heißt es:
+
+„(1)   Die Mitgliedstaaten sorgen dafür, dass die zuständige Behörde
+
+–
+
+bei der Prüfung eines Antrags auf Erteilung von Rechten für die Installation von Einrichtungen auf, über oder unter öffentlichem oder privatem Grundbesitz an ein Unternehmen, das für die Bereitstellung öffentlicher Kommunikationsnetze zugelassen ist, oder
+
+–
+
+bei der Prüfung eines Antrags auf Erteilung von Rechten für die Installation von Einrichtungen auf, über oder unter öffentlichem Grundbesitz an ein Unternehmen, das für die Bereitstellung von nicht-öffentlichen elektronischen Kommunikationsnetzen zugelassen ist,
+
+wie folgt verfährt:
+
+—
+
+Sie handelt auf der Grundlage einfacher, effizienter, transparenter und öffentlich zugänglicher Verfahren, die nicht diskriminierend und unverzüglich angewendet werden, und entscheidet in jedem Fall – außer in Enteignungsfällen – innerhalb von sechs Monaten nach der Antragstellung[,] und
+
+—
+
+sie befolgt die Grundsätze der Transparenz und der Nichtdiskriminierung, wenn sie die betreffenden Rechte an Bedingungen knüpft.
+
+…
+
+(2)   Die Mitgliedstaaten stellen sicher, dass bei öffentlichen Behörden oder Gebietskörperschaften, die an Betreibern öffentlicher elektronischer Kommunikationsnetze und/oder öffentlich zugänglicher elektronischer Kommunikationsdienste beteiligt sind oder diese kontrollieren, eine wirksame strukturelle Trennung zwischen der für die Erteilung der in Absatz 1 genannten Rechte zuständigen Stelle und den Tätigkeiten im Zusammenhang mit dem Eigentum oder der Kontrolle besteht.
+
+…“
+
+6
+
+Art. 12 („Gemeinsame Unterbringung und gemeinsame Nutzung von Netzbestandteilen und dazugehörigen Einrichtungen durch Betreiber elektronischer Kommunikationsnetze“) der Rahmenrichtlinie bestimmt in seinen Abs. 1 und 4:
+
+„(1)   Darf ein Unternehmen, das elektronische Kommunikationsnetze bereitstellt, nach nationalem Recht Einrichtungen auf, über oder unter öffentlichen oder privaten Grundstücken installieren oder kann es ein Verfahren zur Enteignung oder Nutzung von Grundstücken in Anspruch nehmen, so kann die nationale Regulierungsbehörde unter strenger Beachtung des Grundsatzes der Verhältnismäßigkeit die gemeinsame Nutzung dieser Einrichtungen oder Grundstücke vorschreiben, wozu unter anderem Gebäude, Gebäudezugänge, Verkabelungen in Gebäuden, Masten, Antennen, Türme und andere Trägerstrukturen, Leitungsrohre, Leerrohre, Einstiegsschächte und Verteilerkästen gehören.
+
+…
+
+(4)   Die Mitgliedstaaten stellen sicher, dass die zuständigen nationalen Behörden von den Unternehmen verlangen können, dass sie die erforderlichen Informationen liefern, damit diese Behörden in Zusammenarbeit mit den nationalen Regulierungsbehörden ein detailliertes Verzeichnis der Art, Verfügbarkeit und geografischen Lage der in Absatz 1 genannten Einrichtungen erstellen und interessierten Kreisen zur Verfügung stellen können.“
+
+Richtlinie 2002/20/EG
+
+7
+
+Der erste Erwägungsgrund der Richtlinie 2002/20/EG des Europäischen Parlaments und des Rates vom 7. März 2002 über die Genehmigung elektronischer Kommunikationsnetze und ‑dienste (Genehmigungsrichtlinie) (ABl. 2002, L 108, S. 21) in der durch die Richtlinie 2009/140 geänderten Fassung (im Folgenden: Genehmigungsrichtlinie) lautet:
+
+„Die öffentliche Anhörung zu dem Bericht von 1999 über den Rechtsrahmen für Kommunikationsdienste, deren Ergebnisse sich in der Mitteilung der Kommission vom 26. April 2000 widerspiegeln, sowie die Feststellungen der Kommission in ihren Mitteilungen über den Fünften und Sechsten Bericht über die Umsetzung des Reformpakets für den Telekommunikationssektor haben bestätigt, dass eine stärker harmonisierte und weniger schwerfällige Regelung des Marktzugangs für elektronische Kommunikationsnetze und ‑dienste in der ganzen [Union] notwendig ist.“
+
+8
+
+Art. 1 („Ziel und Geltungsbereich“) der Genehmigungsrichtlinie sieht vor:
+
+„(1)   Ziel dieser Richtlinie ist es, durch die Harmonisierung und Vereinfachung der Genehmigungsvorschriften und ‑bedingungen einen Binnenmarkt für elektronische Kommunikationsnetze und ‑dienste zu errichten, damit deren Bereitstellung in der ganzen [Union] erleichtert wird.
+
+(2)   Diese Richtlinie gilt für Genehmigungen, die für die Bereitstellung elektronischer Kommunikationsnetze und ‑dienste erteilt werden.“
+
+9
+
+Art. 2 („Begriffsbestimmungen“) Abs. 1 der Genehmigungsrichtlinie bestimmt:
+
+„Für die Zwecke dieser Richtlinie gelten die Begriffsbestimmungen in Artikel 2 der [Rahmenrichtlinie].“
+
+10
+
+Art. 4 („Mindestrechte aufgrund einer Allgemeingenehmigung“) der Genehmigungsrichtlinie besagt in Abs. 1:
+
+„Unternehmen, denen gemäß Artikel 3 eine Genehmigung erteilt wurde, haben das Recht,
+
+a)
+
+elektronische Kommunikationsnetze und ‑dienste bereitzustellen;
+
+b)
+
+zu veranlassen, dass ihr Antrag auf Erteilung der notwendigen Rechte zur Installation der Einrichtungen gemäß Artikel 11 der [Rahmenrichtlinie] geprüft wird.“
+
+11
+
+Nach Art. 12 („Verwaltungsabgaben“) der Genehmigungsrichtlinie gilt:
+
+„(1)   Verwaltungsabgaben, die von Unternehmen verlangt werden, die aufgrund einer Allgemeingenehmigung einen Dienst oder ein Netz bereitstellen oder denen ein Nutzungsrecht gewährt wurde,
+
+a)
+
+dienen insgesamt lediglich zur Deckung der administrativen Kosten für die Verwaltung, Kontrolle und Durchsetzung von Allgemeingenehmigungen und Nutzungsrechten sowie der in Artikel 6 Absatz 2 genannten besonderen Verpflichtungen, die die Kosten für internationale Zusammenarbeit, Harmonisierung und Normung, Marktanalyse, Überwachung der Einhaltung und andere Marktkontrollmechanismen sowie für Regulierungstätigkeiten zur Ausarbeitung und Durchsetzung des abgeleiteten Rechts und von Verwaltungsbeschlüssen, beispielsweise von Beschlüssen über den Zugang und die Zusammenschaltung, einschließen können, und
+
+b)
+
+werden den einzelnen Unternehmen in einer objektiven, verhältnismäßigen und transparenten Weise auferlegt, bei der die zusätzlichen Verwaltungskosten und zugehörigen Aufwendungen auf ein Mindestmaß reduziert werden.
+
+(2)   Erheben die nationalen Regulierungsbehörden Verwaltungsabgaben, so veröffentlichen sie einen jährlichen Überblick über ihre Verwaltungskosten und die insgesamt eingenommenen Abgaben. Entsprechend der Differenz der Gesamtsumme der Abgaben und der Verwaltungskosten werden entsprechende Berichtigungen vorgenommen.“
+
+12
+
+Art. 13 („Entgelte für Nutzungsrechte und für Rechte für die Installation von Einrichtungen“) der Genehmigungsrichtlinie lautet:
+
+„Die Mitgliedstaaten können der zuständigen Behörde gestatten, bei Nutzungsrechten für Funkfrequenzen oder Nummern oder bei Rechten für die Installation von Einrichtungen auf, über oder unter öffentlichem oder privatem Grundbesitz Entgelte zu erheben, die eine optimale Nutzung dieser Ressourcen sicherstellen sollen. Die Mitgliedstaaten stellen sicher, dass die Entgelte objektiv gerechtfertigt, transparent, nichtdiskriminierend und ihrem Zweck angemessen sind, und tragen den in Artikel 8 der [Rahmenrichtlinie] genannten Zielen Rechnung.“
+
+Richtlinie 2006/123
+
+13
+
+In den Erwägungsgründen 2, 5, 7, 9, 19, 20, 33, 40 und 76 der Richtlinie 2006/123 heißt es:
+
+„(2)
+
+Ein wettbewerbsfähiger Dienstleistungsmarkt ist für die Förderung des Wirtschaftswachstums und die Schaffung von Arbeitsplätzen in der Europäischen Union wesentlich. … Ein freier Markt, der die Mitgliedstaaten zwingt, Beschränkungen im grenzüberschreitenden Dienstleistungsverkehr abzubauen, bei gleichzeitiger größerer Transparenz und besserer Information der Verbraucher, würde für die Verbraucher größere Auswahl und bessere Dienstleistungen zu niedrigeren Preisen bedeuten.
+
+…
+
+(5)
+
+Es ist deshalb erforderlich, die Beschränkungen der Niederlassungsfreiheit von Dienstleistungserbringern in den Mitgliedstaaten und des freien Dienstleistungsverkehrs zwischen Mitgliedstaaten zu beseitigen und den Dienstleistungsempfängern und ‑erbringern die Rechtssicherheit zu garantieren, die sie für die wirksame Wahrnehmung dieser beiden Grundfreiheiten des Vertrags benötigen. Da die Beschränkungen im Binnenmarkt für Dienstleistungen sowohl die Dienstleistungserbringer beeinträchtigen, die sich in einem anderen Mitgliedstaat niederlassen möchten, als auch diejenigen, die in einem anderen Mitgliedstaat Dienstleistungen erbringen, ohne dort niedergelassen zu sein, ist es erforderlich, den Dienstleistungserbringern zu ermöglichen, ihre Dienstleistungstätigkeiten im Binnenmarkt dadurch zu entwickeln, dass sie sich entweder in einem anderen Mitgliedstaat niederlassen oder den freien Dienstleistungsverkehr nutzen. Die Dienstleistungserbringer sollten zwischen diesen beiden Freiheiten wählen und sich für diejenige entscheiden können, die ihrer Geschäftsstrategie für die einzelnen Mitgliedstaaten am besten gerecht wird.
+
+…
+
+(7)
+
+Mit dieser Richtlinie wird ein allgemeiner Rechtsrahmen geschaffen, der einem breiten Spektrum von Dienstleistungen zugutekommt und gleichzeitig die Besonderheiten einzelner Tätigkeiten und Berufe und ihre Reglementierung berücksichtigt. Grundlage dieses Rechtsrahmens ist ein dynamischer und selektiver Ansatz, der vorrangig die leicht zu beseitigenden Beschränkungen beseitigt; hinsichtlich der übrigen wird ein Prozess der Evaluierung, Konsultation und ergänzenden Harmonisierung bei besonderen Fragen eingeleitet, um so schrittweise und koordiniert eine Modernisierung der nationalen Regelungen für Dienstleistungstätigkeiten zu erreichen, wie sie für die Schaffung eines wirklichen Binnenmarktes für Dienstleistungen bis zum Jahr 2010 unerlässlich ist. Es ist angezeigt, bei den Maßnahmen eine ausgewogene Kombination aus gezielter Harmonisierung, Verwaltungszusammenarbeit, den Bestimmungen über die Dienstleistungsfreiheit und der Förderung der Erarbeitung von Verhaltenskodizes für bestimmte Bereiche vorzusehen. Diese Koordinierung der nationalen Rechtsvorschriften sollte ein hohes Maß an rechtlicher Integration auf Gemeinschaftsebene und ein hohes Niveau des Schutzes von Gemeinwohlinteressen, insbesondere den Schutz der Verbraucher, sicherstellen, wie es für die Schaffung von Vertrauen zwischen den Mitgliedstaaten unerlässlich ist. …
+
+…
+
+(9)
+
+Diese Richtlinie findet nur auf die Anforderungen für die Aufnahme oder Ausübung einer Dienstleistungstätigkeit Anwendung. Sie findet somit keine Anwendung auf Anforderungen wie Straßenverkehrsvorschriften, Vorschriften bezüglich der Stadtentwicklung oder Bodennutzung, der Stadtplanung und der Raumordnung, Baunormen sowie verwaltungsrechtliche Sanktionen, die wegen der Nichteinhaltung solcher Vorschriften verhängt werden, die nicht die Dienstleistungstätigkeit als solche regeln oder betreffen, sondern von Dienstleistungserbringern im Zuge der Ausübung ihrer Wirtschaftstätigkeit genauso beachtet werden müssen wie von Privatpersonen.
+
+…
+
+(19)
+
+Angesichts der im Jahr 2002 erfolgten Verabschiedung einer Reihe von Rechtsakten über die Netze und Dienste der elektronischen Kommunikation sowie über die damit zusammenhängenden Ressourcen und Dienste, die insbesondere durch die Abschaffung der Mehrzahl der Einzelgenehmigungsverfahren einen Rechtsrahmen für die Erleichterung des Zugangs zu diesen Tätigkeiten im Binnenmarkt geschaffen hat, müssen die durch diese Rechtsakte geregelten Fragen vom Anwendungsbereich der vorliegenden Richtlinie ausgenommen werden.
+
+(20)
+
+Die Ausnahmen vom Anwendungsbereich der vorliegenden Richtlinie hinsichtlich Angelegenheiten der elektronischen Kommunikationsdienste im Sinne der [Rahmen- und der Genehmigungsrichtlinie] sollten nicht nur für Fragen gelten, die spezifisch in den genannten Richtlinien geregelt sind, sondern auch für Bereiche, bei denen die Richtlinien den Mitgliedstaaten ausdrücklich die Möglichkeit belassen, bestimmte Maßnahmen auf nationaler Ebene zu erlassen.
+
+…
+
+(33)
+
+Die von dieser Richtlinie erfassten Dienstleistungen umfassen einen weiten Bereich von Tätigkeiten, die einem ständigen Wandel unterworfen sind, wie etwa … Dienstleistungen, die sowohl für Unternehmen als auch für Verbraucher angeboten werden, wie etwa … Handel …
+
+…
+
+(40)
+
+Der Begriff der zwingenden Gründe des Allgemeininteresses, auf den sich einige Bestimmungen dieser Richtlinie beziehen, … umfasst … zumindest folgende Gründe: … Schutz der Umwelt und der städtischen Umwelt einschließlich der Stadt- und Raumplanung …
+
+…
+
+(76)
+
+Diese Richtlinie betrifft nicht die Anwendung der Artikel [34 bis 36 AEUV] über den freien Warenverkehr. Bei den nach den Bestimmungen über die Dienstleistungsfreiheit unzulässigen Beschränkungen handelt es sich um Anforderungen für die Aufnahme und Ausübung von Dienstleistungstätigkeiten und nicht um Anforderungen, die sich auf Waren als solche beziehen.“
+
+14
+
+Art. 1 („Gegenstand“) Abs. 1 der Richtlinie 2006/123 lautet:
+
+„Diese Richtlinie enthält allgemeine Bestimmungen, die bei gleichzeitiger Gewährleistung einer hohen Qualität der Dienstleistungen die Wahrnehmung der Niederlassungsfreiheit durch Dienstleistungserbringer sowie den freien Dienstleistungsverkehr erleichtern sollen.“
+
+15
+
+In Art. 2 („Anwendungsbereich“) der Richtlinie 2006/123 heißt es:
+
+„(1)   Diese Richtlinie gilt für Dienstleistungen, die von einem in einem Mitgliedstaat niedergelassenen Dienstleistungserbringer angeboten werden.
+
+(2)   Diese Richtlinie findet auf folgende Tätigkeiten keine Anwendung:
+
+…
+
+c)
+
+Dienstleistungen und Netze der elektronischen Kommunikation sowie zugehörige Einrichtungen und Dienste in den Bereichen, die in [der Rahmen- und der Genehmigungsrichtlinie] geregelt sind;
+
+…
+
+j)
+
+soziale Dienstleistungen im Zusammenhang mit Sozialwohnungen, der Kinderbetreuung und der Unterstützung von Familien und dauerhaft oder vorübergehend hilfsbedürftigen Personen, die vom Staat, durch von ihm beauftragte Dienstleistungserbringer oder durch von ihm als gemeinnützig anerkannte Einrichtungen erbracht werden;
+
+…
+
+(3)   Die Richtlinie gilt nicht für den Bereich der Steuern.“
+
+16
+
+Art. 3 („Verhältnis zu geltendem [Union]srecht“) der Richtlinie 2006/123 besagt in Abs. 3:
+
+„Die Mitgliedstaaten setzen die Bestimmungen dieser Richtlinie in Übereinstimmung mit den Bestimmungen des [AEU-]Vertrags über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr um.“
+
+17
+
+Art. 4 („Begriffsbestimmungen“) der Richtlinie 2006/123 sieht vor:
+
+„Für die Zwecke dieser Richtlinie bezeichnet der Ausdruck:
+
+1.
+
+‚Dienstleistung‘ jede von Artikel [57 AEUV] erfasste selbstständige Tätigkeit, die in der Regel gegen Entgelt erbracht wird;
+
+2.
+
+‚Dienstleistungserbringer‘ jede natürliche Person, die die Staatsangehörigkeit eines Mitgliedstaats besitzt, und jede in einem Mitgliedstaat niedergelassene juristische Person im Sinne des Artikels [54 AEUV], die eine Dienstleistung anbietet oder erbringt;
+
+…
+
+5.
+
+‚Niederlassung‘ die tatsächliche Ausübung einer von Artikel [49 AEUV] erfassten wirtschaftlichen Tätigkeit durch den Dienstleistungserbringer auf unbestimmte Zeit und mittels einer festen Infrastruktur, von der aus die Geschäftstätigkeit der Dienstleistungserbringung tatsächlich ausgeübt wird;
+
+6.
+
+‚Genehmigungsregelung‘ jedes Verfahren, das einen Dienstleistungserbringer oder ‑empfänger verpflichtet, bei einer zuständigen Behörde eine förmliche oder stillschweigende Entscheidung über die Aufnahme oder Ausübung einer Dienstleistungstätigkeit zu erwirken;
+
+7.
+
+‚Anforderungen‘ alle Auflagen, Verbote, Bedingungen oder Beschränkungen, die in den Rechts- oder Verwaltungsvorschriften der Mitgliedstaaten festgelegt sind oder sich aus der Rechtsprechung, der Verwaltungspraxis, den Regeln von Berufsverbänden oder den kollektiven Regeln, die von Berufsvereinigungen oder sonstigen Berufsorganisationen in Ausübung ihrer Rechtsautonomie erlassen wurden, ergeben; Regeln, die in von den Sozialpartnern ausgehandelten Tarifverträgen festgelegt wurden, sind als solche keine Anforderungen im Sinne dieser Richtlinie;
+
+8.
+
+‚zwingende Gründe des Allgemeininteresses‘ Gründe, die der Gerichtshof in ständiger Rechtsprechung als solche anerkannt hat, einschließlich folgender Gründe: … Schutz der Umwelt und der städtischen Umwelt …;
+
+…“
+
+18
+
+Kapitel III („Niederlassungsfreiheit der Dienstleistungserbringer“) der Richtlinie 2006/123 umfasst die Art. 9 bis 15 dieser Richtlinie.
+
+19
+
+Art. 9 („Genehmigungsregelungen“) der Richtlinie 2006/123 sieht in Abs. 1 vor:
+
+„Die Mitgliedstaaten dürfen die Aufnahme und die Ausübung einer Dienstleistungstätigkeit nur dann Genehmigungsregelungen unterwerfen, wenn folgende Voraussetzungen erfüllt sind:
+
+a)
+
+[D]ie Genehmigungsregelungen sind für den betreffenden Dienstleistungserbringer nicht diskriminierend;
+
+b)
+
+die Genehmigungsregelungen sind durch zwingende Gründe des Allgemeininteresses gerechtfertigt;
+
+c)
+
+das angestrebte Ziel kann nicht durch ein milderes Mittel erreicht werden, insbesondere weil eine nachträgliche Kontrolle zu spät erfolgen würde, um wirksam zu sein.“
+
+20
+
+Art. 10 („Voraussetzungen für die Erteilung der Genehmigung“) der Richtlinie 2006/123 besagt in Abs. 1:
+
+„Die Genehmigungsregelungen müssen auf Kriterien beruhen, die eine willkürliche Ausübung des Ermessens der zuständigen Behörden verhindern.“
+
+21
+
+Art. 13 („Genehmigungsverfahren“) Abs. 2 der Richtlinie 2006/123 bestimmt:
+
+„Die Genehmigungsverfahren und ‑formalitäten dürfen weder abschreckend sein noch die Erbringung der Dienstleistung in unangemessener Weise erschweren oder verzögern. Sie müssen leicht zugänglich sein, und eventuelle dem Antragsteller mit dem Antrag entstehende Kosten müssen vertretbar und zu den Kosten der Genehmigungsverfahren verhältnismäßig sein und dürfen die Kosten der Verfahren nicht übersteigen.“
+
+22
+
+In Art. 14 („Unzulässige Anforderungen“) der Richtlinie 2006/123 heißt es:
+
+„Die Mitgliedstaaten dürfen die Aufnahme oder Ausübung einer Dienstleistungstätigkeit in ihrem Hoheitsgebiet nicht von einer der folgenden Anforderungen abhängig machen:
+
+…
+
+5.
+
+einer wirtschaftlichen Überprüfung im Einzelfall, bei der die Erteilung der Genehmigung vom Nachweis eines wirtschaftlichen Bedarfs oder einer Marktnachfrage abhängig gemacht wird, oder der Beurteilung der tatsächlichen oder möglichen wirtschaftlichen Auswirkungen der Tätigkeit oder der Bewertung ihrer Eignung für die Verwirklichung wirtschaftlicher, von der zuständigen Behörde festgelegter Programmziele; dieses Verbot betrifft nicht Planungserfordernisse, die keine wirtschaftlichen Ziele verfolgen, sondern zwingenden Gründen des Allgemeininteresses dienen“.
+
+23
+
+Nach Art. 15 („Zu prüfende Anforderungen“) der Richtlinie 2006/123 gilt:
+
+„(1)   Die Mitgliedstaaten prüfen, ob ihre Rechtsordnungen die in Absatz 2 aufgeführten Anforderungen vorsehen, und stellen sicher, dass diese Anforderungen die Bedingungen des Absatzes 3 erfüllen. Die Mitgliedstaaten ändern ihre Rechts- und Verwaltungsvorschriften, um sie diesen Bedingungen anzupassen.
+
+(2)   Die Mitgliedstaaten prüfen, ob ihre Rechtsordnung die Aufnahme oder Ausübung einer Dienstleistungstätigkeit von folgenden nicht diskriminierenden Anforderungen abhängig macht:
+
+a)
+
+mengenmäßigen oder territorialen Beschränkungen, insbesondere in Form von Beschränkungen aufgrund der Bevölkerungszahl oder bestimmter Mindestentfernungen zwischen Dienstleistungserbringern;
+
+…
+
+(3)   Die Mitgliedstaaten prüfen, ob die in Absatz 2 genannten Anforderungen folgende Bedingungen erfüllen:
+
+a)
+
+Nicht-Diskriminierung: [D]ie Anforderungen dürfen weder eine direkte noch eine indirekte Diskriminierung aufgrund der Staatsangehörigkeit oder – bei Gesellschaften – aufgrund des Orts des satzungsmäßigen Sitzes darstellen;
+
+b)
+
+Erforderlichkeit: [D]ie Anforderungen müssen durch einen zwingenden Grund des Allgemeininteresses gerechtfertigt sein;
+
+c)
+
+Verhältnismäßigkeit: [D]ie Anforderungen müssen zur Verwirklichung des mit ihnen verfolgten Ziels geeignet sein; sie dürfen nicht über das hinausgehen, was zur Erreichung dieses Ziels erforderlich ist; diese Anforderungen können nicht durch andere weniger einschneidende Maßnahmen ersetzt werden, die zum selben Ergebnis führen.
+
+…“
+
+24
+
+Kapitel IV („Freier Dienstleistungsverkehr“) der Richtlinie 2006/123 umfasst die Art. 16 bis 21 dieser Richtlinie.
+
+25
+
+Art. 16 („Dienstleistungsfreiheit“) Abs. 1 Unterabs. 1 der Richtlinie 2006/123 sieht vor:
+
+„Die Mitgliedstaaten achten das Recht der Dienstleistungserbringer, Dienstleistungen in einem anderen Mitgliedstaat als demjenigen ihrer Niederlassung zu erbringen.“
+
+26
+
+Art. 18 („Ausnahmen im Einzelfall“) der Richtlinie 2006/123 besagt in Abs. 1:
+
+„Abweichend von Artikel 16 und nur in Ausnahmefällen können die Mitgliedstaaten Maßnahmen gegenüber einem in einem anderen Mitgliedstaat niedergelassenen Dienstleistungserbringer ergreifen, die sich auf die Sicherheit der Dienstleistungen beziehen.“
+
+Niederländisches Recht
+
+Rechtssache C‑360/15
+
+27
+
+Nach Art. 5.2 Abs. 1 der Telecommunicatiewet (Telekommunikationsgesetz) vom 19. Oktober 1998 (Stb. 1998, Nr. 610) haben „Inhaber von Rechten an öffentlichen Grundstücken oder Verwalter solcher Grundstücke … zu dulden, dass zum Aufbau eines öffentlichen elektronischen Kommunikationsnetzes Kabel in und auf diesen Grundstücken verlegt, gewartet oder entfernt werden“.
+
+28
+
+Art. 5.4 dieses Gesetzes bestimmt:
+
+„1.   Anbieter eines öffentlichen elektronischen Kommunikationsnetzes, die beabsichtigen, im Zusammenhang mit der Verlegung, Wartung oder Entfernung von Kabeln Arbeiten in oder auf öffentlichen Grundstücken auszuführen, nehmen diese Arbeiten nur vor, wenn sie
+
+a.
+
+diese Absicht schriftlich bei Bürgermeister und Beigeordneten der Gemeinde angezeigt haben, auf deren Gebiet die auszuführenden Arbeiten stattfinden sollen, und
+
+b.
+
+die Genehmigung von Bürgermeister und Beigeordneten in Bezug auf Ort, Zeitpunkt und Art der Ausführung der Arbeiten erhalten haben.
+
+2.   Bürgermeister und Beigeordnete können den Genehmigungsbescheid aus Gründen der öffentlichen Ordnung, Sicherheit, der Vermeidung oder Verringerung von Störungen, der Erreichbarkeit von Grundstücken oder Gebäuden oder der Tiefbauordnung mit Auflagen versehen.
+
+3.   Die Auflagen können sich nur beziehen auf
+
+a.
+
+den Ort der Arbeiten,
+
+b.
+
+den Zeitpunkt der Arbeiten, wobei der gestattete Anfangszeitpunkt vorbehaltlich schwerwiegender Gründe des öffentlichen Interesses im Sinne von Abs. 2 nicht später als zwölf Monate nach dem Tag des Erlasses des Genehmigungsbescheids liegen darf,
+
+c.
+
+die Art der Ausführung der Arbeiten,
+
+d.
+
+die Förderung der gemeinsamen Nutzung von Einrichtungen,
+
+e.
+
+die Abstimmung der beabsichtigten Arbeiten mit Betreibern weiterer auf dem Grundstück vorhandener Bauwerke.“
+
+29
+
+Nach Art. 229 Abs. 1 Buchst. b der Gemeentewet (Gemeindeordnung) können für Leistungen, die von der Gemeindeverwaltung oder in ihrem Namen erbracht werden, Gebühren erhoben werden.
+
+30
+
+Nach Art. 1 der Verordening leges 2010 (Gebührenverordnung von 2010) der Gemeinde Amersfoort „[werden] [u]nter der Bezeichnung ‚Gebühren‘ … für die Inanspruchnahme von Leistungen, die von oder im Auftrag der Gemeindeverwaltung erbracht werden, die in dieser Verordnung und der zugehörigen Gebührentabelle aufgeführten Abgaben erhoben“.
+
+31
+
+Art. 19.1 der Gebührenverordnung bestimmt den Tarif für die Bearbeitung der Genehmigungsanträge im Sinne von Art. 5.4 des Telekommunikationsgesetzes.
+
+Rechtssache C‑31/16
+
+32
+
+Nach Art. 3.1 Abs. 1 der Wet ruimtelijke ordening (Raumordnungsgesetz) vom 20. Oktober 2006 (Stb. 2006, Nr. 566) stellt der Gemeinderat für das gesamte Gemeindegebiet einen oder mehrere Bauleitpläne auf, in denen zum Zweck einer geordneten Raumplanung die Bestimmung der vom Plan erfassten Flächen dargestellt wird und Regeln für diese Bestimmung festgelegt werden.
+
+33
+
+Gemäß Art. 18 Abs. 18.1 des vom Gemeinderat von Appingedam mit Beschluss vom 19. Juni 2013 aufgestellten Bauleitplans sind die für „Einzelhandel – 2“ ausgewiesenen Flächen nur für den Einzelhandel für Waren mit großem Platzbedarf bestimmt.
+
+34
+
+Nach Art. 1 Abs. 1.128 Nr. 2 dieses Bauleitplans bezeichnet der Ausdruck „Einzelhandel für Waren mit großem Platzbedarf“„den Einzelhandel, der sich aufgrund des großen Platzbedarfs der verkauften Waren … nicht mehr ohne Weiteres in die bereits bestehenden Einkaufszentren einfügen lässt, darunter … der Einzelhandel mit Automobilen, Booten, Wohnwagen, Zelten, Küchen, Badezimmern, Möbeln, Baumaterial, landwirtschaftlichen Maschinen, Gartenartikeln, Reitsportartikeln, Fahrrädern und Autoteilen“.
+
+35
+
+Art. 18 Abs. 18.1 des Bauleitplans sieht keine Möglichkeit vor, Ausnahmen von den in diesem Plan festgelegten Regeln zuzulassen. Jedoch kann nach Art. 2.12 Abs. 1 der Wet algemene bepalingen omgevingsrecht (Gesetz mit allgemeinen Bestimmungen zum Umgebungsrecht) vom 6. November 2008 (Stb. 2008, Nr. 496) jeder Betroffene eine „Umgebungsgenehmigung“ beantragen, die eine Abweichung vom Bauleitplan zulässt.
+
+Ausgangsrechtsstreitigkeiten und Vorlagefragen
+
+Rechtssache C‑360/15
+
+36
+
+Gemäß der Vorlageentscheidung wurde X durch einen im Dezember 2009 mit der Gemeinde Amersfoort geschlossenen Vertrag mit dem Aufbau eines Glasfasernetzes in dieser Gemeinde beauftragt.
+
+37
+
+Zu diesem Zweck beantragte X beim Magistrat für jedes Teilstück des Netzes gemäß Art. 5.4 Abs. 1 Buchst. b des Telekommunikationsgesetzes eine Genehmigung in Bezug auf Ort, Zeitpunkt und Art der Ausführung der für die Verlegung der Glasfaserkabel erforderlichen Aushubarbeiten.
+
+38
+
+Für die Bearbeitung dieser Genehmigungsanträge verlangte die Gemeinde Amersfoort von X auf der Grundlage der Gebührenverordnung von 2010 Gebühren in Höhe von insgesamt 149949 Euro.
+
+39
+
+X erhob bei der Rechtbank te Utrecht (Gericht Utrecht, Niederlande) eine Klage, mit der sie die Höhe dieser Gebühren beanstandete.
+
+40
+
+Nachdem ihre Klage abgewiesen worden war, legte X beim Gerechtshof Arnhem-Leeuwarden (Berufungsgericht Arnhem-Leeuwarden, Niederlande) Berufung ein. In seinem Urteil vom 2. Juli 2013 führte dieses Gericht zunächst aus, dass der Rechtsstreit unter Art. 12 der Genehmigungsrichtlinie falle, da zum einen die von X verlangten Gebühren mit elektronischen Kommunikationsdiensten zusammenhingen und zum anderen die Gemeinde Amersfoort eine nationale Regulierungsbehörde (im Folgenden: NRB) im Sinne der Rahmen- und der Genehmigungsrichtlinie sei. Es gelangte sodann zu dem Ergebnis, dass die Höhe dieser Gebühren den in Art. 12 der Genehmigungsrichtlinie vorgesehenen Höchstbetrag überschreite, so dass der an X gerichtete Gebührenbescheid rechtswidrig sei.
+
+41
+
+Gegen dieses Urteil legte der Magistrat beim Hoge Raad der Nederlanden (Oberster Gerichtshof der Niederlande) Kassationsbeschwerde ein. X legte ihrerseits eine Anschlusskassationsbeschwerde ein.
+
+42
+
+Mit der Kassationsbeschwerde wird gerügt, der Gerechtshof Arnhem-Leeuwarden (Berufungsgericht Arnhem-Leeuwarden) habe zu Unrecht festgestellt, dass der Rechtsstreit unter Art. 12 der Genehmigungsrichtlinie falle, obwohl die Gemeinde Amersfoort niemals zur NRB im Sinne der Rahmen- und der Genehmigungsrichtlinie bestimmt worden sei.
+
+43
+
+Das vorlegende Gericht hält diese Rüge für begründet, da in den Niederlanden nur der nationale Gesetzgeber, die Kroon (Krone, Niederlande), der Minister van Economische Zaken (Wirtschaftsminister, Niederlande) und die Onafhankelijke Post en Telecommunicatie Autoriteit (Unabhängige Post- und Telekommunikationsbehörde, Niederlande), die am 1. April 2013 zur Autoriteit Consument en Markt (Behörde für Verbraucher- und Marktangelegenheiten, Niederlande) geworden sei, NRB seien. Daher könne Art. 2 Abs. 2 Buchst. c der Richtlinie 2006/123 nicht in Verbindung mit Art. 12 der Genehmigungsrichtlinie geltend gemacht werden.
+
+44
+
+Mit der Anschlusskassationsbeschwerde wird beanstandet, der Gerechtshof Arnhem-Leeuwarden (Berufungsgericht Arnhem-Leeuwarden) habe Art. 13 Abs. 2 der Richtlinie 2006/123 unberücksichtigt gelassen.
+
+45
+
+Insoweit hat das vorlegende Gericht allerdings Zweifel, ob die Erhebung der im Ausgangsverfahren streitigen Gebühren wirklich in den Anwendungsbereich der Richtlinie 2006/123 fällt, da erstens diese Richtlinie nach ihrem Art. 2 Abs. 3 nicht für den Bereich der Steuern gelte, zweitens der Sachverhalt des Ausgangsverfahrens ein rein innerstaatlicher, nur das Königreich der Niederlande betreffender Sachverhalt ohne jeglichen Auslandsbezug sei und drittens die Genehmigung der Aushubarbeiten offenbar den Vorschriften bezüglich der Stadtentwicklung und Bodennutzung unterliege, also einer Art von Vorschriften, deren Anforderungen nach dem neunten Erwägungsgrund dieser Richtlinie nicht in deren Anwendungsbereich fielen.
+
+46
+
+Unter diesen Umständen hat der Hoge Raad der Nederlanden (Oberster Gerichtshof der Niederlande) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+Rechtssache C‑31/16
+
+47
+
+Gemäß der Vorlageentscheidung besteht im Gebiet der Gemeinde Appingedam – außerhalb des traditionellen Ladenviertels im Stadtzentrum – ein „Woonplein“ genanntes Gewerbegebiet mit Geschäften für Waren mit großem Platzbedarf. In diesem Gewerbegebiet befinden sich u. a. Geschäfte für Möbel, Küchen, Wohnungseinrichtung, Heimwerkerbedarf, Baumaterial, Gartenartikel, Fahrräder, Reitsportartikel, Autos und Autoteile.
+
+48
+
+Nach Art. 18 des Bauleitplans der Gemeinde Appingedam ist das Woonplein ausschließlich für den Einzelhandel für Waren mit großem Platzbedarf bestimmt.
+
+49
+
+Visser, die Gewerbeflächen im Woonplein besitzt, möchte eine dieser Flächen an die Bristol BV vermieten, die eine Discounterkette für Schuhe und Bekleidung betreibt.
+
+50
+
+Visser erhob beim Raad van State (Staatsrat, Niederlande) Klage gegen den Beschluss des Gemeinderats von Appingedam, mit dem der Bauleitplan aufgestellt wurde, soweit dieser im Woonplein keine Eröffnung von Einzelhandelsgeschäften für Schuhe und Bekleidung zulässt. Zur Stützung ihrer Klage macht sie insbesondere geltend, dass dieser Bauleitplan gegen die Art. 9 und 10 der Richtlinie 2006/123 verstoße.
+
+51
+
+Der Gemeinderat von Appingedam entgegnet, es sei durch städtebauliche Erwägungen gerechtfertigt, dass sich ein Einzelhandelsgeschäft für Schuhe und Bekleidung nur im Stadtzentrum niederlassen dürfe. Zweck dieser Regelung sei, die Lebensqualität im Stadtzentrum zu erhalten, einen gedeihlichen Betrieb des dort befindlichen Einkaufszentrums zu gewährleisten und strukturellen Leerstand der Geschäftslokale im Stadtzentrum so weit wie möglich zu vermeiden.
+
+52
+
+Unter diesen Umständen hat der Raad van State (Staatsrat) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+53
+
+Mit Beschluss des Präsidenten des Gerichtshofs vom 23. Februar 2016 sind die Rechtssachen C‑360/15 und C‑31/16 zu gemeinsamem mündlichen Verfahren und zu gemeinsamer Entscheidung verbunden worden.
+
+Zu den Vorlagefragen
+
+Rechtssache C‑360/15
+
+Zur ersten und zur dritten Frage
+
+54
+
+Mit der ersten und der dritten Frage, die zusammen zu prüfen sind, soll geklärt werden, ob die Richtlinie 2006/123 angesichts ihres Art. 2 Abs. 3 und ihres neunten Erwägungsgrundes auf den Ausgangsrechtsstreit in dieser Rechtssache anwendbar ist.
+
+55
+
+Einleitend ist darauf hinzuweisen, dass der Gerichtshof gemäß seiner ständigen Rechtsprechung, auch wenn das vorlegende Gericht den Wortlaut seiner Fragen auf die Auslegung bestimmter Vorschriften des Unionsrechts beschränkt hat, dadurch nicht gehindert ist, diesem Gericht alle Hinweise zur Auslegung des Unionsrechts zu geben, die ihm bei der Entscheidung des bei ihm anhängigen Verfahrens von Nutzen sein können (vgl. in diesem Sinne Urteil vom 14. November 2017, Lounes, C‑165/16, EU:C:2017:862, Rn. 28 und die dort angeführte Rechtsprechung).
+
+56
+
+Außerdem ist der Gerichtshof, der dazu aufgerufen ist, dem nationalen Gericht zweckdienliche Antworten zu geben, befugt, dem vorlegenden Gericht auf der Grundlage der Akten des Ausgangsverfahrens und der vor ihm abgegebenen schriftlichen und mündlichen Erklärungen Hinweise zu geben (Urteil vom 1. Oktober 2015, Trijber und Harmsen, C‑340/14 und C‑341/14, EU:C:2015:641, Rn. 55 und die dort angeführte Rechtsprechung).
+
+57
+
+Im vorliegenden Fall geht aus den Angaben in der Vorlageentscheidung hervor, dass die der ersten und der dritten Frage zugrunde liegenden Zweifel des vorlegenden Gerichts die Reichweite des Anwendungsbereichs der Richtlinie 2006/123 betreffen.
+
+58
+
+Nach Art. 2 Abs. 1 der Richtlinie 2006/123 gilt diese für Dienstleistungen, die von einem in einem Mitgliedstaat niedergelassenen Dienstleistungserbringer angeboten werden. Art. 2 Abs. 2 der Richtlinie schließt allerdings eine Reihe von Tätigkeiten von ihrem Anwendungsbereich aus. Nach Art. 2 Abs. 3 gilt die Richtlinie nicht für den Bereich der Steuern.
+
+59
+
+Somit ist zunächst zu prüfen, ob der Ausgangsrechtsstreit unter eine der in Art. 2 Abs. 2 der Richtlinie 2006/123 genannten Ausnahmen fällt.
+
+60
+
+Insoweit sieht Art. 2 Abs. 2 Buchst. c der Richtlinie 2006/123 vor, dass diese weder auf Dienstleistungen und Netze der elektronischen Kommunikation noch auf zugehörige Einrichtungen und Dienste in den Bereichen, die u. a. in der Rahmen- und der Genehmigungsrichtlinie geregelt sind, Anwendung findet.
+
+61
+
+Ferner heißt es im 19. Erwägungsgrund der Richtlinie 2006/123, dass der Unionsgesetzgeber „[a]ngesichts der im Jahr 2002 erfolgten Verabschiedung einer Reihe von Rechtsakten über die Netze und Dienste der elektronischen Kommunikation sowie über die damit zusammenhängenden Ressourcen und Dienste, die … einen Rechtsrahmen für die Erleichterung des Zugangs zu diesen Tätigkeiten im Binnenmarkt geschaffen hat“, beabsichtigt hat, „die durch diese Rechtsakte geregelten Fragen vom Anwendungsbereich [dieser] Richtlinie [auszunehmen]“.
+
+62
+
+Im 20. Erwägungsgrund der Richtlinie wird präzisiert, dass die Ausnahmen vom Anwendungsbereich dieser Richtlinie hinsichtlich Angelegenheiten der elektronischen Kommunikationsdienste im Sinne u. a. der Rahmen- und der Genehmigungsrichtlinie nicht nur für Fragen gelten sollten, die spezifisch in diesen Richtlinien geregelt sind, sondern auch für Bereiche, bei denen die Richtlinien den Mitgliedstaaten ausdrücklich die Möglichkeit belassen, bestimmte Maßnahmen auf nationaler Ebene zu erlassen.
+
+63
+
+Im vorliegenden Fall ist unstreitig, dass X elektronische Kommunikationsnetze im Sinne der Genehmigungsrichtlinie errichtet. Das vorlegende Gericht geht dennoch davon aus, dass das Ausgangsverfahren nicht in einen durch diese Richtlinie, genauer ihren Art. 12, geregelten Bereich falle, so dass der Ausschluss nach Art. 2 Abs. 2 Buchst. c der Richtlinie 2006/123 nicht greife. Bei den von Art. 12 der Genehmigungsrichtlinie erfassten Verwaltungsabgaben handle es sich nämlich um Abgaben, die von einer NRB erhoben würden. Diese Eigenschaft besitze die Gemeinde Amersfoort jedoch nicht.
+
+64
+
+Insoweit ist darauf hinzuweisen, dass die Verwaltungsabgaben, die die Mitgliedstaaten gemäß Art. 12 der Genehmigungsrichtlinie von Unternehmen, die aufgrund einer Allgemeingenehmigung elektronische Kommunikationsnetze oder ‑dienste bereitstellen oder denen ein Nutzungsrecht gewährt wurde, erheben können, um die Tätigkeiten der NRB zu finanzieren, insgesamt lediglich der Deckung der administrativen Kosten für die in Art. 12 Abs. 1 Buchst. a dieser Richtlinie genannten Tätigkeiten dienen dürfen (Urteil vom 28. Juli 2016, Autorità per le Garanzie nelle Comunicazioni, C‑240/15, EU:C:2016:608, Rn. 45 und die dort angeführte Rechtsprechung).
+
+65
+
+Aus den dem Gerichtshof vorliegenden Akten geht aber nicht hervor, dass die Gebühren, die die Gemeinde Amersfoort im Ausgangsverfahren von X verlangt, insgesamt der Deckung der administrativen Kosten für eine oder mehrere der genannten Tätigkeiten dienen.
+
+66
+
+Allerdings ist hervorzuheben, dass Art. 12 der Genehmigungsrichtlinie nicht die einzige Bestimmung dieser Richtlinie ist, die die finanziellen Belastungen betrifft, die die Mitgliedstaaten von Unternehmen, die im Rahmen der Richtlinie elektronische Kommunikationsnetze oder ‑dienste bereitstellen, erheben können (vgl. in diesem Sinne Urteil vom 17. Dezember 2015, Proximus, C‑454/13, EU:C:2015:819, Rn. 19 bis 24 und die dort angeführte Rechtsprechung).
+
+67
+
+Nach Art. 13 der Genehmigungsrichtlinie können die Mitgliedstaaten nämlich der zuständigen Behörde gestatten, bei Nutzungsrechten für Funkfrequenzen oder Nummern oder bei Rechten für die Installation von Einrichtungen auf, über oder unter öffentlichem oder privatem Grundbesitz Entgelte zu erheben, die eine optimale Nutzung dieser Ressourcen sicherstellen sollen.
+
+68
+
+Nach der Rechtsprechung des Gerichtshofs zu Art. 13 der Genehmigungsrichtlinie verweisen die in dieser Vorschrift verwendeten Begriffe „Einrichtungen“ und „Installation“ auf physische Infrastrukturen, die die Bereitstellung elektronischer Kommunikationsnetze und ‑dienste ermöglichen, bzw. auf deren physische Schaffung auf dem betreffenden öffentlichen oder privaten Grundbesitz (Urteil vom 6. Oktober 2015, Base Company, C‑346/13, EU:C:2015:649, Rn. 21 und die dort angeführte Rechtsprechung).
+
+69
+
+Im vorliegenden Fall geht aus den dem Gerichtshof vorliegenden Akten hervor, dass nach Art. 5.2 Abs. 1 des Telekommunikationsgesetzes Inhaber von Rechten an öffentlichen Grundstücken oder Verwalter solcher Grundstücke zu dulden haben, dass zum Aufbau eines öffentlichen elektronischen Kommunikationsnetzes Kabel in und auf diesen Grundstücken verlegt, gewartet oder entfernt werden.
+
+70
+
+Im Hinblick auf die Ausübung des ihnen durch Art. 5.2 Abs. 1 des Telekommunikationsgesetzes eingeräumten Rechts zur Verlegung von Kabeln für ein öffentliches elektronisches Kommunikationsnetz können die Anbieter elektronischer Kommunikationsnetze verpflichtet werden, an die Behörden Gebühren – wie etwa die Gebühren, die die Gemeinde Amersfoort im Ausgangsverfahren nach Art. 229 Abs. 1 Buchst. b der Gemeindeordnung und gemäß der Gebührenverordnung von 2010 von X verlangt hat – zu entrichten, um die notwendigen Genehmigungen in Bezug auf Ort, Zeitpunkt und Art der Ausführung der Arbeiten im Sinne von Art. 5.4 Abs. 1 Buchst. b des Telekommunikationsgesetzes zu erhalten.
+
+71
+
+In diesem Zusammenhang ist davon auszugehen, dass der anspruchsbegründende Tatbestand solcher Gebühren an das Recht der zur Bereitstellung elektronischer Kommunikationsnetze ermächtigten Unternehmen zur Installation von Einrichtungen im Sinne von Art. 13 der Genehmigungsrichtlinie anknüpft.
+
+72
+
+Der Umstand, dass die Gemeinde Amersfoort weder im Sinne von Art. 2 Buchst. g der Rahmenrichtlinie noch im Sinne der Genehmigungsrichtlinie (aufgrund des Verweises in ihrem Art. 2 Abs. 1) eine NRB ist, steht dem nicht entgegen, dass die von X verlangten Gebühren anhand von Art. 13 der Genehmigungsrichtlinie zu prüfen sind.
+
+73
+
+Nach dem Wortlaut von Art. 13 der Genehmigungsrichtlinie steht die Möglichkeit, bei Rechten für die Installation von Einrichtungen auf, über oder unter öffentlichem oder privatem Grundbesitz Entgelte zu erheben, anders als nach Art. 12 dieser Richtlinie der „zuständigen Behörde“ zu, und nicht der NRB.
+
+74
+
+Zum normativen Kontext, in dem Art. 13 der Genehmigungsrichtlinie steht, ist festzustellen, dass der Wortlaut dieser Vorschrift hinsichtlich der darin genannten Behörde demjenigen von Art. 11 Abs. 1 der Rahmenrichtlinie entspricht, in dem der Fall geregelt ist, dass die „zuständige Behörde“ einen Antrag auf Erteilung von Rechten für die Installation von Einrichtungen auf, über oder unter öffentlichem oder privatem Grundbesitz prüft.
+
+75
+
+Art. 11 Abs. 2 der Rahmenrichtlinie sieht seinerseits vor, dass die Mitgliedstaaten dafür sorgen, dass bei „öffentlichen Behörden oder Gebietskörperschaften“, die an Betreibern öffentlicher elektronischer Kommunikationsnetze und/oder öffentlich zugänglicher elektronischer Kommunikationsdienste beteiligt sind oder diese kontrollieren, eine wirksame strukturelle Trennung zwischen „der für die Erteilung der in [Art. 11 Abs. 1 dieser Richtlinie] genannten Rechte zuständigen Stelle“ und den Tätigkeiten im Zusammenhang mit dem Eigentum oder der Kontrolle besteht.
+
+76
+
+Ferner bestimmt Art. 12 Abs. 4 der Rahmenrichtlinie, dass „die zuständigen nationalen Behörden“ die Möglichkeit haben müssen, von den Unternehmen zu verlangen, dass sie die erforderlichen Informationen liefern, damit diese Behörden „in Zusammenarbeit mit den [NRB]“ ein detailliertes Verzeichnis der Art, Verfügbarkeit und geografischen Lage der Einrichtungen auf, über oder unter öffentlichem oder privatem Grundbesitz erstellen können.
+
+77
+
+Was den Zweck der Genehmigungsrichtlinie angeht, ist darauf hinzuweisen, dass sie, wie aus ihrem Art. 1 Abs. 1 in Verbindung mit ihrem ersten Erwägungsgrund hervorgeht, eine Senkung der Kosten des Marktzugangs zum Ziel hat, um die Bereitstellung elektronischer Kommunikationsnetze und ‑dienste in der ganzen Union zu erleichtern.
+
+78
+
+Damit folgt weder aus dem Wortlaut von Art. 13 der Genehmigungsrichtlinie noch aus dem normativen Kontext dieses Artikels oder dem Zweck dieser Richtlinie, dass der Begriff „zuständige Behörde“ so zu verstehen wäre, dass er ausschließlich die NRB bezeichnet und daher die von einer zuständigen nationalen Behörde, die keine NRB ist, auferlegten finanziellen Belastungen nicht anhand dieses Art. 13 zu prüfen sind.
+
+79
+
+Jedenfalls dürfen die Mitgliedstaaten nach ständiger Rechtsprechung des Gerichtshofs im Rahmen der Genehmigungsrichtlinie keine anderen Abgaben oder Entgelte für die Bereitstellung elektronischer Kommunikationsnetze und ‑dienste als die in der Richtlinie vorgesehenen erheben (Urteil vom 4. September 2014, Belgacom und Mobistar, C‑256/13 und C‑264/13, EU:C:2014:2149, Rn. 30 und die dort angeführte Rechtsprechung). Welche finanziellen Belastungen die zuständigen nationalen Behörden auf die Bereitstellung solcher Netze und Dienste erheben oder nicht erheben können, richtet sich also nach dieser Richtlinie.
+
+80
+
+Die Erhebung von Gebühren, deren anspruchsbegründender Tatbestand an die Rechte der zur Bereitstellung elektronischer Kommunikationsnetze und ‑dienste ermächtigten Unternehmen zur Verlegung von Kabeln für ein öffentliches elektronisches Kommunikationsnetz anknüpft, ist demnach ein in der Genehmigungsrichtlinie geregelter Bereich im Sinne von Art. 2 Abs. 2 Buchst. c der Richtlinie 2006/123.
+
+81
+
+Unter diesen Umständen ist es nicht mehr notwendig, sich in der vorliegenden Rechtssache zur Auslegung von Art. 2 Abs. 3 und des neunten Erwägungsgrundes der Richtlinie 2006/123 zu äußern.
+
+82
+
+Nach alledem ist auf die erste und die dritte Frage zu antworten, dass Art. 2 Abs. 2 Buchst. c der Richtlinie 2006/123 dahin auszulegen ist, dass diese Richtlinie nicht für Gebühren gilt, deren anspruchsbegründender Tatbestand an die Rechte der zur Bereitstellung elektronischer Kommunikationsnetze und ‑dienste ermächtigten Unternehmen zur Verlegung von Kabeln für ein öffentliches elektronisches Kommunikationsnetz anknüpft.
+
+Zu den Fragen 2, 4 und 5
+
+83
+
+Aus der Beantwortung der ersten und der dritten Frage folgt, dass die Richtlinie 2006/123 auf das Ausgangsverfahren keine Anwendung findet. Daher ist auf die Fragen 2, 4 und 5 nicht zu antworten.
+
+Rechtssache C‑31/16
+
+Zur ersten Frage
+
+84
+
+Mit seiner ersten Frage möchte das vorlegende Gericht wissen, ob Art. 4 Nr. 1 der Richtlinie 2006/123 dahin auszulegen ist, dass die Tätigkeit des Einzelhandels mit Waren wie Schuhen und Bekleidung eine „Dienstleistung“ im Sinne dieser Richtlinie darstellt.
+
+85
+
+Aus der Vorlageentscheidung geht hervor, dass die diesbezüglichen Zweifel des vorlegenden Gerichts hauptsächlich damit zusammenhängen, dass der Gerichtshof mit Urteil vom 26. Mai 2005, Burmanjer u. a. (C‑20/03, EU:C:2005:307, Rn. 33 bis 35), festgestellt hat, dass eine nationale Regelung über den ambulanten Verkauf, die die Bedingungen betrifft, die beim Vertrieb einer bestimmten Art von Waren einzuhalten sind, den Bestimmungen des AEU-Vertrags über den freien Warenverkehr und nicht denjenigen über den freien Dienstleistungsverkehr unterliegt.
+
+86
+
+Wie in Rn. 58 des vorliegenden Urteils dargelegt, gilt die Richtlinie 2006/123 gemäß ihrem Art. 2 Abs. 1 für Dienstleistungen, die von einem in einem Mitgliedstaat niedergelassenen Dienstleistungserbringer angeboten werden, mit Ausnahme der in Art. 2 Abs. 2 und 3 genannten Tätigkeiten und Bereiche.
+
+87
+
+Nach Art. 4 Nr. 1 dieser Richtlinie bezeichnet der Ausdruck „Dienstleistung“ für die Zwecke der Richtlinie jede von Art. 57 AEUV erfasste selbständige Tätigkeit, die in der Regel gegen Entgelt erbracht wird.
+
+88
+
+Im vorliegenden Fall besteht kein Zweifel daran, dass die im Ausgangsverfahren in Rede stehende Einzelhandelstätigkeit zum einen eine gegen Entgelt erbrachte selbständige Tätigkeit darstellt und zum anderen nicht unter die in Art. 2 Abs. 2 und 3 der Richtlinie 2006/123 genannten Ausschlüsse vom Anwendungsbereich dieser Richtlinie fällt. Zudem sind kaufmännische Tätigkeiten in Art. 57 AEUV ausdrücklich in der Liste mit Beispielen von Leistungen aufgeführt, die nach diesem Artikel als Dienstleistungen gelten.
+
+89
+
+Des Weiteren wird im 33. Erwägungsgrund der Richtlinie 2006/123 betont, dass die von dieser Richtlinie erfassten Dienstleistungen einen weiten Bereich von Tätigkeiten umfassen, die einem ständigen Wandel unterworfen sind, und es wird ausdrücklich ausgeführt, dass zu diesen Tätigkeiten Dienstleistungen gehören, die sowohl für Unternehmen als auch für Verbraucher angeboten werden, wie etwa der Handel.
+
+90
+
+Da das Ausgangsverfahren den Handel mit Waren betrifft, ist außerdem darauf hinzuweisen, dass der 76. Erwägungsgrund der Richtlinie 2006/123 zwar auf das Verhältnis zwischen dieser Richtlinie und den Art. 34 bis 36 AEUV über den freien Warenverkehr eingeht, aber nur klarstellt, dass es sich bei den der Richtlinie unterliegenden Beschränkungen um Anforderungen für die Aufnahme und Ausübung von Dienstleistungstätigkeiten handelt, und nicht um Anforderungen, die sich auf Waren als solche beziehen. Wie die Kommission hervorgehoben hat, betreffen die Vorschriften des im Ausgangsverfahren in Rede stehenden Bauleitplans aber keine Waren als solche, sondern die Voraussetzungen für die räumliche Ansiedlung von Tätigkeiten, die den Verkauf bestimmter Waren zum Gegenstand haben, und damit die Voraussetzungen für die Aufnahme dieser Tätigkeiten.
+
+91
+
+Vor diesem Hintergrund ist davon auszugehen, dass die Tätigkeit des Einzelhandels mit Waren wie Schuhen und Bekleidung unter den Begriff „Dienstleistung“ im Sinne von Art. 4 Nr. 1 der Richtlinie 2006/123 fällt.
+
+92
+
+Diese Auslegung wird nicht durch die vom vorlegenden Gericht angeführte Rechtsprechung des Gerichtshofs zum Verhältnis zwischen den Bestimmungen des AEU-Vertrags über den freien Dienstleistungsverkehr und denjenigen über die anderen durch diesen Vertrag garantierten Grundfreiheiten in Frage gestellt, die sich nicht auf die Bestimmung des Anwendungsbereichs der Richtlinie 2006/123 übertragen lässt.
+
+93
+
+Hielte man diese Richtlinie, wie von der niederländischen Regierung vorgeschlagen, für unanwendbar, wenn die Umstände des betreffenden Falles unter die Niederlassungsfreiheit fallen, könnte dies nämlich, wie der Generalanwalt in Nr. 76 seiner Schlussanträge ausgeführt hat, Kapitel III der Richtlinie, das die Niederlassungsfreiheit der Dienstleistungserbringer betrifft, seinen Anwendungsbereich und damit der Richtlinie, soweit sie darauf abzielt, die Beschränkungen der Ausübung der Niederlassungsfreiheit zu beseitigen, ihre praktische Wirksamkeit nehmen.
+
+94
+
+Ganz allgemein betrachtet, kann es zur Verwirklichung des Ziels der Rechtssicherheit – die die Richtlinie, wie aus ihrem fünften Erwägungsgrund hervorgeht, gewährleisten soll – beitragen, wenn die Anwendbarkeit der Richtlinie 2006/123 nicht von einer Vorabprüfung der Bedeutung des die Dienstleistungsfreiheit betreffenden Aspekts anhand der spezifischen Umstände des Einzelfalls abhängt.
+
+95
+
+Zudem wäre eine derartige Prüfung hinsichtlich des Einzelhandels mit Waren besonders komplex, da dieser Handel heutzutage über den rechtlichen Verkaufsakt hinaus eine immer größere Bandbreite an Tätigkeiten oder Dienstleistungen umfasst, die eng ineinandergreifen und zum Ziel haben, den Verbraucher dazu zu bewegen, den Kauf mit dem einen und nicht mit dem anderen Wirtschaftsteilnehmer abzuschließen, ihn beim Kauf zu beraten und zu unterstützen oder ihm Kundendienstleistungen anzubieten, wobei diese Tätigkeiten oder Dienstleistungen je nach Händler stark variieren können.
+
+96
+
+Darüber hinaus liefe die gleichzeitige Prüfung einer nationalen Maßnahme anhand der Bestimmungen der Richtlinie 2006/123 und anhand derjenigen des AEU-Vertrags in dem Fall, dass es sich als unmöglich erweist, zu bestimmen, ob die die Dienstleistungsfreiheit betreffenden Aspekte gegenüber den mit anderen Grundfreiheiten zusammenhängenden Aspekten überwiegen, darauf hinaus, dass eine Einzelfallprüfung nach dem Primärrecht eingeführt würde, was die gezielte Harmonisierung, die mit der Richtlinie vorgenommen wird, untergraben würde (vgl. in diesem Sinne Urteil vom 16. Juni 2015, Rina Services u. a., C‑593/13, EU:C:2015:399, Rn. 37 und 38).
+
+97
+
+Nach alledem ist auf die erste Frage zu antworten, dass Art. 4 Nr. 1 der Richtlinie 2006/123 dahin auszulegen ist, dass die Tätigkeit des Einzelhandels mit Waren eine „Dienstleistung“ im Sinne dieser Richtlinie darstellt.
+
+Zur vierten Frage
+
+98
+
+Mit seiner vierten Frage, die an zweiter Stelle zu prüfen ist, möchte das vorlegende Gericht wissen, ob die in Kapitel III der Richtlinie 2006/123 enthaltenen Bestimmungen über die Niederlassungsfreiheit der Dienstleistungserbringer auf einen Sachverhalt anwendbar sind, dessen Merkmale sämtlich nicht über die Grenzen eines einzigen Mitgliedstaats hinausweisen.
+
+99
+
+Insoweit ist zunächst festzustellen, dass der Wortlaut dieser Bestimmungen keinerlei Voraussetzung benennt, nach der ein Auslandsbezug bestehen müsste. Insbesondere enthalten Art. 9 Abs. 1, Art. 14 und Art. 15 Abs. 1 der Richtlinie 2006/123, die die Genehmigungsregelungen, die unzulässigen Anforderungen und die zu prüfenden Anforderungen betreffen, keine Bezugnahme auf einen grenzüberschreitenden Aspekt.
+
+100
+
+Was sodann den Kontext betrifft, in dem Kapitel III der Richtlinie 2006/123 steht, bestimmt Art. 2 Abs. 1 dieser Richtlinie in allgemeinen Worten, ohne zwischen Dienstleistungstätigkeiten mit und ohne Auslandsbezug zu unterscheiden, dass diese Richtlinie für „Dienstleistungen, die von einem in einem Mitgliedstaat niedergelassenen Dienstleistungserbringer angeboten werden“, gilt.
+
+101
+
+Ebenso wenig enthalten Art. 4 Nr. 2 und Art. 4 Nr. 5 der Richtlinie 2006/123, in denen die Begriffe „Dienstleistungserbringer“ und „Niederlassung“ definiert werden, eine Bezugnahme auf einen grenzüberschreitenden Aspekt. Diese Bestimmungen verweisen zwar auf die Art. 54 und 49 AEUV, allerdings nur, um deutlich zu machen, dass die in Art. 4 Nr. 2 und Art. 4 Nr. 5 der Richtlinie verwendeten Begriffe „juristische Person“ und „wirtschaftliche Tätigkeit“ im Sinne der Art. 54 und 49 AEUV zu verstehen sind.
+
+102
+
+Im Gegensatz dazu hat der Unionsgesetzgeber in den Vorschriften des Kapitels IV der Richtlinie 2006/123 über den freien Dienstleistungsverkehr an mehreren Stellen – u. a. in Art. 16 Abs. 1 und Art. 18 Abs. 1 – eigens klargestellt, dass diese Vorschriften das Recht der Dienstleistungserbringer, „Dienstleistungen in einem anderen Mitgliedstaat als demjenigen ihrer Niederlassung zu erbringen“, und den Fall eines „in einem anderen Mitgliedstaat niedergelassenen Dienstleistungserbringer[s]“ betreffen.
+
+103
+
+Schließlich steht die Auslegung, dass die Bestimmungen in Kapitel III der Richtlinie 2006/123 nicht nur auf den Dienstleistungserbringer, der sich in einem anderen Mitgliedstaat niederlassen will, sondern auch auf denjenigen, der sich in seinem eigenen Mitgliedstaat niederlassen will, anwendbar sind, mit den Zielen dieser Richtlinie im Einklang.
+
+104
+
+Insoweit ergibt sich aus Art. 1 der Richtlinie 2006/123 in Verbindung mit ihren Erwägungsgründen 2 und 5, dass diese Richtlinie allgemeine Bestimmungen aufstellt, die den Zweck verfolgen, die Beschränkungen der Niederlassungsfreiheit von Dienstleistungserbringern in den Mitgliedstaaten und des freien Dienstleistungsverkehrs zwischen Mitgliedstaaten zu beseitigen, um zur Schaffung eines freien und wettbewerbsfähigen Binnenmarkts beizutragen (Urteil vom 1. Oktober 2015, Trijber und Harmsen, C‑340/14 und C‑341/14, EU:C:2015:641, Rn. 44).
+
+105
+
+Die vollständige Ausgestaltung des Binnenmarkts für Dienstleistungen erfordert aber vor allem die Beseitigung der Beschränkungen, auf die Dienstleistungserbringer bei der Niederlassung in Mitgliedstaaten – sei es ihr eigener oder ein anderer Mitgliedstaat – stoßen und die sie daran hindern können, Dienstleistungen an Empfänger in der gesamten Union zu erbringen.
+
+106
+
+Im Hinblick auf die Schaffung eines wirklichen Binnenmarkts für Dienstleistungen verfolgt der Unionsgesetzgeber in der Richtlinie 2006/123 einen Ansatz, der, wie im siebten Erwägungsgrund der Richtlinie dargelegt, auf einem allgemeinen Rechtsrahmen beruht, der aus einer Kombination verschiedener Maßnahmen besteht, die ein hohes Maß an rechtlicher Integration auf Unionsebene gewährleisten sollen, und zwar u. a. mittels einer Harmonisierung bestimmter Aspekte der Regelung der Dienstleistungstätigkeiten.
+
+107
+
+Folglich ist, um die praktische Wirksamkeit des spezifischen Rechtsrahmens, den der Unionsgesetzgeber mit dem Erlass der Richtlinie 2006/123 einführen wollte, nicht zu beeinträchtigen, entgegen dem Vorbringen der deutschen Regierung in der mündlichen Verhandlung anzuerkennen, dass sich der Anwendungsbereich dieser Richtlinie gegebenenfalls über das, was die Bestimmungen des AEU‑Vertrags über die Niederlassungsfreiheit und die Dienstleistungsfreiheit streng genommen vorsehen, hinaus erstrecken kann, unbeschadet der Verpflichtung der Mitgliedstaaten nach Art. 3 Abs. 3 der Richtlinie, deren Bestimmungen in Übereinstimmung mit den Bestimmungen des Vertrags umzusetzen (vgl. in diesem Sinne Urteil vom 16. Juni 2015, Rina Services u. a., C‑593/13, EU:C:2015:399, Rn. 39 und 40).
+
+108
+
+Dass die Bestimmungen in Kapitel III der Richtlinie 2006/123 auch auf rein innerstaatliche Sachverhalte anwendbar sind, wird durch eine Untersuchung der Vorarbeiten zu dieser Richtlinie weiter gestützt. Aus diesen Vorarbeiten geht nämlich hervor, dass die im Zuge der Debatten im Europäischen Parlament eingereichten Änderungsvorschläge, die darauf abzielten, Art. 2 Abs. 1 der Richtlinie so umzuformulieren, dass deren Anwendungsbereich auf grenzüberschreitende Sachverhalte beschränkt wird, nicht angenommen wurden.
+
+109
+
+Zu dem von der niederländischen Regierung in der mündlichen Verhandlung hervorgehobenen Umstand, dass Art. 53 Abs. 1 und Art. 62 AEUV die Rechtsgrundlage der Richtlinie 2006/123 darstellen, ist darauf hinzuweisen, dass in diesen Bestimmungen – anders als insbesondere in den Art. 49 und 56 AEUV, obwohl auch diese zu den Kapiteln 2 und 3 des Titels IV des dritten Teils des AEU-Vertrags gehören – nicht von einem Auslandsbezug die Rede ist. Aus ihnen kann daher nicht geschlossen werden, dass die Befugnis des Unionsgesetzgebers, auf der Grundlage von Art. 53 Abs. 1 und Art. 62 AEUV Richtlinien zu erlassen, um die Aufnahme und Ausübung selbständiger Tätigkeiten zu erleichtern, wie es mit der Richtlinie 2006/123 für Dienstleistungstätigkeiten geschehen ist, zwangsläufig einen Auslandsbezug voraussetzt.
+
+110
+
+Nach alledem ist auf die vierte Frage zu antworten, dass die in Kapitel III der Richtlinie 2006/123 enthaltenen Bestimmungen über die Niederlassungsfreiheit der Dienstleistungserbringer dahin auszulegen sind, dass sie auch auf einen Sachverhalt anwendbar sind, dessen Merkmale sämtlich nicht über die Grenzen eines einzigen Mitgliedstaats hinausweisen.
+
+Zur dritten Frage
+
+111
+
+Angesichts der Antwort auf die vierte Frage ist die dritte Frage nicht zu beantworten.
+
+Zur zweiten und zur fünften Frage
+
+112
+
+Mit der zweiten und der fünften Frage, die zusammen zu prüfen sind, möchte das vorlegende Gericht wissen, ob die Art. 9 und 10 sowie Art. 14 Nr. 5 der Richtlinie 2006/123 in Verbindung mit deren Art. 4 Nrn. 6 und 7 im Licht ihres neunten Erwägungsgrundes dahin auszulegen sind, dass sie Vorschriften in einem Bauleitplan einer Gemeinde entgegenstehen, die die Tätigkeit des Einzelhandels mit Waren ohne großen Platzbedarf in Gebieten außerhalb des Stadtzentrums dieser Gemeinde verbieten.
+
+113
+
+Zunächst ist zu klären, ob eine Regelung wie die im Ausgangsverfahren streitige unter den Begriff „Genehmigungsregelung“ oder den Begriff „Anforderungen“ im Sinne von Art. 4 Nr. 6 bzw. Art. 4 Nr. 7 der Richtlinie 2006/123 fällt.
+
+114
+
+Nach Art. 4 Nr. 6 der Richtlinie bezeichnet der Ausdruck „Genehmigungsregelung“ für die Zwecke dieser Richtlinie „jedes Verfahren, das einen Dienstleistungserbringer oder ‑empfänger verpflichtet, bei einer zuständigen Behörde eine förmliche oder stillschweigende Entscheidung über die Aufnahme oder Ausübung einer Dienstleistungstätigkeit zu erwirken“.
+
+115
+
+Im vorliegenden Fall ergibt sich aus den dem Gerichtshof zur Verfügung stehenden Informationen, dass der im Ausgangsverfahren in Rede stehende Bauleitplan nicht unter diesen Begriff fällt. Zwar eröffnet dieser Bauleitplan Dienstleistungserbringern die Möglichkeit, bestimmte Einzelhandelstätigkeiten in festgelegten Gebieten zu entwickeln, doch ergibt sich diese Möglichkeit nicht aus einer förmlichen Entscheidung, die diese Dienstleistungserbringer zu diesem Zweck hätten erwirken müssen, sondern aus dem Erlass von allgemeingültigen, im Bauleitplan enthaltenen Vorschriften durch den Gemeinderat von Appingedam.
+
+116
+
+Diese Feststellung wird nicht durch den vom vorlegenden Gericht angeführten Umstand in Frage gestellt, dass jeder Betroffene aufgrund anderer niederländischer Rechtsvorschriften mit eigenen Zielsetzungen die Möglichkeit hat, sich an dem Verwaltungsverfahren, in dem der Bauleitplan erlassen wird, zu beteiligen, einen gerichtlichen Rechtsbehelf gegen den Bauleitplan einzulegen oder eine Abweichung vom Plan oder seine Überarbeitung zu beantragen.
+
+117
+
+Solche Möglichkeiten entsprechen nämlich, wie die Kommission ausführt, den Erfordernissen der guten Verwaltung und des Rechtsschutzes zugunsten von Personen, die vom Erlass eines Bauleitplans betroffen sein können.
+
+118
+
+Folglich sind die Art. 9 und 10 der Richtlinie 2006/123 über die Genehmigungsregelungen auf eine Regelung wie die im Ausgangsverfahren streitige nicht anwendbar.
+
+119
+
+Was den Ausdruck „Anforderungen“ angeht, so bezeichnet dieser nach Art. 4 Nr. 7 dieser Richtlinie insbesondere „alle Auflagen, Verbote, Bedingungen oder Beschränkungen, die in den Rechts- oder Verwaltungsvorschriften der Mitgliedstaaten festgelegt sind“.
+
+120
+
+Im vorliegenden Fall steht fest, dass die Vorschriften des im Ausgangsverfahren in Rede stehenden Bauleitplans bewirken, dass die Tätigkeit des Einzelhandels mit Waren ohne großen Platzbedarf wie Schuhe und Bekleidung in einem Gebiet außerhalb des Stadtzentrums der Gemeinde Appingedam verboten ist.
+
+121
+
+Das vorlegende Gericht weist jedoch darauf hin, dass die Richtlinie 2006/123 nach ihrem neunten Erwägungsgrund „nur auf die Anforderungen für die Aufnahme oder Ausübung einer Dienstleistungstätigkeit Anwendung“ finde, was daher „Anforderungen wie … Vorschriften bezüglich der Stadtentwicklung oder Bodennutzung, der Stadtplanung und der Raumordnung … sowie verwaltungsrechtliche Sanktionen, die wegen der Nichteinhaltung solcher Vorschriften verhängt werden, die nicht die Dienstleistungstätigkeit als solche regeln oder betreffen, sondern von Dienstleistungserbringern im Zuge der Ausübung ihrer Wirtschaftstätigkeit genauso beachtet werden müssen wie von Privatpersonen“, ausschließe.
+
+122
+
+Es ist darauf hinzuweisen, dass sich dieser Erwägungsgrund der Richtlinie 2006/123 voll und ganz in den Rechtsrahmen einfügt, der durch diese Richtlinie geschaffen wurde, die, wie in den Rn. 104 bis 106 des vorliegenden Urteils dargelegt, zum Ziel hat, die Beschränkungen der Niederlassungsfreiheit von Dienstleistungserbringern in den Mitgliedstaaten und des freien Dienstleistungsverkehrs zwischen Mitgliedstaaten zu beseitigen, um zur Schaffung eines wirklichen Binnenmarkts für Dienstleistungen beizutragen.
+
+123
+
+Die Richtlinie 2006/123 soll also nicht für Anforderungen gelten, bei denen nicht davon auszugehen ist, dass sie derartige Beschränkungen begründen, weil sie nicht speziell die Aufnahme oder Ausübung einer Dienstleistungstätigkeit regeln oder betreffen, sondern von Dienstleistungserbringern im Zuge der Ausübung ihrer Wirtschaftstätigkeit genauso beachtet werden müssen wie von Privatpersonen.
+
+124
+
+Dies vorausgeschickt, ist festzustellen, dass die im Ausgangsverfahren fraglichen Vorschriften laut der Vorlageentscheidung zwar im Rahmen einer städtebaulichen Politik dazu dienen sollen, die Lebensqualität im Stadtzentrum der Gemeinde Appingedam zu erhalten und Leerstand im Stadtgebiet zu vermeiden, dass sie aber dennoch den spezifischen Zweck haben, Gebiete auszuweisen, in denen bestimmte Einzelhandelstätigkeiten aufgenommen werden können. Sie richten sich somit nur an Personen, die beabsichtigen, solche Tätigkeiten in diesen Gebieten aufzunehmen, und nicht an Privatpersonen.
+
+125
+
+Dem steht das in der Vorlageentscheidung erwähnte Urteil vom 8. Mai 2013, Libert u. a. (C‑197/11 und C‑203/11, EU:C:2013:288, Rn. 103 bis 107), nicht entgegen. Der Gerichtshof hat nämlich, nachdem er in Rn. 104 dieses Urteils auf den neunten Erwägungsgrund der Richtlinie 2006/123 Bezug genommen hatte, in den Rn. 105 und 106 des Urteils betont, dass die von der fraglichen nationalen Maßnahme betroffenen Dienstleistungen speziell unter den in Art. 2 Abs. 2 Buchst. j dieser Richtlinie geregelten Ausschluss der sozialen Dienstleistungen im Zusammenhang mit Sozialwohnungen fallen, und hat daher in Rn. 107 des Urteils festgestellt, dass die Richtlinie auf diese Maßnahme keine Anwendung findet.
+
+126
+
+Demnach ist die Frage, ob die im Ausgangsverfahren streitige Regelung mit der Richtlinie 2006/123 vereinbar ist, anhand der Art. 14 und 15 dieser Richtlinie zu prüfen, die die unzulässigen bzw. zu prüfenden Anforderungen betreffen.
+
+127
+
+Was Art. 14 Nr. 5 der Richtlinie 2006/123 betrifft, auf den in der fünften Frage Bezug genommen wird, so untersagt es diese Vorschrift den Mitgliedstaaten, die Aufnahme oder Ausübung einer Dienstleistungstätigkeit in ihrem Hoheitsgebiet von „einer wirtschaftlichen Überprüfung im Einzelfall, bei der die Erteilung der Genehmigung vom Nachweis eines wirtschaftlichen Bedarfs oder einer Marktnachfrage abhängig gemacht wird, oder der Beurteilung der tatsächlichen oder möglichen wirtschaftlichen Auswirkungen der Tätigkeit oder der Bewertung ihrer Eignung für die Verwirklichung wirtschaftlicher, von der zuständigen Behörde festgelegter Programmziele“ abhängig zu machen.
+
+128
+
+Es ergibt sich aber aus keiner der dem Gerichtshof vorliegenden Informationen, dass die im Ausgangsverfahren streitige Regelung eine derartige Anforderung enthält.
+
+129
+
+Allerdings sind die Mitgliedstaaten nach Art. 15 Abs. 1 Satz 1 der Richtlinie 2006/123 verpflichtet, zu prüfen, ob ihre Rechtsordnungen eine oder mehrere der in Art. 15 Abs. 2 dieser Richtlinie aufgeführten Anforderungen vorsehen, und gegebenenfalls sicherzustellen, dass diese Anforderungen die in Art. 15 Abs. 3 der Richtlinie genannten Bedingungen der Nicht-Diskriminierung, der Erforderlichkeit und der Verhältnismäßigkeit erfüllen. Nach Art. 15 Abs. 1 Satz 2 der Richtlinie müssen die Mitgliedstaaten ihre Rechts- und Verwaltungsvorschriften ändern, um sie diesen Bedingungen anzupassen.
+
+130
+
+Dieser Art. 15 entfaltet insoweit unmittelbare Wirkung, als er in Abs. 1 Satz 2 den Mitgliedstaaten die unbedingte, hinreichend präzise Verpflichtung auferlegt, ihre Rechts- und Verwaltungsvorschriften zu ändern, um sie den in Abs. 3 genannten Bedingungen anzupassen.
+
+131
+
+Im vorliegenden Fall enthält die im Ausgangsverfahren streitige Regelung, wie der Generalanwalt in Nr. 143 seiner Schlussanträge ausgeführt hat, dadurch, dass sie die Tätigkeit des Einzelhandels mit Waren ohne großen Platzbedarf in einem Gebiet außerhalb des Stadtzentrums der Gemeinde Appingedam verbietet, eine der in Art. 15 Abs. 2 der Richtlinie 2006/123 aufgeführten Anforderungen, da sie die Aufnahme oder Ausübung einer Dienstleistungstätigkeit einer territorialen Beschränkung im Sinne von Art. 15 Abs. 2 Buchst. a dieser Richtlinie unterwirft.
+
+132
+
+Wie aus Rn. 129 des vorliegenden Urteils hervorgeht, steht die Richtlinie 2006/123 dem nicht entgegen, dass die Aufnahme oder Ausübung einer Dienstleistungstätigkeit von der Beachtung einer solchen territorialen Beschränkung abhängig gemacht wird, sofern die in Art. 15 Abs. 3 der Richtlinie genannten Bedingungen der Nicht-Diskriminierung, der Erforderlichkeit und der Verhältnismäßigkeit erfüllt sind.
+
+133
+
+Es ist Sache des vorlegenden Gerichts, zu beurteilen, ob dies im Ausgangsverfahren der Fall ist.
+
+134
+
+Allerdings ist speziell zur Bedingung der Erforderlichkeit im Sinne von Art. 15 Abs. 3 Buchst. b der Richtlinie 2006/123 festzustellen, dass laut der Vorlageentscheidung das im Ausgangsverfahren streitige Verbot den Zweck hat, im Sinne einer guten Stadt- und Raumplanung die Lebensqualität im Stadtzentrum der Gemeinde Appingedam zu erhalten und Leerstand im Stadtgebiet zu vermeiden.
+
+135
+
+Wie der Generalanwalt in Nr. 147 seiner Schlussanträge ausgeführt hat, kann ein solches Ziel des Schutzes der städtischen Umwelt gemäß Art. 4 Nr. 8 in Verbindung mit dem 40. Erwägungsgrund der Richtlinie 2006/123 ein zwingender Grund des Allgemeininteresses sein, der eine territoriale Beschränkung wie die im Ausgangsverfahren streitige zu rechtfertigen vermag.
+
+136
+
+Nach alledem ist auf die zweite und die fünfte Frage zu antworten, dass Art. 15 Abs. 1 der Richtlinie 2006/123 dahin auszulegen ist, dass er Vorschriften in einem Bauleitplan einer Gemeinde, die die Tätigkeit des Einzelhandels mit Waren ohne großen Platzbedarf in Gebieten außerhalb des Stadtzentrums dieser Gemeinde verbieten, nicht entgegensteht, vorausgesetzt, dass sämtliche in Art. 15 Abs. 3 dieser Richtlinie genannten Bedingungen erfüllt sind, was das vorlegende Gericht zu prüfen hat.
+
+Zur sechsten Frage
+
+137
+
+Angesichts der Antworten auf die vorangehenden Fragen erübrigt sich die Beantwortung der sechsten Frage, die das vorlegende Gericht hilfsweise für den Fall gestellt hat, dass die Richtlinie 2006/123 auf das Ausgangsverfahren nicht anwendbar sein sollte.
+
+Kosten
+
+138
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Große Kammer) für Recht erkannt:
+
+ 	
+1.
+
+Art. 2 Abs. 2 Buchst. c der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt ist dahin auszulegen, dass diese Richtlinie nicht für Gebühren gilt, deren anspruchsbegründender Tatbestand an die Rechte der zur Bereitstellung elektronischer Kommunikationsnetze und ‑dienste ermächtigten Unternehmen zur Verlegung von Kabeln für ein öffentliches elektronisches Kommunikationsnetz anknüpft.
+
+ 	
+2.
+
+Art. 4 Nr. 1 der Richtlinie 2006/123 ist dahin auszulegen, dass die Tätigkeit des Einzelhandels mit Waren eine „Dienstleistung“ im Sinne dieser Richtlinie darstellt.
+
+ 	
+3.
+
+Die in Kapitel III der Richtlinie 2006/123 enthaltenen Bestimmungen über die Niederlassungsfreiheit der Dienstleistungserbringer sind dahin auszulegen, dass sie auch auf einen Sachverhalt anwendbar sind, dessen Merkmale sämtlich nicht über die Grenzen eines einzigen Mitgliedstaats hinausweisen.
+
+ 	
+4.
+
+Art. 15 Abs. 1 der Richtlinie 2006/123 ist dahin auszulegen, dass er Vorschriften in einem Bauleitplan einer Gemeinde, die die Tätigkeit des Einzelhandels mit Waren ohne großen Platzbedarf in Gebieten außerhalb des Stadtzentrums dieser Gemeinde verbieten, nicht entgegensteht, vorausgesetzt, dass sämtliche in Art. 15 Abs. 3 dieser Richtlinie genannten Bedingungen erfüllt sind, was das vorlegende Gericht zu prüfen hat.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Niederländisch.

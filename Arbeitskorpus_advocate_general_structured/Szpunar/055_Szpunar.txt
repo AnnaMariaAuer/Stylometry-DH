@@ -1,0 +1,430 @@
+URTEIL DES GERICHTSHOFS (Große Kammer)
+
+20. Dezember 2017 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Art. 56 AEUV – Art. 58 Abs. 1 AEUV -Verkehrsdienstleistungen – Richtlinie 2006/123/EG – Dienstleistungen im Binnenmarkt – Richtlinie 2000/31/EG – Richtlinie 98/34/EG – Dienste der Informationsgesellschaft – Vermittlungsdienst, der es mittels einer Smartphone-Applikation ermöglicht, gegen Entgelt eine Verbindung zwischen nicht berufsmäßigen Fahrern, die ihr eigenes Fahrzeug benutzen, und Personen herzustellen, die eine Fahrt im innerstädtischen Bereich unternehmen möchten – Genehmigungspflicht“
+
+In der Rechtssache C‑434/15
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Juzgado de lo Mercantil no 3 de Barcelona (Handelsgericht Nr. 3 Barcelona, Spanien) mit Entscheidung vom 16. Juli 2015, beim Gerichtshof eingegangen am 7. August 2015, in dem Verfahren
+
+Asociación Profesional Elite Taxi
+
+gegen
+
+Uber Systems Spain SL
+
+erlässt
+
+DER GERICHTSHOF (Große Kammer)
+
+unter Mitwirkung des Präsidenten K. Lenaerts, des Vizepräsidenten A. Tizzano, der Kammerpräsidentin R. Silva de Lapuerta, der Kammerpräsidenten M. Ilešič, J. L. da Cruz Vilaça, J. Malenovský und E. Levits sowie der Richter E. Juhász, A. Borg Barthet, D. Šváby (Berichterstatter), C. Lycourgos, M. Vilaras und E. Regan,
+
+Generalanwalt: M. Szpunar,
+
+Kanzler: M. Ferreira, Hauptverwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 29. November 2016,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der Asociación Profesional Elite Taxi, vertreten durch M. Balagué Farré und D. Salmerón Porras, abogados, sowie durch J. A. López‑Jurado González, procurador,
+
+–
+
+der Uber Systems Spain SL, vertreten durch B. Le Bret und D. Calciu, avocats, sowie R. Allendesalazar Corcho, J. J. Montero Pascual, C. Fernández Vicién und I. Moreno-Tapia Rivas, abogados,
+
+–
+
+der spanischen Regierung, vertreten durch A. Sampol Pucurull und A. Rubio González als Bevollmächtigte,
+
+–
+
+der estnischen Regierung, vertreten durch N. Grünberg als Bevollmächtigte,
+
+–
+
+von Irland, vertreten durch E. Creedon und L. Williams sowie A. Joyce als Bevollmächtigte im Beistand von A. Carroll, Barrister,
+
+–
+
+der griechischen Regierung, vertreten durch M. Michelogiannaki als Bevollmächtigte,
+
+–
+
+der französischen Regierung, vertreten durch D. Colas, G. de Bergues und R. Coesme als Bevollmächtigte,
+
+–
+
+der niederländischen Regierung, vertreten durch H. Stergiou und M. Bulterman als Bevollmächtigte,
+
+–
+
+der polnischen Regierung, vertreten durch B. Majczyna als Bevollmächtigten,
+
+–
+
+der finnischen Regierung, vertreten durch S. Hartikainen als Bevollmächtigten,
+
+–
+
+der Europäischen Kommission, vertreten durch É. Gippini Fournier, F. Wilman, J. Hottiaux und H. Tserepa-Lacombe als Bevollmächtigte,
+
+–
+
+der EFTA-Überwachungsbehörde, vertreten durch C. Zatschler, Ø. Bø und C. Perrin als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 11. Mai 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 56 AEUV, Art. 1 der Richtlinie 98/34/EG des Europäischen Parlaments und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. 1998, L 204, S. 37) in der Fassung der Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20. Juli 1998 (ABl. 1998, L 217, S. 18) (im Folgenden: Richtlinie 98/34), Art. 3 der Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt („Richtlinie über den elektronischen Geschäftsverkehr“) (ABl. 2000, L 178, S. 1) und der Art. 2 und 9 der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt (ABl. 2006, L 376, S. 36).
+
+2
+
+Dieses Ersuchen ergeht im Rahmen eines Rechtsstreits zwischen der Asociación Profesional Elite Taxi (im Folgenden: Elite Taxi), einem Berufsverband der Taxifahrer der Stadt Barcelona (Spanien), und der Uber Systems Spain SL, einer mit der Uber Technologies Inc. verbundenen Gesellschaft, über eine entgeltliche Dienstleistung, die darin besteht, dass Uber Technologies, ohne über Lizenzen und behördliche Genehmigungen zu verfügen, mittels einer Smartphone‑Applikation eine Verbindung zwischen nicht berufsmäßigen Fahrern, die ihr eigenes Fahrzeug benutzen, und Personen herstellt, die eine Fahrt im innerstädtischen Bereich unternehmen möchten.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+Richtlinie 98/34
+
+3
+
+Art. 1 Nr. 2 der Richtlinie 98/34 bestimmt:
+
+„Für diese Richtlinie gelten folgende Begriffsbestimmungen:
+
+…
+
+2.
+
+‚Dienst‘: eine Dienstleistung der Informationsgesellschaft, d. h. jede in der Regel gegen Entgelt elektronisch im Fernabsatz und auf individuellen Abruf eines Empfängers erbrachte Dienstleistung.
+
+Im Sinne dieser Definition bezeichnet der Ausdruck
+
+–
+
+‚im Fernabsatz erbrachte Dienstleistung‘ eine Dienstleistung, die ohne gleichzeitige physische Anwesenheit der Vertragsparteien erbracht wird;
+
+–
+
+‚elektronisch erbrachte Dienstleistung‘ eine Dienstleistung, die mittels Geräten für die elektronische Verarbeitung (einschließlich digitaler Kompression) und Speicherung von Daten am Ausgangspunkt gesendet und am Endpunkt empfangen wird und die vollständig über Draht, über Funk, auf optischem oder anderem elektromagnetischem Wege gesendet, weitergeleitet und empfangen wird;
+
+–
+
+‚auf individuellen Abruf eines Empfängers erbrachte Dienstleistung‘ eine Dienstleistung die durch die Übertragung von Daten auf individuelle Anforderung erbracht wird.
+
+Eine Beispielliste der nicht unter diese Definition fallenden Dienste findet sich in Anhang V.
+
+…“
+
+4
+
+Nach den Art. 10 und 11 der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. 2015, L 241, S. 1) wurde die Richtlinie 98/34 am 7. Oktober 2015 aufgehoben. Die Richtlinie 98/34 bleibt jedoch nach intertemporalen Grundsätzen auf den Ausgangsrechtsstreit anwendbar.
+
+Richtlinie 2000/31
+
+5
+
+Art. 2 Buchst. a der Richtlinie 2000/31 sieht vor, dass im Sinne dieser Richtlinie „Dienste der Informationsgesellschaft“ Dienste im Sinne von Art. 1 Nr. 2 der Richtlinie 98/34 bezeichnen.
+
+6
+
+Art. 3 Abs. 2 und 4 der Richtlinie 2000/31 sieht vor:
+
+„(2)   Die Mitgliedstaaten dürfen den freien Verkehr von Diensten der Informationsgesellschaft aus einem anderen Mitgliedstaat nicht aus Gründen einschränken, die in den koordinierten Bereich fallen.
+
+…
+
+(4)   Die Mitgliedstaaten können Maßnahmen ergreifen, die im Hinblick auf einen bestimmten Dienst der Informationsgesellschaft von Absatz 2 abweichen, wenn die folgenden Bedingungen erfüllt sind:
+
+a)
+
+Die Maßnahmen
+
+i)
+
+sind aus einem der folgenden Gründe erforderlich:
+
+–
+
+Schutz der öffentlichen Ordnung, insbesondere Verhütung, Ermittlung, Aufklärung und Verfolgung von Straftaten, einschließlich des Jugendschutzes und der Bekämpfung der Hetze aus Gründen der Rasse, des Geschlechts, des Glaubens oder der Nationalität, sowie von Verletzungen der Menschenwürde einzelner Personen,
+
+–
+
+Schutz der öffentlichen Gesundheit,
+
+–
+
+Schutz der öffentlichen Sicherheit, einschließlich der Wahrung nationaler Sicherheits- und Verteidigungsinteressen,
+
+–
+
+Schutz der Verbraucher, einschließlich des Schutzes von Anlegern;
+
+ii)
+
+betreffen einen bestimmten Dienst der Informationsgesellschaft, der die unter Ziffer i) genannten Schutzziele beeinträchtigt oder eine ernsthafte und schwerwiegende Gefahr einer Beeinträchtigung dieser Ziele darstellt;
+
+iii)
+
+stehen in einem angemessenen Verhältnis zu diesen Schutzzielen.
+
+b)
+
+Der Mitgliedstaat hat vor Ergreifen der betreffenden Maßnahmen unbeschadet etwaiger Gerichtsverfahren, einschließlich Vorverfahren und Schritten im Rahmen einer strafrechtlichen Ermittlung,
+
+–
+
+den in Absatz 1 genannten Mitgliedstaat aufgefordert, Maßnahmen zu ergreifen, und dieser hat dem nicht Folge geleistet oder die von ihm getroffenen Maßnahmen sind unzulänglich;
+
+–
+
+die Kommission und den in Absatz 1 genannten Mitgliedstaat über seine Absicht, derartige Maßnahmen zu ergreifen, unterrichtet.“
+
+Richtlinie 2006/123
+
+7
+
+Nach dem 21. Erwägungsgrund der Richtlinie 2006/123 sollen „Verkehrsdienstleistungen, einschließlich des Personennahverkehrs, Taxis und Krankenwagen sowie Hafendienste, … vom Anwendungsbereich dieser Richtlinie ausgenommen sein.“
+
+8
+
+Art. 2 Abs. 2 Buchst. d der Richtlinie sieht vor, dass die Richtlinie auf Verkehrsdienstleistungen einschließlich Hafendiensten, die in den Anwendungsbereich von Titel V des Dritten Teils des EG-Vertrags (jetzt Titel VI des Dritten Teils des AEU-Vertrags) fallen, keine Anwendung findet.
+
+9
+
+Kapitel III („Niederlassungsfreiheit der Dienstleistungserbringer“) der Richtlinie 2006/123 enthält deren Art. 9, der in Abs. 1 bestimmt:
+
+„Die Mitgliedstaaten dürfen die Aufnahme und die Ausübung einer Dienstleistungstätigkeit nur dann Genehmigungsregelungen unterwerfen, wenn folgende Voraussetzungen erfüllt sind:
+
+a)
+
+die Genehmigungsregelungen sind für den betreffenden Dienstleistungserbringer nicht diskriminierend;
+
+b)
+
+die Genehmigungsregelungen sind durch zwingende Gründe des Allgemeininteresses gerechtfertigt;
+
+c)
+
+das angestrebte Ziel kann nicht durch ein milderes Mittel erreicht werden, insbesondere weil eine nachträgliche Kontrolle zu spät erfolgen würde, um wirksam zu sein.“
+
+10
+
+Art. 16 in Kapitel IV („Freier Dienstleistungsverkehr“) der Richtlinie 2006/123 legt die Modalitäten fest, nach denen Dienstleistungserbringer Dienstleistungen in einem anderen Mitgliedstaat als demjenigen ihrer Niederlassung erbringen können.
+
+Spanisches Recht
+
+11
+
+Im Großraum Barcelona sind Taxidienstleistungen durch die Ley 19/2003 del Taxi (Gesetz Nr. 19/2003 über Taxis) vom 4. Juli 2003 (DOGC Nr. 3926 vom 16. Juli 2003 und BOE Nr. 189 vom 8. August 2003) und durch das Reglamento Metropolitano del Taxi (Taxi‑Verordnung des Großraums Barcelona) geregelt, das der Consell Metropolitá de l’Entitat Metropolitana de Transport de Barcelona (Verwaltungsrat des Verkehrsverbunds von Barcelona, Spanien) am 22. Juli 2004 erlassen hat.
+
+12
+
+Art. 4 des Gesetzes lautet:
+
+„1.   Für die Erbringung innerstädtischer Taxidienste ist der vorherige Erwerb einer Lizenz erforderlich, mit der der Inhaber für jedes der zur Ausübung dieser Tätigkeit bestimmten Fahrzeuge berechtigt wird.
+
+2.   Lizenzen für die Erbringung innerstädtischer Taxidienste werden von den Rathäusern oder lokalen Behörden erteilt, die in dem Gebiet örtlich zuständig sind, in denen die Tätigkeit durchgeführt wird.
+
+3.   Für die Erbringung von Überlandtaxidiensten ist der Erwerb der entsprechenden Genehmigung erforderlich, die von der Verkehrsabteilung der Regionalregierung erteilt wird.“
+
+Ausgangsrechtsstreit und Vorlagefragen
+
+13
+
+Am 29. Oktober 2014 erhob die Elite Taxi beim Juzgado de lo Mercantil no 3 de Barcelona (Handelsgericht Nr. 3 von Barcelona, Spanien) Klage auf Feststellung, dass die Tätigkeiten von Uber Systems Spain gegen geltendes Recht verstoßen und irreführende Geschäftspraktiken sowie unlauteres Handeln im Wettbewerb im Sinne der Ley 3/1991 de Competencia Desleal (Gesetz Nr. 3/1991 über den unlauteren Wettbewerb) vom 10. Januar 1991 darstellen. Außerdem beantragt sie, Uber Systems Spain zu verurteilen, ihr unlauteres Verhalten, das darin besteht, andere Gesellschaften der Unternehmensgruppe bei der Erbringung von „On‑demand“‑Buchungsdiensten über mobile Geräte und das Internet zu unterstützen, zu beenden. Darüber hinaus beantragt sie, Uber Systems Spain zu untersagen, diese Tätigkeit in Zukunft auszuüben.
+
+14
+
+Der Juzgado de lo Mercantil no 3 de Barcelona (Handelsgericht Nr. 3 von Barcelona) stellt zunächst fest, dass Uber Systems Spain zwar in Spanien tätig sei, diese Tätigkeit jedoch mit einer internationalen Plattform verknüpft sei, weshalb das Handeln dieser Gesellschaft auf der Ebene der Europäischen Union zu beurteilen sei. Sodann weist er darauf hin, dass weder Uber Systems Spain noch die nicht berufsmäßigen Fahrer der betreffenden Fahrzeuge über die Lizenzen und Genehmigungen verfügten, die nach der Taxi-Verordnung des Großraums Barcelona vom 22. Juli 2004 vorgesehen seien.
+
+15
+
+Zur Klärung der Frage, ob die Geschäftspraktiken von Uber Systems Spain und der mit ihr verbundenen Gesellschaften (im Folgenden zusammen: Uber) als unlauter eingestuft werden und gegen spanische Wettbewerbsvorschriften verstoßen können, hält der Juzgado de lo Mercantil no 3 de Barcelona (Handelsgericht Nr. 3 von Barcelona) die Prüfung für erforderlich, ob Uber einer vorherigen behördlichen Genehmigung bedürfe. Dazu sei festzustellen, ob die Dienste dieser Gesellschaft als Verkehrsdienstleistungen, als Dienste der Informationsgesellschaft oder als eine Kombination beider Dienstleistungsarten anzusehen seien. Denn von dieser Einstufung hänge ab, ob Uber eine vorherige behördliche Genehmigung besitzen müsse. Insbesondere könnten die Geschäftspraktiken von Uber nicht als unlauter angesehen werden, wenn der fragliche Dienst unter die Richtlinie 2006/123 oder die Richtlinie 98/34 falle.
+
+16
+
+Uber kontaktiere oder nehme Verbindung auf mit nicht berufsmäßigen Fahrern, denen sie eine Reihe von Software-Tools – ein Interface – zur Verfügung stelle, das es ihnen ermögliche, mit Personen in Verbindung zu treten, die innerstädtisch Wegstrecken zurücklegen möchten und über die gleichnamige EDV-Anwendung auf den Dienst zugriffen. Die Tätigkeit von Uber werde mit Gewinnerzielungsabsicht ausgeübt.
+
+17
+
+Das vorlegende Gericht weist auch darauf hin, dass das Vorabentscheidungsersuchen nicht diese tatsächlichen Gegebenheiten betreffe, sondern nur die rechtliche Einstufung des streitigen Dienstes.
+
+18
+
+Der Juzgado de lo Mercantil no 3 de Barcelona (Handelsgericht Nr. 3 von Barcelona) hat daher beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+1.
+
+Da Art. 2 Abs. 2 Buchst. d der Richtlinie 2006/123 Verkehrsdienstleistungen vom Anwendungsbereich dieser Richtlinie ausnimmt: Ist die von Uber Systems Spain gewerbsmäßig ausgeübte Tätigkeit der Vermittlung zwischen dem Halter eines Fahrzeugs und einer Person, die eine Fahrt im innerstädtischen Bereich benötigt, durch das Betreiben der elektronischen Mittel – Schnittstelle und Software-Anwendung (mit den Worten der Beklagten: „Smartphones und technologische Plattform“) –, die ihre Verbindung miteinander ermöglichen, als eine reine Verkehrsdienstleistung anzusehen, oder ist sie als ein elektronischer Vermittlungsdienst anzusehen oder als eine Dienstleistung der Informationsgesellschaft im Sinne von Art. 1 Nr. 2 der Richtlinie 98/34?
+
+2.
+
+Kann diese Tätigkeit im Hinblick auf die Bestimmung ihrer Rechtsnatur teilweise als Dienstleistung der Informationsgesellschaft angesehen werden und, bejahendenfalls, gilt für den elektronischen Vermittlungsdienst der nach den unionsrechtlichen Vorschriften – Art. 56 AEUV sowie Richtlinien 2006/123 und 2000/31 – gewährleistete Grundsatz des freien Dienstleistungsverkehrs?
+
+3.
+
+Sollte die von Uber Systems Spain erbrachte Dienstleistung keine Verkehrsdienstleistung sein und daher in den Anwendungsbereich der Richtlinie 2006/123 fallen: Verstößt Art. 15 des Gesetzes Nr. 3/1991 vom 10. Januar 1991 über den unlauteren Wettbewerb – betreffend die Verletzung wettbewerbsrechtlicher Vorschriften – gegen die Richtlinie 2006/123, insbesondere gegen Art. 9 über die Niederlassungsfreiheit und Genehmigungsregelungen, soweit darin auf nationale Gesetze oder Rechtsvorschriften Bezug genommen wird, ohne zu berücksichtigen, dass die Lizenz-, Genehmigungs- oder Erlaubnisregelungen nicht restriktiv oder unverhältnismäßig sein dürfen, also den Grundsatz der Niederlassungsfreiheit nicht in unangemessener Weise beeinträchtigen dürfen?
+
+4.
+
+Sollte die Richtlinie 2000/31 auf die von Uber Systems Spain erbrachte Dienstleistung anwendbar sein: Sind die von einem Mitgliedstaat vorgenommenen Beschränkungen des freien Verkehrs von elektronischen Vermittlungsdienstleistungen aus einem anderen Mitgliedstaat in Form eines Genehmigungs- oder Erlaubnisvorbehalts oder in Form einer auf nationale Rechtsvorschriften über den unlauteren Wettbewerb gestützten gerichtlichen Unterlassungsverfügung gegen die Erbringung des elektronischen Vermittlungsdienstes als zulässige Maßnahmen anzusehen, die gemäß Art. 3 Abs. 4 der Richtlinie 2000/31 von deren Art. 3 Abs. 2 abweichen?
+
+Zur Zuständigkeit des Gerichtshofs
+
+19
+
+Nach Ansicht der Elite Taxi ist der Gerichtshof für die rechtliche Einstufung der von Uber erbrachten Dienstleistung nicht zuständig, da diese Einstufung eine Entscheidung über Tatsachenfragen voraussetze. Daher sei der Gerichtshof für die Beantwortung der vorgelegten Fragen nicht zuständig.
+
+20
+
+Insoweit ist festzustellen, dass das vorlegende Gericht – wie aus Rn. 17 des vorliegenden Urteils hervorgeht – deutlich gemacht hat, dass seine Fragen nicht die Feststellung oder die Beurteilung des dem Ausgangsrechtsstreit zugrunde liegenden Sachverhalts, sondern nur die rechtliche Einstufung des streitigen Dienstes betreffen. Die unionsrechtliche Einstufung der vom vorlegenden Gericht festgestellten Tatsachen setzt jedoch eine Auslegung des Unionsrechts voraus, für die der Gerichtshof im Rahmen des Verfahrens nach Art. 267 AEUV zuständig ist (vgl. in diesem Sinne Urteil vom 3. Dezember 2015, Banif Plus Bank, C‑312/14, EU:C:2015:794, Rn. 51 und 52).
+
+21
+
+Der Gerichtshof ist daher für die Entscheidung über die vorgelegten Fragen zuständig.
+
+Zu den Vorlagefragen
+
+Zur Zulässigkeit
+
+22
+
+Die spanische, die griechische, die niederländische, die polnische und die finnische Regierung, die Europäische Kommission sowie die EFTA‑Überwachungsbehörde machen geltend, die Vorlageentscheidung sei sowohl hinsichtlich der im Ausgangsverfahren anwendbaren nationalen Regelung als auch der Art der dort streitigen Tätigkeiten nicht hinreichend genau.
+
+23
+
+Insoweit ist zu beachten, dass der Gerichtshof die Beantwortung einer Vorlagefrage eines nationalen Gerichts nur ablehnen kann, wenn die erbetene Auslegung des Unionsrechts offensichtlich in keinem Zusammenhang mit der Realität oder dem Gegenstand des Ausgangsrechtsstreits steht, wenn das Problem hypothetischer Natur ist oder wenn der Gerichtshof nicht über die tatsächlichen und rechtlichen Angaben verfügt, die für eine zweckdienliche Beantwortung der ihm vorgelegten Fragen erforderlich sind (Urteil vom 27. Juni 2017, Congregación de Escuelas Pías Provincia Betania, C‑74/16, EU:C:2017:496, Rn. 25).
+
+24
+
+Zu diesem letzten Punkt ist darauf hinzuweisen, dass die Notwendigkeit, zu einer für das nationale Gericht zweckdienlichen Auslegung des Unionrechts zu gelangen, es – wie sich Art. 94 Buchst. a und b der Verfahrensordnung des Gerichtshofs entnehmen lässt -erforderlich macht, dass dieses Gericht den tatsächlichen und rechtlichen Rahmen, in den sich die von ihm vorgelegten Fragen einfügen, festlegt oder zumindest die tatsächlichen Annahmen erläutert, auf denen diese Fragen beruhen (vgl. Urteil vom 10. Mai 2017, de Lobkowicz, C‑690/15, EU:C:2017:355, Rn. 28).
+
+25
+
+Außerdem sollen nach ständiger Rechtsprechung des Gerichtshofs die Angaben in den Vorlageentscheidungen nicht nur dem Gerichtshof erlauben, zweckdienliche Antworten zu geben, sondern es auch den Regierungen der Mitgliedstaaten und den anderen Beteiligten ermöglichen, gemäß Art. 23 der Satzung des Gerichtshofs der Europäischen Union Erklärungen abzugeben. Der Gerichtshof hat darauf zu achten, dass diese Möglichkeit besteht, wobei zu berücksichtigen ist, dass den Beteiligten aufgrund der genannten Vorschrift nur die Vorlageentscheidungen – zusammen mit einer Übersetzung in die Amtssprache des jeweiligen Mitgliedstaats – zugestellt werden, nicht aber die dem Gerichtshof vom vorlegenden Gericht gegebenenfalls übermittelten nationalen Verfahrensakten (Urteil vom 4. Mai 2016, Pillbox 38, C‑477/14, EU:C:2016:324, Rn. 26 und die dort angeführte Rechtsprechung).
+
+26
+
+Im vorliegenden Fall ist festzustellen, dass die Vorlageentscheidung hinsichtlich ihres Verweises auf die einschlägigen nationalen Vorschriften zwar kurzgehalten ist, es aber dennoch erlaubt, diejenigen Vorschriften zu bestimmen, die auf die Erbringung des im Ausgangsverfahren streitigen Dienstes anwendbar sein könnten und aus denen sich ergeben soll, dass hierfür der Erwerb einer Lizenz oder vorherigen behördlichen Genehmigung erforderlich ist.
+
+27
+
+Desgleichen ist die Beschreibung der von Uber erbrachten Dienstleistung durch das vorlegende Gericht, auf deren Inhalt in Rn. 16 des vorliegenden Urteils hingewiesen wird, hinreichend genau.
+
+28
+
+Schließlich hat das vorlegende Gericht im Einklang mit Art. 94 Buchst. c der Verfahrensordnung die Gründe genau dargestellt, aus denen es Zweifel bezüglich der Auslegung des Unionsrechts hat.
+
+29
+
+Folglich ist festzustellen, dass die Vorlageentscheidung die tatsächlichen und rechtlichen Angaben enthält, die es gemäß der in Rn. 25 des vorliegenden Urteils angeführten Rechtsprechung dem Gerichtshof ermöglichen, dem vorlegenden Gericht eine zweckdienliche Antwort zu geben, und den Beteiligten, sich zu den an den Gerichtshof gerichteten Fragen in zweckdienlicher Weise zu äußern.
+
+30
+
+Die polnische Regierung zweifelt außerdem an der Anwendbarkeit u. a. von Art. 56 AEUV auf die vorliegende Rechtssache, weil der Sachverhalt des Ausgangsverfahrens ein rein innerstaatlicher Sachverhalt sei.
+
+31
+
+Aus der Vorlageentscheidung, insbesondere aus den in Rn. 14 des vorliegenden Urteils angeführten Gesichtspunkten, und aus den übrigen Schriftstücken der dem Gerichtshof vorliegenden Akte geht jedoch hervor, dass der im Ausgangsverfahren streitige Dienst über eine Gesellschaft erbracht wird, die ihre Geschäftstätigkeit von einem anderen Mitgliedstaat – dem Königreich der Niederlande – aus entfaltet.
+
+32
+
+Das Vorabentscheidungsersuchen ist daher zulässig.
+
+Zu den Vorlagefragen
+
+33
+
+Mit seinen ersten beiden Fragen, die zusammen zu prüfen sind, möchte das vorlegende Gericht wissen, ob Art. 56 AEUV in Verbindung mit Art. 58 Abs. 1 AEUV sowie Art. 2 Abs. 2 Buchst. d der Richtlinie 2006/123 und Art. 1 Nr. 2 der Richtlinie 98/34, auf den Art. 2 Buchst. a der Richtlinie 2000/31 verweist, dahin auszulegen sind, dass ein Vermittlungsdienst wie der im Ausgangsverfahren in Rede stehende, der es mittels einer Smartphone-Applikation ermöglichen soll, gegen Entgelt eine Verbindung zwischen nicht berufsmäßigen Fahrern, die das eigene Fahrzeug benutzen, und Personen herzustellen, die eine Fahrt im innerstädtischen Bereich unternehmen möchten, als Verkehrsdienstleistung im Sinne von Art. 58 Abs. 1 AEUV einzustufen ist und daher vom Anwendungsbereich des Art. 56 AEUV, der Richtlinie 2006/123 und der Richtlinie 2000/31 auszuschließen ist, oder ob dieser Dienst vielmehr in den Anwendungsbereich von Art. 56 AEUV, der Richtlinie 2006/123 und der Richtlinie 2000/31 fällt.
+
+34
+
+Insoweit ist festzustellen, dass ein Vermittlungsdienst, der in der Herstellung einer Verbindung zwischen einem nicht berufsmäßigen Fahrer, der das eigene Fahrzeug benutzt, und einer Person besteht, die eine Fahrt im innerstädtischen Bereich unternehmen möchte, grundsätzlich eine Dienstleistung darstellt, die sich von der Verkehrsdienstleistung unterscheidet, die in der körperlichen Handlung der Beförderung von Personen oder Waren von einem Ort zum anderen mittels eines Fahrzeugs besteht. Ferner lässt sich jede dieser Dienstleistungen bei isolierter Betrachtung mit verschiedenen Richtlinien oder Bestimmungen des AEU‑Vertrags über den freien Dienstleistungsverkehr in Verbindung bringen, wie das vorlegende Gericht dies in Betracht zieht.
+
+35
+
+So erfüllt ein Vermittlungsdienst, der es mittels einer Smartphone‑Applikation ermöglicht, die Informationen über die Buchung der Verkehrsdienstleistung zwischen dem Passagier und dem nicht berufsmäßigen Fahrer, der die Beförderung mit seinem eigenen Fahrzeug durchführt, zu übermitteln, grundsätzlich die Kriterien, um als „Dienstleistung der Informationsgesellschaft“ im Sinne von Art. 1 Nr. 2 der Richtlinie 98/34, auf den Art. 2 Buchst. a der Richtlinie 2000/31 verweist, eingestuft zu werden. Dieser Vermittlungsdienst stellt gemäß der Definition in Art. 1 Nr. 2 der Richtlinie 98/34 eine „in der Regel gegen Entgelt elektronisch im Fernabsatz und auf individuellen Abruf eines Empfängers erbrachte Dienstleistung“ dar.
+
+36
+
+Dagegen ist ein Dienst der innerstädtischen Individualbeförderung wie beispielsweise ein Taxidienst als eine „Verkehrsdienstleistung“ im Sinne von Art. 2 Abs. 2 Buchst. d der Richtlinie 2006/123 einzustufen, wie er unter Berücksichtigung des 21. Erwägungsgrundes der Richtlinie zu verstehen ist (vgl. in diesem Sinne Urteil vom 1. Oktober 2015, Trijber und Harmsen, C‑340/14 und C‑341/14, EU:C:2015:641, Rn. 49).
+
+37
+
+Eine Dienstleistung wie die im Ausgangsverfahren in Rede stehende ist jedoch nicht nur ein Vermittlungsdienst, der darin besteht, mittels einer Smartphone‑Applikation eine Verbindung zwischen einem nicht berufsmäßigen Fahrer, der das eigene Fahrzeug benutzt, und einer Person herzustellen, die eine Fahrt im innerstädtischen Bereich unternehmen möchte.
+
+38
+
+In einer Situation wie der vom vorlegenden Gericht genannten, in der die Personenbeförderung durch nicht berufsmäßige, das eigene Fahrzeug benutzende Fahrer vorgenommen wird, gibt der Erbringer dieses Vermittlungsdienstes nämlich gleichzeitig ein Angebot über innerstädtische Verkehrsdienstleistungen ab, das er u. a. durch Software-Tools wie die im Ausgangsverfahren in Rede stehende Applikation zugänglich macht und dessen allgemeine Funktionalität für Personen, die dieses Angebot für eine innerstädtische Fahrt in Anspruch nehmen möchten, er organisiert.
+
+39
+
+Insoweit geht aus den dem Gerichtshof vorliegenden Informationen hervor, dass der Vermittlungsdienst von Uber auf der Auswahl nicht berufsmäßiger, das eigene Fahrzeug benutzender Fahrer beruht, denen diese Gesellschaft eine Applikation stellt, ohne die zum einen die Fahrer nicht Verkehrsdienstleistungen erbringen würden und zum anderen die Personen, die eine Fahrt im innerstädtischen Bereich unternehmen möchten, nicht die Dienste dieser Fahrer in Anspruch nehmen würden. Zudem übt Uber einen entscheidenden Einfluss auf die Bedingungen aus, unter denen diese Fahrer die Leistung erbringen. Dabei ist insbesondere klar ersichtlich, dass Uber durch die gleichnamige Anwendung zumindest den Höchstpreis für die Fahrt festsetzt, dass diese Gesellschaft den Preis beim Kunden erhebt und danach einen Teil davon an den nicht berufsmäßigen Fahrer des Fahrzeugs überweist und dass sie eine gewisse Kontrolle über die Qualität der Fahrzeuge und deren Fahrer sowie über deren Verhalten ausübt, die gegebenenfalls zu ihrem Ausschluss führen kann.
+
+40
+
+Dieser Vermittlungsdienst ist somit als integraler Bestandteil einer Gesamtdienstleistung, die hauptsächlich aus einer Verkehrsdienstleistung besteht, anzusehen und daher nicht als „Dienst der Informationsgesellschaft“ im Sinne von Art. 1 Nr. 2 der Richtlinie 98/34, auf den Art. 2 Buchst. a der Richtlinie 2000/31 verweist, sondern als „Verkehrsdienstleistung“ im Sinne von Art. 2 Abs. 2 Buchst. d der Richtlinie 2006/123 einzustufen.
+
+41
+
+Diese Einstufung wird im Übrigen durch die Rechtsprechung des Gerichtshofs bestätigt, wonach der Begriff „Dienstleistung im Bereich des Verkehrs“ nicht nur Verkehrsdienstleistungen als solche umfasst, sondern auch jede Dienstleistung, die naturgemäß mit einer körperlichen Handlung der Beförderung von Personen oder Waren von einem Ort zum anderen mit einem Verkehrsmittel verbunden ist (vgl. in diesem Sinne Urteil vom 15. Oktober 2015, Grupo Itevelesa u. a., C‑168/14, EU:C:2015:685, Rn. 45 und 46, sowie Gutachten 2/15 [Freihandelsabkommen mit Singapur] vom 16. Mai 2017, EU:C:2017:376, Nr. 61).
+
+42
+
+Daher ist die Richtlinie 2000/31 auf einen Vermittlungsdienst wie den im Ausgangsverfahren in Rede stehenden nicht anwendbar.
+
+43
+
+Dieser Dienst unterliegt, da er als Verkehrsdienstleistung einzustufen ist, auch nicht der Richtlinie 2006/123, weil diese Art von Dienstleistungen nach dem Wortlaut von Art. 2 Abs. 2 Buchst. d der Richtlinie zu den Dienstleistungen gehört, die vom Anwendungsbereich der Richtlinie ausdrücklich ausgenommen sind.
+
+44
+
+Außerdem fällt der im Ausgangsverfahren in Rede stehende Vermittlungsdienst aufgrund seiner Einstufung als Verkehrsdienstleistung nicht unter Art. 56 AEUV, der den freien Dienstleistungsverkehr im Allgemeinen betrifft, sondern unter die Spezialvorschrift des Art. 58 Abs. 1 AEUV, wonach „[f]ür den freien Dienstleistungsverkehr auf dem Gebiet des Verkehrs … die Bestimmungen des Titels über den Verkehr [gelten]“ (vgl. in diesem Sinne Urteil vom 22. Dezember 2010, Yellow Cab Verkehrsbetrieb, C‑338/09, EU:C:2010:814, Rn. 29 und die dort angeführte Rechtsprechung).
+
+45
+
+Daher muss die Anwendung des Grundsatzes der Dienstleistungsfreiheit nach dem AEU-Vertrag durch die Verwirklichung der gemeinsamen Verkehrspolitik erreicht werden (Urteil vom 22. Dezember 2010, Yellow Cab Verkehrsbetrieb, C‑338/09, EU:C:2010:814, Rn. 30 und die dort angeführte Rechtsprechung).
+
+46
+
+Es ist jedoch festzustellen, dass das Europäische Parlament und der Rat der Europäischen Union für Dienste der innerstädtischen Individualbeförderung und für untrennbar mit ihnen verbundene Dienste wie der im Ausgangsverfahren in Rede stehende Vermittlungsdienst keine gemeinsamen Vorschriften oder sonstigen Maßnahmen auf der Grundlage von Art. 91 Abs. 1 AEUV erlassen haben.
+
+47
+
+Folglich ist es beim gegenwärtigen Stand des Unionsrechts Sache der Mitgliedstaaten, die Bedingungen zu regeln, unter denen Vermittlungsdienste wie der im Ausgangsverfahren in Rede stehende unter Beachtung der allgemeinen Vorschriften des AEU-Vertrags erbracht werden.
+
+48
+
+Daher ist auf die ersten beiden Fragen zu antworten, dass Art. 56 AEUV in Verbindung mit Art. 58 Abs. 1 AEUV sowie Art. 2 Abs. 2 Buchst. d der Richtlinie 2006/123 und Art. 1 Nr. 2 der Richtlinie 98/34, auf den Art. 2 Buchst. a der Richtlinie 2000/31 verweist, dahin auszulegen sind, dass ein Vermittlungsdienst wie der im Ausgangsverfahren in Rede stehende, der es mittels einer Smartphone-Applikation ermöglichen soll, gegen Entgelt eine Verbindung zwischen nicht berufsmäßigen Fahrern, die das eigene Fahrzeug benutzen, und Personen herzustellen, die eine Fahrt im innerstädtischen Bereich unternehmen möchten, als mit einer Verkehrsdienstleistung untrennbar verbunden anzusehen und daher als Verkehrsdienstleistung im Sinne von Art. 58 Abs. 1 AEUV einzustufen ist. Eine solche Dienstleistung ist daher vom Anwendungsbereich des Art. 56 AEUV, der Richtlinie 2006/123 und der Richtlinie 2000/31 auszuschließen.
+
+49
+
+In Anbetracht der Antwort auf die ersten beiden Fragen sind die dritte und die vierte Frage, die für den Fall gestellt sind, dass die Richtlinie 2006/123 oder die Richtlinie 2000/31 anwendbar ist, nicht zu beantworten.
+
+Kosten
+
+50
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem bei dem vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Große Kammer) für Recht erkannt:
+
+ 	
+Art. 56 AEUV in Verbindung mit Art. 58 Abs. 1 AEUV sowie Art. 2 Abs. 2 Buchst. d der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt und Art. 1 Nr. 2 der Richtlinie 98/34/EG des Europäischen Parlaments und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft in der Fassung der Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20. Juli 1998, auf den Art. 2 Buchst. a der Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt („Richtlinie über den elektronischen Geschäftsverkehr“) verweist, sind dahin auszulegen, dass ein Vermittlungsdienst wie der im Ausgangsverfahren in Rede stehende, der es mittels einer Smartphone-Applikation ermöglichen soll, gegen Entgelt eine Verbindung zwischen nicht berufsmäßigen Fahrern, die das eigene Fahrzeug benutzen, und Personen herzustellen, die eine Fahrt im innerstädtischen Bereich unternehmen möchten, als mit einer Verkehrsdienstleistung untrennbar verbunden anzusehen und daher als Verkehrsdienstleistung im Sinne von Art. 58 Abs. 1 AEUV einzustufen ist. Eine solche Dienstleistung ist daher vom Anwendungsbereich des Art. 56 AEUV, der Richtlinie 2006/123 und der Richtlinie 2000/31 auszuschließen.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Spanisch.

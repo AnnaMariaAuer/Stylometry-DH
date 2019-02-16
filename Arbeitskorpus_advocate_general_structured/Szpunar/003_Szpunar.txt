@@ -1,0 +1,300 @@
+﻿URTEIL DES GERICHTSHOFS (Erste Kammer)
+
+22. November 2018 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Art. 56 und 63 AEUV – Freier Dienstleistungsverkehr und freier Kapitalverkehr – Kreditinstitute – Auf der Grundlage der unkonsolidierten Bilanzsumme der in Österreich niedergelassenen Kreditinstitute bestimmte Stabilitätsabgabe und Sonderbeitrag zu dieser Abgabe – Einbeziehung von grenzüberschreitenden Bankgeschäften – Ausschluss der Geschäfte von Tochtergesellschaften in einem anderen Mitgliedstaat – Unterschiedliche Behandlung – Beschränkung – Rechtfertigung“
+
+In der Rechtssache C‑625/17
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Verwaltungsgerichtshof (Österreich) mit Entscheidung vom 18. Oktober 2017, beim Gerichtshof eingegangen am 3. November 2017, in dem Verfahren
+
+Vorarlberger Landes- und Hypothekenbank AG
+
+gegen
+
+Finanzamt Feldkirch
+
+erlässt
+
+DER GERICHTSHOF (Erste Kammer)
+
+unter Mitwirkung der Vizepräsidentin R. Silva de Lapuerta in Wahrnehmung der Aufgaben des Präsidenten der Ersten Kammer sowie der Richter J.‑C. Bonichot (Berichterstatter), A. Arabadjiev, E. Regan und C. G. Fernlund,
+
+Generalanwalt: P. Mengozzi,
+
+Kanzler: A. Calot Escobar,
+
+aufgrund des schriftlichen Verfahrens,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der Vorarlberger Landes- und Hypothekenbank AG, vertreten durch Rechtsanwalt C. Nauer,
+
+–
+
+der österreichischen Regierung, vertreten durch G. Hesse als Bevollmächtigten,
+
+–
+
+der Europäischen Kommission, vertreten durch R. Lyal, N. Gossement und C. Tritz als Bevollmächtigte,
+
+aufgrund des nach Anhörung des Generalanwalts ergangenen Beschlusses, ohne Schlussanträge über die Rechtssache zu entscheiden,
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung der Art. 56 und 63 AEUV.
+
+2
+
+Es ergeht im Rahmen eines Rechtsstreits zwischen der Vorarlberger Landes- und Hypothekenbank AG (im Folgenden: Hypothekenbank) und dem Finanzamt Feldkirch (Österreich) wegen der Bescheide vom 20. Januar 2015, mit denen das Finanzamt die Stabilitätsabgabe und den Sonderbeitrag zur Stabilitätsabgabe, die von ihr zu entrichten sind, für das Jahr 2014 festgesetzt hat.
+
+Rechtlicher Rahmen
+
+3
+
+§ 1 Stabilitätsabgabegesetz (StabAbgG), das mit dem Budgetbegleitgesetz 2011 vom 30. Dezember 2010 (BGBl. I 111/2010) eingeführt wurde, bestimmt:
+
+„Der Stabilitätsabgabe unterliegt der Betrieb von Kreditinstituten. Kreditinstitute im Sinne dieses Bundesgesetzes sind solche, die über eine Konzession nach dem Bankwesengesetz (BWG), BGBl. Nr. 532/1993, verfügen, und Zweigstellen von ausländischen Kreditinstituten, die gemäß BWG berechtigt sind, Dienstleistungen im Wege einer Zweigstelle in Österreich anzubieten. …“
+
+4
+
+§ 2 StabAbgG sieht in der Fassung vor dem Bundesgesetz BGBl. I 184/2013 vor:
+
+„(1)   Bemessungsgrundlage für die Stabilitätsabgabe ist die durchschnittliche unkonsolidierte Bilanzsumme (Abs. 2) des Kreditinstitutes, vermindert um die in Abs. 2 genannten Beträge. Für die Kalenderjahre 2011, 2012 und 2013 ist die durchschnittliche unkonsolidierte Bilanzsumme jenes Geschäftsjahres zugrunde zu legen, das im Jahr 2010 endet. Ab dem darauf folgenden Kalenderjahr ist die durchschnittliche unkonsolidierte Bilanzsumme jenes Geschäftsjahres, das im Jahr vor dem Kalenderjahr endet, für das die Stabilitätsabgabe zu entrichten ist, zugrunde zu legen.
+
+…
+
+(6)   Für Kreditinstitute gemäß § 1 mit Sitz in einem anderen Mitgliedstaat …, die in Österreich im Wege einer Zweigstelle tätig sind, ist eine fiktive Bilanzsumme des dieser Zweigstelle zuzurechnenden Geschäftsvolumens nach den Bestimmungen des Abs. 1 bis 5 zu errechnen und bildet diese die Bemessungsgrundlage.“
+
+5
+
+§ 3 StabAbgG in der Fassung vor dem Bundesgesetz BGBl. I 13/2014 lautet:
+
+„Die Stabilitätsabgabe beträgt für jene Teile der Bemessungsgrundlage gemäß § 2,
+
+1.
+
+die einen Betrag von einer Milliarde Euro überschreiten und 20 Milliarden Euro nicht überschreiten, 0,055 %,
+
+2.
+
+die einen Betrag von 20 Milliarden Euro überschreiten, 0,085 %.“
+
+6
+
+§ 3 StabAbgG in der durch das Bundesgesetz BGBl. I 13/2014 geänderten Fassung bestimmt:
+
+„Die Stabilitätsabgabe beträgt für jene Teile der Bemessungsgrundlage gemäß § 2,
+
+1.
+
+die einen Betrag von einer Milliarde Euro überschreiten und 20 Milliarden Euro nicht überschreiten, 0,09%,
+
+2.
+
+die einen Betrag von 20 Milliarden Euro überschreiten, 0,11 %.“
+
+7
+
+Gemäß § 7a Abs. 1 StabAbgG ist der Sonderbeitrag zur Stabilitätsabgabe in Prozentsätzen der als Stabilitätsabgabe zu entrichtenden Beträge zu berechnen.
+
+8
+
+Gemäß § 7b Abs. 2 StabAbgG wird die Stabilitätsabgabe für das Jahr 2014 in Form einer kombinierten Anwendung der zitierten Vorschriften vor und nach den Änderungen durch die Bundesgesetze BGBl. I 184/2013 und BGBl. I 13/2014 berechnet.
+
+Ausgangsrechtsstreit und Vorlagefrage
+
+9
+
+Die Hypothekenbank ist ein Kreditinstitut mit Sitz in Österreich, das Bankdienstleistungen an Kunden erbringt, die in Österreich und in anderen Mitgliedstaaten ansässig sind. Die Bilanzsumme der Hypothekenbank resultiert zu einem nicht unwesentlichen Teil, nämlich fast einem Viertel im Jahr 2014, aus Bankgeschäften mit Kunden in anderen Mitgliedstaaten.
+
+10
+
+Mit zwei Bescheiden vom 20. Januar 2015 setzte das Finanzamt Feldkirch die von der Hypothekenbank für das Jahr 2014 zu entrichtende Stabilitätsabgabe sowie den Sonderbeitrag zur Stabilitätsabgabe nach dem StabAbgG fest. Die Beschwerde gegen diese Bescheide wurde vom Bundesfinanzgericht (Österreich) mit Erkenntnis vom 1. April 2016 abgewiesen.
+
+11
+
+Zur Stützung ihrer Revision an den Verwaltungsgerichtshof (Österreich) macht die Hypothekenbank geltend, dass sie keine Stabilitätsabgabe und keinen Sonderbeitrag zur Stabilitätsabgabe zahlen müsse, da diese Abgaben zum einen gegen die Vorschriften über staatliche Beihilfen und zum anderen gegen die Dienstleistungsfreiheit und die Kapitalverkehrsfreiheit verstießen. Insbesondere führe § 2 StabAbgG zu einer Diskriminierung, da er die unterschiedliche Behandlung von gleichartigen Vorgängen vorsehe. Während die Bankgeschäfte, die ein Kreditinstitut mit Sitz in Österreich ohne Vermittler oder über eine Zweigniederlassung in einem anderen Mitgliedstaat mit Angehörigen anderer Mitgliedstaaten tätige, zur Ermittlung der Bemessungsgrundlage der streitigen Abgaben herangezogen würden, sei dies bei gleichartigen Vorgängen, die über in einem anderen Mitgliedstaat niedergelassene Tochtergesellschaften getätigt würden, nicht der Fall.
+
+12
+
+Eine Unternehmensgruppe werde somit günstiger besteuert als ein Unternehmen, das nicht Teil einer Gruppe sei. Im Fall einer Gruppe führe nämlich das Kriterium der Nichtkonsolidierung automatisch dazu, dass die Bilanzsummen der Tochtergesellschaften mit Sitz in einem anderen Mitgliedstaat als Österreich von der Bemessungsgrundlage der in Rede stehenden Abgaben ausgeschlossen würden. Etwas anderes gelte jedoch für eine einzelne Gesellschaft, die selbst oder über eine Zweigniederlassung Dienstleistungen in einem anderen Mitgliedstaat als Österreich erbringe, da diese Dienstleistungen automatisch in der Bilanz dieser Gesellschaft und der Bemessungsgrundlage für die von ihr zu entrichtende Stabilitätsabgabe enthalten seien. Diese Situation stelle eine Diskriminierung dar, was aus dem Urteil vom 5. Februar 2014, Hervis Sport- és Divatkereskedelmi (C‑385/12, EU:C:2014:47), hervorgehe. Diese Diskriminierung sei geeignet, die Erbringung von Bankdienstleistungen in anderen Mitgliedstaaten als Österreich zu behindern. Sie hätte verhindert werden können, wenn die Bemessungsgrundlage der Stabilitätsabgabe und des Sonderbeitrags zur Stabilitätsabgabe durch Abstellen auf die konsolidierte Bilanzsumme unter Anrechnung allfälliger von Tochterunternehmen in einem anderen Mitgliedstaat zu bezahlender gleichartiger Abgaben bestimmt würde.
+
+13
+
+Nach Ansicht des Verwaltungsgerichtshofs ist nicht sicher, dass sich aus dem zur Niederlassungsfreiheit ergangenen Urteil vom 5. Februar 2014, Hervis Sport- és Divatkereskedelmi (C‑385/12, EU:C:2014:47), und aus den Urteilen vom 2. Juni 2005, Kommission/Italien (C‑174/04, EU:C:2005:350), vom 12. Dezember 2006, Test Claimants in the FII Group Litigation (C‑446/04, EU:C:2006:774), und vom 24. Mai 2007, Holböck (C‑157/05, EU:C:2007:297), zur Kapitalverkehrsfreiheit ergebe, dass das StabAbgG unionsrechtswidrig sei.
+
+14
+
+Was im Übrigen die Anwendung von Vorschriften im Bereich der staatlichen Beihilfe betrifft, weist das vorlegende Gericht darauf hin, u. a. aus dem Urteil vom 6. Oktober 2015, Finanzamt Linz (C‑66/14, EU:C:2015:661, Rn. 21), gehe hervor, dass der Schuldner einer Abgabe sich nicht darauf berufen könne, dass eine steuerliche Maßnahme zugunsten anderer Unternehmen eine staatliche Beihilfe sei, um sich selbst so der Zahlung dieser Abgabe zu entziehen. Demnach seien Vorlagefragen zu diesem Thema nicht notwendig.
+
+15
+
+Vor diesem Hintergrund hat der Verwaltungsgerichtshof beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Frage zur Vorabentscheidung vorzulegen:
+
+Widerspricht eine Regelung, die eine Abgabe von der Bilanzsumme der Kreditinstitute vorsieht, der Dienstleistungsfreiheit nach den Art. 56 ff. AEUV und/oder der Kapital- und Zahlungsverkehrsfreiheit nach Art. 63 AEUV, wenn ein Kreditinstitut mit Sitz in Österreich für Bankgeschäfte mit Kunden in der übrigen Europäischen Union zur Entrichtung der Abgabe herangezogen wird, während dies auf ein Kreditinstitut mit Sitz in Österreich, das solche Geschäfte als Gruppenspitze einer Kreditinstitutsgruppe über ein gruppenzugehöriges Kreditinstitut mit Sitz in der übrigen Europäischen Union tätigt, dessen Bilanz wegen der Gruppenzugehörigkeit mit der Bilanz des als Gruppenspitze fungierenden Kreditinstituts zu konsolidieren ist, nicht zutrifft, weil die Abgabe von der unkonsolidierten (nicht in einen Konzernabschluss einbezogenen) Bilanzsumme zu entrichten ist?
+
+Zur Vorlagefrage
+
+Vorbemerkungen
+
+16
+
+Aus der Vorlageentscheidung geht hervor, dass die Stabilitätsabgabe und der Sonderbeitrag zu dieser Abgabe, deren Rechtmäßigkeit im Ausgangsverfahren in Frage gestellt wird, Kreditinstitute mit Sitz in Österreich sowie die in diesem Mitgliedstaat ansässigen Zweigniederlassungen von ausländischen Kreditinstituten belasten. Die Bemessungsgrundlage für diese Abgaben ist die „durchschnittliche unkonsolidierte Bilanzsumme“ der in Österreich niedergelassenen Kreditinstitute und im Fall von Zweigstellen von ausländischen Gesellschaften die fiktive Bilanzsumme. Der Begriff „unkonsolidiert“ bedeutet, dass die Stabilitätsabgabe und der Sonderbeitrag zu dieser Abgabe nach der Bilanzsumme jeder einzelnen juristischen Person bestimmt werden und nicht nach der konsolidierten Bilanz einer Unternehmensgruppe.
+
+17
+
+Wie das vorlegende Gericht ausgeführt hat, spiegeln sich die Bankgeschäfte in der Bilanzsumme der Kreditinstitute wider. Daraus folgt, dass sich der zu entrichtende Betrag der im Ausgangsverfahren streitigen Abgaben nach den Bankgeschäften, die die in Österreich niedergelassenen Kreditinstitute unmittelbar oder in ihren Zweigniederlassungen tätigen, ändert. Die Bankgeschäfte der Tochtergesellschaften österreichischer Kreditinstitute mit Sitz in anderen Mitgliedstaaten werden für die Ermittlung der Bemessungsgrundlage dieser Abgaben nicht herangezogen.
+
+18
+
+Im Übrigen geht es im Ausgangsrechtsstreit nicht um die Möglichkeit der Klägerin des Ausgangsverfahrens, der Hypothekenbank, Dienstleistungen über eine Betriebsstätte in einem anderen Mitgliedstaat als Österreich anzubieten oder sich dort niederzulassen. Wie die Hypothekenbank in ihren schriftlichen Erklärungen selbst bestätigt hat, erbringt sie Dienstleistungen an ihre in anderen Mitgliedstaaten ansässige Kunden, ohne auf in diesen Staaten niedergelassene Betriebsstätten zurückzugreifen.
+
+19
+
+Mit seiner Frage möchte das vorlegende Gericht daher wissen, ob die Art. 56 und 63 AEUV dahin auszulegen sind, dass sie einer nationalen Regelung wie der im Ausgangsverfahren fraglichen entgegenstehen, soweit sie in Österreich niedergelassene Kreditinstitute, die, wie das im Ausgangsverfahren in Rede stehende, Dienstleistungen an Kunden erbringen, die in anderen Mitgliedstaaten ansässig sind, ohne auf in diesen Staaten niedergelassene Betriebsstätten zurückzugreifen, verpflichtet, eine Abgabe zu entrichten, die nach der „durchschnittlichen unkonsolidierten Bilanzsumme“ festgesetzt wird, die die von diesen Instituten unmittelbar mit Angehörigen anderer Mitgliedstaaten getätigten Bankgeschäfte erfasst, während sie gleichartige Bankgeschäfte, die von Tochtergesellschaften von in Österreich niedergelassenen Kreditinstituten getätigt werden, ausschließt, wenn diese Tochtergesellschaften ihren Sitz in anderen Mitgliedstaaten haben.
+
+Zur einschlägigen Freiheit
+
+20
+
+Da die Vorlagefrage im Hinblick sowohl auf Art. 56 AEUV als auch auf Art. 63 AEUV gestellt wird, ist zunächst festzustellen, ob und gegebenenfalls in welchem Ausmaß eine nationale Regelung wie die im Ausgangsverfahren fragliche die Ausübung der Dienstleistungsfreiheit und den freien Kapitalverkehr beeinträchtigen kann (Urteil vom 21. Juni 2018, Fidelity Funds u. a., C‑480/16, EU:C:2018:480, Rn. 32).
+
+21
+
+Im vorliegenden Fall geht aus der Vorlageentscheidung hervor, dass, da die Bankdienstleistungen an Personen erbracht werden, die in anderen Mitgliedstaaten als Österreich ansässig sind, die Kreditinstitute mit Sitz in Österreich im Hinblick auf die Stabilitätsabgabe und den Sonderbeitrag zu dieser Abgabe eine unterschiedliche Behandlung erfahren, je nachdem, ob sie solche Dienstleistungen ohne Vermittler oder über in anderen Mitgliedstaaten niedergelassene Tochtergesellschaften erbringen.
+
+22
+
+Die Hypothekenbank macht vor dem Verwaltungsgerichtshof geltend, dass diese unterschiedliche Behandlung diskriminierend und geeignet sei, zum einen die Erbringung von Bankdienstleistungen in anderen Mitgliedstaaten als Österreich und zum anderen den freien Kapitalverkehr zu behindern.
+
+23
+
+Der Gerichtshof hat in diesem Zusammenhang bereits entschieden, dass Bankgeschäfte wie die gewerbsmäßige Kreditvergabe grundsätzlich in einer Beziehung sowohl zum freien Dienstleistungsverkehr im Sinne der Art. 56 ff. AEUV als auch zum freien Kapitalverkehr im Sinne der Art. 63 ff. AEUV stehen (Urteil vom 3. Oktober 2006, Fidium Finanz, C‑452/04, EU:C:2006:631, Rn. 43).
+
+24
+
+Betrifft eine innerstaatliche Maßnahme sowohl den freien Dienstleistungsverkehr als auch die Kapitalverkehrsfreiheit, prüft der Gerichtshof diese Maßnahme grundsätzlich nur im Hinblick auf eine dieser beiden Freiheiten, wenn sich herausstellt, dass unter den Umständen des Ausgangsverfahrens eine der beiden Freiheiten der anderen gegenüber völlig zweitrangig ist und ihr zugeordnet werden kann (Urteil vom 26. Mai 2016, NN [L] International, C‑48/15, EU:C:2016:356, Rn. 39).
+
+25
+
+Es zeigt sich, dass unter den im Ausgangsverfahren gegebenen Umständen der Aspekt der Kapitalverkehrsfreiheit hinter dem der Dienstleistungsfreiheit zurücktritt. Mit ihrem Vorbringen, wie es vom vorlegenden Gericht zusammengefasst wurde, möchte die Hypothekenbank nämlich geltend machen, dass die Berücksichtigung von Bankgeschäften, die sie ohne Vermittler mit Kunden in anderen Mitgliedstaaten als Österreich tätigt, für die Festsetzung der Stabilitätsabgabe und des Sonderbeitrags zur Stabilitätsabgabe die Kosten dieser Geschäfte erhöht und die grenzüberschreitende Tätigkeit somit weniger attraktiv macht. Diese Folge betrifft überwiegend den freien Dienstleistungsverkehr, während die Auswirkungen auf die Kapitalverkehrsfreiheit nur die unvermeidliche Folge davon sind.
+
+26
+
+Demnach ist die vorgelegte Frage nicht im Hinblick auf die Art. 63 ff. AEUV über die Kapitalverkehrsfreiheit zu prüfen, sondern im Hinblick auf die Art. 56 ff. AEUV über die Dienstleistungsfreiheit.
+
+Zum Vorliegen einer Beschränkung des freien Dienstleistungsverkehrs
+
+27
+
+Es ist festzustellen, dass die Stabilitätsabgabe und der Sonderbeitrag zu dieser Abgabe unabhängig davon, ob es sich dabei um eine direkte oder eine indirekte Steuer handelt, nicht unionsweit harmonisiert worden sind und daher in die Zuständigkeit der Mitgliedstaaten fallen, die nach ständiger Rechtsprechung des Gerichtshofs diese Zuständigkeit unter Wahrung des Unionsrechts ausüben müssen (Urteil vom 1. Dezember 2011, Kommission/Ungarn, C‑253/09, EU:C:2011:795, Rn. 42).
+
+28
+
+Art. 56 AEUV steht der Anwendung jeder nationalen Regelung entgegen, die die Erbringung von Dienstleistungen zwischen Mitgliedstaaten gegenüber der Erbringung von Dienstleistungen allein innerhalb eines Mitgliedstaats erschwert. Art. 56 AEUV verlangt nämlich nach der Rechtsprechung des Gerichtshofs die Aufhebung aller Beschränkungen des freien Dienstleistungsverkehrs, die darauf beruhen, dass der Dienstleistungserbringer in einem anderen Mitgliedstaat als demjenigen niedergelassen ist, in dem die Leistung erbracht wird (Urteil vom 25. Juli 2018, TTL, C‑553/16, EU:C:2018:604, Rn. 45 und die dort angeführte Rechtsprechung).
+
+29
+
+Beschränkungen des freien Dienstleistungsverkehrs sind solche nationalen Maßnahmen, die die Ausübung dieser Freiheit verbieten, behindern oder weniger attraktiv machen (Urteil vom 25. Juli 2018, TTL, C‑553/16, EU:C:2018:604, Rn. 46 und die dort angeführte Rechtsprechung).
+
+30
+
+Die in Art. 56 AEUV den Angehörigen der Mitgliedstaaten gewährte Dienstleistungsfreiheit schließt die „passive“ Dienstleistungsfreiheit ein, d. h. die Freiheit der Dienstleistungsempfänger, sich zur Inanspruchnahme einer Dienstleistung in einen anderen Mitgliedstaat zu begeben, ohne durch Beschränkungen daran gehindert zu werden (Urteil vom 9. März 2017, Piringer, C‑342/15, EU:C:2017:196, Rn. 35).
+
+31
+
+In diesem Zusammenhang ist festzustellen, dass die Stabilitätsabgabe und der Sonderbeitrag zu dieser Abgabe keineswegs nach der Herkunft der Kunden oder dem Ort der Leistungserbringung differenzieren. Zur Ermittlung der Bemessungsgrundlage für diese Abgaben nach der durchschnittlichen unkonsolidierten Bilanzsumme der in Österreich ansässigen Kreditinstitute werden nämlich alle Bankgeschäfte herangezogen, die ein solches Institut ohne Vermittler in Österreich oder in einem anderen Mitgliedstaat tätigt.
+
+32
+
+Außerdem kann die Tatsache allein, dass diese Abgaben geeignet sind, die Kosten der Bankgeschäfte zu erhöhen, kein Hindernis für den freien Dienstleistungsverkehr darstellen. Wie der Gerichtshof festgestellt hat, werden Maßnahmen, deren einzige Wirkung es ist, zusätzliche Kosten für die betreffende Leistung zu verursachen, und die die Erbringung von Dienstleistungen zwischen Mitgliedstaaten in gleicher Weise wie ihre Erbringung innerhalb eines einzigen Mitgliedstaats berühren, von Art. 56 AEUV nicht erfasst (Urteile vom 8. September 2005, Mobistar und Belgacom Mobile, C‑544/03 und C‑545/03, EU:C:2005:518, Rn. 31, und vom 11. Juni 2015, Berlington Hungary u. a., C‑98/14, EU:C:2015:386, Rn. 36).
+
+33
+
+Was die Behauptung angeht, es liege eine Diskriminierung der in Österreich niedergelassenen Bankinstitute, die ohne Vermittler Bankgeschäfte in einem anderen Mitgliedstaat tätigen, im Vergleich zu den Bankinstituten vor, die solche Dienstleistungen über unabhängige Tochtergesellschaften mit Sitz in diesem Mitgliedstaat erbringen, ist festzustellen, dass Letztere sich dafür entschieden haben, die Niederlassungsfreiheit auszuüben, die ihnen durch die Art. 49 und 54 AEUV gewährt wird, während Erstere nur in Österreich niedergelassen sind und grenzüberschreitende Dienstleistungen erbringen, die unter die durch Art. 56 AEUV gewährleistete Dienstleistungsfreiheit fallen.
+
+34
+
+In diesem Zusammenhang hat der Gerichtshof bereits festgestellt, dass der jeweilige Geltungsbereich des freien Dienstleistungsverkehrs und der Niederlassungsfreiheit abgegrenzt werden müssen. Dazu ist zu bestimmen, ob der Wirtschaftsteilnehmer in dem Mitgliedstaat, in dem er die in Rede stehende Dienstleistung anbietet, niedergelassen ist oder nicht. Ist er in dem Mitgliedstaat, in dem er diese Dienstleistung anbietet, niedergelassen, so fällt er in den Geltungsbereich der Niederlassungsfreiheit, wie er in Art. 49 AEUV definiert ist. Ist der Wirtschaftsteilnehmer dagegen nicht im Empfängermitgliedstaat niedergelassen, so ist er ein grenzüberschreitender Dienstleister, der unter den Grundsatz des freien Dienstleistungsverkehrs fällt (vgl. in diesem Sinne Urteile vom 11. Dezember 2003, Schnitzer, C‑215/01, EU:C:2003:662, Rn. 28 und 29, sowie vom 10. Mai 2012, Duomo Gpa u. a., C‑357/10 bis C‑359/10, EU:C:2012:283, Rn. 30).
+
+35
+
+Der Begriff der „Niederlassung“ im Sinne der Bestimmungen des AEU-Vertrags über die Niederlassungsfreiheit impliziert nämlich die tatsächliche Ausübung einer wirtschaftlichen Tätigkeit mittels einer festen Einrichtung im Aufnahmemitgliedstaat auf unbestimmte Zeit. Daher setzt er eine tatsächliche Ansiedlung der betreffenden Gesellschaft und die Ausübung einer wirklichen wirtschaftlichen Tätigkeit in diesem Mitgliedstaat voraus (Urteil vom 12. September 2006, Cadbury Schweppes und Cadbury Schweppes Overseas, C‑196/04, EU:C:2006:544, Rn. 54).
+
+36
+
+Dagegen sehen die Vorschriften des Kapitels über die Dienstleistungen, insbesondere Art. 57 Abs. 3 AEUV, für den Fall, dass sich der Erbringer einer Dienstleistung in einen anderen Mitgliedstaat als den seiner Niederlassung begibt, vor, dass er seine Tätigkeit dort vorübergehend ausübt (Urteile vom 30. November 1995, Gebhard, C‑55/94, EU:C:1995:411, Rn. 26, und vom 11. Dezember 2003, Schnitzer, C‑215/01, EU:C:2003:662, Rn. 27).
+
+37
+
+Unter diesen Umständen steht es den Mitgliedstaaten frei, diese Unterschiede zu berücksichtigen und somit die Tätigkeiten von Personen und Unternehmen, die unter die Niederlassungsfreiheit oder den freien Dienstleistungsverkehr fallen und in der Regel verschiedene rechtliche und wirtschaftliche Folgen nach sich ziehen, für steuerliche Zwecke unterschiedlich zu behandeln.
+
+38
+
+Daraus folgt, dass eine nationale Regelung wie die im Ausgangsverfahren streitige nicht geeignet ist, die Ausübung der Dienstleistungsfreiheit zu behindern oder weniger attraktiv zu machen.
+
+39
+
+Was die Zweifel angeht, die das vorlegende Gericht im Hinblick auf die Relevanz des Urteils vom 5. Februar 2014, Hervis Sport- és Divatkereskedelmi (C‑385/12, EU:C:2014:47), das die Klägerin des Ausgangsverfahrens vor ihm geltend gemacht hat, geäußert hat, ist darauf hinzuweisen, dass der Gerichtshof in den Rn. 37 bis 41 jenes Urteils sowie in Rn. 23 des Urteils vom 26. April 2018, ANGED (C‑234/16 und C‑235/16, EU:C:2018:281), entschieden hat, dass eine Pflichtabgabe, die an ein scheinbar objektives Unterscheidungskriterium anknüpft, aber aufgrund ihrer Merkmale in den meisten Fällen die Gesellschaften benachteiligt, die ihren Sitz in anderen Mitgliedstaaten haben und sich in einer vergleichbaren Situation wie die Gesellschaften befinden, die ihren Sitz in dem die Abgabe erhebenden Mitgliedstaat haben, eine nach den Art. 49 und 54 AEUV verbotene mittelbare Diskriminierung aufgrund des Sitzes der Gesellschaften ist.
+
+40
+
+Wie jedoch aus den Rn. 18 und 26 des vorliegenden Urteils hervorgeht, kann die Hypothekenbank im Ausgangsrechtsstreit keine Verletzung der Vorschriften des AEU-Vertrags über die Niederlassungsfreiheit geltend machen.
+
+41
+
+Im Rahmen des Verfahrens nach Art. 267 AEUV ist es im Übrigen allein Sache des vorlegenden Gerichts, den rechtlichen Rahmen festzulegen, in den sich seine dem Gerichtshof vorgelegten Fragen einfügen (Urteil vom 10. Juli 2018, Jehovan todistajat, C‑25/17, EU:C:2018:551, Rn. 28).
+
+42
+
+Die Hypothekenbank trägt in ihren dem Gerichtshof übermittelten schriftlichen Erklärungen zwar vor, dass die Regionalkreditinstitute, die in Österreich nahe der österreichischen Staatsgrenze niedergelassen sind, öfter grenzüberschreitende Dienstleistungen erbrächten als andere in diesem Mitgliedstaat niedergelassene Regionalkreditinstitute, so dass die Stabilitätsabgabe und der Sonderbeitrag zu dieser Abgabe überwiegend erstere Institute beträfen. Diese Situation stelle eine Diskriminierung dar, die mit derjenigen im Urteil vom 5. Februar 2014, Hervis Sport- és Divatkereskedelmi (C‑385/12, EU:C:2014:47), vergleichbar sei. Die von der Hypothekenbank vorgelegten Angaben über den Bankensektor in Österreich erlauben jedoch keineswegs, die Begründetheit ihrer Behauptungen zu überprüfen. Auf diese Sachverhaltselemente ist das vorlegende Gericht jedenfalls nicht eingegangen.
+
+43
+
+Da demnach nicht nachgewiesen ist, dass die im Ausgangsverfahren in Rede stehende Regelung eine Situation schaffen kann, die mit derjenigen der Rechtssache vergleichbar ist, in der das Urteil vom 5. Februar 2014, Hervis Sport- és Divatkereskedelmi (C‑385/12, EU:C:2014:47), ergangen ist, ist die analoge Anwendbarkeit im Bereich der Dienstleistungsfreiheit der in Rn. 39 des vorliegenden Urteils angeführten Rechtsprechung nicht zu prüfen.
+
+44
+
+Nach alledem ist auf die Vorlagefrage zu antworten, dass Art. 56 AEUV dahin auszulegen ist, dass er einer nationalen Regelung wie der im Ausgangsverfahren fraglichen nicht entgegensteht, soweit sie in Österreich niedergelassene Kreditinstitute, die, wie das im Ausgangsverfahren in Rede stehende, Dienstleistungen an Kunden erbringen, die in anderen Mitgliedstaaten ansässig sind, ohne auf in diesen Staaten niedergelassene Betriebsstätten zurückzugreifen, verpflichtet, eine Abgabe zu entrichten, die nach der „durchschnittlichen unkonsolidierten Bilanzsumme“ festgesetzt wird, die die von diesen Instituten unmittelbar mit Angehörigen anderer Mitgliedstaaten getätigten Bankgeschäfte erfasst, während sie gleichartige Bankgeschäfte, die von Tochtergesellschaften von in Österreich niedergelassenen Kreditinstituten getätigt werden, ausschließt, wenn diese Tochtergesellschaften ihren Sitz in anderen Mitgliedstaaten haben.
+
+Kosten
+
+45
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Erste Kammer) für Recht erkannt:
+
+ 	
+Art. 56 AEUV ist dahin auszulegen, dass er einer nationalen Regelung wie der im Ausgangsverfahren fraglichen nicht entgegensteht, soweit sie in Österreich niedergelassene Kreditinstitute, die, wie das im Ausgangsverfahren in Rede stehende, Dienstleistungen an Kunden erbringen, die in anderen Mitgliedstaaten ansässig sind, ohne auf in diesen Staaten niedergelassene Betriebsstätten zurückzugreifen, verpflichtet, eine Abgabe zu entrichten, die nach der „durchschnittlichen unkonsolidierten Bilanzsumme“ festgesetzt wird, die die von diesen Instituten unmittelbar mit Angehörigen anderer Mitgliedstaaten getätigten Bankgeschäfte erfasst, während sie gleichartige Bankgeschäfte, die von Tochtergesellschaften von in Österreich niedergelassenen Kreditinstituten getätigt werden, ausschließt, wenn diese Tochtergesellschaften ihren Sitz in anderen Mitgliedstaaten haben.
+
+ 	
+Silva de Lapuerta
+
+Bonichot
+
+Arabadjiev
+
+Regan
+
+Fernlund
+
+Verkündet in öffentlicher Sitzung in Luxemburg am 22. November 2018.
+
+Der Kanzler
+
+A. Calot Escobar
+
+Der Präsident
+
+K. Lenaerts
+
+( *1 )	Verfahrenssprache: Deutsch.

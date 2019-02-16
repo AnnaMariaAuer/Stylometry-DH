@@ -1,0 +1,298 @@
+URTEIL DES GERICHTSHOFS (Vierte Kammer)
+
+19. April 2018 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Selbständige Handelsvertreter – Richtlinie 86/653/EWG – Ausgleichsanspruch und Schadensersatzanspruch des Handelsvertreters nach Beendigung des Handelsvertretervertrags – Art. 17 – Ausschluss des Ausgleichsanspruchs bei Kündigung des Vertrags während der darin festgelegten Probezeit“
+
+In der Rechtssache C‑645/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht von der Cour de cassation (Kassationsgerichtshof, Frankreich) mit Entscheidung vom 6. Dezember 2016, beim Gerichtshof eingegangen am 15. Dezember 2016, in dem Verfahren
+
+Conseils et mise en relations (CMR) SARL
+
+gegen
+
+Demeures terre et tradition SARL
+
+erlässt
+
+DER GERICHTSHOF (Vierte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten T. von Danwitz, der Richter C. Vajda und E. Juhász, der Richterin K. Jürimäe (Berichterstatterin) sowie des Richters C. Lycourgos,
+
+Generalanwalt: M. Szpunar,
+
+Kanzler: A. Calot Escobar,
+
+aufgrund des schriftlichen Verfahrens,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der Demeures terre et tradition SARL, vertreten durch F. Molinié, avocat,
+
+–
+
+der französischen Regierung, vertreten durch D. Colas und R. Coesme als Bevollmächtigte,
+
+–
+
+der deutschen Regierung, vertreten durch T. Henze und M. Hellmann als Bevollmächtigte,
+
+–
+
+der Europäischen Kommission, vertreten durch J. Hottiaux und H. Tserepa-Lacombe als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 25. Oktober 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 17 der Richtlinie 86/653/EWG des Rates vom 18. Dezember 1986 zur Koordinierung der Rechtsvorschriften der Mitgliedstaaten betreffend die selbständigen Handelsvertreter (ABl. 1986, L 382, S. 17).
+
+2
+
+Dieses Ersuchen ergeht im Rahmen eines Rechtsstreits zwischen der Conseils et mise en relations (CMR) SARL und der Demeures terre et tradition SARL (im Folgenden: DTT) wegen einer Klage von CMR auf Zahlung eines Ausgleichs zum Ersatz des mit der Beendigung ihres Handelsvertretervertrags mit DTT verbundenen Schadens und auf Ersatz des ihr durch die rechtsmissbräuchliche Auflösung dieses Vertrags entstandenen Schadens.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+3
+
+Die Erwägungsgründe 2 und 3 der Richtlinie 86/653 lauten:
+
+„Die Unterschiede zwischen den einzelstaatlichen Rechtsvorschriften auf dem Gebiet der Handelsvertretungen beeinflussen die Wettbewerbsbedingungen und die Berufsausübung innerhalb der [Europäischen Union] spürbar und beeinträchtigen den Umfang des Schutzes der Handelsvertreter in ihren Beziehungen zu ihren Unternehmen sowie die Sicherheit im Handelsverkehr. Diese Unterschiede erschweren im Übrigen auch erheblich den Abschluss und die Durchführung von Handelsvertreterverträgen zwischen einem Unternehmer und einem Handelsvertreter, die in verschiedenen Mitgliedstaaten niedergelassen sind.
+
+Der Warenaustausch zwischen den Mitgliedstaaten muss unter Bedingungen erfolgen, die denen eines Binnenmarktes entsprechen, weswegen die Rechtsordnungen der Mitgliedstaaten in dem zum guten Funktionieren des Gemeinsamen Marktes erforderlichen Umfang angeglichen werden müssen. Selbst vereinheitlichte Kollisionsnormen auf dem Gebiet der Handelsvertretung können die erwähnten Nachteile nicht beseitigen und lassen daher einen Verzicht auf die vorgeschlagene Harmonisierung nicht zu.“
+
+4
+
+Art. 1 der Richtlinie bestimmt:
+
+„(1)   Die durch diese Richtlinie vorgeschriebenen Harmonisierungsmaßnahmen gelten für die Rechts- und Verwaltungsvorschriften der Mitgliedstaaten, die die Rechtsbeziehungen zwischen Handelsvertretern und ihren Unternehmern regeln.
+
+(2)   Handelsvertreter im Sinne dieser Richtlinie ist, wer als selbständiger Gewerbetreibender ständig damit betraut ist, für eine andere Person (im folgenden Unternehmer genannt) den Verkauf oder den Ankauf von Waren zu vermitteln oder diese Geschäfte im Namen und für Rechnung des Unternehmers abzuschließen.
+
+…“
+
+5
+
+Art. 17 Abs. 1 bis 3 der Richtlinie sieht vor:
+
+„(1)   Die Mitgliedstaaten treffen die erforderlichen Maßnahmen dafür, dass der Handelsvertreter nach Beendigung des Vertragsverhältnisses Anspruch auf Ausgleich nach Absatz 2 oder Schadensersatz nach Absatz 3 hat.
+
+a)
+
+Der Handelsvertreter hat Anspruch auf einen Ausgleich, wenn und soweit
+
+–
+
+er für den Unternehmer neue Kunden geworben oder die Geschäftsverbindungen mit vorhandenen Kunden wesentlich erweitert hat und der Unternehmer aus den Geschäften mit diesen Kunden noch erhebliche Vorteile zieht und
+
+–
+
+die Zahlung eines solchen Ausgleichs unter Berücksichtigung aller Umstände, insbesondere der dem Handelsvertreter aus Geschäften mit diesen Kunden entgehenden Provisionen, der Billigkeit entspricht. …
+
+b)
+
+Der Ausgleich darf einen Betrag nicht überschreiten, der einem jährlichen Ausgleich entspricht, der aus dem Jahresdurchschnittsbetrag der Vergütungen, die der Handelsvertreter während der letzten fünf Jahre erhalten hat, errechnet wird; ist der Vertrag vor weniger als fünf Jahren geschlossen worden, wird der Ausgleich nach dem Durchschnittsbetrag des entsprechenden Zeitraums ermittelt.
+
+c)
+
+Die Gewährung dieses Ausgleichs schließt nicht das Recht des Handelsvertreters aus, Schadensersatzansprüche geltend zu machen.
+
+(3)   Der Handelsvertreter hat Anspruch auf Ersatz des ihm durch die Beendigung des Vertragsverhältnisses mit dem Unternehmer entstandenen Schadens.
+
+Dieser Schaden umfasst insbesondere
+
+–
+
+den Verlust von Ansprüchen auf Provision, die dem Handelsvertreter bei normaler Fortsetzung des Vertrages zugestanden hätten und deren Nichtzahlung dem Unternehmer einen wesentlichen Vorteil aus der Tätigkeit des Handelsvertreters verschaffen würde, und/oder
+
+–
+
+Nachteile, die sich aus der nicht erfolgten Amortisation von Kosten und Aufwendungen ergeben, die der Handelsvertreter in Ausführung des Vertrages auf Empfehlung des Unternehmers gemacht hatte.“
+
+6
+
+Art. 18 der Richtlinie lautet:
+
+„Der Anspruch auf Ausgleich oder Schadensersatz nach Artikel 17 besteht nicht,
+
+a)
+
+wenn der Unternehmer den Vertrag wegen eines schuldhaften Verhaltens des Handelsvertreters beendet hat, das aufgrund der einzelstaatlichen Rechtsvorschriften eine fristlose Beendigung des Vertrages rechtfertigt;
+
+b)
+
+wenn der Handelsvertreter das Vertragsverhältnis beendet hat, es sei denn, diese Beendigung ist aus Umständen, die dem Unternehmer zuzurechnen sind, oder durch Alter, Gebrechen oder Krankheit des Handelsvertreters, derentwegen ihm eine Fortsetzung seiner Tätigkeit billigerweise nicht zugemutet werden kann, gerechtfertigt;
+
+c)
+
+wenn der Handelsvertreter gemäß einer Vereinbarung mit dem Unternehmer die Rechte und Pflichten, die er nach dem Vertrag besitzt, an einen Dritten abtritt.“
+
+7
+
+Art. 19 der Richtlinie bestimmt:
+
+„Die Parteien können vor Ablauf des Vertrages keine Vereinbarungen treffen, die von [den] Artikel[n] 17 und 18 zum Nachteil des Handelsvertreters abweichen“.
+
+Französisches Recht
+
+8
+
+Art. L. 134-12 des Code de commerce (Handelsgesetzbuch) sieht vor:
+
+„Im Fall der Beendigung der Vertragsbeziehungen mit dem Auftraggeber hat der Handelsvertreter einen Anspruch auf Ausgleich zum Ersatz des erlittenen Schadens.
+
+Der Handelsvertreter verliert den Schadensersatzanspruch, wenn er dem Auftraggeber nicht innerhalb eines Jahres nach Beendigung des Vertragsverhältnisses mitgeteilt hat, dass er seine Rechte geltend macht.
+
+Die Rechtsnachfolger des Handelsvertreters haben ebenfalls einen Anspruch auf Schadensersatz, wenn die Beendigung des Vertragsverhältnisses auf dem Tod des Vertreters beruht.“
+
+Ausgangsrechtsstreit und Vorlagefrage
+
+9
+
+Am 2. Dezember 2011 schloss DTT mit CMR einen Handelsvertretervertrag über den Verkauf von Einfamilienhäusern. Gemäß diesem Vertrag war DTT Auftraggeber und CMR Auftragnehmer. Der Vertrag sah eine Probezeit von zwölf Monaten vor, nach deren Ablauf er unbefristet gelten sollte, wobei jede Partei während der Probezeit das Recht hatte, den Vertrag im ersten Monat mit einer Frist von 15 Tagen und danach mit einer Frist von einem Monat zu kündigen. Im Handelsvertretervertrag wurden als Ziel 25 Verkäufe pro Jahr festgelegt.
+
+10
+
+Mit Schreiben vom 12. Juni 2012 teilte DTT CMR mit, dass sie den Vertrag nach Ablauf der vertraglichen Frist von einem Monat beenden wolle. Sie begründete dies mit der Nichterfüllung des vertraglich vereinbarten Ziels, da CMR innerhalb von fünf Monaten nur einen einzigen Verkauf getätigt habe.
+
+11
+
+Mit Schriftsatz vom 20. März 2013 erhob CMR gegen DTT vor dem Tribunal de commerce d’Orléans (Handelsgericht Orléans, Frankreich) Klage auf Zahlung eines Ausgleichs zum Ersatz des mit der Beendigung des Handelsvertretervertrags verbundenen Schadens und auf Zahlung von Schadensersatz wegen rechtsmissbräuchlicher Vertragsauflösung. Mit Urteil vom 30. Januar 2014 gab dieses Gericht den Anträgen von CMR teilweise statt.
+
+12
+
+Am 14. Februar 2014 legte DTT gegen dieses Urteil Berufung ein. Mit Urteil vom 18. Dezember 2014 hob die Cour d’appel d’Orléans (Berufungsgericht Orléans, Frankreich) das angefochtene Urteil teilweise auf. Sie verneinte insbesondere für den Fall der Beendigung des Handelsvertretervertrags während der Probezeit einen Anspruch auf den in Art. L. 134‑12 des Code de commerce vorgesehenen Ausgleich. Ferner sei die Kündigung des zwischen DTT und CMR geschlossenen Vertrags nicht rechtsmissbräuchlich, da innerhalb von fünf Monaten nur ein einziger Verkauf getätigt worden sei, obwohl das vertraglich festgelegte Ziel 25 Verkäufe pro Jahr gewesen seien.
+
+13
+
+Die mit der Kassationsbeschwerde von CMR gegen dieses Urteil befasste Cour de cassation (Kassationsgerichtshof, Frankreich) hat erstens ausgeführt, die Cour d’appel d’Orléans (Berufungsgericht Orléans) sei mit ihrem Urteil einer ständigen Rechtsprechung der Kammer für Handels-, Finanz- und Wirtschaftssachen der Cour de cassation gefolgt, wonach der Ausgleichsanspruch ausnahmsweise nicht bestehe, wenn der Handelsvertretervertrag während der Probezeit beendet werde. Zweitens nehme die Richtlinie 86/653 nicht auf eine etwaige Probezeit Bezug, so dass eine solche Frist offenbar von den Parteien eines Handelsvertretervertrags vereinbart werden könne, ohne dass dies einen Verstoß gegen das Unionsrecht darstelle. Drittens solle die Richtlinie 86/653 nach der Rechtsprechung des Gerichtshofs die Interessen des Handelsvertreters gegenüber dem Unternehmer schützen, so dass ihr Art. 17 Abs. 2 in einem Sinne auszulegen sei, der zu diesem Schutz beitrage.
+
+14
+
+Unter diesen Umständen hat die Cour de cassation (Kassationsgerichtshof) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Frage zur Vorabentscheidung vorzulegen:
+
+Ist Art. 17 der Richtlinie 86/653 anwendbar, wenn die Beendigung des Handelsvertretervertrags während der in ihm festgelegten Probezeit eintritt?
+
+Zur Vorlagefrage
+
+15
+
+Mit seiner Frage möchte das vorlegende Gericht wissen, ob Art. 17 der Richtlinie 86/653 dahin auszulegen ist, dass die in seinen Abs. 2 und 3 vorgesehene Ausgleichs- und Schadensersatzregelung im Fall der Beendigung des Handelsvertretervertrags anwendbar ist, wenn die Beendigung während der in diesem Vertrag festgelegten Probezeit eintritt.
+
+16
+
+Zunächst ist die Frage zu erörtern, ob die Richtlinie 86/653 der Vereinbarung einer Probezeit in einem Handelsvertretervertrag entgegensteht.
+
+17
+
+Wie der Generalanwalt in Nr. 34 seiner Schlussanträge ausgeführt hat, enthält die Richtlinie keine Bezugnahme auf den Begriff „Probezeit“. Da die Vereinbarung einer Probezeit in keiner Bestimmung der Richtlinie geregelt ist, ist davon auszugehen, dass eine solche Vereinbarung, die unter die Vertragsfreiheit der Parteien des Handelsvertretervertrags fällt, nach der Richtlinie nicht per se verboten ist.
+
+18
+
+Im vorliegenden Fall geht aus der Vorlageentscheidung hervor, dass die Kammer für Handels-, Finanz- und Wirtschaftssachen der Cour de cassation entschieden hat, dass der Handelsvertreter keinen Ausgleichsanspruch habe, wenn die Beendigung des Handelsvertretervertrags während der Probezeit eintrete.
+
+19
+
+Insoweit ist darauf hinzuweisen, dass Art. 288 Abs. 3 AEUV lautet: „Die Richtlinie ist für jeden Mitgliedstaat, an den sie gerichtet wird, hinsichtlich des zu erreichenden Ziels verbindlich, überlässt jedoch den innerstaatlichen Stellen die Wahl der Form und der Mittel.“
+
+20
+
+Wie der Generalanwalt in Nr. 34 seiner Schlussanträge ebenfalls hervorgehoben hat, steht die Richtlinie 86/653 zwar der Vereinbarung einer Probezeit in einem Handelsvertretervertrag nicht entgegen, doch dürfen einer solchen Probezeit nach innerstaatlichem Recht keine Rechtswirkungen zukommen, durch die die volle Wirksamkeit der Richtlinie beeinträchtigt werden kann.
+
+21
+
+Im Licht der vorstehenden Erwägungen ist zu prüfen, ob die Vereinbarung einer Probezeit in einem Handelsvertretervertrag der Anwendung der in den Abs. 2 und 3 von Art. 17 der Richtlinie 86/653 vorgesehenen Ausgleichs- und Schadensersatzregelung im Fall der Beendigung des Vertrags während der Probezeit entgegensteht.
+
+22
+
+Nach ständiger Rechtsprechung des Gerichtshofs sind bei der Bestimmung der Tragweite einer Vorschrift des Unionsrechts – hier von Art. 17 der Richtlinie 86/653 – sowohl ihr Wortlaut als auch ihr Zusammenhang und ihre Ziele zu berücksichtigen (Urteil vom 16. April 2015, Angerer,C‑477/13, EU:C:2015:239, Rn. 26 und die dort angeführte Rechtsprechung).
+
+23
+
+Zum Wortlaut von Art. 17 der Richtlinie 86/653 ist erstens festzustellen, dass nach dessen Abs. 1 die Mitgliedstaaten die erforderlichen Maßnahmen dafür treffen, dass der Handelsvertreter nach „Beendigung des Vertragsverhältnisses“ Anspruch auf Ausgleich oder Schadensersatz hat. Nach Art. 17 Abs. 3 der Richtlinie hat der Handelsvertreter ferner Anspruch auf Ersatz des ihm durch die „Beendigung des Vertragsverhältnisses mit dem Unternehmer“ entstandenen Schadens. Der Anspruch des Handelsvertreters auf Ausgleich oder auf Schadensersatz hängt somit von der Beendigung seines Vertragsverhältnisses mit dem Unternehmer ab.
+
+24
+
+Die Vereinbarung einer Probezeit soll zwar, wie der Generalanwalt in Nr. 38 seiner Schlussanträge ausgeführt hat, die Kündigung eines Handelsvertretervertrags erleichtern; gleichwohl handelt es sich bei der Kündigung eines solchen Vertrags während der darin festgelegten Probezeit um eine „Beendigung des Vertragsverhältnisses“ oder eine „Beendigung des Vertragsverhältnisses [des Handelsvertreters] mit dem Unternehmer“ im Sinne von Art. 17 Abs. 1 und 3 der Richtlinie 86/653.
+
+25
+
+Insoweit ergibt sich aus den vor dem Gerichtshof abgegebenen Erklärungen, dass die in Rn. 18 des vorliegenden Urteils angeführte Rechtsprechung der Cour de cassation, wonach der Handelsvertreter keinen Ausgleichsanspruch hat, wenn die Beendigung des Handelsvertretervertrags während der Probezeit eintritt, auf der Erwägung beruht, dass der Handelsvertretervertrag während dieser Zeit noch nicht endgültig abgeschlossen ist.
+
+26
+
+Diese Auslegung findet in der Richtlinie 86/653 keine Grundlage. Vielmehr besteht, wie der Generalanwalt in Nr. 39 seiner Schlussanträge ausgeführt hat, eine Rechtsbeziehung zwischen einem Handelsvertreter und einem Unternehmer im Sinne von Art. 1 der Richtlinie 86/653 ab dem Zeitpunkt, zu dem ein Vertrag über die Vermittlung des Verkaufs oder des Ankaufs von Waren oder den Abschluss dieser Geschäfte für Rechnung des Unternehmers abgeschlossen wurde, unabhängig davon, ob dieser Vertrag eine Probezeit enthält. Folglich sind die Vorschriften der Richtlinie anwendbar, sobald ein solcher Vertrag zwischen dem Unternehmer und dem Handelsvertreter abgeschlossen worden ist, auch wenn er eine Probezeit vorsehen sollte.
+
+27
+
+Zweitens besteht nach Art. 17 Abs. 2 Buchst. a der Richtlinie 86/653 u. a. dann ein Ausgleichsanspruch, wenn der Handelsvertreter für den Unternehmer neue Kunden geworben oder die Geschäftsverbindungen mit vorhandenen Kunden wesentlich erweitert hat und der Unternehmer aus den Geschäften mit diesen Kunden noch erhebliche Vorteile zieht. Außerdem hängt die Höhe des Ausgleichs nach Art. 17 Abs. 2 Buchst. b der Richtlinie von der Leistung des Handelsvertreters während der Vertragsdauer ab. Darüber hinaus hat der Handelsvertreter gemäß Art. 17 Abs. 3 der Richtlinie Anspruch auf Ersatz des ihm durch die Beendigung des Vertragsverhältnisses entstandenen Schadens, der insbesondere den Verlust von Ansprüchen auf Provision, die dem Handelsvertreter bei Fortsetzung des Vertrags zugestanden hätten und deren Nichtzahlung dem Unternehmer einen wesentlichen Vorteil aus der Tätigkeit des Handelsvertreters verschaffen würde, und/oder Nachteile umfasst, die sich aus der nicht erfolgten Amortisation von Kosten und Aufwendungen ergeben, die der Handelsvertreter in Ausführung des Vertrags auf Empfehlung des Unternehmers gemacht hatte.
+
+28
+
+Wie der Generalanwalt in den Nrn. 26 und 50 seiner Schlussanträge ausgeführt hat, ergibt sich somit aus dem Wortlaut von Art. 17 Abs. 2 und 3 der Richtlinie 86/653, dass die dort vorgesehene Ausgleichs- und Schadensersatzregelung keine Sanktion für die Vertragsauflösung sein, sondern den Handelsvertreter für die von ihm erbrachten Leistungen, aus denen der Unternehmer über die Beendigung des Vertragsverhältnisses hinaus Vorteile zieht, oder für die Kosten und Aufwendungen, die ihm für diese Leistungen entstanden sind, entschädigen soll. Daher darf der Ausgleich oder Schadensersatz, wenn die in Art. 17 Abs. 2 und 3 genannten Voraussetzungen erfüllt sind, dem Handelsvertreter nicht allein deshalb versagt werden, weil die Beendigung des Handelsvertretervertrags während der Probezeit eingetreten ist.
+
+29
+
+Somit folgt aus dem Wortlaut von Art. 17 der Richtlinie, dass der Anspruch auf Ausgleich und auf Ersatz des erlittenen Schadens auch besteht, wenn die Beendigung des Vertragsverhältnisses zwischen dem Unternehmer und dem Handelsvertreter während der Probezeit eintritt.
+
+30
+
+Die vorstehenden Erwägungen werden durch die Analyse des Kontexts, in dem Art. 17 der Richtlinie 86/653 steht, und des Ziels der Richtlinie bestätigt.
+
+31
+
+Zum Kontext von Art. 17 der Richtlinie ist zum einen festzustellen, dass in ihrem Art. 18 die Fälle, in denen kein Ausgleichs- oder Schadensersatzanspruch besteht, abschließend aufgeführt sind. Die Beendigung der Probezeit wird dort nicht erwähnt. Darüber hinaus ist Art. 18 als Ausnahme vom Anspruch auf Ausgleich und auf Schadensersatz eng auszulegen. Infolgedessen kann er nicht in einer Weise ausgelegt werden, die darauf hinausliefe, dass ein dort nicht ausdrücklich vorgesehener Grund für den Ausschluss des Ausgleichs- oder des Schadensersatzanspruchs hinzukommt (vgl. in diesem Sinne Urteil vom 28. Oktober 2010, Volvo Car Germany,C‑203/09, EU:C:2010:647, Rn. 42). Die Verneinung eines Ausgleichs- oder Schadensersatzanspruchs im Fall der Beendigung des Vertragsverhältnisses während der Probezeit liefe aber gerade darauf hinaus, einen in Art. 18 der Richtlinie nicht vorgesehenen Ausschlussgrund zuzulassen.
+
+32
+
+Zum anderen verbietet Art. 19 der Richtlinie 86/653 den Parteien, vor Ablauf des Vertrags Vereinbarungen zu treffen, die von den Art. 17 und 18 der Richtlinie zum Nachteil des Handelsvertreters abweichen. Wie der Generalanwalt in Nr. 48 seiner Schlussanträge ausgeführt hat, läge eine solche Abweichung zum Nachteil des Handelsvertreters vor, wenn an die Vereinbarung einer Probezeit in einem Handelsvertretervertrag ein Ausschluss des in Art. 17 der Richtlinie vorgesehenen Anspruchs auf Ausgleich und auf Schadensersatz geknüpft würde. Die Gewährung oder Versagung einer Entschädigung für den Handelsvertreter würde nämlich bei gleicher Leistung nur davon abhängen, ob im Handelsvertretervertrag eine Probezeit vereinbart wurde.
+
+33
+
+In Bezug auf den Zweck der Richtlinie 86/653 ist darauf hinzuweisen, dass sie nach ihren Erwägungsgründen 2 und 3 insbesondere auf den Schutz des Handelsvertreters in seiner Beziehung zum Unternehmer abzielt (Urteil vom 17. Mai 2017, ERGO Poist’ovňa,C‑48/16, EU:C:2017:377, Rn. 41).
+
+34
+
+Hierzu hat der Gerichtshof entschieden, dass den Art. 17 und 18 der Richtlinie entscheidende Bedeutung zukommt, da sie das Schutzniveau definieren, das der Unionsgesetzgeber für die Handelsvertreter im Rahmen der Schaffung des Binnenmarkts für angemessen hielt (Urteil vom 17. Oktober 2013, Unamar,C‑184/12, EU:C:2013:663, Rn. 39). Darüber hinaus bezwecken die Art. 17 bis 19 der Richtlinie nach der Rechtsprechung des Gerichtshofs den Schutz des Handelsvertreters nach Beendigung des Handelsvertretervertrags. Die zu diesem Zweck mit der Richtlinie 86/653 eingeführte Regelung ist zwingendes Recht (Urteile vom 9. November 2000, Ingmar,C‑381/98, EU:C:2000:605, Rn. 21, und vom 23. März 2006, Honyvem Informazioni Commerciali,C‑465/04, EU:C:2006:199, Rn. 22).
+
+35
+
+Der Gerichtshof hat außerdem klargestellt, dass in Anbetracht des Ziels der Richtlinie 86/653 jede Auslegung ihres Art. 17, die sich für den Handelsvertreter als nachteilig erweisen könnte, ausgeschlossen ist (vgl. in diesem Sinne Urteil vom 26. März 2009, Semen,C‑348/07, EU:C:2009:195, Rn. 21).
+
+36
+
+Die Auslegung, wonach im Fall der Beendigung des Handelsvertretervertrags während der Probezeit kein Ausgleichsanspruch besteht, ist mit dem zwingenden Charakter der durch Art. 17 der Richtlinie 86/653 eingeführten Regelung nicht vereinbar. Eine solche Auslegung, die darauf hinausläuft, die Gewährung einer Entschädigung entgegen dieser Bestimmung ohne Berücksichtigung der Leistung des Handelsvertreters oder der ihm entstandenen Kosten und Aufwendungen davon abhängig zu machen, ob im Handelsvertretervertrag eine Probezeit vereinbart wurde, ist aus den in Rn. 32 des vorliegenden Urteils dargelegten Gründen ebenfalls eine Auslegung zum Nachteil des Handelsvertreters, dem jegliche Entschädigung nur deshalb versagt würde, weil sein Vertrag mit dem Unternehmer eine Probezeit enthält.
+
+37
+
+Folglich liefe eine Auslegung von Art. 17 der Richtlinie 86/653, wonach kein Ausgleichs- oder Schadensersatzanspruch besteht, wenn der Handelsvertretervertrag während der Probezeit beendet wird, dem Ziel der Richtlinie zuwider.
+
+38
+
+Nach alledem ist auf die Vorlagefrage zu antworten, dass Art. 17 der Richtlinie 86/653 dahin auszulegen ist, dass die in seinen Abs. 2 und 3 vorgesehene Ausgleichs- und Schadensersatzregelung im Fall der Beendigung des Handelsvertretervertrags anwendbar ist, wenn die Beendigung während der in diesem Vertrag festgelegten Probezeit eintritt.
+
+Kosten
+
+39
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Vierte Kammer) für Recht erkannt:
+
+ 	
+Art. 17 der Richtlinie 86/653/EWG des Rates vom 18. Dezember 1986 zur Koordinierung der Rechtsvorschriften der Mitgliedstaaten betreffend die selbständigen Handelsvertreter ist dahin auszulegen, dass die in seinen Abs. 2 und 3 vorgesehene Ausgleichs- und Schadensersatzregelung im Fall der Beendigung des Handelsvertretervertrags anwendbar ist, wenn die Beendigung während der in diesem Vertrag festgelegten Probezeit eintritt.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Französisch.

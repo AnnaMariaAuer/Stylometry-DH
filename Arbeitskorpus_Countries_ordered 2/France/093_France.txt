@@ -1,0 +1,406 @@
+URTEIL DES GERICHTSHOFS (Erste Kammer)
+
+27. April 2017 ( *1 )
+
+„Vorlage zur Vorabentscheidung — Wanderarbeitnehmer — Soziale Sicherheit — Anzuwendende Rechtsvorschriften — Verordnung (EWG) Nr. 1408/71 — Art. 14 Abs. 2 Buchst. a — Verordnung (EWG) Nr. 574/72 — Art. 12a Nr. 1a — Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft — Fahrendes Personal — In einen anderen Mitgliedstaat entsandte Arbeitnehmer — Schweizerische Zweigstelle — Bescheinigung E 101 — Beweiskraft“
+
+In der Rechtssache C‑620/15
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht von der Cour de cassation (Kassationsgerichtshof, Frankreich) mit Entscheidung vom 6. November 2015, beim Gerichtshof eingegangen am 23. November 2015, in dem Verfahren
+
+A-Rosa Flussschiff GmbH
+
+gegen
+
+Union de recouvrement des cotisations de sécurité sociale et d’allocations familiales d’Alsace (Urssaf), Rechtsnachfolgerin der Urssaf du Bas-Rhin,
+
+Sozialversicherungsanstalt des Kantons Graubünden
+
+erlässt
+
+DER GERICHTSHOF (Erste Kammer)
+
+unter Mitwirkung der Kammerpräsidentin R. Silva de Lapuerta (Berichterstatterin) und der Richter E. Regan, A. Arabadjiev, C. G. Fernlund sowie S. Rodin,
+
+Generalanwalt: H. Saugmandsgaard Øe,
+
+Kanzler: V. Giacobbo-Peyronnel, Verwaltungsrat,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 5. Oktober 2016,
+
+unter Berücksichtigung der Erklärungen
+
+—
+
+der A-Rosa Flussschiff GmbH, vertreten durch Rechtsanwalt M. Schlingmann,
+
+—
+
+der Union de recouvrement des cotisations de sécurité sociale et d’allocations familiales d’Alsace (Urssaf), Rechtsnachfolgerin der Urssaf du Bas-Rhin, vertreten durch J.‑J. Gatineau, avocat,
+
+—
+
+der französischen Regierung, vertreten durch D. Colas und C. David als Bevollmächtigte,
+
+—
+
+der belgischen Regierung, vertreten durch M. Jacobs, L. Van den Broeck und J. Van Holm als Bevollmächtigte,
+
+—
+
+der tschechischen Regierung, vertreten durch M. Smolek und J. Vláčil als Bevollmächtigte,
+
+—
+
+Irlands, vertreten durch G. Hodge, E. Creedon und A. Joyce als Bevollmächtigte im Beistand von N. Donnelly, adviser,
+
+—
+
+der zyprischen Regierung, vertreten durch N. Ioannou als Bevollmächtigte,
+
+—
+
+der Europäischen Kommission, vertreten durch D. Martin als Bevollmächtigten,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 12. Januar 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 14 Abs. 2 Buchst. a der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 über die Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern, und von Art. 12a Nr. 1a der Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung Nr. 1408/71, jeweils geändert und aktualisiert durch die Verordnung (EG) Nr. 118/97 des Rates vom 2. Dezember 1996 (ABl. 1997, L 28, S. 1), in der jeweils durch die Verordnung (EG) Nr. 647/2005 des Europäischen Parlaments und des Rates vom 13. April 2005 (ABl. 2005, L 117, S. 1) geänderten Fassung (im Folgenden: Verordnung Nr. 1408/71 bzw. Verordnung Nr. 574/72).
+
+2
+
+Dieses Ersuchen ergeht im Rahmen eines Rechtsstreits zwischen der A‑Rosa Flussschiff GmbH (im Folgenden: A‑Rosa) einerseits und der Union de recouvrement des cotisations de sécurité sociale et d’allocations familiales d’Alsace (Elsässischer Verband für die Erhebung der Beiträge der sozialen Sicherheit und der Familienbeihilfen, im Folgenden: URSSAF), Rechtsnachfolgerin der Urssaf du Bas‑Rhin (Frankreich), und der Sozialversicherungsanstalt des Kantons Graubünden (Schweiz) (im Folgenden: schweizerische Sozialversicherungsanstalt) andererseits über einen von der URSSAF an A‑Rosa zugestellten Nacherhebungsbescheid wegen Nichtzahlung der Beiträge zum französischen System der sozialen Sicherheit für den Zeitraum vom 1. April 2005 bis zum 30. September 2007.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+Verordnung Nr. 1408/71
+
+3
+
+Die Art. 13 bis 17a der Verordnung Nr. 1408/71 gehörten zu Titel II („Bestimmung der anzuwendenden Rechtsvorschriften“) dieser Verordnung.
+
+4
+
+Art. 13 dieser Verordnung legte zunächst in seinem Abs. 1 die Regel fest, dass die Personen, für die diese Verordnung galt, grundsätzlich den Rechtsvorschriften nur eines Mitgliedstaats unterlagen, und sah weiter vor:
+
+„(2)   Soweit nicht die Artikel 14 bis 17 etwas anderes bestimmen, gilt Folgendes:
+
+a)
+
+Eine Person, die im Gebiet eines Mitgliedstaats abhängig beschäftigt ist, unterliegt den Rechtsvorschriften dieses Staates, und zwar auch dann, wenn sie im Gebiet eines anderen Mitgliedstaats wohnt oder ihr Arbeitgeber oder das Unternehmen, das sie beschäftigt, seinen Wohnsitz oder Betriebssitz im Gebiet eines anderen Mitgliedstaats hat;
+
+…“
+
+5
+
+Art. 14 („Sonderregelung für andere Personen als Seeleute, die eine abhängige Beschäftigung ausüben“) der Verordnung Nr. 1408/71 bestimmte:
+
+„Vom Grundsatz des Artikels 13 Absatz 2 Buchstabe a) gelten folgende Ausnahmen und Besonderheiten:
+
+1.
+
+a)
+
+Eine Person, die im Gebiet eines Mitgliedstaats von einem Unternehmen, dem sie gewöhnlich angehört, abhängig beschäftigt wird und die von diesem Unternehmen zur Ausführung einer Arbeit für dessen Rechnung in das Gebiet eines anderen Mitgliedstaats entsandt wird, unterliegt weiterhin den Rechtsvorschriften des ersten Mitgliedstaats, sofern die voraussichtliche Dauer dieser Arbeit zwölf Monate nicht überschreitet und sie nicht eine andere Person ablöst, für welche die Entsendungszeit abgelaufen ist.
+
+…
+
+2.
+
+Eine Person, die gewöhnlich im Gebiet von zwei oder mehr Mitgliedstaaten abhängig beschäftigt ist, unterliegt den wie folgt bestimmten Rechtsvorschriften:
+
+a)
+
+Eine Person, die als Mitglied des fahrenden oder fliegenden Personals eines Unternehmens beschäftigt wird, das für Rechnung Dritter oder für eigene Rechnung im internationalen Verkehrswesen die Beförderung von Personen oder Gütern im Schienen-, Straßen-, Luft- oder Binnenschifffahrtsverkehr durchführt und seinen Sitz im Gebiet des Mitgliedstaats hat, unterliegt den Rechtsvorschriften des letzten Mitgliedstaats mit folgender Einschränkung:
+
+i)
+
+Eine Person, die von einer Zweigstelle oder ständigen Vertretung beschäftigt wird, die das Unternehmen außerhalb des Gebietes des Mitgliedstaats, in dem es seinen Sitz hat, im Gebiet eines anderen Mitgliedstaats unterhält, unterliegt den Rechtsvorschriften des Mitgliedstaats, in dessen Gebiet sich die Zweigstelle oder die ständige Vertretung befindet;
+
+…“
+
+6
+
+In Art. 80 Abs. 1 der Verordnung Nr. 1408/71 hieß es:
+
+„Der bei der Kommission der Europäischen Gemeinschaften eingesetzten Verwaltungskommission für die soziale Sicherheit der Wanderarbeitnehmer – im Folgenden ‚Verwaltungskommission‘ genannt – gehört je ein Regierungsvertreter jedes Mitgliedstaats an, der gegebenenfalls von Fachberatern unterstützt wird. …“
+
+7
+
+Nach Art. 81 Buchst. a der Verordnung Nr. 1408/71 hatte die Verwaltungskommission u. a. alle Verwaltungs- und Auslegungsfragen zu behandeln, die sich aus dieser Verordnung ergaben.
+
+8
+
+Art. 84a Abs. 3 der Verordnung Nr. 1408/71 sah vor:
+
+„Werden durch Schwierigkeiten bei der Auslegung oder Anwendung dieser Verordnung die Rechte einer Person im Geltungsbereich dieser Verordnung in Frage gestellt, so setzt sich der Träger des zuständigen Staates bzw. des Wohnstaats der betreffenden Person mit dem Träger des anderen betroffenen Mitgliedstaats oder den Trägern der anderen betroffenen Mitgliedstaaten in Verbindung. Wird binnen einer angemessenen Frist keine Lösung gefunden, so können die betreffenden Behörden die Verwaltungskommission befassen.“
+
+9
+
+Die Verordnung Nr. 1408/71 wurde zum 1. Mai 2010 durch die Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit (ABl. 2004, L 166, S. 1) aufgehoben und ersetzt.
+
+Verordnung Nr. 574/72
+
+10
+
+Unter der Überschrift „Durchführung der Vorschriften der Verordnung zur Bestimmung der anzuwendenden Rechtsvorschriften“ legte Titel III der Verordnung Nr. 574/72 die Einzelheiten der Durchführung der Art. 13 bis 17 der Verordnung Nr. 1408/71 fest.
+
+11
+
+Insbesondere sah Art. 12a Nr. 1a der Verordnung Nr. 574/72 vor, dass der von der zuständigen Behörde des Mitgliedstaats, dessen Rechtsvorschriften gemäß Art. 14 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 weiterhin anzuwenden waren, bezeichnete Träger eine Bescheinigung – die sogenannte „Bescheinigung E 101“ – darüber auszustellen hatte, dass für den betreffenden Erwerbstätigen die Rechtsvorschriften dieses Mitgliedstaats galten.
+
+12
+
+Die Verordnung Nr. 574/72 wurde zum 1. Mai 2010 durch die Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung Nr. 883/2004 (ABl. 2009, L 284, S. 1) aufgehoben und ersetzt.
+
+Beschluss Nr. 181 der Verwaltungskommission vom 13. Dezember 2000
+
+13
+
+Nach Art. 81 Buchst. a der Verordnung Nr. 1408/71 erließ die Verwaltungskommission den Beschluss Nr. 181 vom 13. Dezember 2000 zur Auslegung des Artikels 14 Absatz 1, des Artikels 14a Absatz 1 und des Artikels 14b Absätze 1 und 2 der Verordnung Nr. 1408/71 (ABl. 2001, L 329, S. 73).
+
+14
+
+Nach Nr. 6 dieses Beschlusses ist „[d]er Vordruck E 101 … vorzugsweise vor Beginn des betreffenden Zeitraums auszustellen; er kann jedoch auch während dieses Zeitraums oder sogar nach dessen Ablauf ausgestellt werden und kann dann rückwirkend gelten“.
+
+15
+
+Nr. 7 des Beschlusses Nr. 181 lautet wie folgt:
+
+„Die Pflicht zur Zusammenarbeit, auf die sich Nummer 5 Buchstabe d) dieses Beschlusses bezieht, verpflichtet ferner:
+
+a)
+
+den zuständigen Träger des Entsenderstaats, den Sachverhalt, der für die Anwendung des Artikels 14 Absatz 1, des Artikels 14a Absatz 1 und des Artikels 14b Absätze 1 und 2 der Verordnung … Nr. 1408/71 und der Artikel 11 und 11a der Verordnung … Nr. 574/72 maßgebend ist, ordnungsgemäß zu beurteilen und damit zu gewährleisten, dass die Angaben im Vordruck E 101 ordnungsgemäß und vollständig sind;
+
+b)
+
+den zuständigen Träger des Beschäftigungsstaats und jedes anderen Mitgliedstaats, sich an die Angaben in diesem Vordruck gebunden zu sehen, solange der Vordruck nicht von dem zuständigen Träger des Entsenderstaats zurückgezogen oder für ungültig erklärt wird;
+
+c)
+
+den zuständigen Träger des Entsenderstaats, die Richtigkeit dieses Vordrucks zu überprüfen und ihn gegebenenfalls zurückzuziehen, wenn der zuständige Träger des Beschäftigungsstaats Zweifel an der Richtigkeit des Sachverhalts geltend macht, der dem Vordruck zugrunde liegt.“
+
+16
+
+Nr. 9 des Beschlusses Nr. 181 sieht vor:
+
+„Sofern die zuständigen Träger keine Einigung erzielen, können diese über ihre Regierungsvertreter der Verwaltungskommission einen Vermerk vorlegen, der auf der ersten Sitzung nach dem zwanzigsten Tag nach Einreichen dieses Vermerks geprüft wird, um eine Annäherung der unterschiedlichen Standpunkte über die jeweils anzuwendenden Rechtsvorschriften herbeizuführen.“
+
+Abkommen EG–Schweiz
+
+17
+
+Art. 8 des Abkommens zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit, das am 21. Juni 1999 in Luxemburg unterzeichnet wurde und im Namen der Europäischen Gemeinschaft mit dem Beschluss 2002/309/EG, Euratom des Rates und – bezüglich des Abkommens über die wissenschaftliche und technische Zusammenarbeit – der Kommission vom 4. April 2002 über den Abschluss von sieben Abkommen mit der Schweizerischen Eidgenossenschaft (ABl. 2002, L 114, S. 1) genehmigt wurde (im Folgenden: Abkommen EG–Schweiz), bestimmt:
+
+„Die Vertragsparteien regeln die Koordinierung der Systeme der sozialen Sicherheit gemäß Anhang II …“
+
+18
+
+Anhang II des Abkommens EG–Schweiz über die Koordinierung der Systeme der sozialen Sicherheit sah in Art. 1 Folgendes vor:
+
+„1.   Die Vertragsparteien kommen überein, im Bereich der Koordinierung der Systeme der sozialen Sicherheit untereinander die gemeinschaftlichen Rechtsakte, auf die Bezug genommen wird, in der zum Zeitpunkt der Unterzeichnung des Abkommens geltenden Fassung einschließlich der in Abschnitt A dieses Anhangs genannten Änderungen oder gleichwertige Vorschriften anzuwenden.
+
+2.   Der Begriff ‚Mitgliedstaat(en)‘ in den Rechtsakten, auf die in Abschnitt A dieses Anhangs Bezug genommen wird, ist außer auf die durch die betreffenden gemeinschaftlichen Rechtsakte erfassten Staaten auch auf die Schweiz anzuwenden.“
+
+19
+
+Abschnitt A dieses Anhangs nahm u. a. auf die Verordnungen Nrn. 1408/71 und 574/72 Bezug.
+
+20
+
+Mit dem am 31. März 2012 erlassenen und am 1. April 2012 in Kraft getretenen Beschluss Nr. 1/2012 des im Rahmen des Abkommens EG–Schweiz eingesetzten Gemischten Ausschusses zur Ersetzung des Anhangs II dieses Abkommens über die Koordinierung der Systeme der sozialen Sicherheit (ABl. 2012, L 103, S. 51) wurde Abschnitt A des Anhangs II des Abkommens aktualisiert und nimmt nunmehr Bezug auf die Verordnungen Nrn. 883/2004 und 987/2009.
+
+21
+
+Vor dem Zeitpunkt des Inkrafttretens dieses Beschlusses liegende Sachverhalte wie der des Ausgangsrechtsstreits unterliegen jedoch weiterhin den Verordnungen Nrn. 1408/71 und 574/72, und zwar nach Anhang II Abschnitt A Nrn. 3 und 4 des Abkommens EG–Schweiz in der durch den Beschluss Nr. 1/2012 geänderten Fassung, der nach wie vor auf die Verordnungen Nrn. 1408/71 und 574/72 verweist, „soweit … Fälle aus der Vergangenheit betroffen sind“.
+
+Ausgangsverfahren und Vorlagefrage
+
+22
+
+A-Rosa, die ihren Sitz in Deutschland hat, betreibt u. a. zwei Kreuzfahrtschiffe auf der Rhône (Frankreich) und der Saône (Frankreich), auf denen 45 bzw. 46 Saisonarbeiter beschäftigt sind, die aus anderen Mitgliedstaaten als Frankreich stammen und im Hotelbetrieb eingesetzt sind. Die beiden Schiffe befahren ausschließlich die französischen Binnengewässer.
+
+23
+
+A‑Rosa verfügt über eine Zweigstelle in der Schweiz, die für alles zuständig ist, was mit dem Einsatz der Schiffe, dem Betrieb, der Verwaltung sowie mit den Personalangelegenheiten, d. h. mit dem auf den Schiffen beschäftigten Personal, zu tun hat. Insoweit unterliegen alle Arbeitsverträge der oben genannten Saisonarbeiter dem schweizerischen Recht.
+
+24
+
+Aufgrund einer am 7. Juni 2007 durchgeführten Überprüfung der beiden Schiffe stellte die URSSAF Unregelmäßigkeiten bei der sozialen Absicherung der im Hotelbetrieb tätigen Arbeitnehmer fest. Diese Feststellung führte zu einem A‑Rosa am 22. Oktober 2007 zugestellten Nacherhebungsbescheid über 2024123 Euro wegen ausstehender Beiträge zum französischen System der sozialen Sicherheit für die Zeit vom 1. April 2005 bis zum 30. September 2007.
+
+25
+
+Bei dieser Überprüfung legte A-Rosa ein erstes Bündel von Bescheinigungen E 101 für 2007 vor, die von der schweizerischen Sozialversicherungsanstalt gemäß Art. 14 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 ausgestellt worden waren.
+
+26
+
+A-Rosa focht den Nacherhebungsbescheid beim Tribunal des affaires de sécurité sociale du Bas‑Rhin (Gericht für Sozialversicherungsangelegenheiten Niederrhein, Frankreich) an. Diese Klage wurde mit Urteil vom 9. Februar 2011 abgewiesen. Das Gericht war nämlich der Ansicht, dass die Tätigkeit von A‑Rosa zur Gänze auf Frankreich ausgerichtet gewesen sei und dass sie diese dort gewöhnlich, beständig und andauernd ausgeübt habe, so dass sich A‑Rosa nicht auf Art. 14 Abs. 1 der Verordnung Nr. 1408/71 berufen könne, den sie im Rahmen ihrer Klage angeführt habe, da diese Bestimmung die besondere Situation der Entsendung von Arbeitnehmern regle.
+
+27
+
+A-Rosa legte gegen dieses Urteil Berufung bei der Cour d’appel Colmar (Berufungsgericht Colmar, Frankreich) ein.
+
+28
+
+Mit Schreiben vom 27. Mai 2011 stellte die URSSAF bei der schweizerischen Sozialversicherungsanstalt einen Antrag auf Widerruf der Bescheinigungen E 101 und führte zur Begründung insbesondere an, dass diese Bescheinigungen nicht auf der Grundlage von Art. 14 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 hätten ausgestellt werden dürfen, da die Fahrten mit den in Rede stehenden Schiffen ständig und ausschließlich in Frankreich durchgeführt würden, so dass für die Arbeitnehmer, die eigens für den Einsatz an Bord eingestellt worden seien, regelmäßig Anmeldungen bei den französischen Sozialversicherungseinrichtungen abgegeben werden müssten.
+
+29
+
+Mit Schreiben vom 18. August 2011 antwortete die schweizerische Sozialversicherungsanstalt auf diesen Antrag, indem sie insbesondere darauf hinwies, dass sie A‑Rosa verpflichtet habe, die Sozialversicherungsbeiträge für Personen, die tatsächlich nur in einem Mitgliedstaat der Union erwerbstätig seien, nach dem Recht des jeweiligen Landes abzurechnen, und indem sie die URSSAF ersuchte, in Anbetracht des Umstands, dass sämtliche Sozialversicherungsbeiträge für das Jahr 2007 betreffend diese Personen in der Schweiz abgerechnet und bezahlt worden seien, von einer rückwirkenden Korrektur hinsichtlich der Unterwerfung dieser Personen unter das französische System der sozialen Sicherheit abzusehen.
+
+30
+
+Im Berufungsverfahren legte A‑Rosa ein zweites Bündel von Bescheinigungen E 101 für die Jahre 2005 und 2006 vor, die ebenfalls von der schweizerischen Sozialversicherungsanstalt auf der Grundlage von Art. 14 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 ausgestellt worden waren.
+
+31
+
+Mit Urteil vom 12. September 2013 wies die Cour d’appel de Colmar (Berufungsgericht Colmar) das Rechtsmittel von A‑Rosa im Wesentlichen zurück. Soweit sich diese Gesellschaft auf die von ihr vorgelegten Bescheinigungen E 101 berufen hatte, wies dieses Gericht zunächst darauf hin, dass entsprechende Bescheinigungen nicht nach Art. 14 Abs. 1 Buchst. a der Verordnung Nr. 1408/71, auf den sich A‑Rosa gestützt habe, sondern nach Art. 14 Abs. 2 Buchst. a dieser Verordnung ausgestellt worden seien und dass diese Bescheinigungen von A‑Rosa in zwei Bündeln vorgelegt worden seien – das erste bei der Überprüfung durch die URSSAF und das zweite nach der Entscheidung des Tribunal des affaires de sécurité sociale du Bas‑Rhin (Gericht für Sozialversicherungsangelegenheiten Niederrhein) –, und stellte sodann fest, dass die Arbeitnehmer, deren Entgelt Gegenstand der Nacherhebung gewesen sei, ihre Tätigkeit nur in Frankreich ausgeübt hätten, so dass A‑Rosa keinen der Ausnahmetatbestände erfüllt habe, auf deren Grundlage sie sich dem in Art. 13 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 verankerten Territorialitätsprinzip hätte entziehen können.
+
+32
+
+A-Rosa legte gegen dieses Urteil Kassationsbeschwerde beim vorlegenden Gericht, der Cour de cassation (Kassationsgerichtshof, Frankreich), ein. Dieses stellt sich unter Zugrundelegung der Feststellungen der Cour d’appel de Colmar (Berufungsgericht Colmar) die Frage, ob der Ausstellung einer Bescheinigung E 101 durch den zuständigen Träger eines Mitgliedstaats auf der Grundlage von Art. 14 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 die Wirkungen zukommen, die die Rechtsprechung des Gerichtshofs einer solchen Bescheinigung üblicherweise zuerkennt, wenn die Art und Weise, in der der von dieser Bescheinigung betroffene Arbeitnehmer seine Tätigkeit im Gebiet eines anderen Mitgliedstaats ausübt, offensichtlich nicht in den sachlichen Anwendungsbereich eines der Ausnahmetatbestände in Art. 14 fällt.
+
+33
+
+Unter diesen Umständen hat die Cour de cassation (Kassationsgerichtshof) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Frage zur Vorabentscheidung vorzulegen:
+
+Bindet die Wirkung, die der Bescheinigung E 101 zukommt, die gemäß Art. 11 Abs. 1 und Art. 12a Nr. 1a der Verordnung Nr. 574/72 von dem Träger, den die zuständige Behörde des Mitgliedstaats bezeichnet hat, dessen Rechtsvorschriften der sozialen Sicherheit weiterhin auf die Situation des Arbeitnehmers anzuwenden sind, ausgestellt wurde, zum einen die Träger und Behörden des Gaststaats und zum anderen die Gerichte dieses Mitgliedstaats, wenn festgestellt wird, dass die Bedingungen, unter denen der Arbeitnehmer seine Tätigkeit ausübt, offensichtlich nicht in den Anwendungsbereich eines der Ausnahmetatbestände in Art. 14 Abs. 1 und 2 der Verordnung Nr. 1408/71 fallen?
+
+Zur Vorlagefrage
+
+34
+
+Mit seiner Frage möchte das vorlegende Gericht wissen, ob Art. 12a Nr. 1a der Verordnung Nr. 574/72 dahin auszulegen ist, dass eine Bescheinigung E 101, die von dem Träger, den die zuständige Behörde eines Mitgliedstaats bezeichnet hat, gemäß Art. 14 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 ausgestellt wurde, sowohl die Sozialversicherungsträger des Mitgliedstaats, in dem die Arbeit ausgeführt wird, als auch die Gerichte dieses Mitgliedstaats bindet, selbst wenn von diesen festgestellt wird, dass die Bedingungen, unter denen der betreffende Arbeitnehmer seine Tätigkeit ausübt, offensichtlich nicht in den sachlichen Anwendungsbereich dieser Bestimmung der Verordnung Nr. 1408/71 fallen.
+
+35
+
+Zunächst ist darauf hinzuweisen, dass nach ständiger Rechtsprechung des Gerichtshofs in einem Vorabentscheidungsverfahren nach Art. 267 AEUV, das auf einer klaren Aufgabentrennung zwischen den nationalen Gerichten und dem Gerichtshof beruht, allein das nationale Gericht für die Feststellung und Beurteilung des Sachverhalts des Ausgangsrechtsstreits zuständig ist. In diesem Rahmen beschränkt sich die Zuständigkeit des Gerichtshofs darauf, sich anhand der Sach- und Rechtslage, wie sie das vorlegende Gericht dargestellt hat, zur Auslegung oder zur Gültigkeit des Unionsrechts zu äußern, um dem vorlegenden Gericht sachdienliche Hinweise für die Entscheidung des bei ihm anhängigen Rechtsstreits zu geben (Urteil vom 28. Juli 2016, Kratzer, C‑423/15, EU:C:2016:604, Rn. 27).
+
+36
+
+Somit ist unter Zugrundelegung der Feststellungen des vorlegenden Gerichts auf die von ihm gestellte Frage, wie sie in Rn. 34 des vorliegenden Urteils umformuliert worden ist, zu antworten, ohne dass damit vorweggenommen würde, ob die betreffenden Arbeitnehmer in den Anwendungsbereich von Art. 14 der Verordnung Nr. 1408/71 fallen oder welche Rechtsvorschriften auf diese Arbeitnehmer anzuwenden sind.
+
+37
+
+Es ist darauf hinzuweisen, dass die Bescheinigung E 101 – ebenso wie die materiell-rechtliche Regelung in Art. 14 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 – die Freizügigkeit der Arbeitnehmer und die Dienstleistungsfreiheit fördern soll (vgl. entsprechend Urteil vom 26. Januar 2006, Herbosch Kiere, C‑2/05, EU:C:2006:69, Rn. 20 und die dort angeführte Rechtsprechung).
+
+38
+
+In dieser Bescheinigung erklärt der zuständige Träger des Mitgliedstaats, in dem das Unternehmen, das die betreffenden Arbeitnehmer beschäftigt, seine Betriebsstätte hat, dass sein eigenes System der sozialen Sicherheit auf diese anwendbar bleibt. Wegen des Grundsatzes, dass die Arbeitnehmer einem einzigen System der sozialen Sicherheit angeschlossen sein sollen, hat diese Bescheinigung damit notwendig zur Folge, dass das System der sozialen Sicherheit des anderen Mitgliedstaats nicht angewandt werden kann (Urteil vom 26. Januar 2006, Herbosch Kiere, C‑2/05, EU:C:2006:69, Rn. 21 und die dort angeführte Rechtsprechung).
+
+39
+
+Hierzu ist festzustellen, dass der Grundsatz der vertrauensvollen Zusammenarbeit nach Art. 4 Abs. 3 EUV den ausstellenden Träger verpflichtet, den Sachverhalt, der für die Bestimmung der im Bereich der sozialen Sicherheit anwendbaren Rechtsvorschriften maßgebend ist, ordnungsgemäß zu beurteilen und damit die Richtigkeit der in der Bescheinigung E 101 aufgeführten Angaben zu gewährleisten (Urteil vom 26. Januar 2006, Herbosch Kiere, C‑2/05, EU:C:2006:69, Rn. 22 und die dort angeführte Rechtsprechung).
+
+40
+
+Ebenso würde der zuständige Träger des Mitgliedstaats, in dem die Arbeit ausgeführt wird, seine Verpflichtungen zur Zusammenarbeit nach Art. 4 Abs. 3 EUV verletzen – und die Ziele von Art. 14 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 und Art. 12a Nr. 1a der Verordnung Nr. 574/72 verfehlen –, wenn er sich nicht an die Angaben in der Bescheinigung E 101 gebunden sähe und diese Arbeitnehmer zusätzlich seinem eigenen System der sozialen Sicherheit unterstellte (vgl. entsprechend Urteil vom 30. März 2000, Banks u. a., C‑178/97, EU:C:2000:169, Rn. 39 und die dort angeführte Rechtsprechung).
+
+41
+
+Da die Bescheinigung E 101 eine Vermutung dafür begründet, dass der Anschluss des betreffenden Arbeitnehmers an das System der sozialen Sicherheit des Mitgliedstaats, in dem das Unternehmen, das ihn beschäftigt, niedergelassen ist, ordnungsgemäß ist, bindet sie folglich den zuständigen Träger des Mitgliedstaats, in dem dieser Arbeitnehmer eine Arbeit ausführt (vgl. in diesem Sinne Urteil vom 30. März 2000, Banks u. a., C‑178/97, EU:C:2000:169, Rn. 40 und die dort angeführte Rechtsprechung).
+
+42
+
+Jede andere Lösung würde den Grundsatz des Anschlusses der Arbeitnehmer an ein einziges System der sozialen Sicherheit sowie die Vorhersehbarkeit des anwendbaren Systems und damit die Rechtssicherheit beeinträchtigen. In Fällen, in denen die Bestimmung des anwendbaren Systems schwierig wäre, wäre nämlich jeder der zuständigen Träger beider betreffenden Mitgliedstaaten leicht geneigt, sein eigenes System der sozialen Sicherheit für anwendbar zu erklären, was den betroffenen Arbeitnehmern zum Nachteil gereichte (vgl. Urteil vom 26. Januar 2006, Herbosch Kiere, C‑2/05, EU:C:2006:69, Rn. 25 und die dort angeführte Rechtsprechung).
+
+43
+
+Solange also eine Bescheinigung E 101 nicht zurückgezogen oder für ungültig erklärt wird, hat der zuständige Träger des Mitgliedstaats, in dem der Arbeitnehmer eine Arbeit ausführt, dem Umstand Rechnung zu tragen, dass dieser bereits dem Recht der sozialen Sicherheit des Mitgliedstaats unterliegt, in dem das Unternehmen, das ihn beschäftigt, niedergelassen ist; der Träger kann daher den fraglichen Arbeitnehmer nicht seinem eigenen System der sozialen Sicherheit unterstellen (Urteil vom 30. März 2000, Banks u. a., C‑178/97, EU:C:2000:169, Rn. 42 und die dort angeführte Rechtsprechung).
+
+44
+
+Allerdings muss der zuständige Träger des Mitgliedstaats, der die Bescheinigung E 101 ausgestellt hat, überprüfen, ob die Ausstellung zu Recht erfolgt ist, und diese Bescheinigung gegebenenfalls zurückziehen, wenn der zuständige Träger des Mitgliedstaats, in dem der Arbeitnehmer eine Arbeit ausführt, Zweifel an der Richtigkeit des der Bescheinigung zugrunde liegenden Sachverhalts und demnach der darin gemachten Angaben insbesondere deshalb geltend macht, weil diese den Tatbestand des Art. 14 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 nicht erfüllten (vgl. entsprechend Urteil vom 30. März 2000, Banks u. a., C‑178/97, EU:C:2000:169, Rn. 43 und die dort angeführte Rechtsprechung).
+
+45
+
+Wenn die betreffenden Träger im Einzelfall namentlich bei der Beurteilung des Sachverhalts und damit der Frage, ob dieser unter Art. 14 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 fällt, zu keiner Übereinstimmung gelangen, können sie sich an die Verwaltungskommission wenden (vgl. entsprechend Urteil vom 26. Januar 2006, Herbosch Kiere, C‑2/05, EU:C:2006:69, Rn. 28 und die dort angeführte Rechtsprechung).
+
+46
+
+Gelingt es dieser nicht, zwischen den Standpunkten der zuständigen Träger in Bezug auf das in dem konkreten Fall anwendbare Recht zu vermitteln, steht es dem Mitgliedstaat, in dem der betreffende Arbeitnehmer eine Arbeit ausführt – unbeschadet einer in dem Mitgliedstaat des ausstellenden Trägers etwa möglichen Klage – zumindest frei, gemäß Art. 259 AEUV ein Vertragsverletzungsverfahren einzuleiten, so dass der Gerichtshof die Frage des auf diesen Arbeitnehmer anwendbaren Rechts und damit die Richtigkeit der Angaben in der Bescheinigung E 101 prüfen kann (Urteil vom 10. Februar 2000, FTS, C‑202/97, EU:C:2000:75, Rn. 58).
+
+47
+
+Könnte ein zuständiger nationaler Träger des Gastmitgliedstaats des betreffenden Arbeitnehmers eine Bescheinigung E 101 von einem Gericht dieses Staates für ungültig erklären lassen, wäre das auf die vertrauensvolle Zusammenarbeit zwischen den zuständigen Trägern der Mitgliedstaaten gegründete System gefährdet (Urteil vom 26. Januar 2006, Herbosch Kiere, C‑2/05, EU:C:2006:69, Rn. 30).
+
+48
+
+Aus dem Vorstehenden ergibt sich, dass die Bescheinigung E 101, solange sie nicht zurückgezogen oder für ungültig erklärt wird, in der internen Rechtsordnung des Mitgliedstaats gilt, in den sich der Arbeitnehmer zur Ausführung einer Arbeit begibt, und daher die Träger dieses Mitgliedstaats bindet (vgl. in diesem Sinne Urteil vom 26. Januar 2006, Herbosch Kiere, C‑2/05, EU:C:2006:69, Rn. 31).
+
+49
+
+Demzufolge ist ein Gericht des Gastmitgliedstaats nicht befugt, die Gültigkeit einer Bescheinigung E 101 im Hinblick auf die Umstände, auf deren Grundlage sie ausgestellt wurde, zu überprüfen (vgl. in diesem Sinne Urteil vom 26. Januar 2006, Herbosch Kiere, C‑2/05, EU:C:2006:69, Rn. 32).
+
+50
+
+Der Gerichtshof hat im Übrigen bereits entschieden, dass es, da die Bescheinigung E 101 den zuständigen Träger des Gastmitgliedstaats bindet, auch keinen Grund dafür gibt, dass die Person, die Leistungen des Erwerbstätigen in Anspruch nimmt, sich nicht daran halten müsste. Bezweifelt sie die Gültigkeit der Bescheinigung, muss diese Person jedoch den fraglichen Träger davon in Kenntnis setzen (Urteil vom 9. September 2015, X und van Dijk, C‑72/14 und C‑197/14, EU:C:2015:564, Rn. 42 und die dort angeführte Rechtsprechung).
+
+51
+
+Daher bindet eine von dem zuständigen Träger eines Mitgliedstaats gemäß Art. 12a Nr. 1a der Verordnung Nr. 574/72 ausgestellte Bescheinigung E 101, obwohl die betreffenden Arbeitnehmer nach Ansicht der Träger und der Gerichte des Mitgliedstaats, in dem die Arbeit ausgeführt wird, nicht in den Anwendungsbereich von Art. 14 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 fallen, sowohl diese Träger und diese Gerichte als auch die Person, die die Leistungen dieser Arbeitnehmer in Anspruch nimmt.
+
+52
+
+Die Tatsache, dass die betreffenden Arbeitnehmer offensichtlich nicht in den Anwendungsbereich von Art. 14 fallen, ändert nichts an den vorstehenden Erwägungen.
+
+53
+
+Da der Gerichtshof nämlich durch seine Rechtsprechung das Verfahren festgelegt hat, das zu befolgen ist, um etwaige Streitigkeiten zwischen den Trägern der betreffenden Mitgliedstaaten über die Gültigkeit oder die Richtigkeit einer Bescheinigung E 101 beizulegen, haben die Träger der Staaten, die die Verordnungen Nrn. 1408/71 und 574/72 anzuwenden haben, einschließlich der Schweizerischen Eidgenossenschaft gemäß dem Abkommen EG–Schweiz, dieses Verfahren einzuhalten, selbst wenn sich herausstellen sollte, dass die Bedingungen, unter denen die betreffenden Arbeitnehmer ihre Tätigkeit ausüben, offensichtlich nicht in den sachlichen Anwendungsbereich der Bestimmung fallen, auf deren Grundlage die Bescheinigung E 101 ausgestellt worden ist.
+
+54
+
+In diesem Zusammenhang kann das Vorbringen der französischen Regierung und der URSSAF, dass dieses Verfahren ineffizient sei und ein unlauterer Wettbewerb sowie Sozialdumping verhindert werden müssten, die Nichteinhaltung dieses Verfahrens und erst recht die Entscheidung, eine vom zuständigen Träger eines anderen Mitgliedstaats ausgestellte Bescheinigung E 101 unberücksichtigt zu lassen, nicht rechtfertigen.
+
+55
+
+Ein derartiges Vorbringen kann auch nicht als Grundlage dafür angesehen werden, die einschlägige Rechtsprechung des Gerichtshofs unter Umständen wie denen des Ausgangsverfahrens zu ändern.
+
+56
+
+Zunächst geht nämlich aus den dem Gerichtshof vorliegenden Akten hervor, dass die französischen Behörden im Rahmen des Ausgangsrechtsstreits weder den Weg des Dialogs mit der schweizerischen Sozialversicherungsanstalt ausgeschöpft noch überhaupt versucht haben, die Verwaltungskommission anzurufen, so dass der diesem Rechtsstreit zugrunde liegende Sachverhalt, wie der Generalanwalt in den Nrn. 75 und 82 seiner Schlussanträge ausgeführt hat, nicht geeignet ist, vermeintliche Mängel des durch die Rechtsprechung des Gerichtshofs festgelegten Verfahrens aufzuzeigen oder zu belegen, dass es unmöglich ist, etwaige Fälle von unlauterem Wettbewerb oder Sozialdumping zu lösen.
+
+57
+
+Sodann ist darauf hinzuweisen, dass der Beschluss Nr. 181 die sich aus der Rechtsprechung des Gerichtshofs ergebenden Rechtsgrundsätze zur Bescheinigung E 101 übernommen hat, einschließlich der Verpflichtung, der Verwaltungskommission etwaige Streitigkeiten über die Rechtsvorschriften vorzulegen, die auf den der Ausstellung einer Bescheinigung E 101 zugrunde liegenden Sachverhalt anzuwenden sind.
+
+58
+
+Im Übrigen sieht der Unionsgesetzgeber in Art. 84a Abs. 3 der Verordnung Nr. 1408/71 für den Fall, dass durch Schwierigkeiten bei der Auslegung oder Anwendung dieser Verordnung die Rechte einer Person im Geltungsbereich dieser Verordnung in Frage gestellt werden, erstens den Weg des Dialogs zwischen den zuständigen Trägern der betreffenden Mitgliedstaaten und zweitens die Anrufung der Verwaltungskommission vor.
+
+59
+
+Darüber hinaus ist mit der derzeit geltenden Verordnung Nr. 987/2009 die Rechtsprechung des Gerichtshofs kodifiziert worden, indem darin der bindende Charakter der Bescheinigung E 101 und die ausschließliche Zuständigkeit des ausstellenden Trägers für die Beurteilung der Gültigkeit dieser Bescheinigung verankert wurden und ausdrücklich das von der französischen Regierung und der URSSAF in Frage gestellte Verfahren als Mittel zur Beilegung von Streitigkeiten sowohl über die Richtigkeit der vom zuständigen Träger eines Mitgliedstaats ausgestellten Dokumente als auch über die Bestimmung der auf den betreffenden Arbeitnehmer anwendbaren Rechtsvorschriften übernommen wurde.
+
+60
+
+Schließlich hat der Umstand, dass im vorliegenden Fall der Staat, der die Bescheinigungen E 101 ausgestellt hat, die Schweizerische Eidgenossenschaft ist und dass daher keine etwaige Vertragsverletzungsklage gegen diesen Staat erhoben werden kann, wie die französische Regierung geltend gemacht hat, keine Auswirkung auf den bindenden Charakter der im Ausgangsverfahren in Rede stehenden Bescheinigungen E 101, da das Abkommen EG–Schweiz, wie der Generalanwalt in Nr. 65 seiner Schlussanträge ausgeführt hat, sein eigenes System zur Beilegung von Streitigkeiten zwischen den Vertragsparteien vorsieht.
+
+61
+
+Nach alledem ist auf die Vorlagefrage zu antworten, dass Art. 12a Nr. 1a der Verordnung Nr. 574/72 dahin auszulegen ist, dass eine Bescheinigung E 101, die von dem Träger, den die zuständige Behörde eines Mitgliedstaats bezeichnet hat, gemäß Art. 14 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 ausgestellt wurde, sowohl die Sozialversicherungsträger des Mitgliedstaats, in dem die Arbeit ausgeführt wird, als auch die Gerichte dieses Mitgliedstaats bindet, selbst wenn von diesen festgestellt wird, dass die Bedingungen, unter denen der betreffende Arbeitnehmer seine Tätigkeit ausübt, offensichtlich nicht in den sachlichen Anwendungsbereich dieser Bestimmung der Verordnung Nr. 1408/71 fallen.
+
+Kosten
+
+62
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem bei dem vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Erste Kammer) für Recht erkannt:
+
+ 	
+Art. 12a Nr. 1a der Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 über die Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern, geändert und aktualisiert durch die Verordnung (EG) Nr. 118/97 des Rates vom 2. Dezember 1996, in der durch die Verordnung (EG) Nr. 647/2005 des Europäischen Parlaments und des Rates vom 13. April 2005 geänderten Fassung ist dahin auszulegen, dass eine Bescheinigung E 101, die von dem Träger, den die zuständige Behörde eines Mitgliedstaats bezeichnet hat, gemäß Art. 14 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 in der durch die Verordnung Nr. 118/97 geänderten und aktualisierten Fassung, geändert durch die Verordnung (EG) Nr. 647/2005 des Europäischen Parlaments und des Rates vom 13. April 2005, ausgestellt wurde, sowohl die Sozialversicherungsträger des Mitgliedstaats, in dem die Arbeit ausgeführt wird, als auch die Gerichte dieses Mitgliedstaats bindet, selbst wenn von diesen festgestellt wird, dass die Bedingungen, unter denen der betreffende Arbeitnehmer seine Tätigkeit ausübt, offensichtlich nicht in den sachlichen Anwendungsbereich dieser Bestimmung der Verordnung Nr. 1408/71 fallen.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Französisch.

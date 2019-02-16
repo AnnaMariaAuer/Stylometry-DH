@@ -1,0 +1,417 @@
+URTEIL DES GERICHTSHOFS (Erste Kammer)
+
+20. Dezember 2017 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Freier Dienstleistungsverkehr, Niederlassungsfreiheit, freier Kapitalverkehr und unternehmerische Freiheit – Beschränkungen – Erteilung neuer Konzessionen für den Betrieb von Online-Glücksspielen – Grundsätze der Rechtssicherheit und des Vertrauensschutzes – Urteil des Verfassungsgerichts – Frage nach der Verpflichtung des nationalen Gerichts, den Gerichtshof zu befassen“
+
+In der Rechtssache C‑322/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Consiglio di Stato (Staatsrat, Italien) mit Entscheidung vom 4. Februar 2016, beim Gerichtshof eingegangen am 7. Juni 2016, in dem Verfahren
+
+Global Starnet Ltd
+
+gegen
+
+Ministero dell’Economia e delle Finanze,
+
+Amministrazione Autonoma Monopoli di Stato
+
+erlässt
+
+DER GERICHTSHOF (Erste Kammer)
+
+unter Mitwirkung der Kammerpräsidentin R. Silva de Lapuerta sowie der Richter J.‑C. Bonichot, A. Arabadjiev, S. Rodin (Berichterstatter) und E. Regan,
+
+Generalanwalt: N. Wahl,
+
+Kanzler: R. Schiano, Verwaltungsrat,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 6. April 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der Global Starnet Ltd, vertreten durch B. Carbone, C. Barreca, S. Vinti und A. Scuderi, avvocati,
+
+–
+
+der italienischen Regierung, vertreten durch G. Palmieri als Bevollmächtigte im Beistand von S. Fiorentino und P. G. Marrone, avvocati dello Stato,
+
+–
+
+der belgischen Regierung, vertreten durch M. Jacobs und L. Van den Broeck als Bevollmächtigte im Beistand von P. Vlaemminck und R. Verbeke, advocaten,
+
+–
+
+der tschechischen Regierung, vertreten durch M. Smolek und J. Vláčil als Bevollmächtigte,
+
+–
+
+der portugiesischen Regierung, vertreten durch L. Inez Fernandes, M. Figueiredo, A. Silva Coelho und P. de Sousa Inês als Bevollmächtigte,
+
+–
+
+der Europäischen Kommission, vertreten durch L. Malferrari und H. Tserepa-Lacombe als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 8. Juni 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung der Art. 26, 49, 56, 63 und 267 AEUV, von Art. 16 der Charta der Grundrechte der Europäischen Union sowie des allgemeinen Grundsatzes des Vertrauensschutzes.
+
+2
+
+Es ergeht in einem Rechtsstreit zwischen der Global Starnet Ltd einerseits und dem Ministero dell’Economia e delle Finanze (Ministerium für Wirtschaft und Finanzen, Italien) und der Amministrazione Autonoma Monopoli di Stato (Autonome Staatsmonopolverwaltung, Italien, im Folgenden: AAMS) andererseits über die Festlegung der Anforderungen an den Betrieb von Online-Glücksspielen auf Spiel- und Freizeitautomaten sowie die Ausschreibung zur Vergabe der Konzessionen für die Einrichtung und den Betrieb des Netzes für Online-Glücksspiele auf solchen Automaten.
+
+Rechtlicher Rahmen
+
+3
+
+Art. 1 der Legge n. 220, Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (Legge di stabilità 2011) (Gesetz Nr. 220 über die Bestimmungen zur Festlegung des Jahres- und Mehrjahreshaushalts des Staates [Stabilitätsgesetz 2011]), vom 13. Dezember 2010 (Supplemento ordinario Nr. 297 zur GURI vom 21. Dezember 2010, im Folgenden: Gesetz Nr. 220/2010) sieht in Abs. 78 Buchst. b vor:
+
+„…
+
+4.
+
+während der gesamten Konzessionslaufzeit muss die Verschuldensquote unterhalb eines Wertes bleiben, … der den durch Dekret des Ministeriums für Wirtschaft und Finanzen vorgesehenen Wert nicht übersteigt;
+
+…
+
+8.
+
+für Geschäfte, die zu einem Personenwechsel beim Konzessionär führen, ist die vorherige Zustimmung der AAMS einzuholen, andernfalls erlischt die Konzession; unter einem Personenwechsel beim Konzessionär ist jedes von dem Konzessionär vorgenommene Geschäft zu verstehen, das in einem Zusammenschluss, einer Aufspaltung, einer Übertragung des Betriebs, einer Änderung des Gesellschaftssitzes oder Gesellschaftszwecks oder der Auflösung der Gesellschaft besteht, ausgenommen jedoch der Verkauf und die Platzierung von Aktien des Konzessionärs auf einem geregelten Markt;
+
+9.
+
+für die Übertragung von Beteiligungen des Konzessionärs einschließlich Kontrollbeteiligungen, die in dem Haushaltsjahr, in dem das Geschäft ausgeführt wird, zu einer Verringerung des vom Ministerium für Wirtschaft und Finanzen festgelegten Indexes der Vermögenssolidität führen kann, ist die vorherige Zustimmung der AAMS einzuholen; dies gilt unbeschadet der Pflicht des Konzessionärs, in diesen Fällen, soll die Konzession nicht erlöschen, diesen Index durch eine Kapitalerhöhung oder andere Maßnahmen oder Instrumente zur Wiederherstellung dieses Indexes innerhalb von sechs Monaten ab dem Tag, an dem der Jahresabschluss genehmigt wird, wiederherzustellen;
+
+…
+
+17.
+
+der zusätzliche Gewinn aus den in Nr. 6 genannten Tätigkeiten darf zu anderen Zwecken als Investitionen im Zusammenhang mit dem Konzessionsgegenstand nur mit vorheriger Zustimmung der AAMS verwendet werden;
+
+…
+
+23.
+
+falls der Konzessionär – auch ohne Vorsatz – gegen Klauseln der Konzessionsvereinbarung verstößt, werden Sanktionen in Form von Vertragsstrafen festgelegt, deren Schwere sich nach der Schwere des Verstoßes richtet, wobei die Grundsätze der Verhältnismäßigkeit und der Wirksamkeit der Sanktionen einzuhalten sind;
+
+…
+
+25.
+
+es ist vorgesehen, dass der Konzessionär, der die Tätigkeit mit Ende der Laufzeit der Konzession beendet, den Betrieb und die Geschäfte zur Erhebung der Spieleinsätze, die Gegenstand der Konzession sind, bis zur Übertragung des Betriebs und der Geschäfte an den neuen Konzessionär fortführt;
+
+…“
+
+4
+
+Nach Art. 1 Abs. 79 dieses Gesetzes sind Konzessionäre für den Betrieb öffentlicher Glücksspiele, die nicht online erfolgen, verpflichtet, einen Nachtrag zur Konzessionsvereinbarung zu unterzeichnen, um diese Vereinbarung mit den in der vorstehenden Randnummer genannten Bestimmungen dieses Gesetzes in Einklang zu bringen.
+
+Ausgangsverfahren und Vorlagefragen
+
+5
+
+Die AAMS erteilte Global Starnet die Konzession für die Inbetriebnahme und den operationellen Betrieb des Netzes für gesetzlich erlaubte Online-Glücksspiele auf Unterhaltungs- und Spielautomaten und die damit verbundenen Tätigkeiten gemäß einer Bestimmung, nach der die Erteilung solcher Konzessionen an Betreiber wie Global Starnet, die bereits Konzessionäre sind, außerhalb der für die anderen Spielebetreiber vorgeschriebenen Auswahlverfahren vorgesehen ist.
+
+6
+
+Mit dem Gesetz Nr. 220/2010 wurden die Anforderungen für die Erteilung von Konzessionen für die Organisation und den Betrieb staatlicher Glücksspiele in einer für Global Starnet nachteiligen Weise geändert. Gemäß diesem Gesetz erließ die AAMS ein Dekret über die Festlegung der Anforderungen an den Betrieb von Online-Glücksspielen auf Spiel- und Freizeitautomaten sowie die Ausschreibung zur Vergabe der Konzessionen für die Einrichtung und den Betrieb des Netzes für Online-Glücksspiele auf solchen Automaten.
+
+7
+
+Global Starnet erhob gegen diese beiden Verwaltungsakte Klage vor dem Tribunale amministrativo regionale per il Lazio (Verwaltungsgericht für die Region Latium, Italien).
+
+8
+
+Nachdem das Gericht ihre Klage abgewiesen hatte, legte Global Starnet ein Rechtsmittel beim Consiglio di Stato (Staatsrat, Italien) ein, mit dem sie in erster Linie einen Verstoß gegen den Grundsatz des Vertrauensschutzes rügte, da nach dem Gesetz Nr. 220/2010 Anforderungen an die Ausübung der Tätigkeit als Konzessionär für die Organisation und den Betrieb staatlicher Glücksspiele neu festgelegt werden könnten, die die bestehende Konzessionsvereinbarung wesentlich änderten. Weiter berief Global Starnet sich auf einen Verstoß gegen den Gleichbehandlungsgrundsatz, da sie gegenüber neuen Wettbewerbern, die nicht verschuldet seien, benachteiligt werde, und auf die Unvereinbarkeit des Gesetzes mit den Rechtsgrundsätzen der Union, die die Beseitigung aller Hindernisse für die Entwicklung des freien Waren- und Dienstleistungsverkehrs vorschrieben. Schließlich machte Global Starnet geltend, die streitigen Bestimmungen des Gesetzes Nr. 220/2010 seien verfassungswidrig, da sie gegen die unternehmerische Freiheit verstießen, und die Ausschreibung zur Vergabe der Konzessionen für den Aufbau und den Betrieb des Netzes für Online-Glücksspiele auf Spiel- und Freizeitautomaten sei rechtswidrig, da sie dazu führen könnte, sie vom Vergabeverfahren auszuschließen.
+
+9
+
+Der Consiglio di Stato (Staatsrat) gab dem Rechtsmittel von Global Starnet am 2. September 2013 mit Zwischenurteil teilweise statt. Er befand u. a., dass das Unternehmen zur Teilnahme an dem neuen Auswahlverfahren gezwungen worden sei, obgleich nach den Rechtsvorschriften, die zum Zeitpunkt der Konzessionsvereinbarung mit Global Starnet gegolten hätten, für Betreiber, die bereits Konzessionäre gewesen seien, kein Auswahlverfahren erforderlich gewesen sei. Ihr sei damit in unzulässiger Weise ein ungünstigerer Vertrag aufgezwungen worden, obwohl sie im Vertrauen auf eine ununterbrochene Fortdauer der ursprünglichen Konzession Investitionen getätigt habe, neuen Wettbewerbern aber den Zugang gestatte.
+
+10
+
+Auf Antrag des vorlegenden Gerichts, das die Frage nach der Verfassungsmäßigkeit von Art. 1 Abs. 79 des Gesetzes Nr. 220/2010 aufwarf, entschied die Corte costituzionale (Verfassungsgerichtshof, Italien) mit Urteil Nr. 56/2015 vom 31. März 2015, dass der Grundsatz des Vertrauensschutzes und die Rechtssicherheit durch die italienische Verfassung geschützte Werte seien, jedoch weder uneingeschränkt noch ausnahmslos gälten. Was Konzessionen für staatliche Dienstleistungen betreffe, sei die Möglichkeit eines staatlichen Eingreifens, das zu einer Änderung der Ausgangsbedingungen führe, als der Konzessionsvereinbarung von Anfang an inhärent anzusehen; dies gelte erst recht in einem so sensiblen Bereich wie dem des staatlichen Glücksspiels, der besondere und ununterbrochene Beachtung durch den nationalen Gesetzgeber verdiene. Daher sei weder gegen diese Werte noch gegen die unternehmerische Freiheit verstoßen worden. Darüber hinaus stellten die Beschränkungen durch die fraglichen Vorschriften im vorliegenden Fall nur eine Mindestmaßnahme zur Herstellung des Grundsatzes der Gleichbehandlung der Betreiber dar, die durch die Lage eines bereits tätigen Konzessionärs vollkommen gerechtfertigt werde, der bevorzugt werde, da er nicht an dem neuen Auswahlverfahren habe teilnehmen müssen. Die fraglichen Bestimmungen seien damit weder mit den vom nationalen Gesetzgeber festgelegten Zielen offensichtlich unvereinbar noch angesichts des Inhalts und der Art und Weise des Konzessionsvertragsverhältnisses unverhältnismäßig, noch trügen sie zu einer nicht hinzunehmenden zusätzlichen Belastung bei. Die Corte costituzionale (Verfassungsgerichtshof) gelangte schließlich zu dem Ergebnis, dass der mutmaßliche Verlust des gesamten oder eines Teils des investierten Kapitals schlimmstenfalls eine bloß indirekte Folge der Betriebsbeschränkungen durch die fraglichen Bestimmungen darstelle und als solche nicht in den Schutzbereich eines Schadensersatzanspruchs falle.
+
+11
+
+Nach diesem Urteil der Corte costituzionale (Verfassungsgerichtshof), die Art. 1 Abs. 79 des Gesetzes Nr. 220/2010 im Licht von Vorschriften der italienischen Verfassung geprüft hatte, deren Inhalt nach Auffassung des vorlegenden Gerichts im Wesentlichen den entsprechenden Vorschriften des EU-Vertrags entspricht, hielt dieses Gericht ein Vorabentscheidungsersuchen an den Gerichtshof für erforderlich.
+
+12
+
+Unter diesen Umständen hat der Consiglio di Stato (Staatsrat) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+1.
+
+Kann Art. 267 Abs. 3 AEUV dahin ausgelegt werden, dass die unbedingte Pflicht eines letztinstanzlichen Gerichts, eine Frage zur Auslegung des Unionsrechts zur Vorabentscheidung vorzulegen, dann nicht besteht, wenn im Lauf desselben Verfahrens die Corte costituzionale (Verfassungsgerichtshof) die Verfassungsmäßigkeit der nationalen Regelung beurteilt hat, indem sie im Wesentlichen dieselben rechtlichen Maßstäbe angewandt hat wie die, um deren Auslegung der Gerichtshof ersucht wird, wenngleich Erstere formal verschieden sind, da sie in Vorschriften der Verfassung und nicht in solchen der europäischen Verträge festgelegt sind?
+
+2.
+
+Hilfsweise für den Fall, dass der Gerichtshof die Frage zur Auslegung von Art. 267 Abs. 3 AEUV dahin entscheidet, dass die Vorlage zur Vorabentscheidung obligatorisch ist: Stehen die Bestimmungen und Grundsätze der Art. 26, 49, 56 und 63 AEUV und des Art. 16 der Charta der Grundrechte sowie der allgemeine Grundsatz des Vertrauensschutzes (der zu den tragenden Grundsätzen der Union gehört, wie der Gerichtshof mit Urteil vom 14. März 2013, Agrargenossenschaft Neuzelle, C‑545/11, EU:C:2013:169, festgestellt hat) dem Erlass und der Anwendung einer nationalen Regelung (Art. 1 Abs. 78 Buchst. b Nrn. 4, 8, 9, 17, 23 und 25 des Gesetzes Nr. 220/2010) entgegen, die auch an Personen, die bereits Konzessionäre im Bereich des Betriebs von gesetzlich erlaubten Online-Glücksspielen sind, neue Anforderungen und Pflichten mittels eines Nachtrags zur bereits bestehenden Vereinbarung (ohne eine Frist für eine schrittweise Anpassung) festlegt?
+
+Zu den Vorlagefragen
+
+Zur ersten Frage
+
+13
+
+Mit seiner ersten Frage möchte das vorlegende Gericht wissen, ob Art. 267 Abs. 3 AEUV dahin auszulegen ist, dass ein nationales Gericht, dessen Entscheidungen nicht mit Rechtsmitteln angefochten werden können, nicht verpflichtet ist, eine Frage zur Auslegung des Unionsrechts zur Vorabentscheidung vorzulegen, wenn das Verfassungsgericht des betroffenen Mitgliedstaats im Rahmen desselben nationalen Verfahrens die Verfassungsmäßigkeit der nationalen Regelung nach den rechtlichen Maßstäben beurteilt hat, die inhaltlich den unionsrechtlichen Maßstäben entsprechen.
+
+14
+
+Einleitend ist festzustellen, dass das vorlegende Gericht vor der Anrufung des Gerichtshofs der Corte costituzionale (Verfassungsgerichtshof) eine Frage nach der Verfassungsmäßigkeit der nationalen Rechtsvorschriften gestellt hatte, die auch Gegenstand der zweiten Vorlagefrage sind. In ihrer Antwort auf diese Frage hat die Corte costituzionale (Verfassungsgerichtshof) zur Vereinbarkeit dieser Vorschriften nicht mit dem Unionsrecht, jedoch mit den Bestimmungen der italienischen Verfassung Stellung genommen, die nach Auffassung des vorlegenden Gerichts im Wesentlichen mit den Art. 26, 49, 56 und 63 AEUV und Art. 16 der Charta der Grundrechte sowie den Grundsätzen der Rechtssicherheit und des Vertrauensschutzes als rechtliche Maßstäbe identisch sind.
+
+Zur Zulässigkeit
+
+15
+
+Die italienische Regierung hält die erste Frage aus folgenden Gründen für unzulässig.
+
+16
+
+Erstens habe das nationale Gericht, das im letzten Rechtszug entscheide, eine Pflicht zur vorherigen Prüfung der Frage, um einen Missbrauch durch die Parteien zu vermeiden. Zweitens habe es keine Veranlassung, sich zu fragen, ob es verpflichtet sei, der Auslegung der Corte costituzionale (Verfassungsgerichtshof) zu folgen, da deren Urteile, mit denen Fragen der Verfassungsmäßigkeit zurückgewiesen würden, für das nationale Gericht nicht bindend seien. Drittens habe das vorlegende Gericht, da es die Frage der Verfassungsmäßigkeit des nationalen Rechts für die Entscheidung des Rechtsstreits für erheblich gehalten und daher an die Corte costituzionale (Verfassungsgerichtshof) Fragen gerichtet habe, den Standpunkt eingenommen, dass die angefochtene nationale Regelung im Einklang mit dem Unionsrecht stehe. Viertens sei die erste Frage rein hypothetischer Natur und daher unzulässig, denn das vorlegende Gericht hätte eine Frage nach einem möglichen Verstoß der im Ausgangsverfahren fraglichen Regelung gegen das Unionsrecht der Corte costituzionale (Verfassungsgerichtshof) stellen müssen, bevor es dem Gerichtshof diese Frage vorlegte.
+
+17
+
+Insoweit ist daran zu erinnern, dass im Rahmen der durch Art. 267 AEUV geschaffenen Zusammenarbeit zwischen dem Gerichtshof und den nationalen Gerichten es allein Sache des mit dem Rechtsstreit befassten nationalen Gerichts ist, in dessen Verantwortungsbereich die zu erlassende gerichtliche Entscheidung fällt, im Hinblick auf die Besonderheiten der Rechtssache sowohl die Erforderlichkeit einer Vorabentscheidung zum Erlass seines Urteils als auch die Erheblichkeit der dem Gerichtshof vorgelegten Fragen zu beurteilen. Betrifft die vorgelegte Frage die Auslegung des Unionsrechts, so ist der Gerichtshof daher grundsätzlich gehalten, darüber zu befinden. Er darf die Entscheidung über die Vorlagefrage eines nationalen Gerichts nur dann verweigern, wenn die erbetene Auslegung des Unionsrechts offensichtlich in keinem Zusammenhang mit der Realität oder dem Gegenstand des Ausgangsrechtsstreits steht, wenn das Problem hypothetischer Natur ist oder wenn er nicht über die tatsächlichen und rechtlichen Angaben verfügt, die für eine zweckdienliche Beantwortung der ihm vorgelegten Fragen erforderlich sind (Urteil vom 7. Juli 2016, Muladi, C‑447/15, EU:C:2016:533, Rn. 33).
+
+18
+
+Im vorliegenden Fall ist nicht ersichtlich, dass die begehrte Auslegung des Unionsrechts in keinem Zusammenhang mit der Realität oder dem Gegenstand des Ausgangsrechtsstreits stünde oder dass das Problem hypothetischer Natur wäre.
+
+19
+
+Darüber hinaus ist in Anbetracht der oben angeführten Rechtsprechung die Frage, ob das vorlegende Gericht durch die Auslegung der in Rede stehenden nationalen Regelung durch die Corte costituzionale (Verfassungsgerichtshof) gebunden ist oder ob sie diesem Gericht eine Frage nach der Auslegung des Unionsrechts hätte stellen müssen, für die Beurteilung der Zulässigkeit der ersten Vorlagefrage unerheblich.
+
+20
+
+Folglich ist die erste Frage zulässig.
+
+Zur Beantwortung der Frage
+
+21
+
+Es ist darauf hinzuweisen, dass ein nationales Gericht, bei dem ein das Unionsrecht betreffender Rechtsstreit anhängig ist und nach dessen Auffassung eine innerstaatliche Vorschrift nicht nur gegen das Unionsrecht verstößt, sondern darüber hinaus auch verfassungswidrig ist, auch dann, wenn zur Feststellung der Verfassungswidrigkeit einer innerstaatlichen Vorschrift die Anrufung eines Verfassungsgerichts zwingend vorgeschrieben ist, gemäß Art. 267 AEUV befugt bzw. verpflichtet ist, dem Gerichtshof Fragen nach der Auslegung oder der Gültigkeit des Unionsrechts vorzulegen. Die Wirksamkeit des Unionsrechts wäre nämlich gefährdet, wenn der Umstand, dass die Anrufung eines Verfassungsgerichts zwingend vorgeschrieben ist, das innerstaatliche Gericht, bei dem ein nach Unionsrecht zu entscheidender Rechtsstreit anhängig ist, daran hindern könnte, von der ihm durch Art. 267 AEUV eingeräumten Befugnis Gebrauch zu machen, dem Gerichtshof Fragen vorzulegen, die die Auslegung und die Gültigkeit des Unionsrechts betreffen, um darüber entscheiden zu können, ob eine innerstaatliche Vorschrift mit dem Unionsrecht vereinbar ist oder nicht (Urteil vom 4. Juni 2015, Kernkraftwerke Lippe Ems, C‑5/14, EU:C:2015:354, Rn. 34 und die dort angeführte Rechtsprechung).
+
+22
+
+Der Gerichtshof hat aus sämtlichen dieser Erwägungen abgeleitet, dass es dem nationalen Gericht im Hinblick auf das Funktionieren des durch Art. 267 AEUV geschaffenen Systems der Zusammenarbeit zwischen dem Gerichtshof und den nationalen Gerichten und den Grundsatz des Vorrangs des Unionsrechts freistehen muss, in jedem Moment des Verfahrens, den es für geeignet hält, und selbst nach Abschluss eines Zwischenverfahrens zur Kontrolle der Verfassungsmäßigkeit dem Gerichtshof jede Frage zur Vorabentscheidung vorzulegen, die es für erforderlich hält (Urteil vom 4. Juni 2015, Kernkraftwerke Lippe Ems, C‑5/14, EU:C:2015:354, Rn. 35 und die dort angeführte Rechtsprechung).
+
+23
+
+Aus den vorstehenden Erwägungen ergibt sich jedoch, dass die Wirksamkeit des Unionsrechts gefährdet wäre und die praktische Wirksamkeit von Art. 267 AEUV geschmälert würde, wenn es dem nationalen Gericht verwehrt wäre, wegen der Tatsache, dass ein Verfahren zur Kontrolle der Verfassungsmäßigkeit besteht, dem Gerichtshof Fragen zur Vorabentscheidung vorzulegen und das Unionsrecht nach Maßgabe der Entscheidung oder der Rechtsprechung des Gerichtshofs unmittelbar anzuwenden (vgl. in diesem Sinne Urteil vom 4. Juni 2015, Kernkraftwerke Lippe-Ems, C‑5/14, EU:C:2015:354, Rn. 36 und die dort angeführte Rechtsprechung).
+
+24
+
+Auch wenn das Verfahren nach Art. 267 AEUV ein Instrument der Zusammenarbeit zwischen dem Gerichtshof und den nationalen Gerichten ist, mit dem der Gerichtshof diesen Hinweise zur Auslegung des Unionsrechts gibt, die sie zur Entscheidung des bei ihnen anhängigen Rechtsstreits benötigen, so ist zudem doch ein einzelstaatliches Gericht, sofern gegen seine Entscheidung kein Rechtsmittel des innerstaatlichen Rechts gegeben ist, grundsätzlich verpflichtet, den Gerichtshof gemäß Art. 267 Abs. 3 AEUV anzurufen, wenn sich in einem bei ihm anhängigen Verfahren eine Frage nach der Auslegung des Unionsrechts stellt (vgl. Urteil vom 9. September 2015, Ferreira da Silva e Brito u. a., C‑160/14, EU:C:2015:565, Rn. 37).
+
+25
+
+Der Umstand, dass die Corte costituzionale (Verfassungsgerichtshof) sich zur Vereinbarkeit der Vorschriften des innerstaatlichen Rechts, die auch Gegenstand der zweiten Vorlagefrage sind, mit den Bestimmungen der italienischen Verfassung geäußert hat, die nach Auffassung des vorlegenden Gerichts im Wesentlichen mit den Art. 26, 49, 56 und 63 AEUV und Art. 16 der Charta der Grundrechte als rechtliche Maßstäbe identisch sind, hat keinen Einfluss auf die in Art. 267 AEUV vorgesehene Verpflichtung, dem Gerichtshof Fragen nach der Auslegung des Unionsrechts vorzulegen.
+
+26
+
+Nach alledem ist auf die erste Frage zu antworten, dass Art. 267 Abs. 3 AEUV dahin auszulegen ist, dass ein innerstaatliches Gericht, dessen Entscheidungen nicht mit Rechtsmitteln angefochten werden können, grundsätzlich verpflichtet ist, eine Frage zur Auslegung des Unionsrechts zur Vorabentscheidung vorzulegen, auch wenn das Verfassungsgericht des betroffenen Mitgliedstaats im Rahmen desselben nationalen Verfahrens die Verfassungsmäßigkeit der nationalen Regelung nach den rechtlichen Maßstäben beurteilt hat, die inhaltlich den unionsrechtlichen Maßstäben entsprechen.
+
+Zur zweiten Frage
+
+27
+
+Mit seiner zweiten Frage möchte das vorlegende Gericht wissen, ob die Art. 26, 49, 56 und 63 AEUV, Art. 16 der Charta der Grundrechte sowie der Grundsatz des Vertrauensschutzes dahin auszulegen sind, dass sie einer nationalen Regelung wie der im Ausgangsverfahren fraglichen entgegenstehen, die Personen, die bereits Konzessionäre im Bereich des Betriebs von gesetzlich erlaubten Online-Glücksspielen sind, mittels eines Nachtrags zur bereits bestehenden Vereinbarung neue Anforderungen an die Ausübung ihrer Tätigkeit auferlegt.
+
+28
+
+Im vorliegenden Fall wurden in Art. 1 Abs. 78 Buchst. b Nrn. 4, 8, 9, 17, 23 und 25 des Gesetzes Nr. 220/2010 Betreibern, die bereits Konzessionäre waren, sechs neue Anforderungen an die Ausübung ihrer Tätigkeit auferlegt. Diese beinhalten die Pflicht, die Verschuldungsquote unterhalb eines Wertes zu halten, der einen durch Dekret festgelegten Wert nicht übersteigt, das Erfordernis einer vorherigen Zustimmung der AAMS, ohne die die Konzession erlischt, für Geschäfte, die zu einem Personenwechsel beim Konzessionär führen können, das Erfordernis einer vorherigen Zustimmung der AAMS für die Übertragung von Beteiligungen des Konzessionärs, die zu einer Verringerung des durch Dekret festgelegten Indexes der Vermögenssolidität führen kann – und zwar unbeschadet der Pflicht des Konzessionärs, in diesen Fällen, soll die Konzession nicht erlöschen, diesen Index wiederherzustellen –, das Erfordernis einer vorherigen Zustimmung der AAMS für die Verwendung des zusätzlichen Gewinns aus bestimmten Tätigkeiten zu anderen Zwecken als Investitionen im Zusammenhang mit dem Konzessionsgegenstand, die Verhängung von Sanktionen in Form von Vertragsstrafen, deren Schwere sich nach der Schwere des Verstoßes unter Beachtung der Grundsätze der Verhältnismäßigkeit und der Wirksamkeit der Sanktionen richtet, wenn der Konzessionär – auch ohne Vorsatz – gegen Klauseln der Vereinbarung verstößt, und die Pflicht des Konzessionärs, bei Beendigung seiner Tätigkeit den Betrieb und die Geschäfte, die Gegenstand der Konzession sind, bis zur Übertragung des Betriebs und der Geschäfte an den neuen Konzessionär fortzuführen.
+
+Vorbemerkungen
+
+29
+
+Es ist darauf hinzuweisen, dass in Fällen, in denen eine nationale Maßnahme gleichzeitig mit mehreren Grundfreiheiten im Zusammenhang steht, der Gerichtshof sie grundsätzlich nur im Hinblick auf eine dieser Freiheiten prüft, wenn sich herausstellt, dass unter den Umständen des Einzelfalls die anderen Freiheiten dieser ersten gegenüber völlig zweitrangig sind und ihr zugeordnet werden können (vgl. Beschluss vom 28. September 2016, Durante, C‑438/15, nicht veröffentlicht, EU:C:2016:728, Rn. 14 und die dort angeführte Rechtsprechung).
+
+30
+
+Weiter hat der Gerichtshof entschieden, dass eine mitgliedstaatliche Regelung, die die Ausübung einer wirtschaftlichen Tätigkeit vom Erhalt einer Konzession abhängig macht und mehrere Tatbestände des Konzessionsentzugs vorsieht, eine Beschränkung der durch die Art. 49 und 56 AEUV garantierten Freiheiten darstellt (Urteil vom 28. Januar 2016, Laezza, C‑375/14, EU:C:2016:60, Rn. 22 und die dort angeführte Rechtsprechung).
+
+31
+
+Was die Anwendbarkeit der Art. 34 und 35 AEUV betrifft, ist zudem darauf hinzuweisen, dass das Betreiben von Glücksspielautomaten unabhängig davon, ob es sich von den die Herstellung, die Einfuhr und den Vertrieb derartiger Geräte betreffenden Tätigkeiten trennen lässt oder nicht, nicht unter diese Artikel über den freien Warenverkehr fallen kann (vgl. in diesem Sinne Urteil vom 11. September 2003, Anomar u. a., C‑6/01, EU:C:2003:446, Rn. 56).
+
+32
+
+Was darüber hinaus die Anwendbarkeit von Art. 63 AEUV anbelangt, wären, da das vorlegende Gericht keine gegenteiligen Anhaltspunkte vorgetragen hat, die etwaigen beschränkenden Wirkungen der im Ausgangsverfahren in Rede stehenden Maßnahmen auf den freien Kapital- und Zahlungsverkehr nur die unvermeidbare Folge der etwaigen Beschränkungen der durch die Art. 49 und 56 AEUV garantierten Freiheiten.
+
+33
+
+Zu Art. 26 AEUV ist schließlich festzustellen, dass ausweislich der dem Gerichtshof vorliegenden Akten der Rechtsstreit des Ausgangsverfahrens nicht die Zuständigkeit der Union oder ihrer Organe für den Erlass der in diesem Artikel vorgesehenen Maßnahmen betrifft.
+
+34
+
+Daher ist auf die zweite Frage nur zu antworten, soweit die Art. 49 und 56 AEUV, Art. 16 der Charta der Grundrechte sowie der Grundsatz des Vertrauensschutzes betroffen sind.
+
+Zur Beschränkung der durch die Art. 49 und 56 AEUV garantierten Freiheiten
+
+35
+
+Es ist festzustellen, dass als Beschränkungen der Niederlassungsfreiheit und/oder der Dienstleistungsfreiheit alle Maßnahmen zu verstehen sind, die die Ausübung der von den Art. 49 und 56 AEUV garantierten Freiheiten untersagen, behindern oder weniger attraktiv machen (vgl. Urteil vom 22. Januar 2015, Stanley International Betting und Stanleybet Malta, C‑463/13, EU:C:2015:25, Rn. 45 und die dort angeführte Rechtsprechung).
+
+36
+
+Im vorliegenden Fall können die neuen Anforderungen an die Ausübung ihrer Tätigkeit, die den bereits tätigen Konzessionären durch den oben in Rn. 28 wiedergegebenen Art. 1 Abs. 78 Buchst. b Nrn. 4, 8, 9, 17, 23 und 25 des Gesetzes Nr. 220/2010 auferlegt worden sind, die Ausübung der durch die Art. 49 und 56 AEUV garantierten Freiheiten weniger attraktiv machen, da diese Anforderungen die Rentabilität ihrer Investitionen zunichtemachen können.
+
+37
+
+Daher stellen diese Maßnahmen Beschränkungen der durch die Art. 49 und 56 AEUV garantierten Freiheiten dar.
+
+38
+
+Zu prüfen ist, ob diese Beschränkungen gleichwohl gerechtfertigt sein können.
+
+Zur Rechtfertigung der Beschränkungen der durch die Art. 49 und 56 AEUV garantierten Freiheiten
+
+– Zum Vorliegen zwingender Gründe des Allgemeininteresses
+
+39
+
+Es ist darauf hinzuweisen, dass die Regelung der Glücksspiele zu den Bereichen gehört, in denen beträchtliche sittliche, religiöse und kulturelle Unterschiede zwischen den Mitgliedstaaten bestehen. In Ermangelung einer Harmonisierung dieses Bereichs durch die Union verfügen die Mitgliedstaaten bei der Bestimmung des ihnen am geeignetsten erscheinenden Niveaus des Schutzes der Verbraucher und der Sozialordnung über ein weites Ermessen (Urteil vom 8. September 2016, Politanò, C‑225/15, EU:C:2016:645, Rn. 39 und die dort angeführte Rechtsprechung).
+
+40
+
+Es steht den Mitgliedstaaten daher frei, die Ziele ihrer Politik auf dem Gebiet der Glücksspiele festzulegen und gegebenenfalls das angestrebte Schutzniveau genau zu bestimmen. Die von ihnen vorgesehenen Beschränkungen müssen jedoch den sich aus der Rechtsprechung des Gerichtshofs ergebenden Anforderungen – insbesondere an ihre Rechtfertigung durch zwingende Gründe des Allgemeininteresses und ihre Verhältnismäßigkeit – genügen (Urteil vom 8. September 2016, Politanò, C‑225/15, EU:C:2016:645, Rn. 40 und die dort angeführte Rechtsprechung).
+
+41
+
+Im vorliegenden Fall lässt sich, wie der Generalanwalt in Nr. 43 seiner Schlussanträge festgestellt hat, dem Inhalt der im Ausgangsverfahren fraglichen Bestimmungen entnehmen, dass deren Ziel darin besteht, die wirtschaftliche und finanzielle Solidität der Konzessionäre sowie ihre Zuverlässigkeit und Redlichkeit zu stärken und Straftaten zu bekämpfen.
+
+42
+
+Angesichts der Besonderheit der Lage im Zusammenhang mit Glücksspielen können solche Ziele zwingende Gründe des Allgemeininteresses darstellen, die geeignet sind, Beschränkungen von Grundfreiheiten wie der im Ausgangsverfahren in Rede stehenden zu rechtfertigen (vgl. in diesem Sinne Urteil vom 8. September 2016, Politanò, C‑225/15, EU:C:2016:645, Rn. 42 und 43).
+
+43
+
+Für die Feststellung, welche Ziele mit den im Ausgangsverfahren fraglichen Bestimmungen tatsächlich verfolgt werden, ist allerdings das vorlegende Gericht zuständig (vgl. in diesem Sinne Urteil vom 28. Januar 2016, Laezza, C‑375/14, EU:C:2016:60, Rn. 35).
+
+44
+
+Im Übrigen ist, wenn sich ein Mitgliedstaat auf zwingende Gründe des Allgemeininteresses beruft, um eine Regelung zu rechtfertigen, die geeignet ist, die Ausübung der Niederlassungsfreiheit und der Dienstleistungsfreiheit zu behindern, diese Rechtfertigung auch im Licht der allgemeinen Grundsätze des Unionsrechts und insbesondere der Grundrechte, die nunmehr durch die Charta der Grundrechte garantiert werden, auszulegen. Eine vorgesehene Rechtfertigung kann daher für die betreffende nationale Regelung nur dann gelten, wenn sie im Einklang mit diesen Grundsätzen und Rechten steht (vgl. in diesem Sinne Urteil vom 11. Juni 2015, Berlington Hungary u. a., C‑98/14, EU:C:2015:386, Rn. 74 und die dort angeführte Rechtsprechung).
+
+45
+
+Im vorliegenden Fall fragt das vorlegende Gericht, ob die Grundsätze der Rechtssicherheit und des Vertrauensschutzes sowie die in Art. 16 der Charta der Grundrechte vorgesehene unternehmerische Freiheit einer nationalen Regelung wie der – oben in Rn. 28 wiedergegebenen – im Ausgangsverfahren fraglichen Regelung entgegenstehen, die Personen, die bereits Konzessionäre im Bereich des Betriebs von gesetzlich erlaubten Online-Glücksspielen sind, mittels eines Nachtrags zur bereits bestehenden Vereinbarung neue Anforderungen an die Ausübung ihrer Tätigkeit auferlegt.
+
+– Zum Grundsatz des Vertrauensschutzes
+
+46
+
+Es ist hervorzuheben, dass der Grundsatz der Rechtssicherheit, von dem sich der Grundsatz des Vertrauensschutzes ableitet, es u. a. gebietet, dass Rechtsvorschriften – vor allem dann, wenn sie nachteilige Folgen für Einzelne und Unternehmen haben können – klar, bestimmt und in ihren Auswirkungen voraussehbar sein müssen (vgl. in diesem Sinne Urteil vom 11. Juni 2015, Berlington Hungary u. a., C‑98/14, EU:C:2015:386, Rn. 77 und die dort angeführte Rechtsprechung).
+
+47
+
+Ein Wirtschaftsteilnehmer kann jedoch nicht auf das völlige Ausbleiben von Gesetzesänderungen vertrauen, sondern nur die Modalitäten der Durchführung einer solchen Änderung in Frage stellen (vgl. in diesem Sinne Urteil vom 11. Juni 2015, Berlington Hungary u. a., C‑98/14, EU:C:2015:386, Rn. 78 und die dort angeführte Rechtsprechung).
+
+48
+
+Insoweit ist zu bemerken, dass der nationale Gesetzgeber einen hinreichend langen Zeitraum, damit sich die Wirtschaftsteilnehmer darauf einstellen können, oder eine angemessene Entschädigungsregelung vorsehen muss (vgl. in diesem Sinne Urteil vom 11. Juni 2015, Berlington Hungary u. a., C‑98/14, EU:C:2015:386, Rn. 85 und die dort angeführte Rechtsprechung).
+
+49
+
+Auch wenn es Sache des vorlegenden Gerichts ist, im Licht der in den vorstehenden Randnummern dargelegten Rechtsprechung und auf der Grundlage einer umfassenden Bewertung aller maßgeblichen Umstände zu prüfen, ob die in Rede stehende nationale Regelung dem Grundsatz des Vertrauensschutzes entspricht, ist festzustellen, dass das Gesetz Nr. 220/2010, wie sich aus dem Vorabentscheidungsersuchen ergibt, für die Einführung der neuen Anforderungen, die es durch die Unterzeichnung eines Nachtrags zur Vereinbarung festgelegt hat, eine Frist von 180 Tagen nach ihrem Inkrafttreten vorsah. Diese Frist erscheint grundsätzlich ausreichend, um den Konzessionären eine Anpassung an diese Anforderungen zu ermöglichen.
+
+– Zur unternehmerischen Freiheit
+
+50
+
+Wie der Gerichtshof bereits entschieden hat, erfasst eine Prüfung der Beschränkung, die eine Regelung in Bezug auf die Art. 49 und 56 AEUV darstellt, auch mögliche Beschränkungen der Ausübung der in den Art. 15 bis 17 der Charta der Grundrechte vorgesehenen Rechte und Freiheiten, so dass es keiner getrennten Prüfung der unternehmerischen Freiheit bedarf (vgl. in diesem Sinne Urteile vom 30. April 2014, Pfleger u. a., C‑390/12, EU:C:2014:281, Rn. 60, und vom 11. Juni 2015, Berlington Hungary u. a., C‑98/14, EU:C:2015:386, Rn. 91).
+
+Zur Verhältnismäßigkeit der Beschränkung der durch die Art. 49 und 56 AEUV garantierten Freiheiten sowie der unternehmerischen Freiheit
+
+51
+
+Was die Verhältnismäßigkeit der in Art. 1 Abs. 78 Buchst. b Nrn. 4, 8, 9, 17, 23 und 25 des Gesetzes Nr. 220/2010 vorgesehenen Maßnahmen betrifft, ist zu prüfen, ob diese Maßnahmen geeignet sind, die Erreichung der verfolgten Ziele zu gewährleisten, und nicht über das hierfür Erforderliche hinausgehen, wobei insbesondere sicherzustellen ist, dass die im Ausgangsverfahren fragliche nationale Regelung tatsächlich dem Anliegen gerecht wird, diese Ziele in kohärenter und systematischer Weise zu erreichen (Urteil vom 8. September 2016, Politanò, C‑225/15, EU:C:2016:645, Rn. 44).
+
+52
+
+Insoweit ist darauf hinzuweisen, dass es Sache des vorlegenden Gerichts ist, im Rahmen einer Gesamtwürdigung aller Umstände unter Berücksichtigung der Hinweise des Gerichtshofs zu prüfen, ob die im Ausgangsverfahren fraglichen Beschränkungen den sich aus der Rechtsprechung ergebenden Anforderungen an ihre Verhältnismäßigkeit genügen (Urteil vom 8. September 2016, Politanò, C‑225/15, EU:C:2016:645, Rn. 49 und die dort angeführte Rechtsprechung).
+
+53
+
+Nach Art. 1 Abs. 78 Buchst. b Nrn. 8, 9 und 17 des Gesetzes Nr. 220/2010 ist für Geschäfte, die zu einem Personenwechsel beim Konzessionär führen können, für die Übertragung von Beteiligungen des Konzessionärs, die zu einer Verringerung des durch Dekret festgelegten Indexes der Vermögenssolidität führen kann, sowie für die Verwendung des zusätzlichen Gewinns aus bestimmten Tätigkeiten zu anderen Zwecken als Investitionen in Zusammenhang mit dem Konzessionsgegenstand jeweils die vorherige Zustimmung der AAMS einzuholen.
+
+54
+
+Es ist Sache des nationalen Gerichts, zu prüfen, ob die Kriterien, die die Befugnisse der AAMS, eine vorherige Zustimmung zu erteilen, eingrenzen, die Erreichung der verfolgten Ziele gewährleisten können und nicht über das hierfür Erforderliche hinausgehen.
+
+55
+
+Zudem erscheinen die in Art. 1 Abs. 78 Buchst. b Nrn. 4 und 9 des Gesetzes Nr. 220/2010 vorgesehenen Maßnahmen, nämlich die Pflicht, die Verschuldungsquote unterhalb eines Wertes zu halten, der einen durch Dekret festgelegten Wert nicht übersteigt, und das Erfordernis einer vorherigen Zustimmung der AAMS für die Übertragung von Beteiligungen des Konzessionärs, die zu einer Verringerung des durch Dekret festgelegten Indexes der Vermögenssolidität führen kann, zweckdienlich, um eine bestimmte finanzielle Leistungsfähigkeit des Wirtschaftsteilnehmers sicherzustellen und um zu gewährleisten, dass er die Pflichten erfüllen kann, die sich aus der Einrichtung und dem operationellen Betrieb des Netzes für Online-Glücksspiele ergeben.
+
+56
+
+Das vorlegende Gericht muss sicherstellen, dass – was die erste Maßnahme betrifft – die Verschuldensquote und – was die zweite betrifft – der Index der Vermögenssolidität nicht über das zur Erreichung dieses Ziels Erforderliche hinausgehen.
+
+57
+
+Was ferner die in Art. 1 Abs. 78 Buchst. b Nrn. 8 und 17 des Gesetzes Nr. 220/2010 vorgesehenen Maßnahmen betrifft, nämlich das Erfordernis einer vorherigen Zustimmung der AAMS für Geschäfte, die zu einem Personenwechsel beim Konzessionär führen können, weil sonst die Konzession erlischt, und das Erfordernis einer vorherigen Zustimmung der AAMS für die Verwendung des zusätzlichen Gewinns aus bestimmten Tätigkeiten zu anderen Zwecken als Investitionen im Zusammenhang mit dem Konzessionsgegenstand, ist festzustellen, dass diese Maßnahmen, da sie den Einfluss krimineller Organisationen auf die im Ausgangsverfahren in Rede stehenden Tätigkeiten sowie Geldwäsche verhindern können, im Kampf gegen die Kriminalität zweckdienlich sein können und nicht über das zur Erreichung dieses Ziels Erforderliche hinausgehen.
+
+58
+
+Was die in Art. 1 Abs. 78 Buchst. b Nr. 25 des Gesetzes Nr. 220/2010 vorgesehene Maßnahme betrifft, nämlich die Pflicht des Konzessionärs, bei Beendigung seiner Tätigkeit den Betrieb und die Geschäfte, die Gegenstand der Konzession sind, bis zur Übertragung des Betriebs und der Geschäfte an den neuen Konzessionär fortzuführen, so ist diese Maßnahme geeignet, die Kontinuität der rechtmäßigen Tätigkeit der Wettannahme, durch die der Entwicklung einer rechtswidrigen Paralleltätigkeit Einhalt geboten werden soll, sicherzustellen, und sie kann daher zur Bekämpfung von Straftaten beitragen (vgl. in diesem Sinne Urteil vom 28. Januar 2016, Laezza, C‑375/14, EU:C:2016:60, Rn. 33 und 34).
+
+59
+
+Es ist jedoch Sache des vorlegenden Gerichts, zu prüfen, ob sich angesichts des Umstands, dass der Konzessionär verpflichtet ist, die den Gegenstand der Konzession bildenden Dienstleistungen, um dem Allgemeininteresse zu dienen, für eine möglicherweise unbestimmte Zeit mit einer negativen Bilanz zur Verfügung zu stellen, dasselbe Ziel nicht mit einer den Konzessionär weniger belastenden Maßnahme erreichen ließe.
+
+60
+
+Was die in Art. 1 Abs. 78 Buchst. b Nr. 23 des Gesetzes Nr. 220/2010 vorgesehene Maßnahme betrifft, nämlich die Verhängung von Sanktionen in Form von Vertragsstrafen, deren Schwere sich nach der Schwere des Verstoßes unter Beachtung der Grundsätze der Verhältnismäßigkeit und der Wirksamkeit der Sanktionen richtet, wenn der Konzessionär – auch ohne Vorsatz – gegen Klauseln der Vereinbarung verstößt, so ist darauf hinzuweisen, dass Sanktionen nicht im Einklang mit dem Unionsrecht stehen, wenn die Voraussetzungen für ihre Anwendung selbst gegen das Unionsrecht verstoßen (vgl. in diesem Sinne Urteil vom 6. März 2007, Placanica u. a., C‑338/04, C‑359/04 und C‑360/04, EU:C:2007:133, Rn. 69). Sanktionen dürfen nicht über den Rahmen des zur Erreichung der verfolgten Ziele Erforderlichen hinausgehen, und eine Sanktion darf nicht so sehr außer Verhältnis zur Schwere des Verstoßes stehen, dass sie sich als eine Behinderung der im Vertrag verankerten Freiheiten erweist (vgl. in diesem Sinne Urteil vom 5. Juli 2007, Ntionik und Pikoulas, C‑430/05, EU:C:2007:410, Rn. 54).
+
+61
+
+Bei der Beurteilung, ob eine Sanktion mit dem Grundsatz der Verhältnismäßigkeit vereinbar ist, hat das nationale Gericht u. a. die Art und die Schwere des Verstoßes, der mit dieser Sanktion geahndet werden soll, sowie die Methoden für die Bestimmung der Höhe dieser Sanktion zu berücksichtigen (vgl. in diesem Sinne Urteile vom 8. Mai 2008, Ecotrade, C‑95/07 und C‑96/07, EU:C:2008:267, Rn. 65 bis 67, und vom 20. Juni 2013, Rodopi-M 91, C‑259/12, EU:C:2013:414, Rn. 38).
+
+62
+
+Im vorliegenden Fall richten sich die Sanktionen nach dem Wortlaut von Art. 1 Abs. 78 Buchst. b Nr. 23 des Gesetzes Nr. 220/2010 „nach der Schwere des Verstoßes …, wobei die Grundsätze der Verhältnismäßigkeit und der Wirksamkeit der Sanktionen einzuhalten sind“. Weder diesem Wortlaut noch den dem Gerichtshof vorliegenden Akten lässt sich daher entnehmen, dass die in dieser Bestimmung vorgesehenen Sanktionen gegen das Unionsrecht verstoßen.
+
+63
+
+Darüber hinaus ist darauf hinzuweisen, dass nach der Rechtsprechung des Gerichtshofs die Schaffung eines Systems der objektiven Verantwortlichkeit gemessen an den angestrebten Zielen nicht unverhältnismäßig ist, wenn dieses System so geartet ist, dass es die von ihm erfassten Personen zur Beachtung der Bestimmungen einer Verordnung anzuhalten vermag, und wenn die verfolgten Ziele ein Allgemeininteresse aufweisen, das die Schaffung eines solchen Systems rechtfertigen kann (Urteil vom 9. Februar 2012, Urbán, C‑210/10, EU:C:2012:64, Rn. 48).
+
+64
+
+Ebenso wenig läuft dem Unionsrecht eine Regelung wie die im Ausgangsverfahren fragliche zuwider, nach der gegen einen Konzessionär eine Vertragsstrafe verhängt werden kann, wenn er – auch ohne Vorsatz – gegen Klauseln der Vereinbarung verstößt.
+
+65
+
+Nach alledem ist auf die zweite Frage zu antworten, dass die Art. 49 und 56 AEUV sowie der Grundsatz des Vertrauensschutzes dahin auszulegen sind, dass sie einer nationalen Regelung wie der im Ausgangsverfahren fraglichen, die Personen, die bereits Konzessionäre im Bereich des Betriebs von gesetzlich erlaubten Online-Glücksspielen sind, mittels eines Nachtrags zur bereits bestehenden Vereinbarung neue Anforderungen an die Ausübung ihrer Tätigkeit auferlegt, nicht entgegenstehen, sofern das vorlegende Gericht zu dem Schluss gelangt, dass diese Regelung durch zwingende Gründe des Allgemeininteresses gerechtfertigt werden kann, dass sie geeignet ist, die Erreichung der verfolgten Ziele sicherzustellen, und dass sie nicht über das hierzu Erforderliche hinausgeht.
+
+Kosten
+
+66
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem bei dem vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Erste Kammer) für Recht erkannt:
+
+ 	
+1.
+
+Art. 267 Abs. 3 AEUV ist dahin auszulegen, dass ein nationales Gericht, dessen Entscheidungen nicht mit Rechtsmitteln angefochten werden können, grundsätzlich verpflichtet ist, eine Frage zur Auslegung des Unionsrechts zur Vorabentscheidung vorzulegen, auch wenn das Verfassungsgericht des betroffenen Mitgliedstaats im Rahmen desselben nationalen Verfahrens die Verfassungsmäßigkeit der nationalen Regelung nach den rechtlichen Maßstäben beurteilt hat, die inhaltlich den unionsrechtlichen Maßstäben entsprechen.
+
+ 	
+2.
+
+Die Art. 49 und 56 AEUV sowie der Grundsatz des Vertrauensschutzes sind dahin auszulegen, dass sie einer nationalen Regelung wie der im Ausgangsverfahren fraglichen, die Personen, die bereits Konzessionäre im Bereich des Betriebs von gesetzlich erlaubten Online-Glücksspielen sind, mittels eines Nachtrags zur bereits bestehenden Vereinbarung neue Anforderungen an die Ausübung ihrer Tätigkeit auferlegt, nicht entgegenstehen, sofern das vorlegende Gericht zu dem Schluss gelangt, dass diese Regelung durch zwingende Gründe des Allgemeininteresses gerechtfertigt werden kann, dass sie geeignet ist, die Erreichung der verfolgten Ziele sicherzustellen, und dass sie nicht über das hierzu Erforderliche hinausgeht.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Italienisch.

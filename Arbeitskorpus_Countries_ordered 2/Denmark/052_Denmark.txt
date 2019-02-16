@@ -1,0 +1,395 @@
+URTEIL DES GERICHTSHOFS (Neunte Kammer)
+
+18. Januar 2018 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Art. 56 AEUV – Freier Dienstleistungsverkehr – Beschränkungen – Kraftfahrzeug, das von einer in einem Mitgliedstaat wohnhaften Person bei einer in einem anderen Mitgliedstaat ansässigen Leasinggesellschaft geleast wird – Zulassungssteuer, deren Höhe sich nach der Nutzungsdauer des Fahrzeugs richtet – Erforderlichkeit einer Genehmigung der Steuerbehörden vor der Inbetriebnahme – Rechtfertigung – Verhinderung einer Umgehung sowie der betrügerischen oder missbräuchlichen Anwendung der Steuervorschriften – Wahrung der Steuerhoheit des Staates – Verhältnismäßigkeit“
+
+In der Rechtssache C‑249/15
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Østre Landsret (Berufungsgericht der Region Ost, Dänemark), mit Entscheidung vom 22. Mai 2015, beim Gerichtshof eingegangen am 28. Mai 2015, in dem Verfahren
+
+Wind 1014 GmbH,
+
+Kurt Daell
+
+gegen
+
+Skatteministeriet
+
+erlässt
+
+DER GERICHTSHOF (Neunte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten C. Vajda (Berichterstatter), der Richterin K. Jürimäe und des Richters C. Lycourgos,
+
+Generalanwalt: M. Wathelet,
+
+Kanzler: V. Giacobbo-Peyronnel, Verwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 14. Juli 2016,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der Wind 1014 GmbH und von Herrn K. Daell, vertreten durch P. Lambert, advokat,
+
+–
+
+des Skatteministerium, vertreten durch D. Auken, advokat,
+
+–
+
+der dänischen Regierung, vertreten durch C. Thorning als Bevollmächtigten im Beistand von D. Auken, advokat,
+
+–
+
+von Irland, vertreten durch L. Williams, E. Creedon, A. Joyce und D. McDonald als Bevollmächtigte im Beistand von M. Collins, SC, N. O’Driscoll, BL, und S. Kingston, BL,
+
+–
+
+der Europäischen Kommission, vertreten durch M. Wasmeier und L. Grønfeldt als Bevollmächtigte,
+
+aufgrund des nach Anhörung des Generalanwalts ergangenen Beschlusses, ohne Schlussanträge über die Rechtssache zu entscheiden,
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 56 AEUV.
+
+2
+
+Es ergeht im Rahmen zweier Rechtsstreitigkeiten zwischen der Wind 1014 GmbH (im Folgenden: Wind) und Herrn Kurt Daell einerseits und dem Skatteministerium (Finanzministerium, Dänemark) andererseits. Im ersten Rechtsstreit geht es um die Weigerung der Steuerbehörden, die Inbetriebnahme eines Kraftfahrzeugs, das Gegenstand eines zwischen Herrn Daell und Wind, die in einem anderen Mitgliedstaat ansässig ist, geschlossenen Leasingvertrags ist, in Dänemark zu genehmigen, bevor über den Antrag von Wind und Herrn Daell entschieden ist, die Zulassungssteuer für dieses Fahrzeug entsprechend dem Zeitraum, in dem es in Dänemark genutzt werden soll, zu berechnen. Der zweite Rechtsstreit betrifft die Ablehnung dieses Antrags durch die Steuerbehörden.
+
+Dänisches Recht
+
+3
+
+Das Lov om registrering af køretøjer (Gesetz über die Zulassung von Fahrzeugen) in seiner für den Sachverhalt des Ausgangsverfahrens maßgeblichen Fassung sieht in § 2 vor, dass Kraftfahrzeuge „unbeschadet der Abs. 3 und 5 und des § 7 Abs. 5 vor einer Inbetriebnahme im Geltungsbereich des [Færdselslov (Straßenverkehrsgesetz)] in das Fahrzeugregister eingetragen und mit Kennzeichen versehen werden müssen“.
+
+4
+
+§ 1 Abs. 1 des Lov om registreringsafgift af motorkøretøjer (Gesetz über die Zulassungssteuer für Kraftfahrzeuge, im Folgenden: Zulassungssteuergesetz) in seiner für den Sachverhalt des Ausgangsverfahrens maßgeblichen Fassung bestimmt:
+
+„Zugunsten der Staatskasse wird eine Steuer auf Kraftfahrzeuge, die gemäß dem Gesetz über die Zulassung von Fahrzeugen in das Fahrzeugregister eingetragen werden müssen, sowie auf die Anhänger und Sattelanhänger solcher Fahrzeuge erhoben. Keine Steuer wird jedoch erhoben auf Fahrzeuge, die mit Überführungskennzeichen oder Prüfzeichen versehen sind. Die Steuer wird bei der Erstzulassung des Fahrzeugs erhoben, sofern in diesem Gesetz nichts anderes bestimmt ist.
+
+…“
+
+5
+
+§ 3b des Zulassungssteuergesetzes lautet:
+
+„1.   Die Zoll- und Steuerbehörden können auf Antrag genehmigen, dass die Steuer auf zulassungspflichtige Leasingfahrzeuge, die zur vorübergehenden Nutzung im Inland zugelassen werden, nach den Abs. 2 und 3 gezahlt wird, wenn das Fahrzeug einem Unternehmen oder einer festen Niederlassung im Inland oder im Ausland gehört und mit einem schriftlichen Vertrag zeitlich begrenzt an eine im Inland ansässige natürliche oder juristische Person verleast wird. Der Vertrag muss genaue Angaben zur vereinbarten Leasingdauer enthalten. Der Antrag ist entweder vom Leasinggeber oder vom Leasingnehmer zu stellen.
+
+2.   Auf Fahrzeuge, die nach dem Gesetz über die Zulassung von Fahrzeugen zulassungspflichtig sind, ist eine Steuer zu zahlen. Die Zulassungspflicht und damit die Steuerpflicht entstehen zum Zeitpunkt der Inbetriebnahme des Fahrzeugs in Dänemark durch einen Gebietsansässigen. Die Steuer wird für die gesamte im Leasingvertrag vereinbarte Leasingdauer erhoben. Die Steuer beträgt
+
+1)
+
+für Fahrzeuge, die bei Erstzulassung oder Inbetriebnahme in Dänemark oder im Ausland zwischen 0 und 3 Monate alt sind, 2 % der Zulassungssteuer pro angefangenem Monat nach Erstzulassung oder Inbetriebnahme in den ersten drei Monaten,
+
+2)
+
+für Fahrzeuge, die bei Entstehung der Zulassungspflicht älter als 3 Monate, gerechnet ab Erstzulassung oder Inbetriebnahme in Dänemark oder im Ausland, sind, 1 % der Zulassungssteuer pro angefangenem Monat für die folgenden 33 Monate und
+
+3)
+
+für Fahrzeuge, die bei Entstehung der Zulassungspflicht älter als 36 Monate, gerechnet ab Erstzulassung oder Inbetriebnahme in Dänemark oder im Ausland, sind, 0,5 % der Zulassungssteuer pro angefangenem Monat für die folgenden Monate.
+
+3.   Zum Steuerbetrag kommen ferner Zinsen auf den nach der Zahlung verbleibenden Teil der berechneten Zulassungssteuer hinzu. Die Verzinsung erfolgt nach dem von Danmarks Statistik zum Zeitpunkt der Berechnung der Steuer zuletzt – jeweils am 1. Januar bzw. am 1. Juli – veröffentlichen Durchschnittszinssatz für Kredite von Finanzinstituten an nicht finanzielle Unternehmen.
+
+…
+
+9.   Die geleasten Fahrzeuge, für die die Steuer nach den Abs. 2 und 3 entrichtet wird, müssen Gegenstand eines schriftlichen Leasingvertrags sein. Der Vertrag muss das Fahrzeug in der Form beschreiben, in der es geleast wird, und Einzelheiten zur Identifizierung des Fahrzeugs, Namen und Anschrift des Leasinggebers und des Leasingnehmers sowie den Leasingbetrag enthalten. Der Vertrag muss Angaben dazu enthalten, ob ein Recht oder eine Verpflichtung zum Kauf vereinbart wurde, sowie die entsprechenden Bedingungen. Der Leasingvertrag muss genaue Angaben zur Leasingdauer enthalten. Alle Nutzer müssen im Leasingvertrag aufgeführt sein. Dem Vertrag müssen nähere Angaben zur Beschaffenheit und Ausstattung des Fahrzeugs beigefügt sein.“
+
+6
+
+Im Rahmen dieser Regelung besteht die dänische Verwaltungspraxis, wie sie in einer Verwaltungsmitteilung der dänischen Steuerbehörden vom 13. Januar 2011 beschrieben wird, darin, dass die Genehmigung der Zahlung der nach § 3b Abs. 2 und 3 des Zulassungssteuergesetzes – d. h. entsprechend der Dauer der Nutzung des Fahrzeugs im dänischen Hoheitsgebiet – berechneten Zulassungssteuer (im Folgenden: anteilige Zulassungssteuer) erst erteilt werden kann, wenn die Steuerbehörden geprüft haben, ob die formalen und materiell-rechtlichen Voraussetzungen bezüglich des für das Fahrzeug abgeschlossenen Leasingvertrags erfüllt sind. Nach dieser Verwaltungspraxis darf ein Fahrzeug, für das ein Antrag auf Zahlung der anteiligen Zulassungssteuer gestellt wurde, in Dänemark nicht in Betrieb genommen werden, solange der Antrag von den Steuerbehörden geprüft wird, es sei denn, die Zulassungssteuer wird im Voraus in voller Höhe gezahlt; in diesem Fall wird dem Steuerpflichtigen der von ihm überzahlte Betrag später zuzüglich Zinsen erstattet, wenn und sobald die Steuerbehörden die Zahlung der anteiligen Zulassungssteuer genehmigen.
+
+Ausgangsverfahren und Vorlagefragen
+
+7
+
+Herr Daell, der in Dänemark wohnt, schloss einen Leasingvertrag über ein Kraftfahrzeug (im Folgenden: fragliches Fahrzeug) für die Zeit vom 15. Juni bis zum 15. November 2010. Dieser Vertrag wurde mit Wind, einer in Deutschland ansässigen Leasinggesellschaft, geschlossen, deren einzige Tätigkeit im Abschluss dieses Vertrags mit Herrn Daell besteht.
+
+8
+
+Herr Daell hatte schon früher – für die Zeiträume vom 27. August bis zum 27. Oktober 2008 und vom 1. Juli bis zum 3. November 2009 – einen Leasingvertrag, ebenfalls mit Wind, über das fragliche Fahrzeug geschlossen, allerdings im Namen der Harald Nyborg A/S. In diesen beiden Fällen hatten die Steuerbehörden dem Antrag von Herrn Daell und Wind auf Zahlung der Zulassungssteuer für das fragliche Fahrzeug und die betreffenden Zeiträume nach der Regelung über die anteilige Zulassungssteuer stattgegeben. Das Fahrzeug wurde daraufhin für die betreffenden Zeiträume in Dänemark zugelassen.
+
+9
+
+Am 9. Juni 2010 beantragte Wind erneut eine Genehmigung der Zahlung der Zulassungssteuer für das Fahrzeug nach dieser Regelung. Als dieser Antrag gestellt wurde, war das Fahrzeug in keinem Mitgliedstaat mehr zugelassen.
+
+10
+
+Am 12. Juli 2010 stellte Herr Daell, da die Steuerbehörden im Zuge der Bearbeitung dieses ersten Antrags eine Reihe weiterer Auskünfte von Wind verlangt hatten, einen zweiten Antrag bei diesen Behörden, um in den Genuss einer Regelung zu kommen, die eine Nutzung des fraglichen Fahrzeugs während der Bearbeitung des ersten Antrags erlaubte.
+
+11
+
+Die Steuerbehörden lehnten diesen zweiten Antrag ab. Daraufhin erhoben Herr Daell und Wind Klage gegen das Finanzministerium. Dabei handelt es sich um den ersten Rechtsstreit, mit dem das vorlegende Gericht, das Østre Landsret (Berufungsgericht der Region Ost), als Rechtsmittelgericht befasst ist.
+
+12
+
+In der Zwischenzeit wiesen die Steuerbehörden mit Entscheidung vom 21. Oktober 2010 den ersten Antrag ab, der darauf gerichtet war, die Steuer für das fragliche Fahrzeug gemäß der Regelung über die anteilige Zulassungssteuer zahlen zu dürfen. Nach Auffassung der Steuerbehörden waren die materiellen Voraussetzungen für die Anwendung dieser Steuerregelung im vorliegenden Fall nicht gegeben, da es sich nicht um ein echtes Leasingverhältnis gehandelt habe.
+
+13
+
+Mit Entscheidung vom 29. Juni 2011 bestätigte das Landsskatteret (Nationale Steuerkommission, Dänemark) die Gültigkeit der ablehnenden Entscheidung der Steuerbehörden vom 21. Oktober 2010.
+
+14
+
+Herr Daell und Wind fochten diese Entscheidung vor dem vorlegenden Gericht an, das beschlossen hat, die beiden Rechtssachen, mit denen es somit befasst war, zu verbinden.
+
+15
+
+Das vorlegende Gericht fragt sich, ob die sich aus § 3b des Zulassungssteuergesetzes und der dänischen Verwaltungspraxis ergebende Regelung über die Vorabgenehmigung bei der Zulassung von geleasten Kraftfahrzeugen, wonach ein geleastes Fahrzeug nur dann und erst dann zum vorübergehenden Verkehr im dänischen Hoheitsgebiet zugelassen werden kann, wenn die Steuerbehörden die Zahlung der anteiligen Zulassungssteuer genehmigt haben (im Folgenden: Vorabgenehmigung), es sei denn, die Zulassungssteuer ist im Voraus in voller Höhe gezahlt worden, wobei dem Steuerpflichtigen der überzahlte Betrag samt Zinsen erstattet wird, wenn seinem Antrag stattgegeben wird, mit dem Unionsrecht vereinbar ist.
+
+16
+
+Unter diesen Umständen hat das Østre Landsret (Berufungsgericht der Region Ost, Dänemark) das Verfahren ausgesetzt und dem Gerichtshof die folgenden Fragen zur Vorabentscheidung vorgelegt:
+
+1.
+
+Ist es mit dem Unionsrecht – insbesondere Art. 56 AEUV – vereinbar, dass ein Kraftfahrzeug, das Gegenstand eines zwischen einer Leasinggesellschaft mit Sitz in einem Mitgliedstaat und einem Leasingnehmer mit Wohnsitz bzw. Sitz in einem anderen Mitgliedstaat geschlossenen Leasingvertrags ist (siehe nachstehend Frage 2), grundsätzlich nicht auf den Straßen des letzteren Mitgliedstaats in Betrieb genommen werden darf, solange ein Antrag auf Zahlung der anteiligen Zulassungssteuer für dieses Fahrzeug für den Zeitraum, für den die Nutzung des Fahrzeugs in diesem Mitgliedstaat beabsichtigt ist, noch von den Behörden bearbeitet wird?
+
+2.
+
+Ist es mit dem Unionsrecht – insbesondere Art. 56 AEUV – vereinbar, dass eine nationale Maßnahme, die für eine Zulassung/anteilige Zahlung der Zulassungssteuer für ein Fahrzeug zu einer lediglich vorübergehenden und nicht dauerhaften Nutzung eine Vorabgenehmigung voraussetzt oder beinhaltet, dass
+
+i)
+
+die Behörden als Voraussetzung für eine sofortige Inbetriebnahme die vollständige Zahlung der dänischen Zulassungssteuer verlangen und dass die Differenz zwischen dem vollen Steuerbetrag und dem errechneten anteiligen Steuerbetrag mit Zinsen zurückzuzahlen ist, wenn die Genehmigung nachträglich erteilt wird, und/oder dass
+
+ii)
+
+die Behörden als Voraussetzung für eine sofortige Inbetriebnahme die vollständige Zahlung der Zulassungssteuer verlangen und diese nicht angepasst und der überzahlte Betrag bei Beendigung der vorübergehenden Nutzung nicht zurückgezahlt wird, wenn die Genehmigung nicht erteilt wird?
+
+Zu den Vorlagefragen
+
+17
+
+Mit seinen Vorlagefragen, die zusammen zu prüfen sind, möchte das vorlegende Gericht im Wesentlichen wissen, ob Art. 56 AEUV dahin auszulegen ist, dass er einer mitgliedstaatlichen Regelung und Verwaltungspraxis wie der im Ausgangsverfahren fraglichen entgegensteht, wonach
+
+–
+
+die Inbetriebnahme eines Fahrzeugs, das von einer in diesem Mitgliedstaat wohnhaften Person bei einer in einem anderen Mitgliedstaat ansässigen Leasinggesellschaft für eine vorübergehende Nutzung in ersterem Mitgliedstaat geleast wird, nach Zahlung einer dieser Nutzungsdauer entsprechenden anteiligen Zulassungssteuer eine Vorabgenehmigung dieser Zahlung durch die Steuerbehörden des ersteren Mitgliedstaats voraussetzt, ohne die das Fahrzeug grundsätzlich nicht in seinem Hoheitsgebiet in Betrieb genommen werden darf, und
+
+–
+
+die Möglichkeit, ein solches Fahrzeug in ersterem Mitgliedstaat unverzüglich – solange der Antrag des Steuerpflichtigen auf Zahlung einer der Nutzungsdauer des Fahrzeugs entsprechenden anteiligen Zulassungssteuer für dieses Fahrzeug noch bearbeitet wird – in Betrieb zu nehmen, voraussetzt, dass die volle Zulassungssteuer im Voraus bezahlt wird, wobei der überzahlte Betrag samt Zinsen erstattet wird, wenn und sobald dem Steuerpflichtigen von den Steuerbehörden gestattet wird, die Zulassungssteuer anteilig zu entrichten.
+
+18
+
+Es ist zu prüfen, ob eine solche Regelung und Verwaltungspraxis eine Beschränkung des freien Dienstleistungsverkehrs darstellt und ob diese Beschränkung gegebenenfalls gerechtfertigt sein kann.
+
+Beschränkung des freien Dienstleistungsverkehrs
+
+19
+
+Einleitend ist darauf hinzuweisen, dass die Besteuerung von Kraftfahrzeugen, abgesehen von bestimmten Ausnahmen, die für einen Rechtsstreit wie den Ausgangsrechtsstreit nicht einschlägig sind, auf Unionsebene nicht harmonisiert ist. Die Mitgliedstaaten sind daher in der Ausübung ihrer Steuerhoheit auf diesem Gebiet frei, sofern sie dabei das Unionsrecht beachten (Urteil vom 19. September 2017, Kommission/Irland, C‑552/15, EU:C:2017:698, Rn. 71 und die dort angeführte Rechtsprechung).
+
+20
+
+Das Leasing stellt eine „Dienstleistung“ im Sinne von Art. 56 AEUV dar (Urteil vom 21. März 2002, Cura Anlagen, C‑451/99, EU:C:2002:195, Rn. 18).
+
+21
+
+Nach gefestigter Rechtsprechung des Gerichtshofs sind Beschränkungen des in Art. 56 AEUV verankerten freien Dienstleistungsverkehrs solche nationalen Maßnahmen, die die Ausübung dieser Freiheit verbieten, behindern oder weniger attraktiv machen (vgl. in diesem Sinne Urteil vom 14. Januar 2016, Kommission/Griechenland, C‑66/15, nicht veröffentlicht, EU:C:2016:5, Rn. 24 und die dort angeführte Rechtsprechung).
+
+22
+
+Im vorliegenden Fall müssen Kraftfahrzeuge nach der dänischen Regelung vor ihrer Inbetriebnahme in Dänemark zugelassen und mit einem amtlichen Kennzeichen versehen werden. Die Zulassung eines Fahrzeugs in Dänemark setzt die Zahlung einer Zulassungssteuer voraus.
+
+23
+
+Bei Fahrzeugen, die von in Dänemark wohnhaften Personen für eine vorübergehende Nutzung in Dänemark geleast werden, können die Steuerbehörden auf Antrag genehmigen, dass die Zulassungssteuer nur anteilig gezahlt wird.
+
+24
+
+Aus den dem Gerichtshof vorliegenden Akten ergibt sich, dass diese Genehmigung nach der dänischen Verwaltungspraxis von den Steuerbehörden am Ende eines Verfahrens erteilt wird, in dem geprüft wird, ob die im Zulassungssteuergesetz insoweit vorgesehenen formalen und materiell-rechtlichen Voraussetzungen erfüllt sind. Das Verfahren dauert in einfachen Fällen etwa einen Monat, in komplexeren Fällen aber auch länger.
+
+25
+
+Nach dieser Verwaltungspraxis darf das Fahrzeug während dieser Prüfung nicht in Dänemark in Betrieb genommen werden, es sei denn, dass die volle Zulassungssteuer im Voraus bezahlt wird; in diesem Fall wird dem Steuerpflichtigen der überzahlte Betrag samt Zinsen erstattet, wenn und sobald ihm die Zahlung der anteiligen Zulassungssteuer gestattet wird.
+
+26
+
+Zu prüfen ist zunächst, ob die Vorabgenehmigung unter den in den Rn. 22 bis 24 des vorliegenden Urteils beschriebenen Umständen eine Beschränkung des freien Dienstleistungsverkehrs bedeutet, und in einem zweiten Schritt, ob auch die in der vorstehenden Randnummer dargestellten Voraussetzungen, unter denen ein solches Fahrzeug unverzüglich in Betrieb genommen werden kann, zu einer solchen Beschränkung führen.
+
+Zur Vorabgenehmigungsregelung
+
+27
+
+Wie aus den Rn. 22 bis 24 des vorliegenden Urteils hervorgeht, ergibt sich aus der dänischen Regelung und Verwaltungspraxis, dass die Inbetriebnahme eines Fahrzeugs, das von einer in Dänemark wohnhaften Person bei einer in einem anderen Mitgliedstaat ansässigen Leasinggesellschaft für eine zeitweilige Nutzung in Dänemark geleast wird, nach Zahlung der anteiligen Zulassungssteuer voraussetzt, dass diese Zahlung vorab genehmigt wird, damit die Steuerbehörden prüfen können, ob die im Zulassungssteuergesetz festgelegten Voraussetzungen erfüllt sind.
+
+28
+
+Dieses Erfordernis einer Vorabgenehmigung gilt auch, wenn eine in Dänemark wohnhafte Person ein bei einer dort ansässigen Leasinggesellschaft geleastes Fahrzeug unter denselben Bedingungen in Betrieb nehmen möchte.
+
+29
+
+Allerdings kann davon ausgegangen werden, dass die in § 3b des Zulassungssteuergesetzes vorgesehene Ausnahmeregelung häufiger für Fahrzeuge genutzt wird, die bei in anderen Mitgliedstaaten ansässigen Leasinggesellschaften geleast werden, da sie grundsätzlich nur vorübergehend in Dänemark genutzt werden sollen, als für Fahrzeuge, die von in Dänemark wohnhaften Personen bei dänischen Gesellschaften geleast und in Dänemark in Betrieb genommen werden. Diese sind nämlich grundsätzlich dazu bestimmt, im Wesentlichen dauerhaft im Hoheitsgebiet dieses Mitgliedstaats genutzt zu werden, und deshalb – nach Zahlung der Zulassungssteuer in voller Höhe – in diesem Mitgliedstaat zugelassen worden.
+
+30
+
+Der Gerichtshof hat bereits entschieden, dass die Verpflichtung, die bei einem in einem anderen Mitgliedstaat ansässigen Unternehmen geleasten Fahrzeuge in dem Mitgliedstaat zuzulassen, in dem sie benutzt werden, grenzüberschreitende Leasingtätigkeiten erschwert und damit eine Beschränkung darstellt (vgl. in diesem Sinne Urteil vom 21. März 2002, Cura Anlagen,C‑451/99, EU:C:2002:195, Rn. 37 und 38).
+
+31
+
+Diese Feststellung gilt auch für das Erfordernis einer Vorabgenehmigung wie das im Ausgangsverfahren fragliche. Im vorliegenden Fall kann ein Fahrzeug, das von einer in Dänemark wohnhaften Person bei einer in einem anderen Mitgliedstaat ansässigen Leasinggesellschaft geleast wird, ohne eine solche von den Steuerbehörden erteilte Genehmigung in Dänemark weder zugelassen noch in Betrieb genommen werden, es sei denn, die Zulassungssteuer wird im Voraus in voller Höhe entrichtet. Diese Feststellung gilt umso mehr, als die Vorabgenehmigung vor allem wegen Dauer des entsprechenden Verfahrens – mindestens einen Monat – nicht als eine reine Formalität betrachtet werden kann.
+
+32
+
+Daraus folgt, dass eine mitgliedstaatliche Regelung und Verwaltungspraxis, wie in den Rn. 22 bis 24 des vorliegenden Urteils beschrieben, geeignet ist, die Ausübung der Tätigkeiten der Dienstleistungserbringung von in anderen Mitgliedstaaten ansässigen Leasinggesellschaften im Hoheitsgebiet dieses Mitgliedstaats stärker zu behindern und weniger attraktiv zu machen sowie die in ersterem Mitgliedstaat wohnhaften Personen davon abzuhalten, die Dienste dieser Dienstleister in Anspruch zu nehmen. Eine solche Regelung und Verwaltungspraxis stellt daher eine nach Art. 56 AEUV grundsätzlich verbotene Beschränkung des freien Dienstleistungsverkehrs dar.
+
+Zu den Voraussetzungen für die unverzügliche Inbetriebnahme eines Fahrzeugs, das von einer in einem Mitgliedstaat wohnhaften Person bei einer in einem anderen Mitgliedstaat ansässigen Gesellschaft für eine vorübergehende Nutzung geleast wird
+
+33
+
+Aus der dänischen Regelung und Verwaltungspraxis, deren Tragweite in den Rn. 22 bis 25 des vorliegenden Urteils im Wesentlichen dargestellt ist, ergibt sich, dass eine in Dänemark wohnhafte Person ein bei einer in einem anderen Mitgliedstaat ansässigen Leasinggesellschaft geleastes Fahrzeug nur dann unverzüglich – solange ihr Antrag auf Zahlung der anteiligen Zulassungssteuer noch geprüft wird – in Dänemark in Betrieb nehmen darf, wenn sie die volle Zulassungssteuer für das Fahrzeug entrichtet, wobei ihr der überzahlte Betrag samt Zinsen erstattet wird, wenn und sobald ihr von den Steuerbehörden gestattet wird, die Zulassungssteuer anteilig zu zahlen.
+
+34
+
+Insoweit hat der Gerichtshof bereits in den Rn. 77 und 78 des Urteils vom 19. September 2017, Kommission/Irland (C‑552/15, EU:C:2017:698), entschieden, dass die Personen, die in einem Mitgliedstaat wohnhaft oder niedergelassen sind und in einem anderen Mitgliedstaat ein Fahrzeug mieten oder leasen, und sei es auch nur für einen im Voraus begrenzten und bekannten Zeitraum, auferlegte Verpflichtung, eine Steuer zu zahlen, die genauso hoch ist wie bei einer endgültigen Einfuhr des Fahrzeugs, geeignet ist, das Mieten oder Leasen von Fahrzeugen bei einem Unternehmen in einem anderen Mitgliedstaat gegenüber dem Mieten oder Leasen bei einem in ersterem Mitgliedstaat ansässigen Unternehmen zu verteuern, weil sie insbesondere im Hinblick auf die Amortisierung der Steuer zum Nachteil von Miet- oder Leasingunternehmen in anderen Mitgliedstaaten diskriminierend ist. In der Rechtssache, in dem jenes Urteil ergangen ist, galten die nationalen Rechtsvorschriften, nach denen die volle Zulassungssteuer im Voraus zu zahlen war, auch für Gebietsansässige, die ein Fahrzeug bei einem im Inland ansässigen Unternehmen leasten oder mieteten.
+
+35
+
+Diese Erwägungen gelten erst recht in einem Fall, in dem die unverzügliche Inbetriebnahme eines solchen Fahrzeugs voraussetzt, dass die volle Zulassungssteuer im Voraus entrichtet wird.
+
+36
+
+Insoweit ist unerheblich, dass nach der dänischen Verwaltungspraxis der überzahlte Betrag zuzüglich Zinsen erstattet wird, wenn und sobald die Zahlung der anteiligen Zulassungssteuer genehmigt wird.
+
+37
+
+In Anbetracht der beträchtlichen Höhe der bei der Erstzulassung eines Fahrzeugs in Dänemark fälligen Zulassungssteuer, die nach den Angaben der dänischen Regierung 105 % des steuerbaren Werts des Fahrzeugs auf eine erste Tranche von 81700 dänischen Kronen (DKK) (etwa 10980 Euro) und 180 % des darüber hinausgehenden steuerbaren Werts des Fahrzeugs beträgt, werden durch die Verpflichtung, die volle Zulassungssteuer im Voraus zu zahlen, erhebliche finanzielle Mittel eingefroren, womit sie für den Steuerpflichtigen einen beträchtlichen Nachteil im Sinne einer Mittelbindung bedeutet (vgl. entsprechend Urteil vom 19. September 2017, Kommission/Irland, C‑552/15, EU:C:2017:698, Rn. 80 und 81).
+
+38
+
+Dass die unverzügliche Inbetriebnahme eines von Gebietsansässigen eines Mitgliedstaats bei einer in einem anderen Mitgliedstaat ansässigen Leasinggesellschaft geleasten Fahrzeugs die vorherige Zahlung der vollen Zulassungssteuer voraussetzt, ist daher geeignet, sowohl Gebietsansässige des ersten Mitgliedstaats davon abzuhalten, Leasingangebote für Fahrzeuge von Dienstleistern in anderen Mitgliedstaaten in Anspruch zu nehmen, als auch diese Dienstleister davon, ihre Dienste diesen Gebietsansässigen anzubieten. Eine solche Verpflichtung stellt daher eine nach Art. 56 AEUV grundsätzlich verbotene Beschränkung des freien Dienstleistungsverkehrs dar (vgl. entsprechend Urteil vom 19. September 2017, Kommission/Irland, C‑552/15, EU:C:2017:698, Rn. 82).
+
+Zur Rechtfertigung der Beschränkungen des freien Dienstleistungsverkehrs
+
+39
+
+Nach ständiger Rechtsprechung des Gerichtshofs ist eine Beschränkung des freien Dienstleistungsverkehrs nur zulässig, wenn es sich um in Art. 52 AEUV, der gemäß Art. 62 AEUV auf den freien Dienstleistungsverkehr Anwendung findet, ausdrücklich vorgesehene abweichende Maßnahmen handelt oder wenn sie aus zwingenden Gründen des Allgemeininteresses gerechtfertigt ist, wobei sie in diesem Fall geeignet sein muss, die Erreichung des verfolgten Zwecks zu gewährleisten, und nicht über das hierzu Erforderliche hinausgehen darf (vgl. in diesem Sinne Urteil vom 21. März 2002, Cura Anlagen, C‑451/99, EU:C:2002:195, Rn. 31 und 32 und die dort angeführte Rechtsprechung).
+
+40
+
+Speziell zur Kraftfahrzeugzulassungssteuer ergibt sich aus der ständigen Rechtsprechung des Gerichtshofs, dass ein Mitgliedstaat eine solche Steuer für ein Fahrzeug, das einer in diesem Staat wohnenden Person von einer Gesellschaft in einem anderen Mitgliedstaat überlassen wird, dann erheben darf, wenn das Fahrzeug im Wesentlichen dauerhaft im Hoheitsgebiet des erstgenannten Mitgliedstaats genutzt werden soll oder tatsächlich so genutzt wird (Urteil vom 19. September 2017, Kommission/Irland, C‑552/15, EU:C:2017:698, Rn. 72 und die dort angeführte Rechtsprechung).
+
+41
+
+Sind die in der vorstehenden Randnummer genannten Voraussetzungen hingegen nicht erfüllt, ist die Bindung des in einem anderen Mitgliedstaat registrierten Fahrzeugs an den fraglichen Mitgliedstaat schwächer, so dass eine andere Rechtfertigung für die Besteuerung erforderlich ist (Urteil vom 19. September 2017, Kommission/Irland, C‑552/15, EU:C:2017:698, Rn. 73 und die dort angeführte Rechtsprechung).
+
+42
+
+Selbst wenn eine solche Rechtfertigung durch einen zwingenden Grund des Allgemeininteresses bestünde, müsste die Steuer auch den Grundsatz der Verhältnismäßigkeit beachten (Urteil vom 19. September 2017, Kommission/Irland, C‑552/15, EU:C:2017:698, Rn. 74 und die dort angeführte Rechtsprechung).
+
+43
+
+Im vorliegenden Fall vertritt keiner der Beteiligten, die Erklärungen beim Gerichtshof eingereicht haben, noch das vorlegende Gericht die Ansicht, dass die Beschränkungen des freien Dienstleistungsverkehrs, die mit der im Ausgangsverfahren fraglichen Regelung und Verwaltungspraxis einhergehen, aus Gründen der öffentlichen Ordnung, Sicherheit oder Gesundheit gerechtfertigt sind.
+
+44
+
+Es ist daher zu prüfen, inwieweit sich diese Beschränkungen gemäß der Rechtsprechung des Gerichtshofs mit zwingenden Gründen des Allgemeininteresses rechtfertigen lassen.
+
+45
+
+Die dänische Regierung führt zum einen das Ziel an, die Steuerhoheit des dänischen Staates zu wahren, und zum anderen die Notwendigkeit, eine Umgehung sowie die betrügerische oder missbräuchliche Anwendung der Steuervorschriften zu verhindern.
+
+46
+
+Sie macht in diesem Zusammenhang geltend, dass § 3b des Zulassungssteuergesetzes, der die anteilige Zulassungssteuer regele, von der allgemeinen Regelung abweiche, nach der die Zulassungssteuer gemäß der Dänemark insoweit zukommenden Steuerhoheit vor der Inbetriebnahme eines Fahrzeugs im dänischen Hoheitsgebiet in voller Höhe zu entrichten sei. Die Vorabgenehmigung solle es den Steuerbehörden ermöglichen, sich vor dieser Inbetriebnahme zu vergewissern, dass die Voraussetzungen für eine Zahlung der anteiligen Zulassungssteuer vorlägen, und damit sicherzustellen, dass die Besteuerungsbefugnis des dänischen Staates gewährt werde. Diese Regelung solle ferner verhindern, dass Gebietsansässige die Zahlung der vollen Zulassungssteuer umgingen, indem sie fingierte Leasingverträge über Fahrzeuge abschlössen, die faktisch dazu bestimmt seien, über eine längere Zeit in Dänemark benutzt zu werden, und/oder in Wirklichkeit in ihrem Eigentum stünden. Die Überprüfung der Nutzungsdauer und der Frage, ob tatsächlich ein Leasingverhältnis bestehe, im Rahmen des Verfahrens der Vorabgenehmigung sei dem Grundsatz der Zahlung einer Abgabe immanent, deren Höhe sich wie bei der anteiligen Zulassungssteuer nach der Nutzungsdauer richte (vgl. in diesem Sinne Urteil vom 21. März 2002, Cura Anlagen, C‑451/99, EU:C:2002:195, Rn. 69).
+
+47
+
+Zu den Voraussetzungen, unter denen ein Fahrzeug, das von einem dänischen Gebietsansässigen bei einer in einem anderen Mitgliedstaat ansässigen Gesellschaft für eine vorübergehende Nutzung in Dänemark geleast wird, dort unverzüglich in Betrieb genommen werden kann, führt die dänische Regierung aus, dass das Verbot einer solchen Inbetriebnahme, das solange gelte, bis dem Steuerpflichtigen die Entrichtung der anteiligen Zulassungssteuer gestattet worden sei, die natürliche Folge der dänischen Regelung sei, nach der zum einen die im dänischen Hoheitsgebiet in Betrieb genommenen Fahrzeuge in Dänemark zugelassen sein müssten und zum anderen die Zahlung der anteiligen Zulassungssteuer bei geleasten Fahrzeugen eine vorherige Genehmigung voraussetze. Nach Auffassung der dänischen Regierung würde das mit dieser Genehmigung verfolgte Ziel, wie es sich aus der vorstehenden Randnummer ergibt, ausgehebelt, wenn ein geleastes Fahrzeug nach Zahlung lediglich der anteiligen Zulassungssteuer in Dänemark in Betrieb genommen werden könnte, ohne dass der Ausgang des Verfahrens abgewartet würde, in dem geprüft werde, ob die in der nationalen Regelung für die Zahlung dieser Steuer vorgesehenen Voraussetzungen gegeben seien, und damit die Zahlung der vollen Zulassungssteuer für das Fahrzeug umgangen werden könnte.
+
+48
+
+Was erstens das Ziel der Wahrung der Steuerhoheit des dänischen Staates betrifft, so sind die Mitgliedstaaten, wie sich aus Rn. 19 des vorliegenden Urteils ergibt, zwar in der Ausübung ihrer Steuerhoheit auf dem Gebiet der Besteuerung von Fahrzeugen frei, sie müssen dabei aber das Unionsrecht beachten.
+
+49
+
+Dass die Besteuerung von Fahrzeugen in die steuerliche Zuständigkeit des dänischen Staates fällt, vermag daher die Beschränkung des freien Dienstleistungsverkehrs nicht zu rechtfertigen (vgl. entsprechend Urteil vom 19. September 2017, Kommission/Irland, C‑552/15, EU:C:2017:698, Rn. 87).
+
+50
+
+Zweitens ergibt sich hinsichtlich der Notwendigkeit, eine Umgehung sowie die betrügerische oder missbräuchliche Anwendung der Steuervorschriften zu verhindern, aus der ständigen Rechtsprechung des Gerichtshofs, dass eine Beschränkung des freien Dienstleistungsverkehrs mit der Notwendigkeit, missbräuchliche Praktiken zu verhindern, gerechtfertigt werden kann, wenn sie sich speziell auf rein künstliche, jeder wirtschaftlichen Realität bare Gestaltungen bezieht, die allein auf die Erlangung einer Steuerbegünstigung ausgerichtet sind (Urteil vom 22. Dezember 2010, Tankreederei I, C‑287/10, EU:C:2010:827, Rn. 28 und die dort angeführte Rechtsprechung).
+
+51
+
+Die Vorabgenehmigungsregelung soll, wie aus den Rn. 45, 46 und 50 des vorliegenden Urteils hervorgeht, eine Umgehung sowie die betrügerische oder missbräuchliche Anwendung der Steuervorschriften verhindern, was nach der Rechtsprechung des Gerichtshofs ein Ziel darstellt, das eine Beschränkung des freien Dienstleistungsverkehrs rechtfertigen kann.
+
+52
+
+Eine Vorabgenehmigungsregelung wie die im Ausgangsverfahren fragliche kann geeignet sein, die Erreichung des in der vorstehenden Randnummer angeführten Ziels sicherzustellen. Denn die Steuerbehörden prüfen im vorliegenden Fall im Rahmen des Verwaltungsverfahrens, in dem gegebenenfalls die Vorabgenehmigung erteilt wird, ob die für die anteilige Steuer geltenden Voraussetzungen erfüllt sind, insbesondere wie lange der Leasingvertrag läuft und wer der wirkliche Eigentümer des betreffenden Fahrzeugs ist. Anhand dieser Überprüfung lässt sich die Höhe der Steuer nach Maßgabe der Leasingdauer und damit der beabsichtigten Dauer der Nutzung des Fahrzeugs im dänischen Hoheitsgebiet bestimmen. Insoweit ergibt sich aus der Rechtsprechung des Gerichtshofs, dass die nationale Regelung, mit der die Einzelheiten der Berechnung einer solchen Steuer festgelegt werden, nur dann mit dem Unionsrecht, insbesondere dem Grundsatz der Verhältnismäßigkeit, in Einklang steht, wenn die Dauer der Nutzung eines bei einer in einem anderen Mitgliedstaat ansässigen Gesellschaft geleasten Fahrzeugs im betreffenden Mitgliedstaat berücksichtigt wird (vgl. in diesem Sinne Urteil vom 19. September 2017, Kommission/Irland, C‑552/15, EU:C:2017:698, Rn. 95 und die dort angeführte Rechtsprechung).
+
+53
+
+Der Umstand, dass ein dänischer Gebietsansässiger ein bei einer in einem anderen Mitgliedstaat ansässigen Leasinggesellschaft geleastes Fahrzeug vorübergehend in Dänemark nutzt, kann als solcher jedoch keine allgemeine Vermutung für das Vorliegen einer missbräuchlichen Praxis begründen und keine Maßnahme rechtfertigen, die die Ausübung einer vom AEU‑Vertrag garantierten Grundfreiheit beeinträchtigt (vgl. entsprechend Urteil vom 4. Dezember 2008, Jobra, C‑330/07, EU:C:2008:685, Rn. 37 und die dort angeführte Rechtsprechung).
+
+54
+
+In diesem Zusammenhang ist darauf hinzuweisen, dass die Vorabgenehmigung für jedes Fahrzeug einzuholen ist, das von einem dänischen Gebietsansässigen bei einer in einem anderen Mitgliedstaat ansässigen Leasinggesellschaft für eine vorübergehende Nutzung im dänischen Hoheitsgebiet geleast wird, und zwar auch dann, wenn es an objektiven Verdachtsmomenten für das Vorliegen einer rein künstlichen Gestaltung fehlt.
+
+55
+
+Die Möglichkeit, ein von einem dänischen Gebietsansässigen bei einer in einem anderen Mitgliedstaat ansässigen Leasinggesellschaft für eine vorübergehende Nutzung im dänischen Hoheitsgebiet geleastes Fahrzeug unverzüglich in Betrieb zu nehmen, setzt, wie aus Rn. 25 des vorliegenden Urteils hervorgeht, nach der dänischen Regelung und Verwaltungspraxis voraus, dass die volle Zulassungssteuer im Voraus gezahlt wird, wobei der überzahlte Betrag später samt Zinsen erstattet wird.
+
+56
+
+Diese in der dänischen Regelung und Verwaltungspraxis vorgesehene Möglichkeit berücksichtigt nicht die Dauer der Nutzung des Fahrzeugs in Dänemark.
+
+57
+
+Es ist, wie dies die Kommission in der mündlichen Verhandlung getan hat, festzustellen, dass eine nationale Maßnahme, nach der die Inbetriebnahme von Fahrzeugen, die von Gebietsansässigen des betreffenden Mitgliedstaats bei einer in einem anderen Mitgliedstaat ansässigen Leasinggesellschaft für eine vorübergehende Nutzung in ersterem Mitgliedstaat geleast werden, gegen Zahlung einer Steuer, deren Höhe sich nach der Dauer der Nutzung eines solchen Fahrzeugs in ersterem Mitgliedstaat richtet, nach Anmeldung des Leasingvertrags bei den Steuerbehörden, der gegebenenfalls Angaben wie die nach § 3b Abs. 9 des Zulassungssteuergesetzes vorgeschriebenen enthalten muss, und vorbehaltlich einer nachträglichen Überprüfung durch die Steuerbehörden, ob die Voraussetzungen für die Anwendung dieser Steuer vorliegen, eine weniger beschränkende Maßnahme als diejenigen darstellen würde, die sich aus einer mitgliedstaatlichen Regelung und Verwaltungspraxis ergeben, wie sie in den Rn. 22 bis 25 des vorliegenden Urteils beschrieben ist. Im Rahmen einer solchen Maßnahme könnte der betreffende Mitgliedstaat auch die Gültigkeit der Zulassung an die Dauer des Leasingvertrags knüpfen. Solche Maßnahmen, die in Fällen, in denen es sich erwiesenermaßen um Steuerumgehung oder Missbrauch handelt, gegebenenfalls mit der Verpflichtung des dänischen Gebietsansässigen, allein oder gegebenenfalls gesamtschuldnerisch mit der betreffenden Leasinggesellschaft die Differenz zwischen dem Betrag der anteiligen und dem der vollen Zulassungssteuer zu entrichten, sowie angemessenen strafrechtlichen Sanktionen verbunden werden können, böten dem betreffenden Mitgliedstaat zugleich ein Mittel, der in Rn. 46 des vorliegenden Urteils angeführten Gefahr vorzubeugen und entgegenzuwirken.
+
+58
+
+Was die Befürchtung der dänischen Regierung angeht, das Fahrzeug könnte bei Ablauf des Leasingvertrags ausgeführt werden, ohne dass die geschuldete Zulassungssteuer tatsächlich gezahlt worden sei, ist darauf hinzuweisen, dass, wie sich auch aus der vorstehenden Randnummer ergibt, der Staat in Fällen, in denen es sich erwiesenermaßen um Steuerumgehung oder Missbrauch handelt, verlangen darf, dass der Gebietsansässige allein oder gegebenenfalls gesamtschuldnerisch mit der betreffenden Leasinggesellschaft die volle Zulassungssteuer entrichtet, und angemessene strafrechtliche Sanktionen verhängen kann.
+
+59
+
+Es ist daher festzustellen, dass eine mitgliedstaatliche Regelung und Verwaltungspraxis, wie in den Rn. 22 bis 25 des vorliegenden Urteils beschrieben, über das zur Erreichung der damit verfolgten Ziele Erforderliche hinausgeht.
+
+60
+
+Nach alledem ist auf die Vorlagefragen zu antworten, dass Art. 56 AEUV dahin auszulegen ist, dass er einer mitgliedstaatlichen Regelung und Verwaltungspraxis wie der im Ausgangsverfahren fraglichen entgegensteht, wonach
+
+–
+
+die Inbetriebnahme eines Fahrzeugs, das von einer in diesem Mitgliedstaat wohnhaften Person bei einer in einem anderen Mitgliedstaat ansässigen Leasinggesellschaft für eine vorübergehende Nutzung in ersterem Mitgliedstaat geleast wird, nach Zahlung einer dieser Nutzungsdauer entsprechenden anteiligen Zulassungssteuer eine Vorabgenehmigung dieser Zahlung durch die Steuerbehörden des ersteren Mitgliedstaats voraussetzt, ohne die das Fahrzeug grundsätzlich nicht in seinem Hoheitsgebiet in Betrieb genommen werden darf, und
+
+–
+
+die Möglichkeit, ein solches Fahrzeug in ersterem Mitgliedstaat unverzüglich – solange der Antrag des Steuerpflichtigen auf Zahlung einer der Nutzungsdauer des Fahrzeugs entsprechenden anteiligen Zulassungssteuer für dieses Fahrzeug noch bearbeitet wird – in Betrieb zu nehmen, voraussetzt, dass die volle Zulassungssteuer im Voraus bezahlt wird, wobei der überzahlte Betrag samt Zinsen erstattet wird, wenn und sobald dem Steuerpflichtigen von den Steuerbehörden gestattet wird, die Zulassungssteuer anteilig zu entrichten.
+
+Kosten
+
+61
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Neunte Kammer) für Recht erkannt:
+
+ 	
+Art. 56 AEUV ist dahin auszulegen, dass er einer mitgliedstaatlichen Regelung und Verwaltungspraxis wie der im Ausgangsverfahren fraglichen entgegensteht, wonach
+
+ 	
+–
+
+die Inbetriebnahme eines Fahrzeugs, das von einer in diesem Mitgliedstaat wohnhaften Person bei einer in einem anderen Mitgliedstaat ansässigen Leasinggesellschaft für eine vorübergehende Nutzung in ersterem Mitgliedstaat geleast wird, nach Zahlung einer dieser Nutzungsdauer entsprechenden anteiligen Zulassungssteuer eine Vorabgenehmigung dieser Zahlung durch die Steuerbehörden des ersteren Mitgliedstaats voraussetzt, ohne die das Fahrzeug grundsätzlich nicht in seinem Hoheitsgebiet in Betrieb genommen werden darf, und
+
+–
+
+die Möglichkeit, ein solches Fahrzeug in ersterem Mitgliedstaat unverzüglich – solange der Antrag des Steuerpflichtigen auf Zahlung einer der Nutzungsdauer des Fahrzeugs entsprechenden anteiligen Zulassungssteuer für dieses Fahrzeug noch bearbeitet wird – in Betrieb zu nehmen, voraussetzt, dass die volle Zulassungssteuer im Voraus bezahlt wird, wobei der überzahlte Betrag samt Zinsen erstattet wird, wenn und sobald dem Steuerpflichtigen von den Steuerbehörden gestattet wird, die Zulassungssteuer anteilig zu entrichten.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Dänisch.

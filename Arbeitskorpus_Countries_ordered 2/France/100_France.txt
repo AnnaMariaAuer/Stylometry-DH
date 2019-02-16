@@ -1,0 +1,439 @@
+URTEIL DES GERICHTSHOFS (Erste Kammer)
+
+8. März 2017 ( 1 )*
+
+„Vorlage zur Vorabentscheidung — Direkte Besteuerung — Gesellschaften verschiedener Mitgliedstaaten — Gemeinsames Steuersystem — Fusion durch Übernahme — Vorherige Bewilligung der Steuerverwaltung — Richtlinie 90/434/EWG — Art. 11 Abs. 1 Buchst. a — Steuerhinterziehung oder -umgehung — Niederlassungsfreiheit“
+
+In der Rechtssache C‑14/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Conseil d'État (Staatsrat, Frankreich) mit Entscheidung vom 30. Dezember 2015, beim Gerichtshof eingegangen am 11. Januar 2016, in dem Verfahren
+
+Euro Park Service, Rechtsnachfolgerin der SCI Cairnbulg Nanteuil,
+
+gegen
+
+Ministre des Finances et des Comptes publics
+
+erlässt
+
+DER GERICHTSHOF (Erste Kammer)
+
+unter Mitwirkung der Kammerpräsidentin R. Silva de Lapuerta sowie der Richter E. Regan, J.‑C. Bonichot, C. G. Fernlund (Berichterstatter) und S. Rodin,
+
+Generalanwalt: M. Wathelet,
+
+Kanzler: M. Ferreira, Hauptverwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 7. September 2016,
+
+unter Berücksichtigung der Erklärungen
+
+—
+
+der Euro Park Service, Rechtsnachfolgerin der SCI Cairnbulg Nanteuil, zunächst vertreten durch N. Boullez, avocat, dann durch N. Boullez und M. Castro, avocats,
+
+—
+
+der französischen Regierung, zunächst vertreten durch D. Colas und S. Ghiandoni als Bevollmächtigte, dann durch D. Colas, E. de Moustier und S. Ghiandoni als Bevollmächtigte,
+
+—
+
+der Europäischen Kommission, vertreten durch W. Roels und L. Pamukcu als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 26. Oktober 2016
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 49 AEUV und Art. 11 der Richtlinie 90/434/EWG des Rates vom 23. Juli 1990 über das gemeinsame Steuersystem für Fusionen, Spaltungen, die Einbringung von Unternehmensteilen und den Austausch von Anteilen, die Gesellschaften verschiedener Mitgliedstaaten betreffen (ABl. 1990, L 225, S. 1).
+
+2
+
+Es ergeht im Rahmen eines Rechtsstreits, den die Euro Park Service (im Folgenden: Euro Park) als Rechtsnachfolgerin der SCI Cairnbulg Nanteuil (im Folgenden: Cairnbulg) gegen den Ministre des Finances et des Comptes publics (Minister für Finanzen und Haushalt, Frankreich, im Folgenden: Steuerverwaltung) wegen seiner Weigerung führt, Cairnbulg die Inanspruchnahme des Aufschubs der Besteuerung des Wertzuwachses der eingebrachten Vermögenswerte dieser Gesellschaft bei einer Fusion durch die Aufnahme der Letzteren durch eine Gesellschaft mit Sitz in einem anderen Mitgliedstaat zu gewähren, da die sich verschmelzenden Gesellschaften nicht um die vorherige Bewilligung der Steuerverwaltung ersucht hätten.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+3
+
+Nach ihrem ersten Erwägungsgrund soll die Richtlinie 90/434 sicherstellen, dass Umstrukturierungsvorgänge wie Fusionen, Spaltungen, die Einbringung von Unternehmensteilen und der Austausch von Anteilen, die Gesellschaften verschiedener Mitgliedstaaten betreffen, nicht durch besondere Beschränkungen, Benachteiligungen oder Verfälschungen aufgrund von steuerlichen Vorschriften der Mitgliedstaaten behindert werden.
+
+4
+
+Hierzu schafft sie ein System, nach dem die genannten Vorgänge als solche nicht Anlass zu einer Besteuerung geben dürfen. Etwaige mit diesen Vorgängen zusammenhängende Wertzuwächse dürfen grundsätzlich besteuert werden, jedoch erst, wenn sie tatsächlich realisiert werden.
+
+5
+
+Die ersten vier Erwägungsgründe sowie der neunte Erwägungsgrund der Richtlinie lauten:
+
+„Fusionen, Spaltungen, die Einbringung von Unternehmensanteilen und der Austausch von Anteilen, die Gesellschaften verschiedener Mitgliedstaaten betreffen, können notwendig sein, um binnenmarktähnliche Verhältnisse in der Gemeinschaft zu schaffen und damit die Errichtung und das Funktionieren des Gemeinsamen Marktes zu gewährleisten. Sie dürfen nicht durch besondere Beschränkungen, Benachteiligungen oder Verfälschungen aufgrund von steuerlichen Vorschriften der Mitgliedstaaten behindert werden. Demzufolge müssen wettbewerbsneutrale steuerliche Regelungen für diese Vorgänge geschaffen werden, um die Anpassung von Unternehmen an die Erfordernisse des Gemeinsamen Marktes, eine Erhöhung ihrer Produktivität und eine Stärkung ihrer Wettbewerbsfähigkeit auf internationaler Ebene zu ermöglichen.
+
+Gegenwärtig werden diese Vorgänge im Vergleich zu entsprechenden Vorgängen bei Gesellschaften desselben Mitgliedstaats durch Bestimmungen steuerlicher Art benachteiligt. Diese Benachteiligung muss beseitigt werden.
+
+Dieses Ziel lässt sich nicht dadurch erreichen, dass man die in den einzelnen Mitgliedstaaten geltenden nationalen Systeme auf Gemeinschaftsebene ausdehnt, da die Unterschiede zwischen diesen Systemen Wettbewerbsverzerrungen verursachen können. Nur eine gemeinsame steuerliche Regelung kann deshalb eine befriedigende Lösung darstellen.
+
+Die gemeinsame steuerliche Regelung muss eine Besteuerung anlässlich einer Fusion, Spaltung, Einbringung von Unternehmensteilen oder eines Austauschs von Anteilen vermeiden, unter gleichzeitiger Wahrung der finanziellen Interessen des Staates der einbringenden oder erworbenen Gesellschaft.
+
+…
+
+Wenn eine Fusion, Spaltung, Einbringung von Unternehmensanteilen oder ein Austausch von Anteilen als Beweggrund die Steuerhinterziehung oder ‑umgehung hat …, sollten die Mitgliedstaaten die Anwendung dieser Richtlinie versagen können.“
+
+6
+
+In Art. 4 Abs. 1 der Richtlinie heißt es:
+
+„Die Fusion oder die Spaltung darf keine Besteuerung des Unterschieds zwischen dem tatsächlichen Wert und dem steuerlichen Wert des übertragenen Aktiv‑ und Passivvermögens auslösen. …“
+
+7
+
+Art. 11 Abs. 1 Buchst. a der Richtlinie sieht vor:
+
+„Ein Mitgliedstaat kann die Anwendung der Titel II, III und IV ganz oder teilweise versagen oder rückgängig machen, wenn eine Fusion, Spaltung, Einbringung von Unternehmensteilen oder ein Austausch von Anteilen
+
+a)
+
+als hauptsächlichen Beweggrund oder als einen der hauptsächlichen Beweggründe die Steuerhinterziehung oder ‑umgehung hat. Vom Vorliegen eines solchen Beweggrundes kann ausgegangen werden, wenn die Fusion, Spaltung, Einbringung von Unternehmensteilen oder der Austausch von Anteilen nicht auf vernünftigen wirtschaftlichen Gründen – insbesondere der Umstrukturierung oder der Rationalisierung der beteiligten Gesellschaften – beruht“.
+
+Französisches Recht
+
+8
+
+Die maßgeblichen Bestimmungen des Code général des impôts (Allgemeines Steuergesetzbuch, im Folgenden: CGI), die zur Zeit des dem Ausgangsverfahren zugrunde liegenden Sachverhalts anwendbar waren, lauten wie folgt.
+
+9
+
+Art. 210 A CGI bestimmt:
+
+„(1)   Der Netto-Wertzuwachs und die aufgedeckten Gewinne aus den gesamten aufgrund einer Fusion eingebrachten Unternehmensteilen unterliegen nicht der Körperschaftsteuer.
+
+…
+
+(3)   Die Anwendung dieser Bestimmungen steht unter der Bedingung, dass sich die übernehmende Gesellschaft im Fusionsvertrag verpflichtet, die folgenden Vorgaben einzuhalten:
+
+…
+
+b.
+
+sie hat hinsichtlich der Hinzurechnung der Ergebnisse, deren Berücksichtigung bei der Besteuerung der übertragenden Gesellschaft zeitlich verschoben wurde, an die Stelle Letzterer zu treten;
+
+c.
+
+sie hat die später anlässlich der Übertragung von bei ihr eingebrachten nicht abschreibbaren Wirtschaftsgütern realisierten Wertzuwächse nach dem Wert zu berechnen, den sie aus steuerrechtlicher Sicht in den Büchern der übertragenden Gesellschaft aufwiesen;
+
+d.
+
+sie hat ihrem steuerpflichtigen Gewinn die anlässlich der Einlage abschreibbaren Anlagevermögens aufgedeckten Wertzuwächse hinzuzurechnen …“
+
+10
+
+In Art. 210 B Abs. 3 CGI heißt es:
+
+„… Die Bewilligung wird erteilt, wenn unter Berücksichtigung der Bestandteile der Einlage:
+
+a.
+
+der Vorgang durch einen wirtschaftlichen Grund gerechtfertigt ist, der insbesondere in der Ausübung einer eigenständigen Tätigkeit durch die die Einlage annehmende Gesellschaft, in einer Strukturverbesserung oder in einem Zusammenschluss zwischen den Parteien liegen kann;
+
+b.
+
+der Vorgang nicht als hauptsächlichen Beweggrund oder als einen der hauptsächlichen Beweggründe eine Steuerhinterziehung oder ‑umgehung hat;
+
+c.
+
+die Modalitäten des Vorgangs die Sicherung der künftigen Besteuerung des Wertzuwachses, dessen Besteuerung aufgeschoben wird, erlauben.“
+
+11
+
+Dem vorlegenden Gericht zufolge gewährleistet Art. 210 C CGI die Umsetzung der Richtlinie 90/434 in nationales Recht. Dort heißt es:
+
+„(1)   Die Bestimmungen der Art. 210 A und 210 B sind auf Vorgänge, an denen ausschließlich der Körperschaftsteuer unterliegende juristische Personen oder Gebilde beteiligt sind, anwendbar.
+
+(2)   Diese Bestimmungen sind nur dann auf die von französischen juristischen Personen an ausländische juristische Personen geleisteten Einlagen anwendbar, wenn diese Einlagen zuvor unter den Bedingungen des Art. 210 B [Abs.] 3 bewilligt wurden.“
+
+Ausgangsverfahren und Vorlagefragen
+
+12
+
+Cairnbulg, eine Gesellschaft nach französischem Recht, wurde am 26. November 2004 Gegenstand eines Auflösungsvorgangs ohne Abwicklung seitens und zugunsten ihrer Alleingesellschafterin, Euro Park, einer Gesellschaft nach luxemburgischem Recht. Bei dieser Gelegenheit optierte Cairnbulg in ihrer am 25. Januar 2005 abgegebenen Ergebniserklärung für das am 26. November 2004 abgeschlossene Wirtschaftsjahr für die in den Art. 210 A ff. CGI vorgesehenen Sonderregelungen für Fusionen. Dementsprechend unterwarf sie den Netto-Wertzuwachs und die aufgedeckten Gewinne aus den in Euro Park eingebrachten Vermögenswerten nicht der Körperschaftsteuer.
+
+13
+
+Die Einlagen von Cairnbulg wurden in der notariellen Urkunde vom 19. April 2005 zu ihrem Nettobuchwert in Höhe von 9387700 Euro bewertet. Am selben Tag wurden diese Einlagen von Euro Park an die SCI IBC Ferrier zum Preis von 15776000 Euro veräußert, der ihrem Verkehrswert zum 26. November 2004 entsprach.
+
+14
+
+Infolge einer Prüfung stellte die Steuerverwaltung die Inanspruchnahme der Sonderregelung für Fusionen in Frage, da Cairnbulg zum einen keine ministerielle Bewilligung gemäß Art. 210 C CGI beantragt habe und ihr zum anderen diese Bewilligung ohnehin nicht erteilt worden wäre, da der Vorgang nicht durch einen wirtschaftlichen Grund gerechtfertigt gewesen sei, sondern einen Steuerhinterziehungs‑ oder ‑umgehungszweck verfolgt habe. Folglich wurden Euro Park als Rechtsnachfolgerin von Cairnbulg Zuschläge und zusätzliche Beiträge zur Steuer zuzüglich der im CGI für den Fall vorsätzlicher Abgabenverkürzung vorgesehenen Strafzuschläge auferlegt.
+
+15
+
+Euro Park erhob beim Tribunal administratif de Paris (Verwaltungsgericht Paris, Frankreich) Klage auf Erlass dieser Steuern und Strafen. Nachdem das Gericht die Klage von Euro Park abgewiesen hatte, rief sie die Cour administrative d’appel de Paris (Verwaltungsberufungsgericht Paris, Frankeich) an, die diese Abweisung bestätigte.
+
+16
+
+Euro Park legte daher vor dem Conseil d’État (Staatsrat, Frankreich) ein Rechtsmittel ein und machte geltend, dass durch Art. 210 C Abs. 2 CGI eine ungerechtfertigte Beschränkung von Art. 49 AEUV und somit der Niederlassungsfreiheit geschaffen werde, indem nur die Einlagen einem Vorabbewilligungsverfahren unterworfen würden, die an ausländische juristische Personen geleistet würden, nicht aber an gebietsansässige juristische Personen nationalen Rechts geleistete Einlagen.
+
+17
+
+Unter diesen Umständen hat der Conseil d’État (Staatsrat) das Verfahren ausgesetzt und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorgelegt:
+
+1.
+
+Besteht, wenn in einer nationalen Rechtsvorschrift eines Mitgliedstaats im innerstaatlichen Recht von der durch Art. 11 Abs. 1 der Richtlinie 90/434 eingeräumten Befugnis Gebrauch gemacht wird, Raum für eine Kontrolle der Maßnahmen, mit denen diese Befugnis wahrgenommen wird, im Hinblick auf das Primärrecht der Europäischen Union?
+
+2.
+
+Für den Fall der Bejahung der ersten Frage: Sind die Bestimmungen von Art. 49 AEUV dahin auszulegen, dass sie einer nationalen Rechtsvorschrift entgegenstehen, die zum Zweck der Bekämpfung von Steuerhinterziehung oder ‑umgehung die Inanspruchnahme der gemeinsamen Steuerregelung für Fusionen und gleichgestellte Vorgänge nur bei an ausländische juristische Personen geleisteten Einlagen von einem Vorabbewilligungsverfahren abhängig macht, nicht aber bei an juristische Personen nationalen Rechts geleisteten Einlagen?
+
+Zu den Vorlagefragen
+
+Zur ersten Frage
+
+18
+
+Mit seiner ersten Frage möchte das vorlegende Gericht wissen, ob das Unionsrecht erlaubt, die Vereinbarkeit einer nationalen Rechtsvorschrift wie der im Ausgangsverfahren fraglichen im Hinblick auf das Primärrecht zu beurteilen, obwohl diese Rechtsvorschrift erlassen wurde, um die durch Art. 11 Abs. 1 Buchst. a der Richtlinie 90/434 gewährte Möglichkeit in nationales Recht umzusetzen.
+
+19
+
+Nach ständiger Rechtsprechung ist jede nationale Regelung in einem Bereich, der auf Ebene der Europäischen Union abschließend harmonisiert wurde, anhand der fraglichen Harmonisierungsmaßnahme und nicht anhand des Primärrechts zu beurteilen (Urteil vom 12. November 2015, Visnapuu, C‑198/14, EU:C:2015:751, Rn. 40 und die dort angeführte Rechtsprechung).
+
+20
+
+Daher ist es erforderlich zu bestimmen, ob durch Art. 11 Abs. 1 Buchst. a der Richtlinie 90/434 eine solche Harmonisierung erfolgt.
+
+21
+
+Vorliegend genügt die Feststellung, dass sich aus dem Wortlaut dieser Bestimmung klar ergibt, dass dies nicht der Fall ist.
+
+22
+
+Wie sich zunächst aus diesem Wortlaut ergibt, gesteht diese Bestimmung den Mitgliedstaaten nur eine Möglichkeit zu, die Anwendung der Bestimmungen dieser Richtlinie ganz oder teilweise zu versagen oder ihre Inanspruchnahme rückgängig zu machen, wenn ein von ihrem Anwendungsbereich erfasster Vorgang wie eine Fusion, die Gesellschaften verschiedener Mitgliedstaaten betrifft (ein grenzüberschreitender Vorgang), als hauptsächlichen Beweggrund oder als einen der hauptsächlichen Beweggründe die Steuerhinterziehung oder ‑umgehung hat (vgl. in diesem Sinne Urteil vom 17. Juli 1997, Leur‑Bloem, C‑28/95, EU:C:1997:369, Rn. 38).
+
+23
+
+Des Weiteren gestattet dieselbe Bestimmung im Rahmen dieses Zuständigkeitsvorbehalts den Mitgliedstaaten, vom Vorliegen einer Steuerhinterziehung oder ‑umgehung auszugehen, wenn die Fusion nicht auf vernünftigen wirtschaftlichen Gründen beruht (vgl. in diesem Sinne Urteil vom 17. Juli 1997, Leur‑Bloem, C‑28/95, EU:C:1997:369, Rn. 39).
+
+24
+
+Schließlich ergibt sich für die Ausübung einer solchen Möglichkeit und die Anwendung dieser Vermutung aus der Rechtsprechung des Gerichtshofs, dass es mangels genauerer Bestimmungen des Unionsrechts hierzu Sache der Mitgliedstaaten ist, unter Beachtung des Grundsatzes der Verhältnismäßigkeit die zur Anwendung von Art. 11 Abs. 1 Buchst. a der Richtlinie 90/434 erforderlichen Modalitäten festzulegen (vgl. in diesem Sinne Urteil vom 17. Juli 1997, Leur‑Bloem, C‑28/95, EU:C:1997:369, Rn. 43).
+
+25
+
+Somit ist festzustellen, dass mit dieser Bestimmung im Hinblick auf die Maßnahmen zur Bekämpfung der Steuerhinterziehung und -umgehung nicht bezweckt wird, eine abschließende Harmonisierung auf Unionsebene zu erreichen.
+
+26
+
+Folglich ist auf die erste Vorlagefrage zu antworten, dass, da durch Art. 11 Abs. 1 Buchst. a der Richtlinie 90/434 keine abschließende Harmonisierung erfolgt, das Unionsrecht erlaubt, die Vereinbarkeit einer nationalen Rechtsvorschrift wie der im Ausgangsverfahren fraglichen im Hinblick auf das Primärrecht zu beurteilen, obwohl diese Rechtsvorschrift erlassen wurde, um die durch diese Bestimmung gewährte Möglichkeit in nationales Recht umzusetzen.
+
+Zur zweiten Frage
+
+27
+
+Mit seiner zweiten Frage möchte das vorlegende Gericht wissen, ob Art. 49 AEUV dahin auszulegen ist, dass er einer nationalen Rechtsvorschrift wie der im Ausgangsverfahren fraglichen entgegensteht, die im Fall einer grenzüberschreitenden Fusion die Gewährung der gemäß der Richtlinie 90/434 auf einen solchen Vorgang anwendbaren steuerlichen Vorteile, vorliegend der Aufschub der Besteuerung des Wertzuwachses der Einlagen, die durch eine französische Gesellschaft an eine in einem anderen Mitgliedstaat ansässige Gesellschaft geleistet wurden, von einem Vorabbewilligungsverfahren abhängig macht, in dessen Rahmen der Steuerpflichtige für den Erhalt dieser Bewilligung nachweisen muss, dass der betreffende Vorgang durch einen wirtschaftlichen Grund gerechtfertigt ist, dass er nicht als hauptsächlichen Beweggrund oder als einen der hauptsächlichen Beweggründe die Steuerhinterziehung oder ‑umgehung hat und dass seine Modalitäten die Sicherung der künftigen Besteuerung des Wertzuwachses, dessen Besteuerung aufgeschoben wird, erlauben, obwohl ein solcher Aufschub im Fall einer nationalen Fusion gewährt wird, ohne dass der Steuerpflichtige einem solchen Verfahren unterworfen wird.
+
+28
+
+In diesem Zusammenhang ist darauf hinzuweisen, dass der Gerichtshof bereits klargestellt hat, dass eine grenzüberschreitende Verschmelzung eine besondere, für das reibungslose Funktionieren des Binnenmarkts wichtige Modalität der Ausübung der Niederlassungsfreiheit darstellt, die damit zu den wirtschaftlichen Tätigkeiten gehört, hinsichtlich deren die Mitgliedstaaten diese Freiheit beachten müssen (vgl. in diesem Sinne Urteil vom 13. Dezember 2005, SEVIC Systems, C‑411/03, EU:C:2005:762, Rn. 19).
+
+29
+
+Damit diese besondere Modalität der Ausübung der Niederlassungsfreiheit nicht durch besondere Beschränkungen, Benachteiligungen oder Verfälschungen aufgrund von steuerlichen Vorschriften der Mitgliedstaaten behindert wird, schafft die Richtlinie 90/434, wie aus ihren Erwägungsgründen 1 bis 5 hervorgeht, eine gemeinsame Steuerregelung, die steuerliche Vorteile wie den Aufschub der Besteuerung des Wertzuwachses der bei einem solchen Vorgang eingebrachten Vermögenswerte umfasst.
+
+30
+
+Der Gerichtshof hat in diesem Zusammenhang bereits die Gelegenheit gehabt, klarzustellen, dass die Mitgliedstaaten diese steuerlichen Vorteile bei den in den Anwendungsbereich dieser Richtlinie fallenden Vorgängen gewähren müssen, sofern diese Vorgänge nicht als hauptsächlichen Beweggrund oder als einen der hauptsächlichen Beweggründe die Steuerhinterziehung oder ‑umgehung im Sinne von Art. 11 Abs. 1 Buchst. a der Richtlinie haben (Urteil vom 11. Dezember 2008, A.T., C‑285/07, EU:C:2008:705, Rn. 30).
+
+31
+
+Soweit das vorlegende Gericht und die französische Regierung ausgeführt haben, dass mit den fraglichen Rechtsvorschriften bezweckt werde, die Umsetzung der Richtlinie 90/434 und insbesondere ihres Art. 11 Abs. 1 Buchst. a in nationales Recht zu gewährleisten, ist daher zunächst zu bestimmen, ob die Verabschiedung nationaler Rechtsvorschriften wie der im Ausgangsverfahren fraglichen auf diese Bestimmung gestützt werden kann und ob diese Richtlinie insofern solchen Rechtsvorschriften entgegensteht.
+
+Zu Art. 11 Abs. 1 Buchst. a der Richtlinie 90/434
+
+32
+
+Nach den im Ausgangsverfahren fraglichen Rechtsvorschriften ist die Inanspruchnahme des Aufschubs der Besteuerung des Wertzuwachses der Einlagen, die durch eine französische Gesellschaft an eine in einem anderen Mitgliedstaat ansässige Gesellschaft geleistet werden, einem Vorverfahren unterworfen, in dessen Rahmen der Steuerpflichtige für die Inanspruchnahme nachweisen muss, dass drei Voraussetzungen erfüllt sind, nämlich i) dass der beabsichtigte Vorgang durch einen wirtschaftlichen Grund gerechtfertigt ist, ii) dass als er nicht als hauptsächlichen Beweggrund oder als einen der hauptsächlichen Beweggründe die Steuerhinterziehung oder ‑umgehung hat und iii) dass seine Modalitäten die Sicherung der künftigen Besteuerung des Wertzuwachses, dessen Besteuerung aufgeschoben wird, erlauben.
+
+33
+
+Damit stellt sich die Frage, ob Art. 11 Abs. 1 Buchst. a der Richtlinie 90/434 der Verabschiedung einer solchen Rechtsvorschrift entgegensteht.
+
+– Zum Bestehen eines Vorverfahrens
+
+34
+
+Was das Vorverfahren angeht, ist darauf hinzuweisen, dass die Richtlinie 90/434 kein Verfahrenserfordernis enthält, das die Mitgliedstaaten bei der Gewährung der in dieser Richtlinie vorgesehenen steuerlichen Vorteile berücksichtigen müssten.
+
+35
+
+Selbst wenn man annähme, dass diese Richtlinie den Mitgliedstaaten gestattete, ein solches Erfordernis zu bestimmen, ist das Erfordernis, das in den im Ausgangsverfahren fraglichen Rechtsvorschriften bestimmt ist, nicht mit der Richtlinie vereinbar.
+
+36
+
+Mangels einer einschlägigen Unionsregelung sind die Verfahrensmodalitäten, die den Schutz der dem Steuerpflichtigen aus dem Unionsrecht erwachsenden Rechte gewährleisten sollen, nach dem Grundsatz der Verfahrensautonomie der Mitgliedstaaten Sache der Rechtsordnung eines jeden Mitgliedstaats; sie dürfen jedoch nicht ungünstiger sein als diejenigen, die gleichartige Sachverhalte innerstaatlicher Art regeln (Äquivalenzgrundsatz), und die Ausübung der durch die Unionsrechtsordnung verliehenen Rechte nicht praktisch unmöglich machen oder übermäßig erschweren (Effektivitätsgrundsatz) (Urteil vom 18. Oktober 2012, Pelati, C‑603/10, EU:C:2012:639, Rn. 23 und die dort angeführte Rechtsprechung).
+
+37
+
+Zum Effektivitätsgrundsatz ist darauf hinzuweisen, dass bei der Beurteilung der Frage, ob eine nationale Verfahrensmodalität die Ausübung der den Bürgern durch die Unionsrechtsordnung verliehenen Rechte praktisch unmöglich macht oder übermäßig erschwert, in jedem Fall gegebenenfalls Grundsätze zu prüfen sind, die dem betreffenden nationalen Rechtsschutzsystem zugrunde liegen; hierzu gehört auch der Grundsatz der Rechtssicherheit (vgl. in diesem Sinne Urteile vom 27. Juni 2013, Agrokonsulting, C‑93/12, EU:C:2013:432, Rn. 48, und vom 6. Oktober 2015, Târșia, C‑69/14, EU:C:2015:662, Rn. 36).
+
+38
+
+In diesem Zusammenhang hat der Gerichtshof bereits klargestellt, dass das Erfordernis der Rechtssicherheit in besonderem Maß gilt, wenn es sich um Unionsvorschriften handelt, die finanzielle Konsequenzen haben können, denn die Betroffenen müssen in der Lage sein, den Umfang der ihnen durch diese Vorschriften auferlegten Verpflichtungen genau zu erkennen (vgl. in diesem Sinne Urteile vom 21. Februar 2006, Halifax u. a., C‑255/02, EU:C:2006:121, Rn. 72, sowie vom 9. Juli 2015, Cabinet Medical Veterinar Dr. Tomoiagă Andrei, C‑144/14, EU:C:2015:452, Rn. 34).
+
+39
+
+Im vorliegenden Fall hat die französische Regierung zum Äquivalenzgrundsatz in der mündlichen Verhandlung vorgetragen, dass das von den im Ausgangsverfahren fraglichen Rechtsvorschriften bestimmte Vorverfahren grundsätzlich nur bei grenzüberschreitenden Fusionen anwendbar sei. Der Gerichtshof verfügt aber andererseits nicht über die notwendigen Angaben über die auf nationale Fusionen anwendbaren Verfahrensmodalitäten, um zu beurteilen, ob grenzüberschreitende Fusionen weniger günstig als nationale Fusionen behandelt werden. Es ist Sache des vorlegenden Gerichts, durch einen Vergleich der jeweils anwendbaren Modalitäten für grenzüberschreitende und für nationale Fusionen die Vereinbarkeit dieser Rechtsvorschriften mit diesem Grundsatz zu prüfen.
+
+40
+
+Im Hinblick auf den Effektivitätsgrundsatz erfordert die Beachtung des Grundsatzes der Rechtssicherheit, dass die Verfahrensmodalitäten zur Anwendung der Richtlinie 90/434 und insbesondere ihres Art. 11 Abs. 1 Buchst. a hinreichend genau, klar und vorhersehbar sind, damit der Steuerpflichtige genau seine Rechte kennen kann, so dass sichergestellt ist, dass er die steuerlichen Vorteile nach dieser Richtlinie erhalten und sie vor nationalen Gerichten gegebenenfalls geltend machen kann (vgl. in diesem Sinne Urteile vom 28. Februar 1991, Kommission/Deutschland, C‑131/88, EU:C:1991:87, Rn. 6, vom 10. März 2009, Heinrich, C‑345/06, EU:C:2009:140, Rn. 44 und 45, vom 15. Juli 2010, Kommission/Vereinigtes Königreich, C‑582/08, EU:C:2010:429, Rn. 49 und 50, sowie vom 18. Oktober 2012, Pelati, C‑603/10, EU:C:2012:639, Rn. 36 und die dort angeführte Rechtsprechung).
+
+41
+
+Im vorliegenden Fall enthalten die im Ausgangsverfahren fraglichen Rechtsvorschriften jedoch keine Angaben dazu, welche Anwendungsmodalitäten für das betreffende Vorverfahren gelten. In der mündlichen Verhandlung hat die französische Regierung dies bestätigt und diese Modalitäten unter Bezugnahme auf die angewandte Praxis der Finanzverwaltung näher erläutert. Hierzu hat sie ausgeführt, dass diese Rechtsvorschriften zwar drei Voraussetzungen für den Erhalt der Vorabbewilligung vorsähen, es nach der von der Finanzverwaltung angewandten Praxis für die Erteilung der Bewilligung jedoch ausreiche, dass nur die Voraussetzung des Vorliegens eines wirtschaftlichen Grundes erfüllt sei. Des Weiteren habe nach dieser Praxis das Vorabbewilligungsverfahren auch keine aufschiebende Wirkung für die grenzüberschreitende Fusion. Somit könne dieser Vorgang, sofern ein Bewilligungsantrag vor seiner Durchführung gestellt worden sei, vor Erhalt der Zustimmung der Finanzverwaltung durchgeführt werden.
+
+42
+
+Wie der Generalanwalt in den Nr. 30 bis 34 und 57 seiner Schlussanträge ausgeführt hat, ist festzustellen, dass die Bestimmungen der fraglichen Rechtsvorschriften jedoch nicht der angewandten Praxis der Finanzverwaltung entsprechen, was dazu geeignet ist, dass Unsicherheiten hinsichtlich der Anwendungsmodalitäten von Art. 11 Abs. 1 Buchst. a der Richtlinie 90/434 entstehen. Demnach erscheinen diese Modalitäten nicht hinreichend genau, klar und vorhersehbar, damit der Steuerpflichtige genau seine Rechte kennen kann, zumal einige von ihnen von der Steuerverwaltung beliebig geändert werden können.
+
+43
+
+Die französische Regierung hat außerdem in der mündlichen Verhandlung angegeben, dass eine Ablehnungsentscheidung stets begründet werde, wobei jedoch das Verstreichen einer viermonatigen Frist ohne Antwort auf diesen Antrag seitens der Steuerverwaltung als stillschweigende Ablehnungsentscheidung gelte, die in diesem Fall nur auf Antrag des Steuerpflichtigen begründet werde.
+
+44
+
+Eine solche Modalität genügt jedoch ebenso wenig dem Erfordernis der Rechtssicherheit.
+
+45
+
+Damit der Steuerpflichtige den Umfang seiner Rechte und Pflichten aus der Richtlinie 90/434 eindeutig beurteilen und sich darauf einstellen kann (vgl. in diesem Sinne Urteile vom 10. März 2009, Heinrich, C‑345/06, EU:C:2009:140, Rn. 44 und 45, sowie vom 15. Juli 2010, Kommission/Vereinigtes Königreich, C‑582/08, EU:C:2010:429, Rn. 49 und 50), muss eine Entscheidung der Finanzverwaltung, mit der diesem Steuerpflichtigen die Inanspruchnahme eines steuerlichen Vorteils nach dieser Richtlinie verweigert wird, nämlich stets begründet werden, damit er die sachliche Richtigkeit der Gründe, aufgrund derer die Finanzverwaltung ihm den nach dieser Richtlinie vorgesehenen Vorteil nicht gewährt, überprüfen und gegebenenfalls sein Recht vor den zuständigen nationalen Gerichten geltend machen kann.
+
+46
+
+Vor diesem Hintergrund zeigt sich, dass die im Ausgangsverfahren fraglichen Verfahrensmodalitäten gegen das Erfordernis der Rechtssicherheit verstoßen und dass diese Rechtsvorschriften somit den Effektivitätsgrundsatz missachten.
+
+– Zu den Voraussetzungen für die Inanspruchnahme der finanziellen Vorteile gemäß der Richtlinie 90/434
+
+47
+
+Was die nach diesen Rechtsvorschriften erforderlichen Voraussetzungen angeht, hat der Gerichtshof wiederholt entschieden, dass das in der Richtlinie 90/434 vorgesehene gemeinsame Steuersystem, das verschiedene steuerliche Vorteile umfasst, gleichermaßen auf alle Vorgänge in ihrem Geltungsbereich anzuwenden ist, gleichgültig, ob ihre Gründe finanzieller, wirtschaftlicher oder rein steuerlicher Art sind (Urteil vom 20. Mai 2010, Modehuis A. Zwijnenburg, C‑352/08, EU:C:2010:282, Rn. 41 und die dort angeführte Rechtsprechung).
+
+48
+
+Der Gerichtshof hat auch ausgeführt, dass die Mitgliedstaaten nach Art. 11 Abs. 1 Buchst. a dieser Richtlinie nur ausnahmsweise in besonderen Fällen die Anwendung der Bestimmungen der Richtlinie ganz oder teilweise versagen oder rückgängig machen können (Urteil vom 20. Mai 2010, Modehuis A. Zwijnenburg, C‑352/08, EU:C:2010:282, Rn. 45 und die dort angeführte Rechtsprechung).
+
+49
+
+Da diese Bestimmung eine Ausnahme von der allgemeinen Regel der Richtlinie 90/434 vorsieht, nämlich die Inanspruchnahme der gemeinsamen Steuerregelung für Vorgänge im Anwendungsbereich dieser Richtlinie, ist sie eng auszulegen (vgl. in diesem Sinne Urteil vom 20. Mai 2010, Modehuis A. Zwijnenburg, C‑352/08, EU:C:2010:282, Rn. 46).
+
+50
+
+Erstens ist jedoch darauf hinzuweisen, dass im vorliegenden Fall, obwohl die Richtlinie 90/434 die Inanspruchnahme des Aufschubs der Besteuerung des Wertzuwachses eingebrachter Vermögenswerte als Grundsatz festlegt und die Verweigerung dieser Inanspruchnahme nur unter einer Bedingung gestattet, nämlich dass der beabsichtigte Vorgang als hauptsächlichen Beweggrund oder als einen der hauptsächlichen Beweggründe die Steuerhinterziehung oder ‑umgehung hat (vgl. in diesem Sinne Urteil vom 17. Juli 1997, Leur‑Bloem, C‑28/95, EU:C:1997:369, Rn. 45), durch die im Ausgangsverfahren fraglichen Rechtsvorschriften die Gewährung dieser Inanspruchnahme allgemein verweigert wird, es sei denn der Steuerpflichtige hat die darin vorgesehenen formellen und materiellen Anforderungen zuvor erfüllt.
+
+51
+
+Zweitens dehnen diese Rechtsvorschriften, wie der Generalanwalt in den Nrn. 34 bis 36 seiner Schlussanträge dargestellt hat, den Anwendungsbereich des Kompetenzvorbehalts der Mitgliedstaaten, der in den Rn. 22 und 23 des vorliegenden Urteils angeführt ist, über das in Art. 11 Abs. 1 Buchst. a der Richtlinie 90/434 Vorgesehene hinaus aus, da sie die Gewährung der Inanspruchnahme von den drei in Rn. 32 dieses Urteils genannten Voraussetzungen abhängig machen.
+
+52
+
+Drittens kann, wie der Generalanwalt in Nr. 36 seiner Schlussanträge festgestellt hat, entgegen dem Vorbringen der französischen Regierung die dritte in den im Ausgangsverfahren fraglichen Rechtsvorschriften vorgesehene Voraussetzung, nämlich dass die Modalitäten des Vorgangs die Sicherung der künftigen Besteuerung des Wertzuwachses, dessen Besteuerung aufgeschoben wird, erlauben, die im Übrigen in der Richtlinie 90/434 nicht vorgesehen ist, nicht durch die Bekämpfung von Steuerhinterziehung oder -umgehung gerechtfertigt werden, da dieses Ziel bereits ausdrücklich durch die zweite in diesen Rechtsvorschriften vorgesehene Voraussetzung abgedeckt wird.
+
+53
+
+Viertens ist betreffend die Vermutung der Steuerhinterziehung oder ‑umgehung gemäß Art. 11 Abs. 1 Buchst. a der Richtlinie 90/434 darauf hinzuweisen, dass diese Bestimmung den Mitgliedstaaten nur für den Fall, dass der beabsichtigte Vorgang ausschließlich auf die Erlangung eines Steuervorteils abzielt und daher nicht auf vernünftigen wirtschaftlichen Gründen beruht, gestattet, eine Vermutung der Steuerhinterziehung oder -umgehung festzulegen (vgl. in diesem Sinne Urteile vom 17. Juli 1997, Leur‑Bloem, C‑28/95, EU:C:1997:369, Rn. 45, und vom 10. November 2011, Foggia – Sociedade Gestora de Participações Sociais, C‑126/10, EU:C:2011:718, Rn. 36).
+
+54
+
+Fünftens ergibt sich aus der Rechtsprechung des Gerichtshofs, dass die Mitgliedstaaten bei der Umsetzung von Art. 11 Abs. 1 Buchst. a der Richtlinie 90/434 keine allgemeine Vermutung der Steuerhinterziehung oder -umgehung vorsehen dürfen.
+
+55
+
+Der Gerichtshof hat hierzu nämlich bereits klargestellt, dass sich die zuständigen nationalen Behörden bei der Prüfung, ob der betreffende Vorgang Steuerhinterziehung oder ‑umgehung als Beweggrund hat, nicht darauf beschränken können, vorgegebene allgemeine Kriterien anzuwenden; sie müssen vielmehr in jedem Einzelfall eine Gesamtuntersuchung dieses Vorgangs vornehmen. Denn eine generelle Vorschrift, mit der bestimmte Gruppen von Vorgängen unabhängig davon, ob tatsächlich eine Steuerhinterziehung oder ‑umgehung vorliegt, automatisch vom Steuervorteil ausgeschlossen werden, ginge über das zur Verhinderung einer Steuerhinterziehung oder ‑umgehung Erforderliche hinaus und beeinträchtigte das mit dieser Richtlinie verfolgte Ziel (Urteil vom 10. November 2011, Foggia – Sociedade Gestora de Participações Sociais, C‑126/10, EU:C:2011:718, Rn. 37).
+
+56
+
+Da der Steuerpflichtige nach den im Ausgangsverfahren fraglichen Rechtsvorschriften für die systematische und unbedingte Gewährung des Aufschubs der Besteuerung der Wertzuwächse gemäß der Richtlinie 90/434 jedoch beweisen muss, dass der betreffende Vorgang durch einen wirtschaftlichen Grund gerechtfertigt ist und nicht als hauptsächlichen Beweggrund oder als einen der hauptsächlichen Beweggründe eine Steuerhinterziehung oder ‑umgehung hat, ohne dass die Verwaltung verpflichtet wäre, auch nur ein Indiz für das Fehlen vernünftiger wirtschaftlicher Gründe oder für Steuerhinterziehung oder ‑umgehung beizubringen, schaffen diese Rechtsvorschriften eine allgemeine Vermutung der Steuerhinterziehung oder -umgehung.
+
+57
+
+Nach alledem ist festzustellen, dass Art. 11 Abs. 1 Buchst. a der Richtlinie 90/434 dahin auszulegen ist, dass er der Verabschiedung nationaler Rechtsvorschriften wie der im Ausgangsverfahren fraglichen entgegensteht.
+
+Zu Art. 49 AEUV
+
+58
+
+Nach ständiger Rechtsprechung schreibt Art. 49 AEUV die Aufhebung der Beschränkungen der Niederlassungsfreiheit vor. Auch wenn die Bestimmungen des AEU-Vertrags über die Niederlassungsfreiheit nach ihrem Wortlaut die Inländerbehandlung im Aufnahmemitgliedstaat sicherstellen sollen, verbieten sie es ebenfalls, dass der Herkunftsmitgliedstaat die Niederlassung eines seiner Staatsangehörigen oder einer nach seinem Recht gegründeten Gesellschaft in einem anderen Mitgliedstaat behindert (Urteil vom 29. November 2011, National Grid Indus, C‑371/10, EU:C:2011:785, Rn. 35 und die dort angeführte Rechtsprechung).
+
+59
+
+Als Beschränkungen der Niederlassungsfreiheit sind alle Maßnahmen anzusehen, die die Ausübung dieser Freiheit unterbinden, behindern oder weniger attraktiv machen (Urteil vom 29. November 2011, National Grid Indus, C‑371/10, EU:C:2011:785, Rn. 36 und die dort angeführte Rechtsprechung).
+
+60
+
+Es ist festzustellen, dass die Gewährung des Aufschubs der Besteuerung des Wertzuwachses aus den Wirtschaftsgütern, die von einer französischen Gesellschaft in eine Gesellschaft eingebracht wurden, die ihre Niederlassung in einem anderen Mitgliedstaat hat, im Ausgangsverfahren ausschließlich bei grenzüberschreitenden Fusionen von den Erfordernissen der fraglichen Rechtsvorschriften abhängig gemacht wird.
+
+61
+
+Wie die französische Regierung einräumt, behandeln diese Rechtsvorschriften grenzüberschreitende und nationale Fusionen unterschiedlich.
+
+62
+
+Ein solcher Unterschied kann die Gesellschaft von der Ausübung ihrer Niederlassungsfreiheit abhalten und stellt daher eine Beschränkung dieser Freiheit dar.
+
+63
+
+Eine solche Beschränkung ist nur statthaft, wenn sie durch im Unionsrecht anerkannte zwingende Gründe des Allgemeininteresses objektiv gerechtfertigt werden kann. In diesem Fall darf sie aber außerdem nicht über das hinausgehen, was zur Erreichung dieses Ziels erforderlich ist (Urteil vom 29. November 2011, National Grid Indus, C‑371/10, EU:C:2011:785, Rn. 42 und die dort angeführte Rechtsprechung).
+
+64
+
+Nach Auffassung der französischen Regierung ist die Beschränkung, um die es im Ausgangsverfahren geht, durch zwingende Gründe des Allgemeininteresses im Zusammenhang mit der Bekämpfung von Steuerhinterziehung und -umgehung und mit der Wahrung einer ausgewogenen Aufteilung der Besteuerungsbefugnisse zwischen den Mitgliedstaaten gerechtfertigt.
+
+65
+
+Hierzu ist darauf hinzuweisen, dass der Gerichtshof bereits entschieden hat, dass zu den zwingenden Gründen des Allgemeininteresses, die eine Beschränkung der vom EG-Vertrag garantierten Verkehrsfreiheiten rechtfertigen können, sowohl die Bekämpfung der Steuerhinterziehung oder -umgehung als auch die Notwendigkeit gehören, die ausgewogene Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten zu wahren (Urteil vom 5. Juli 2012, SIAT, C‑318/10, EU:C:2012:415, Rn. 36 und 37 sowie die dort angeführte Rechtsprechung).
+
+66
+
+Was dieses letzte Ziel angeht, ist jedoch entsprechend den Ausführungen des Generalanwalts in Nr. 39 seiner Schlussanträge darauf hinzuweisen, dass es bereits durch die Richtlinie 90/434 selbst sichergestellt wird.
+
+67
+
+Wie sich aus der Rechtsprechung des Gerichtshofs ergibt, geht nämlich aus den Erwägungsgründen 4 und 6 der Richtlinie hervor, dass diese lediglich eine Regelung zum Aufschub der Besteuerung des Wertzuwachses eingebrachter Vermögenswerte trifft, die unter Vermeidung dessen, dass die Einbringung selbst zu einer Besteuerung führt, die finanziellen Interessen des Staates der einbringenden Gesellschaft wahrt, indem sie sicherstellt, dass diese Wertzuwächse im Zeitpunkt ihrer tatsächlichen Realisierung besteuert werden (Urteil vom 19. Dezember 2012, 3D I, C‑207/11, EU:C:2012:818, Rn. 28).
+
+68
+
+Somit lässt sich im Ausgangsverfahren eine Beschränkung der Niederlassungsfreiheit nicht mit diesem Ziel rechtfertigen.
+
+69
+
+Was die zwingenden Gründe des Allgemeininteresses im Zusammenhang mit der Bekämpfung von Steuerhinterziehung und ‑umgehung angeht, genügt es wie der Generalanwalt in den Nrn. 72 und 73 seiner Schlussanträge festzustellen, dass dieses Ziel die gleiche Tragweite hat, wenn es bei der Anwendung von Art. 11 Abs. 1 Buchst. a der Richtlinie 90/434 oder als Rechtfertigung für eine Beschränkung des Primärrechts geltend gemacht wird. Somit gelten die Erwägungen in den Rn. 54 bis 56 des vorliegenden Urteils zur Verhältnismäßigkeit der im Ausgangsverfahren fraglichen Rechtsvorschriften, die diese Bestimmung betreffen, ebenfalls für die Prüfung der Verhältnismäßigkeit dieser Rechtsvorschriften hinsichtlich der Niederlassungsfreiheit. Daraus folgt, dass steuerrechtliche Vorschriften wie die im Ausgangsverfahren fraglichen, mit denen eine allgemeine Vermutung der Steuerhinterziehung oder -umgehung geschaffen wird, über das hinausgehen, was zur Erreichung dieses Ziels erforderlich ist, und somit eine Beschränkung dieser Freiheit nicht rechtfertigen können.
+
+70
+
+Nach alledem ist auf die zweite Frage zu antworten, dass Art. 49 AEUV und Art. 11 Abs. 1 Buchst. a der Richtlinie 90/434 dahin auszulegen sind, dass sie einer nationalen Rechtsvorschrift wie der im Ausgangsverfahren fraglichen entgegenstehen, die im Fall einer grenzüberschreitenden Fusion die Gewährung der gemäß dieser Richtlinie auf einen solchen Vorgang anwendbaren steuerlichen Vorteile, vorliegend der Aufschub der Besteuerung des Wertzuwachses der Einlagen, die durch eine französische Gesellschaft an eine in einem anderen Mitgliedstaat ansässige Gesellschaft geleistet wurden, von einem Vorabbewilligungsverfahren abhängig macht, in dessen Rahmen der Steuerpflichtige für den Erhalt dieser Bewilligung nachweisen muss, dass der betreffende Vorgang durch einen wirtschaftlichen Grund gerechtfertigt ist, dass er nicht als hauptsächlichen Beweggrund oder als einen der hauptsächlichen Beweggründe die Steuerhinterziehung oder ‑umgehung hat und dass seine Modalitäten die Sicherung der künftigen Besteuerung des Wertzuwachses, dessen Besteuerung aufgeschoben wird, erlauben, obwohl ein solcher Aufschub im Fall einer nationalen Fusion gewährt wird, ohne dass der Steuerpflichtige einem solchen Verfahren unterworfen wird.
+
+Kosten
+
+71
+
+Für die Parteien der Ausgangsverfahren ist das Verfahren ein Zwischenstreit in den beim vorlegenden Gericht anhängigen Rechtsstreitigkeiten; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Erste Kammer) für Recht erkannt:
+
+ 	
+1.
+
+Da durch Art. 11 Abs. 1 Buchst. a der Richtlinie 90/434/EWG des Rates vom 23. Juli 1990 über das gemeinsame Steuersystem für Fusionen, Spaltungen, die Einbringung von Unternehmensteilen und den Austausch von Anteilen, die Gesellschaften verschiedener Mitgliedstaaten betreffen, keine abschließende Harmonisierung erfolgt, erlaubt das Unionsrecht, die Vereinbarkeit einer nationalen Rechtsvorschrift wie der im Ausgangsverfahren fraglichen im Hinblick auf das Primärrecht zu beurteilen, obwohl diese Rechtsvorschrift erlassen wurde, um die durch diese Bestimmung gewährte Möglichkeit in nationales Recht umzusetzen.
+
+ 	
+2.
+
+Art. 49 AEUV und Art. 11 Abs. 1 Buchst. a der Richtlinie 90/434 sind dahin auszulegen, dass sie einer nationalen Rechtsvorschrift wie der im Ausgangsverfahren fraglichen entgegenstehen, die im Fall einer grenzüberschreitenden Fusion die Gewährung der gemäß dieser Richtlinie auf einen solchen Vorgang anwendbaren steuerlichen Vorteile, vorliegend der Aufschub der Besteuerung des Wertzuwachses der Einlagen, die durch eine französische Gesellschaft an eine in einem anderen Mitgliedstaat ansässige Gesellschaft geleistet wurden, von einem Vorabbewilligungsverfahren abhängig macht, in dessen Rahmen der Steuerpflichtige für den Erhalt dieser Bewilligung nachweisen muss, dass der betreffende Vorgang durch einen wirtschaftlichen Grund gerechtfertigt ist, dass er nicht als hauptsächlichen Beweggrund oder als einen der hauptsächlichen Beweggründe die Steuerhinterziehung oder ‑umgehung hat und dass seine Modalitäten die Sicherung der künftigen Besteuerung des Wertzuwachses, dessen Besteuerung aufgeschoben wird, erlauben, obwohl ein solcher Aufschub im Fall einer nationalen Fusion gewährt wird, ohne dass der Steuerpflichtige einem solchen Verfahren unterworfen wird.
+
+ 	
+Unterschriften
+
+( 1 )	Verfahrenssprache: Französisch.

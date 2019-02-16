@@ -1,0 +1,314 @@
+URTEIL DES GERICHTSHOFS (Große Kammer)
+
+10. April 2018 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Verkehrsdienstleistungen – Richtlinie 2006/123/EG – Dienstleistungen im Binnenmarkt – Richtlinie 98/34/EG – Dienste der Informationsgesellschaft – Vorschrift betreffend Dienste der Informationsgesellschaft – Begriff – Vermittlungsdienst, der es mittels einer Smartphone-Applikation ermöglicht, gegen Entgelt eine Verbindung zwischen nicht berufsmäßigen Fahrern, die ihr eigenes Fahrzeug benutzen, und Personen herzustellen, die eine Fahrt im innerstädtischen Bereich unternehmen möchten – Strafrechtliche Sanktionen“
+
+In der Rechtssache C‑320/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Tribunal de grande instance de Lille (Regionalgericht Lille, Frankreich) mit Entscheidung vom 17. März 2016, beim Gerichtshof eingegangen am 6. Juni 2016, in dem Strafverfahren gegen
+
+Uber France SAS,
+
+Beteiligter:
+
+Nabil Bensalem,
+
+erlässt
+
+DER GERICHTSHOF (Große Kammer)
+
+unter Mitwirkung des Präsidenten K. Lenaerts, des Vizepräsidenten A. Tizzano, der Kammerpräsidentin R. Silva de Lapuerta, der Kammerpräsidenten M. Ilešič, A. Rosas, J. Malenovský und E. Levits, der Richter E. Juhász, A. Borg Barthet und D. Šváby (Berichterstatter), der Richterin K. Jürimäe sowie der Richter C. Lycourgos und M. Vilaras,
+
+Generalanwalt: M. Szpunar,
+
+Kanzler: V. Giacobbo-Peyronnel, Verwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 24. April 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der Uber France SAS, vertreten durch Y. Chevalier, Y. Boubacir und H. Calvet, avocats,
+
+–
+
+von Herrn Bensalem, vertreten durch T. Ismi-Nedjadi, avocat,
+
+–
+
+der französischen Regierung, vertreten durch D. Colas und R. Coesme als Bevollmächtigte,
+
+–
+
+der estnischen Regierung, vertreten durch N. Grünberg als Bevollmächtigte,
+
+–
+
+der niederländischen Regierung, vertreten durch H. Stergiou und M. Bulterman als Bevollmächtigte,
+
+–
+
+der polnischen Regierung, vertreten durch B. Majczyna als Bevollmächtigten,
+
+–
+
+der finnischen Regierung, vertreten durch S. Hartikainen als Bevollmächtigten,
+
+–
+
+der Europäischen Kommission, vertreten durch H. Tserepa-Lacombe, J. Hottiaux, Y. G. Marinova, G. Braga da Cruz und F. Wilman als Bevollmächtigte,
+
+–
+
+der EFTA-Überwachungsbehörde, vertreten durch C. Zatschler, Ø. Bø, M. L. Hakkebo und C. Perrin als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 4. Juli 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 1 und Art. 8 Abs. 1 der Richtlinie 98/34/EG des Europäischen Parlaments und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. 1998, L 204, S. 37) in der durch die Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20. Juli 1998 (ABl. 1998, L 217, S. 18) geänderten Fassung (im Folgenden: Richtlinie 98/34) sowie von Art. 2 Abs. 2 Buchst. d der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt (ABl. 2006, L 376, S. 36).
+
+2
+
+Dieses Ersuchen ergeht im Rahmen eines Verfahrens vor einem von einer Zivilpartei im Privatklageverfahren angerufenen Tribunal correctionnel (Strafgericht) gegen die Uber France SAS wegen der rechtswidrigen Organisation eines Systems der Zusammenführung von nicht berufsmäßigen Fahrern, die ihr eigenes Fahrzeug benutzen, und Personen, die eine Fahrt im innerstädtischen Bereich unternehmen möchten.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+Richtlinie 98/34
+
+3
+
+In Art. 1 Nrn. 2, 5, 11 und 12 der Richtlinie 98/34 heißt es:
+
+„Für diese Richtlinie gelten folgende Begriffsbestimmungen:
+
+…
+
+2.
+
+‚Dienst‘: eine Dienstleistung der Informationsgesellschaft, d. h. jede in der Regel gegen Entgelt elektronisch im Fernabsatz und auf individuellen Abruf eines Empfängers erbrachte Dienstleistung.
+
+Im Sinne dieser Definition bezeichnet der Ausdruck
+
+–
+
+‚im Fernabsatz erbrachte Dienstleistung‘ eine Dienstleistung, die ohne gleichzeitige physische Anwesenheit der Vertragsparteien erbracht wird;
+
+–
+
+‚elektronisch erbrachte Dienstleistung‘ eine Dienstleistung, die mittels Geräten für die elektronische Verarbeitung (einschließlich digitaler Kompression) und Speicherung von Daten am Ausgangspunkt gesendet und am Endpunkt empfangen wird und die vollständig über Draht, über Funk, auf optischem oder anderem elektromagnetischem Wege gesendet, weitergeleitet und empfangen wird;
+
+–
+
+‚auf individuellen Abruf eines Empfängers erbrachte Dienstleistung‘ eine Dienstleistung, die durch die Übertragung von Daten auf individuelle Anforderung erbracht wird.
+
+Eine Beispielliste der nicht unter diese Definition fallenden Dienste findet sich in Anhang V.
+
+…
+
+5.
+
+‚Vorschrift betreffend Dienste‘: eine allgemein gehaltene Vorschrift über den Zugang zu den Aktivitäten der unter Nummer 2 genannten Dienste und über deren Betreibung, insbesondere Bestimmungen über den Erbringer von Diensten, die Dienste und den Empfänger von Diensten, unter Ausschluss von Regelungen, die nicht speziell auf die unter dieser Nummer definierten Dienste abzielen.
+
+…
+
+Im Sinne dieser Definition
+
+–
+
+gilt eine Vorschrift als speziell auf Dienste der Informationsgesellschaft abzielend, wenn sie nach ihrer Begründung und ihrem Wortlaut insgesamt oder in Form einzelner Bestimmungen ausdrücklich und gezielt auf die Regelung dieser Dienste abstellt;
+
+–
+
+ist eine Vorschrift nicht als speziell auf die Dienste der Informationsgesellschaft abzielend zu betrachten, wenn sie sich lediglich indirekt oder im Sinne eines Nebeneffekts auf diese Dienste auswirkt.
+
+…
+
+11.
+
+‚Technische Vorschrift‘: Technische Spezifikationen oder sonstige Vorschriften oder Vorschriften betreffend Dienste, einschließlich der einschlägigen Verwaltungsvorschriften, deren Beachtung rechtlich oder de facto für das Inverkehrbringen, die Erbringung des Dienstes, die Niederlassung eines Erbringers von Diensten oder die Verwendung in einem Mitgliedstaat oder in einem großen Teil dieses Staates verbindlich ist, sowie – vorbehaltlich der in Artikel 10 genannten Bestimmungen – die Rechts- und Verwaltungsvorschriften der Mitgliedstaaten, mit denen Herstellung, Einfuhr, Inverkehrbringen oder Verwendung eines Erzeugnisses oder Erbringung oder Nutzung eines Dienstes oder die Niederlassung als Erbringer von Diensten verboten werden.
+
+…
+
+12.
+
+‚Entwurf einer technischen Vorschrift‘: Wortlaut einer technischen Spezifikation oder einer sonstigen Vorschrift oder einer Vorschrift betreffend Dienste einschließlich Verwaltungsvorschriften, der ausgearbeitet worden ist, um diese als technische Vorschrift festzuschreiben oder letztlich festschreiben zu lassen, und der sich im Stadium der Ausarbeitung befindet, in dem noch wesentliche Änderungen möglich sind.“
+
+4
+
+Art. 8 Abs. 1 Unterabs. 1 dieser Verordnung bestimmt:
+
+„Vorbehaltlich des Artikels 10 übermitteln die Mitgliedstaaten der Kommission unverzüglich jeden Entwurf einer technischen Vorschrift, sofern es sich nicht um eine vollständige Übertragung einer internationalen oder europäischen Norm handelt; in diesem Fall reicht die Mitteilung aus, um welche Norm es sich handelt. Sie unterrichten die Kommission gleichzeitig in einer Mitteilung über die Gründe, die die Festlegung einer derartigen technischen Vorschrift erforderlich machen, es sei denn, die Gründe gehen bereits aus dem Entwurf hervor.“
+
+5
+
+Nach den Art. 10 und 11 der Richtlinie (EU) 2015/1535 des Europäischen Parlaments und des Rates vom 9. September 2015 über ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft (ABl. 2015, L 241, S. 1) wurde die Richtlinie 98/34 am 7. Oktober 2015 aufgehoben.
+
+Richtlinie 2006/123
+
+6
+
+Nach dem 21. Erwägungsgrund der Richtlinie 2006/123 sollten „Verkehrsdienstleistungen, einschließlich des Personennahverkehrs, Taxis und Krankenwagen sowie Hafendienste, … vom Anwendungsbereich dieser Richtlinie ausgenommen sein“.
+
+7
+
+Art. 2 Abs. 2 Buchst. d der Richtlinie 2006/123 sieht vor, dass sie auf Verkehrsdienstleistungen einschließlich Hafendiensten, die in den Anwendungsbereich von Titel V des EG-Vertrags (jetzt Titel VI des Dritten Teils des AEU-Vertrags) fallen, keine Anwendung findet.
+
+Französisches Recht
+
+8
+
+Mit dem Gesetz Nr. 2014‑1104 vom 1. Oktober 2014 über Taxis und Mietwagen mit Fahrer (JORF vom 2. Oktober 2014, S. 15938) wurde in den Code des transports (Verkehrsgesetzbuch) ein Art. L. 3124‑13 eingefügt, der folgenden Wortlaut hat:
+
+„Mit einer Freiheitsstrafe von zwei Jahren und einer Geldstrafe von 300000 [Euro] wird bestraft, wer ein System der Zusammenführung von Kunden mit Personen organisiert, die die in Art. L. 3120‑1 genannten Tätigkeiten[, d. h. die entgeltliche Beförderung von Personen in Fahrzeugen mit weniger als zehn Sitzplätzen unter Ausschluss öffentlicher Verkehrsmittel und der privaten Personenbeförderung,] ausüben; dies gilt nicht für Beförderungsunternehmen, die die in Kapitel II von Titel I des vorliegenden Buchs genannten gelegentlichen Dienste erbringen dürfen, Taxis, motorisierte Fahrzeuge mit zwei oder drei Rädern und Mietwagen mit Fahrer im Sinne dieses Titels.
+
+Juristischen Personen, die für das vom vorliegenden Artikel erfasste Vergehen strafrechtlich verantwortlich erklärt werden, werden neben der Geldstrafe gemäß den in Art. 131‑38 des Code pénal [(Strafgesetzbuch)] vorgesehenen Modalitäten die in dessen Art. 131‑39 Abs. 2 bis 9 vorgesehenen Strafen auferlegt. Das in Art. 131‑39 Abs. 2 genannte Verbot betrifft die Tätigkeit, bei deren Ausübung oder anlässlich deren die Zuwiderhandlung begangen wurde. Die in den Abs. 2 bis 7 dieses Artikels vorgesehenen Strafen dürfen nur für die Dauer von höchstens fünf Jahren ausgesprochen werden.“
+
+9
+
+Art. 131‑39 Nrn. 2 bis 9 des Strafgesetzbuchs sieht vor:
+
+„Wenn das Gesetz es für eine juristische Person vorsieht, kann ein Verbrechen oder ein Vergehen mit einer oder mehreren der folgenden Strafen geahndet werden:
+
+…
+
+2.
+
+dem Verbot, eine oder mehrere berufliche oder gesellschaftliche Tätigkeiten unmittelbar oder mittelbar auszuüben, dauerhaft oder für bis zu fünf Jahre;
+
+3.
+
+der Unterstellung unter gerichtliche Aufsicht für bis zu fünf Jahre;
+
+4.
+
+der Schließung der Betriebe oder eines oder mehrerer Betriebe des Unternehmens, die zur Begehung der verfolgten Taten gedient haben, dauerhaft oder für bis zu fünf Jahre;
+
+5.
+
+dem Ausschluss von öffentlichen Ausschreibungen, dauerhaft oder für bis zu fünf Jahre;
+
+6.
+
+dem Verbot, öffentlich Wertpapiere anzubieten oder die Zulassung eigener Wertpapiere zum Handel auf einem reglementierten Markt zu betreiben, dauerhaft oder für bis zu fünf Jahre;
+
+7.
+
+dem für bis zu fünf Jahre geltenden Verbot, andere als zum Abheben von Geldern durch den Aussteller beim Bezogenen dienende oder beglaubigte Schecks auszustellen oder Zahlungskarten zu verwenden;
+
+8.
+
+der Einziehung unter den in Art. 131‑21 vorgesehenen Voraussetzungen und Modalitäten;
+
+9.
+
+der Bekanntmachung der erlassenen Entscheidung oder ihrer Verbreitung, entweder in Printmedien oder durch ein Mittel zur Veröffentlichung auf elektronischem Weg.“
+
+Ausgangsrechtsstreit und Vorlagefrage
+
+10
+
+Uber France erbringt mittels einer Smartphone-Applikation einen Dienst namens „Uber Pop“, mit dem sie nicht berufsmäßige Fahrer, die ihr eigenes Fahrzeug benutzen, mit Personen zusammenführt, die eine Fahrt im innerstädtischen Bereich unternehmen möchten. Im Rahmen des mittels dieser Applikation erbrachten Dienstes legt sie nach den Angaben des Tribunal de grande instance de Lille (Regionalgericht Lille, Frankreich) in der Vorlageentscheidung die Tarife fest, erhebt den Preis für jede Fahrt vom Kunden, führt sodann einen Teil davon an den nicht berufsmäßigen Fahrer des Fahrzeugs ab und stellt die Rechnungen aus.
+
+11
+
+Uber France werden vor dem vorlegenden Gericht, das von Herrn Nabil Bensalem als Zivilpartei im Privatklageverfahren angerufen wurde, folgende Taten zur Last gelegt: erstens irreführende Geschäftspraktiken ab dem 2. Februar und dem 10. Juni 2014, zweitens Beteiligung an der rechtswidrigen Ausübung des Taxigewerbes ab dem 10. Juni 2014 sowie drittens die rechtswidrige Organisation eines Systems der Zusammenführung von Kunden mit Personen, die die entgeltliche Personenbeförderung in Fahrzeugen mit weniger als zehn Sitzplätzen betreiben, ab dem 1. Oktober 2014.
+
+12
+
+Mit Urteil vom 17. März 2016 erklärte das Tribunal de grande instance de Lille (Regionalgericht Lille) Uber France einer irreführenden Geschäftspraxis für schuldig und sprach sie vom Vorwurf der Beteiligung an der rechtswidrigen Ausübung des Taxigewerbes frei.
+
+13
+
+In Bezug auf den Vorwurf der rechtswidrigen Organisation eines Systems der Zusammenführung von Kunden mit nicht berufsmäßigen Fahrern, das nach Art. L. 3124‑13 des Verkehrsgesetzbuchs unter Strafe steht, hat das vorlegende Gericht Zweifel daran, ob mit dieser Bestimmung eine „Vorschrift betreffend Dienste“ der Informationsgesellschaft im Sinne von Art. 1 Nr. 5 der Richtlinie 98/34 eingeführt wird, die, sofern sie nicht im Einklang mit Art. 8 Abs. 1 dieser Richtlinie mitgeteilt wurde, Privatpersonen nicht entgegengehalten werden könnte, oder ob es sich um eine Vorschrift über „Verkehrsdienstleistungen“ im Sinne von Art. 2 Abs. 2 Buchst. d der Richtlinie 2006/123 handelt.
+
+14
+
+Unter diesen Umständen hat das Tribunal de grande instance de Lille (Regionalgericht Lille) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Frage zur Vorabentscheidung vorzulegen:
+
+Stellt der mit dem Gesetz Nr. 2014‑1104 vom 1. Oktober 2014 über Taxis und Mietwagen mit Fahrer eingefügte Art. L. 3124‑13 des Verkehrsgesetzbuchs eine nicht indirekte neue technische Vorschrift für einen oder mehrere Dienste der Informationsgesellschaft im Sinne der Richtlinie 98/34 dar, so dass er der Europäischen Kommission nach Art. 8 dieser Richtlinie vorab hätte übermittelt werden müssen, oder fällt er unter die Richtlinie 2006/123, die nach ihrem Art. 2 Abs. 2 Buchst. d nicht für den Verkehr gilt?
+
+Bei Bejahung des ersten Teils der Frage: Folgt aus der Verletzung der in Art. 8 der Richtlinie 98/34 vorgesehenen Übermittlungspflicht, dass Art. L. 3124‑13 des Verkehrsgesetzbuchs dem Einzelnen nicht entgegengehalten werden kann?
+
+Zur Vorlagefrage
+
+15
+
+Mit dem ersten Teil seiner Frage möchte das vorlegende Gericht wissen, ob Art. 1 der Richtlinie 98/34 und Art. 2 Abs. 2 Buchst. d der Richtlinie 2006/123 dahin auszulegen sind, dass eine nationale Regelung, mit der die Organisation eines Systems der Zusammenführung von Kunden mit Personen, die ohne eine entsprechende Genehmigung entgeltlich Leistungen der Beförderung von Personen in Fahrzeugen mit weniger als zehn Sitzplätzen erbringen, strafrechtlich geahndet wird, als Vorschrift betreffend Dienste der Informationsgesellschaft anzusehen ist, die der Kommission nach Art. 8 Abs. 1 Unterabs. 1 der Richtlinie 98/34 vorab mitzuteilen ist, oder ob eine solche Regelung eine Verkehrsdienstleistung betrifft, die vom Anwendungsbereich sowohl der Richtlinie 98/34 als auch der Richtlinie 2006/123 ausgenommen ist.
+
+16
+
+Zunächst ist festzustellen, dass durch die im Ausgangsverfahren in Rede stehende Regelung die Organisation eines Systems der Zusammenführung von Kunden mit Personen, die ohne Genehmigung Leistungen der Beförderung von Personen erbringen, mit Sanktionen strafrechtlicher Art wie Freiheitsstrafe, Geldstrafe, dem Verbot der Ausübung einer beruflichen oder gesellschaftlichen Tätigkeit, der Schließung von Betrieben des Unternehmens sowie der Einziehung geahndet wird.
+
+17
+
+Der im Ausgangsverfahren in Rede stehende Dienst besteht darin, mittels einer Smartphone-Applikation gegen Entgelt nicht berufsmäßige Fahrer mit Personen zusammenzuführen, die eine Fahrt im innerstädtischen Bereich unternehmen möchten. Wie in Rn. 10 des vorliegenden Urteils ausgeführt, legt im Rahmen dieses Dienstes dessen Erbringer die Tarife fest, erhebt den Preis für jede Fahrt vom Kunden, führt sodann einen Teil davon an den nicht berufsmäßigen Fahrer des Fahrzeugs ab und stellt die Rechnungen aus.
+
+18
+
+Der Gerichtshof hat im Wege der Vorabentscheidung, um die er im Rahmen eines Zivilrechtsstreits ersucht wurde, in seinem Urteil vom 20. Dezember 2017, Asociación Profesional Elite Taxi (C‑434/15, EU:C:2017:981), die unionsrechtliche Einordnung eines solchen Dienstes vorgenommen.
+
+19
+
+Dabei führte der Gerichtshof zunächst aus, dass ein Vermittlungsdienst, der es mittels einer Smartphone-Applikation ermöglicht, Informationen über die Buchung der Verkehrsdienstleistung zwischen dem Passagier und dem nicht berufsmäßigen Fahrer, der die Beförderung mit seinem eigenen Fahrzeug durchführt, zu übermitteln, grundsätzlich die Kriterien erfüllt, die es ermöglichen, ihn als „Dienstleistung der Informationsgesellschaft“ im Sinne von Art. 1 Nr. 2 der Richtlinie 98/34 einzustufen (Urteil vom 20. Dezember 2017, Asociación Profesional Elite Taxi,C‑434/15, EU:C:2017:981, Rn. 35).
+
+20
+
+Der Gerichtshof stellte jedoch fest, dass der Vermittlungsdienst, um den es in der Rechtssache ging, in der dieses Urteil ergangen ist, nicht nur ein Vermittlungsdienst war, der darin bestand, mittels einer Smartphone-Applikation eine Verbindung zwischen nicht berufsmäßigen Fahrern, die ihr eigenes Fahrzeug benutzen, und Personen herzustellen, die eine Fahrt im innerstädtischen Bereich unternehmen möchten (vgl. in diesem Sinne Urteil vom 20. Dezember 2017, Asociación Profesional Elite Taxi, C‑434/15, EU:C:2017:981, Rn. 37).
+
+21
+
+Insoweit führte der Gerichtshof aus, dass der von der betreffenden Gesellschaft erbrachte Vermittlungsdienst untrennbar mit den von ihr angebotenen Diensten der innerstädtischen Individualbeförderung verbunden war, unter Berücksichtigung erstens der Tatsache, dass diese Gesellschaft eine Applikation stellte, ohne die diese Fahrer keine Verkehrsdienstleistungen erbringen würden und Personen, die eine Fahrt im innerstädtischen Bereich unternehmen möchten, die Dienste dieser Fahrer nicht in Anspruch nehmen würden, und zweitens der Tatsache, dass diese Gesellschaft entscheidenden Einfluss auf die Bedingungen der Leistungserbringung durch die Fahrer ausübte, indem sie u. a. den Höchstpreis für die Fahrt festsetzte, den Preis beim Kunden erhob und danach einen Teil davon an den nicht berufsmäßigen Fahrer des Fahrzeugs überwies und eine gewisse Kontrolle über die Qualität der Fahrzeuge und der Fahrer sowie über deren Verhalten ausübte, die gegebenenfalls zu ihrem Ausschluss führen konnte (vgl. in diesem Sinne Urteil vom 20. Dezember 2017, Asociación Profesional Elite Taxi, C‑434/15, EU:C:2017:981, Rn. 38 und 39).
+
+22
+
+Der Gerichtshof kam auf der Grundlage dieser Gesichtspunkte zu dem Ergebnis, dass der in dieser Rechtssache in Rede stehende Vermittlungsdienst als integraler Bestandteil einer Gesamtdienstleistung anzusehen war, die hauptsächlich aus einer Verkehrsdienstleistung bestand, so dass er nicht als „Dienst der Informationsgesellschaft“ im Sinne von Art. 1 Nr. 2 der Richtlinie 98/34 einzustufen war, sondern als „Verkehrsdienstleistung“ im Sinne von Art. 2 Abs. 2 Buchst. d der Richtlinie 2006/123 (vgl. in diesem Sinne Urteil vom 20. Dezember 2017, Asociación Profesional Elite Taxi, C‑434/15, EU:C:2017:981, Rn. 40).
+
+23
+
+Der Gerichtshof folgerte daraus insbesondere, dass dieser Vermittlungsdienst nicht der Richtlinie 2006/123 unterlag, weil Verkehrsdienstleistungen nach dem Wortlaut ihres Art. 2 Abs. 2 Buchst. d zu den Dienstleistungen gehören, die ausdrücklich von ihrem Anwendungsbereich ausgenommen sind (vgl. in diesem Sinne Urteil vom 20. Dezember 2017, Asociación Profesional Elite Taxi, C‑434/15, EU:C:2017:981, Rn. 43).
+
+24
+
+Diese Schlussfolgerung gilt aus denselben Gründen für den im Ausgangsverfahren in Rede stehenden Vermittlungsdienst, da er sich nach den dem Gerichtshof vorliegenden Informationen nicht wesentlich von dem in Rn. 21 des vorliegenden Urteils beschriebenen Dienst unterscheidet; dies zu prüfen ist jedoch Sache des vorlegenden Gerichts.
+
+25
+
+Vorbehaltlich dieser Prüfung kann somit eine Regelung wie die im Ausgangsverfahren in Rede stehende, die im Rahmen eines Strafverfahrens gegen eine den fraglichen Vermittlungsdienst erbringende Gesellschaft herangezogen wird, nicht unter die Richtlinie 2006/123 fallen.
+
+26
+
+Somit kann diese Regelung nicht als Vorschrift betreffend Dienste der Informationsgesellschaft im Sinne von Art. 1 der Richtlinie 98/34 eingestuft werden, so dass sie nicht gemäß Art. 8 Abs. 1 Unterabs. 1 dieser Richtlinie der Kommission vorab mitgeteilt werden musste.
+
+27
+
+Nach alledem ist auf den ersten Teil der Vorlagefrage zu antworten, dass Art. 1 der Richtlinie 98/34 und Art. 2 Abs. 2 Buchst. d der Richtlinie 2006/123 dahin auszulegen sind, dass eine nationale Regelung, mit der die Organisation eines Systems der Zusammenführung von Kunden und Personen, die ohne eine entsprechende Genehmigung entgeltlich Leistungen der Beförderung von Personen in Fahrzeugen mit weniger als zehn Sitzplätzen erbringen, strafrechtlich geahndet wird, eine „Verkehrsdienstleistung“ betrifft, soweit sie auf einen Vermittlungsdienst Anwendung findet, der mittels einer Smartphone-Applikation erbracht wird und integraler Bestandteil einer hauptsächlich aus einer Verkehrsdienstleistung bestehenden Gesamtdienstleistung ist. Ein solcher Dienst ist vom Anwendungsbereich dieser Richtlinien ausgenommen.
+
+28
+
+Angesichts der Antwort auf den ersten Teil der Frage ist ihr zweiter Teil nicht zu beantworten, da er die Hypothese betrifft, dass eine solche Regelung, soweit sie auf einen Dienst wie den im Ausgangsverfahren in Rede stehenden Anwendung findet, gemäß Art. 8 Abs. 1 Unterabs. 1 der Richtlinie 98/34 hätte mitgeteilt werden müssen.
+
+Kosten
+
+29
+
+Für die Beteiligten des Ausgangsverfahrens ist das Verfahren Teil des bei dem vorlegenden Gericht anhängigen Verfahrens; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Große Kammer) für Recht erkannt:
+
+ 	
+Art. 1 der Richtlinie 98/34/EG des Europäischen Parlaments und des Rates vom 22. Juni 1998 über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften für die Dienste der Informationsgesellschaft in der durch die Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20. Juli 1998 geänderten Fassung und Art. 2 Abs. 2 Buchst. d der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt sind dahin auszulegen, dass eine nationale Regelung, mit der die Organisation eines Systems der Zusammenführung von Kunden und Personen, die ohne eine entsprechende Genehmigung entgeltlich Leistungen der Beförderung von Personen in Fahrzeugen mit weniger als zehn Sitzplätzen erbringen, strafrechtlich geahndet wird, eine „Verkehrsdienstleistung“ betrifft, soweit sie auf einen Vermittlungsdienst Anwendung findet, der mittels einer Smartphone-Applikation erbracht wird und integraler Bestandteil einer hauptsächlich aus einer Verkehrsdienstleistung bestehenden Gesamtdienstleistung ist. Ein solcher Dienst ist vom Anwendungsbereich dieser Richtlinien ausgenommen.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Französisch.
