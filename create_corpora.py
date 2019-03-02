@@ -1,4 +1,5 @@
 import glob
+import re
 import sys
 import os
 from pathlib import Path
@@ -41,12 +42,30 @@ def get_all_txt_of_category (path, name):
     output_file.close()
 
 
+def remove_punctuation_numbers (path, save_to_folder):
+    files_to_process = path + "/*.txt"
+    files = glob.glob(files_to_process)
+    print(files)
+
+    to_directory = os.path.join(save_to_folder)
+    filenames = []
+
+    for file in files:
+        print("Path of current file: " + "" + path + file)
+        filename = os.path.splitext(path + file)
+        print(filename)
+        #todo: regex not working yet
+        filenames.append(re.match(r'[ \w-]+?_all', filename[0]))
+
+    print(filenames)
+
+
 
 
 if __name__ == "__main__":
-    #make_txt_to_category("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter/Social security for migrant workers", "social_security_for_migrant_workers", "/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter")
-    get_all_txt_of_category("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter", "subject_matter")
-
+    # make_txt_to_category("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter/Social security for migrant workers", "social_security_for_migrant_workers", "/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter")
+    # get_all_txt_of_category("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter", "subject_matter")
+    remove_punctuation_numbers("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_advocate_general_structured", "/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-punct-numb")
 
 '''print(os.getcwd())
 
