@@ -1,0 +1,972 @@
+﻿URTEIL DES GERICHTSHOFS (Fünfte Kammer)
+
+31. Mai 2018 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Postdienste in der Europäischen Union – Richtlinie 97/67/EG – Art. 2, 7 und 9 – Richtlinie 2008/6/EG – Begriff ‚Postdiensteanbieter‘ – Straßentransport-, Speditions- und Kurierdienstunternehmen, die Dienste der Abholung, des Sortierens, des Transports und der Zustellung von Postsendungen erbringen – Erforderliche Genehmigung für die Erbringung von Postdiensten für die Allgemeinheit – Beitrag zu den Kosten des Universaldienstes“
+
+In den verbundenen Rechtssachen C‑259/16 und C‑260/16
+
+betreffend Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Tribunale amministrativo regionale per il Lazio (Verwaltungsgericht für die Region Latium, Italien) mit Entscheidungen vom 27. Januar 2016, beim Gerichtshof eingegangen am 10. Mai 2016 (C‑259/16) und am 11. Mai 2016 (C‑260/16), in den Verfahren
+
+Confederazione Generale Italiana dei Trasporti e della Logistica (Confetra) (C‑259/16),
+
+Associazione Nazionale Imprese Trasporti Automobilistici (C‑259/16),
+
+Fercam SpA (C‑259/16),
+
+Associazione non Riconosciuta Alsea (C‑259/16),
+
+Associazione Fedit (C‑259/16),
+
+Carioni Spedizioni Internazionali Srl (C‑259/16),
+
+Federazione Nazionale delle Imprese di Spedizioni Internazionali – Fedespedi (C‑259/16),
+
+Tnt Global Express SpA (C‑259/16),
+
+Associazione Italiana dei Corrieri Aerei Internazionali (AICAI) (C‑260/16),
+
+DHL Express (Italy) Srl (C‑260/16),
+
+Federal Express Europe Inc. (C‑260/16),
+
+United Parcel Service Italia Ups Srl (C‑260/16)
+
+gegen
+
+Autorità per le Garanzie nelle Comunicazioni,
+
+Ministero dello Sviluppo economico,
+
+beteiligt:
+
+Poste Italiane SpA (C‑260/16),
+
+erlässt
+
+DER GERICHTSHOF (Fünfte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten J. L. da Cruz Vilaça (Berichterstatter), der Richter E. Levits und A. Borg Barthet, der Richterin M. Berger und des Richters F. Biltgen,
+
+Generalanwalt: M. Campos Sánchez-Bordona,
+
+Kanzler: R. Schiano, Verwaltungsrat,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 20. September 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der Confederazione Generale Italiana dei Trasporti e della Logistica (Confetra), der Federazione Nazionale delle Imprese di Spedizioni Internazionali – Fedespedi, der Associazione Nazionale Imprese Trasporti Automobilistici, der Associazione non Riconosciuta Alsea und der Associazione Fedit sowie der Fercam SpA, der Tnt Global Express SpA und der Carioni Spedizioni Internazionali Srl, vertreten durch S. Romano und A. Romano, avvocati,
+
+–
+
+der Associazione Italiana dei Corrieri Aerei (AICAI) sowie der DHL Express (Italy) Srl und der Federal Express Europe Inc., vertreten durch M. Giordano und L. Daniele, avvocati,
+
+–
+
+der United Parcel Service Italia Ups Srl, vertreten durch A. Boso Caretta, avvocato,
+
+–
+
+der Poste Italiane SpA, vertreten durch A. Sandulli, A. Fratini und G. Pandolfi, avvocati,
+
+–
+
+der italienischen Regierung, vertreten durch G. Palmieri als Bevollmächtigte im Beistand von S. Fiorentino, avvocato dello Stato,
+
+–
+
+der französischen Regierung, vertreten durch R. Coesme als Bevollmächtigten,
+
+–
+
+der Europäischen Kommission, vertreten durch P. Costa de Oliveira und L. Malferrari als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 28. November 2017
+
+folgendes
+
+Urteil
+
+1
+
+Die Vorabentscheidungsersuchen betreffen die Auslegung von Art. 2 Nrn. 1, 1a, 6 und 19, von Art. 7 Abs. 4 sowie von Art. 9 Abs. 1 und 2 der Richtlinie 97/67/EG des Europäischen Parlaments und des Rates vom 15. Dezember 1997 über gemeinsame Vorschriften für die Entwicklung des Binnenmarktes der Postdienste der Gemeinschaft und die Verbesserung der Dienstequalität (ABl. 1998, L 15, S. 14) in der durch die Richtlinie 2008/6/EG des Europäischen Parlaments und des Rates vom 20. Februar 2008 (ABl. 2008, L 52, S. 3) geänderten Fassung (im Folgenden: Richtlinie 97/67).
+
+2
+
+Diese Ersuchen ergehen im Rahmen von Rechtsstreitigkeiten zwischen auf der einen Seite der Confederazione Generale Italiana dei Trasporti e della Logistica (Confetra), der Federazione Nazionale delle Imprese di Spedizioni Internazionali – Fedespedi, der Associazione Nazionale Imprese Trasporti Automobilistici, der Associazione non Riconosciuta Alsea, der Associazione Fedit, der Fercam SpA, der Tnt Global Express SpA und der Carioni Spedizioni Internazionali Srl (C‑259/16) sowie der Associazione Italiana dei Corrieri Aerei (AICAI), der DHL Express (Italy) Srl, der Federal Express Europe Inc. und der United Parcel Service Italia Ups Srl (C‑260/16), bei denen es sich um Unternehmensverbände und Unternehmen handelt, die im Speditions-, Straßentransport- oder Kurierdienstsektor tätig sind, und auf der anderen Seite der Autorità per le Garanzie nelle Comunicazioni (Regulierungsbehörde für das Telekommunikationswesen, Italien) (im Folgenden: AGCOM) und dem Ministero dello Sviluppo Economico (Ministerium für Wirtschaftsentwicklung, Italien) über die Rechtmäßigkeit von Rechtsakten, die zur Umsetzung der Richtlinie 97/67 erlassen wurden.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+3
+
+In den Erwägungsgründen 10, 18, 22 und 23 der Richtlinie 97/67 heißt es:
+
+„(10)
+
+Gemäß dem Subsidiaritätsprinzip ist auf Gemeinschaftsebene ein Bestand an allgemeinen Grundsätzen festzulegen; es ist jedoch den Mitgliedstaaten zu überlassen, die Verfahren im Einzelnen festzulegen und das für ihre Situation geeignetste System zu wählen.
+
+…
+
+(18)
+
+Der wesentliche Unterschied zwischen Kurierpost und postalischen Universaldienstleistungen besteht in dem von den Kurierdiensten erbrachten und von den Kunden wahrgenommenen Mehrwert (in beliebiger Form), wobei sich dieser zusätzliche Wert am besten durch Ermittlung des zusätzlichen Preises bestimmen lässt, den die Kunden zu zahlen bereit sind. Die einzuhaltende Preisgrenze des reservierten Bereichs wird hiervon jedoch nicht berührt.
+
+…
+
+(22)
+
+Die Mitgliedstaaten sollten die Möglichkeit haben, die Durchführung der nicht für die Anbieter von Universaldienstleistungen reservierten Postdienste in ihrem Hoheitsgebiet durch angemessene Genehmigungsverfahren zu regeln. Diese Verfahren müssen transparent, nichtdiskriminierend und verhältnismäßig sein und auf objektiven Kriterien beruhen.
+
+(23)
+
+Die Mitgliedstaaten sollten die Möglichkeit haben, die Erteilung von Lizenzen an die Bedingung zu knüpfen, Universaldienstpflichten zu übernehmen oder Zahlungen in einen Ausgleichsfonds zu leisten, der unverhältnismäßige finanzielle Nachteile ausgleicht, die sich für die Anbieter von Universaldienstleistungen aus der Universaldienstpflicht ergeben. Die Mitgliedstaaten sollten ferner die Möglichkeit haben, in die Genehmigungen eine Verpflichtung aufzunehmen, wonach die genehmigten Tätigkeiten nicht die ausschließlichen oder besonderen Rechte der Anbieter von Universaldienstleistungen im reservierten Bereich beeinträchtigen dürfen. Zudem kann ein System der Kennzeichnung von Direktwerbung zu Kontrollzwecken eingeführt werden, wenn diese liberalisiert ist.“
+
+4
+
+Art. 2 der Richtlinie bestimmt:
+
+„Im Sinne dieser Richtlinie bezeichnet der Ausdruck
+
+1.
+
+‚Postdienste‘ die Dienste im Zusammenhang mit der Abholung, dem Sortieren, dem Transport und der Zustellung von Postsendungen;
+
+1a.
+
+‚Postdiensteanbieter‘ Unternehmen, die einen oder mehrere Postdienste erbringen;
+
+…
+
+6.
+
+‚Postsendung‘ eine adressierte Sendung in der endgültigen Form, in der sie von einem Postdiensteanbieter übernommen wird. Es handelt sich dabei neben Briefsendungen z. B. um Bücher, Kataloge, Zeitungen und Zeitschriften sowie um Postpakete, die Waren mit oder ohne Handelswert enthalten.
+
+…
+
+13.
+
+‚Universaldiensteanbieter‘ einen öffentlichen oder privaten Postdiensteanbieter, der in einem Mitgliedstaat die Leistungen des Universalpostdienstes ganz oder teilweise erbringt und dessen Identität der Kommission gemäß Artikel 4 mitgeteilt wurde;
+
+14.
+
+‚Genehmigung‘ jede Erlaubnis, in der für den Postsektor spezielle Rechte und Verpflichtungen festgelegt werden und in der Unternehmen gestattet wird, Postdienste zu erbringen und gegebenenfalls ihre Netze für die Bereitstellung derartiger Dienste zu errichten und/oder zu betreiben, und die in Form einer ‚Allgemeingenehmigung‘ oder ‚Einzelgenehmigung‘ entsprechend den nachstehenden Definitionen erteilt wird:
+
+–
+
+‚Allgemeingenehmigung‘ ungeachtet einer Verpflichtung zu Registrierungs- oder Meldeverfahren jede Genehmigung, die aufgrund einer ‚Gruppengenehmigung‘ oder aufgrund allgemeiner Rechtsvorschriften einen Postdiensteanbieter davon entbindet, vor der Ausübung der aus der Genehmigung herrührenden Rechte die ausdrückliche Zustimmung der nationalen Regulierungsbehörde einzuholen;
+
+–
+
+‚Einzelgenehmigung‘ eine durch eine nationale Regulierungsbehörde erteilte Genehmigung, die einem Postdiensteanbieter bestimmte Rechte verleiht oder die Tätigkeit des Unternehmens bestimmten Verpflichtungen, gegebenenfalls in Ergänzung der Allgemeingenehmigung, unterwirft, sofern der Postdiensteanbieter die entsprechenden Rechte ohne Zustimmung der nationalen Regulierungsbehörde nicht ausüben kann;
+
+…
+
+19.
+
+‚Grundanforderungen‘ die im allgemeinen Interesse liegenden Gründe nichtwirtschaftlicher Art, die einen Mitgliedstaat veranlassen können, für die Erbringung von Postdiensten Bedingungen vorzuschreiben. Diese Gründe sind die Vertraulichkeit der Sendungen, die Sicherheit des Netzes bei der Beförderung gefährlicher Stoffe, die Beachtung von Beschäftigungsbedingungen und Systemen der sozialen Sicherheit, die gemäß den gemeinschaftlichen und nationalen Rechtsvorschriften durch Rechts- oder Verwaltungsvorschriften und/oder Tarifverträge, die zwischen den nationalen Sozialpartnern ausgehandelt wurden, geschaffen wurden, sowie in begründeten Fällen der Datenschutz, der Umweltschutz und die Raumplanung. Der Datenschutz kann den Schutz personenbezogener Daten, die Vertraulichkeit übermittelter oder gespeicherter Informationen sowie den Schutz der Privatsphäre umfassen;
+
+…“
+
+5
+
+Art. 7 der Richtlinie sieht vor:
+
+„(1)   Die Mitgliedstaaten gewähren für die Einrichtung und die Erbringung von Postdiensten keine ausschließlichen oder besonderen Rechte mehr und erhalten diese auch nicht mehr aufrecht. Die Mitgliedstaaten können die Bereitstellung der Universaldienste unter Anwendung eines oder mehrerer der in den Absätzen 2, 3 und 4 genannten Verfahren oder anderer, mit dem Vertrag in Einklang stehender Verfahren finanzieren.
+
+…
+
+(3)   Stellt ein Mitgliedstaat fest, dass die Universaldienstverpflichtungen aufgrund dieser Richtlinie mit Nettokosten verbunden sind, die unter Berücksichtigung von Anhang I berechnet werden, und eine unverhältnismäßige finanzielle Belastung für den/die Universaldiensteanbieter darstellen, so kann er Folgendes einführen:
+
+a)
+
+einen Ausgleichsmechanismus, um das/die betroffene(n) Unternehmen mit öffentlichen Mitteln zu entschädigen; oder
+
+b)
+
+einen Mechanismus für die Aufteilung der Nettokosten der Universaldienstverpflichtungen auf die Anbieter der Dienstleistungen und/oder Nutzer.
+
+(4)   Werden die Nettokosten gemäß Absatz 3 Buchstabe b aufgeteilt, so können die Mitgliedstaaten einen Ausgleichsfonds einrichten, in den Beiträge von Diensteanbietern und/oder Nutzern fließen und der von einer vom/von den Begünstigten unabhängigen Stelle verwaltet wird. Die Mitgliedstaaten können die Erteilung von Genehmigungen an Diensteanbieter gemäß Artikel 9 Absatz 2 mit der Verpflichtung verknüpfen, einen finanziellen Beitrag zu dem Fonds zu leisten oder Universaldienstverpflichtungen zu erfüllen. Die in Artikel 3 genannten Universaldienstverpflichtungen des/der Universaldiensteanbieter(s) können auf diese Weise finanziert werden.
+
+(5)   Die Mitgliedstaaten stellen sicher, dass die Grundsätze der Transparenz, der Nichtdiskriminierung und der Verhältnismäßigkeit bei der Einrichtung des Ausgleichsfonds und der Festlegung der Höhe der finanziellen Beiträge gemäß den Absätzen 3 und 4 eingehalten werden. Entscheidungen gemäß den Absätzen 3 und 4 müssen auf objektiven und nachprüfbaren Kriterien beruhen und der Öffentlichkeit zugänglich gemacht werden.“
+
+6
+
+Art. 9 der Richtlinie bestimmt:
+
+„(1)   Für Dienste, die nicht zum Universaldienst gehören, können die Mitgliedstaaten Allgemeingenehmigungen einführen, soweit diese erforderlich sind, um die Erfüllung der Grundanforderungen zu gewährleisten.
+
+(2)   Für Dienste, die zum Universaldienst gehören, können die Mitgliedstaaten Genehmigungsverfahren einschließlich Einzelgenehmigungen einführen, soweit diese erforderlich sind, um die Erfüllung der Grundanforderungen zu gewährleisten und die Bereitstellung des Universaldienstes zu gewährleisten.
+
+Die Bewilligung der Genehmigungen kann
+
+–
+
+mit Universaldienstverpflichtungen verknüpft werden;
+
+–
+
+erforderlichenfalls und in begründeten Fällen Anforderungen in Bezug auf Qualität, Verfügbarkeit und Leistungsfähigkeit der betreffenden Dienste vorsehen;
+
+–
+
+gegebenenfalls an die Verpflichtung gebunden sein, einen finanziellen Beitrag zu den in Artikel 7 aufgeführten Ausgleichsmechanismen zu leisten, wenn die Erbringung des Universaldienstes dem/den gemäß Artikel 4 benannten Universaldiensteanbieter(n) Nettokosten verursacht und für ihn/sie eine unverhältnismäßige Belastung darstellt;
+
+–
+
+gegebenenfalls an die Verpflichtung gebunden sein, einen finanziellen Beitrag zu den betrieblichen Aufwendungen der in Artikel 22 genannten nationalen Regulierungsbehörde zu leisten;
+
+–
+
+gegebenenfalls von den in den nationalen Rechtsvorschriften festgelegten Arbeitsbedingungen abhängig gemacht werden oder eine Verpflichtung zu deren Einhaltung auferlegen.
+
+Die im ersten Gedankenstrich und in Artikel 3 genannten Verpflichtungen und Anforderungen können nur benannten Universaldiensteanbietern auferlegt werden.
+
+…
+
+(3)   Die in den Absätzen 1 und 2 genannten Verfahren, Verpflichtungen und Auflagen müssen transparent, zugänglich, nichtdiskriminierend, verhältnismäßig, präzise und eindeutig sein, vorab der Öffentlichkeit zugänglich gemacht werden und auf objektiven Kriterien beruhen. Die Mitgliedstaaten stellen sicher, dass die Gründe für die völlige oder teilweise Verweigerung oder Zurücknahme einer Genehmigung dem Antragsteller mitgeteilt werden; sie legen ein Rechtsbehelfsverfahren fest.“
+
+7
+
+In den Erwägungsgründen 17, 27 und 28 der Richtlinie 2008/6 heißt es:
+
+„(17)
+
+Transportleistungen allein sollten nicht als Postdienste gelten. …
+
+…
+
+(27)
+
+Postdiensteanbieter können gehalten sein, zur Finanzierung des Universaldienstes beizutragen, wenn ein Ausgleichsfonds vorgesehen ist. Bei der Entscheidung darüber, welche Unternehmen für Beiträge zu einem Ausgleichsfonds herangezogen werden, sollten die Mitgliedstaaten prüfen, ob die von diesen Unternehmen angebotenen Dienstleistungen vom Standpunkt der Nutzer als Dienste, die unter den Universaldienst fallen, gelten können, da sie einen ausreichenden Grad an Austauschbarkeit mit dem Universaldienst aufweisen, wobei die Merkmale dieser Dienstleistungen, einschließlich Mehrwertaspekte, sowie ihre vorgesehene Nutzung und die Preisgestaltung zu berücksichtigen sind. Diese Dienste müssen nicht notwendigerweise alle Merkmale des Universaldienstes aufweisen, z. B. tägliche Zustellung oder vollständige Abdeckung des Hoheitsgebiets.
+
+(28)
+
+Um sich bei der Bestimmung des Beitrags zu den Kosten der Universaldiensterbringung in einem Mitgliedstaat, der von diesen Unternehmen verlangt wird, an den Grundsatz der Verhältnismäßigkeit zu halten, sollten die Mitgliedstaaten transparente und nicht diskriminierende Kriterien wie z. B. den Anteil dieser Unternehmen an den Aktivitäten, die in den Bereich des Universaldienstes fallen, verwenden. Die Mitgliedstaaten können von Anbietern, die für Beiträge zu einem Ausgleichsfonds herangezogen werden, verlangen, dass sie eine geeignete Form der getrennten Rechnungslegung einführen, damit das Funktionieren des Fonds sichergestellt ist.“
+
+Italienisches Recht
+
+8
+
+Die Umsetzung der Richtlinie 97/67 in italienisches Recht erfolgte mit dem Decreto legislativo n. 261 – Attuazione della direttiva 97/67/CE concernente regole comuni per lo sviluppo del mercato interno dei servizi postali comunitari e per il miglioramento della qualita’ del servizio (gesetzesvertretendes Dekret Nr. 261 über die Durchführung der Richtlinie 97/67/EG über gemeinsame Vorschriften für die Entwicklung des Binnenmarktes der Postdienste der Gemeinschaft und die Verbesserung der Dienstequalität) vom 22. Juli 1999 (GURI Nr. 182 vom 5. August 1999) in der durch das Decreto legislativo n. 58 – Attuazione della direttiva 2008/6/CE che modifica la direttiva 97/67/CE, per quanto riguarda il pieno completamento del mercato interno dei servizi postali della Comunita (gesetzesvertretendes Dekret Nr. 58 über die Durchführung der Richtlinie 2008/6/EG zur Änderung der Richtlinie 97/67/EG im Hinblick auf die Vollendung des Binnenmarktes der Postdienste der Gemeinschaft) vom 31. März 2011 (GURI Nr. 98 vom 24. April 2011) geänderten Fassung (im Folgenden: gesetzesvertretendes Dekret Nr. 261/99) umgesetzt. Die im gesetzesvertretenden Dekret Nr. 261/99 verwendeten Definitionen der Begriffe „Postdienste“, „Postdiensteanbieter“ und „Postsendung“ sind im Wesentlichen dieselben wie in der Richtlinie 97/67.
+
+9
+
+Art. 6 des gesetzesvertretenden Dekrets Nr. 261/99 lautet:
+
+„(1)   Ein an die Allgemeinheit gerichtetes Angebot von Diensten, die nicht zum Universaldienst gehören, einschließlich der Bereitstellung privater Postfächer für die Zustellung von Briefsendungen …, bedarf einer Allgemeingenehmigung.
+
+(1bis)   Die Erteilung der Allgemeingenehmigung kann, auch für den Universaldiensteanbieter, unter Berücksichtigung der Marktsituation und der Organisation der Postdienste an spezifische Universaldienstverpflichtungen in Bezug auf u. a. Qualität, Verfügbarkeit und Leistungsfähigkeit der betreffenden Dienste oder an Verpflichtungen zur Leistung eines finanziellen Beitrags zu den Ausgleichsmechanismen nach Art. 10 des vorliegenden Dekrets gebunden sein. Diese Verpflichtungen werden durch eine Maßnahme der Regulierungsbehörde festgelegt.
+
+(2)   Die Regulierungsbehörde legt mit einer binnen 180 Tagen nach Inkrafttreten des gesetzesvertretenden Dekrets zur Umsetzung der Richtlinie 2008/6 erlassenen Maßnahme jene Fälle fest, in denen die Tätigkeit beginnen kann, sobald dem Ministerium für Wirtschaftsentwicklung … eine Bescheinigung über den Tätigkeitsbeginn übersandt wurde …
+
+(3)   Die Maßnahme im Sinne von Abs. 2 legt die Anforderungen und Verpflichtungen fest, denen Einrichtungen unterworfen werden, die einer Allgemeingenehmigung unterliegende Tätigkeiten ausüben, einschließlich der Verpflichtungen im Bereich der Arbeitsbedingungen gemäß Art. 18bis, der Kontrollmodalitäten in den Betriebsstätten sowie der Verfahren zur Mahnung, Einstellung und Untersagung der Tätigkeit im Falle des Verstoßes gegen die Verpflichtungen.“
+
+10
+
+Art. 10 Abs. 1 bis 3 des gesetzesvertretenden Dekrets Nr. 261/99 bestimmt:
+
+„(1)   Es wird ein Fonds zum Ausgleich der Universaldienstverpflichtungen eingerichtet. Er wird vom Ministerium für das Telekommunikationswesen verwaltet und soll die Erbringung des Universaldienstes sicherstellen; er wird gespeist, wenn der Universaldiensteanbieter aus der Erbringung dieses Dienstes und der ausschließlichen Dienste im Sinne des Art. 4 keine ausreichenden Einnahmen erzielt, um die Erfüllung der ihm obliegenden Verpflichtungen zu gewährleisten.
+
+(2)   Inhaber von Einzelgenehmigungen und von Allgemeingenehmigungen für Dienste, die die in den Universaldienst eingeschlossenen Dienste ersetzen, sind zur Leistung eines Beitrags zum Fonds nach Abs. 1 bis zur Höchstgrenze von 10 % der Bruttoeinnahmen aus der genehmigten Tätigkeit verpflichtet.
+
+(3)   Der Beitrag wird nach den Grundsätzen der Transparenz, der Nichtdiskriminierung und der Verhältnismäßigkeit durch die Regulierungsbehörde auf der Grundlage der Kosten für eine effiziente Verwaltung des Universaldienstes festgelegt.“
+
+11
+
+Nach Art. 18bis des gesetzesvertretenden Dekrets Nr. 261/99 haben die Postdiensteanbieter, auf die Art. 3 Abs. 11, 5 und 6 des Dekrets Bezug nimmt, die in den nationalen Rechtsvorschriften und in den geltenden Tarifverträgen vorgesehenen Verpflichtungen im Bereich der Arbeitsbedingungen einzuhalten.
+
+12
+
+Mit dem Beschluss Nr. 129/15/CONS vom 11. März 2015 (im Folgenden: Beschluss Nr. 129/15) genehmigte die AGCOM das Regolamento in materia di titoli abilitativi per l’offerta al pubblico di serivizi postali (Verordnung über Genehmigungen von an die Allgemeinheit gerichteten Angeboten von Postdiensten, im Folgenden: Genehmigungsverordnung), das sich in seinem Anhang A befindet.
+
+13
+
+Nach Art. 8 Abs. 4 dieser Verordnung ist eine Allgemeingenehmigung für die Ausübung der bloßen Transporttätigkeit nicht erforderlich.
+
+14
+
+Gemäß Art. 10 Abs. 4 Buchst. c dieser Verordnung muss derjenige, der eine Allgemeingenehmigung beantragt, zum Zeitpunkt der Antragstellung die Verpflichtungen im Bereich der Sozialversicherung seiner Arbeitnehmer einhalten. Nach Art. 10 Abs. 8 Buchst. f dieser Verordnung muss derjenige, der eine Allgemeingenehmigung beantragt, zum Zeitpunkt der Antragstellung die Maßnahmen beschreiben, die getroffen wurden, um die Erfüllung der Verpflichtungen hinsichtlich der Vertraulichkeit der Sendungen zu gewährleisten.
+
+15
+
+Gemäß Art. 11 Abs. 1 Buchst. b und f der Genehmigungsverordnung ist der Inhaber einer Allgemeingenehmigung verpflichtet, die in den nationalen Rechtsvorschriften und in den Tarifverträgen des Postsektors vorgesehenen Bestimmungen im Bereich der Arbeitsbedingungen einzuhalten und „zur Finanzierung der Kosten für die Erbringung des Universaldienstes beizutragen, wenn die im 27. Erwägungsgrund der Richtlinie [2008/6] und in Art. 10 Abs. 2 des [gesetzesvertretenden Dekrets Nr. 261/99] aufgestellten Bedingungen erfüllt sind“.
+
+16
+
+Gemäß Art. 15 Abs. 2 dieser Verordnung ist der „Inhaber einer Allgemeingenehmigung zur Leistung von Beiträgen zum Ausgleichsfonds für den Universaldienst verpflichtet, wenn die im 27. Erwägungsgrund der Richtlinie [2008/6] und in Art. 10 Abs. 2 des [Dekrets Nr.] 261/99 aufgestellten Bedingungen erfüllt sind“.
+
+Ausgangsverfahren und Vorlagefragen
+
+17
+
+Bei den Klägerinnen des Ausgangsverfahrens handelt es sich um Unternehmensverbände und Unternehmen, die im Straßentransport-, Speditions- oder Kurierdienstsektor (Rechtssache C‑259/16) oder bloß im Kurierdienstsektor (Rechtssache C‑260/16) tätig sind.
+
+18
+
+Diese Unternehmen und Unternehmensverbände sind Inhaber einer Allgemeingenehmigung für die Erbringung des Postdienstes im Sinne des Art. 6 des gesetzesvertretenden Dekrets Nr. 261/99.
+
+19
+
+Die Klägerinnen des Ausgangsverfahrens befassten das vorlegende Gericht mit einer Klage auf Nichtigerklärung des Beschlusses Nr. 129/15, der Genehmigungsverordnung sowie des Decreto del Ministro dello Sviluppo Economico – Disciplinare delle procedure per il rilascio dei titoli abilitativi per l’offerta al pubblico dei servizi postali (Dekret des Ministers für Wirtschaftsentwicklung – Regelung über die Verfahren zur Erteilung von Genehmigungen von an die Allgemeinheit gerichteten Angeboten von Postdiensten) vom 29. Juli 2015 (im Folgenden: Dekret vom 29. Juli 2015). Sie machten geltend, dass diese Rechtsakte den Begriff „Postdienst“ im Sinne des Art. 2 Nr. 1 der Richtlinie 97/67 zu weit auslegten, indem sie die von ihnen ausgeübten Tätigkeiten zu diesen Diensten zählten. Überdies betonten sie, dass diese Rechtsakte ihnen Verpflichtungen auferlegten, die in keinem Verhältnis zu den in dieser Richtlinie festgelegten Anforderungen stünden.
+
+20
+
+Was die Auslegung des Begriffs „Postdienst“ betrifft, ist das vorlegende Gericht der Auffassung, dass dieser nicht die Straßentransport-, Speditions- und Kurierdiensttätigkeiten umfassen sollte. Nur Pakete, die von Postdiensteanbietern nach den diesem Postdienst eigenen Modalitäten weitergeleitet würden, könnten als „Postsendungen“ im Sinne des Art. 2 Nr. 6 der Richtlinie 97/67 qualifiziert werden. Somit zweifelt das vorlegende Gericht an der Vereinbarkeit der im Ausgangsverfahren streitigen Rechtsakte mit dieser Richtlinie, da diese Rechtsakte zum einen vom Anwendungsbereich dieser Richtlinie nur jene Tätigkeiten ausschlössen, die bloß den physischen Transport von Waren zum Gegenstand hätten, und zum anderen auch „Postdienste mit Mehrwert“, wie etwa die Kurierdienste, zu diesem Dienst zählten.
+
+21
+
+Zum geltend gemachten Verstoß gegen den Grundsatz der Verhältnismäßigkeit merkt das vorlegende Gericht in erster Linie an, dass Art. 6 Abs. 1 des gesetzesvertretenden Dekrets Nr. 261/99 von den Anbietern von Postdiensten, die nicht zum Universaldienst gehörten, unterschiedslos und automatisch verlange, eine Allgemeingenehmigung zu erlangen. Nach Art. 9 Abs. 1 der Richtlinie 97/67 sind die Mitgliedstaaten aber nur berechtigt, Allgemeingenehmigungen einzuführen, „soweit diese erforderlich sind, um die Erfüllung der Grundanforderungen zu gewährleisten“.
+
+22
+
+In zweiter Linie stellten die im Ausgangsverfahren in Rede stehenden Rechtsakte, insbesondere die Art. 10 und 11 der Genehmigungsverordnung, Voraussetzungen für die Erlangung einer Allgemeingenehmigung auf, die in der Richtlinie 97/67 nicht vorgesehen seien. Jedenfalls stünden diese Voraussetzungen in keinem Verhältnis zu den von den Klägerinnen des Ausgangsverfahrens tatsächlich ausgeübten Tätigkeiten. Insbesondere hebt das vorlegende Gericht hervor, dass keine Regelung erforderlich sei, um das reibungslose Funktionieren der Märkte, in denen die Klägerinnen des Ausgangsverfahrens tätig seien, sicherzustellen. Diese Märkte seien nämlich im Unterschied zum Markt für Dienste, die zum Universaldienst gehörten, in der Lage, sich wirksam selbst zu regulieren.
+
+23
+
+In dritter Linie äußert das vorlegende Gericht Zweifel in Bezug auf die Rechtmäßigkeit der den Inhabern einer Allgemeingenehmigung nach Art. 6 Abs. 1bis des gesetzesvertretenden Dekrets Nr. 261/99 auferlegten Verpflichtung, Beiträge zu den Kosten des Universaldienstes zu leisten. Während sich nämlich aus Art. 7 Abs. 4 und Art. 9 Abs. 2 der Richtlinie 97/67 ergebe, dass nur die Anbieter von Diensten, die zum Universaldienst gehörten, einer solchen Verpflichtung unterworfen werden könnten, verlangten die Art. 6 und 10 des gesetzesvertretenden Dekrets Nr. 261/99 diesen Beitrag auch von den Inhabern der Genehmigung im Sinne von Art. 9 Abs. 1 dieser Richtlinie.
+
+24
+
+Jedenfalls leite sich aus Art. 9 Abs. 2 der Richtlinie 97/67 ab, dass eine Verpflichtung zu Beiträgen zu den Kosten des Universaldienstes nicht auferlegt werden könne, ohne im Vorfeld zu prüfen, ob die Einführung einer solchen Verpflichtung angemessen sei. Die im Ausgangsverfahren in Rede stehenden Rechtsakte sähen jedoch insoweit keine vorherige Prüfung vor, weshalb sie auch von diesem Standpunkt aus gegen den Grundsatz der Verhältnismäßigkeit verstießen.
+
+25
+
+Unter diesen Umständen hat das Tribunale amministrativo regionale per il Lazio (Verwaltungsgericht für die Region Latium, Italien) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen, die in den Rechtssachen C‑259/16 und C‑260/16 identisch formuliert werden:
+
+1.
+
+Steht das Unionsrecht, insbesondere Art. 2 Nrn. 1, 1a und 6 der Richtlinie 97/67 der Anwendung einer nationalen Regelung entgegen, im Einzelnen der Anwendung von Art. 1 Abs. 2 Buchst. a und f des gesetzesvertretenden Dekrets Nr. 261/99 und Art. 1 Abs. 1 Buchst. g und r in Verbindung mit Buchst. i der Genehmigungsverordnung und der Regelung über die Verfahren zur Erteilung von Genehmigungen von an die Allgemeinheit gerichteten Angeboten von Postdiensten im Dekret vom 29. Juli 2015, soweit sie darauf abzielen, auch die Dienste des Straßentransportunternehmers, des Spediteurs und des Kuriers in den Postdienst einzubeziehen?
+
+2.
+
+Stehen das Unionsrecht, insbesondere Art. 9 Abs. 1 und Art. 2 Nr. 19 der Richtlinie 97/67, sowie die Grundsätze der Verhältnismäßigkeit und der Angemessenheit der Anwendung einer nationalen Regelung entgegen, im Einzelnen der Anwendung von Art. 6 Abs. 1 des gesetzesvertretenden Dekrets Nr. 261/99 sowie Art. 8 der Genehmigungsverordnung und der Regelung über die Verfahren zur Erteilung von Genehmigungen von an die Allgemeinheit gerichteten Angeboten von Postdiensten im Dekret vom 29. Juli 2015, soweit sie die Erbringer von Straßentransport-, Speditions- und Kurierdiensten verpflichten, eine Allgemeingenehmigung zusätzlich zu der Genehmigung einzuholen, die erforderlich ist, um die Grundanforderungen auf dem Gebiet der Erbringung von Postdiensten zu gewährleisten?
+
+3.
+
+Steht das Unionsrecht, insbesondere Art. 7 Abs. 4 und Art. 9 Abs. 2 der Richtlinie 97/67 der Anwendung einer nationalen Regelung entgegen, im Einzelnen der Anwendung von Art. 6 Abs. 1bis und Art. 10 Abs. 2 des gesetzesvertretenden Dekrets Nr. 261/99 sowie von Art. 11 Abs. 1 Buchst. f und Art. 15 Abs. 2 der Genehmigungsverordnung und Art. 9 der Regelung über die Verfahren zur Erteilung von Genehmigungen von an die Allgemeinheit gerichteten Angeboten von Postdiensten im Dekret vom 29. Juli 2015, soweit sie die Erbringer von Straßentransport-, Speditions- und Kurierdiensten verpflichten, einen Beitrag zum Ausgleichsfonds für den Universaldienst zu leisten?
+
+4.
+
+Steht das Unionsrecht, insbesondere Art. 9 Abs. 2 der Richtlinie 97/67 der Anwendung einer nationalen Regelung entgegen, im Einzelnen der Anwendung von Art. 6 und 10 des gesetzesvertretenden Dekrets Nr. 261/99 sowie von Art. 11 Abs. 1 Buchst. f und Art. 15 Abs. 2 der Genehmigungsverordnung und Art. 9 der Regelung über die Verfahren zur Erteilung von Genehmigungen von an die Allgemeinheit gerichteten Angeboten von Postdiensten im Dekret vom 29. Juli 2015, soweit sie keine Prüfung der Fälle enthalten, in denen der Beitrag zum Ausgleichsfonds für die Kosten des Universaldienstes als angemessen bezeichnet werden kann, und keine Anwendungsmodalitäten vorsehen, die danach differenziert sind, wie die subjektive Lage der Beitragsleistenden und der Märkte ist?
+
+26
+
+Mit Beschluss des Präsidenten des Gerichtshofs vom 21. Juni 2016 sind die Rechtssachen C‑259/16 und C‑260/16 zu gemeinsamem schriftlichen und mündlichen Verfahren und zu gemeinsamer Entscheidung verbunden worden.
+
+Zu den Vorlagefragen
+
+Zur ersten Frage
+
+27
+
+Mit seiner ersten Frage möchte das vorlegende Gericht wissen, ob Art. 2 Nrn. 1, 1a und 6 der Richtlinie 97/67 dahin auszulegen ist, dass er einer nationalen Regelung wie der im Ausgangsverfahren fraglichen entgegensteht, wonach die Straßentransport-, Speditions- oder Kurierdienstunternehmen, die Dienste der Abholung, des Sortierens, des Transports und der Zustellung von Postsendungen erbringen, Postdiensteanbieter im Sinne von Art. 2 Nr. 1a dieser Richtlinie sind, es sein denn, ihre Tätigkeit beschränkt sich auf den Transport der Postsendungen.
+
+28
+
+Im vorliegenden Fall hegt, wie der Generalanwalt in Nr. 38 seiner Schlussanträge ausgeführt hat, das vorlegende Gericht Zweifel an einer möglichen Einordnung von zwei Arten von Unternehmen, nämlich einerseits von denjenigen, die Straßentransport- und Speditionsdienste anbieten, und andererseits von Kurierdienstunternehmen, als Postdiensteanbieter im Sinne von Art. 2 Nr. 1a der Richtlinie 97/67.
+
+29
+
+Hinsichtlich der Straßentransport- und Speditionsdienste machen die Klägerinnen des Ausgangsverfahrens geltend, dass ein Unternehmen, das als Haupttätigkeit einen Transportdienst für Postsendungen erbringe und nur als Hilfstätigkeit einen der anderen Dienste des Art. 2 Nr. 1 der Richtlinie 97/67 anbiete, nicht als „Postdiensteanbieter“ qualifiziert werden könne.
+
+30
+
+Insoweit ist erstens darauf hinzuweisen, dass nach Art. 2 Nr. 1 der Richtlinie 97/67 der Begriff „Postdienste“ die Dienste im Zusammenhang mit der Abholung, dem Sortieren, dem Transport und der Zustellung von Postsendungen umfasst.
+
+31
+
+Zweitens heißt es im 17. Erwägungsgrund der Richtlinie 2008/6, dass Transportleistungen allein nicht als Postdienste gelten sollten. Überdies fügte diese Richtlinie in Art. 2 der Richtlinie 97/67 eine Nr. 1a ein, wonach ein „Postdiensteanbieter“ ein Unternehmen ist, das einen oder mehrere „Postdienste“ erbringt.
+
+32
+
+Die Richtlinie 2008/6 nahm jedoch am ursprünglichen Wortlaut der Richtlinie 97/67 keine Änderung in Bezug auf eine Unterscheidung vor, die zwischen einer Erbringung der Postdienste im Sinne des Art. 2 Nr. 1 der Richtlinie 97/67 als Haupt- und als Hilfstätigkeit zu treffen wäre.
+
+33
+
+Drittens kann eine Tätigkeit nur dann als zu einem Postdienst gehörig gelten, wenn sie eine „Postsendung“ im Sinne des Art. 2 Nr. 6 der Richtlinie 97/67 betrifft. Insoweit definiert diese Bestimmung die Postsendung als eine adressierte Sendung in der endgültigen Form, in der sie von einem Postdiensteanbieter übernommen wird, und erläutert, dass es sich bei einer Postsendung u. a. um Briefsendungen, Bücher, Kataloge, Zeitungen und Zeitschriften sowie um Postpakete, die Waren mit oder ohne Handelswert enthalten, handeln kann.
+
+34
+
+Unter diesen Voraussetzungen ist ein Unternehmen als „Postdiensteanbieter“ im Sinne von Art. 2 Nr. 1a der Richtlinie 97/67 zu qualifizieren, wenn es mindestens einen der in Art. 2 Nr. 1 dieser Richtlinie aufgezählten Dienste erbringt und der so erbrachte Dienst oder die so erbrachten Dienste eine Postsendung betreffen, wobei seine Tätigkeit jedoch nicht auf die bloße Transportleistung beschränkt sein darf. Folglich können Straßentransport- oder Speditionsunternehmen, die als Haupttätigkeit einen Transportdienst für Postsendungen und als Hilfstätigkeit Dienste der Abholung, des Sortierens oder der Zustellung dieser Sendungen anbieten, nicht vom Anwendungsbereich dieser Richtlinie ausgeschlossen werden.
+
+35
+
+Im Übrigen würden sich, wie der Generalanwalt in Nr. 43 seiner Schlussanträge ausgeführt hat, die Auslegungsschwierigkeiten dieser Richtlinie vervielfachen, wenn man zuließe, dass Straßentransport- oder Speditionsunternehmen bloß mit der Begründung, dass sie die Tätigkeiten der Abholung, des Sortierens oder der Zustellung von Postsendungen nur als Hilfstätigkeiten erbrächten, vom Anwendungsbereich der Richtlinie 97/67 ausgenommen würden. Es müsste nämlich von Fall zu Fall geprüft werden, ob die als Hilfstätigkeiten erbrachten Dienste im Verhältnis zu der als Haupttätigkeit erbrachten Transportleistung einen größeren oder kleineren Anteil ausmachen, damit festgestellt werden könnte, welche rechtliche Regelung zur Anwendung kommt.
+
+36
+
+Hinsichtlich der Kurierdienste machen die Klägerinnen des Ausgangsverfahrens geltend, dass diese Dienste wegen des durch sie erbrachten Mehrwerts nicht in den Anwendungsbereich der Richtlinie 97/67 fallen sollten.
+
+37
+
+Insoweit ist erstens darauf hinzuweisen, dass die Richtlinie 97/67 nicht definiert, was unter „Kurierdienst“ zu verstehen ist, und es im 18. Erwägungsgrund bloß heißt, dass „[d]er wesentliche Unterschied zwischen Kurierpost und postalischen Universaldienstleistungen … in dem von den Kurierdiensten erbrachten und von den Kunden wahrgenommenen Mehrwert (in beliebiger Form) [besteht]“.
+
+38
+
+Zweitens folgt aus der Rechtsprechung des Gerichtshofs, dass sich Kurierdienste vom postalischen Universaldienst durch einen Mehrwert für die Kunden unterscheiden, für den die Kunden bereitwillig einen höheren Betrag zahlen. Bei derartigen Dienstleistungen handelt es sich um spezifische, von den Dienstleistungen von allgemeinem Interesse trennbare Dienstleistungen, die besonderen Bedürfnissen von Wirtschaftsteilnehmern entsprechen und bestimmte zusätzliche Leistungen verlangen, die der herkömmliche Postdienst nicht anbietet (vgl. in diesem Sinne Urteil vom 15. Juni 2017, Ilves Jakelu, C‑368/15, EU:C:2017:462, Rn. 24 und die dort angeführte Rechtsprechung).
+
+39
+
+Drittens ist der Gerichtshof in den Urteilen vom 13. Oktober 2011, DHL International (C‑148/10, EU:C:2011:654, Rn. 30 und 52), vom 16. November 2016, DHL Express (Austria) (C‑2/15, EU:C:2016:880, Rn. 31), sowie vom 15. Juni 2017, Ilves Jakelu (C‑368/15, EU:C:2017:462, Rn. 29), davon ausgegangen, dass Unternehmen, die Kurierdienste erbringen, in den Anwendungsbereich der Richtlinie 97/67 fallen, und hat bestimmte Vorschriften dieser Richtlinie auf sie angewandt. Wie der Generalanwalt in Nr. 46 seiner Schlussanträge ausgeführt hat, wären diese Urteile unverständlich, wenn der Gerichtshof nicht implizit damit einverstanden gewesen wäre, dass der Kurierdienst unter den Begriff der „Postdienste“ im Sinne von Art. 2 Nr. 1 dieser Richtlinie fällt.
+
+40
+
+Unter diesen Voraussetzungen ist eine Unterscheidung zwischen dem Universaldienst und dem Kurierdienst je nachdem, ob ein durch den Dienst erbrachter Mehrwert vorliegt, zwar möglich. Im Hinblick auf die Art der in Art. 2 Nr. 1 der Richtlinie 97/67 aufgezählten Dienste ist ein solches Unterscheidungskriterium aber völlig belanglos. So ist der Umstand, dass solche Dienste gegebenenfalls einen Mehrwert erbringen, nicht geeignet, ihnen ihre Eigenschaft als „Postdienste“ im Sinne dieser Bestimmung zu nehmen.
+
+41
+
+Nach alledem ist auf die erste Vorlagefrage zu antworten, dass Art. 2 Nrn. 1, 1a und 6 der Richtlinie 97/67 dahin auszulegen ist, dass er einer nationalen Regelung wie der im Ausgangsverfahren fraglichen nicht entgegensteht, wonach die Straßentransport-, Speditions- oder Kurierdienstunternehmen, die Dienste der Abholung, des Sortierens, des Transports und der Zustellung von Postsendungen erbringen, Postdiensteanbieter im Sinne von Art. 2 Nr. 1a dieser Richtlinie sind, es sein denn, ihre Tätigkeit beschränkt sich auf den Transport der Postsendungen.
+
+Zur zweiten Frage
+
+42
+
+Mit seiner zweiten Frage möchte das vorlegende Gericht wissen, ob Art. 2 Nr. 19 und Art. 9 Abs. 1 der Richtlinie 97/67 dahin auszulegen sind, dass sie einer nationalen Regelung entgegenstehen, die von jedem Straßentransport-, Speditions- oder Kurierdienstunternehmen verlangt, über eine Allgemeingenehmigung für die Erbringung von Postdiensten zu verfügen, ohne dass im Vorfeld geprüft wird, ob eine solche Genehmigung erforderlich ist, um die Erfüllung einer der Grundanforderungen zu gewährleisten.
+
+43
+
+Insoweit ist daran zu erinnern, dass die Mitgliedstaaten nach Art. 9 Abs. 1 der Richtlinie 97/67 für Dienste, die nicht zum Universaldienst gehören, Allgemeingenehmigungen einführen können, soweit diese erforderlich sind, um die Erfüllung der Grundanforderungen zu gewährleisten.
+
+44
+
+Art. 2 Nr. 19 dieser Richtlinie definiert diese Anforderungen, die in dieser Bestimmung abschließend aufgezählt sind, als im allgemeinen Interesse liegende Gründe nicht wirtschaftlicher Art, die einen Mitgliedstaat veranlassen können, für die Erbringung von Postdiensten Bedingungen vorzuschreiben.
+
+45
+
+Aus den vorstehenden Erwägungen ergibt sich, wie der Generalanwalt in Nr. 58 seiner Schlussanträge ausgeführt hat, dass der Mitgliedstaat, der sich dazu entschließt, den Zugang zum Markt der Postdienste an eine Allgemeingenehmigung zu knüpfen, dies rechtfertigen muss, indem er sich auf eine oder mehrere dieser Anforderungen bezieht.
+
+46
+
+Im vorliegenden Fall weist das vorlegende Gericht darauf hin, dass Art. 6 des gesetzesvertretenden Dekrets Nr. 261/99 unterschiedslos und automatisch von den Unternehmen, die nicht zum Universaldienst gehörende Postdienste anböten, verlange, über eine Allgemeingenehmigung zu verfügen, ohne im Vorfeld zu prüfen, ob eine solche Genehmigung erforderlich sei, um die Erfüllung zumindest einer der Grundanforderungen zu gewährleisten. Es fügt hinzu, dass die Verpflichtungen, die diesen Unternehmen für die Erlangung einer solchen Allgemeingenehmigung auferlegt würden, unverhältnismäßig seien.
+
+47
+
+Unter diesen Umständen ist für die Beantwortung der zweiten Vorlagefrage zu prüfen, ob eine Regelung wie die im Ausgangsverfahren in Rede stehende erstens durch eine der in Art. 2 Nr. 19 der Richtlinie 97/67 aufgezählten Grundanforderungen gerechtfertigt werden kann und zweitens in dem Sinne verhältnismäßig ist, dass sie geeignet ist, die Verwirklichung des mit ihr verfolgten Ziels zu gewährleisten, und, wenn ja, ob dieses Ziel nicht durch weniger weitreichende Verbote erreicht werden könnte.
+
+48
+
+Was insoweit die Frage betrifft, ob eine Regelung wie die im Ausgangsverfahren fragliche durch eine der in Art. 2 Nr. 19 der Richtlinie 97/67 aufgezählten Grundanforderungen gerechtfertigt werden kann, ist der dem Gerichtshof vorliegenden Akte zu entnehmen, dass diese Regelung die Einführung eines Allgemeingenehmigungssystems für Unternehmen, die als „Postdiensteanbieter“ eingestuft werden können, mit zwei dieser Grundanforderungen, nämlich der Beachtung von Beschäftigungsbedingungen und Systemen der sozialen Sicherheit sowie der Vertraulichkeit von Sendungen, rechtfertigt.
+
+49
+
+Hinsichtlich der Verhältnismäßigkeit der im Ausgangsverfahren fraglichen Regelung ist darauf hinzuweisen, dass es Sache des vorlegenden Gerichts ist, im Rahmen einer Gesamtwürdigung aller relevanten rechtlichen und tatsächlichen Umstände zu prüfen, ob eine solche Regelung geeignet ist, die Erreichung der verfolgten Ziele zu gewährleisten, und nicht über das hierfür Erforderliche hinausgeht. Der Gerichtshof hat ihm jedoch hierfür alle Anhaltspunkte für die Auslegung des Unionsrechts zu geben, anhand deren es entscheiden kann (vgl. in diesem Sinne Urteil vom 20. Dezember 2017, Global Starnet, C‑322/16, EU:C:2017:985, Rn. 51 und 52).
+
+50
+
+Was in erster Linie die Eignung dieser Regelung betrifft, die Erreichung des von ihr verfolgten Ziels zu gewährleisten, ist darauf hinzuweisen, dass nach ständiger Rechtsprechung des Gerichtshofs eine nationale Regelung nur dann geeignet ist, die Verwirklichung des geltend gemachten Ziels zu gewährleisten, wenn sie tatsächlich dem Anliegen gerecht wird, es in kohärenter und systematischer Weise zu erreichen (Urteil vom 10. März 2009, Hartlauer, C‑169/07, EU:C:2009:141, Rn. 55).
+
+51
+
+Hinsichtlich der ersten der in Rn. 48 des vorliegenden Urteils genannten Grundanforderungen, nämlich der Beachtung von Beschäftigungsbedingungen und Systemen der sozialen Sicherheit, sieht aber Art. 10 Abs. 4 Buchst. c der Genehmigungsverordnung vor, dass die Erteilung der Allgemeingenehmigung an den Postdiensteanbieter davon abhängt, ob dieser zum Zeitpunkt der Antragstellung die Anforderungen im Bereich der Sozialversicherung seiner Arbeitnehmer einhält.
+
+52
+
+Insoweit leitet sich sowohl aus den Art. 6 Abs. 3 und Art. 18bis des gesetzesvertretenden Dekrets Nr. 261/99 als auch aus Art. 11 Abs. 1 Buchst. b der Genehmigungsverordnung ab, dass der Inhaber einer Allgemeingenehmigung zur Einhaltung der in den nationalen Rechtsvorschriften und in den Tarifverträgen des Postsektors vorgesehenen Bestimmungen im Bereich der Arbeitsbedingungen verpflichtet ist. Hierfür verlangt Art. 10 Abs. 8 der Genehmigungsverordnung von jenen, die einen Antrag auf eine Allgemeingenehmigung stellen, dass sie zum Zeitpunkt der Antragstellung Informationen in Bezug auf die für ihre Arbeitnehmer geltenden Tarifverträge sowie andere Informationen zu diesen Arbeitnehmern beibringen.
+
+53
+
+Im Übrigen erklärte die AGCOM, wie der Generalanwalt in Nr. 59 seiner Schlussanträge ausgeführt hat, im Beschluss Nr. 129/15, wie die durch die fragliche Regelung vorgesehenen Verpflichtungen die Einhaltung der Arbeitsbedingungen gewährleisten könnten.
+
+54
+
+In Bezug auf die zweite der in Rn. 48 des vorliegenden Urteils genannten Grundanforderungen, nämlich die Vertraulichkeit der Sendungen, heißt es in Art. 10 Abs. 8 der Genehmigungsverordnung, dass die Unternehmen, die einen Antrag auf Erteilung einer Genehmigung stellen, den zuständigen Behörden zum Zeitpunkt der Antragstellung eine Beschreibung der Maßnahmen übermitteln müssen, die getroffen wurden, um die Erfüllung der Verpflichtungen der Vertraulichkeit der Sendungen zu gewährleisten.
+
+55
+
+Unter diesen Voraussetzungen ist die im Ausgangsverfahren streitige Regelung offensichtlich geeignet, die Einhaltung einiger der in Art. 2 Nr. 19 der Richtlinie 97/67 aufgezählten Grundanforderungen zu gewährleisten.
+
+56
+
+In zweiter Linie ist zu prüfen, ob die Verpflichtungen, von denen die im Ausgangsverfahren in Rede stehende Regelung die Erteilung der für die Erbringung von Postdiensten erforderlichen Allgemeingenehmigung abhängig macht, nicht über das hinausgehen, was für die Erreichung des verfolgten Ziels erforderlich ist.
+
+57
+
+Wie der Generalanwalt in Nr. 64 seiner Schlussanträge ausführt, gibt das vorlegende Gericht aber nicht genau an, welche von der im Ausgangsverfahren in Rede stehenden Regelung auferlegten Verpflichtungen (mit Ausnahme derjenigen zur Finanzierung des Universaldienstes, die Gegenstand der dritten und vierten Vorlagefrage ist) unverhältnismäßig sein könnten.
+
+58
+
+Außerdem weist das vorlegende Gericht nur darauf hin, dass solche Verpflichtungen sowohl in Bezug auf die Erteilung der Allgemeingenehmigung als auch in Bezug auf die Ausübung dieser Tätigkeiten zwingend seien.
+
+59
+
+Schließlich ist der dem Gerichtshof vorliegenden Akte zu entnehmen, dass die Allgemeingenehmigung 45 Tage, nachdem die zuständigen Behörden den Antrag des betroffenen Unternehmens erhalten haben, als erteilt gilt.
+
+60
+
+In Anbetracht all dieser Umstände, insbesondere der Modalitäten der Erteilung der Allgemeingenehmigung, ist festzustellen, wie der Generalanwalt in den Nrn. 65 und 66 seiner Schlussanträge ausgeführt hat, dass von den Verpflichtungen, die von der im Ausgangsverfahren in Rede stehenden nationalen Regelung auferlegt werden, nicht angenommen werden kann, dass sie über das hinausgehen, was erforderlich ist, um die Erfüllung der in Art. 2 Nr. 19 der Richtlinie 97/67 aufgezählten Grundanforderungen zu gewährleisten.
+
+61
+
+Nach alledem ist auf die zweite Vorlagefrage zu antworten, dass Art. 2 Nr. 19 und Art. 9 Abs. 1 der Richtlinie 97/67 dahin auszulegen sind, dass sie einer nationalen Regelung wie der im Ausgangsverfahren fraglichen, die von jedem Straßentransport-, Speditions- und Kurierdienstunternehmen verlangt, über eine Allgemeingenehmigung für die Erbringung von Postdiensten zu verfügen, nicht entgegenstehen, sofern diese Regelung durch eine der in Art. 2 Nr. 19 dieser Richtlinie aufgezählten Grundanforderungen gerechtfertigt ist und den Grundsatz der Verhältnismäßigkeit in dem Sinne wahrt, dass sie geeignet ist, die Verwirklichung des verfolgten Ziels zu gewährleisten, und nicht über das für seine Erreichung Erforderliche hinausgeht, was das vorlegende Gericht zu prüfen hat.
+
+Zur dritten und zur vierten Frage
+
+Zur Zulässigkeit
+
+62
+
+In ihren schriftlichen Erklärungen äußert die Kommission Zweifel an der Zulässigkeit der dritten und der vierten Frage. Sie erklärt, dass die Verpflichtung zu Beiträgen zum Ausgleichsfonds für den Universaldienst zwar tatsächlich in Art. 10 Abs. 2 des gesetzesvertretenden Dekrets Nr. 261/99 und in Art. 11 Abs. 1 Buchst. f der Genehmigungsverordnung vorgesehen sei, aber noch keine Entscheidung der AGCOM diese Verpflichtung für die Klägerinnen des Ausgangsverfahrens zum Tragen gebracht habe. Daher seien diese Fragen hypothetischer Natur.
+
+63
+
+Insoweit ergibt sich aus der ständigen Rechtsprechung des Gerichtshofs, dass der Zweck eines Vorabentscheidungsersuchens nicht darin liegt, Gutachten zu allgemeinen oder hypothetischen Fragen abzugeben, sondern darin, dem Bedürfnis nach einer tatsächlichen Entscheidung eines Rechtsstreits über das Unionsrecht Genüge zu tun (Urteil vom 26. Oktober 2017, Balgarska energiyna borsa, C‑347/16, EU:C:2017:816, Rn. 31).
+
+64
+
+Es ist festzustellen, dass die Mitgliedstaaten nach Art. 7 Abs. 4 der Richtlinie 97/67 einen Ausgleichsfonds einrichten können, in den Beiträge u. a. von Postdiensteanbietern fließen. Außerdem können die Mitgliedstaaten die Erteilung von Genehmigungen an Diensteanbieter gemäß Art. 9 Abs. 2 dieser Richtlinie mit der Verpflichtung verknüpfen, einen finanziellen Beitrag zu diesem Fonds zu leisten.
+
+65
+
+Im vorliegenden Fall sind zum einen nach Art. 10 Abs. 2 des gesetzesvertretenden Dekrets Nr. 261/99 u. a. Inhaber von Allgemeingenehmigungen für Dienste, die die in den Universaldienst eingeschlossenen Dienste ersetzen, zur Leistung eines Beitrags zum Ausgleichsfonds für den Universaldienst bis zur Höchstgrenze von 10 % der Bruttoeinnahmen aus der genehmigten Tätigkeit verpflichtet. Zum anderen hat der Inhaber einer Allgemeingenehmigung gemäß Art. 11 Abs. 1 Buchst. f der Genehmigungsverordnung zur Finanzierung der Kosten für die Erbringung des Universaldienstes beizutragen, wenn die im 27. Erwägungsgrund der Richtlinie 2008/6 und in Art. 10 Abs. 2 des gesetzesvertretenden Dekrets aufgestellten Bedingungen erfüllt sind.
+
+66
+
+Es ergibt sich aber aus den Erklärungen der Parteien bei der mündlichen Verhandlung, dass die AGCOM die Entscheidung über die Einrichtung des Ausgleichsfonds für den Universaldienst noch nicht erlassen hat. Daher hat diese nationale Behörde vorbehaltlich einer Prüfung durch das vorlegende Gericht offenbar weder die Fälle, in denen die Anbieter von Postdiensten, die nicht zum Universaldienst gehören, zur Leistung von Beiträgen zu diesem Fonds herangezogen werden, noch die konkreten Modalitäten einer solchen Beitragsleistung festgelegt.
+
+67
+
+Unter diesen Voraussetzungen ist in Bezug auf die dritte Frage festzustellen, dass, wie den Erwägungen in Rn. 65 des vorliegenden Urteils zu entnehmen ist, Art. 7 Abs. 4 der Richtlinie 97/67, soweit er den Mitgliedstaaten gestattet, eine Verpflichtung zur Leistung von Beiträgen zum Ausgleichsfonds aufzustellen, in die italienische Rechtsordnung umgesetzt wurde. Daher ist diese Frage, die nicht als hypothetisch angesehen werden kann, zulässig.
+
+68
+
+Hingegen ist, da die vierte Frage im Wesentlichen die konkreten Modalitäten betrifft, mit denen die Verpflichtung der Inhaber einer Allgemeingenehmigung zur Leistung von Beiträgen zum Ausgleichsfonds für den Universaldienst umgesetzt werden soll, im Hinblick auf die Erwägungen in Rn. 66 des vorliegenden Urteils festzustellen, dass die Beantwortung dieser Frage darauf hinausliefe, ein Gutachten für AGCOM über eine Frage abzugeben, die derzeit nur hypothetischer Natur ist. Folglich ist die vierte Frage unzulässig.
+
+In der Sache
+
+69
+
+Mit seiner dritten Vorlagefrage möchte das vorlegende Gericht wissen, ob Art. 7 Abs. 4 und Art. 9 Abs. 2 der Richtlinie 97/67 dahin auszulegen sind, dass sie einer nationalen Regelung wie der im Ausgangsverfahren fraglichen entgegenstehen, die von den Inhabern einer Allgemeingenehmigung für die Erbringung von Postdiensten verlangt, Beiträge zu einem Ausgleichsfonds für den Universaldienst zu leisten.
+
+70
+
+Insoweit ist zunächst daran zu erinnern, dass Art. 9 Abs. 1 der Richtlinie 97/67 den Mitgliedstaaten gestattet, nicht zum Universaldienst gehörende Dienste von Unternehmen des Postsektors von Allgemeingenehmigungen abhängig zu machen, während Art. 9 Abs. 2 Unterabs. 1 dieser Richtlinie die Möglichkeit für die Mitgliedstaaten vorsieht, für Dienste, die zum Universaldienst gehören, Genehmigungsverfahren einzuführen (Urteil vom 16. November 2016, DHL Express [Austria], C‑2/15, EU:C:2016:880, Rn. 20).
+
+71
+
+Sodann zählt Art. 9 Abs. 2 Unterabs. 2 dieser Richtlinie die Verpflichtungen auf, an die die Bewilligung der Genehmigungen geknüpft werden kann, ohne dass seinem Wortlaut entnommen werden kann, auf welche Kategorie von Genehmigungen – diejenigen, die sämtliche Postdienste betreffen, oder diejenigen, die nur Dienste, die zum Universaldienst gehören, betreffen – sich diese Bestimmung bezieht (vgl. in diesem Sinne Urteil vom 16. November 2016, DHL Express [Austria], C‑2/15, EU:C:2016:880, Rn. 21).
+
+72
+
+Schließlich sollten die Mitgliedstaaten, wie es der 27. Erwägungsgrund der Richtlinie 2008/6 vorsieht, bei der Entscheidung darüber, welche Anbieter von Postdiensten, die nicht zum Universaldienst gehören, für Beiträge zum Ausgleichsfonds herangezogen werden, prüfen, ob die von diesen Unternehmen angebotenen Dienstleistungen vom Standpunkt der Nutzer als Dienste, die unter den Universaldienst fallen, gelten können, da sie einen ausreichenden Grad an Austauschbarkeit mit dem Universaldienst aufweisen, wobei die Merkmale dieser Dienstleistungen zu berücksichtigen sind.
+
+73
+
+Insoweit ist zum einen festzustellen, dass sich aus der Analyse des Gesamtgefüges von Art. 9 Abs. 2 Unterabs. 2 der Richtlinie 97/67 ergibt, dass der dort verwendete Begriff „Genehmigungen“ sowohl die Genehmigungen im Sinne von Art. 9 Abs. 2 Unterabs. 1 dieser Richtlinie als auch die Genehmigungen im Sinne von Art. 9 Abs. 1 der Richtlinie bezeichnet (Urteil vom 16. November 2016, DHL Express [Austria], C‑2/15, EU:C:2016:880, Rn. 28).
+
+74
+
+Zum anderen verpflichtet, abgesehen davon, dass die im 27. Erwägungsgrund der Richtlinie 2008/6 vorgesehene Bedingung in Bezug auf den ausreichenden Grad an Austauschbarkeit in Art. 10 Abs. 2 des gesetzesvertretenden Dekrets Nr. 261/99 übernommen wurde, Art. 11 Abs. 1 Buchst. f der Genehmigungsverordnung den Inhaber einer Allgemeingenehmigung ausdrücklich zu „Beiträgen zur Finanzierung der Kosten für die Erbringung des Universaldienstes …, wenn die im 27. Erwägungsgrund der Richtlinie [2008/6] und in Art. 10 Abs. 2 des [gesetzesvertretenden Dekrets Nr. 261/99] aufgestellten Bedingungen erfüllt sind“, so dass die Möglichkeit, den Inhaber einer Allgemeingenehmigung zu Beiträgen zum Ausgleichsfonds für den Universaldienst zu verpflichten, von dieser Bedingung in Bezug auf den ausreichenden Grad an Austauschbarkeit abhängt.
+
+75
+
+Nach alledem ist auf die dritte Frage zu antworten, dass Art. 7 Abs. 4 und Art. 9 Abs. 2 der Richtlinie 97/67 dahin auszulegen sind, dass sie einer nationalen Regelung wie der im Ausgangsverfahren fraglichen nicht entgegenstehen, die die Inhaber einer Allgemeingenehmigung für die Erbringung von Postdiensten zu Beiträgen zu einem Ausgleichsfonds für den Universaldienst verpflichtet, wenn diese Dienstleistungen vom Standpunkt der Nutzer als Dienste, die unter den Universaldienst fallen, gelten können, da sie einen ausreichenden Grad an Austauschbarkeit mit diesem aufweisen.
+
+Kosten
+
+76
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem bei dem vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Fünfte Kammer) für Recht erkannt:
+
+ 	
+1.
+
+Art. 2 Nrn. 1, 1a und 6 der Richtlinie 97/67/EG des Europäischen Parlaments und des Rates vom 15. Dezember 1997 über gemeinsame Vorschriften für die Entwicklung des Binnenmarktes der Postdienste der Gemeinschaft und die Verbesserung der Dienstequalität in der durch die Richtlinie 2008/6/EG des Europäischen Parlaments und des Rates vom 20. Februar 2008 geänderten Fassung ist dahin auszulegen, dass er einer nationalen Regelung wie der im Ausgangsverfahren fraglichen nicht entgegensteht, wonach die Straßentransport-, Speditions- oder Kurierdienstunternehmen, die Dienste der Abholung, des Sortierens, des Transports und der Zustellung von Postsendungen erbringen, Postdiensteanbieter im Sinne von Art. 2 Nr. 1a dieser Richtlinie sind, es sein denn, ihre Tätigkeit beschränkt sich auf den Transport der Postsendungen.
+
+ 	
+2.
+
+Art. 2 Nr. 19 und Art. 9 Abs. 1 der Richtlinie 97/67 in der durch die Richtlinie 2008/6 geänderten Fassung sind dahin auszulegen, dass sie einer nationalen Regelung wie der im Ausgangsverfahren fraglichen, die von jedem Straßentransport-, Speditions- und Kurierdienstunternehmen verlangt, über eine Allgemeingenehmigung für die Erbringung von Postdiensten zu verfügen, nicht entgegenstehen, sofern diese Regelung durch eine der in Art. 2 Nr. 19 dieser Richtlinie aufgezählten Grundanforderungen gerechtfertigt ist und den Grundsatz der Verhältnismäßigkeit in dem Sinne wahrt, dass sie geeignet ist, die Verwirklichung des verfolgten Ziels zu gewährleisten, und nicht über das für seine Erreichung Erforderliche hinausgeht, was das vorlegende Gericht zu prüfen hat.
+
+ 	
+3.
+
+Art. 7 Abs. 4 und Art. 9 Abs. 2 der Richtlinie 97/67 in der durch die Richtlinie 2008/6 geänderten Fassung sind dahin auszulegen, dass sie einer nationalen Regelung wie der im Ausgangsverfahren fraglichen nicht entgegenstehen, die die Inhaber einer Allgemeingenehmigung für die Erbringung von Postdiensten zu Beiträgen zu einem Ausgleichsfonds für den Universaldienst verpflichtet, wenn diese Dienstleistungen vom Standpunkt der Nutzer als Dienste, die unter den Universaldienst fallen, gelten können, da sie einen ausreichenden Grad an Austauschbarkeit mit diesem aufweisen.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Italienisch.URTEIL DES GERICHTSHOFS (Fünfte Kammer)
+
+7. Dezember 2017 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Soziale Sicherheit der Wandererwerbstätigen – Verordnung (EWG) Nr. 1408/71 – Art. 46 Abs. 2 – Art. 47 Abs. 1 Buchst. d – Art. 50 – Garantierente – Mindestleistung – Berechnung der Rentenansprüche“
+
+In der Rechtssache C‑189/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Högsta förvaltningsdomstol (Oberster Verwaltungsgerichtshof, Schweden) mit Entscheidung vom 23. März 2016, beim Gerichtshof eingegangen am 4. April 2016, in dem Verfahren
+
+Boguslawa Zaniewicz-Dybeck
+
+gegen
+
+Pensionsmyndigheten
+
+erlässt
+
+DER GERICHTSHOF (Fünfte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten J. L. da Cruz Vilaça, der Richter E. Levits und A. Borg Barthet, der Richterin M. Berger sowie des Richters F. Biltgen (Berichterstatter),
+
+Generalanwalt: M. Wathelet,
+
+Kanzler: C. Strömholm, Verwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 9. März 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der Pensionsmyndighet, vertreten durch M. Westberg, M. Irving und A. Svärd als Bevollmächtigte,
+
+–
+
+der schwedischen Regierung, vertreten durch A. Falk, C. Meyer‑Seitz, U. Persson und L. Swedenborg als Bevollmächtigte,
+
+–
+
+der tschechischen Regierung, vertreten durch M. Smolek, J. Pavliš und J. Vláčil als Bevollmächtigte,
+
+–
+
+der Europäischen Kommission, vertreten durch K. Simonsson und D. Martin als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 3. Mai 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 46 Abs. 2 und Art. 47 Abs. 1 Buchst. d der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern, in ihrer durch die Verordnung (EG) Nr. 118/97 des Rates vom 2. Dezember 1996 (ABl. 1997, L 28, S. 1) geänderten und aktualisierten Fassung, geändert durch die Verordnung (EG) Nr. 1606/98 des Rates vom 29. Juni 1998 (ABl. 1998, L 209, S. 1) (im Folgenden: Verordnung Nr. 1408/71).
+
+2
+
+Dieses Ersuchen ergeht im Rahmen eines Rechtsstreits zwischen Frau Boguslawa Zaniewicz-Dybeck und der Pensionsmyndighet (Rentenversicherungsanstalt, Schweden) wegen der Gewährung einer Garantierente nach dem allgemeinen schwedischen Rentensystem.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+3
+
+In Titel III („Besondere Vorschriften für die einzelnen Leistungsarten“) umfasst das Kapitel 3 („Alter und Tod [Renten]“) der Verordnung Nr. 1408/71 deren Art. 44 bis 51a.
+
+4
+
+Art. 44 („Allgemeine Vorschriften für die Feststellung der Leistungen, wenn für den Arbeitnehmer oder Selbständigen die Rechtsvorschriften von zwei oder mehr Mitgliedstaaten galten“) der Verordnung Nr. 1408/71 bestimmt in seinem Abs. 1:
+
+„Die Leistungsansprüche eines Arbeitnehmers, für den die Rechtsvorschriften von zwei oder mehr Mitgliedstaaten galten, und die Leistungsansprüche seiner Hinterbliebenen werden nach diesem Kapitel festgestellt.“
+
+5
+
+Art. 45 („Berücksichtigung der Versicherungs- oder Wohnzeiten, die nach Rechtsvorschriften zurückgelegt worden sind, die für den Arbeitnehmer oder Selbständigen im Hinblick auf den Erwerb, die Aufrechterhaltung oder das Wiederaufleben des Leistungsanspruchs galten“) Abs. 1 dieser Verordnung lautet:
+
+„Ist nach den Rechtsvorschriften eines Mitgliedstaats der Erwerb, die Aufrechterhaltung oder das Wiederaufleben des Anspruchs auf die Leistungen eines Systems, das kein Sondersystem im Sinne des Absatzes 2 oder 3 ist, davon abhängig, dass Versicherungs- oder Wohnzeiten zurückgelegt worden sind, berücksichtigt der zuständige Träger dieses Mitgliedstaats, soweit erforderlich, die nach den Rechtsvorschriften jedes anderen Mitgliedstaats zurückgelegten Versicherungs- oder Wohnzeiten; dabei ist unwesentlich, ob diese in einem allgemeinen oder in einem Sondersystem, in einem System für Arbeitnehmer oder in einem System für Selbständige zurückgelegt worden sind. Zu diesem Zweck berücksichtigt er diese Zeiten, als ob es sich um nach den von ihm anzuwendenden Rechtsvorschriften zurückgelegte Zeiten handelte.“
+
+6
+
+Art. 46 („Feststellung der Leistungen“) der Verordnung Nr. 1408/71 bestimmt:
+
+„(1)   Sind die Voraussetzungen für den Leistungsanspruch nach den Rechtsvorschriften eines Mitgliedstaats auch ohne Anwendung des Artikels 45 und des Artikels 40 Absatz 3 erfüllt, so gilt Folgendes:
+
+a)
+
+Der zuständige Träger berechnet den Leistungsbetrag, der wie folgt geschuldet würde:
+
+i)
+
+allein nach den von ihm anzuwendenden Rechtsvorschriften,
+
+ii)
+
+nach Absatz 2.
+
+…
+
+(2)   Sind die Voraussetzungen für den Leistungsanspruch nach den Rechtsvorschriften eines Mitgliedstaats nur nach Anwendung des Artikels 45 und/oder des Artikels 40 Absatz 3 erfüllt, so gilt Folgendes:
+
+a)
+
+Der zuständige Träger berechnet den theoretischen Betrag der Leistung, auf die die betreffende Person Anspruch hätte, wenn alle nach den für den Arbeitnehmer oder Selbständigen geltenden Rechtsvorschriften der Mitgliedstaaten zurückgelegten Versicherungs- und/oder Wohnzeiten nur in dem betreffenden Staat und nach den für diesen Träger zum Zeitpunkt der Feststellung der Leistung geltenden Rechtsvorschriften zurückgelegt worden wären. Ist nach diesen Rechtsvorschriften der Betrag der Leistung von der Dauer der zurückgelegten Zeiten unabhängig, so gilt dieser Betrag als theoretischer Betrag.
+
+b)
+
+Der zuständige Träger ermittelt sodann den tatsächlich geschuldeten Betrag auf der Grundlage des unter Buchstabe a) genannten theoretischen Betrages nach dem Verhältnis zwischen den nach seinen Rechtsvorschriften vor Eintritt des Versicherungsfalles zurückgelegten Versicherungs- oder Wohnzeiten und den gesamten nach den Rechtsvorschriften aller beteiligten Mitgliedstaaten vor Eintritt des Versicherungsfalles zurückgelegten Versicherungs- und Wohnzeiten.
+
+(3)   Die betreffende Person hat gegen den zuständigen Träger jedes beteiligten Mitgliedstaats Anspruch auf den höchsten nach den Absätzen 1 und 2 errechneten Betrag, wobei gegebenenfalls alle Kürzungs-, Ruhens- oder Entziehungsbestimmungen der Rechtsvorschriften, aufgrund deren diese Leistung geschuldet wird, zur Anwendung kommen.
+
+Ist dies der Fall, erstreckt sich der vorzunehmende Vergleich auf die nach Anwendung dieser Bestimmungen ermittelten Beträge.
+
+…“
+
+7
+
+Art. 47 („Ergänzende Vorschriften für die Berechnung der Leistungen“) Abs. 1 Buchst. d der Verordnung sieht Folgendes vor:
+
+„Für die Berechnung des theoretischen Betrags und des zeitanteiligen Betrags nach Artikel 46 Absatz 2 gilt Folgendes:
+
+…
+
+d)
+
+Der zuständige Träger eines Mitgliedstaats, nach dessen Rechtsvorschriften bei der Berechnung von Leistungen die Höhe der Arbeitsentgelte, Arbeitseinkommen, Beiträge oder Steigerungsbeträge zugrunde zu legen ist, ermittelt die Entgelte, Einkommen, Beiträge oder Steigerungsbeträge für die nach den Rechtsvorschriften anderer Mitgliedstaaten zurückgelegten Versicherungs- oder Wohnzeiten auf der Grundlage der Durchschnittsarbeitsentgelte, ‑arbeitseinkommen, ‑beiträge oder ‑steigerungsbeträge, die für die Versicherungszeiten festgestellt worden sind, die nach den von dem genannten Träger angewendeten Rechtsvorschriften zurückgelegt wurden.
+
+…“
+
+8
+
+Art. 50 („Gewährung einer Zulage, wenn die Summe der nach den Rechtsvorschriften der einzelnen Mitgliedstaaten geschuldeten Leistungen nicht den Mindestbetrag erreicht, der in den Rechtsvorschriften des Mitgliedstaats vorgesehen ist, in dessen Gebiet der Empfänger wohnt“) der Verordnung Nr. 1408/71 lautet:
+
+„Der Empfänger von Leistungen nach [Kapitel 3 der Verordnung Nr. 1408/71] darf in dem Mitgliedstaat, in dessen Hoheitsgebiet er wohnt und nach dessen Rechtsvorschriften ihm eine Leistung zusteht, keinen niedrigeren Leistungsbetrag als die Mindestleistung erhalten, die nach den Rechtsvorschriften dieses Mitgliedstaats für eine Versicherungs- oder Wohnzeit vorgesehen ist, welche den Zeiten insgesamt entspricht, die bei der Feststellung seiner Leistung gemäß den vorstehenden Artikeln angerechnet wurden. Der zuständige Träger dieses Staates zahlt dem Betreffenden gegebenenfalls während der gesamten Zeit, in der er im Gebiet dieses Staates wohnt, eine Zulage in Höhe des Unterschiedsbetrags zwischen der Summe der nach [Kapitel 3 der Verordnung Nr. 1408/71] geschuldeten Leistungen und dem Betrag der Mindestleistung.“
+
+Schwedisches Recht
+
+9
+
+Die Altersrente nach dem allgemeinen schwedischen Rentensystem besteht aus drei Teilen, nämlich der Einkommensrente, der Zusatzrente und der Garantierente.
+
+10
+
+Die Einkommensrente und die Zusatzrente beruhen auf dem Einkommen der Betroffenen. Die Einkommensrente stützt sich auf die erworbenen Rentenansprüche; die Zusatzrente, die Teil des in Schweden vor 2003 geltenden Rentensystems ist, erhalten die bis einschließlich 1953 Geborenen. Diese beiden Rentenarten werden im Wesentlichen durch Beiträge finanziert.
+
+11
+
+Dagegen handelt es sich bei der Garantierente zur Grundsicherung von Menschen mit geringem oder gar keinem Einkommen um eine wohnortbezogene und durch Steuergelder finanzierte Leistung. Sie wurde durch Änderungen des schwedischen Systems der Altersvorsorge in den 1990er Jahren eingeführt und ersetzt die Volksrente.
+
+12
+
+Die Höhe der Garantierente richtet sich nach der Höhe der anderen Altersrenten, die der Betroffene bezieht. Sie wird unter Berücksichtigung der Einkommensrente, der Zusatzrente und bestimmter anderer Leistungen schrittweise gekürzt.
+
+13
+
+Bei den für die vorliegende Rechtssache relevanten nationalen Rechtsvorschriften über die Garantierente handelt es sich um das Lag (1998:702) om garantipension (Gesetz Nr. 702 aus dem Jahr 1998 über die Garantierente), das durch das Socialförsäkringsbalk (2010:110) (Sozialversicherungsgesetzbuch Nr. 110 aus dem Jahr 2010, im Folgenden: SFB) ersetzt wurde.
+
+14
+
+Gemäß Kapitel 55 §§ 8 und 10 SFB stellt die Garantierente die Grundversorgung im Rahmen der Altersrente nach dem allgemeinen schwedischen Rentensystem dar. Sie richtet sich nach der Versicherungszeit und kann Versicherten gewährt werden, die keine einkommensabhängige Rente erhalten oder bei denen die einkommensabhängige Rente einen bestimmten Betrag nicht übersteigt.
+
+15
+
+Gemäß Kapitel 67 § 2 SFB kann einem 1938 oder später geborenen Versicherten mit einer Versicherungszeit von mindestens drei Jahren eine Garantierente gewährt werden.
+
+16
+
+Kapitel 67 § 4 SFB bestimmt, dass die Garantierente frühestens ab dem Monat bezogen werden kann, in dem der Versicherte das 65. Lebensjahr vollendet.
+
+17
+
+Nach Kapitel 67 § 11 SFB ist bei der Berechnung der Versicherungszeit nur die Zeit ab dem Kalenderjahr, in dem der Betroffene das 16. Lebensjahr vollendet, bis zu dem Kalenderjahr, in dem er das 64. Lebensjahr vollendet, zu berücksichtigen.
+
+18
+
+Kapitel 67 § 15 SFB sieht vor, dass der Berechnung der Garantierente die einkommensabhängige Altersrente zugrunde zu legen ist, auf die der Versicherte für diese Jahre Anspruch hat.
+
+19
+
+Nach Kapitel 67 § 16 SFB sind „einkommensabhängige Altersrenten“ im Sinne von § 15 dieses Kapitels die Altersrente im Sinne des SFB vor den in bestimmten Paragrafen des SFB vorgesehenen Kürzungen sowie solche allgemeinen Altersrenten aus ausländischen Rentenpflichtversicherungen, die der Garantierente nach dem SFB nicht gleichzustellen sind.
+
+20
+
+Der Grundbetrag, der bei der Berechnung bestimmter Sozialleistungen, zu denen auch die Garantierente gehört, zugrunde zu legen ist, wird in Kapitel 2 § 7 SFB definiert. Dieser Betrag ist an den allgemeinen Preisindex gebunden. In dem für die vorliegende Rechtssache maßgeblichen Jahr belief sich der Grundbetrag auf 39400 schwedische Kronen (SEK) (rund 4137 Euro).
+
+21
+
+Gemäß Kapitel 67 § 23 SFB beträgt die jährliche Garantierente für Verheiratete, bei denen die Berechnungsgrundlage das 1,14‑Fache des Grundbetrags nicht übersteigt, das 1,9‑Fache des Grundbetrags abzüglich der Berechnungsgrundlage.
+
+22
+
+Kapitel 67 § 24 SFB sieht für Verheiratete, bei denen die Berechnungsgrundlage das 1,14‑Fache des Grundbetrags übersteigt, eine jährliche Garantierente in Höhe des 0,76‑Fachen des Grundbetrags abzüglich 48 % des Teils der Berechnungsgrundlage vor, der das 1,14‑Fache des Grundbetrags übersteigt.
+
+23
+
+Aus Kapitel 67 § 25 SFB ergibt sich, dass für Versicherte, die weniger als 40 Versicherungsjahre zurückgelegt haben, alle in den §§ 21 bis 24 dieses Kapitels genannten grundbetragsbezogenen Beträge entsprechend dem Verhältnis der tatsächlichen Versicherungszeit zu einer Versicherungszeit von 40 Jahren zeitanteilig herabzusetzen sind.
+
+24
+
+Die Rättsligt ställningstagande (2007:2) (rechtliche Stellungnahme Nr. 2 aus dem Jahr 2007, im Folgenden: rechtliche Stellungnahme) der Försäkringskassa (Rentenkasse, Schweden) sieht vor, dass im Rahmen der Berechnung der zeitanteiligen Garantierente im Sinne von Kapitel 67 § 25 SFB für die Berechnung des theoretischen Betrags nach Art. 46 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 jedem in einem anderen Mitgliedstaat zurückgelegten Versicherungszeitraum ein fiktiver Rentenwert beigemessen wird, der dem durchschnittlichen Rentenwert der schwedischen Versicherungszeiten entspricht.
+
+Ausgangsverfahren und Vorlagefragen
+
+25
+
+Frau Zaniewicz-Dybeck, eine polnische Staatsangehörige, wurde 1940 geboren und zog 1980 von Polen nach Schweden. In Polen war sie bereits 19 Jahre berufstätig und in den 24 Jahren, die sie in Schweden wohnte, war sie während 23 Jahren berufstätig.
+
+26
+
+Der von Frau Zaniewicz-Dybeck im Jahr 2005 gestellte Antrag auf Garantierente wurde von der Rentenkasse abgelehnt.
+
+27
+
+Mit Rechtsbehelfsbescheid vom 1. September 2008 bestätigte die Rentenkasse ihre ablehnende Entscheidung.
+
+28
+
+Da Frau Zaniewicz-Dybeck sowohl in Schweden als auch in Polen Versicherungszeiten zurückgelegt hat, wurde ihre Garantierente von der Rentenkasse gemäß der Verordnung Nr. 1408/71 zum einen nach nationalem Recht und zum anderen zeitanteilig nach Art. 46 Abs. 2 der Verordnung berechnet.
+
+29
+
+Im Rahmen der Berechnung der Garantierente von Frau Zaniewicz‑Dybeck nach nationalem Recht bestimmte die Rentenkasse gemäß Kapitel 67 § 25 SFB und gemäß der rechtlichen Stellungnahme die Berechnungsgrundlage hierfür anhand einer zeitanteiligen Berechnung. Außerdem ließ die Rentenkasse bei der Berechnung des Grundbetrags im Sinne von Art. 46 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 die von Frau Zaniewicz-Dybeck in Polen erworbenen Ansprüche auf eine einkommensabhängige Rente unberücksichtigt, maß jedoch den von Frau Zaniewicz-Dybeck in Schweden erworbenen Ansprüchen auf eine einkommensabhängige Rente einen Rentenwert von 75216 SEK (rund 7897 Euro) für 24 Versicherungsjahre und damit einen Wert von jährlich 3134 SEK (rund 329 Euro) (75216 SEK geteilt durch 24) bei. Diesen Betrag multiplizierte sie mit der für die Garantierente geltenden maximalen Versicherungszeit von 40 Jahren und erhielt so einen fiktiven Rentenwert von 125360 SEK (rund 13162 Euro).
+
+30
+
+Angesichts dessen nahm die Rentenkasse an, dass Frau Zaniewicz‑Dybecks Ansprüche auf eine einkommensabhängige Rente, die gemäß Kapitel 67 § 15 SFB als Berechnungsgrundlage für die Garantierente dienen, die Höchstgrenze für die Gewährung einer Garantierente überstiegen.
+
+31
+
+Gegen diesen Bescheid erhob Frau Zaniewicz-Dybeck zunächst erfolglos Klage beim Förvaltningsrätt i Stockholm (Verwaltungsgericht Stockholm, Schweden). Danach legte sie ebenfalls ohne Erfolg beim Kammarrätt i Stockholm (Verwaltungsgerichtshof Stockholm, Schweden) und schließlich beim Högsta förvaltningsdomstol (Oberster Verwaltungsgerichtshof, Schweden) Rechtsmittel ein.
+
+32
+
+Frau Zaniewicz-Dybeck macht geltend, dass der theoretische Betrag der Garantierente nach der Verordnung Nr. 1408/71 zu berechnen sei. Dabei sei weder Art. 47 Abs. 1 Buchst. d der Verordnung – weil die Garantierente allein auf die zurückgelegte Versicherungszeit abzüglich der in Schweden bezogenen einkommensabhängige Rente abstelle – noch die rechtliche Stellungnahme – durch die die Wanderarbeitnehmer benachteiligt würden, die aus einem anderen Mitgliedstaat nur eine niedrige einkommensabhängige Rente bezögen – anzuwenden.
+
+33
+
+Nach Auffassung der schwedischen Rentenversicherungsanstalt, seit dem 1. Januar 2010 Rechtsnachfolgerin der Rentenkasse, werden durch die in einem anderen Mitgliedstaat zurückgelegten Versicherungszeiten dort Rentenansprüche erworben. Da die Garantierente aber ergänzend gewährt werde, habe eine Rentenberechnung ohne Anwendung von Art. 47 Abs. 1 Buchst. d der Verordnung Nr. 1408/71 zur Folge, dass der Betroffene, der Versicherungszeiten in einem anderen Mitgliedstaat zurückgelegt habe, hierfür überkompensiert werde. Werde den in einem anderen Mitgliedstaat zurückgelegten Versicherungszeiten kein durchschnittlicher schwedischer Rentenwert beigemessen, führe dies dazu, dass diesen Zeiten ein geringerer Wert als den entsprechenden im Königreich Schweden zurückgelegten Zeiten beigemessen werde.
+
+34
+
+Das vorlegende Gericht weist darauf hin, dass der zuständige Träger, also die Rentenkasse oder die Rentenversicherungsanstalt, bei der Berechnung der Garantierente nach Art. 46 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 jeder vom Arbeitnehmer in einem anderen Mitgliedstaat zurückgelegten Versicherungszeit einen fiktiven Rentenwert beimesse, der dem durchschnittlichen Rentenwert der im Königreich Schweden zurückgelegten Versicherungszeiten entspreche und von der Garantierente unabhängig davon abgezogen werde, ob der Betroffene in diesem Zeitraum gearbeitet habe. Habe der Betroffene in diesem Zeitraum gearbeitet und folglich einen Rentenanspruch erworben, der den vom zuständigen Träger berechneten fiktiven Rentenwert übersteige, stelle dies einen Vorteil für ihn dar. Habe er dagegen in dem anderen Mitgliedstaat nicht gearbeitet oder habe er Rentenansprüche erworben, die unter dem vom zuständigen Träger berechneten fiktiven Rentenwert lägen, werde er benachteiligt.
+
+35
+
+Aufgrund dessen besteht nach Ansicht des vorlegenden Gerichts Unklarheit darüber, wie die Garantierente zu berechnen ist. Insbesondere möchte das vorlegende Gericht wissen, ob bei der Berechnung der Garantierente Art. 46 Abs. 2 und Art. 47 Abs. 1 Buchst. d der Verordnung Nr. 1408/71 anzuwenden sind. Sollte dies der Fall sein, möchte es außerdem wissen, ob gemäß diesen Bestimmungen den in einem anderen Mitgliedstaat zurückgelegten Versicherungszeiten zur Bestimmung der Berechnungsgrundlage einer Garantierente ein fiktiver Rentenwert beigemessen werden kann, der dem durchschnittlichen Rentenwert der im Königreich Schweden zurückgelegten Versicherungszeiten entspricht. Falls dies verneint wird, möchte das vorlegende Gericht wissen, ob bei der Berechnung der Garantierente Altersrenten zu berücksichtigen sind, die der Betroffene aus anderen Mitgliedstaaten bezieht.
+
+36
+
+Der Högsta förvaltningsdomstol (Oberster Verwaltungsgerichtshof) hat deshalb beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+Zu den Vorlagefragen
+
+Zur ersten Frage
+
+37
+
+Mit seiner ersten Frage möchte das vorlegende Gericht wissen, ob die Verordnung Nr. 1408/71 dahin auszulegen ist, dass der zuständige Träger eines Mitgliedstaats eine Leistung wie die im Ausgangsverfahren in Rede stehende Garantierente nach der in Art. 46 Abs. 2 der Verordnung vorgesehenen zeitanteiligen Berechnung zu bestimmen und gemäß Art. 47 Abs. 1 Buchst. d der Verordnung den vom Versicherten in einem anderen Mitgliedstaat zurückgelegten Versicherungszeiten einen fiktiven Durchschnittswert beizumessen hat.
+
+38
+
+Für eine sachgerechte Antwort an das vorlegende Gericht ist vorab darauf hinzuweisen, dass die Verordnung Nr. 1408/71 kein gemeinsames System der sozialen Sicherheit schafft, sondern unterschiedliche nationale Systeme bestehen lässt und diese nur koordinieren soll. Somit sind die Mitgliedstaaten nach ständiger Rechtsprechung weiterhin für die Ausgestaltung ihrer Systeme der sozialen Sicherheit zuständig (vgl. u. a. Urteil vom 21. Februar 2013, Salgado González, C‑282/11, EU:C:2013:86, Rn. 35 und die dort angeführte Rechtsprechung).
+
+39
+
+In Ermangelung einer Harmonisierung auf Unionsebene bestimmt somit das Recht eines jeden Mitgliedstaats u. a. die Voraussetzungen für die Begründung von Ansprüchen auf Leistungen (Urteil vom 21. Februar 2013, Salgado González, C‑282/11, EU:C:2013:86, Rn. 36 und die dort angeführte Rechtsprechung).
+
+40
+
+Gleichwohl müssen die Mitgliedstaaten bei der Ausübung dieser Befugnis das Unionsrecht und insbesondere die Bestimmungen des AEU-Vertrags über die jedem Unionsbürger zuerkannte Freiheit beachten, sich im Hoheitsgebiet der Mitgliedstaaten frei zu bewegen und aufzuhalten (Urteil vom 21. Februar 2013, Salgado González, C‑282/11, EU:C:2013:86, Rn. 37 und die dort angeführte Rechtsprechung).
+
+41
+
+Insoweit ist daran zu erinnern, dass nach Art. 45 der Verordnung Nr. 1408/71 der zuständige Träger eines Mitgliedstaats, wenn nach den Rechtsvorschriften dieses Mitgliedstaats der Erwerb, die Aufrechterhaltung oder das Wiederaufleben des Anspruchs auf die Leistungen eines Systems davon abhängig ist, dass Versicherungszeiten zurückgelegt worden sind, die nach den Rechtsvorschriften jedes anderen Mitgliedstaats zurückgelegten Versicherungszeiten so berücksichtigen muss, als ob es sich um nach den von ihm anzuwendenden Rechtsvorschriften zurückgelegte Zeiten handelte. Mit anderen Worten: Die in verschiedenen Mitgliedstaaten zurückgelegten Versicherungszeiten müssen zusammengerechnet werden.
+
+42
+
+In einem solchen Fall sieht Art. 46 Abs. 2 Buchst. a der Verordnung Nr. 1408/71 vor, dass der zuständige Träger den theoretischen Betrag der Leistung, auf die der Versicherte Anspruch hätte, so berechnet, als ob alle von ihm in verschiedenen Mitgliedstaaten zurückgelegten Zeiten der Erwerbstätigkeit im Mitgliedstaat des zuständigen Trägers zurückgelegt worden wären. Der zuständige Träger ermittelt sodann gemäß Art. 46 Abs. 2 Buchst. b der Verordnung den tatsächlich geschuldeten Betrag auf der Grundlage des theoretischen Betrags zeitanteilig nach dem Verhältnis zwischen der Dauer der Versicherungs- und/oder Wohnzeiten im Mitgliedstaat des zuständigen Trägers zu den gesamten Versicherungs- und/oder Wohnzeiten in den verschiedenen Mitgliedstaaten. Dies ist die zeitanteilige Berechnung.
+
+43
+
+Art. 47 der Verordnung Nr. 1408/71 sieht ergänzende Vorschriften für die Berechnung des theoretischen und des zeitanteiligen Betrags im Sinne von Art. 46 Abs. 2 der Verordnung vor. So stellt Art. 47 Abs. 1 Buchst. d der Verordnung u. a. klar, dass der zuständige Träger eines Mitgliedstaats, nach dessen Rechtsvorschriften bei der Berechnung von Leistungen die Höhe der Arbeitsentgelte, Arbeitseinkommen, Beiträge oder Steigerungsbeträge zugrunde zu legen ist, diese Entgelte, Einkommen, Beiträge oder Steigerungsbeträge für die nach den Rechtsvorschriften anderer Mitgliedstaaten zurückgelegten Versicherungs- oder Wohnzeiten auf der Grundlage der Durchschnittsarbeitsentgelte, ‑arbeitseinkommen, ‑beiträge oder ‑steigerungsbeträge ermittelt, die für die nach den von dem genannten Träger angewendeten Rechtsvorschriften zurückgelegten Versicherungszeiten festgestellt worden sind.
+
+44
+
+Im vorliegenden Fall ist darauf hinzuweisen, dass die schwedische Regierung in der mündlichen Verhandlung selbst eingeräumt hat, dass die Garantierente ihren Empfängern einen angemessenen Lebensstandard gewährleisten soll, indem ihnen, wenn die einkommensabhängige Rente zu niedrig ist oder gar kein entsprechender Anspruch besteht, ein Mindesteinkommen garantiert wird, das über das hinausgeht, was ihnen gewährt würde, wenn sie nur die einkommensabhängige Rente erhielten. Die Garantierente stellt somit die Grundsicherung im Rahmen der Altersrente des allgemeinen schwedischen Rentensystems dar.
+
+45
+
+Der Gerichtshof hat insoweit in Rn. 15 des Urteils vom 17. Dezember 1981, Browning (22/81, EU:C:1981:316), festgestellt, dass eine „Mindestleistung“ im Sinne von Art. 50 der Verordnung Nr. 1408/71 vorliegt, wenn die Rechtsvorschriften des Wohnstaats eine spezifische Garantie enthalten, die den Empfängern von Leistungen der sozialen Sicherheit ein Mindesteinkommen sichern soll, das über dem Betrag der Leistungen liegt, die sie allein aufgrund ihrer Versicherungszeiten und Beiträge verlangen könnten.
+
+46
+
+Im Hinblick auf den in Rn. 44 des vorliegenden Urteils beschriebenen Zweck handelt es sich bei der im Ausgangsverfahren in Rede stehenden Garantierente um eine Mindestleistung im Sinne von Art. 50 der Verordnung Nr. 1408/71.
+
+47
+
+Wie der Generalanwalt in Nr. 47 seiner Schlussanträge ausgeführt hat, kann Art. 46 Abs. 2 der Verordnung Nr. 1408/71 keine speziellen und detaillierten Regeln für die Berechnung von Mindestleistungen vorschreiben, da die Verordnung nicht verlangt, dass die Mitgliedstaaten solche Mindestleistungen vorsehen, und somit auch nicht unbedingt die Rechtsvorschriften aller Mitgliedstaaten solche Leistungen umfassen.
+
+48
+
+Folglich ist der Anspruch auf eine Mindestleistung wie die im Ausgangsverfahren in Rede stehende Garantierente nicht anhand von Art. 46 Abs. 2 oder Art. 47 Abs. 1 Buchst. d der Verordnung Nr. 1408/71, sondern nach den besonderen Vorschriften des Art. 50 der Verordnung und den einschlägigen nationalen Rechtsvorschriften zu ermitteln.
+
+49
+
+Aus der Darstellung des Sachverhalts in Rn. 29 des vorliegenden Urteils geht jedoch hervor, dass der zuständige Träger für die Berechnung der Ansprüche von Frau Zaniewicz-Dybeck auf eine Garantierente zum einen gemäß Kapitel 67 § 25 SFB die Einkommens- und die Zusatzrente der Betroffenen, die die Berechnungsgrundlage der Garantierente darstellen, zeitanteilig berechnet hat, was – wie der Generalanwalt in den Nrn. 45 und 46 seiner Schlussanträge ausgeführt hat – der in Art. 46 Abs. 2 Buchst. a und b der Verordnung Nr. 1408/71 vorgesehenen Methode entspricht. Zum anderen hat der zuständige Träger die von Frau Zaniewicz-Dybeck in Polen erworbenen Rentenansprüche bei der zeitanteiligen Berechnung nach Art. 46 Abs. 2 gemäß der rechtlichen Stellungnahme nicht berücksichtigt, sondern den von ihr in Schweden erworbenen Ansprüchen auf eine einkommensabhängige Rente gemäß Art. 47 Abs. 1 Buchst. d der Verordnung Nr. 1408/71 einen jährlichen Wert beigemessen und diesen dann mit der für die Garantierente geltenden maximalen Versicherungszeit von 40 Jahren multipliziert. Wie aus dem Vorlagebeschluss hervorgeht, überstieg das mit der eben beschriebenen Berechnungsmethode erzielte Ergebnis die für die Gewährung einer Garantierente geltende Obergrenze.
+
+50
+
+Wie aus Rn. 48 des vorliegenden Urteils hervorgeht, kann eine solche auf Art. 46 Abs. 2 und Art. 47 Abs. 1 Buchst. d der Verordnung Nr. 1408/71 beruhende Berechnungsmethode nicht angewandt werden, um eine Mindestleistung wie die im Ausgangsverfahren in Rede stehende Garantierente zu berechnen.
+
+51
+
+Der zuständige Träger muss die Garantierente gemäß den Bestimmungen des Art. 50 der Verordnung Nr. 1408/71 und des nationalen Rechts – mit Ausnahme von Kapitel 67 § 25 SFB und der rechtlichen Stellungnahme – berechnen.
+
+52
+
+Daher ist auf die erste Frage zu antworten, dass die Verordnung Nr. 1408/71 dahin auszulegen ist, dass bei der Berechnung einer Mindestleistung wie der im Ausgangsverfahren in Rede stehenden Garantierente durch den zuständigen Träger eines Mitgliedstaats weder Art. 46 Abs. 2 noch Art. 47 Abs. 1 Buchst. d der Verordnung anzuwenden ist. Eine solche Leistung muss gemäß Art. 50 der Verordnung in Verbindung mit dem nationalen Recht – mit Ausnahme von die zeitanteilige Berechnung betreffenden nationalen Rechtsvorschriften wie den im Ausgangsverfahren in Rede stehenden – berechnet werden.
+
+Zur zweiten Frage
+
+53
+
+Mit seiner zweiten Frage möchte das vorlegende Gericht wissen, ob die Verordnung Nr. 1408/71 dahin auszulegen ist, dass sie Rechtsvorschriften eines Mitgliedstaats entgegensteht, nach denen der zuständige Träger bei der Berechnung einer Leistung wie der im Ausgangsverfahren in Rede stehenden Garantierente alle Altersrenten berücksichtigen muss, die der Betroffene tatsächlich aus einem oder mehreren anderen Mitgliedstaaten bezieht.
+
+54
+
+Wie aus der Beantwortung der ersten Frage hervorgeht, ist eine Mindestleistung wie die im Ausgangsverfahren in Rede stehende Garantierente nach Art. 50 der Verordnung Nr. 1408/71 und dem einschlägigen nationalen Recht zu berechnen.
+
+55
+
+Aus den die Garantierente betreffenden nationalen Rechtsvorschriften des SFB, wie sie in Rn. 19 des vorliegenden Urteils wiedergegeben sind, geht ausdrücklich hervor, dass die Altersrenten aus ausländischen Rentenpflichtversicherungen, die der Garantierente nicht gleichgestellt werden können, Teil der Berechnungsgrundlage der Garantierente sind. Somit hat der zuständige Träger im betreffenden Mitgliedstaat gemäß den einschlägigen nationalen Rechtsvorschriften bei der Berechnung der Garantierente die Altersrenten zu berücksichtigen, die der Betroffene aus anderen Mitgliedstaaten bezieht.
+
+56
+
+Unter diesen Umständen ist zu prüfen, ob die Verordnung Nr. 1408/71 und insbesondere ihr Art. 50 den Rechtsvorschriften eines Mitgliedstaats entgegenstehen, nach denen der zuständige Träger im Rahmen der Berechnung von Ansprüchen auf eine Mindestleistung wie die im Ausgangsverfahren in Rede stehende Garantierente Altersrenten berücksichtigen muss, die der Betroffene aus einem anderen Mitgliedstaat bezieht.
+
+57
+
+Nach ständiger Rechtsprechung gilt Art. 50 der Verordnung Nr. 1408/71 für die Fälle, in denen die Beschäftigungszeiten des Arbeitnehmers gemäß den für ihn geltenden Rechtsvorschriften der entsprechenden Staaten verhältnismäßig kurz waren, so dass der Gesamtbetrag der aus diesen Staaten geschuldeten Leistungen kein für einen angemessenen Lebensstandard erforderliches Niveau erreicht (Urteile vom 30. November 1977, Torri, 64/77, EU:C:1977:197, Rn. 5, und vom 17. Dezember 1981, Browning, 22/81, EU:C:1981:316, Rn. 12).
+
+58
+
+Um dem abzuhelfen, bestimmt Art. 50 der Verordnung, dass, wenn das Recht des Wohnsitzstaats eine Mindestleistung vorsieht, die vom Wohnsitzstaat geschuldete Leistung um einen Zuschlag in Höhe des Unterschiedsbetrags zwischen der Summe der von den verschiedenen Staaten geschuldeten Leistungen und dem Betrag der Mindestleistung erhöht wird (Urteil vom 30. November 1977, Torri, 64/77, EU:C:1977:197, Rn. 6).
+
+59
+
+Wie der Generalanwalt in Nr. 59 seiner Schlussanträge ausgeführt hat, sieht daher Art. 50 der Verordnung Nr. 1408/71 für die Berechnung der Ansprüche auf eine Mindestleistung wie die im Ausgangsverfahren in Rede stehende Garantierente vor, dass insbesondere der tatsächliche Betrag der Altersrenten, die der Betroffene aus einem anderen Mitgliedstaat bezieht, zu berücksichtigen ist.
+
+60
+
+Folglich ist auf die zweite Frage zu antworten, dass die Verordnung Nr. 1408/71 und insbesondere ihr Art. 50 dahin auszulegen ist, dass sie Rechtsvorschriften eines Mitgliedstaats, nach denen der zuständige Träger bei der Berechnung einer Mindestleistung wie der im Ausgangsverfahren in Rede stehenden Garantierente alle Altersrenten berücksichtigen muss, die der Betroffene tatsächlich aus einem oder mehreren anderen Mitgliedstaaten bezieht, nicht entgegensteht.
+
+Kosten
+
+61
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Fünfte Kammer) für Recht erkannt:
+
+ 	
+1.
+
+Die Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern, in ihrer durch die Verordnung (EG) Nr. 118/97 des Rates vom 2. Dezember 1996 geänderten und aktualisierten Fassung, geändert durch die Verordnung (EG) Nr. 1606/98 des Rates vom 29. Juni 1998, ist dahin auszulegen, dass bei der Berechnung einer Mindestleistung wie der im Ausgangsverfahren in Rede stehenden Garantierente durch den zuständigen Träger eines Mitgliedstaats weder Art. 46 Abs. 2 noch Art. 47 Abs. 1 Buchst. d der Verordnung anzuwenden ist. Eine solche Leistung muss gemäß Art. 50 der Verordnung in Verbindung mit dem nationalen Recht – mit Ausnahme von die zeitanteilige Berechnung betreffenden nationalen Rechtsvorschriften wie den im Ausgangsverfahren in Rede stehenden – berechnet werden.
+
+ 	
+2.
+
+Die Verordnung Nr. 1408/71 in ihrer durch die Verordnung Nr. 118/97 geänderten und aktualisierten Fassung, geändert durch die Verordnung Nr. 1606/98, und insbesondere ihr Art. 50 ist dahin auszulegen, dass sie Rechtsvorschriften eines Mitgliedstaats, nach denen der zuständige Träger bei der Berechnung einer Mindestleistung wie der im Ausgangsverfahren in Rede stehenden Garantierente alle Altersrenten berücksichtigen muss, die der Betroffene tatsächlich aus einem oder mehreren anderen Mitgliedstaaten bezieht, nicht entgegensteht.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Schwedisch.
