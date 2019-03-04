@@ -1,0 +1,2571 @@
+URTEIL DES GERICHTSHOFS Erste Kammer
+
+ Februar    
+
+Vorlage zur Vorabentscheidung  Art  und  AEUV  Niederlassungsfreiheit  Steuergesetzgebung  Körperschaftsteuer  Mit der Bildung einer steuerlichen Einheit verbundene Vorteile  Ausschluss grenzüberschreitender Konzerne
+
+In den verbundenen Rechtssachen C und C
+
+betreffend zwei Vorabentscheidungsersuchen nach Art  AEUV eingereicht vom Hoge Raad der Nederlanden Oberster Gerichtshof der Niederlande mit Entscheidungen vom  Juli  beim Gerichtshof eingegangen am  Juli  in den Rechtssachen
+
+X BV C
+
+X NV C
+
+gegen
+
+Staatssecretaris van Financiën
+
+erlässt
+
+DER GERICHTSHOF Erste Kammer
+
+unter Mitwirkung der Kammerpräsidentin R Silva de Lapuerta sowie der Richter C G Fernlund JC Bonichot Berichterstatter A Arabadjiev und S Rodin
+
+Generalanwalt M Campos SánchezBordona
+
+Kanzler A Calot Escobar
+
+aufgrund des schriftlichen Verfahrens
+
+unter Berücksichtigung der Erklärungen
+
+
+
+der X BV und der X NV vertreten durch M Sanders advocaat
+
+
+
+der niederländischen Regierung vertreten durch M K Bulterman M H S Gijzen und C S Schillemans als Bevollmächtigte
+
+
+
+der Europäischen Kommission vertreten durch W Roels und N Gossement als Bevollmächtigte
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom  Oktober 
+
+folgendes
+
+Urteil
+
+
+
+Die Vorabentscheidungsersuchen betreffen die Auslegung der Art  und  AEUV
+
+
+
+Sie ergehen im Rahmen von zwei Rechtsstreitigkeiten zwischen der X BV bzw der X NV und dem Staatssecretaris van Financiën Staatssekretär für Finanzen Niederlande im Folgenden Steuerbehörde über die steuerliche Absetzbarkeit von Darlehenszinsen X BV bzw von Währungsverlusten X NV
+
+Niederländisches Recht
+
+
+
+Art a der Wet op de vennootschapsbelasting  Körperschaftsteuergesetz  im Folgenden KStG lautet
+
+
+
+   Bei der Gewinnermittlung  sind Zinsen  einschließlich Aufwendungen und Währungsergebnissen  nicht abzugsfähig die ein rechtlich oder tatsächlich unmittelbar oder mittelbar einem verbundenen Unternehmen oder einer verbundenen natürlichen Person geschuldetes Darlehen betreffen wenn das Darlehen mit einer der folgenden Rechtshandlungen zusammenhängt
+
+a
+
+
+
+b
+
+Erwerb von  einschließlich Einzahlungen auf  Anteilen Genussscheinen Anteilsscheinen Mitgliedsrechten oder beim Schuldner faktisch als Eigenvermögen im Sinne von Art  Abs  Buchst d funktionierende Forderungen eines verbundenen Unternehmens es sei denn es wird eine Änderung an den endgültigen Beteiligungs oder Kontrollverhältnissen in diesem Unternehmen vorgenommen 
+
+   Abs  findet keine Anwendung wenn der Steuerpflichtige glaubhaft macht dass
+
+a
+
+dem Darlehen und der damit zusammenhängenden Rechtshandlung überwiegend wirtschaftliche Erwägungen zugrunde liegen oder
+
+b
+
+von den Zinsen bei der Person der die Zinsen rechtlich oder tatsächlich unmittelbar oder mittelbar geschuldet sind letztlich eine nach niederländischen Maßstäben angemessene Gewinn oder Einkommensteuer erhoben wird und weder Verluste noch andere Forderungen aus den Jahren vor dem Jahr der Darlehensaufnahme mit der Folge verrechnet werden dass letztlich nach den genannten angemessenen Maßstäben auf die Zinsen keine Steuer geschuldet ist außer wenn anzunehmen ist dass das Darlehen zur Verrechnung von Verlusten oder anderen Forderungen aufgenommen wurde die im selben Jahr entstanden sind oder kurzfristig entstehen werden
+
+
+
+Art  Abs  KStG sieht vor
+
+Bei der Gewinnermittlung bleiben die Vorteile aus einer Beteiligung sowie die Aufwendungen betreffend den Erwerb oder die Veräußerung dieser Beteiligung außer Betracht Beteiligungsfreistellung
+
+
+
+Art d KStG sieht vor
+
+   Die Beteiligungsfreistellung findet keine Anwendung auf Verluste im Zusammenhang mit einer Beteiligung die durch die Auflösung der Körperschaft deren Anteile der Steuerpflichtige hält entstanden sind Liquidationsverlust
+
+   Der Liquidationsverlust entspricht dem Betrag um den der von dem Steuerpflichtigen für die Anteile aufgewendete Betrag die Summe der Liquidationserlöse übersteigt 
+
+
+
+Art  KStG lautet
+
+   Besitzt ein Steuerpflichtiger Muttergesellschaft das rechtliche und wirtschaftliche Eigentum an mindestens   der Anteile am eingezahlten Nennkapital eines anderen Steuerpflichtigen Tochtergesellschaft wird auf Antrag beider Steuerpflichtiger die Steuer bei ihnen so erhoben als handelte es sich um einen einzigen Steuerpflichtigen in dem Sinne dass die Tätigkeiten und das Vermögen der Tochtergesellschaft Teil der Tätigkeiten und des Vermögens der Muttergesellschaft sind Die Steuer wird bei der Muttergesellschaft erhoben In diesem Fall gelten die Steuerpflichtigen zusammen als steuerliche Einheit Zu einer steuerlichen Einheit können mehrere Tochtergesellschaften gehören
+
+   Unter Besitz im Sinne von Abs  ist auch ein mittelbarer Besitz von Anteilen anzusehen wenn diese unmittelbar von einem oder mehreren Steuerpflichtigen gehalten werden die zu der steuerlichen Einheit gehören
+
+   Abs  gilt nur sofern
+
+
+
+c
+
+beide Steuerpflichtige in den Niederlanden ansässig sind 
+
+Ausgangsverfahren und Vorlagefragen
+
+Rechtssache C
+
+
+
+Die niederländische Gesellschaft X BV ist Teil eines schwedischen Konzerns zu dem auch eine italienische Gesellschaft gehört Um Anteile an dieser Gesellschaft zu kaufen die sich im Eigentum Dritter befanden gründete die X BV eine andere italienische Gesellschaft in die sie ein Kapital von  Euro einlegte Diese Einlage wurde mit einem Darlehen einer schwedischen Konzerngesellschaft an die X BV finanziert  schuldete die X BV aufgrund dieses Darlehens der darlehensgebenden Gesellschaft Zinsen in Höhe von  Euro In ihrer Körperschaftsteuererklärung für das Jahr  brachte die X BV diese Zinsen in Abzug Die Steuerbehörde ließ diesen Abzug jedoch unter Berufung auf Art a Abs  Buchst b KStG nicht zu und erließ einen Steuerbescheid der von der X BV vor den niederländischen Gerichten angefochten wurde
+
+
+
+Mit dem gegen diesen Bescheid eingelegten Rechtsbehelf machte die X BV geltend sie hätte die Darlehenszinsen von ihrem Ergebnis abziehen dürfen wenn sie mit ihrer italienischen Tochtergesellschaft eine steuerliche Einheit hätte bilden können Da diese Möglichkeit nach niederländischem Recht gebietsansässigen Gesellschaften vorbehalten sei werde ihre Niederlassungsfreiheit unter Verstoß gegen die Art  und  AEUV beschränkt
+
+
+
+Der Hoge Raad der Nederlanden Oberster Gerichtshof der Niederlande bei dem der Rechtsstreit im Rahmen einer Kassationsbeschwerde anhängig ist hat beschlossen das Verfahren auszusetzen und dem Gerichtshof folgende Frage zur Vorabentscheidung vorzulegen
+
+Sind die Art  und  AEUV dahin auszulegen dass sie einer nationalen Regelung entgegenstehen aufgrund deren einer in einem Mitgliedstaat niedergelassenen Muttergesellschaft in Bezug auf ein Darlehen das mit einer Kapitaleinlage in eine in einem anderen Mitgliedstaat ansässige Tochtergesellschaft zusammenhängt ein Zinsabzug verwehrt wird während dieser Abzug in Anspruch genommen werden könnte wenn die genannte Tochtergesellschaft in eine steuerliche Einheit  mit den Merkmalen einer niederländischen steuerlichen Einheit  mit der erwähnten Muttergesellschaft aufgenommen worden wäre weil dann durch die Konsolidierung der Zusammenhang mit einer solchen Kapitaleinlage nicht zu erkennen gewesen wäre
+
+Rechtssache C
+
+
+
+Die X NV eine Gesellschaft niederländischen Rechts ist mittelbare Eigentümerin einer im Vereinigten Königreich ansässigen Tochtergesellschaft In ihren Körperschaftsteuererklärungen für die Steuerjahre  und  zog die X NV aus Wechselkursschwankungen resultierende Wertverluste ihrer Anteile als Aufwendungen ab Unter Berufung auf Art  Abs  KStG wonach für die Gewinnermittlung weder Vorteile noch Verluste aus einer Beteiligung berücksichtigt werden lehnte die Steuerbehörde diesen Abzug ab
+
+
+
+Die X NV focht den Steuerbescheid für die Jahre  und  mit der Begründung an sie hätte den Kursverlust von ihrem Ergebnis abziehen dürfen wenn sie mit ihrer Tochtergesellschaft eine steuerliche Einheit hätte bilden können Da diese Möglichkeit nach niederländischem Recht gebietsansässigen Gesellschaften vorbehalten sei werde ihre Niederlassungsfreiheit unter Verstoß gegen die Art  und  AEUV beschränkt
+
+
+
+Der Hoge Raad der Nederlanden Oberster Gerichtshof der Niederlande bei dem der Rechtsstreit im Rahmen einer Kassationsbeschwerde anhängig ist hat beschlossen das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen
+
+
+
+Sind die Art  und  AEUV dahin auszulegen dass sie einer nationalen Regelung entgegenstehen aufgrund deren eine in einem Mitgliedstaat niedergelassene Muttergesellschaft in Bezug auf den Betrag den sie in eine in einem anderen Mitgliedstaat ansässige Tochtergesellschaft investiert hat keinen Währungsverlust berücksichtigen kann während sie dies tun könnte wenn die genannte Tochtergesellschaft in eine steuerliche Einheit  mit den Merkmalen einer niederländischen steuerlichen Einheit  mit der im erstgenannten Mitgliedstaat ansässigen Muttergesellschaft aufgenommen worden wäre was auf die Konsolidierung innerhalb der steuerlichen Einheit zurückzuführen ist
+
+
+
+Sofern Frage  bejaht wird Kann oder muss bei der Ermittlung des zu berücksichtigenden Währungsverlusts in diesem Fall davon ausgegangen werden dass auch eine oder mehrere von der betreffenden Muttergesellschaft mittelbar  über diese in Frage  genannte Tochtergesellschaft  gehaltene und in der Europäischen Union ansässige direkte und indirekte Tochtergesellschaften in die steuerliche Einheit aufgenommen worden wären
+
+
+
+Sofern Frage  bejaht wird Sind in diesem Fall lediglich Währungsverluste zu berücksichtigen die sich bei einer Aufnahme in die steuerliche Einheit der Muttergesellschaft in den Jahren auf die sich der Rechtsstreit bezieht niedergeschlagen hätten oder sind auch die Währungsergebnisse zu berücksichtigen die sich in früheren Jahren niedergeschlagen hätten
+
+
+
+Mit Entscheidung des Präsidenten des Gerichtshofs vom  August  sind die Rechtssachen C und C zu gemeinsamem schriftlichen und mündlichen Verfahren und zu gemeinsamer Entscheidung verbunden worden
+
+Zum Antrag auf Wiedereröffnung des mündlichen Verfahrens
+
+
+
+Nach der Verlesung der Schlussanträge des Generalanwalts am  Oktober  hat die X NV mit am  November  bei der Kanzlei des Gerichtshofs eingegangenem Schriftsatz die Wiedereröffnung des mündlichen Verfahrens in der Rechtssache C beantragt Zur Stützung ihres Antrags hat sie im Wesentlichen vorgetragen die Schlussanträge beruhten auf einer falschen Auslegung der betreffenden niederländischen Steuervorschriften
+
+
+
+Mit am  Januar  bei der Kanzlei des Gerichtshofs eingegangenem Schriftsatz hat die X BV ebenfalls die Wiedereröffnung des mündlichen Verfahrens in der Rechtssache C beantragt
+
+
+
+Hierzu ist darauf hinzuweisen dass der Gerichtshof gemäß Art  seiner Verfahrensordnung jederzeit nach Anhörung des Generalanwalts die Wiedereröffnung des mündlichen Verfahrens beschließen kann insbesondere wenn er sich für unzureichend unterrichtet hält oder wenn ein zwischen den Parteien oder den in Art  der Satzung des Gerichtshofs der Europäischen Union bezeichneten Beteiligten nicht erörtertes Vorbringen entscheidungserheblich ist Urteil Nordzucker C EUC Rn 
+
+
+
+Vorliegend hält sich der Gerichtshof nach Anhörung des Generalanwalts für ausreichend unterrichtet um eine Entscheidung zu treffen und erachtet in den Rechtssachen C und C kein Vorbringen für entscheidungserheblich das nicht erörtert worden wäre Unter diesen Umständen ist das mündliche Verfahren nicht wiederzueröffnen
+
+Zu den Vorlagefragen
+
+Vorbemerkungen
+
+
+
+Nach Art  AEUV sind Beschränkungen der freien Niederlassung von Staatsangehörigen eines Mitgliedstaats im Hoheitsgebiet eines anderen Mitgliedstaats zu beseitigen Mit dieser Freiheit ist für die im Einklang mit den Rechtsvorschriften eines Mitgliedstaats gegründeten Gesellschaften die ihren satzungsmäßigen Sitz ihre Hauptverwaltung oder ihre Hauptniederlassung in der Union haben  die nach Art  AEUV für die Ausübung der Niederlassungsfreiheit den Staatsangehörigen der Mitgliedstaaten gleichstehen  das Recht verbunden ihre Tätigkeit in anderen Mitgliedstaaten durch eine Tochtergesellschaft Zweigniederlassung oder Agentur auszuüben vgl in diesem Sinne Urteile vom  Mai  Verder LabTec C EUC Rn  und vom  September  Groupe Steria C EUC Rn 
+
+
+
+Auch wenn die Bestimmungen über die Niederlassungsfreiheit ihrem Wortlaut nach die Inländerbehandlung im Aufnahmemitgliedstaat gewährleisten sollen verbieten sie es ebenso dem Herkunftsmitgliedstaat die Niederlassung eines seiner Staatsangehörigen oder einer im Einklang mit seinen Rechtsvorschriften errichteten Gesellschaft in einem anderen Mitgliedstaat zu beschränken
+
+
+
+Eine Ungleichbehandlung aufgrund einer mitgliedstaatlichen Regelung die für Gesellschaften die ihre Niederlassungsfreiheit ausüben nachteilig ist stellt indes keine Beschränkung dieser Freiheit dar wenn sie Situationen betrifft die nicht objektiv miteinander vergleichbar sind oder durch einen zwingenden Grund des Allgemeininteresses gerechtfertigt ist und in angemessenem Verhältnis zu diesem Ziel steht vgl in diesem Sinne Urteile vom  Dezember  Test Claimants in the FII Group Litigation C EUC Rn  und vom  Februar  X Holding C EUC Rn 
+
+
+
+Im Urteil vom  Februar  X Holding C EUC hat sich der Gerichtshof bereits dazu geäußert ob mitgliedstaatliche Steuerregelungen wie die niederländische nach denen es ansässigen Muttergesellschaften und ihren ansässigen Tochtergesellschaften vorbehalten ist eine Regelung der steuerlichen Integration in Anspruch zu nehmen also so besteuert zu werden als bildeten sie eine steuerliche Einheit mit dem Unionsrecht vereinbar sind Eine solche Regelung ist für die betreffenden Gesellschaften ein Vorteil da insbesondere Gewinne und Verluste der in die steuerliche Einheit einbezogenen Gesellschaften auf der Ebene der Muttergesellschaft konsolidiert und innerhalb der Einheit getätigte Transaktionen steuerlich neutral gehalten werden können
+
+
+
+In Rn  jenes Urteils hat der Gerichtshof dargelegt dass es für eine Muttergesellschaft die eine Tochtergesellschaft in einem anderen Mitgliedstaat besitzt und der dieser Vorteil verwehrt wird weniger attraktiv werden kann von ihrer Niederlassungsfreiheit Gebrauch zu machen weil sie davon abgehalten wird in anderen Mitgliedstaaten Tochtergesellschaften zu gründen
+
+
+
+Gleichwohl hat der Gerichtshof in Rn  jenes Urteils entschieden dass die in Rede stehende Ungleichbehandlung durch das Erfordernis gerechtfertigt ist die Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten zu wahren und dass die sich daraus ergebende Beschränkung der Niederlassungsfreiheit mit diesem Ziel im Verhältnis steht
+
+
+
+Aus dem Urteil vom  Februar  X Holding C EUC lässt sich allerdings nicht ableiten dass jede Ungleichbehandlung von Gesellschaften eines steuerlichen Konzerns und von Gesellschaften die einem solchen Konzern nicht angehören mit Art  AEUV vereinbar ist In Bezug auf andere Steuervorteile als die Übertragung von Verlusten innerhalb des steuerlichen Konzerns ist demnach gesondert zu prüfen ob ein Mitgliedstaat diese Vorteile den Gesellschaften eines steuerlichen Konzerns vorbehalten und sie daher in grenzüberschreitenden Situationen ausschließen darf vgl in diesem Sinne Urteil vom  September  Groupe Steria C EUC Rn  und 
+
+
+
+In beiden Ausgangsverfahren tragen die klagenden Gesellschaften die gebietsfremde Tochtergesellschaften besitzen vor sie seien aufgrund dieses Umstands von anderen steuerlichen Vorteilen als der Übertragung von Verlusten innerhalb des steuerlichen Konzerns ausgeschlossen die nach der niederländischen Regelung ungerechtfertigt steuerlichen Einheiten vorbehalten seien Das vorlegende Gericht möchte vom Gerichtshof wissen ob Art  AEUV dahin auszulegen ist dass er diese Ungleichbehandlung verbietet
+
+Zur Frage in der Rechtssache C
+
+
+
+Mit seiner Frage möchte das vorlegende Gericht wissen ob die Art  und  AEUV dahin auszulegen sind dass sie einer nationalen Regelung wie der im Ausgangsverfahren fraglichen entgegenstehen wonach eine in einem Mitgliedstaat ansässige Muttergesellschaft Zinsen eines bei einem verbundenen Unternehmen aufgenommenen Darlehens zur Finanzierung einer Kapitaleinlage in eine in einem anderen Mitgliedstaat ansässige Tochtergesellschaft nicht abziehen darf während ihr wenn die Tochtergesellschaft im selben Mitgliedstaat ansässig wäre der Abzug durch die Bildung einer steuerlichen Einheit mit dieser Gesellschaft möglich wäre
+
+Zur Ungleichbehandlung
+
+
+
+Gemäß Art a Abs  Buchst b KStG können Zinsen die ein bei einem verbundenen Unternehmen aufgenommenes Darlehen betreffen nicht vom steuerbaren Gewinn abgezogen werden wenn dieses Darlehen mit einer Kapitaleinlage in ein verbundenes Unternehmen insbesondere in Form eines Anteilserwerbs zusammenhängt Nach Art a Abs  Buchst a KStG verhält es sich jedoch anders wenn der Steuerpflichtige glaubhaft macht dass dem Darlehen und der damit zusammenhängenden Rechtshandlung überwiegend wirtschaftliche Erwägungen zugrunde liegen
+
+
+
+Außerdem ist es nach Art  KStG ansässigen Gesellschaften möglich sich zu einer steuerlichen Einheit zusammenzuschließen Wie in Rn  des vorliegenden Urteils ausgeführt werden die Gesellschaften die von dieser Möglichkeit Gebrauch machen gemeinsam bei der Muttergesellschaft besteuert Innerhalb der steuerlichen Einheit gelten wechselseitige Beteiligungsverhältnisse zwischen den Gesellschaften wie Kapitaleinlagen einer Mutter in ihre Tochtergesellschaft aufgrund der Konsolidierung steuerlich als nicht vorhanden
+
+
+
+Nach den Angaben des vorlegenden Gerichts ist eine Kapitaleinlage im Rahmen einer steuerlichen Einheit nicht sichtbar daher findet Art a Abs  Buchst b KStG keine Anwendung auf eine Gesellschaft die für eine Kapitaleinlage in Form des Erwerbs von Anteilen ihrer Tochtergesellschaft mit der sie eine steuerliche Einheit bildet ein Darlehen von einem verbundenen Unternehmen aufnimmt In diesem Fall kann die Gesellschaft demnach die Darlehenszinsen von ihrem steuerbaren Gewinn abziehen ohne die in Art a Abs  KStG genannten Bedingungen erfüllen zu müssen
+
+
+
+Da gemäß Art  Abs  KStG nur in den Niederlanden ansässige Steuerpflichtige eine steuerliche Einheit bilden können liegt eine Ungleichbehandlung vor zwischen einer niederländischen Muttergesellschaft die ihre ebenfalls niederländische Tochtergesellschaft mit einem bei einem verbundenen Unternehmen aufgenommenen Darlehen finanziert und der ein Abzug der Darlehenszinsen nicht in Anwendung von Art a KStG verwehrt werden kann und einer niederländischen Muttergesellschaft die ihre ausländische Tochtergesellschaft auf dieselbe Weise finanziert der aber aufgrund derselben Vorschriften der Zinsabzug verwehrt werden kann
+
+
+
+Vorliegend hat die X BV den Erwerb von Anteilen an ihrer italienischen Tochtergesellschaft mit einem Darlehen einer schwedischen Gesellschaft desselben Konzerns finanziert Der Zinsabzug für dieses Darlehen wurde ihr von der Steuerbehörde in Anwendung von Art a Abs  Buchst b KStG verwehrt weil sie den wirtschaftlichen Nutzen dieses Darlehens nicht glaubhaft gemacht habe Die X BV trägt vor sie wäre günstiger behandelt worden wenn ihre Tochtergesellschaft gebietsansässig gewesen wäre weil sie dann mit ihr eine steuerliche Einheit hätte bilden und damit die Darlehenszinsen von ihrem Ergebnis unbeschränkt hätte abziehen können
+
+
+
+Diese Ungleichbehandlung kann die Ausübung der Niederlassungsfreiheit einer Muttergesellschaft durch die Gründung von Tochtergesellschaften in anderen Mitgliedstaaten weniger attraktiv machen Entsprechend den Ausführungen in Rn  des vorliegenden Urteils ist sie nur dann mit den Bestimmungen des Vertrags vereinbar wenn sie Situationen betrifft die nicht objektiv miteinander vergleichbar sind oder durch einen zwingenden Grund des Allgemeininteresses gerechtfertigt ist
+
+Zur Vergleichbarkeit der Situationen
+
+
+
+Ob die grenzübergreifende und die interne Situation vergleichbar sind ist unter Berücksichtigung des Zwecks und des Inhalts der fraglichen nationalen Vorschriften zu ermitteln vgl in diesem Sinne Urteil vom  Dezember  X C EUC Rn 
+
+
+
+Vorliegend beruht die Ungleichbehandlung auf dem Zusammenspiel von Art a Abs  Buchst b und Art  KStG Diese Vorschriften haben unterschiedliche Zwecke Mit Art a Abs  Buchst b KStG soll die Aushöhlung der niederländischen Steuerbemessungsgrundlage durch künstliche konzerninterne Finanzierungsgestaltungen verhindert werden nach Art  KStG können auf der Ebene der Muttergesellschaft Gewinne und Verluste der in die steuerliche Einheit einbezogenen Gesellschaften konsolidiert und konzerninterne Transaktionen steuerlich neutral gehalten werden Nach den Angaben des vorlegenden Gerichts hat die Regelung der steuerlichen Einheit u a zur Folge dass infolge der Konsolidierung die  für die Anwendung von Art a Abs  Buchst b KStG maßgebliche  Verbindung zwischen dem Darlehen und der Kapitaleinlage aufgehoben wird
+
+
+
+In Art a Abs  Buchst b KStG selbst wird indes nicht danach unterschieden ob der Konzern grenzübergreifend ist oder nicht Folglich ist angesichts der von dem vorlegenden Gericht erläuterten Konsequenz der Konsolidierung allein anhand des Zwecks von Art  KStG zu ermitteln ob die Situationen vergleichbar sind
+
+
+
+Der Gerichtshof hat zur niederländischen Regelung der steuerlichen Einheit bereits entschieden dass die Situation einer gebietsansässigen Muttergesellschaft die eine steuerliche Einheit mit einer gebietsansässigen Tochtergesellschaft bilden will und die Situation einer gebietsansässigen Muttergesellschaft die eine steuerliche Einheit mit einer gebietsfremden Tochtergesellschaft bilden will im Hinblick auf das Ziel dieser Steuerregelung objektiv vergleichbar sind Urteil vom  Februar  X Holding C EUC Rn 
+
+
+
+Daher sind die grenzübergreifende und die interne Situation im Hinblick auf das Zusammenspiel der im Ausgangsverfahren fraglichen nationalen Bestimmungen vergleichbar somit besteht auch eine Ungleichbehandlung Diese könnte jedoch aus zwingenden Gründen des Allgemeininteresses gerechtfertigt sein
+
+Zur Rechtfertigung
+
+
+
+Der niederländischen Regierung und dem vorlegenden Gericht zufolge kommen für die Rechtfertigung der in Rn  des vorliegenden Urteils beschriebenen Ungleichbehandlung mehrere Gründe in Betracht
+
+
+
+Erstens ist zu prüfen ob die Ungleichbehandlung damit gerechtfertigt werden kann dass die Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten zu wahren ist Wie in Rn  des vorliegenden Urteils ausgeführt hat der Gerichtshof im Urteil vom  Februar  X Holding C EUC entschieden dass die Konsolidierung der Gewinne und Verluste der in die steuerliche Einheit einbezogenen Gesellschaften auf der Ebene der Muttergesellschaft einen Vorteil darstellt bei dem es durch das Erfordernis die Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten zu wahren gerechtfertigt ist ihn ansässigen Gesellschaften vorzubehalten
+
+
+
+Jedoch ist der Vorteil auf den sich die X BV hier beruft nicht mit dem Vorteil zu verwechseln den die Konsolidierung innerhalb der steuerlichen Einheit verschafft Im Ausgangsverfahren geht es um die Möglichkeit eines Zinsabzugs und nicht um den der steuerlichen Einheit eigenen allgemeinen Ausgleich der Aufwendungen und Gewinne Das Abzugsrecht ist im niederländischen Recht nicht den steuerlichen Einheiten vorbehalten sondern wird allen Gesellschaften gewährt und nur in der besonderen Konstellation und unter den Bedingungen die in Art a Abs  Buchst b KStG genannt sind eingeschränkt Eine Muttergesellschaft die mit ihrer Tochtergesellschaft eine steuerliche Einheit bildet und nicht unter diese Beschränkung fällt erhält also keinen speziell mit der steuerlichen Behandlung der steuerlichen Einheit zusammenhängenden Vorteil
+
+
+
+Dies ist umso mehr der Fall als Art a Abs  Buchst b KStG anscheinend unabhängig vom Besteuerungsort des Zinseinkommens also von der Frage welchem Staat die Steuereinkünfte zufließen angewandt wird Hierzu macht die niederländische Regierung im Übrigen keine Angaben
+
+
+
+Folglich kann die Ungleichbehandlung nicht damit gerechtfertigt werden dass die Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten gewahrt werden muss
+
+
+
+Zweitens fragt das vorlegende Gericht ob die Beschränkung dadurch gerechtfertigt sein könnte dass die Kohärenz des niederländischen Steuersystems zu wahren ist Der Gerichtshof hat entschieden dass dies ein zwingender Grund des Allgemeininteresses ist allerdings nur dann wenn ein unmittelbarer Zusammenhang zwischen dem betreffenden steuerlichen Vorteil und dessen Ausgleich durch eine bestimmte steuerliche Belastung nachgewiesen wird wobei die Unmittelbarkeit dieses Zusammenhangs anhand des Ziels der fraglichen Regelung zu beurteilen ist Urteil vom  September  Groupe Steria C EUC Rn  und die dort angeführte Rechtsprechung
+
+
+
+Ein solcher Zusammenhang wird von der niederländischen Regierung jedoch gar nicht behauptet Sie trägt lediglich allgemein vor die Regelung der steuerlichen Einheit sei eine kohärente aus Vor und Nachteilen bestehende Gesamtregelung Jedenfalls führt sie keinen spezifischen Gesichtspunkt an aus dem sich ableiten ließe dass die Kohärenz der Regelung der steuerlichen Einheit in Gefahr wäre wenn Zinsen aus einem zur Finanzierung des Erwerbs von Anteilen an einer gebietsfremden Tochtergesellschaft aufgenommenen Darlehen abgezogen werden dürften
+
+
+
+Mithin ist die in Rn  des vorliegenden Urteils genannte Ungleichbehandlung nicht dadurch gerechtfertigt dass die Kohärenz des niederländischen Steuersystems gewahrt werden muss
+
+
+
+Drittens ist nach Ansicht der niederländischen Regierung die Ungleichbehandlung durch die Bekämpfung von Steuervermeidung und hinterziehung gerechtfertigt Sie solle rein künstliche jeder wirtschaftlichen Realität bare Gestaltungen verhindern die der Umgehung von Steuern dienten die normalerweise auf Gewinne aus Tätigkeiten im nationalen Hoheitsgebiet geschuldet seien
+
+
+
+Aus der Rechtsprechung des Gerichtshofs insbesondere aus Rn  des Urteils vom  Juli  ICI C EUC und Rn  des Urteils vom  September  Cadbury Schweppes und Cadbury Schweppes Overseas C EUC ergibt sich dass dieses Ziel ein zwingender Grund des Allgemeininteresses im Bereich des Steuerrechts sein kann
+
+
+
+Unbestreitbar ist dies das mit Art a Abs  Buchst b KStG verfolgte Ziel Wie von dem vorlegenden Gericht ausgeführt soll verhindert werden dass das Eigenkapital eines Konzerns künstlich als von einem niederländischen Konzernmitglied aufgenommene Kreditmittel erscheint und die Darlehenszinsen vom steuerbaren Ergebnis in den Niederlanden abgezogen werden Der Zweck des Verbots Zinsen aus konzerninternen Darlehen abzuziehen wird ausdrücklich durch die Regel in Art a Abs  Buchst a KStG bestätigt wonach die Darlehenszinsen abziehbar sind wenn die konzerninterne Rechtshandlung wirtschaftlich gerechtfertigt ist
+
+
+
+Allerdings lässt sich eine Beschränkung der Niederlassungsfreiheit nur dann mit der Verhinderung missbräuchlicher Praktiken rechtfertigen wenn diese Beschränkung auch spezifisch deren Verhinderung zum Ziel hat vgl in diesem Sinne Urteil vom  September  Cadbury Schweppes und Cadbury Schweppes Overseas C EUC Rn  Die niederländische Regierung versucht jedoch nicht einmal nachzuweisen dass die in Rn  des vorliegenden Urteils genannte Ungleichbehandlung auf diese Absicht zurückzuführen ist Dies kann außerdem auch nicht sein da die Ungleichbehandlung nicht allein auf Art a Abs  Buchst b KStG beruht sondern auf dem Zusammenspiel zwischen diesem Artikel und Art  KStG über die steuerliche Einheit  mit dem ein ganz anderer Zweck verfolgt wird siehe Rn  des vorliegenden Urteils
+
+
+
+Wie der Generalanwalt in Nr  seiner Schlussanträge ausgeführt hat ist die Ungleichbehandlung ferner objektiv nicht durch die Verhinderung missbräuchlicher Praktiken zu rechtfertigen Finanziert eine Muttergesellschaft den Erwerb von Anteilen an einer Tochtergesellschaft mit einem bei einem verbundenen anderen Unternehmen aufgenommenen Darlehen ist das Risiko dass dieses Darlehen keinem tatsächlichen wirtschaftlichen Vorgang entspricht sondern künstlich eine abzugsfähige Aufwendung schaffen soll nämlich nicht weniger hoch wenn Mutter und Tochtergesellschaft im selben Mitgliedstaat ansässig sind und eine steuerliche Einheit bilden als wenn die Tochtergesellschaft in einem anderen Mitgliedstaat ansässig ist und daher mit ihrer Muttergesellschaft keine steuerliche Einheit bilden darf
+
+
+
+Aus alledem folgt dass auf die in der Rechtssache C gestellte Frage zu antworten ist dass die Art  und  AEUV dahin auszulegen sind dass sie einer nationalen Regelung wie der im Ausgangsverfahren fraglichen entgegenstehen wonach eine in einem Mitgliedstaat ansässige Muttergesellschaft Zinsen eines bei einem verbundenen Unternehmen aufgenommenen Darlehens zur Finanzierung einer Kapitaleinlage in eine in einem anderen Mitgliedstaat ansässige Tochtergesellschaft nicht abziehen darf während ihr wenn die Tochtergesellschaft im selben Mitgliedstaat ansässig wäre der Abzug durch die Bildung einer steuerlichen Einheit mit dieser Gesellschaft möglich wäre
+
+Zu den Fragen in der Rechtssache C
+
+Zur erste Frage
+
+
+
+Mit seiner ersten Frage möchte das vorlegende Gericht wissen ob die Art  und  AEUV dahin auszulegen sind dass sie einer nationalen Regelung wie der im Ausgangsverfahren fraglichen entgegenstehen wonach eine in einem Mitgliedstaat ansässige Muttergesellschaft durch Wechselkursschwankungen bedingte Wertverluste ihrer Beteiligung an einer in einem anderen Mitgliedstaat ansässigen Tochtergesellschaft nicht von ihren Gewinnen abziehen darf wenn nach dieser Regelung durch Wechselkursschwankungen bedingte Wertsteigerungen entsprechend auch nicht besteuert werden
+
+
+
+Nach Art  Abs  KStG bleiben bei der Gewinnermittlung die Vorteile aus einer Beteiligung sowie die Aufwendungen betreffend den Erwerb oder die Veräußerung dieser Beteiligung außer Betracht
+
+
+
+Diese Beteiligungsfreistellung genannte Regelung hat u a zur Folge dass sowohl Wertsteigerungen als auch verluste einer Beteiligung die sich aus der Kursentwicklung der Fremdwährung ergeben in der der Beteiligungswert ausgedrückt ist bei der Gewinnermittlung unberücksichtigt bleiben
+
+
+
+Aus diesem Grund kann die X NV den Wechselkursverlust den sie auf ihre Investition als Anteilseignerin ihrer im Vereinigten Königreich ansässigen Tochtergesellschaft erlitten hat nicht von ihrem steuerbaren Gewinn abziehen Den Erläuterungen des vorlegenden Gerichts zufolge wäre dies hingegen  als Folge der Konsolidierung im Rahmen einer steuerlichen Einheit  möglich wenn die Tochtergesellschaft in den Niederlanden ansässig gewesen wäre Die X NV macht daher eine Diskriminierung geltend die eine Beschränkung der Niederlassungsfreiheit darstelle
+
+
+
+Diese Situationen sind jedoch nicht objektiv vergleichbar Denn eine niederländische Gesellschaft kann keine Wechselkursverluste auf ihre Beteiligung an einer ansässigen Tochtergesellschaft erleiden außer in dem ganz besonderen Fall dass diese Beteiligung in einer anderen Währung lautet als die in der das Ergebnis der Gesellschaft ausgedrückt wird
+
+
+
+Selbst in diesem Fall ist eine Ungleichbehandlung fraglich Entsprechend den Ausführungen in Rn  des vorliegenden Urteils sind die wechselseitigen Beteiligungsverhältnisse nämlich innerhalb einer steuerlichen Einheit steuerlich neutral Der Wertverlust der Beteiligung der Muttergesellschaft an ihrer gebietsansässigen Tochtergesellschaft mit der sie eine steuerliche Einheit bildet ist also vom Ergebnis der Einheit nicht abziehbar gleich ob er auf Wechselkursschwankungen oder anderen Gründen beruht
+
+
+
+Schließlich hat der Gerichtshof jedenfalls entschieden dass aus den Bestimmungen des AEUVertrags über die Niederlassungsfreiheit nicht abgeleitet werden kann dass ein Mitgliedstaat seine steuerliche Zuständigkeit asymmetrisch auszuüben hätte um die Abzugsfähigkeit von Verlusten aus Umsätzen zuzulassen deren Ergebnisse wären sie positiv jedenfalls nicht besteuert würden Urteil vom  Juni  X C EUC Rn  und 
+
+
+
+Dass eine niederländische Gesellschaft die durch ihre Beteiligung an einer gebietsfremden Tochtergesellschaft entstehenden Wechselkursverluste nicht abziehen darf verursacht ihr einen Nachteil der untrennbar mit dem entsprechenden Vorteil der Nichtbesteuerung der Wechselkursgewinne verbunden ist Die Beteiligungsfreistellung ist wie das vorlegende Gericht darlegt a priori weder vorteilhaft noch nachteilig Sie begründet somit keine für niederländische Gesellschaften die in einem anderen Mitgliedstaat eine Tochtergesellschaft besitzen nachteilige Ungleichbehandlung und schränkt demnach auch die Niederlassungsfreiheit nicht ein
+
+
+
+Daher ist auf die erste Frage in der Rechtssache C zu antworten dass die Art  und  AEUV dahin auszulegen sind dass sie einer nationalen Regelung wie der im Ausgangsverfahren fraglichen nicht entgegenstehen wonach eine in einem Mitgliedstaat ansässige Muttergesellschaft durch Wechselkursschwankungen bedingte Wertverluste ihrer Beteiligung an einer in einem anderen Mitgliedstaat ansässigen Tochtergesellschaft nicht von ihren Gewinnen abziehen darf wenn nach dieser Regelung durch Wechselkursschwankungen bedingte Wertsteigerungen entsprechend auch nicht besteuert werden
+
+Zur zweiten und zur dritten Frage
+
+
+
+Angesichts der Antwort auf die erste Frage sind die zweite und die dritte Frage in der Rechtssache C nicht zu beantworten
+
+Kosten
+
+
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem bei dem vorlegenden Gericht anhängigen Rechtsstreit die Kostenentscheidung ist daher Sache dieses Gerichts Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig
+
+ 	
+Aus diesen Gründen hat der Gerichtshof Erste Kammer für Recht erkannt
+
+ 	
+
+
+Die Art  und  AEUV sind dahin auszulegen dass sie einer nationalen Regelung wie der im Ausgangsverfahren fraglichen entgegenstehen wonach eine in einem Mitgliedstaat ansässige Muttergesellschaft Zinsen eines bei einem verbundenen Unternehmen aufgenommenen Darlehens zur Finanzierung einer Kapitaleinlage in eine in einem anderen Mitgliedstaat ansässige Tochtergesellschaft nicht abziehen darf während ihr wenn die Tochtergesellschaft im selben Mitgliedstaat ansässig wäre der Abzug durch die Bildung einer steuerlichen Einheit mit dieser Gesellschaft möglich wäre
+
+ 	
+
+
+Die Art  und  AEUV sind dahin auszulegen dass sie einer nationalen Regelung wie der im Ausgangsverfahren fraglichen nicht entgegenstehen wonach eine in einem Mitgliedstaat ansässige Muttergesellschaft durch Wechselkursschwankungen bedingte Wertverluste ihrer Beteiligung an einer in einem anderen Mitgliedstaat ansässigen Tochtergesellschaft nicht von ihren Gewinnen abziehen darf wenn nach dieser Regelung durch Wechselkursschwankungen bedingte Wertsteigerungen entsprechend auch nicht besteuert werden
+
+ 	
+Unterschriften
+
+  	Verfahrenssprache NiederländischURTEIL DES GERICHTSHOFS Erste Kammer
+
+ März    
+
+Vorlage zur Vorabentscheidung  Soziale Sicherheit  Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft  Koordinierung der Systeme der sozialen Sicherheit  Verordnung EG Nr   Art   und   Leistungen bei Arbeitslosigkeit  Arbeitsloser der sich in einen anderen Mitgliedstaat begibt  Aufrechterhaltung des Leistungsanspruchs  Dauer
+
+In der Rechtssache C
+
+betreffend ein Vorabentscheidungsersuchen nach Art  AEUV eingereicht vom Centrale Raad van Beroep Berufungsgericht in Sachen der sozialen Sicherheit und des öffentlichen Dienstes Niederlande mit Entscheidung vom  Oktober  beim Gerichtshof eingegangen am  Oktober  in dem Verfahren
+
+J Klein Schiphorst
+
+gegen
+
+Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen
+
+erlässt
+
+DER GERICHTSHOF Erste Kammer
+
+unter Mitwirkung der Kammerpräsidentin R Silva de Lapuerta Berichterstatterin sowie der Richter C G Fernlund A Arabadjiev S Rodin und E Regan
+
+Generalanwalt P Mengozzi
+
+Kanzler M Ferreira Hauptverwaltungsrätin
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom  September 
+
+unter Berücksichtigung der Erklärungen
+
+
+
+des Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen vertreten durch J Hut als Bevollmächtigte
+
+
+
+der niederländischen Regierung vertreten durch M L Noort und K Bulterman als Bevollmächtigte
+
+
+
+der tschechischen Regierung vertreten durch M Smolek J Pavliš und J Vláčil als Bevollmächtigte
+
+
+
+der dänischen Regierung vertreten durch M Wolff C Thorning und J NymannLindegren als Bevollmächtigte
+
+
+
+der polnischen Regierung vertreten durch B Majczyna als Bevollmächtigten
+
+
+
+der schwedischen Regierung vertreten durch A Falk C MeyerSeitz H Shev L Swedenborg und F Bergius als Bevollmächtigte
+
+
+
+der norwegischen Regierung vertreten durch K Moen und D Lund als Bevollmächtigte
+
+
+
+der Europäischen Kommission vertreten durch M van Beek und D Martin als Bevollmächtigte
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom  November 
+
+folgendes
+
+Urteil
+
+
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art  Abs  Buchst c der Verordnung EG Nr  des Europäischen Parlaments und des Rates vom  April  zur Koordinierung der Systeme der sozialen Sicherheit ABl  L  S  berichtigt im ABl  L  S  in der durch die Verordnung EU Nr  des Europäischen Parlaments und des Rates vom  Mai  ABl  L  S  geänderten Fassung im Folgenden Verordnung Nr 
+
+
+
+Es ergeht in einem Rechtsstreit zwischen Herrn Klein Schiphorst und dem Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen Verwaltungsrat des Durchführungsinstituts für Arbeitnehmerversicherungen Niederlande über die Ablehnung des Antrags von Herrn Klein Schiphorst den Zeitraum für den Export seiner Leistungen bei Arbeitslosigkeit über drei Monate hinaus zu verlängern
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+Abkommen EGSchweiz
+
+
+
+Das Abkommen zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit das am  Juni  in Luxemburg unterzeichnet wurde und im Namen der Europäischen Gemeinschaft mit dem Beschluss EG Euratom des Rates und  bezüglich des Abkommens über die wissenschaftliche und technische Zusammenarbeit  der Kommission vom  April  über den Abschluss von sieben Abkommen mit der Schweizerischen Eidgenossenschaft ABl  L  S  genehmigt wurde im Folgenden Abkommen EGSchweiz bestimmt in Art 
+
+Die Vertragsparteien regeln die Koordinierung der Systeme der sozialen Sicherheit gemäß Anhang II um insbesondere Folgendes zu gewährleisten
+
+
+
+b
+
+Bestimmung der anzuwendenden Rechtsvorschriften
+
+
+
+d
+
+Zahlung der Leistungen an Personen die ihren Wohnsitz im Hoheitsgebiet der Vertragsparteien haben
+
+
+
+
+
+Art  des Anhangs II des Abkommens EGSchweiz über die Koordinierung der Systeme der sozialen Sicherheit in der durch den Beschluss Nr  des gemischten Ausschusses eingesetzt im Rahmen des Abkommens zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit vom  März  ABl  L  S  geänderten Fassung sieht vor
+
+   Die Vertragsparteien kommen überein im Bereich der Koordinierung der Systeme der sozialen Sicherheit untereinander die in Abschnitt A dieses Anhangs genannten Rechtsakte der Europäischen Union in der durch diesen Abschnitt geänderten Fassung oder gleichwertige Vorschriften anzuwenden
+
+   Der Begriff Mitgliedstaaten in den Rechtsakten auf die in Abschnitt A dieses Anhangs Bezug genommen wird ist außer auf die durch die betreffenden Rechtsakte der Europäischen Union erfassten Staaten auch auf die Schweiz anzuwenden
+
+
+
+In Abschnitt A dieses Anhangs wird u a auf die Verordnung Nr  Bezug genommen
+
+Verordnung Nr 
+
+
+
+Die Erwägungsgründe    und  der Verordnung Nr  lauten
+
+
+
+Die Verordnung EWG Nr  des Rates vom  Juni  über die Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige die innerhalb der Gemeinschaft zu und abwandern ABl  L  S  ist mehrfach geändert und aktualisiert worden um nicht nur den Entwicklungen auf Gemeinschaftsebene  einschließlich der Urteile des Gerichtshofes  sondern auch den Änderungen der Rechtsvorschriften auf nationaler Ebene Rechnung zu tragen Diese Faktoren haben dazu beigetragen dass die gemeinschaftlichen Koordinierungsregeln komplex und umfangreich geworden sind Zur Erreichung des Ziels des freien Personenverkehrs ist es daher von wesentlicher Bedeutung diese Vorschriften zu ersetzen und dabei gleichzeitig zu aktualisieren und zu vereinfachen
+
+
+
+Es ist notwendig die Eigenheiten der nationalen Rechtsvorschriften über soziale Sicherheit zu berücksichtigen und nur eine Koordinierungsregelung vorzusehen
+
+
+
+
+
+Zur Förderung der Mobilität der Arbeitnehmer ist vor allem ihre Arbeitsuche in den verschiedenen Mitgliedstaaten zu erleichtern daher ist eine stärkere und wirksamere Koordinierung zwischen den Systemen der Arbeitslosenversicherung und der Arbeitsverwaltung aller Mitgliedstaaten notwendig
+
+
+
+Da das Ziel der beabsichtigten Maßnahme nämlich Koordinierungsmaßnahmen zur Sicherstellung dass das Recht auf Freizügigkeit wirksam ausgeübt werden kann auf Ebene der Mitgliedstaaten nicht ausreichend erreicht werden kann und daher wegen des Umfangs und der Wirkungen der Maßnahme besser auf Gemeinschaftsebene zu erreichen ist kann die Gemeinschaft im Einklang mit dem in Artikel  des Vertrags niedergelegten Subsidiaritätsprinzip tätig werden Entsprechend dem in demselben Artikel genannten Verhältnismäßigkeitsprinzip geht diese Verordnung nicht über das für die Erreichung dieses Ziels erforderliche Maß hinaus
+
+
+
+Art  Abs  der Verordnung Nr  sieht vor
+
+Diese Verordnung gilt für Staatsangehörige eines Mitgliedstaats Staatenlose und Flüchtlinge mit Wohnort in einem Mitgliedstaat für die die Rechtsvorschriften eines oder mehrerer Mitgliedstaaten gelten oder galten sowie für ihre Familienangehörigen und Hinterbliebenen
+
+
+
+Art  Abs  dieser Verordnung bestimmt
+
+Diese Verordnung gilt für alle Rechtsvorschriften die folgende Zweige der sozialen Sicherheit betreffen
+
+
+
+h
+
+Leistungen bei Arbeitslosigkeit
+
+
+
+
+
+Art  Aufhebung der Wohnortklauseln der Verordnung lautet
+
+Sofern in dieser Verordnung nichts anderes bestimmt ist dürfen Geldleistungen die nach den Rechtsvorschriften eines oder mehrerer Mitgliedstaaten oder nach dieser Verordnung zu zahlen sind nicht aufgrund der Tatsache gekürzt geändert zum Ruhen gebracht entzogen oder beschlagnahmt werden dass der Berechtigte oder seine Familienangehörigen in einem anderen als dem Mitgliedstaat wohnt bzw wohnen in dem der zur Zahlung verpflichtete Träger seinen Sitz hat
+
+
+
+Art  Besondere Bestimmungen für die Aufhebung der Wohnortklauseln der Verordnung bestimmt
+
+Für die Zwecke dieses Kapitels gilt Artikel  nur in den in den Artikeln   und a vorgesehenen Fällen und Grenzen
+
+
+
+Art  Arbeitslose die sich in einen anderen Mitgliedstaat begeben der Verordnung sieht vor
+
+   Eine vollarbeitslose Person die die Voraussetzungen für einen Leistungsanspruch nach den Rechtsvorschriften des zuständigen Mitgliedstaats erfüllt und sich zur Arbeitsuche in einen anderen Mitgliedstaat begibt behält den Anspruch auf Geldleistungen bei Arbeitslosigkeit unter folgenden Bedingungen und innerhalb der folgenden Grenzen
+
+
+
+c
+
+der Leistungsanspruch wird während drei Monaten von dem Zeitpunkt an aufrechterhalten ab dem der Arbeitslose der Arbeitsverwaltung des Mitgliedstaats den er verlassen hat nicht mehr zur Verfügung gestanden hat vorausgesetzt die Gesamtdauer der Leistungsgewährung überschreitet nicht den Gesamtzeitraum für den nach den Rechtsvorschriften dieses Mitgliedstaats ein Leistungsanspruch besteht der Zeitraum von drei Monaten kann von der zuständigen Arbeitsverwaltung oder dem zuständigen Träger auf höchstens sechs Monate verlängert werden
+
+
+
+   Kehrt die betreffende Person bei Ablauf oder vor Ablauf des Zeitraums für den sie nach Absatz  Buchstabe c einen Leistungsanspruch hat in den zuständigen Mitgliedstaat zurück so hat sie weiterhin einen Leistungsanspruch nach den Rechtsvorschriften dieses Mitgliedstaats Sie verliert jedoch jeden Leistungsanspruch nach den Rechtsvorschriften des zuständigen Mitgliedstaats wenn sie nicht bei Ablauf oder vor Ablauf dieses Zeitraums dorthin zurückkehrt es sei denn diese Rechtsvorschriften sehen eine günstigere Regelung vor In Ausnahmefällen kann die zuständige Arbeitsverwaltung oder der zuständige Träger der betreffenden Person gestatten zu einem späteren Zeitpunkt zurückzukehren ohne dass sie ihren Anspruch verliert
+
+
+
+Niederländisches Recht
+
+
+
+Art  der Algemene wet bestuursrecht Allgemeines Verwaltungsrechtsgesetz bestimmt
+
+   Die Verwaltungsbehörde nimmt eine Abwägung der unmittelbar durch den Bescheid betroffenen Interessen vor soweit sich nicht aus einer Rechtsvorschrift oder aus der Art der auszuübenden Zuständigkeit eine Beschränkung ergibt
+
+   Die sich für einen oder mehrere Beteiligte ergebenden Nachteile eines Bescheids dürfen nicht außer Verhältnis zu den mit dem Bescheid zu verfolgenden Zielen stehen
+
+
+
+Gemäß Art  Abs  Buchst e der Werkloosheidswet Arbeitslosigkeitsgesetz im Folgenden WW hat ein Arbeitnehmer der seinen Wohnsitz außerhalb der Niederlande hat oder sich zu anderen als Urlaubszwecken außerhalb der Niederlande aufhält keinen Anspruch auf Leistungen
+
+
+
+Art  Abs  und  WW sieht vor
+
+   Abweichend von Abs  Buchst e bleibt der Leistungsanspruch eines Arbeitnehmers der sich zu anderen als Urlaubszwecken außerhalb der Niederlande aufhält bestehen wenn der Arbeitnehmer während dieses Aufenthalts an einer Tätigkeit mitwirkt die für seine Eingliederung in die Arbeitswelt im Sinne der Kapitel VI und XA förderlich ist sofern
+
+a
+
+diese Tätigkeit nicht länger als sechs Monate andauert
+
+b
+
+diese Tätigkeit ausweislich einer Absichtserklärung eine tatsächliche Aussicht auf ein anschließendes Beschäftigungsverhältnis für wenigstens sechs Monate bietet und
+
+c
+
+diese Tätigkeit in einem Mitgliedstaat der Europäischen Union in einem anderen Staat der Vertragspartei des Abkommens über den Europäischen Wirtschaftsraum ist oder in der Schweiz stattfindet
+
+   Für die Zwecke dieses Artikels bezeichnet der Begriff Absichtserklärung eine unterzeichnete Erklärung in der der Unterzeichner angibt dass er beabsichtigt einen Arbeitnehmer der an einer Tätigkeit mitwirkt die für seine Eingliederung in die Arbeitswelt im Sinne der Kapitel VI und XA förderlich ist nach Ablauf dieser Tätigkeit zu beschäftigen
+
+Ausgangsverfahren und Vorlagefragen
+
+
+
+Herr Klein Schiphorst ein niederländischer Staatsangehöriger der seinen Wohnsitz in den Niederlanden hatte und dort seit dem  Mai  Leistungen bei Arbeitslosigkeit nach der WW bezog teilte dem Durchführungsinstitut für Arbeitnehmerversicherungen im Folgenden Uwv am  Juli  mit dass er sich zur Arbeitsuche in die Schweiz begeben wolle Zu diesem Zweck beantragte er die Aufrechterhaltung seiner Ansprüche auf Leistungen bei Arbeitslosigkeit
+
+
+
+Mit Bescheid vom  August  gab das Uwv diesem Antrag von Herrn Klein Schiphorst für den Zeitraum vom  September  bis  November  statt
+
+
+
+Mit EMail vom  November  beantragte Herr Klein Schiphorst beim Uwv gemäß der Verordnung Nr  die Verlängerung des Zeitraums für den Export seiner Ansprüche auf Leistungen bei Arbeitslosigkeit über drei Monate hinaus
+
+
+
+Mit Bescheiden vom  November  und  Januar  lehnte das Uwv diesen Antrag ab und wies den Widerspruch gegen die Ablehnung zurück Im Widerspruchsbescheid erläuterte das Uwv dass es von der der zuständigen Arbeitsverwaltung oder dem zuständigen Träger in Art  Abs  Buchst c der Verordnung Nr  eingeräumten Möglichkeit den Zeitraum für den Export von Leistungen bei Arbeitslosigkeit auf höchstens sechs Monate zu verlängern keinen Gebrauch mache
+
+
+
+Mit Urteil vom  Oktober  gab die Rechtbank Amsterdam Bezirksgericht Amsterdam Niederlande der Klage von Herrn Klein Schiphorst gegen den Bescheid des Uwv vom  Januar  mit der Begründung statt das Uwv habe nicht ausreichend begründet warum es diese Möglichkeit nicht wahrnehme
+
+
+
+Mit Bescheid vom  November  erklärte das Uwv den Widerspruch von Herrn Klein Schiphorst gegen den Bescheid vom  November  erneut für unbegründet Es halte die Chancen eine Beschäftigung zu finden in den Niederlanden im Allgemeinen für größer als in anderen Ländern und folge daher gemäß der Weisung des Minister van Sociale zaken en Werkgelegenheid Minister für Soziales und Beschäftigung Niederlande dem Grundsatz den Export von Leistungen bei Arbeitslosigkeit nach dem Zeitraum von drei Monaten nicht zu verlängern Die Bemühungen von Herrn Klein Schiphorst eine Beschäftigung in der Schweiz zu finden und die Umstände auf die er sich berufe seien nicht geeignet es im vorliegenden Fall als unvernünftig zu betrachten diesem Grundsatz zu folgen
+
+
+
+Mit Urteil vom  Juni  wies die Rechtbank Amsterdam Bezirksgericht Amsterdam die Klage von Herrn Klein Schiphorst gegen den Bescheid vom  November  ab Das Gericht war der Ansicht dass es dem Uwv in Anbetracht des Ermessenscharakters der in Art  Abs  Buchst c der Verordnung Nr  vorgesehenen Möglichkeit freistehe diese nach den nationalen Rechtsvorschriften wahrzunehmen
+
+
+
+Herr Klein Schiphorst legte gegen dieses Urteil Berufung beim Centrale Raad van Beroep Berufungsgericht in Sachen der sozialen Sicherheit und des öffentlichen Dienstes Niederlande ein
+
+
+
+Vor diesem Hintergrund bezweifelt das vorlegende Gericht dass der Bescheid des Uwv mit dem abgelehnt wurde zugunsten von Herrn Klein Schiphorst von der der zuständigen Arbeitsverwaltung oder dem zuständigen Träger in Art  Abs  Buchst c zweiter Halbsatz der Verordnung Nr  eingeräumten Möglichkeit Gebrauch zu machen den Zeitraum des Exports von Leistungen bei Arbeitslosigkeit über drei Monate hinaus zu verlängern mit dem Unionsrecht vereinbar ist
+
+
+
+Insbesondere möchte das vorlegende Gericht wissen ob es den Mitgliedstaaten gestattet ist von dieser Befugnis unter keinen Umständen Gebrauch zu machen Ist dies zu verneinen hält es das vorlegende Gericht für erforderlich festzustellen ob es den Mitgliedstaaten angesichts des Ziels und des Inhalts der Verordnung Nr  des Verbots der Aufstellung von Wohnsitzklauseln sowie der Freizügigkeit der Unionsbürger und Arbeitnehmer möglich ist die Wahrnehmung dieser Befugnis grundsätzlich abzulehnen und davon nur konkret unter besonderen Umständen Gebrauch zu machen Ist dies auch zu verneinen möchte das vorlegende Gericht wissen wie die Mitgliedstaaten von dieser Befugnis Gebrauch machen müssen
+
+
+
+Unter diesen Umständen hat der Centrale Raad van Beroep Berufungsgericht in Sachen der sozialen Sicherheit und des öffentlichen Dienstes das Verfahren ausgesetzt und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorgelegt
+
+
+
+Darf die in Art  Abs  Buchst c a E der Verordnung Nr  eingeräumte Befugnis in Anbetracht ihrer Art  und  des Ziels und des Inhalts der Verordnung sowie der Freizügigkeit von Personen und Arbeitnehmern in der Weise wahrgenommen werden dass ein Antrag auf Verlängerung des Zeitraums für den Export einer Leistung bei Arbeitslosigkeit grundsätzlich abgelehnt wird es sei denn die Verlängerung des Exportzeitraums kann nach Ansicht des Uwv unter den besonderen Umständen des Einzelfalls  beispielsweise bei Bestehen einer konkreten und nachweisbaren Aussicht auf Beschäftigung  vernünftigerweise nicht verweigert werden
+
+
+
+Falls nein Wie haben die Mitgliedstaaten die in Art  Abs  Buchst c a E der Verordnung Nr  eingeräumte Befugnis wahrzunehmen
+
+Zu den Vorlagefragen
+
+Einleitende Bemerkungen
+
+
+
+Die Vorlagefragen betreffen die Auslegung der Verordnung Nr  insbesondere von Art  in dem die Bedingungen festgelegt sind unter denen eine vollarbeitslose Person die die Voraussetzungen für einen Leistungsanspruch nach den Rechtsvorschriften des zuständigen Mitgliedstaats erfüllt und sich zur Arbeitsuche in einen anderen Mitgliedstaat begibt den Anspruch auf Geldleistungen bei Arbeitslosigkeit behält
+
+
+
+Im vorliegenden Fall ergibt sich aus der Vorlageentscheidung dass der Ausgangsrechtsstreit die Aufrechterhaltung des Anspruchs eines niederländischen Staatsangehörigen auf Leistungen bei Arbeitslosigkeit betrifft der sich zur Arbeitsuche nicht in einen anderen Mitgliedstaat sondern in einen Drittstaat und zwar die Schweizerische Eidgenossenschaft begeben hat
+
+
+
+Nach Art  des Abkommens EGSchweiz regeln die Vertragsparteien die Koordinierung der Systeme der sozialen Sicherheit gemäß Anhang II dieses Abkommens um insbesondere die Bestimmung der anzuwendenden Rechtsvorschriften und die Zahlung der Leistungen an Personen die ihren Wohnsitz im Hoheitsgebiet der Vertragsparteien haben zu gewährleisten Gemäß Abschnitt A Nr  des Anhangs II des Abkommens EGSchweiz ist zwischen den Vertragsparteien die Verordnung Nr  anwendbar Da nach Art  Abs  des Anhangs II der Begriff Mitgliedstaaten in den Rechtsakten auf die in Abschnitt A dieses Anhangs Bezug genommen wird  außer auf die durch die betreffenden Rechtsakte der Europäischen Union erfassten Staaten auch auf die Schweiz anzuwenden ist erfassen die Bestimmungen dieser Verordnung somit auch die Schweizerische Eidgenossenschaft
+
+
+
+Daher fällt die Situation des Klägers des Ausgangsverfahrens eines Staatsangehörigen eines Mitgliedstaats der den niederländischen Rechtsvorschriften über die Leistungen bei Arbeitslosigkeit unterliegt und sich zur Arbeitsuche in die Schweiz begibt unter die Verordnung Nr 
+
+Zur ersten Frage
+
+
+
+Mit seiner ersten Frage möchte das vorlegende Gericht wissen ob Art  Abs  Buchst c der Verordnung Nr  dahin auszulegen ist dass er einer nationalen Maßnahme wie der im Ausgangsverfahren fraglichen entgegensteht die es dem zuständigen Träger zur Pflicht macht grundsätzlich jeden Antrag auf Verlängerung des Zeitraums für den Export von Leistungen bei Arbeitslosigkeit über drei Monate hinaus abzulehnen es sei denn nach Ansicht dieses Trägers würde die Ablehnung des Antrags zu einem unangemessenen Ergebnis führen
+
+
+
+Das Ziel der Verordnung Nr  besteht nach ihren Erwägungsgründen  und  darin die Systeme der sozialen Sicherheit in den Mitgliedstaaten zu koordinieren um sicherzustellen dass das Recht auf Freizügigkeit wirksam ausgeübt werden kann Mit dieser Verordnung wurden die Vorschriften der Verordnung Nr  aktualisiert und vereinfacht dabei jedoch das Ziel letztgenannter Verordnung beibehalten
+
+
+
+Wie sich aus Art  Abs  der Verordnung Nr  ergibt behält eine vollarbeitslose Person die die Voraussetzungen für einen Leistungsanspruch nach den Rechtsvorschriften des zuständigen Mitgliedstaats erfüllt und sich zur Arbeitsuche in einen anderen Mitgliedstaat begibt den Anspruch auf Geldleistungen bei Arbeitslosigkeit unter den Bedingungen und innerhalb der Grenzen die in dieser Vorschrift aufgeführt sind
+
+
+
+Art  Abs  Buchst c erster Halbsatz dieser Verordnung sieht vor dass der Leistungsanspruch während drei Monaten von dem Zeitpunkt an aufrechterhalten wird ab dem der Arbeitslose der Arbeitsverwaltung des Mitgliedstaats den er verlassen hat nicht mehr zur Verfügung gestanden hat vorausgesetzt die Gesamtdauer der Leistungsgewährung überschreitet nicht den Gesamtzeitraum für den nach den Rechtsvorschriften dieses Mitgliedstaats ein Leistungsanspruch besteht In Art  Abs  Buchst c zweiter Halbsatz der Verordnung heißt es dagegen dass der Zeitraum von drei Monaten von der zuständigen Arbeitsverwaltung oder dem zuständigen Träger auf höchstens sechs Monate verlängert werden kann
+
+
+
+Nach ständiger Rechtsprechung des Gerichtshofs sind bei der Auslegung einer Vorschrift des Unionsrechts nicht nur ihr Wortlaut sondern auch ihr Zusammenhang und die Ziele zu berücksichtigen die mit der Regelung zu der sie gehört verfolgt werden Urteil vom  November  Ognyanov C EUC Rn 
+
+
+
+Dem Wortlaut von Art  Abs  Buchst c erster Halbsatz der Verordnung Nr  lässt sich zweifelsfrei entnehmen dass der Anspruch auf Leistungen bei Arbeitslosigkeit für eine vollarbeitslose Person die sich zur Arbeitsuche in einen anderen Mitgliedstaat begibt für einen Zeitraum von drei Monaten sichergestellt wird Der Gerichtshof hat insoweit bereits zu Art  der Verordnung Nr  der Vorgängerregelung von Art  der Verordnung Nr  entschieden dass nach dieser Bestimmung ein arbeitsloser Arbeitnehmer zum Zweck der Arbeitsuche in einem anderen Mitgliedstaat für einen bestimmten Zeitraum von der Verpflichtung nach dem jeweiligen innerstaatlichen Recht befreit werden kann der Arbeitsverwaltung des zuständigen Staates zur Verfügung zu stehen ohne dass er deshalb seinen Anspruch auf Leistungen bei Arbeitslosigkeit gegen diesen Staat verliert Urteile vom  Juni  Testa u a   und  EUC Rn  und vom  Februar  Rydergård C EUC Rn 
+
+
+
+In Art  Abs  Buchst c zweiter Halbsatz der Verordnung Nr  heißt es dass der fragliche Zeitraum von drei Monaten von der zuständigen Arbeitsverwaltung oder dem zuständigen Träger auf höchstens sechs Monate verlängert werden kann
+
+
+
+Wie von der niederländischen der dänischen der schwedischen und der norwegischen Regierung in ihren schriftlichen Erklärungen vorgetragen ergibt sich aus der Verwendung des Worts kann dass der Wortlaut dieser Bestimmung dem zuständigen Träger nicht zur Pflicht macht den Zeitraum in dem die Leistungen bei Arbeitslosigkeit die eine vollarbeitslose Person erhält die sich zur Arbeitsuche in einen anderen Mitgliedstaat begibt aufrechterhalten werden auf höchstens sechs Monate zu verlängern
+
+
+
+Ferner zeigt die Entstehungsgeschichte dieser Bestimmung entsprechend dem Vorbringen aller Beteiligten in der mündlichen Verhandlung dass wie auch der Generalanwalt in Nr  seiner Schlussanträge ausgeführt hat der ursprüngliche Vorschlag der Kommission einen Exportzeitraum von sechs Monaten verpflichtend vorzuschreiben keine Zustimmung im Rat der Europäischen Union fand so dass sich die Mitgliedstaaten schließlich auf die Formel in Art  Abs  Buchst c zweiter Halbsatz der Verordnung Nr  einigten
+
+
+
+Zum Kontext in dem Art  Abs  Buchst c der Verordnung Nr  steht ist zum einen darauf hinzuweisen dass die Leistungen bei Arbeitslosigkeit nach Art  Abs  Buchst d der Verordnung Nr  vom zuständigen Träger nach den für ihn geltenden Rechtsvorschriften und für seine Rechnung gewährt werden
+
+
+
+Zum anderen ergibt sich aus Art  Abs  dieser Verordnung dass zwar die betreffende Person wenn sie nicht bei Ablauf oder vor Ablauf des Zeitraums für den sie nach Art  Abs  Buchst c der Verordnung einen Leistungsanspruch hat  d h drei Monate oder gegebenenfalls wenn der zuständige Träger den Zeitraum verlängert hat höchstens sechs Monate  in den zuständigen Mitgliedstaat zurückkehrt jeden Leistungsanspruch nach den Rechtsvorschriften des zuständigen Mitgliedstaats verliert dass aber der Träger der betreffenden Person in Ausnahmefällen gestatten kann zu einem späteren Zeitpunkt zurückzukehren ohne dass sie ihren Anspruch verliert
+
+
+
+Wie der Generalanwalt in Nr  seiner Schlussanträge ausgeführt hat erlaubt diese Bestimmung u a dem zuständigen Träger den Zeitraum von drei Monaten in dem die betreffende Person einen Leistungsanspruch hat in Ausnahmefällen zu verlängern um zu vermeiden dass der Verlust aller Leistungsansprüche bei verspäteter Rückkehr nach Ablauf dieses Zeitraums zu unverhältnismäßigen Ergebnissen führt Diese Möglichkeit bestätigt das der Zeitraum für den Export von Leistungen bei Arbeitslosigkeit auf drei Monate begrenzt sein darf denn der zuständige Träger ist gemäß Art  Abs  Buchst c zweiter Halbsatz der Verordnung Nr  nicht verpflichtet ihn auf höchstens sechs Monate zu verlängern
+
+
+
+Dies findet darin Bestätigung dass in der Verordnung Nr  nicht festgelegt ist unter welchen Bedingungen eine vollarbeitslose Person die sich zur Arbeitsuche in einen anderen Mitgliedstaat begibt in den Genuss der Verlängerung dieses Zeitraums über drei Monate hinaus kommen kann
+
+
+
+Was das Ziel der Verordnung Nr  betrifft soll diese wie oben in Rn  ausgeführt die in den Mitgliedstaaten geltenden Systeme der sozialen Sicherheit koordinieren um sicherzustellen dass das Recht auf Freizügigkeit wirksam ausgeübt werden kann
+
+
+
+Insoweit ist zu beachten dass diese Verordnung kein gemeinsames System der sozialen Sicherheit schafft sondern unterschiedliche nationale Systeme bestehen lässt und diese nur koordinieren soll um sicherzustellen dass das Recht auf Freizügigkeit wirksam ausgeübt werden kann Sie lässt somit unterschiedliche Systeme bestehen die zu unterschiedlichen Forderungen gegen unterschiedliche Träger führen gegen die dem Leistungsberechtigten unmittelbare Ansprüche entweder allein nach dem nationalen Recht oder nach dem erforderlichenfalls durch Unionsrecht ergänzten nationalen Recht zustehen vgl in diesem Sinne Urteile vom  September  Brey C EUC Rn  und vom  Juni  KommissionVereinigtes Königreich C EUC Rn 
+
+
+
+Darüber hinaus hat der Gerichtshof noch zur Verordnung Nr  festgestellt dass der Anspruch auf Weitergewährung der Leistungen bei Arbeitslosigkeit während eines Zeitraums von drei Monaten dazu beiträgt die Freizügigkeit der Arbeitnehmer sicherzustellen vgl in diesem Sinne Urteil vom  Juni  Testa u a   und  EUC Rn  Diese Folgerung muss auch für die Verordnung Nr  gelten soweit diese  abgesehen davon dass sie den Export von Leistungen bei Arbeitslosigkeit während eines Zeitraums von drei Monaten gewährleistet  auch gestattet diesen Zeitraum auf höchstens sechs Monate zu verlängern
+
+
+
+Folglich gewährleistet Art  Abs  Buchst c der Verordnung Nr  den Export von Leistungen bei Arbeitslosigkeit nur für einen Zeitraum von drei Monaten gestattet es jedoch diesen Zeitraum nach nationalem Recht auf höchstens sechs Monate zu verlängern
+
+
+
+Diese Auslegung wird nicht durch den in Art  der Verordnung Nr  vorgesehenen Grundsatz der Aufhebung der Wohnsitzklauseln in Frage gestellt auf den das vorlegende Gericht in seiner Vorlagefrage ausdrücklich Bezug nimmt
+
+
+
+Aus dieser Vorschrift insbesondere aus der Wendung sofern in der Verordnung Nr  nichts anderes bestimmt ist folgt nämlich dass diese Verordnung spezielle vom Grundsatz der Aufhebung der Wohnortklauseln abweichende Vorschriften enthält Eine solche ist Art  Besondere Bestimmungen für die Aufhebung der Wohnortklauseln der Verordnung wonach bei vollarbeitslosen Personen die die Voraussetzungen für einen Leistungsanspruch nach den Rechtsvorschriften des zuständigen Mitgliedstaats erfüllen und sich in einen anderen Mitgliedstaat begeben die Aufhebung der Wohnsitzklausel nur in den in Art  dieser Verordnung vorgesehenen Fällen und Grenzen gilt
+
+
+
+Wie die dänische die schwedische und die norwegische Regierung in der mündlichen Verhandlung ausgeführt haben ergibt sich aus einer gemeinsamen Betrachtung der Art   und  Abs  Buchst c der Verordnung Nr  dass die Exportierbarkeit von Leistungen bei Arbeitslosigkeit im Fall einer vollarbeitslosen Person die sich zur Arbeitsuche in einen anderen Mitgliedstaat begibt zum einen während des Zeitraums von drei Monaten nach Art  Abs  Buchst c erster Halbsatz und zum anderen gegebenenfalls während des weiteren Zeitraums von höchstens sechs Monaten sichergestellt ist falls der betreffenden Person nach den nationalen Rechtsvorschriften des jeweiligen Mitgliedstaats eine Verlängerung des Zeitraums von drei Monaten gewährt wurde
+
+
+
+Im Übrigen können wie der Generalanwalt sinngemäß in den Nrn  und  seiner Schlussanträge ausgeführt hat die Unterschiede zwischen den Systemen und Maßnahmen der Mitgliedstaaten die von der Befugnis nach Art  Abs  Buchst c zweiter Halbsatz der Verordnung Nr  Gebrauch gemacht haben nicht als Beschränkungen der Freizügigkeit der Arbeitnehmer angesehen werden da Art  AEUV eine Koordinierung und keine Harmonisierung der Rechtsvorschriften der Mitgliedstaaten vorsieht und daher die materiellen und formellen Unterschiede zwischen den Systemen der sozialen Sicherheit der einzelnen Mitgliedstaaten und folglich zwischen den Ansprüchen der diesen Systemen angeschlossenen Personen von dieser Bestimmung unberührt bleiben vgl in diesem Sinne Urteile vom  Juli  von ChamierGlisczinski C EUC Rn  und vom  April  Jeltes u a C EUC Rn 
+
+
+
+Die Kriterien anhand deren der zuständige Träger den Zeitraum für den Export von Leistungen bei Arbeitslosigkeit auf höchstens sechs Monate verlängern kann sind in der Verordnung Nr  nicht geregelt Wenn der betroffene Mitgliedstaat wie in der vorliegenden Rechtssache die Befugnis nach Art  Abs  Buchst c zweiter Halbsatz der Verordnung Nr  wahrgenommen hat ist er daher verpflichtet unter Beachtung des Unionsrechts nationale Maßnahmen zu erlassen die das Ermessen des zuständigen Trägers regeln indem er u a festlegt unter welchen Bedingungen einem Arbeitslosen der sich zur Arbeitsuche in einen anderen Mitgliedstaat begibt eine Verlängerung des Zeitraums für den Export von Leistungen bei Arbeitslosigkeit über drei Monate hinaus auf höchstens sechs Monate gewährt werden muss oder nicht
+
+
+
+Im vorliegenden Fall ergibt sich aus den dem Gerichtshof vorgelegten Akten sowie den Ausführungen der niederländischen Regierung in der mündlichen Verhandlung dass das Königreich der Niederlande entsprechend einer Weisung des Ministers für Soziales und Beschäftigung von Januar  zunächst darauf verzichtet hat die Befugnis nach Art  Abs  Buchst c zweiter Halbsatz der Verordnung Nr  wahrzunehmen Nachdem die Rechtbank Amsterdam Bezirksgericht Amsterdam in einem Urteil vom  Oktober  entschieden hat dass die Ablehnung eines Antrags auf Verlängerung des Zeitraums für den Export von Leistungen bei Arbeitslosigkeit über drei Monate hinaus zu begründen sei hat das Uwv jedoch unter Aufrechterhaltung des Grundsatzes dass einem solchen Antrag nicht stattgegeben werden könne festgestellt dass die besonderen Umstände des jeweiligen Falles u a eine konkrete und nachweisbare Aussicht auf Beschäftigung es rechtfertigen könnten dem Antrag stattzugeben Wie aus den Angaben im Vorabentscheidungsersuchen hervorgeht war das Uwv der Ansicht dass solche Umstände vorlägen wenn sich die betreffende Person in einer mit einer Aussicht auf Beschäftigung verbundenen Maßnahme befinde für die eine Verlängerung des Aufenthalts im Aufnahmemitgliedstaat erforderlich sei oder wenn die betreffende Person eine Absichtserklärung eines Arbeitgebers vorgelegt habe die ihm eine reelle Aussicht auf ein Beschäftigungsverhältnis in diesem Mitgliedstaat eröffne
+
+
+
+Unter diesen Umständen hält sich wie der Generalanwalt in Nr  seiner Schlussanträge ausgeführt hat ein Mitgliedstaat innerhalb der vom Unionsrecht vorgegebenen Grenzen wenn er Maßnahmen erlässt wonach die Verlängerung des Zeitraums für den Export von Leistungen bei Arbeitslosigkeit auf höchstens sechs Monate nur gewährt werden kann wenn bestimmte Bedingungen erfüllt sind
+
+
+
+Nach alledem ist auf die erste Vorlagefrage zu antworten dass Art  Abs  Buchst c der Verordnung Nr  dahin auszulegen ist dass er einer nationalen Maßnahme wie der im Ausgangsverfahren fraglichen nicht entgegensteht die es dem zuständigen Träger zur Pflicht macht grundsätzlich jeden Antrag auf Verlängerung des Zeitraums für den Export von Leistungen bei Arbeitslosigkeit über drei Monate hinaus abzulehnen es sei denn nach Ansicht dieses Trägers würde die Ablehnung des Antrags zu einem unangemessenen Ergebnis führen
+
+Zur zweiten Frage
+
+
+
+In Anbetracht der Antwort auf die erste Frage braucht die zweite Frage nicht beantwortet zu werden
+
+Kosten
+
+
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit die Kostenentscheidung ist daher Sache dieses Gerichts Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig
+
+ 	
+Aus diesen Gründen hat der Gerichtshof Erste Kammer für Recht erkannt
+
+ 	
+Art  Abs  Buchst c der Verordnung EG Nr  des Europäischen Parlaments und des Rates vom  April  zur Koordinierung der Systeme der sozialen Sicherheit ist dahin auszulegen dass er einer nationalen Maßnahme wie der im Ausgangsverfahren fraglichen nicht entgegensteht die es dem zuständigen Träger zur Pflicht macht grundsätzlich jeden Antrag auf Verlängerung des Zeitraums für den Export von Leistungen bei Arbeitslosigkeit über drei Monate hinaus abzulehnen es sei denn nach Ansicht dieses Trägers würde die Ablehnung des Antrags zu einem unangemessenen Ergebnis führen
+
+ 	
+Unterschriften
+
+  	Verfahrenssprache NiederländischURTEIL DES GERICHTSHOFS Dritte Kammer
+
+ September    
+
+Vorlage zur Vorabentscheidung  Anwendung der Systeme der sozialen Sicherheit  Wandererwerbstätige  Bestimmung der anzuwendenden Rechtsvorschriften  Verordnung EWG Nr   Art  Nr  Buchst b Ziff i  Person die gewöhnlich im Gebiet von zwei oder mehr Mitgliedstaaten abhängig beschäftigt ist  Person die in einem Mitgliedstaat beschäftigt ist und während eines unbezahlten Urlaubs von drei Monaten eine entlohnte Tätigkeit im Gebiet eines anderen Mitgliedstaats ausübt
+
+In der Rechtssache C
+
+betreffend ein Vorabentscheidungsersuchen nach Art  AEUV eingereicht vom Hoge Raad der Nederlanden Oberster Gerichtshof der Niederlande mit Entscheidung vom  Oktober  beim Gerichtshof eingegangen am  November  in dem Verfahren
+
+X
+
+gegen
+
+Staatssecretaris van Financiën
+
+erlässt
+
+DER GERICHTSHOF Dritte Kammer
+
+unter Mitwirkung des Kammerpräsidenten L Bay Larsen Berichterstatter sowie der Richter M Vilaras J Malenovský M Safjan und D Šváby
+
+Generalanwalt M Szpunar
+
+Kanzler M Ferreira Hauptverwaltungsrätin
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom  Dezember 
+
+unter Berücksichtigung der Erklärungen
+
+
+
+der niederländischen Regierung vertreten durch M Bulterman und M Noort als Bevollmächtigte
+
+
+
+der tschechischen Regierung vertreten durch M Smolek und J Vláčil als Bevollmächtigte
+
+
+
+der Europäischen Kommission vertreten durch M van Beek und D Martin als Bevollmächtigte
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom  März 
+
+folgendes
+
+Urteil
+
+
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art  Abs  Buchst a und Art  Nr  Buchst b Ziff i der Verordnung EWG Nr  des Rates vom  Juni  zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige die innerhalb der Gemeinschaft zu und abwandern in der durch die Verordnung EG Nr  des Rates vom  Dezember  ABl  L  S  geänderten und aktualisierten Fassung die wiederum durch die Verordnung EG Nr  des Europäischen Parlaments und des Rates vom  Juni  ABl  L  S  geändert wurde im Folgenden Verordnung Nr 
+
+
+
+Dieses Ersuchen ergeht im Rahmen eines Rechtsstreits zwischen X und dem Staatssecretaris van Financiën Staatssekretär für Finanzen Niederlande wegen eines Bescheids über Einkommensteuer und Sozialversicherungsbeiträge
+
+Rechtlicher Rahmen
+
+
+
+In Art  der Verordnung Nr  heißt es
+
+Für die Anwendung dieser Verordnung werden die nachstehenden Begriffe wie folgt definiert
+
+a
+
+Arbeitnehmer oder Selbständiger jede Person
+
+i
+
+die gegen ein Risiko oder gegen mehrere Risiken die von den Zweigen eines Systems der sozialen Sicherheit für Arbeitnehmer oder Selbständige oder einem Sondersystem für Beamte erfasst werden pflichtversichert oder freiwillig weiterversichert ist
+
+
+
+
+
+Art  der Verordnung bestimmt
+
+   Vorbehaltlich der Artikel c und f unterliegen Personen für die diese Verordnung gilt den Rechtsvorschriften nur eines Mitgliedstaats Welche Rechtsvorschriften diese sind bestimmt sich nach diesem Titel
+
+   Soweit nicht die Artikel  bis  etwas anderes bestimmen gilt Folgendes
+
+a
+
+Eine Person die im Gebiet eines Mitgliedstaats abhängig beschäftigt ist unterliegt den Rechtsvorschriften dieses Staates und zwar auch dann wenn sie im Gebiet eines anderen Mitgliedstaats wohnt oder ihr Arbeitgeber oder das Unternehmen das sie beschäftigt seinen Wohnsitz oder Betriebssitz im Gebiet eines anderen Mitgliedstaats hat
+
+
+
+
+
+Art  der Verordnung sieht vor
+
+Vom Grundsatz des Artikels  Absatz  Buchstabe a gelten folgende Ausnahmen und Besonderheiten
+
+
+
+
+
+Eine Person die gewöhnlich im Gebiet von zwei oder mehr Mitgliedstaaten abhängig beschäftigt ist unterliegt den wie folgt bestimmten Rechtsvorschriften
+
+
+
+b
+
+eine Person die nicht unter Buchstabe a fällt unterliegt
+
+i
+
+den Rechtsvorschriften des Mitgliedstaats in dessen Gebiet sie wohnt wenn sie ihre Tätigkeit zum Teil im Gebiet dieses Staates ausübt oder wenn sie für mehrere Unternehmen oder mehrere Arbeitgeber tätig ist die ihren Sitz oder Wohnsitz im Gebiet verschiedener Mitgliedstaaten haben
+
+
+
+Ausgangsrechtsstreit und Vorlagefragen
+
+
+
+Seit dem  März  wohnt der niederländische Staatsangehörige X in den Niederlanden und arbeitet dort für einen in diesem Mitgliedstaat ansässigen Arbeitgeber
+
+
+
+X vereinbarte mit seinem Arbeitgeber ab Dezember  bis einschließlich Februar  drei Monate lang unbezahlten Urlaub zu nehmen In einem Schreiben vom  November  legte sein Arbeitgeber die Bedingungen fest die während dieses Urlaubszeitraums für das Arbeitsverhältnis gelten sollten Er stellte darin insbesondere klar dass der Arbeitsvertrag während des Urlaubs bestehen bleiben und X am  März  wieder seine normalen Aufgaben wahrnehmen werde
+
+
+
+Von Dezember  bis Februar  hielt sich X in Österreich auf wo er bei einem in diesem Mitgliedstaat ansässigen anderen Arbeitgeber als Skilehrer beschäftigt war
+
+
+
+In den folgenden Jahren nahm X keinen unbezahlten Urlaub Gleichwohl geht aus Auskünften die die niederländische Steuerverwaltung bei den österreichischen Behörden einholte hervor dass der Betroffene im Steuerjahr  zweimal als Arbeiter in den österreichischen Sozialversicherungsregistern eingetragen war Gleiches galt für die Steuerjahre  bis einschließlich  in denen er einmal pro Jahr für einen Zeitraum von ungefähr einer oder zwei Wochen in diesen Registern eingetragen war
+
+
+
+Der Rechtsstreit zwischen X und dem Staatssekretär für Finanzen betrifft die Berechnung der Einkommensteuer und der Sozialversicherungsbeiträge für das Steuerjahr  Es geht insbesondere um die Frage ob X im Januar und Februar  sozialpflichtversichert war und insoweit auch Beiträge zu entrichten hatte
+
+
+
+Der mit einer Berufung gegen das Urteil der Rechtbank Gelderland Gericht Gelderland Niederlande befasste Gerechtshof ArnhemLeeuwarden Berufungsgericht ArnhemLeeuwarden Niederlande entschied dass das Arbeitsverhältnis zwischen X und seinem in den Niederlanden ansässigen Arbeitgeber während des Zeitraums des unbezahlten Urlaubs fortbestanden habe und die niederländischen Rechtsvorschriften auch für die Monate Januar und Februar  gegolten hätten
+
+
+
+Gegen dieses Urteil hat X bei dem vorlegenden Gericht Kassationsbeschwerde eingelegt
+
+
+
+Vor diesem Hintergrund hat der Hoge Raad der Nederlanden Oberster Gerichtshof der Niederlande beschlossen das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen
+
+
+
+Ist Titel II der Verordnung Nr  dahin auszulegen dass ein in den Niederlanden wohnhafter Arbeitnehmer der seine Tätigkeit normalerweise in den Niederlanden ausführt und für drei Monate unbezahlten Urlaub nimmt so angesehen wird als sei er während dieses Zeitraums auch weiterhin in den Niederlanden abhängig beschäftigt wenn i das Arbeitsverhältnis während des genannten Zeitraums fortbesteht und ii der erwähnte Zeitraum für die Zwecke des niederländischen Arbeitslosigkeitsgesetzes als Zeitraum gilt in dem einer Tätigkeit im Lohn oder Gehaltsverhältnis nachgegangen wird
+
+a
+
+Welche Rechtsvorschriften werden von der Verordnung Nr  als anwendbar bezeichnet wenn dieser Arbeitnehmer während des unbezahlten Urlaubs in einem anderen Mitgliedstaat abhängig beschäftigt ist
+
+b
+
+Ist es in diesem Zusammenhang noch von Belang dass die betreffende Person im folgenden Jahr zweimal und in den darauffolgenden drei Jahren jeweils einmal für einen Zeitraum von ca ein bis zwei Wochen in besagtem anderen Mitgliedstaat abhängig beschäftigt gewesen ist ohne dass in den Niederlanden unbezahlter Urlaub genommen wurde
+
+Zu den Vorlagefragen
+
+
+
+Mit seinen Fragen die zusammen zu prüfen sind möchte das vorlegende Gericht wissen ob Art  Nr  Buchst b Ziff i der Verordnung Nr  dahin auszulegen ist dass eine Person die im Gebiet eines Mitgliedstaats wohnt und abhängig beschäftigt ist und während eines Zeitraums von drei Monaten unbezahlten Urlaub nimmt und in dieser Zeit im Gebiet eines anderen Mitgliedstaats abhängig beschäftigt ist als im Sinne dieser Vorschrift gewöhnlich im Gebiet von zwei Mitgliedstaaten abhängig beschäftigt anzusehen ist
+
+
+
+Insoweit ist darauf hinzuweisen dass die Bestimmungen des Titels II der Verordnung Nr  zu dem Art  Nr  gehört nach ständiger Rechtsprechung ein vollständiges und einheitliches System von Kollisionsnormen bilden das bezweckt die Arbeitnehmer die innerhalb der Union zu und abwandern dem System der sozialen Sicherheit nur eines Mitgliedstaats zu unterwerfen so dass die Kumulierung anwendbarer nationaler Rechtsvorschriften und die Schwierigkeiten die sich daraus ergeben können vermieden werden Urteil vom  Oktober  Format Urządzenia i Montaże Przemysłowe C EUC Rn  und die dort angeführte Rechtsprechung
+
+
+
+Zu diesem Zweck wird in Art  Abs  Buchst a der Verordnung Nr  der Grundsatz aufgestellt dass eine Person die im Gebiet eines Mitgliedstaats abhängig beschäftigt ist den Rechtsvorschriften dieses Staates unterliegt und zwar auch dann wenn sie im Gebiet eines anderen Mitgliedstaats wohnt vgl in diesem Sinne Urteil vom  Oktober  Format Urządzenia i Montaże Przemysłowe C EUC Rn 
+
+
+
+Dieser Grundsatz gilt jedoch nur soweit nicht die Artikel  bis  der Verordnung Nr  etwas anderes bestimmen In der Tat könnte die ausnahmslose Anwendung des in Art  Abs  Buchst a dieser Verordnung aufgestellten allgemeinen Grundsatzes in bestimmten Sonderfällen sowohl für den Arbeitnehmer als auch für den Arbeitgeber und die Sozialversicherungseinrichtungen zur Schaffung statt zur Vermeidung administrativer Schwierigkeiten führen die eine Beeinträchtigung der Freizügigkeit der Personen bewirken würden die unter die genannte Verordnung fallen Urteil vom  Oktober  Format Urządzenia i Montaże Przemysłowe C EUC Rn 
+
+
+
+Nach Art  Nr  Buchst b Ziff i der Verordnung Nr  unterliegt eine Person die gewöhnlich im Gebiet von zwei oder mehr Mitgliedstaaten abhängig beschäftigt ist den Rechtsvorschriften des Mitgliedstaats in dessen Gebiet sie wohnt wenn sie ihre Tätigkeit zum Teil im Gebiet dieses Staates ausübt
+
+
+
+Aus dieser Vorschrift die von der allgemeinen Regel der Anknüpfung an den Beschäftigungsmitgliedstaat abweicht ergibt sich dass ihre Anwendung der Voraussetzung unterliegt dass der Betroffene gewöhnlich im Gebiet von zwei oder mehr Mitgliedstaaten abhängig beschäftigt ist
+
+
+
+Daher kann eine Situation wie die im Ausgangsverfahren in Rede stehende nur dann unter Art  Nr  Buchst b Ziff i der Verordnung Nr  fallen wenn die betreffende Person der ihr Arbeitgeber der das Arbeitsverhältnis fortsetzt einen mehrmonatigen unbezahlten Urlaub bewilligt während dieses Urlaubs als im Sinne dieser Vorschrift in dem Mitgliedstaat abhängig beschäftigt anzusehen ist in dessen Gebiet dieser Urlaub genommen wird
+
+
+
+Insoweit ist darauf hinzuweisen dass der Gerichtshof in Bezug auf das Ruhen eines Arbeitsverhältnisses während eines Elternurlaubs entschieden hat dass eine Person die Arbeitnehmereigenschaft im Sinne der Verordnung Nr  besitzt wenn sie auch nur gegen ein einziges Risiko im Rahmen eines der in Art  Buchst a dieser Verordnung genannten allgemeinen oder besonderen Systeme der sozialen Sicherheit pflichtversichert oder freiwillig versichert ist und zwar unabhängig vom Bestehen eines Arbeitsverhältnisses Urteil vom  Juni  Dodl und Oberhollenzer C EUC Rn 
+
+
+
+Im Übrigen ergibt sich aus der Rechtsprechung des Gerichtshofs dass sich die Vorschriften des Titels II der Verordnung Nr  im Gegensatz zu denen ihres Titels I zwar auf Personen beziehen die eine Tätigkeit im Lohn oder Gehaltsverhältnis oder eine selbständige Tätigkeit ausüben und nicht auf Arbeitnehmer oder Selbständige aber dass eine logische und kohärente Auslegung des persönlichen Geltungsbereichs der Verordnung und des durch sie geschaffenen Systems von Kollisionsregeln es gebietet die fraglichen Begriffe des Titels II der Verordnung im Licht der Definitionen von Art  Buchst a auszulegen vgl in diesem Sinne Urteile vom  Januar  de Jaeck C EUC Rn  sowie Hervein und Hervillier C EUC Rn 
+
+
+
+Ebenso wie sich die Einstufung einer Person als Arbeitnehmer oder Selbständiger im Sinne der Verordnung Nr  nach dem nationalen System der sozialen Sicherheit richtet dem diese Person angeschlossen ist sind folglich unter abhängigen Beschäftigungen und selbständigen Tätigkeiten im Sinne des Titels II der Verordnung Nr  die Tätigkeiten zu verstehen die in dem Mitgliedstaat in dessen Gebiet sie ausgeübt werden nach den dort im Bereich der sozialen Sicherheit geltenden Rechtsvorschriften als solche angesehen werden vgl in diesem Sinne Urteile vom  Januar  de Jaeck C EUC Rn  sowie Hervein und Hervillier C EUC Rn 
+
+
+
+Ebenso kann wenn eine Person während des von ihrem Arbeitgeber bewilligten unbezahlten Urlaubs ihre Arbeitnehmereigenschaft behält davon ausgegangen werden dass sie im Sinne des Titels II der Verordnung Nr  abhängig beschäftigt ist auch wenn die sich aus dem Arbeitsverhältnis ergebenden Hauptpflichten während dieses eingegrenzten Zeitraums ruhen
+
+
+
+Daher wird in einer Situation wie der im Ausgangsverfahren in Rede stehenden für die nach den Angaben des vorlegenden Gerichts die im Bereich der sozialen Sicherheit geltenden nationalen Rechtsvorschriften vorsehen dass eine Person die einen mehrmonatigen unbezahlten Urlaub nimmt in diesem Urlaubszeitraum weiterhin abhängig beschäftigt ist der Betreffende während dieses Zeitraums als im Sinne des Titels II der Verordnung Nr  in dem Mitgliedstaat abhängig beschäftigt angesehen in dessen Gebiet dieser Urlaub genommen wird
+
+
+
+In einem solchen Fall kann die Situation der Betreffende wenn er während dieses Zeitraums in einem anderen Mitgliedstaat abhängig beschäftigt ist unter Art  Nr  Buchst b Ziff i der Verordnung Nr  fallen sofern die im Gebiet des letztgenannten Mitgliedstaats ausgeübte Tätigkeit einen gewohnheitsmäßigen und nennenswerten Charakter hat vgl in diesem Sinne Urteil vom heutigen Tag X C Rn 
+
+
+
+Bei der Beurteilung der Frage ob es sich bei der in diesem Zeitraum im Gebiet des letztgenannten Mitgliedstaats ausgeübten Tätigkeit um eine gewohnheitsmäßige und nennenswerte Tätigkeit handelt ist insbesondere auf die Dauer der Beschäftigungszeiten und das Wesen der unselbständig verrichteten Arbeit wie sie in den Vertragsunterlagen festgelegt sind sowie gegebenenfalls die tatsächlich verrichtete Tätigkeit abzustellen vgl in diesem Sinne Urteil vom heutigen Tag X C Rn 
+
+
+
+Daher wird das vorlegende Gericht zu prüfen haben ob die abhängige Beschäftigung die der Betreffende während des im Ausgangsverfahren fraglichen Zeitraums von drei Monaten in Österreich ausgeübt hat einen gewohnheitsmäßigen und nennenswerten Charakter hatte wobei unerheblich ist ob er nach diesem Zeitraum eine solche Beschäftigung ausgeübt hat
+
+
+
+Nach alledem ist auf die Vorlagefrage zu antworten dass Art  Nr  Buchst b Ziff i der Verordnung Nr  dahin auszulegen ist dass eine Person die im Gebiet eines Mitgliedstaats wohnt und abhängig beschäftigt ist und die während eines Zeitraums von drei Monaten unbezahlten Urlaub nimmt und in dieser Zeit im Gebiet eines anderen Mitgliedstaats abhängig beschäftigt ist als im Sinne dieser Vorschrift gewöhnlich im Gebiet von zwei Mitgliedstaaten abhängig beschäftigt anzusehen ist sofern sie zum einen während dieses Urlaubszeitraums nach den Rechtsvorschriften im Bereich der sozialen Sicherheit des ersten Mitgliedstaats als abhängig beschäftigt angesehen wird und zum anderen die Tätigkeit im Gebiet des zweiten Mitgliedstaats einen gewohnheitsmäßigen und nennenswerten Charakter hat Dies zu prüfen ist Sache des vorlegenden Gerichts
+
+Kosten
+
+
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem bei dem vorlegenden Gericht anhängigen Rechtsstreit die Kostenentscheidung ist daher Sache dieses Gerichts Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig
+
+ 	
+Aus diesen Gründen hat der Gerichtshof Dritte Kammer für Recht erkannt
+
+ 	
+Art  Nr  Buchst b Ziff i der Verordnung EWG Nr  des Rates vom  Juni  zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige die innerhalb der Gemeinschaft zu und abwandern in der durch die Verordnung EG Nr  des Rates vom  Dezember  geänderten und aktualisierten Fassung die wiederum durch die Verordnung EG Nr  des Europäischen Parlaments und des Rates vom  Juni  geändert wurde ist dahin auszulegen dass eine Person die im Gebiet eines Mitgliedstaats wohnt und abhängig beschäftigt ist und die während eines Zeitraums von drei Monaten unbezahlten Urlaub nimmt und in dieser Zeit im Gebiet eines anderen Mitgliedstaats abhängig beschäftigt ist als im Sinne dieser Vorschrift gewöhnlich im Gebiet von zwei Mitgliedstaaten abhängig beschäftigt anzusehen ist sofern sie zum einen während dieses Urlaubszeitraums nach den Rechtsvorschriften im Bereich der sozialen Sicherheit des ersten Mitgliedstaats als abhängig beschäftigt angesehen wird und zum anderen die Tätigkeit im Gebiet des zweiten Mitgliedstaats einen gewohnheitsmäßigen und nennenswerten Charakter hat Dies zu prüfen ist Sache des vorlegenden Gerichts
+
+ 	
+Unterschriften
+
+  	Verfahrenssprache NiederländischURTEIL DES GERICHTSHOFS Große Kammer
+
+ Januar    
+
+Vorlage zur Vorabentscheidung  Dienstleistungen im Binnenmarkt  Richtlinie EG  Anwendungsbereich  Art  Abs  Buchst c  Ausschluss der Dienstleistungen und Netze der elektronischen Kommunikation  Art  Nr   Begriff Dienstleistung  Einzelhandel mit Waren  Kapitel III  Niederlassungsfreiheit der Dienstleistungserbringer  Anwendbarkeit auf rein innerstaatliche Sachverhalte  Art   Zu prüfende Anforderungen  Territoriale Beschränkung  Bauleitplan der die Tätigkeit des Einzelhandels mit Waren ohne großen Platzbedarf in Gebieten außerhalb des Stadtzentrums verbietet  Schutz der städtischen Umwelt  Genehmigung elektronischer Kommunikationsnetze und dienste  Richtlinie EG  Finanzielle Belastungen im Zusammenhang mit Rechten zur Installation von Einrichtungen für ein öffentliches elektronisches Kommunikationsnetz
+
+In den verbundenen Rechtssachen C und C
+
+betreffend Vorabentscheidungsersuchen nach Art  AEUV eingereicht vom Hoge Raad der Nederlanden Oberster Gerichtshof der Niederlande C und vom Raad van State Staatsrat Niederlande C mit Entscheidungen vom  Juni  und vom  Januar  beim Gerichtshof eingegangen am  Juli  und am  Januar  in den Verfahren
+
+College van Burgemeester en Wethouders van de gemeente Amersfoort
+
+gegen
+
+X BV C
+
+und
+
+Visser Vastgoed Beleggingen BV
+
+gegen
+
+Raad van de gemeente Appingedam C
+
+erlässt
+
+DER GERICHTSHOF Große Kammer
+
+unter Mitwirkung des Präsidenten K Lenaerts des Vizepräsidenten A Tizzano der Kammerpräsidentin R Silva de Lapuerta der Kammerpräsidenten T von Danwitz J L da Cruz Vilaça Berichterstatter C G Fernlund und C Vajda des Richters A Arabadjiev der Richterin C Toader der Richter M Safjan und D Šváby der Richterinnen M Berger und A Prechal sowie der Richter E Jarašiūnas und S Rodin
+
+Generalanwalt M Szpunar
+
+Kanzler M Ferreira Hauptverwaltungsrätin
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom  Februar 
+
+unter Berücksichtigung der Erklärungen
+
+
+
+des College van Burgemeester en Wethouders van de gemeente Amersfoort vertreten durch J de Groot und P Fruytier advocaten
+
+
+
+der Visser Vastgoed Beleggingen BV vertreten durch I Haverkate advocaat
+
+
+
+der X BV vertreten durch M RobichonLindenkamp advocaat
+
+
+
+des Raad van de gemeente Appingedam vertreten durch H Wessels H Mulder J Seerden R Louwes und H Pot als Bevollmächtigte
+
+
+
+der niederländischen Regierung vertreten durch M H S Gijzen K Bulterman und J Langer als Bevollmächtigte
+
+
+
+der tschechischen Regierung vertreten durch T Müller M Smolek und J Vláčil als Bevollmächtigte
+
+
+
+der deutschen Regierung vertreten durch T Henze und K Stranz als Bevollmächtigte
+
+
+
+Irlands vertreten durch E Creedon M Browne G Hodge und A Joyce als Bevollmächtigte im Beistand von N Butler SC und C Keeling BL
+
+
+
+der italienischen Regierung vertreten durch G Palmieri als Bevollmächtigte im Beistand von C Colelli und P Gentili avvocati dello Stato
+
+
+
+der polnischen Regierung vertreten durch B Majczyna als Bevollmächtigten
+
+
+
+der Europäischen Kommission vertreten durch H TserepaLacombe L Malferrari und F Wilman als Bevollmächtigte
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom  Mai 
+
+folgendes
+
+Urteil
+
+
+
+Die Vorabentscheidungsersuchen betreffen die Auslegung der Richtlinie EG des Europäischen Parlaments und des Rates vom  Dezember  über Dienstleistungen im Binnenmarkt ABl  L  S  sowie der Art  bis  und  bis  AEUV
+
+
+
+Sie ergehen im Rahmen von zwei Rechtsstreitigkeiten im ersten Rechtsstreit zwischen dem College van Burgemeester en Wethouders van de gemeente Amersfoort Kollegium von Bürgermeister und Beigeordneten der Gemeinde Amersfoort Niederlande im Folgenden Magistrat und der X BV geht es um die Zahlung von Gebühren leges im Zusammenhang mit der Verlegung von Glasfaserkabeln für ein öffentliches elektronisches Kommunikationsnetz und im zweiten Rechtsstreit zwischen der Visser Vastgoed Beleggingen BV im Folgenden Visser und dem Raad van de gemeente Appingedam Gemeinderat von Appingedam Niederlande um Vorschriften in einem Bauleitplan nach denen bestimmte außerhalb des Stadtzentrums gelegene Gebiete ausschließlich dem Einzelhandel für Waren mit großem Platzbedarf vorbehalten sind
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+Richtlinie EG
+
+
+
+Art  Geltungsbereich und Zielsetzung Abs  der Richtlinie EG des Europäischen Parlaments und des Rates vom  März  über einen gemeinsamen Rechtsrahmen für elektronische Kommunikationsnetze und dienste Rahmenrichtlinie ABl  L  S  in der durch die Richtlinie EG des Europäischen Parlaments und des Rates vom  November  ABl  L  S  geänderten Fassung im Folgenden Rahmenrichtlinie lautet
+
+Mit dieser Richtlinie wird ein harmonisierter Rahmen für die Regulierung elektronischer Kommunikationsdienste elektronischer Kommunikationsnetze zugehöriger Einrichtungen und zugehöriger Dienste sowie bestimmter Aspekte der Endeinrichtungen zur Erleichterung des Zugangs behinderter Nutzer errichtet Sie legt die Aufgaben der nationalen Regulierungsbehörden sowie eine Reihe von Verfahren fest die die unionsweit harmonisierte Anwendung des Rechtsrahmens gewährleisten
+
+
+
+Art  Begriffsbestimmungen der Rahmenrichtlinie bestimmt
+
+Für die Zwecke dieser Richtlinie gelten folgende Begriffsbestimmungen
+
+
+
+g
+
+nationale Regulierungsbehörde eine oder mehrere Stellen die von einem Mitgliedstaat mit einer der in dieser Richtlinie und den Einzelrichtlinien festgelegten Regulierungsaufgaben beauftragt werden
+
+
+
+
+
+In Art  Wegerechte der Rahmenrichtlinie heißt es
+
+   Die Mitgliedstaaten sorgen dafür dass die zuständige Behörde
+
+
+
+bei der Prüfung eines Antrags auf Erteilung von Rechten für die Installation von Einrichtungen auf über oder unter öffentlichem oder privatem Grundbesitz an ein Unternehmen das für die Bereitstellung öffentlicher Kommunikationsnetze zugelassen ist oder
+
+
+
+bei der Prüfung eines Antrags auf Erteilung von Rechten für die Installation von Einrichtungen auf über oder unter öffentlichem Grundbesitz an ein Unternehmen das für die Bereitstellung von nichtöffentlichen elektronischen Kommunikationsnetzen zugelassen ist
+
+wie folgt verfährt
+
+
+
+Sie handelt auf der Grundlage einfacher effizienter transparenter und öffentlich zugänglicher Verfahren die nicht diskriminierend und unverzüglich angewendet werden und entscheidet in jedem Fall  außer in Enteignungsfällen  innerhalb von sechs Monaten nach der Antragstellung und
+
+
+
+sie befolgt die Grundsätze der Transparenz und der Nichtdiskriminierung wenn sie die betreffenden Rechte an Bedingungen knüpft
+
+
+
+   Die Mitgliedstaaten stellen sicher dass bei öffentlichen Behörden oder Gebietskörperschaften die an Betreibern öffentlicher elektronischer Kommunikationsnetze undoder öffentlich zugänglicher elektronischer Kommunikationsdienste beteiligt sind oder diese kontrollieren eine wirksame strukturelle Trennung zwischen der für die Erteilung der in Absatz  genannten Rechte zuständigen Stelle und den Tätigkeiten im Zusammenhang mit dem Eigentum oder der Kontrolle besteht
+
+
+
+
+
+Art  Gemeinsame Unterbringung und gemeinsame Nutzung von Netzbestandteilen und dazugehörigen Einrichtungen durch Betreiber elektronischer Kommunikationsnetze der Rahmenrichtlinie bestimmt in seinen Abs  und 
+
+   Darf ein Unternehmen das elektronische Kommunikationsnetze bereitstellt nach nationalem Recht Einrichtungen auf über oder unter öffentlichen oder privaten Grundstücken installieren oder kann es ein Verfahren zur Enteignung oder Nutzung von Grundstücken in Anspruch nehmen so kann die nationale Regulierungsbehörde unter strenger Beachtung des Grundsatzes der Verhältnismäßigkeit die gemeinsame Nutzung dieser Einrichtungen oder Grundstücke vorschreiben wozu unter anderem Gebäude Gebäudezugänge Verkabelungen in Gebäuden Masten Antennen Türme und andere Trägerstrukturen Leitungsrohre Leerrohre Einstiegsschächte und Verteilerkästen gehören
+
+
+
+   Die Mitgliedstaaten stellen sicher dass die zuständigen nationalen Behörden von den Unternehmen verlangen können dass sie die erforderlichen Informationen liefern damit diese Behörden in Zusammenarbeit mit den nationalen Regulierungsbehörden ein detailliertes Verzeichnis der Art Verfügbarkeit und geografischen Lage der in Absatz  genannten Einrichtungen erstellen und interessierten Kreisen zur Verfügung stellen können
+
+Richtlinie EG
+
+
+
+Der erste Erwägungsgrund der Richtlinie EG des Europäischen Parlaments und des Rates vom  März  über die Genehmigung elektronischer Kommunikationsnetze und dienste Genehmigungsrichtlinie ABl  L  S  in der durch die Richtlinie  geänderten Fassung im Folgenden Genehmigungsrichtlinie lautet
+
+Die öffentliche Anhörung zu dem Bericht von  über den Rechtsrahmen für Kommunikationsdienste deren Ergebnisse sich in der Mitteilung der Kommission vom  April  widerspiegeln sowie die Feststellungen der Kommission in ihren Mitteilungen über den Fünften und Sechsten Bericht über die Umsetzung des Reformpakets für den Telekommunikationssektor haben bestätigt dass eine stärker harmonisierte und weniger schwerfällige Regelung des Marktzugangs für elektronische Kommunikationsnetze und dienste in der ganzen Union notwendig ist
+
+
+
+Art  Ziel und Geltungsbereich der Genehmigungsrichtlinie sieht vor
+
+   Ziel dieser Richtlinie ist es durch die Harmonisierung und Vereinfachung der Genehmigungsvorschriften und bedingungen einen Binnenmarkt für elektronische Kommunikationsnetze und dienste zu errichten damit deren Bereitstellung in der ganzen Union erleichtert wird
+
+   Diese Richtlinie gilt für Genehmigungen die für die Bereitstellung elektronischer Kommunikationsnetze und dienste erteilt werden
+
+
+
+Art  Begriffsbestimmungen Abs  der Genehmigungsrichtlinie bestimmt
+
+Für die Zwecke dieser Richtlinie gelten die Begriffsbestimmungen in Artikel  der Rahmenrichtlinie
+
+
+
+Art  Mindestrechte aufgrund einer Allgemeingenehmigung der Genehmigungsrichtlinie besagt in Abs 
+
+Unternehmen denen gemäß Artikel  eine Genehmigung erteilt wurde haben das Recht
+
+a
+
+elektronische Kommunikationsnetze und dienste bereitzustellen
+
+b
+
+zu veranlassen dass ihr Antrag auf Erteilung der notwendigen Rechte zur Installation der Einrichtungen gemäß Artikel  der Rahmenrichtlinie geprüft wird
+
+
+
+Nach Art  Verwaltungsabgaben der Genehmigungsrichtlinie gilt
+
+   Verwaltungsabgaben die von Unternehmen verlangt werden die aufgrund einer Allgemeingenehmigung einen Dienst oder ein Netz bereitstellen oder denen ein Nutzungsrecht gewährt wurde
+
+a
+
+dienen insgesamt lediglich zur Deckung der administrativen Kosten für die Verwaltung Kontrolle und Durchsetzung von Allgemeingenehmigungen und Nutzungsrechten sowie der in Artikel  Absatz  genannten besonderen Verpflichtungen die die Kosten für internationale Zusammenarbeit Harmonisierung und Normung Marktanalyse Überwachung der Einhaltung und andere Marktkontrollmechanismen sowie für Regulierungstätigkeiten zur Ausarbeitung und Durchsetzung des abgeleiteten Rechts und von Verwaltungsbeschlüssen beispielsweise von Beschlüssen über den Zugang und die Zusammenschaltung einschließen können und
+
+b
+
+werden den einzelnen Unternehmen in einer objektiven verhältnismäßigen und transparenten Weise auferlegt bei der die zusätzlichen Verwaltungskosten und zugehörigen Aufwendungen auf ein Mindestmaß reduziert werden
+
+   Erheben die nationalen Regulierungsbehörden Verwaltungsabgaben so veröffentlichen sie einen jährlichen Überblick über ihre Verwaltungskosten und die insgesamt eingenommenen Abgaben Entsprechend der Differenz der Gesamtsumme der Abgaben und der Verwaltungskosten werden entsprechende Berichtigungen vorgenommen
+
+
+
+Art  Entgelte für Nutzungsrechte und für Rechte für die Installation von Einrichtungen der Genehmigungsrichtlinie lautet
+
+Die Mitgliedstaaten können der zuständigen Behörde gestatten bei Nutzungsrechten für Funkfrequenzen oder Nummern oder bei Rechten für die Installation von Einrichtungen auf über oder unter öffentlichem oder privatem Grundbesitz Entgelte zu erheben die eine optimale Nutzung dieser Ressourcen sicherstellen sollen Die Mitgliedstaaten stellen sicher dass die Entgelte objektiv gerechtfertigt transparent nichtdiskriminierend und ihrem Zweck angemessen sind und tragen den in Artikel  der Rahmenrichtlinie genannten Zielen Rechnung
+
+Richtlinie 
+
+
+
+In den Erwägungsgründen         und  der Richtlinie  heißt es
+
+
+
+Ein wettbewerbsfähiger Dienstleistungsmarkt ist für die Förderung des Wirtschaftswachstums und die Schaffung von Arbeitsplätzen in der Europäischen Union wesentlich  Ein freier Markt der die Mitgliedstaaten zwingt Beschränkungen im grenzüberschreitenden Dienstleistungsverkehr abzubauen bei gleichzeitiger größerer Transparenz und besserer Information der Verbraucher würde für die Verbraucher größere Auswahl und bessere Dienstleistungen zu niedrigeren Preisen bedeuten
+
+
+
+
+
+Es ist deshalb erforderlich die Beschränkungen der Niederlassungsfreiheit von Dienstleistungserbringern in den Mitgliedstaaten und des freien Dienstleistungsverkehrs zwischen Mitgliedstaaten zu beseitigen und den Dienstleistungsempfängern und erbringern die Rechtssicherheit zu garantieren die sie für die wirksame Wahrnehmung dieser beiden Grundfreiheiten des Vertrags benötigen Da die Beschränkungen im Binnenmarkt für Dienstleistungen sowohl die Dienstleistungserbringer beeinträchtigen die sich in einem anderen Mitgliedstaat niederlassen möchten als auch diejenigen die in einem anderen Mitgliedstaat Dienstleistungen erbringen ohne dort niedergelassen zu sein ist es erforderlich den Dienstleistungserbringern zu ermöglichen ihre Dienstleistungstätigkeiten im Binnenmarkt dadurch zu entwickeln dass sie sich entweder in einem anderen Mitgliedstaat niederlassen oder den freien Dienstleistungsverkehr nutzen Die Dienstleistungserbringer sollten zwischen diesen beiden Freiheiten wählen und sich für diejenige entscheiden können die ihrer Geschäftsstrategie für die einzelnen Mitgliedstaaten am besten gerecht wird
+
+
+
+
+
+Mit dieser Richtlinie wird ein allgemeiner Rechtsrahmen geschaffen der einem breiten Spektrum von Dienstleistungen zugutekommt und gleichzeitig die Besonderheiten einzelner Tätigkeiten und Berufe und ihre Reglementierung berücksichtigt Grundlage dieses Rechtsrahmens ist ein dynamischer und selektiver Ansatz der vorrangig die leicht zu beseitigenden Beschränkungen beseitigt hinsichtlich der übrigen wird ein Prozess der Evaluierung Konsultation und ergänzenden Harmonisierung bei besonderen Fragen eingeleitet um so schrittweise und koordiniert eine Modernisierung der nationalen Regelungen für Dienstleistungstätigkeiten zu erreichen wie sie für die Schaffung eines wirklichen Binnenmarktes für Dienstleistungen bis zum Jahr  unerlässlich ist Es ist angezeigt bei den Maßnahmen eine ausgewogene Kombination aus gezielter Harmonisierung Verwaltungszusammenarbeit den Bestimmungen über die Dienstleistungsfreiheit und der Förderung der Erarbeitung von Verhaltenskodizes für bestimmte Bereiche vorzusehen Diese Koordinierung der nationalen Rechtsvorschriften sollte ein hohes Maß an rechtlicher Integration auf Gemeinschaftsebene und ein hohes Niveau des Schutzes von Gemeinwohlinteressen insbesondere den Schutz der Verbraucher sicherstellen wie es für die Schaffung von Vertrauen zwischen den Mitgliedstaaten unerlässlich ist 
+
+
+
+
+
+Diese Richtlinie findet nur auf die Anforderungen für die Aufnahme oder Ausübung einer Dienstleistungstätigkeit Anwendung Sie findet somit keine Anwendung auf Anforderungen wie Straßenverkehrsvorschriften Vorschriften bezüglich der Stadtentwicklung oder Bodennutzung der Stadtplanung und der Raumordnung Baunormen sowie verwaltungsrechtliche Sanktionen die wegen der Nichteinhaltung solcher Vorschriften verhängt werden die nicht die Dienstleistungstätigkeit als solche regeln oder betreffen sondern von Dienstleistungserbringern im Zuge der Ausübung ihrer Wirtschaftstätigkeit genauso beachtet werden müssen wie von Privatpersonen
+
+
+
+
+
+Angesichts der im Jahr  erfolgten Verabschiedung einer Reihe von Rechtsakten über die Netze und Dienste der elektronischen Kommunikation sowie über die damit zusammenhängenden Ressourcen und Dienste die insbesondere durch die Abschaffung der Mehrzahl der Einzelgenehmigungsverfahren einen Rechtsrahmen für die Erleichterung des Zugangs zu diesen Tätigkeiten im Binnenmarkt geschaffen hat müssen die durch diese Rechtsakte geregelten Fragen vom Anwendungsbereich der vorliegenden Richtlinie ausgenommen werden
+
+
+
+Die Ausnahmen vom Anwendungsbereich der vorliegenden Richtlinie hinsichtlich Angelegenheiten der elektronischen Kommunikationsdienste im Sinne der Rahmen und der Genehmigungsrichtlinie sollten nicht nur für Fragen gelten die spezifisch in den genannten Richtlinien geregelt sind sondern auch für Bereiche bei denen die Richtlinien den Mitgliedstaaten ausdrücklich die Möglichkeit belassen bestimmte Maßnahmen auf nationaler Ebene zu erlassen
+
+
+
+
+
+Die von dieser Richtlinie erfassten Dienstleistungen umfassen einen weiten Bereich von Tätigkeiten die einem ständigen Wandel unterworfen sind wie etwa  Dienstleistungen die sowohl für Unternehmen als auch für Verbraucher angeboten werden wie etwa  Handel 
+
+
+
+
+
+Der Begriff der zwingenden Gründe des Allgemeininteresses auf den sich einige Bestimmungen dieser Richtlinie beziehen  umfasst  zumindest folgende Gründe  Schutz der Umwelt und der städtischen Umwelt einschließlich der Stadt und Raumplanung 
+
+
+
+
+
+Diese Richtlinie betrifft nicht die Anwendung der Artikel  bis  AEUV über den freien Warenverkehr Bei den nach den Bestimmungen über die Dienstleistungsfreiheit unzulässigen Beschränkungen handelt es sich um Anforderungen für die Aufnahme und Ausübung von Dienstleistungstätigkeiten und nicht um Anforderungen die sich auf Waren als solche beziehen
+
+
+
+Art  Gegenstand Abs  der Richtlinie  lautet
+
+Diese Richtlinie enthält allgemeine Bestimmungen die bei gleichzeitiger Gewährleistung einer hohen Qualität der Dienstleistungen die Wahrnehmung der Niederlassungsfreiheit durch Dienstleistungserbringer sowie den freien Dienstleistungsverkehr erleichtern sollen
+
+
+
+In Art  Anwendungsbereich der Richtlinie  heißt es
+
+   Diese Richtlinie gilt für Dienstleistungen die von einem in einem Mitgliedstaat niedergelassenen Dienstleistungserbringer angeboten werden
+
+   Diese Richtlinie findet auf folgende Tätigkeiten keine Anwendung
+
+
+
+c
+
+Dienstleistungen und Netze der elektronischen Kommunikation sowie zugehörige Einrichtungen und Dienste in den Bereichen die in der Rahmen und der Genehmigungsrichtlinie geregelt sind
+
+
+
+j
+
+soziale Dienstleistungen im Zusammenhang mit Sozialwohnungen der Kinderbetreuung und der Unterstützung von Familien und dauerhaft oder vorübergehend hilfsbedürftigen Personen die vom Staat durch von ihm beauftragte Dienstleistungserbringer oder durch von ihm als gemeinnützig anerkannte Einrichtungen erbracht werden
+
+
+
+   Die Richtlinie gilt nicht für den Bereich der Steuern
+
+
+
+Art  Verhältnis zu geltendem Unionsrecht der Richtlinie  besagt in Abs 
+
+Die Mitgliedstaaten setzen die Bestimmungen dieser Richtlinie in Übereinstimmung mit den Bestimmungen des AEUVertrags über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr um
+
+
+
+Art  Begriffsbestimmungen der Richtlinie  sieht vor
+
+Für die Zwecke dieser Richtlinie bezeichnet der Ausdruck
+
+
+
+Dienstleistung jede von Artikel  AEUV erfasste selbstständige Tätigkeit die in der Regel gegen Entgelt erbracht wird
+
+
+
+Dienstleistungserbringer jede natürliche Person die die Staatsangehörigkeit eines Mitgliedstaats besitzt und jede in einem Mitgliedstaat niedergelassene juristische Person im Sinne des Artikels  AEUV die eine Dienstleistung anbietet oder erbringt
+
+
+
+
+
+Niederlassung die tatsächliche Ausübung einer von Artikel  AEUV erfassten wirtschaftlichen Tätigkeit durch den Dienstleistungserbringer auf unbestimmte Zeit und mittels einer festen Infrastruktur von der aus die Geschäftstätigkeit der Dienstleistungserbringung tatsächlich ausgeübt wird
+
+
+
+Genehmigungsregelung jedes Verfahren das einen Dienstleistungserbringer oder empfänger verpflichtet bei einer zuständigen Behörde eine förmliche oder stillschweigende Entscheidung über die Aufnahme oder Ausübung einer Dienstleistungstätigkeit zu erwirken
+
+
+
+Anforderungen alle Auflagen Verbote Bedingungen oder Beschränkungen die in den Rechts oder Verwaltungsvorschriften der Mitgliedstaaten festgelegt sind oder sich aus der Rechtsprechung der Verwaltungspraxis den Regeln von Berufsverbänden oder den kollektiven Regeln die von Berufsvereinigungen oder sonstigen Berufsorganisationen in Ausübung ihrer Rechtsautonomie erlassen wurden ergeben Regeln die in von den Sozialpartnern ausgehandelten Tarifverträgen festgelegt wurden sind als solche keine Anforderungen im Sinne dieser Richtlinie
+
+
+
+zwingende Gründe des Allgemeininteresses Gründe die der Gerichtshof in ständiger Rechtsprechung als solche anerkannt hat einschließlich folgender Gründe  Schutz der Umwelt und der städtischen Umwelt 
+
+
+
+
+
+Kapitel III Niederlassungsfreiheit der Dienstleistungserbringer der Richtlinie  umfasst die Art  bis  dieser Richtlinie
+
+
+
+Art  Genehmigungsregelungen der Richtlinie  sieht in Abs  vor
+
+Die Mitgliedstaaten dürfen die Aufnahme und die Ausübung einer Dienstleistungstätigkeit nur dann Genehmigungsregelungen unterwerfen wenn folgende Voraussetzungen erfüllt sind
+
+a
+
+Die Genehmigungsregelungen sind für den betreffenden Dienstleistungserbringer nicht diskriminierend
+
+b
+
+die Genehmigungsregelungen sind durch zwingende Gründe des Allgemeininteresses gerechtfertigt
+
+c
+
+das angestrebte Ziel kann nicht durch ein milderes Mittel erreicht werden insbesondere weil eine nachträgliche Kontrolle zu spät erfolgen würde um wirksam zu sein
+
+
+
+Art  Voraussetzungen für die Erteilung der Genehmigung der Richtlinie  besagt in Abs 
+
+Die Genehmigungsregelungen müssen auf Kriterien beruhen die eine willkürliche Ausübung des Ermessens der zuständigen Behörden verhindern
+
+
+
+Art  Genehmigungsverfahren Abs  der Richtlinie  bestimmt
+
+Die Genehmigungsverfahren und formalitäten dürfen weder abschreckend sein noch die Erbringung der Dienstleistung in unangemessener Weise erschweren oder verzögern Sie müssen leicht zugänglich sein und eventuelle dem Antragsteller mit dem Antrag entstehende Kosten müssen vertretbar und zu den Kosten der Genehmigungsverfahren verhältnismäßig sein und dürfen die Kosten der Verfahren nicht übersteigen
+
+
+
+In Art  Unzulässige Anforderungen der Richtlinie  heißt es
+
+Die Mitgliedstaaten dürfen die Aufnahme oder Ausübung einer Dienstleistungstätigkeit in ihrem Hoheitsgebiet nicht von einer der folgenden Anforderungen abhängig machen
+
+
+
+
+
+einer wirtschaftlichen Überprüfung im Einzelfall bei der die Erteilung der Genehmigung vom Nachweis eines wirtschaftlichen Bedarfs oder einer Marktnachfrage abhängig gemacht wird oder der Beurteilung der tatsächlichen oder möglichen wirtschaftlichen Auswirkungen der Tätigkeit oder der Bewertung ihrer Eignung für die Verwirklichung wirtschaftlicher von der zuständigen Behörde festgelegter Programmziele dieses Verbot betrifft nicht Planungserfordernisse die keine wirtschaftlichen Ziele verfolgen sondern zwingenden Gründen des Allgemeininteresses dienen
+
+
+
+Nach Art  Zu prüfende Anforderungen der Richtlinie  gilt
+
+   Die Mitgliedstaaten prüfen ob ihre Rechtsordnungen die in Absatz  aufgeführten Anforderungen vorsehen und stellen sicher dass diese Anforderungen die Bedingungen des Absatzes  erfüllen Die Mitgliedstaaten ändern ihre Rechts und Verwaltungsvorschriften um sie diesen Bedingungen anzupassen
+
+   Die Mitgliedstaaten prüfen ob ihre Rechtsordnung die Aufnahme oder Ausübung einer Dienstleistungstätigkeit von folgenden nicht diskriminierenden Anforderungen abhängig macht
+
+a
+
+mengenmäßigen oder territorialen Beschränkungen insbesondere in Form von Beschränkungen aufgrund der Bevölkerungszahl oder bestimmter Mindestentfernungen zwischen Dienstleistungserbringern
+
+
+
+   Die Mitgliedstaaten prüfen ob die in Absatz  genannten Anforderungen folgende Bedingungen erfüllen
+
+a
+
+NichtDiskriminierung Die Anforderungen dürfen weder eine direkte noch eine indirekte Diskriminierung aufgrund der Staatsangehörigkeit oder  bei Gesellschaften  aufgrund des Orts des satzungsmäßigen Sitzes darstellen
+
+b
+
+Erforderlichkeit Die Anforderungen müssen durch einen zwingenden Grund des Allgemeininteresses gerechtfertigt sein
+
+c
+
+Verhältnismäßigkeit Die Anforderungen müssen zur Verwirklichung des mit ihnen verfolgten Ziels geeignet sein sie dürfen nicht über das hinausgehen was zur Erreichung dieses Ziels erforderlich ist diese Anforderungen können nicht durch andere weniger einschneidende Maßnahmen ersetzt werden die zum selben Ergebnis führen
+
+
+
+
+
+Kapitel IV Freier Dienstleistungsverkehr der Richtlinie  umfasst die Art  bis  dieser Richtlinie
+
+
+
+Art  Dienstleistungsfreiheit Abs  Unterabs  der Richtlinie  sieht vor
+
+Die Mitgliedstaaten achten das Recht der Dienstleistungserbringer Dienstleistungen in einem anderen Mitgliedstaat als demjenigen ihrer Niederlassung zu erbringen
+
+
+
+Art  Ausnahmen im Einzelfall der Richtlinie  besagt in Abs 
+
+Abweichend von Artikel  und nur in Ausnahmefällen können die Mitgliedstaaten Maßnahmen gegenüber einem in einem anderen Mitgliedstaat niedergelassenen Dienstleistungserbringer ergreifen die sich auf die Sicherheit der Dienstleistungen beziehen
+
+Niederländisches Recht
+
+Rechtssache C
+
+
+
+Nach Art  Abs  der Telecommunicatiewet Telekommunikationsgesetz vom  Oktober  Stb  Nr  haben Inhaber von Rechten an öffentlichen Grundstücken oder Verwalter solcher Grundstücke  zu dulden dass zum Aufbau eines öffentlichen elektronischen Kommunikationsnetzes Kabel in und auf diesen Grundstücken verlegt gewartet oder entfernt werden
+
+
+
+Art  dieses Gesetzes bestimmt
+
+   Anbieter eines öffentlichen elektronischen Kommunikationsnetzes die beabsichtigen im Zusammenhang mit der Verlegung Wartung oder Entfernung von Kabeln Arbeiten in oder auf öffentlichen Grundstücken auszuführen nehmen diese Arbeiten nur vor wenn sie
+
+a
+
+diese Absicht schriftlich bei Bürgermeister und Beigeordneten der Gemeinde angezeigt haben auf deren Gebiet die auszuführenden Arbeiten stattfinden sollen und
+
+b
+
+die Genehmigung von Bürgermeister und Beigeordneten in Bezug auf Ort Zeitpunkt und Art der Ausführung der Arbeiten erhalten haben
+
+   Bürgermeister und Beigeordnete können den Genehmigungsbescheid aus Gründen der öffentlichen Ordnung Sicherheit der Vermeidung oder Verringerung von Störungen der Erreichbarkeit von Grundstücken oder Gebäuden oder der Tiefbauordnung mit Auflagen versehen
+
+   Die Auflagen können sich nur beziehen auf
+
+a
+
+den Ort der Arbeiten
+
+b
+
+den Zeitpunkt der Arbeiten wobei der gestattete Anfangszeitpunkt vorbehaltlich schwerwiegender Gründe des öffentlichen Interesses im Sinne von Abs  nicht später als zwölf Monate nach dem Tag des Erlasses des Genehmigungsbescheids liegen darf
+
+c
+
+die Art der Ausführung der Arbeiten
+
+d
+
+die Förderung der gemeinsamen Nutzung von Einrichtungen
+
+e
+
+die Abstimmung der beabsichtigten Arbeiten mit Betreibern weiterer auf dem Grundstück vorhandener Bauwerke
+
+
+
+Nach Art  Abs  Buchst b der Gemeentewet Gemeindeordnung können für Leistungen die von der Gemeindeverwaltung oder in ihrem Namen erbracht werden Gebühren erhoben werden
+
+
+
+Nach Art  der Verordening leges  Gebührenverordnung von  der Gemeinde Amersfoort werden unter der Bezeichnung Gebühren  für die Inanspruchnahme von Leistungen die von oder im Auftrag der Gemeindeverwaltung erbracht werden die in dieser Verordnung und der zugehörigen Gebührentabelle aufgeführten Abgaben erhoben
+
+
+
+Art  der Gebührenverordnung bestimmt den Tarif für die Bearbeitung der Genehmigungsanträge im Sinne von Art  des Telekommunikationsgesetzes
+
+Rechtssache C
+
+
+
+Nach Art  Abs  der Wet ruimtelijke ordening Raumordnungsgesetz vom  Oktober  Stb  Nr  stellt der Gemeinderat für das gesamte Gemeindegebiet einen oder mehrere Bauleitpläne auf in denen zum Zweck einer geordneten Raumplanung die Bestimmung der vom Plan erfassten Flächen dargestellt wird und Regeln für diese Bestimmung festgelegt werden
+
+
+
+Gemäß Art  Abs  des vom Gemeinderat von Appingedam mit Beschluss vom  Juni  aufgestellten Bauleitplans sind die für Einzelhandel   ausgewiesenen Flächen nur für den Einzelhandel für Waren mit großem Platzbedarf bestimmt
+
+
+
+Nach Art  Abs  Nr  dieses Bauleitplans bezeichnet der Ausdruck Einzelhandel für Waren mit großem Platzbedarfden Einzelhandel der sich aufgrund des großen Platzbedarfs der verkauften Waren  nicht mehr ohne Weiteres in die bereits bestehenden Einkaufszentren einfügen lässt darunter  der Einzelhandel mit Automobilen Booten Wohnwagen Zelten Küchen Badezimmern Möbeln Baumaterial landwirtschaftlichen Maschinen Gartenartikeln Reitsportartikeln Fahrrädern und Autoteilen
+
+
+
+Art  Abs  des Bauleitplans sieht keine Möglichkeit vor Ausnahmen von den in diesem Plan festgelegten Regeln zuzulassen Jedoch kann nach Art  Abs  der Wet algemene bepalingen omgevingsrecht Gesetz mit allgemeinen Bestimmungen zum Umgebungsrecht vom  November  Stb  Nr  jeder Betroffene eine Umgebungsgenehmigung beantragen die eine Abweichung vom Bauleitplan zulässt
+
+Ausgangsrechtsstreitigkeiten und Vorlagefragen
+
+Rechtssache C
+
+
+
+Gemäß der Vorlageentscheidung wurde X durch einen im Dezember  mit der Gemeinde Amersfoort geschlossenen Vertrag mit dem Aufbau eines Glasfasernetzes in dieser Gemeinde beauftragt
+
+
+
+Zu diesem Zweck beantragte X beim Magistrat für jedes Teilstück des Netzes gemäß Art  Abs  Buchst b des Telekommunikationsgesetzes eine Genehmigung in Bezug auf Ort Zeitpunkt und Art der Ausführung der für die Verlegung der Glasfaserkabel erforderlichen Aushubarbeiten
+
+
+
+Für die Bearbeitung dieser Genehmigungsanträge verlangte die Gemeinde Amersfoort von X auf der Grundlage der Gebührenverordnung von  Gebühren in Höhe von insgesamt  Euro
+
+
+
+X erhob bei der Rechtbank te Utrecht Gericht Utrecht Niederlande eine Klage mit der sie die Höhe dieser Gebühren beanstandete
+
+
+
+Nachdem ihre Klage abgewiesen worden war legte X beim Gerechtshof ArnhemLeeuwarden Berufungsgericht ArnhemLeeuwarden Niederlande Berufung ein In seinem Urteil vom  Juli  führte dieses Gericht zunächst aus dass der Rechtsstreit unter Art  der Genehmigungsrichtlinie falle da zum einen die von X verlangten Gebühren mit elektronischen Kommunikationsdiensten zusammenhingen und zum anderen die Gemeinde Amersfoort eine nationale Regulierungsbehörde im Folgenden NRB im Sinne der Rahmen und der Genehmigungsrichtlinie sei Es gelangte sodann zu dem Ergebnis dass die Höhe dieser Gebühren den in Art  der Genehmigungsrichtlinie vorgesehenen Höchstbetrag überschreite so dass der an X gerichtete Gebührenbescheid rechtswidrig sei
+
+
+
+Gegen dieses Urteil legte der Magistrat beim Hoge Raad der Nederlanden Oberster Gerichtshof der Niederlande Kassationsbeschwerde ein X legte ihrerseits eine Anschlusskassationsbeschwerde ein
+
+
+
+Mit der Kassationsbeschwerde wird gerügt der Gerechtshof ArnhemLeeuwarden Berufungsgericht ArnhemLeeuwarden habe zu Unrecht festgestellt dass der Rechtsstreit unter Art  der Genehmigungsrichtlinie falle obwohl die Gemeinde Amersfoort niemals zur NRB im Sinne der Rahmen und der Genehmigungsrichtlinie bestimmt worden sei
+
+
+
+Das vorlegende Gericht hält diese Rüge für begründet da in den Niederlanden nur der nationale Gesetzgeber die Kroon Krone Niederlande der Minister van Economische Zaken Wirtschaftsminister Niederlande und die Onafhankelijke Post en Telecommunicatie Autoriteit Unabhängige Post und Telekommunikationsbehörde Niederlande die am  April  zur Autoriteit Consument en Markt Behörde für Verbraucher und Marktangelegenheiten Niederlande geworden sei NRB seien Daher könne Art  Abs  Buchst c der Richtlinie  nicht in Verbindung mit Art  der Genehmigungsrichtlinie geltend gemacht werden
+
+
+
+Mit der Anschlusskassationsbeschwerde wird beanstandet der Gerechtshof ArnhemLeeuwarden Berufungsgericht ArnhemLeeuwarden habe Art  Abs  der Richtlinie  unberücksichtigt gelassen
+
+
+
+Insoweit hat das vorlegende Gericht allerdings Zweifel ob die Erhebung der im Ausgangsverfahren streitigen Gebühren wirklich in den Anwendungsbereich der Richtlinie  fällt da erstens diese Richtlinie nach ihrem Art  Abs  nicht für den Bereich der Steuern gelte zweitens der Sachverhalt des Ausgangsverfahrens ein rein innerstaatlicher nur das Königreich der Niederlande betreffender Sachverhalt ohne jeglichen Auslandsbezug sei und drittens die Genehmigung der Aushubarbeiten offenbar den Vorschriften bezüglich der Stadtentwicklung und Bodennutzung unterliege also einer Art von Vorschriften deren Anforderungen nach dem neunten Erwägungsgrund dieser Richtlinie nicht in deren Anwendungsbereich fielen
+
+
+
+Unter diesen Umständen hat der Hoge Raad der Nederlanden Oberster Gerichtshof der Niederlande beschlossen das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen
+
+Rechtssache C
+
+
+
+Gemäß der Vorlageentscheidung besteht im Gebiet der Gemeinde Appingedam  außerhalb des traditionellen Ladenviertels im Stadtzentrum  ein Woonplein genanntes Gewerbegebiet mit Geschäften für Waren mit großem Platzbedarf In diesem Gewerbegebiet befinden sich u a Geschäfte für Möbel Küchen Wohnungseinrichtung Heimwerkerbedarf Baumaterial Gartenartikel Fahrräder Reitsportartikel Autos und Autoteile
+
+
+
+Nach Art  des Bauleitplans der Gemeinde Appingedam ist das Woonplein ausschließlich für den Einzelhandel für Waren mit großem Platzbedarf bestimmt
+
+
+
+Visser die Gewerbeflächen im Woonplein besitzt möchte eine dieser Flächen an die Bristol BV vermieten die eine Discounterkette für Schuhe und Bekleidung betreibt
+
+
+
+Visser erhob beim Raad van State Staatsrat Niederlande Klage gegen den Beschluss des Gemeinderats von Appingedam mit dem der Bauleitplan aufgestellt wurde soweit dieser im Woonplein keine Eröffnung von Einzelhandelsgeschäften für Schuhe und Bekleidung zulässt Zur Stützung ihrer Klage macht sie insbesondere geltend dass dieser Bauleitplan gegen die Art  und  der Richtlinie  verstoße
+
+
+
+Der Gemeinderat von Appingedam entgegnet es sei durch städtebauliche Erwägungen gerechtfertigt dass sich ein Einzelhandelsgeschäft für Schuhe und Bekleidung nur im Stadtzentrum niederlassen dürfe Zweck dieser Regelung sei die Lebensqualität im Stadtzentrum zu erhalten einen gedeihlichen Betrieb des dort befindlichen Einkaufszentrums zu gewährleisten und strukturellen Leerstand der Geschäftslokale im Stadtzentrum so weit wie möglich zu vermeiden
+
+
+
+Unter diesen Umständen hat der Raad van State Staatsrat beschlossen das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen
+
+
+
+Mit Beschluss des Präsidenten des Gerichtshofs vom  Februar  sind die Rechtssachen C und C zu gemeinsamem mündlichen Verfahren und zu gemeinsamer Entscheidung verbunden worden
+
+Zu den Vorlagefragen
+
+Rechtssache C
+
+Zur ersten und zur dritten Frage
+
+
+
+Mit der ersten und der dritten Frage die zusammen zu prüfen sind soll geklärt werden ob die Richtlinie  angesichts ihres Art  Abs  und ihres neunten Erwägungsgrundes auf den Ausgangsrechtsstreit in dieser Rechtssache anwendbar ist
+
+
+
+Einleitend ist darauf hinzuweisen dass der Gerichtshof gemäß seiner ständigen Rechtsprechung auch wenn das vorlegende Gericht den Wortlaut seiner Fragen auf die Auslegung bestimmter Vorschriften des Unionsrechts beschränkt hat dadurch nicht gehindert ist diesem Gericht alle Hinweise zur Auslegung des Unionsrechts zu geben die ihm bei der Entscheidung des bei ihm anhängigen Verfahrens von Nutzen sein können vgl in diesem Sinne Urteil vom  November  Lounes C EUC Rn  und die dort angeführte Rechtsprechung
+
+
+
+Außerdem ist der Gerichtshof der dazu aufgerufen ist dem nationalen Gericht zweckdienliche Antworten zu geben befugt dem vorlegenden Gericht auf der Grundlage der Akten des Ausgangsverfahrens und der vor ihm abgegebenen schriftlichen und mündlichen Erklärungen Hinweise zu geben Urteil vom  Oktober  Trijber und Harmsen C und C EUC Rn  und die dort angeführte Rechtsprechung
+
+
+
+Im vorliegenden Fall geht aus den Angaben in der Vorlageentscheidung hervor dass die der ersten und der dritten Frage zugrunde liegenden Zweifel des vorlegenden Gerichts die Reichweite des Anwendungsbereichs der Richtlinie  betreffen
+
+
+
+Nach Art  Abs  der Richtlinie  gilt diese für Dienstleistungen die von einem in einem Mitgliedstaat niedergelassenen Dienstleistungserbringer angeboten werden Art  Abs  der Richtlinie schließt allerdings eine Reihe von Tätigkeiten von ihrem Anwendungsbereich aus Nach Art  Abs  gilt die Richtlinie nicht für den Bereich der Steuern
+
+
+
+Somit ist zunächst zu prüfen ob der Ausgangsrechtsstreit unter eine der in Art  Abs  der Richtlinie  genannten Ausnahmen fällt
+
+
+
+Insoweit sieht Art  Abs  Buchst c der Richtlinie  vor dass diese weder auf Dienstleistungen und Netze der elektronischen Kommunikation noch auf zugehörige Einrichtungen und Dienste in den Bereichen die u a in der Rahmen und der Genehmigungsrichtlinie geregelt sind Anwendung findet
+
+
+
+Ferner heißt es im  Erwägungsgrund der Richtlinie  dass der Unionsgesetzgeber angesichts der im Jahr  erfolgten Verabschiedung einer Reihe von Rechtsakten über die Netze und Dienste der elektronischen Kommunikation sowie über die damit zusammenhängenden Ressourcen und Dienste die  einen Rechtsrahmen für die Erleichterung des Zugangs zu diesen Tätigkeiten im Binnenmarkt geschaffen hat beabsichtigt hat die durch diese Rechtsakte geregelten Fragen vom Anwendungsbereich dieser Richtlinie auszunehmen
+
+
+
+Im  Erwägungsgrund der Richtlinie wird präzisiert dass die Ausnahmen vom Anwendungsbereich dieser Richtlinie hinsichtlich Angelegenheiten der elektronischen Kommunikationsdienste im Sinne u a der Rahmen und der Genehmigungsrichtlinie nicht nur für Fragen gelten sollten die spezifisch in diesen Richtlinien geregelt sind sondern auch für Bereiche bei denen die Richtlinien den Mitgliedstaaten ausdrücklich die Möglichkeit belassen bestimmte Maßnahmen auf nationaler Ebene zu erlassen
+
+
+
+Im vorliegenden Fall ist unstreitig dass X elektronische Kommunikationsnetze im Sinne der Genehmigungsrichtlinie errichtet Das vorlegende Gericht geht dennoch davon aus dass das Ausgangsverfahren nicht in einen durch diese Richtlinie genauer ihren Art  geregelten Bereich falle so dass der Ausschluss nach Art  Abs  Buchst c der Richtlinie  nicht greife Bei den von Art  der Genehmigungsrichtlinie erfassten Verwaltungsabgaben handle es sich nämlich um Abgaben die von einer NRB erhoben würden Diese Eigenschaft besitze die Gemeinde Amersfoort jedoch nicht
+
+
+
+Insoweit ist darauf hinzuweisen dass die Verwaltungsabgaben die die Mitgliedstaaten gemäß Art  der Genehmigungsrichtlinie von Unternehmen die aufgrund einer Allgemeingenehmigung elektronische Kommunikationsnetze oder dienste bereitstellen oder denen ein Nutzungsrecht gewährt wurde erheben können um die Tätigkeiten der NRB zu finanzieren insgesamt lediglich der Deckung der administrativen Kosten für die in Art  Abs  Buchst a dieser Richtlinie genannten Tätigkeiten dienen dürfen Urteil vom  Juli  Autorità per le Garanzie nelle Comunicazioni C EUC Rn  und die dort angeführte Rechtsprechung
+
+
+
+Aus den dem Gerichtshof vorliegenden Akten geht aber nicht hervor dass die Gebühren die die Gemeinde Amersfoort im Ausgangsverfahren von X verlangt insgesamt der Deckung der administrativen Kosten für eine oder mehrere der genannten Tätigkeiten dienen
+
+
+
+Allerdings ist hervorzuheben dass Art  der Genehmigungsrichtlinie nicht die einzige Bestimmung dieser Richtlinie ist die die finanziellen Belastungen betrifft die die Mitgliedstaaten von Unternehmen die im Rahmen der Richtlinie elektronische Kommunikationsnetze oder dienste bereitstellen erheben können vgl in diesem Sinne Urteil vom  Dezember  Proximus C EUC Rn  bis  und die dort angeführte Rechtsprechung
+
+
+
+Nach Art  der Genehmigungsrichtlinie können die Mitgliedstaaten nämlich der zuständigen Behörde gestatten bei Nutzungsrechten für Funkfrequenzen oder Nummern oder bei Rechten für die Installation von Einrichtungen auf über oder unter öffentlichem oder privatem Grundbesitz Entgelte zu erheben die eine optimale Nutzung dieser Ressourcen sicherstellen sollen
+
+
+
+Nach der Rechtsprechung des Gerichtshofs zu Art  der Genehmigungsrichtlinie verweisen die in dieser Vorschrift verwendeten Begriffe Einrichtungen und Installation auf physische Infrastrukturen die die Bereitstellung elektronischer Kommunikationsnetze und dienste ermöglichen bzw auf deren physische Schaffung auf dem betreffenden öffentlichen oder privaten Grundbesitz Urteil vom  Oktober  Base Company C EUC Rn  und die dort angeführte Rechtsprechung
+
+
+
+Im vorliegenden Fall geht aus den dem Gerichtshof vorliegenden Akten hervor dass nach Art  Abs  des Telekommunikationsgesetzes Inhaber von Rechten an öffentlichen Grundstücken oder Verwalter solcher Grundstücke zu dulden haben dass zum Aufbau eines öffentlichen elektronischen Kommunikationsnetzes Kabel in und auf diesen Grundstücken verlegt gewartet oder entfernt werden
+
+
+
+Im Hinblick auf die Ausübung des ihnen durch Art  Abs  des Telekommunikationsgesetzes eingeräumten Rechts zur Verlegung von Kabeln für ein öffentliches elektronisches Kommunikationsnetz können die Anbieter elektronischer Kommunikationsnetze verpflichtet werden an die Behörden Gebühren  wie etwa die Gebühren die die Gemeinde Amersfoort im Ausgangsverfahren nach Art  Abs  Buchst b der Gemeindeordnung und gemäß der Gebührenverordnung von  von X verlangt hat  zu entrichten um die notwendigen Genehmigungen in Bezug auf Ort Zeitpunkt und Art der Ausführung der Arbeiten im Sinne von Art  Abs  Buchst b des Telekommunikationsgesetzes zu erhalten
+
+
+
+In diesem Zusammenhang ist davon auszugehen dass der anspruchsbegründende Tatbestand solcher Gebühren an das Recht der zur Bereitstellung elektronischer Kommunikationsnetze ermächtigten Unternehmen zur Installation von Einrichtungen im Sinne von Art  der Genehmigungsrichtlinie anknüpft
+
+
+
+Der Umstand dass die Gemeinde Amersfoort weder im Sinne von Art  Buchst g der Rahmenrichtlinie noch im Sinne der Genehmigungsrichtlinie aufgrund des Verweises in ihrem Art  Abs  eine NRB ist steht dem nicht entgegen dass die von X verlangten Gebühren anhand von Art  der Genehmigungsrichtlinie zu prüfen sind
+
+
+
+Nach dem Wortlaut von Art  der Genehmigungsrichtlinie steht die Möglichkeit bei Rechten für die Installation von Einrichtungen auf über oder unter öffentlichem oder privatem Grundbesitz Entgelte zu erheben anders als nach Art  dieser Richtlinie der zuständigen Behörde zu und nicht der NRB
+
+
+
+Zum normativen Kontext in dem Art  der Genehmigungsrichtlinie steht ist festzustellen dass der Wortlaut dieser Vorschrift hinsichtlich der darin genannten Behörde demjenigen von Art  Abs  der Rahmenrichtlinie entspricht in dem der Fall geregelt ist dass die zuständige Behörde einen Antrag auf Erteilung von Rechten für die Installation von Einrichtungen auf über oder unter öffentlichem oder privatem Grundbesitz prüft
+
+
+
+Art  Abs  der Rahmenrichtlinie sieht seinerseits vor dass die Mitgliedstaaten dafür sorgen dass bei öffentlichen Behörden oder Gebietskörperschaften die an Betreibern öffentlicher elektronischer Kommunikationsnetze undoder öffentlich zugänglicher elektronischer Kommunikationsdienste beteiligt sind oder diese kontrollieren eine wirksame strukturelle Trennung zwischen der für die Erteilung der in Art  Abs  dieser Richtlinie genannten Rechte zuständigen Stelle und den Tätigkeiten im Zusammenhang mit dem Eigentum oder der Kontrolle besteht
+
+
+
+Ferner bestimmt Art  Abs  der Rahmenrichtlinie dass die zuständigen nationalen Behörden die Möglichkeit haben müssen von den Unternehmen zu verlangen dass sie die erforderlichen Informationen liefern damit diese Behörden in Zusammenarbeit mit den NRB ein detailliertes Verzeichnis der Art Verfügbarkeit und geografischen Lage der Einrichtungen auf über oder unter öffentlichem oder privatem Grundbesitz erstellen können
+
+
+
+Was den Zweck der Genehmigungsrichtlinie angeht ist darauf hinzuweisen dass sie wie aus ihrem Art  Abs  in Verbindung mit ihrem ersten Erwägungsgrund hervorgeht eine Senkung der Kosten des Marktzugangs zum Ziel hat um die Bereitstellung elektronischer Kommunikationsnetze und dienste in der ganzen Union zu erleichtern
+
+
+
+Damit folgt weder aus dem Wortlaut von Art  der Genehmigungsrichtlinie noch aus dem normativen Kontext dieses Artikels oder dem Zweck dieser Richtlinie dass der Begriff zuständige Behörde so zu verstehen wäre dass er ausschließlich die NRB bezeichnet und daher die von einer zuständigen nationalen Behörde die keine NRB ist auferlegten finanziellen Belastungen nicht anhand dieses Art  zu prüfen sind
+
+
+
+Jedenfalls dürfen die Mitgliedstaaten nach ständiger Rechtsprechung des Gerichtshofs im Rahmen der Genehmigungsrichtlinie keine anderen Abgaben oder Entgelte für die Bereitstellung elektronischer Kommunikationsnetze und dienste als die in der Richtlinie vorgesehenen erheben Urteil vom  September  Belgacom und Mobistar C und C EUC Rn  und die dort angeführte Rechtsprechung Welche finanziellen Belastungen die zuständigen nationalen Behörden auf die Bereitstellung solcher Netze und Dienste erheben oder nicht erheben können richtet sich also nach dieser Richtlinie
+
+
+
+Die Erhebung von Gebühren deren anspruchsbegründender Tatbestand an die Rechte der zur Bereitstellung elektronischer Kommunikationsnetze und dienste ermächtigten Unternehmen zur Verlegung von Kabeln für ein öffentliches elektronisches Kommunikationsnetz anknüpft ist demnach ein in der Genehmigungsrichtlinie geregelter Bereich im Sinne von Art  Abs  Buchst c der Richtlinie 
+
+
+
+Unter diesen Umständen ist es nicht mehr notwendig sich in der vorliegenden Rechtssache zur Auslegung von Art  Abs  und des neunten Erwägungsgrundes der Richtlinie  zu äußern
+
+
+
+Nach alledem ist auf die erste und die dritte Frage zu antworten dass Art  Abs  Buchst c der Richtlinie  dahin auszulegen ist dass diese Richtlinie nicht für Gebühren gilt deren anspruchsbegründender Tatbestand an die Rechte der zur Bereitstellung elektronischer Kommunikationsnetze und dienste ermächtigten Unternehmen zur Verlegung von Kabeln für ein öffentliches elektronisches Kommunikationsnetz anknüpft
+
+Zu den Fragen   und 
+
+
+
+Aus der Beantwortung der ersten und der dritten Frage folgt dass die Richtlinie  auf das Ausgangsverfahren keine Anwendung findet Daher ist auf die Fragen   und  nicht zu antworten
+
+Rechtssache C
+
+Zur ersten Frage
+
+
+
+Mit seiner ersten Frage möchte das vorlegende Gericht wissen ob Art  Nr  der Richtlinie  dahin auszulegen ist dass die Tätigkeit des Einzelhandels mit Waren wie Schuhen und Bekleidung eine Dienstleistung im Sinne dieser Richtlinie darstellt
+
+
+
+Aus der Vorlageentscheidung geht hervor dass die diesbezüglichen Zweifel des vorlegenden Gerichts hauptsächlich damit zusammenhängen dass der Gerichtshof mit Urteil vom  Mai  Burmanjer u a C EUC Rn  bis  festgestellt hat dass eine nationale Regelung über den ambulanten Verkauf die die Bedingungen betrifft die beim Vertrieb einer bestimmten Art von Waren einzuhalten sind den Bestimmungen des AEUVertrags über den freien Warenverkehr und nicht denjenigen über den freien Dienstleistungsverkehr unterliegt
+
+
+
+Wie in Rn  des vorliegenden Urteils dargelegt gilt die Richtlinie  gemäß ihrem Art  Abs  für Dienstleistungen die von einem in einem Mitgliedstaat niedergelassenen Dienstleistungserbringer angeboten werden mit Ausnahme der in Art  Abs  und  genannten Tätigkeiten und Bereiche
+
+
+
+Nach Art  Nr  dieser Richtlinie bezeichnet der Ausdruck Dienstleistung für die Zwecke der Richtlinie jede von Art  AEUV erfasste selbständige Tätigkeit die in der Regel gegen Entgelt erbracht wird
+
+
+
+Im vorliegenden Fall besteht kein Zweifel daran dass die im Ausgangsverfahren in Rede stehende Einzelhandelstätigkeit zum einen eine gegen Entgelt erbrachte selbständige Tätigkeit darstellt und zum anderen nicht unter die in Art  Abs  und  der Richtlinie  genannten Ausschlüsse vom Anwendungsbereich dieser Richtlinie fällt Zudem sind kaufmännische Tätigkeiten in Art  AEUV ausdrücklich in der Liste mit Beispielen von Leistungen aufgeführt die nach diesem Artikel als Dienstleistungen gelten
+
+
+
+Des Weiteren wird im  Erwägungsgrund der Richtlinie  betont dass die von dieser Richtlinie erfassten Dienstleistungen einen weiten Bereich von Tätigkeiten umfassen die einem ständigen Wandel unterworfen sind und es wird ausdrücklich ausgeführt dass zu diesen Tätigkeiten Dienstleistungen gehören die sowohl für Unternehmen als auch für Verbraucher angeboten werden wie etwa der Handel
+
+
+
+Da das Ausgangsverfahren den Handel mit Waren betrifft ist außerdem darauf hinzuweisen dass der  Erwägungsgrund der Richtlinie  zwar auf das Verhältnis zwischen dieser Richtlinie und den Art  bis  AEUV über den freien Warenverkehr eingeht aber nur klarstellt dass es sich bei den der Richtlinie unterliegenden Beschränkungen um Anforderungen für die Aufnahme und Ausübung von Dienstleistungstätigkeiten handelt und nicht um Anforderungen die sich auf Waren als solche beziehen Wie die Kommission hervorgehoben hat betreffen die Vorschriften des im Ausgangsverfahren in Rede stehenden Bauleitplans aber keine Waren als solche sondern die Voraussetzungen für die räumliche Ansiedlung von Tätigkeiten die den Verkauf bestimmter Waren zum Gegenstand haben und damit die Voraussetzungen für die Aufnahme dieser Tätigkeiten
+
+
+
+Vor diesem Hintergrund ist davon auszugehen dass die Tätigkeit des Einzelhandels mit Waren wie Schuhen und Bekleidung unter den Begriff Dienstleistung im Sinne von Art  Nr  der Richtlinie  fällt
+
+
+
+Diese Auslegung wird nicht durch die vom vorlegenden Gericht angeführte Rechtsprechung des Gerichtshofs zum Verhältnis zwischen den Bestimmungen des AEUVertrags über den freien Dienstleistungsverkehr und denjenigen über die anderen durch diesen Vertrag garantierten Grundfreiheiten in Frage gestellt die sich nicht auf die Bestimmung des Anwendungsbereichs der Richtlinie  übertragen lässt
+
+
+
+Hielte man diese Richtlinie wie von der niederländischen Regierung vorgeschlagen für unanwendbar wenn die Umstände des betreffenden Falles unter die Niederlassungsfreiheit fallen könnte dies nämlich wie der Generalanwalt in Nr  seiner Schlussanträge ausgeführt hat Kapitel III der Richtlinie das die Niederlassungsfreiheit der Dienstleistungserbringer betrifft seinen Anwendungsbereich und damit der Richtlinie soweit sie darauf abzielt die Beschränkungen der Ausübung der Niederlassungsfreiheit zu beseitigen ihre praktische Wirksamkeit nehmen
+
+
+
+Ganz allgemein betrachtet kann es zur Verwirklichung des Ziels der Rechtssicherheit  die die Richtlinie wie aus ihrem fünften Erwägungsgrund hervorgeht gewährleisten soll  beitragen wenn die Anwendbarkeit der Richtlinie  nicht von einer Vorabprüfung der Bedeutung des die Dienstleistungsfreiheit betreffenden Aspekts anhand der spezifischen Umstände des Einzelfalls abhängt
+
+
+
+Zudem wäre eine derartige Prüfung hinsichtlich des Einzelhandels mit Waren besonders komplex da dieser Handel heutzutage über den rechtlichen Verkaufsakt hinaus eine immer größere Bandbreite an Tätigkeiten oder Dienstleistungen umfasst die eng ineinandergreifen und zum Ziel haben den Verbraucher dazu zu bewegen den Kauf mit dem einen und nicht mit dem anderen Wirtschaftsteilnehmer abzuschließen ihn beim Kauf zu beraten und zu unterstützen oder ihm Kundendienstleistungen anzubieten wobei diese Tätigkeiten oder Dienstleistungen je nach Händler stark variieren können
+
+
+
+Darüber hinaus liefe die gleichzeitige Prüfung einer nationalen Maßnahme anhand der Bestimmungen der Richtlinie  und anhand derjenigen des AEUVertrags in dem Fall dass es sich als unmöglich erweist zu bestimmen ob die die Dienstleistungsfreiheit betreffenden Aspekte gegenüber den mit anderen Grundfreiheiten zusammenhängenden Aspekten überwiegen darauf hinaus dass eine Einzelfallprüfung nach dem Primärrecht eingeführt würde was die gezielte Harmonisierung die mit der Richtlinie vorgenommen wird untergraben würde vgl in diesem Sinne Urteil vom  Juni  Rina Services u a C EUC Rn  und 
+
+
+
+Nach alledem ist auf die erste Frage zu antworten dass Art  Nr  der Richtlinie  dahin auszulegen ist dass die Tätigkeit des Einzelhandels mit Waren eine Dienstleistung im Sinne dieser Richtlinie darstellt
+
+Zur vierten Frage
+
+
+
+Mit seiner vierten Frage die an zweiter Stelle zu prüfen ist möchte das vorlegende Gericht wissen ob die in Kapitel III der Richtlinie  enthaltenen Bestimmungen über die Niederlassungsfreiheit der Dienstleistungserbringer auf einen Sachverhalt anwendbar sind dessen Merkmale sämtlich nicht über die Grenzen eines einzigen Mitgliedstaats hinausweisen
+
+
+
+Insoweit ist zunächst festzustellen dass der Wortlaut dieser Bestimmungen keinerlei Voraussetzung benennt nach der ein Auslandsbezug bestehen müsste Insbesondere enthalten Art  Abs  Art  und Art  Abs  der Richtlinie  die die Genehmigungsregelungen die unzulässigen Anforderungen und die zu prüfenden Anforderungen betreffen keine Bezugnahme auf einen grenzüberschreitenden Aspekt
+
+
+
+Was sodann den Kontext betrifft in dem Kapitel III der Richtlinie  steht bestimmt Art  Abs  dieser Richtlinie in allgemeinen Worten ohne zwischen Dienstleistungstätigkeiten mit und ohne Auslandsbezug zu unterscheiden dass diese Richtlinie für Dienstleistungen die von einem in einem Mitgliedstaat niedergelassenen Dienstleistungserbringer angeboten werden gilt
+
+
+
+Ebenso wenig enthalten Art  Nr  und Art  Nr  der Richtlinie  in denen die Begriffe Dienstleistungserbringer und Niederlassung definiert werden eine Bezugnahme auf einen grenzüberschreitenden Aspekt Diese Bestimmungen verweisen zwar auf die Art  und  AEUV allerdings nur um deutlich zu machen dass die in Art  Nr  und Art  Nr  der Richtlinie verwendeten Begriffe juristische Person und wirtschaftliche Tätigkeit im Sinne der Art  und  AEUV zu verstehen sind
+
+
+
+Im Gegensatz dazu hat der Unionsgesetzgeber in den Vorschriften des Kapitels IV der Richtlinie  über den freien Dienstleistungsverkehr an mehreren Stellen  u a in Art  Abs  und Art  Abs   eigens klargestellt dass diese Vorschriften das Recht der Dienstleistungserbringer Dienstleistungen in einem anderen Mitgliedstaat als demjenigen ihrer Niederlassung zu erbringen und den Fall eines in einem anderen Mitgliedstaat niedergelassenen Dienstleistungserbringers betreffen
+
+
+
+Schließlich steht die Auslegung dass die Bestimmungen in Kapitel III der Richtlinie  nicht nur auf den Dienstleistungserbringer der sich in einem anderen Mitgliedstaat niederlassen will sondern auch auf denjenigen der sich in seinem eigenen Mitgliedstaat niederlassen will anwendbar sind mit den Zielen dieser Richtlinie im Einklang
+
+
+
+Insoweit ergibt sich aus Art  der Richtlinie  in Verbindung mit ihren Erwägungsgründen  und  dass diese Richtlinie allgemeine Bestimmungen aufstellt die den Zweck verfolgen die Beschränkungen der Niederlassungsfreiheit von Dienstleistungserbringern in den Mitgliedstaaten und des freien Dienstleistungsverkehrs zwischen Mitgliedstaaten zu beseitigen um zur Schaffung eines freien und wettbewerbsfähigen Binnenmarkts beizutragen Urteil vom  Oktober  Trijber und Harmsen C und C EUC Rn 
+
+
+
+Die vollständige Ausgestaltung des Binnenmarkts für Dienstleistungen erfordert aber vor allem die Beseitigung der Beschränkungen auf die Dienstleistungserbringer bei der Niederlassung in Mitgliedstaaten  sei es ihr eigener oder ein anderer Mitgliedstaat  stoßen und die sie daran hindern können Dienstleistungen an Empfänger in der gesamten Union zu erbringen
+
+
+
+Im Hinblick auf die Schaffung eines wirklichen Binnenmarkts für Dienstleistungen verfolgt der Unionsgesetzgeber in der Richtlinie  einen Ansatz der wie im siebten Erwägungsgrund der Richtlinie dargelegt auf einem allgemeinen Rechtsrahmen beruht der aus einer Kombination verschiedener Maßnahmen besteht die ein hohes Maß an rechtlicher Integration auf Unionsebene gewährleisten sollen und zwar u a mittels einer Harmonisierung bestimmter Aspekte der Regelung der Dienstleistungstätigkeiten
+
+
+
+Folglich ist um die praktische Wirksamkeit des spezifischen Rechtsrahmens den der Unionsgesetzgeber mit dem Erlass der Richtlinie  einführen wollte nicht zu beeinträchtigen entgegen dem Vorbringen der deutschen Regierung in der mündlichen Verhandlung anzuerkennen dass sich der Anwendungsbereich dieser Richtlinie gegebenenfalls über das was die Bestimmungen des AEUVertrags über die Niederlassungsfreiheit und die Dienstleistungsfreiheit streng genommen vorsehen hinaus erstrecken kann unbeschadet der Verpflichtung der Mitgliedstaaten nach Art  Abs  der Richtlinie deren Bestimmungen in Übereinstimmung mit den Bestimmungen des Vertrags umzusetzen vgl in diesem Sinne Urteil vom  Juni  Rina Services u a C EUC Rn  und 
+
+
+
+Dass die Bestimmungen in Kapitel III der Richtlinie  auch auf rein innerstaatliche Sachverhalte anwendbar sind wird durch eine Untersuchung der Vorarbeiten zu dieser Richtlinie weiter gestützt Aus diesen Vorarbeiten geht nämlich hervor dass die im Zuge der Debatten im Europäischen Parlament eingereichten Änderungsvorschläge die darauf abzielten Art  Abs  der Richtlinie so umzuformulieren dass deren Anwendungsbereich auf grenzüberschreitende Sachverhalte beschränkt wird nicht angenommen wurden
+
+
+
+Zu dem von der niederländischen Regierung in der mündlichen Verhandlung hervorgehobenen Umstand dass Art  Abs  und Art  AEUV die Rechtsgrundlage der Richtlinie  darstellen ist darauf hinzuweisen dass in diesen Bestimmungen  anders als insbesondere in den Art  und  AEUV obwohl auch diese zu den Kapiteln  und  des Titels IV des dritten Teils des AEUVertrags gehören  nicht von einem Auslandsbezug die Rede ist Aus ihnen kann daher nicht geschlossen werden dass die Befugnis des Unionsgesetzgebers auf der Grundlage von Art  Abs  und Art  AEUV Richtlinien zu erlassen um die Aufnahme und Ausübung selbständiger Tätigkeiten zu erleichtern wie es mit der Richtlinie  für Dienstleistungstätigkeiten geschehen ist zwangsläufig einen Auslandsbezug voraussetzt
+
+
+
+Nach alledem ist auf die vierte Frage zu antworten dass die in Kapitel III der Richtlinie  enthaltenen Bestimmungen über die Niederlassungsfreiheit der Dienstleistungserbringer dahin auszulegen sind dass sie auch auf einen Sachverhalt anwendbar sind dessen Merkmale sämtlich nicht über die Grenzen eines einzigen Mitgliedstaats hinausweisen
+
+Zur dritten Frage
+
+
+
+Angesichts der Antwort auf die vierte Frage ist die dritte Frage nicht zu beantworten
+
+Zur zweiten und zur fünften Frage
+
+
+
+Mit der zweiten und der fünften Frage die zusammen zu prüfen sind möchte das vorlegende Gericht wissen ob die Art  und  sowie Art  Nr  der Richtlinie  in Verbindung mit deren Art  Nrn  und  im Licht ihres neunten Erwägungsgrundes dahin auszulegen sind dass sie Vorschriften in einem Bauleitplan einer Gemeinde entgegenstehen die die Tätigkeit des Einzelhandels mit Waren ohne großen Platzbedarf in Gebieten außerhalb des Stadtzentrums dieser Gemeinde verbieten
+
+
+
+Zunächst ist zu klären ob eine Regelung wie die im Ausgangsverfahren streitige unter den Begriff Genehmigungsregelung oder den Begriff Anforderungen im Sinne von Art  Nr  bzw Art  Nr  der Richtlinie  fällt
+
+
+
+Nach Art  Nr  der Richtlinie bezeichnet der Ausdruck Genehmigungsregelung für die Zwecke dieser Richtlinie jedes Verfahren das einen Dienstleistungserbringer oder empfänger verpflichtet bei einer zuständigen Behörde eine förmliche oder stillschweigende Entscheidung über die Aufnahme oder Ausübung einer Dienstleistungstätigkeit zu erwirken
+
+
+
+Im vorliegenden Fall ergibt sich aus den dem Gerichtshof zur Verfügung stehenden Informationen dass der im Ausgangsverfahren in Rede stehende Bauleitplan nicht unter diesen Begriff fällt Zwar eröffnet dieser Bauleitplan Dienstleistungserbringern die Möglichkeit bestimmte Einzelhandelstätigkeiten in festgelegten Gebieten zu entwickeln doch ergibt sich diese Möglichkeit nicht aus einer förmlichen Entscheidung die diese Dienstleistungserbringer zu diesem Zweck hätten erwirken müssen sondern aus dem Erlass von allgemeingültigen im Bauleitplan enthaltenen Vorschriften durch den Gemeinderat von Appingedam
+
+
+
+Diese Feststellung wird nicht durch den vom vorlegenden Gericht angeführten Umstand in Frage gestellt dass jeder Betroffene aufgrund anderer niederländischer Rechtsvorschriften mit eigenen Zielsetzungen die Möglichkeit hat sich an dem Verwaltungsverfahren in dem der Bauleitplan erlassen wird zu beteiligen einen gerichtlichen Rechtsbehelf gegen den Bauleitplan einzulegen oder eine Abweichung vom Plan oder seine Überarbeitung zu beantragen
+
+
+
+Solche Möglichkeiten entsprechen nämlich wie die Kommission ausführt den Erfordernissen der guten Verwaltung und des Rechtsschutzes zugunsten von Personen die vom Erlass eines Bauleitplans betroffen sein können
+
+
+
+Folglich sind die Art  und  der Richtlinie  über die Genehmigungsregelungen auf eine Regelung wie die im Ausgangsverfahren streitige nicht anwendbar
+
+
+
+Was den Ausdruck Anforderungen angeht so bezeichnet dieser nach Art  Nr  dieser Richtlinie insbesondere alle Auflagen Verbote Bedingungen oder Beschränkungen die in den Rechts oder Verwaltungsvorschriften der Mitgliedstaaten festgelegt sind
+
+
+
+Im vorliegenden Fall steht fest dass die Vorschriften des im Ausgangsverfahren in Rede stehenden Bauleitplans bewirken dass die Tätigkeit des Einzelhandels mit Waren ohne großen Platzbedarf wie Schuhe und Bekleidung in einem Gebiet außerhalb des Stadtzentrums der Gemeinde Appingedam verboten ist
+
+
+
+Das vorlegende Gericht weist jedoch darauf hin dass die Richtlinie  nach ihrem neunten Erwägungsgrund nur auf die Anforderungen für die Aufnahme oder Ausübung einer Dienstleistungstätigkeit Anwendung finde was daher Anforderungen wie  Vorschriften bezüglich der Stadtentwicklung oder Bodennutzung der Stadtplanung und der Raumordnung  sowie verwaltungsrechtliche Sanktionen die wegen der Nichteinhaltung solcher Vorschriften verhängt werden die nicht die Dienstleistungstätigkeit als solche regeln oder betreffen sondern von Dienstleistungserbringern im Zuge der Ausübung ihrer Wirtschaftstätigkeit genauso beachtet werden müssen wie von Privatpersonen ausschließe
+
+
+
+Es ist darauf hinzuweisen dass sich dieser Erwägungsgrund der Richtlinie  voll und ganz in den Rechtsrahmen einfügt der durch diese Richtlinie geschaffen wurde die wie in den Rn  bis  des vorliegenden Urteils dargelegt zum Ziel hat die Beschränkungen der Niederlassungsfreiheit von Dienstleistungserbringern in den Mitgliedstaaten und des freien Dienstleistungsverkehrs zwischen Mitgliedstaaten zu beseitigen um zur Schaffung eines wirklichen Binnenmarkts für Dienstleistungen beizutragen
+
+
+
+Die Richtlinie  soll also nicht für Anforderungen gelten bei denen nicht davon auszugehen ist dass sie derartige Beschränkungen begründen weil sie nicht speziell die Aufnahme oder Ausübung einer Dienstleistungstätigkeit regeln oder betreffen sondern von Dienstleistungserbringern im Zuge der Ausübung ihrer Wirtschaftstätigkeit genauso beachtet werden müssen wie von Privatpersonen
+
+
+
+Dies vorausgeschickt ist festzustellen dass die im Ausgangsverfahren fraglichen Vorschriften laut der Vorlageentscheidung zwar im Rahmen einer städtebaulichen Politik dazu dienen sollen die Lebensqualität im Stadtzentrum der Gemeinde Appingedam zu erhalten und Leerstand im Stadtgebiet zu vermeiden dass sie aber dennoch den spezifischen Zweck haben Gebiete auszuweisen in denen bestimmte Einzelhandelstätigkeiten aufgenommen werden können Sie richten sich somit nur an Personen die beabsichtigen solche Tätigkeiten in diesen Gebieten aufzunehmen und nicht an Privatpersonen
+
+
+
+Dem steht das in der Vorlageentscheidung erwähnte Urteil vom  Mai  Libert u a C und C EUC Rn  bis  nicht entgegen Der Gerichtshof hat nämlich nachdem er in Rn  dieses Urteils auf den neunten Erwägungsgrund der Richtlinie  Bezug genommen hatte in den Rn  und  des Urteils betont dass die von der fraglichen nationalen Maßnahme betroffenen Dienstleistungen speziell unter den in Art  Abs  Buchst j dieser Richtlinie geregelten Ausschluss der sozialen Dienstleistungen im Zusammenhang mit Sozialwohnungen fallen und hat daher in Rn  des Urteils festgestellt dass die Richtlinie auf diese Maßnahme keine Anwendung findet
+
+
+
+Demnach ist die Frage ob die im Ausgangsverfahren streitige Regelung mit der Richtlinie  vereinbar ist anhand der Art  und  dieser Richtlinie zu prüfen die die unzulässigen bzw zu prüfenden Anforderungen betreffen
+
+
+
+Was Art  Nr  der Richtlinie  betrifft auf den in der fünften Frage Bezug genommen wird so untersagt es diese Vorschrift den Mitgliedstaaten die Aufnahme oder Ausübung einer Dienstleistungstätigkeit in ihrem Hoheitsgebiet von einer wirtschaftlichen Überprüfung im Einzelfall bei der die Erteilung der Genehmigung vom Nachweis eines wirtschaftlichen Bedarfs oder einer Marktnachfrage abhängig gemacht wird oder der Beurteilung der tatsächlichen oder möglichen wirtschaftlichen Auswirkungen der Tätigkeit oder der Bewertung ihrer Eignung für die Verwirklichung wirtschaftlicher von der zuständigen Behörde festgelegter Programmziele abhängig zu machen
+
+
+
+Es ergibt sich aber aus keiner der dem Gerichtshof vorliegenden Informationen dass die im Ausgangsverfahren streitige Regelung eine derartige Anforderung enthält
+
+
+
+Allerdings sind die Mitgliedstaaten nach Art  Abs  Satz  der Richtlinie  verpflichtet zu prüfen ob ihre Rechtsordnungen eine oder mehrere der in Art  Abs  dieser Richtlinie aufgeführten Anforderungen vorsehen und gegebenenfalls sicherzustellen dass diese Anforderungen die in Art  Abs  der Richtlinie genannten Bedingungen der NichtDiskriminierung der Erforderlichkeit und der Verhältnismäßigkeit erfüllen Nach Art  Abs  Satz  der Richtlinie müssen die Mitgliedstaaten ihre Rechts und Verwaltungsvorschriften ändern um sie diesen Bedingungen anzupassen
+
+
+
+Dieser Art  entfaltet insoweit unmittelbare Wirkung als er in Abs  Satz  den Mitgliedstaaten die unbedingte hinreichend präzise Verpflichtung auferlegt ihre Rechts und Verwaltungsvorschriften zu ändern um sie den in Abs  genannten Bedingungen anzupassen
+
+
+
+Im vorliegenden Fall enthält die im Ausgangsverfahren streitige Regelung wie der Generalanwalt in Nr  seiner Schlussanträge ausgeführt hat dadurch dass sie die Tätigkeit des Einzelhandels mit Waren ohne großen Platzbedarf in einem Gebiet außerhalb des Stadtzentrums der Gemeinde Appingedam verbietet eine der in Art  Abs  der Richtlinie  aufgeführten Anforderungen da sie die Aufnahme oder Ausübung einer Dienstleistungstätigkeit einer territorialen Beschränkung im Sinne von Art  Abs  Buchst a dieser Richtlinie unterwirft
+
+
+
+Wie aus Rn  des vorliegenden Urteils hervorgeht steht die Richtlinie  dem nicht entgegen dass die Aufnahme oder Ausübung einer Dienstleistungstätigkeit von der Beachtung einer solchen territorialen Beschränkung abhängig gemacht wird sofern die in Art  Abs  der Richtlinie genannten Bedingungen der NichtDiskriminierung der Erforderlichkeit und der Verhältnismäßigkeit erfüllt sind
+
+
+
+Es ist Sache des vorlegenden Gerichts zu beurteilen ob dies im Ausgangsverfahren der Fall ist
+
+
+
+Allerdings ist speziell zur Bedingung der Erforderlichkeit im Sinne von Art  Abs  Buchst b der Richtlinie  festzustellen dass laut der Vorlageentscheidung das im Ausgangsverfahren streitige Verbot den Zweck hat im Sinne einer guten Stadt und Raumplanung die Lebensqualität im Stadtzentrum der Gemeinde Appingedam zu erhalten und Leerstand im Stadtgebiet zu vermeiden
+
+
+
+Wie der Generalanwalt in Nr  seiner Schlussanträge ausgeführt hat kann ein solches Ziel des Schutzes der städtischen Umwelt gemäß Art  Nr  in Verbindung mit dem  Erwägungsgrund der Richtlinie  ein zwingender Grund des Allgemeininteresses sein der eine territoriale Beschränkung wie die im Ausgangsverfahren streitige zu rechtfertigen vermag
+
+
+
+Nach alledem ist auf die zweite und die fünfte Frage zu antworten dass Art  Abs  der Richtlinie  dahin auszulegen ist dass er Vorschriften in einem Bauleitplan einer Gemeinde die die Tätigkeit des Einzelhandels mit Waren ohne großen Platzbedarf in Gebieten außerhalb des Stadtzentrums dieser Gemeinde verbieten nicht entgegensteht vorausgesetzt dass sämtliche in Art  Abs  dieser Richtlinie genannten Bedingungen erfüllt sind was das vorlegende Gericht zu prüfen hat
+
+Zur sechsten Frage
+
+
+
+Angesichts der Antworten auf die vorangehenden Fragen erübrigt sich die Beantwortung der sechsten Frage die das vorlegende Gericht hilfsweise für den Fall gestellt hat dass die Richtlinie  auf das Ausgangsverfahren nicht anwendbar sein sollte
+
+Kosten
+
+
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit die Kostenentscheidung ist daher Sache dieses Gerichts Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig
+
+ 	
+Aus diesen Gründen hat der Gerichtshof Große Kammer für Recht erkannt
+
+ 	
+
+
+Art  Abs  Buchst c der Richtlinie EG des Europäischen Parlaments und des Rates vom  Dezember  über Dienstleistungen im Binnenmarkt ist dahin auszulegen dass diese Richtlinie nicht für Gebühren gilt deren anspruchsbegründender Tatbestand an die Rechte der zur Bereitstellung elektronischer Kommunikationsnetze und dienste ermächtigten Unternehmen zur Verlegung von Kabeln für ein öffentliches elektronisches Kommunikationsnetz anknüpft
+
+ 	
+
+
+Art  Nr  der Richtlinie  ist dahin auszulegen dass die Tätigkeit des Einzelhandels mit Waren eine Dienstleistung im Sinne dieser Richtlinie darstellt
+
+ 	
+
+
+Die in Kapitel III der Richtlinie  enthaltenen Bestimmungen über die Niederlassungsfreiheit der Dienstleistungserbringer sind dahin auszulegen dass sie auch auf einen Sachverhalt anwendbar sind dessen Merkmale sämtlich nicht über die Grenzen eines einzigen Mitgliedstaats hinausweisen
+
+ 	
+
+
+Art  Abs  der Richtlinie  ist dahin auszulegen dass er Vorschriften in einem Bauleitplan einer Gemeinde die die Tätigkeit des Einzelhandels mit Waren ohne großen Platzbedarf in Gebieten außerhalb des Stadtzentrums dieser Gemeinde verbieten nicht entgegensteht vorausgesetzt dass sämtliche in Art  Abs  dieser Richtlinie genannten Bedingungen erfüllt sind was das vorlegende Gericht zu prüfen hat
+
+ 	
+Unterschriften
+
+  	Verfahrenssprache NiederländischURTEIL DES GERICHTSHOFS Vierte Kammer
+
+ November    
+
+Vorlage zur Vorabentscheidung  Richtlinie EG  Märkte für Finanzinstrumente  Art  Abs  Nr   Begriff geregelter Markt  Geltungsbereich  System an dem zum einen Anleger vertretende Broker und zum anderen Fund Agents sogenannter OpenendInvestmentgesellschaften teilnehmen die zur Ausführung der ihre Fonds betreffenden Aufträge verpflichtet sind
+
+In der Rechtssache C
+
+betreffend ein Vorabentscheidungsersuchen nach Art  AEUV eingereicht vom College van Beroep voor het bedrijfsleven Berufungsgericht für Wirtschaftssachen Niederlande mit Entscheidung vom  Dezember  beim Gerichtshof eingegangen am  Dezember  in dem Verfahren
+
+Robeco Hollands Bezit NV u a
+
+gegen
+
+Stichting Autoriteit Financiële Markten AFM
+
+erlässt
+
+DER GERICHTSHOF Vierte Kammer
+
+unter Mitwirkung des Kammerpräsidenten T von Danwitz der Richter C Vajda Berichterstatter und E Juhász der Richterin K Jürimäe und des Richters C Lycourgos
+
+Generalanwalt M Campos SánchezBordona
+
+Kanzler M Ferreira Hauptverwaltungsrätin
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom  Februar 
+
+unter Berücksichtigung der Erklärungen
+
+
+
+der Robeco Hollands Bezit NV u a vertreten durch E Pijnacker Hordijk und A M ter Haar advocaten
+
+
+
+der Stichting Autoriteit Financiële Markten AFM vertreten durch M J Blotwijk advocaat und M van Kwawegen als Bevollmächtigte
+
+
+
+der Regierung des Vereinigten Königreichs vertreten durch D Robertson B Kennelly und S Simmons als Bevollmächtigte
+
+
+
+der Europäischen Kommission vertreten durch I V Rogalski und F Wilman als Bevollmächtigte
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom  April 
+
+folgendes
+
+Urteil
+
+
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art  Abs  Nr  der Richtlinie EG des Europäischen Parlaments und des Rates vom  April  über Märkte für Finanzinstrumente zur Änderung der Richtlinien EWG und EWG des Rates und der Richtlinie EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie EWG des Rates ABl  L  S 
+
+
+
+Dieses Ersuchen ergeht im Rahmen eines Rechtsstreits zwischen der Robeco Hollands Bezit NV und zehn weiteren Gesellschaften einerseits und der Stichting Autoriteit Financiële Markten AFM Finanzmarktaufsichtsbehörde Niederlande andererseits wegen Abgaben die von diesen Gesellschaften für die Kosten erhoben wurden die der AFM im Rahmen ihrer Überwachungsaufgaben entstanden sind
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+Richtlinie 
+
+
+
+Die Erwägungsgründe   und  der Richtlinie  lauten
+
+
+
+ Es ist erforderlich eine Harmonisierung in dem Umfang vorzunehmen der notwendig ist um Anlegern ein hohes Schutzniveau zu bieten und Wertpapierfirmen das Erbringen von Dienstleistungen in der gesamten Gemeinschaft im Rahmen des Binnenmarkts auf der Grundlage der Herkunftslandaufsicht zu gestatten 
+
+
+
+
+
+Es ist erforderlich die Ausführung von Geschäften mit Finanzinstrumenten  unabhängig von den für den Abschluss dieser Geschäfte verwendeten Handelsmethoden  umfassend zu regeln damit bei der Ausführung der entsprechenden Anlegeraufträge eine hohe Qualität gewährleistet ist und die Integrität und Gesamteffizienz des Finanzsystems gewahrt werden Es sollte ein kohärenter und risikosensibler Rahmen zur Regelung der wichtigsten Arten der derzeit auf dem europäischen Finanzmarkt vertretenen Auftragsausführungssysteme geschaffen werden 
+
+
+
+Es sollten Begriffsbestimmungen für den geregelten Markt und das MTF multilaterales Handelssystem eingeführt und eng aneinander angelehnt werden um der Tatsache Rechnung zu tragen dass beide die Funktion des organisierten Handels erfüllen Die Begriffsbestimmungen sollten bilaterale Systeme ausschließen bei denen eine Wertpapierfirma jedes Geschäft für eigene Rechnung tätigt und nicht als risikolose Gegenpartei zwischen Käufer und Verkäufer steht Der Begriff System umfasst sowohl die Märkte die aus einem Regelwerk und einer Handelsplattform bestehen als auch solche die ausschließlich auf der Grundlage eines Regelwerks funktionieren Geregelte Märkte und MTF müssen keine technischen Systeme für das Zusammenführen von Aufträgen betreiben Ein Markt der nur aus einem Regelwerk besteht das Fragen in Bezug auf die Mitgliedschaft die Zulassung von Finanzinstrumenten zum Handel den Handel zwischen Mitgliedern die Meldung von Geschäften und gegebenenfalls die Transparenzpflichten regelt ist ein geregelter Markt oder ein MTF im Sinne dieser Richtlinie Geschäfte die nach diesen Regeln abgeschlossen werden gelten als an einem geregelten Markt oder über ein MTF geschlossene Geschäfte Der Begriff Interesse am Kauf und Verkauf ist im weiten Sinne zu verstehen und schließt Aufträge Kursofferten und Interessenbekundungen ein Die Anforderung wonach die Interessen innerhalb des Systems und nach den nichtdiskretionären vom Betreiber des Systems festgelegten Regeln zusammengeführt werden müssen bedeutet dass die Zusammenführung nach den Regeln des Systems oder mit Hilfe der Protokolle oder internen Betriebsverfahren des Systems einschließlich der in Computersoftware enthaltenen Verfahren erfolgt 
+
+
+
+Art  Abs  Nrn     und  der Richtlinie bestimmt
+
+Für die Zwecke dieser Richtlinie bezeichnet der Ausdruck
+
+
+
+
+
+Handel für eigene Rechnung den Handel unter Einsatz des eigenen Kapitals der zum Abschluss von Geschäften mit einem oder mehreren Finanzinstrumenten führt
+
+
+
+Systematischer Internalisierer eine Wertpapierfirma die in organisierter und systematischer Weise häufig regelmäßig Handel für eigene Rechnung durch Ausführung von Kundenaufträgen außerhalb eines geregelten Marktes oder eines MTF treibt
+
+
+
+
+
+Geregelter Markt ein von einem Marktbetreiber betriebenes undoder verwaltetes multilaterales System das die Interessen einer Vielzahl Dritter am Kauf und Verkauf von Finanzinstrumenten innerhalb des Systems und nach seinen nichtdiskretionären Regeln in einer Weise zusammenführt oder das Zusammenführen fördert die zu einem Vertrag in Bezug auf Finanzinstrumente führt die gemäß den Regeln undoder den Systemen des Marktes zum Handel zugelassen wurden sowie eine Zulassung erhalten hat und ordnungsgemäß und gemäß den Bestimmungen des Titels III funktioniert
+
+
+
+Multilaterales Handelssystem MTF ein von einer Wertpapierfirma oder einem Marktbetreiber betriebenes multilaterales System das die Interessen einer Vielzahl Dritter am Kauf und Verkauf von Finanzinstrumenten innerhalb des Systems und nach nichtdiskretionären Regeln in einer Weise zusammenführt die zu einem Vertrag gemäß den Bestimmungen des Titels II führt
+
+
+
+
+
+Finanzinstrument die in Anhang I Abschnitt C genannten Instrumente
+
+
+
+
+
+In Abschnitt C sind unter Nr  Anteile an Organismen für gemeinsame Anlagen genannt
+
+Niederländisches Recht
+
+
+
+Gemäß Art  Abs  der Wet op het financieel toezicht Gesetz über die Finanzaufsicht im Folgenden Wft stellt die Aufsichtsbehörde die Kosten der Tätigkeiten die sie im Zusammenhang mit der Ausübung ihrer gesetzlichen Aufgabe verrichtet den Unternehmen in Rechnung in Bezug auf die die Tätigkeiten verrichtet wurden soweit diese Kosten nicht zulasten des Staatshaushalts gehen
+
+
+
+Gemäß den Art   und  Abs  Buchst i Nr  des Besluit bekostiging financieel toezicht Verordnung über die Finanzierung der Finanzaufsicht ist die AFM befugt bei den Emittenten im Sinne von Art  Abs  Buchst a Wft hierfür Abgaben zu erheben
+
+
+
+Nach Art  Abs  Buchst a Wft ist jeder der das Tagesgeschäft eines Emittenten mit Sitz in den Niederlanden der Finanzinstrumente im Sinne von Art  Abs  Buchst a Wft emittiert hat oder zu emittieren beabsichtigt bestimmt oder mitbestimmt sowie jeder auf dessen Vorschlag ein Kaufvertrag über ein Finanzinstrument im Sinne dieser Bestimmung das kein Wertpapier ist zustande gekommen ist oder der einen Kaufvertrag über ein Finanzinstrument im Sinne dieser Bestimmung das kein Wertpapier ist vorschlägt verpflichtet auf eigene Rechnung abgeschlossene oder durchgeführte Geschäfte mit Anteilen die den Emittenten im Sinne von Art  Abs  Buchst a bis c Wft betreffen oder mit Finanzinstrumenten deren Wert durch den Wert dieser Anteile mitbestimmt wird spätestens am fünften Werktag nach dem Tag der Vornahme des Geschäfts zu melden
+
+
+
+Gemäß Art  Abs  Buchst a Wft ist es den Personen die zu der in Abs  dieser Vorschrift angeführten Kategorie gehören untersagt Insiderwissen für den Abschluss oder die Durchführung eines Geschäfts in oder aus den Niederlanden oder einem Nichtmitgliedstaat der Europäischen Union mit Finanzinstrumenten zu nutzen die zum Handel auf einem geregelten Markt für den eine Zulassung im Sinne von Art  Abs  Wft erteilt worden ist oder in einem multilateralen Handelssystem für das die Wertpapierfirma eine Zulassung im Sinne von Art  Wft besitzt zugelassen sind oder für die die Zulassung zum Handel beantragt ist
+
+
+
+In Art  Wft heißt es
+
+geregelter Markt ein multilaterales System das die Interessen einer Vielzahl Dritter am Kauf und Verkauf von Finanzinstrumenten innerhalb des Systems und nach seinen nichtdiskretionären Regeln in einer Weise zusammenführt oder das Zusammenführen fördert die zu einem Vertrag in Bezug auf Finanzinstrumente führt die gemäß den Regeln und den Systemen des Marktes zum Handel zugelassen wurden und das ordnungsgemäß und gemäß den geltenden Bestimmungen über die Zulassung und die laufende Aufsicht funktioniert
+
+Ausgangsverfahren und Vorlagefrage
+
+
+
+Bei den Rechtsmittelführerinnen des Ausgangsverfahrens im Folgenden Rechtsmittelführerinnen handelt es sich um sogenannte OpenendInvestmentgesellschaften Um mit ihren Fondsanteilen zu handeln bedienen sie sich eines als Euronext Fund Services bezeichneten Systems im Folgenden EFSSystem das ein Segment der Euronext Amsterdam NV im Folgenden Euronext ist diese verfügt über eine Zulassung gemäß Art  Abs  Wft für den Betrieb oder die Verwaltung eines geregelten Marktes
+
+
+
+Aus der Vorlageentscheidung geht hervor dass das EFSSystem ein gesondertes Handelssystem ist in dem ausschließlich offene Investmentfonds gehandelt werden Dem System sind Fund Agents und Broker als Mitglieder angeschlossen Die Broker sammeln die An und Verkaufsaufträge der Anleger und geben sie an den Fund Agent des betreffenden Investmentfonds weiter Die Geschäfte werden anhand des Forward Pricing abgewickelt d h wenn ein Broker einen Auftrag bis  Uhr bei einem Fund Agent platziert führt dieser den Auftrag am folgenden Tag um  Uhr auf der Grundlage des Nettoinventarwerts des Investmentfonds unter Berücksichtigung der Transaktionskosten aus
+
+
+
+Mit einer Reihe von Bescheiden die durch Bescheid vom  Dezember  bestätigt wurden erhob die AFM von den Rechtsmittelführerinnen für die Jahre  bis  Abgaben nach Art  Wft Nach Auffassung der AFM waren die Abgaben zu erheben da es sich bei dem EFSSystem um einengeregelten Markt im Sinne des durch Art  Wft in niederländisches Recht umgesetzten Art  Abs  Nr  der Richtlinie  handele was bedeute dass Art  Wft auf die Vorstände und Aufsichtsräte der Rechtsmittelführerinnen anwendbar sei
+
+
+
+Nachdem die Rechtbank Rotterdam Bezirksgericht Rotterdam Niederlande die Klage gegen den bestätigenden Bescheid abgewiesen hatte riefen die Rechtsmittelführerinnen das vorlegende Gericht an Dieses möchte wissen ob das EFSSystem unter die Definition des Begriffs geregelter Markt in der genannten Bestimmung der Richtlinie  fällt
+
+
+
+Das vorlegende Gericht sieht mehrere Anhaltspunkte dafür dass das EFSSystem kein multilaterales System und damit kein geregelter Markt im Sinne der genannten Bestimmung sei
+
+
+
+Erstens ähnele das EFSSystem eher einem bilateralen System in dem wie u a aus dem sechsten Erwägungsgrund der Richtlinie  hervorgehe die Geschäfte ausschließlich zwischen der Investmentgesellschaft und dem Anleger abgeschlossen würden Insoweit sei darauf hinzuweisen dass der Fund Agent die Investmentgesellschaft und der Broker den Anleger vertrete und dass Ersterer stets die Aufträge von Letzterem ausführe
+
+
+
+Zweitens seien die über das EFSSystem abgeschlossenen Geschäfte nicht meldepflichtig Daraus dass im sechsten Erwägungsgrund ein u a die Meldung von Geschäften betreffendes Regelwerk für einen geschlossenen Markt erwähnt werde könne geschlossen werden dass ein System in dem ausschließlich nicht meldepflichtige Geschäfte abgeschlossen würden nicht als geregelter Markt angesehen werden könne
+
+
+
+In diesem Kontext ergebe sich aus der Verordnung EG Nr  der Kommission vom  August  zur Durchführung der Richtlinie  betreffend die Aufzeichnungspflichten für Wertpapierfirmen die Meldung von Geschäften die Markttransparenz die Zulassung von Finanzinstrumenten zum Handel und bestimmte Begriffe im Sinne dieser Richtlinie ABl  L  S  dass Primärmarktgeschäfte nicht meldepflichtig seien so dass ein System wie EFS über das ausschließlich Primärmarktgeschäfte abgeschlossen würden nicht als geregelter Markt anzusehen sei
+
+
+
+Drittens werde der Wert der Anteilsrechte im EFSSystem durch ihren Nettoinventarwert bestimmt während sich nach den Ausführungen der Rechtsmittelführerinnen der Preis auf geregelten Märkten gehandelter Finanzinstrumente aus dem Zusammenspiel von Angebot und Nachfrage ergebe
+
+
+
+Viertens sei die Auslegung wonach das EFSSystem kein geregelter Markt sei mit den Zielen der Richtlinie  vereinbar da die Gefahr von Marktmanipulationen oder Insidergeschäften im Rahmen dieses Systems sehr gering sei
+
+
+
+Vertretbar sei allerdings auch die gegenteilige Auffassung wonach es sich beim EFSSystem um einen geregelten Markt im Sinne von Art  Abs  Nr  der Richtlinie  handele Das System werde selbständig von Euronext betrieben die hierfür eine Zulassung erhalten habe Das EFSSystem könne als multilateral angesehen werden da ihm eine Vielzahl von Brokern und Fund Agents angeschlossen seien dort mit Anteilen mehrerer Investmentgesellschaften gehandelt werde und mehrere Parteien dort Aufträge erteilten Mit dem in dieser Bestimmung verwendeten und nach dem gewöhnlichen Wortsinn ausgelegten Begriff Dritter werde jeder Nutzer des Systems bezeichnet Außerdem würden die jeweiligen Interessen der Käufer und Verkäufer im EFSSystem zusammengeführt um in einem Geschäftsabschluss zu münden und es funktioniere nach den im EFS Trading Manual Leitfaden für den EFSHandel und im TCSweb user Guide to the EFS TCSWeb Benutzerhandbuch für den EFS enthaltenen nicht diskretionären Regeln
+
+
+
+Überdies lasse sich weder aus dem sechsten Erwägungsgrund noch aus Art  Abs  Nr  der Richtlinie  unmittelbar herleiten dass die fehlende Meldepflicht und die Preisbildung durch Angebot und Nachfrage die Einstufung des EFSSystems als geregelter Markt ausschlössen
+
+
+
+Unter diesen Umständen hat das College van Beroep voor het bedrijfsleven Berufungsgericht für Wirtschaftssachen Niederlande beschlossen das Verfahren auszusetzen und dem Gerichtshof folgende Frage zur Vorabentscheidung vorzulegen
+
+Ist ein System an dem eine Vielzahl von Fund Agents und Brokern teilnehmen die innerhalb dieses Systems OpenendInvestmentgesellschaften bzw Anleger bei Geschäften vertreten und das faktisch ausschließlich diese OpenendInvestmentgesellschaften in ihrer Verpflichtung durch Anleger platzierte Aufträge zum An und Verkauf von Anteilsrechten auszuführen unterstützt als ein geregelter Markt im Sinne von Art  Abs  Nr  der Richtlinie  anzusehen und wenn ja welche Merkmale sind dafür entscheidend
+
+Zur Vorlagefrage
+
+
+
+Das vorlegende Gericht möchte mit seiner Frage wissen ob Art  Abs  Nr  der Richtlinie  dahin auszulegen ist dass ein Handelssystem innerhalb dessen eine Vielzahl von Fund Agents und Brokern OpenendInvestmentgesellschaften bzw Anleger vertreten und das allein dazu dient die Investmentgesellschaften bei ihrer Verpflichtung zur Ausführung der von den Anlegern platzierten Aufträge zum An und Verkauf von Anteilen zu unterstützen unter den Begriff geregelter Markt im Sinne dieser Bestimmung fällt
+
+
+
+Es ist zwar allein Sache des vorlegenden Gerichts sich zur Einstufung des EFSSystems anhand der konkreten Umstände des Ausgangsverfahrens zu äußern Gleichwohl ist der Gerichtshof dafür zuständig aus den Bestimmungen der Richtlinie  konkret aus ihrem Art  Abs  Nr  die Kriterien herzuleiten die das vorlegende Gericht dabei anwenden kann oder muss vgl in diesem Sinne Urteil vom  Dezember  Banif Plus Bank C EUC Rn  und die dort angeführte Rechtsprechung
+
+
+
+In Art  Abs  Nr  der Richtlinie  wird ein geregelter Markt definiert als ein von einem Marktbetreiber betriebenes undoder verwaltetes multilaterales System das die Interessen einer Vielzahl Dritter am Kauf und Verkauf von Finanzinstrumenten innerhalb des Systems und nach seinen nicht diskretionären Regeln in einer Weise zusammenführt oder das Zusammenführen fördert die zu einem Vertrag in Bezug auf Finanzinstrumente führt die gemäß den Regeln undoder den Systemen des Marktes zum Handel zugelassen wurden sowie eine Zulassung erhalten hat und ordnungsgemäß und gemäß den Bestimmungen des Titels III der Richtlinie funktioniert
+
+
+
+Insoweit ergibt sich aus der Vorlageentscheidung dass das EFSSystem tatsächlich einige der in dieser Definition genannten Merkmale eines geregelten Marktes aufweist Es wird nach den Angaben des vorlegenden Gerichts von Euronext betrieben und unterliegt nicht diskretionären in zwei von Euronext erstellten Dokumenten dem EFS Trading Manual und dem TCSweb user Guide to the EFS enthaltenen Regeln Die von den Brokern im Rahmen des EFSSystems den Fund Agents der Investmentfonds erteilten Aufträge führen zum Abschluss von Verträgen über Anteile an diesen Fonds Außerdem hat Euronext eine Zulassung für den Betrieb des EFSSystems erhalten und es gibt keine Anhaltspunkte dafür dass das System nicht im Einklang mit den Bestimmungen des Titels III der Richtlinie  steht dies zu prüfen ist Sache des vorlegenden Gerichts
+
+
+
+Zudem ist festzustellen dass es sich bei den genannten Anteilen an Investmentfonds um Finanzinstrumente im Sinne von Art  Abs  Nr  der Richtlinie  in Verbindung mit ihrem Anhang I Abschnitt C Nr  handelt
+
+
+
+Um die Frage des vorlegenden Gerichts beantworten zu können bleibt somit zu prüfen ob ein solches Handelssystem als multilaterales System anzusehen ist das im Sinne von Art  Abs  Nr  der Richtlinie  die Interessen einer Vielzahl Dritter am Kauf und Verkauf zusammenführt oder das Zusammenführen fördert
+
+
+
+Zwar wird der Begriff des multilateralen Systems als solcher in der Richtlinie nicht definiert aber in ihrem sechsten Erwägungsgrund heißt es dass die Definitionen der Begriffe geregelter Markt und multilaterales Handelssystem MTF bei denen es sich um die beiden von der Richtlinie erfassten Arten multilateraler Systeme handelt bilaterale Systeme ausschließen sollten bei denen eine Wertpapierfirma jedes Geschäft für eigene Rechnung tätigt und nicht als risikolose Gegenpartei zwischen Käufer und Verkäufer steht Nach Art  Abs  Nr  der Richtlinie  bezeichnet Handel für eigene Rechnung den Handel unter Einsatz des eigenen Kapitals der zum Abschluss von Geschäften mit Finanzinstrumenten führt
+
+
+
+Aus der klaren Unterscheidung zwischen einem multilateralen und einem bilateralen System ist zu schließen dass Marktbetreiber oder Wertpapierfirmen die ein multilaterales System betreiben risikolos und ohne Einsatz eigenen Kapitals beim Abschluss von Geschäften innerhalb dieses Systems tätig werden Nach der Definition in Art  Abs  Nr  der Richtlinie  findet diese Vermittlung zwischen den Interessen einer Vielzahl Dritter am Kauf und Verkauf statt wobei Dritter jede mit dem Handelssystem und dessen Betreiber nicht identische und von ihm unabhängige natürliche oder juristische Person ist
+
+
+
+Die Erläuterungen des vorlegenden Gerichts deuten darauf hin dass das EFSSystem diese Merkmale aufweist und folglich als geregelter Markt im Sinne von Art  Abs  Nr  der Richtlinie  anzusehen ist
+
+
+
+Erstens findet nämlich der An und Verkauf von Anteilen an OpenendInvestmentgesellschaften offenbar zwischen den die Anleger vertretenden Brokern und den Fund Agents der Investmentgesellschaften innerhalb des EFSSystems statt das im Rahmen dieser Geschäfte kein Anlagerisiko trägt und kein eigenes Kapital einsetzt
+
+
+
+In diesem Kontext kann der These dass das ESFSystem eher einem bilateralen System entspreche da der Auftrag eines Anlegers in Wirklichkeit immer von einer Investmentgesellschaft innerhalb des Systems ausgeführt werde nicht gefolgt werden Wie der Generalanwalt in Nr  seiner Schlussanträge ausgeführt hat bleibt bei einer solchen These das Tätigwerden von Euronext als der unabhängigen Betreiberin des EFSSystems im Rahmen dieser Geschäfte außer Betracht Beim bilateralen Handel gibt es kein solches Tätigwerden
+
+
+
+Insoweit ist es wie die Regierung des Vereinigten Königreichs darlegt unerheblich dass bei einem System wie dem EFS kein Handel zwischen den verschiedenen Brokern oder zwischen den verschiedenen Fund Agents der Investmentfonds stattfindet da im Rahmen dieses Systems die Fund Agents Geschäfte mit mehreren Brokern tätigen können und umgekehrt
+
+
+
+Zweitens ist zu berücksichtigen dass die Zusammenführung der Interessen einer Vielzahl Dritter am Kauf und Verkauf darin besteht dass es innerhalb des EFSSystems sowohl Broker als Vertreter der Anleger als auch Fund Agents der Investmentfonds gibt
+
+
+
+Zum einen sind die Broker und Fund Agents im Verhältnis zu diesem System Dritte da sie nicht mit ihm identisch und von ihm unabhängig sind
+
+
+
+Zum anderen ändert der vom vorlegenden Gericht und den Rechtsmittelführerinnen hervorgehobene Umstand dass die Fund Agents und ihre Investmentfonds ausschließlich und zwingend die ihnen über das EFSSystem erteilten Aufträge zur Ausgabe und zum Ankauf von Investmentfondsanteilen ausführen nichts daran dass aufgrund der Anwesenheit dieser Fund Agents sowie der Broker innerhalb des Systems dort eine Vielzahl von Interessen am Kauf und Verkauf zusammengeführt werden Insbesondere angesichts des großen Bedeutungsumfangs des im sechsten Erwägungsgrund der Richtlinie  verwendeten Ausdrucks Interessen am Kauf und Verkauf kann dieser nämlich nicht dahin ausgelegt werden dass er Positionen eines Teilnehmers am Handelssystem allein deshalb ausschließt weil sie aus einer Verpflichtung zum Ankauf oder zur Ausgabe solcher Anteile resultieren
+
+
+
+Drittens weisen das vorlegende Gericht und die Rechtsmittelführerinnen auf bestimmte Merkmale des EFSSystems hin und zwar auf die fehlende Meldepflicht für die im Rahmen dieses Systems ausgeführten Geschäfte den Primärcharakter dieser Geschäfte die Tatsache dass die Preise keine unmittelbare Folge des Zusammenspiels von Angebot und Nachfrage seien sondern sich aus dem am Tag nach der Auftragserteilung ermittelten Nettoinventarwert der ge oder verkauften Anteile ergäben sowie die geringe Gefahr von Marktmanipulationen oder Insidergeschäften Sie sind der Auffassung dass diese Merkmale gegen eine Einstufung des Systems als geregelter Markt sprächen
+
+
+
+Keines dieser Merkmale ihr Vorliegen unterstellt kann aber als unvereinbar mit dem Begriff des geregelten Marktes im Sinne von Art  Abs  Nr  der Richtlinie  angesehen werden
+
+
+
+Wie die AFM die Regierung des Vereinigten Königreichs sowie die Europäische Kommission in ihren schriftlichen Erklärungen ausführen enthält diese Bestimmung nämlich keine die Funktionsweise eines geregelten Marktes betreffende Konkretisierung oder Einschränkung hinsichtlich der Meldepflicht von Geschäften deren Primär oder Sekundärcharakter oder der Preisbildung bei diesen Geschäften
+
+
+
+Speziell zur Meldepflicht von Geschäften ist festzustellen dass die Angabe im sechsten Erwägungsgrund der Richtlinie  wonach ein Markt der nur aus einem Regelwerk besteht das u a Fragen in Bezug auf die Meldung von Geschäften regelt ein geregelter Markt oder ein MTF ist lediglich besagt dass es für die Einstufung eines Marktes als geregelter Markt oder als MTF ausreicht dass er diese Merkmale aufweist Daraus kann nicht hergeleitet werden dass die Meldung von Geschäften eine notwendige Voraussetzung für eine solche Einstufung wäre
+
+
+
+Auch das Vorbringen das im Wesentlichen dahin geht dass es angesichts der geringen Missbrauchsgefahr bei der Ausführung der Geschäfte nicht erforderlich sei das EFSSystem als geregelten Markt einzustufen kann keinen Erfolg haben Wie die Kommission in ihren schriftlichen Erklärungen hervorhebt beschränkt sich das Ziel der die geregelten Märkte betreffenden Bestimmungen der Richtlinie  nicht auf die Verhinderung von Missbrauch Wie sich u a aus den Erwägungsgründen  und  der Richtlinie ergibt zielen diese Bestimmungen allgemeiner darauf ab durch die Schaffung umfassender Regeln für die Ausführung von Geschäften mit Finanzinstrumenten eine Harmonisierung in dem für ein hohes Schutzniveau der Anleger notwendigen Umfang vorzunehmen damit bei der Ausführung der Aufträge eine hohe Qualität gewährleistet ist und die Integrität sowie die Gesamteffizienz des Finanzsystems gewahrt werden
+
+
+
+Nach alledem ist auf die Vorlagefrage zu antworten dass Art  Abs  Nr  der Richtlinie  dahin auszulegen ist dass ein Handelssystem innerhalb dessen eine Vielzahl von Fund Agents und Brokern OpenendInvestmentgesellschaften bzw Anleger vertreten und das allein dazu dient die Investmentgesellschaften bei ihrer Verpflichtung zur Ausführung der von den Anlegern platzierten Aufträge zum An und Verkauf von Anteilen zu unterstützen unter den Begriff geregelter Markt im Sinne dieser Bestimmung fällt
+
+Kosten
+
+
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit die Kostenentscheidung ist daher Sache dieses Gerichts Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig
+
+ 	
+Aus diesen Gründen hat der Gerichtshof Vierte Kammer für Recht erkannt
+
+ 	
+Art  Abs  Nr  der Richtlinie EG des Europäischen Parlaments und des Rates vom  April  über Märkte für Finanzinstrumente zur Änderung der Richtlinien EWG und EWG des Rates und der Richtlinie EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie EWG des Rates ist dahin auszulegen dass ein Handelssystem innerhalb dessen eine Vielzahl von Fund Agents und Brokern OpenendInvestmentgesellschaften bzw Anleger vertreten und das allein dazu dient die Investmentgesellschaften bei ihrer Verpflichtung zur Ausführung der von den Anlegern platzierten Aufträge zum An und Verkauf von Anteilen zu unterstützen unter den Begriff geregelter Markt im Sinne dieser Bestimmung fällt
+
+ 	
+Unterschriften
+
+  	Verfahrenssprache NiederländischURTEIL DES GERICHTSHOFS Dritte Kammer
+
+ September    
+
+Vorlage zur Vorabentscheidung  Anwendung der Systeme der sozialen Sicherheit  Wandererwerbstätige  Bestimmung der anzuwendenden Rechtsvorschriften  Verordnung EWG Nr   Art  Nr  Buchst b Ziff i  Person die gewöhnlich im Gebiet von zwei oder mehr Mitgliedstaaten abhängig beschäftigt ist  Person die in einem Mitgliedstaat beschäftigt ist und einen Teil ihrer Tätigkeiten im Mitgliedstaat ihres Wohnsitzes ausübt
+
+In der Rechtssache C
+
+betreffend ein Vorabentscheidungsersuchen nach Art  AEUV eingereicht vom Hoge Raad der Nederlanden Oberster Gerichtshof der Niederlande mit Entscheidung vom  Oktober  beim Gerichtshof eingegangen am  November  in dem Verfahren
+
+X
+
+gegen
+
+Staatssecretaris van Financiën
+
+erlässt
+
+DER GERICHTSHOF Dritte Kammer
+
+unter Mitwirkung des Kammerpräsidenten L Bay Larsen Berichterstatter sowie der Richter M Vilaras J Malenovský M Safjan und D Šváby
+
+Generalanwalt M Szpunar
+
+Kanzler M Ferreira Hauptverwaltungsrätin
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom  Dezember 
+
+unter Berücksichtigung der Erklärungen
+
+
+
+von X vertreten durch A B Bongers belastingadviseur
+
+
+
+der niederländischen Regierung vertreten durch M Bulterman und M Noort als Bevollmächtigte
+
+
+
+der belgischen Regierung vertreten durch M Jacobs und L Van den Broeck als Bevollmächtigte
+
+
+
+der tschechischen Regierung vertreten durch M Smolek und J Vláčil als Bevollmächtigte
+
+
+
+der Europäischen Kommission vertreten durch D Martin und M van Beek als Bevollmächtigte
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom  März 
+
+folgendes
+
+Urteil
+
+
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art  Abs  Buchst a und Art  Nr  Buchst b Ziff i der Verordnung EWG Nr  des Rates vom  Juni  zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige die innerhalb der Gemeinschaft zu und abwandern in der durch die Verordnung EG Nr  des Rates vom  Dezember  ABl  L  S  geänderten und aktualisierten Fassung die wiederum durch die Verordnung EG Nr  des Europäischen Parlaments und des Rates vom  Juni  ABl  L  S  geändert wurde im Folgenden Verordnung Nr 
+
+
+
+Dieses Ersuchen ergeht im Rahmen eines Rechtsstreits zwischen X und dem Staatssecretaris van Financiën Staatssekretär für Finanzen Niederlande wegen eines Bescheids über Einkommensteuer und Sozialversicherungsbeiträge
+
+Rechtlicher Rahmen
+
+
+
+Art  der Verordnung Nr  bestimmt
+
+   Vorbehaltlich der Artikel c und f unterliegen Personen für die diese Verordnung gilt den Rechtsvorschriften nur eines Mitgliedstaats Welche Rechtsvorschriften diese sind bestimmt sich nach diesem Titel
+
+   Soweit nicht die Artikel  bis  etwas anderes bestimmen gilt Folgendes
+
+a
+
+Eine Person die im Gebiet eines Mitgliedstaats abhängig beschäftigt ist unterliegt den Rechtsvorschriften dieses Staates und zwar auch dann wenn sie im Gebiet eines anderen Mitgliedstaats wohnt oder ihr Arbeitgeber oder das Unternehmen das sie beschäftigt seinen Wohnsitz oder Betriebssitz im Gebiet eines anderen Mitgliedstaats hat
+
+
+
+
+
+Art  der Verordnung sieht vor
+
+Vom Grundsatz des Artikels  Absatz  Buchstabe a gelten folgende Ausnahmen und Besonderheiten
+
+
+
+
+
+Eine Person die gewöhnlich im Gebiet von zwei oder mehr Mitgliedstaaten abhängig beschäftigt ist unterliegt den wie folgt bestimmten Rechtsvorschriften
+
+
+
+b
+
+eine Person die nicht unter Buchstabe a fällt unterliegt
+
+i
+
+den Rechtsvorschriften des Mitgliedstaats in dessen Gebiet sie wohnt wenn sie ihre Tätigkeit zum Teil im Gebiet dieses Staates ausübt oder wenn sie für mehrere Unternehmen oder mehrere Arbeitgeber tätig ist die ihren Sitz oder Wohnsitz im Gebiet verschiedener Mitgliedstaaten haben
+
+ii
+
+den Rechtsvorschriften des Mitgliedstaats in dessen Gebiet das Unternehmen oder der Arbeitgeber das bzw der sie beschäftigt seinen Sitz oder Wohnsitz hat sofern sie nicht im Gebiet eines der Mitgliedstaaten wohnt in denen sie ihre Tätigkeit ausübt
+
+
+
+
+
+In Art a Nr  der Verordnung heißt es
+
+Eine Person die eine selbständige Tätigkeit gewöhnlich im Gebiet von zwei oder mehr Mitgliedstaaten ausübt unterliegt den Rechtsvorschriften des Mitgliedstaats in dessen Gebiet sie wohnt wenn sie ihre Tätigkeit zum Teil im Gebiet dieses Mitgliedstaats ausübt 
+
+Ausgangsrechtsstreit und Vorlagefrage
+
+
+
+Im Jahr  arbeitete X ein niederländischer Staatsangehöriger mit Wohnsitz in Belgien  Stunden für einen in den Niederlanden ansässigen Arbeitgeber als AccountManagerBeziehungsmanager Telekommunikation
+
+
+
+Von den  Arbeitsstunden arbeitete er  in Belgien was ungefähr   seiner gesamten Arbeitszeit in dem Jahr entsprach Es handelte sich um  Stunden für Kundenbesuche und  Stunden in denen er zu Hause arbeitete Diese Tätigkeiten wurden nicht nach einem bestimmten Arbeitsplan ausgeführt und der Arbeitsvertrag sah keine Leistung in Belgien vor
+
+
+
+Die übrige der im Jahr  für seinen Arbeitgeber ausgeübten Tätigkeit im Umfang von  Stunden verrichtete X  entweder in den Büroräumen des Unternehmens oder bei potenziellen Kunden  in den Niederlanden
+
+
+
+Der Rechtsstreit zwischen X und dem Staatssekretär für Finanzen betrifft die Berechnung der Einkommensteuer und der Sozialversicherungsbeiträge für das Steuerjahr 
+
+
+
+Der mit einer Berufung gegen das Urteil der Rechtbank ZeelandWestBrabant Gericht ZeelandWestBrabant Niederlande befasste Gerechtshof sHertogenbosch Berufungsgericht Herzogenbusch Niederlande entschied dass X im Jahr  in Belgien nur punktuell tätig gewesen sei Er kam deshalb zu dem Ergebnis dass diese Tätigkeit bei der Bestimmung der im Bereich der sozialen Sicherheit anzuwendenden Rechtsvorschriften nicht zu berücksichtigen sei Gemäß Art  Abs  Buchst a der Verordnung Nr  seien für das Steuerjahr  somit ausschließlich die niederländischen Rechtsvorschriften anzuwenden
+
+
+
+Gegen dieses Urteil legte X bei dem vorlegenden Gericht Kassationsbeschwerde ein
+
+
+
+Vor diesem Hintergrund hat der Hoge Raad der Nederlanden Oberster Gerichtshof der Niederlande beschlossen das Verfahren auszusetzen und dem Gerichtshof folgende Frage zur Vorabentscheidung vorzulegen
+
+Nach welchem Maßstab oder welchen Maßstäben ist zu prüfen welche Rechtsvorschriften die Verordnung Nr  im Fall eines in Belgien wohnhaften Arbeitnehmers als anwendbar bezeichnet der den bei weitem größten Teil seiner Tätigkeiten für seinen niederländischen Arbeitgeber im Königreich der Niederlande ausführt und daneben   dieser Tätigkeiten im betreffenden Jahr in Belgien  zu Hause und bei Kunden  verrichtet ohne dass dabei von einem festen Muster gesprochen werden kann und ohne dass mit seinem Arbeitgeber Vereinbarungen über die Ausführung von Tätigkeiten in Belgien getroffen worden sind
+
+Zur Vorlagefrage
+
+
+
+Mit seiner Frage möchte das vorlegende Gericht wissen ob Art  Nr  Buchst b Ziff i der Verordnung Nr  dahin auszulegen ist dass eine Person wie die im Ausgangsverfahren in Rede stehende die bei einem im Gebiet eines Mitgliedstaats ansässigen Arbeitgeber abhängig beschäftigt ist und in einem anderen Mitgliedstaat wohnt in dessen Gebiet sie im abgelaufenen Jahr einen Teil dieser abhängigen Beschäftigung im Umfang von   ihrer Arbeitszeit ausgeübt hat ohne dass dies zuvor mit ihrem Arbeitgeber vereinbart worden war als im Sinne dieser Vorschrift gewöhnlich im Gebiet von zwei Mitgliedstaaten abhängig beschäftigt anzusehen ist
+
+
+
+Insoweit ist darauf hinzuweisen dass die Bestimmungen des Titels II der Verordnung Nr  zu dem Art  Nr  gehört nach ständiger Rechtsprechung ein vollständiges und einheitliches System von Kollisionsnormen bilden das bezweckt die Arbeitnehmer die innerhalb der Union zu und abwandern dem System der sozialen Sicherheit nur eines Mitgliedstaats zu unterwerfen so dass die Kumulierung anwendbarer nationaler Rechtsvorschriften und die Schwierigkeiten die sich daraus ergeben können vermieden werden Urteil vom  Oktober  Format Urządzenia i Montaże Przemysłowe C EUC Rn  und die dort angeführte Rechtsprechung
+
+
+
+Zu diesem Zweck wird in Art  Abs  Buchst a der Verordnung Nr  der Grundsatz aufgestellt dass eine Person die im Gebiet eines Mitgliedstaats abhängig beschäftigt ist den Rechtsvorschriften dieses Staates unterliegt und zwar auch dann wenn sie im Gebiet eines anderen Mitgliedstaats wohnt vgl in diesem Sinne Urteil vom  Oktober  Format Urządzenia i Montaże Przemysłowe C EUC Rn 
+
+
+
+Dieser Grundsatz gilt jedoch nur soweit nicht die Artikel  bis  der Verordnung Nr  etwas anderes bestimmen In der Tat könnte die ausnahmslose Anwendung des in Art  Abs  Buchst a dieser Verordnung aufgestellten allgemeinen Grundsatzes in bestimmten Sonderfällen sowohl für den Arbeitnehmer als auch für den Arbeitgeber und die Sozialversicherungseinrichtungen zur Schaffung statt zur Vermeidung administrativer Schwierigkeiten führen die eine Beeinträchtigung der Freizügigkeit der Personen bewirken würden die unter die genannte Verordnung fallen Urteil vom  Oktober  Format Urządzenia i Montaże Przemysłowe C EUC Rn 
+
+
+
+Nach Art  Nr  Buchst b Ziff i der Verordnung Nr  unterliegt eine Person die gewöhnlich im Gebiet von zwei oder mehr Mitgliedstaaten abhängig beschäftigt ist den Rechtsvorschriften des Mitgliedstaats in dessen Gebiet sie wohnt wenn sie ihre Tätigkeit zum Teil im Gebiet dieses Staates ausübt
+
+
+
+Aus dieser Vorschrift die von der allgemeinen Regel der Anknüpfung an den Beschäftigungsmitgliedstaat abweicht ergibt sich dass ihre Anwendung der Voraussetzung unterliegt dass der Betroffene gewöhnlich im Gebiet von zwei oder mehr Mitgliedstaaten abhängig beschäftigt ist
+
+
+
+Diese Anforderung setzt indessen voraus dass die betreffende Person gewohnheitsmäßig nennenswerte Tätigkeiten im Gebiet von zwei oder mehr Mitgliedstaaten verrichtet vgl in diesem Sinne Urteil vom  März  Banks u a C EUC Rn 
+
+
+
+Insoweit kann der Umstand dass die betreffende Person nur punktuell Tätigkeiten im Gebiet eines Mitgliedstaats ausübt für die Anwendung von Art  Nr  Buchst b Ziff i der Verordnung Nr  nicht berücksichtigt werden
+
+
+
+Bei der Beurteilung der Frage ob eine Person als gewöhnlich im Gebiet von zwei oder mehr Mitgliedstaaten abhängig beschäftigt anzusehen ist oder ob es sich vielmehr um Tätigkeiten handelt die nur punktuell auf das Gebiet mehrerer Mitgliedstaaten verteilt sind ist insbesondere auf die Dauer der Beschäftigungszeiten und das Wesen der unselbständig verrichteten Arbeit wie sie in den Vertragsunterlagen festgelegt sind sowie gegebenenfalls die tatsächlich verrichtete Tätigkeit abzustellen vgl in diesem Sinne Urteile vom  Juli  Hakenberg  EUC Rn  und vom  Oktober  Format Urządzenia i Montaże Przemysłowe C EUC Rn 
+
+
+
+Für die Beurteilung des gewohnheitsmäßigen und nennenswerten Charakters der im Gebiet von zwei oder mehr Mitgliedstaaten ausgeübten Tätigkeit ist darauf hinzuweisen dass der Gerichtshof in seinem Urteil vom  Februar  Calle Grenzshop Andresen C EUC entschieden hat dass die Situation eines Arbeitnehmers der in einem Mitgliedstaat wohnt und von einem Unternehmen mit Sitz in einem anderen Mitgliedstaat beschäftigt wird und der im Rahmen dieses Arbeitsverhältnisses einen Teil seiner Tätigkeit regelmäßig im Umfang von zehn Stunden pro Woche im Mitgliedstaat seines Wohnsitzes ausübt unter Art  Nr  Buchst b Ziff i der Verordnung Nr  fällt
+
+
+
+Der Gerichtshof hat ferner entschieden dass eine Person die eine selbständige Tätigkeit jeweils etwa zur Hälfte im Gebiet des Mitgliedstaats ihres Wohnsitzes und im Gebiet eines anderen Mitgliedstaats ausübt als eine Person anzusehen ist die im Sinne von Art a der Verordnung Nr  eine selbständige Tätigkeit gewöhnlich im Gebiet von zwei Mitgliedstaaten ausübt vgl in diesem Sinne Urteil vom  Oktober  Zinnecker C EUC Rn  bis 
+
+
+
+Im vorliegenden Fall geht aus der Vorlageentscheidung hervor dass der im Ausgangsverfahren in Rede stehende Arbeitsvertrag nicht vorsieht dass X Leistungen im Gebiet des Mitgliedstaats seines Wohnsitzes erbringt Ferner soll der Betroffene im fraglichen Jahr nur ungefähr   seiner gesamten Arbeitszeit in diesem Mitgliedstaat geleistet haben und zwar im Wesentlichen zu Hause
+
+
+
+Unter diesen Umständen kann nicht angenommen werden dass eine Person wie die im Ausgangsverfahren in Rede stehende gewohnheitsmäßig eine nennenswerte Tätigkeit im Gebiet des Mitgliedstaats ihres Wohnsitzes verrichtet
+
+
+
+Diese Feststellung steht im Einklang mit dem System der Kollisionsnormen das die Vorschriften in Titel II der Verordnung Nr  vorsehen
+
+
+
+Wie aus Art  Abs  Buchst a der Verordnung hervorgeht ist von der allgemeinen Regel der Anknüpfung an den Beschäftigungsmitgliedstaat nämlich nur in den Sonderfällen abzuweichen in denen sich ein anderer Anknüpfungspunkt als zweckmäßiger erweist
+
+
+
+Könnte die Anwendung von Art  Nr  der Verordnung Nr  damit gerechtfertigt werden dass eine Person von der gesamten Jahresarbeitszeit die sie für ihren im Gebiet eines Mitgliedstaats ansässigen Arbeitgeber geleistet hat nur   im Gebiet eines anderen Mitgliedstaats  dem ihres Wohnsitzes  leistet ohne dass dies zuvor mit dem Arbeitgeber vereinbart wurde dann würde wie der Generalanwalt in Nr  seiner Schlussanträge ausgeführt hat zum einen der Ausnahmecharakter der Anknüpfung an den Mitgliedstaat des Wohnsitzes verkannt und zum anderen die Gefahr einer Umgehung der Kollisionsnormen in Titel II der Verordnung geschaffen
+
+
+
+Nach alledem ist auf die Vorlagefrage zu antworten dass Art  Nr  Buchst b Ziff i der Verordnung Nr  dahin auszulegen ist dass eine Person wie die im Ausgangsverfahren in Rede stehende die bei einem im Gebiet eines Mitgliedstaats ansässigen Arbeitgeber abhängig beschäftigt ist und in einem anderen Mitgliedstaat wohnt in dessen Gebiet sie im abgelaufenen Jahr einen Teil dieser abhängigen Beschäftigung im Umfang von   ihrer Arbeitszeit ausgeübt hat ohne dass dies zuvor mit ihrem Arbeitgeber vereinbart worden war nicht als im Sinne dieser Vorschrift gewöhnlich im Gebiet von zwei Mitgliedstaaten abhängig beschäftigt anzusehen ist
+
+Kosten
+
+
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem bei dem vorlegenden Gericht anhängigen Rechtsstreit die Kostenentscheidung ist daher Sache dieses Gerichts Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig
+
+ 	
+Aus diesen Gründen hat der Gerichtshof Dritte Kammer für Recht erkannt
+
+ 	
+Art  Nr  Buchst b Ziff i der Verordnung EWG Nr  des Rates vom  Juni  zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige die innerhalb der Gemeinschaft zu und abwandern in der durch die Verordnung EG Nr  des Rates vom  Dezember  geänderten und aktualisierten Fassung die wiederum durch die Verordnung EG Nr  des Europäischen Parlaments und des Rates vom  Juni  geändert wurde ist dahin auszulegen dass eine Person wie die im Ausgangsverfahren in Rede stehende die bei einem im Gebiet eines Mitgliedstaats ansässigen Arbeitgeber abhängig beschäftigt ist und in einem anderen Mitgliedstaat wohnt in dessen Gebiet sie im abgelaufenen Jahr einen Teil dieser abhängigen Beschäftigung im Umfang von   ihrer Arbeitszeit ausgeübt hat ohne dass dies zuvor mit ihrem Arbeitgeber vereinbart worden war nicht als im Sinne dieser Vorschrift gewöhnlich im Gebiet von zwei Mitgliedstaaten abhängig beschäftigt anzusehen ist
+
+ 	
+Unterschriften
+
+  	Verfahrenssprache Niederländisch

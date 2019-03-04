@@ -1,8 +1,8 @@
 import glob
 import re
-import sys
 import os
-from pathlib import Path
+import string
+
 
 #Reading in files from a certain path and create one txt-file out of it: all files of one category
 
@@ -47,29 +47,42 @@ def remove_punctuation_numbers (path, save_to_folder):
     files = glob.glob(files_to_process)
     print(files)
 
-    to_directory = os.path.join(save_to_folder)
     filenames = []
 
+    #removes digits
+    translator = str.maketrans('','', string.digits)
+    translator2 = str.maketrans('','',string.punctuation)
+
+    counter = 0
+
     for file in files:
-        print("Path of current file: " + "" + path + file)
-        filename = os.path.splitext(path + file)
-        print(filename)
-        #todo: regex not working yet
-        filenames.append(re.match(r'[ \w-]+?_all', filename[0]))
 
-    print(filenames)
+        #gets the names and saves them to list
+        filename = os.path.splitext(file)
+        filenames.append(re.findall(r'[ \w]*_all', str(filename[0])))
 
+        #removes punctuation and numbers
+        current_name = str(filenames[counter]).translate(translator2)
+        print(current_name)
+        complete_name = os.path.join(save_to_folder, current_name + '.txt')
+
+        current_file = open(complete_name, 'w')
+        f = open(file, 'r')
+        content_of_file = f.read()
+        no_punctuation = re.sub(r'[^\w\s]','',content_of_file)
+        no_digits = no_punctuation.translate(translator)
+        print(no_digits)
+        current_file.write(no_digits)
+
+        f.close()
+        current_file.close()
+
+        counter += 1
 
 
 
 if __name__ == "__main__":
     # make_txt_to_category("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter/Social security for migrant workers", "social_security_for_migrant_workers", "/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter")
     # get_all_txt_of_category("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter", "subject_matter")
-    remove_punctuation_numbers("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_advocate_general_structured", "/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-punct-numb")
+    remove_punctuation_numbers("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter", "/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-punct-numb/subject-matter")
 
-'''print(os.getcwd())
-
-data_folder  = Path("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_advocate_general_structured/Bobek")
-file_to_open = data_folder / "*.txt"
-f = open(file_to_open)
-print(f.read())'''
