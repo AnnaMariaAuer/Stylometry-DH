@@ -16,7 +16,7 @@ def make_txt_to_category(path, name, save_to_folder):
     print(all_files)
 
     complete_name = os.path.join(save_path, filename )
-    output_file = open(complete_name, 'a+')
+    output_file = open(complete_name, 'a+', encoding='UTF-8')
     for file in all_files:
         f = open(file, 'r')
         #sys.stdout.write(f.read())
@@ -61,16 +61,17 @@ def remove_punctuation_numbers (path, save_to_folder):
         filename = os.path.splitext(file)
         filenames.append(re.findall(r'[ \w]*_all', str(filename[0])))
 
-        #removes punctuation and numbers
+        #removes punctuation, numbers, strip whitespace, to lower
         current_name = str(filenames[counter]).translate(translator2)
         print(current_name)
         complete_name = os.path.join(save_to_folder, current_name + '.txt')
 
-        current_file = open(complete_name, 'w')
-        f = open(file, 'r')
+        current_file = open(complete_name, 'w', encoding='UTF-8')
+        f = open(file, 'r', encoding='UTF-8')
         content_of_file = f.read()
         no_punctuation = re.sub(r'[^\w\s]','',content_of_file)
-        no_digits = no_punctuation.translate(translator)
+        no_digits = no_punctuation.translate(translator).lower()
+        no_digits = " ".join(no_digits.split())
         print(no_digits)
         current_file.write(no_digits)
 
@@ -84,5 +85,5 @@ def remove_punctuation_numbers (path, save_to_folder):
 if __name__ == "__main__":
     # make_txt_to_category("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter/Social security for migrant workers", "social_security_for_migrant_workers", "/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter")
     # get_all_txt_of_category("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter", "subject_matter")
-    remove_punctuation_numbers("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter", "/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-punct-numb/subject-matter")
+    remove_punctuation_numbers(r"C:\Users\ArbeitsPC\PycharmProjects\Stylometry-DH\Arbeitskorpus_advocate_general_structured", r"C:\Users\ArbeitsPC\PycharmProjects\Stylometry-DH\corpus-without-punct-numb\advocats")
 

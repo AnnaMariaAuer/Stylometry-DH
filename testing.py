@@ -10,4 +10,8 @@ s="'12 Juni 2018  1  „Vorlage zur Vorabentscheidung – Art 49 AEUV – Körpe
 
 print(re.sub(r'[^\w\s]','',s))
 
-print(s.translate(translator))
+print(s.translate(translator).lower())
+
+no_numbers_lower = s.translate(translator).lower()
+no_whitespace = " ".join(no_numbers_lower.split())
+print(no_whitespace)
