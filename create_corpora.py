@@ -3,8 +3,8 @@ import re
 import os
 import string
 import nltk
-# nltk.download('stopwords')
-# nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('punkt')
 from nltk.corpus import stopwords
 STOPWORDS = stopwords.words('german')
 print(STOPWORDS)
@@ -117,7 +117,7 @@ def make_corpus_without_stopwords(path, save_to_directory):
         no_stopwords = []
         for word in words_of_file:
             print(word)
-            if word not in STOPWORDS:
+            if (word not in STOPWORDS and len(word)>2):
                 no_stopwords.append(word)
 
         text_for_output = ' '.join(no_stopwords)
@@ -135,4 +135,4 @@ if __name__ == "__main__":
     # make_txt_to_category("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter/Social security for migrant workers", "social_security_for_migrant_workers", "/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter")
     # get_all_txt_of_category("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter", "subject_matter")
     # remove_punctuation_numbers(r"C:\Users\ArbeitsPC\PycharmProjects\Stylometry-DH\Arbeitskorpus_advocate_general_structured", r"C:\Users\ArbeitsPC\PycharmProjects\Stylometry-DH\corpus-without-punct-numb\advocats")
-    make_corpus_without_stopwords(r"C:\Users\ArbeitsPC\PycharmProjects\Stylometry-DH\corpus-without-punct-numb\subject-matter", r"C:\Users\ArbeitsPC\PycharmProjects\Stylometry-DH\corpus-without-stopword\subject-matter")
+    make_corpus_without_stopwords(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-punct-numb/advocats", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-stopword/advocats")
