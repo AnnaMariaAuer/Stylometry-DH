@@ -1,0 +1,264 @@
+URTEIL DES GERICHTSHOFS (Erste Kammer)
+
+23. November 2017 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Niederlassungsfreiheit – Direkte Besteuerung – Körperschaftsteuer – Richtlinie 90/434/EWG – Art. 10 Abs. 2 – Einbringung von Unternehmensteilen – Gebietsfremde Betriebsstätte, die bei einer Einbringung von Unternehmensteilen an eine ebenfalls gebietsfremde übernehmende Gesellschaft übertragen wird – Recht des Mitgliedstaats der einbringenden Gesellschaft zur Besteuerung der anlässlich der Einbringung von Unternehmensteilen entstandenen Gewinne oder Veräußerungsgewinne dieser Betriebsstätte – Nationale Regelung, die die sofortige Besteuerung der Gewinne oder Veräußerungsgewinne ab dem Jahr der Übertragung vorsieht – Beitreibung der Steuer als Einkünfte des Steuerjahrs, in dem die Einbringung von Unternehmensteilen erfolgt ist“
+
+In der Rechtssache C‑292/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Helsingin hallinto-oikeus (Verwaltungsgericht Helsinki, Finnland) mit Entscheidung vom 20. Mai 2016, beim Gerichtshof eingegangen am 25. Mai 2016, in dem Verfahren
+
+A Oy
+
+erlässt
+
+DER GERICHTSHOF (Erste Kammer)
+
+unter Mitwirkung der Kammerpräsidentin R. Silva de Lapuerta sowie der Richter C. G. Fernlund (Berichterstatter), J.‑C. Bonichot, A. Arabadjiev und E. Regan,
+
+Generalanwältin: J. Kokott,
+
+Kanzler: C. Strömholm, Verwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 8. Juni 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der A Oy, vertreten durch T. Torkkel,
+
+–
+
+der finnischen Regierung, vertreten durch S. Hartikainen als Bevollmächtigten,
+
+–
+
+der deutschen Regierung, vertreten durch T. Henze als Bevollmächtigten,
+
+–
+
+der schwedischen Regierung, vertreten durch A. Falk, C. Meyer-Seitz, H. Shev, U. Persson und N. Otte Widgren als Bevollmächtigte,
+
+–
+
+der Europäischen Kommission, vertreten durch W. Roels und I. Koskinen als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge der Generalanwältin in der Sitzung vom 13. Juli 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 49 AEUV und Art. 10 Abs. 2 der Richtlinie 90/434/EWG des Rates vom 23. Juli 1990 über das gemeinsame Steuersystem für Fusionen, Spaltungen, die Einbringung von Unternehmensteilen und den Austausch von Anteilen, die Gesellschaften verschiedener Mitgliedstaaten betreffen (ABl. 1990, L 225, S. 1, im Folgenden: Fusionsrichtlinie).
+
+2
+
+Es ergeht im Rahmen eines Verfahrens vor dem Helsingin hallinto‑oikeus (Verwaltungsgericht Helsinki, Finnland), das die A Oy, eine Gesellschaft finnischen Rechts, angestrengt hat und das die sofortige Besteuerung der Veräußerungsgewinne einer gebietsfremden Betriebsstätte dieser Gesellschaft, die bei der Übertragung dieser Betriebsstätte an eine ebenfalls gebietsfremde Gesellschaft im Rahmen einer Einbringung von Unternehmensteilen entstanden sind, und die Beitreibung der geschuldeten Steuer als Einkünfte des Steuerjahrs, in dem die Übertragung stattgefunden hat, betrifft.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+3
+
+Nach Art. 2 Buchst. c der Fusionsrichtlinie gilt:
+
+,,Im Sinne dieser Richtlinie ist
+
+…
+
+c)
+
+‚Einbringung von Unternehmensteilen‘ der Vorgang, durch den eine Gesellschaft, ohne aufgelöst zu werden, ihren Betrieb insgesamt oder einen oder mehrere Teilbetriebe in eine andere Gesellschaft gegen Gewährung von Anteilen am Gesellschaftskapital der übernehmenden Gesellschaft einbringt;
+
+…“
+
+4
+
+Art. 10 Abs. 2 dieser Richtlinie lautet:
+
+„… [D]er Mitgliedstaat der einbringenden Gesellschaft [ist], sofern er ein System der Weltgewinnbesteuerung anwendet, berechtigt, die anlässlich der Fusion, Spaltung oder Einbringung von Unternehmensteilen entstehenden Gewinne oder Veräußerungsgewinne der Betriebsstätte zu besteuern, vorausgesetzt, dass er die Steuer, die ohne die Bestimmungen dieser Richtlinie auf diese Gewinne oder Veräußerungsgewinne im Staat der Betriebsstätte erhoben worden wäre, in gleicher Weise und mit dem gleichen Betrag anrechnet, wie wenn diese Steuer tatsächlich erhoben worden wäre.“
+
+Finnisches Recht
+
+5
+
+Nach § 9 Abs. 1 Nr. 1 des Tuloverolaki (Einkommensteuergesetz) ist eine im Steuerjahr in Finnland ansässige natürliche oder juristische Person, eine inländische Zweckgemeinschaft oder ein inländischer Nachlass mit ihren in- und ausländischen Einkünften zur Zahlung von Steuer auf das Einkommen verpflichtet (unbeschränkte Steuerpflicht).
+
+6
+
+Die Fusionsrichtlinie wurde durch das am 1. Januar 1996 in Kraft getretene Laki elinkeinotulon verottamisesta annetun lain muuttamisesta (1733/1995) (Gesetz zur Änderung des Gesetzes über die Besteuerung von Einkünften aus wirtschaftlicher Tätigkeit [1733/1995]) vom 29. Dezember 1995 in finnisches Recht umgesetzt.
+
+7
+
+§ 52e Abs. 3 des Elinkeinotulon verottamisesta annettu laki (Gesetz über die Besteuerung von Einkünften aus wirtschaftlicher Tätigkeit) bestimmt in der so geänderten Fassung (im Folgenden: EVL):
+
+„Sind die eingebrachten Vermögenswerte und Verbindlichkeiten einer in einem anderen Mitgliedstaat der Europäischen Union gelegenen Betriebsstätte einer inländischen Gesellschaft zugeordnet, werden der wahrscheinlich zu erzielende Veräußerungspreis für diese Vermögenswerte und die von den Einkünften der Betriebsstätte bei der Besteuerung abgezogenen Rückstellungen oder Rücklagen zu den steuerpflichtigen Einkünften der einbringenden Gesellschaft gezählt. Von der Steuer, die in Finnland auf diese Einkünfte zu entrichten ist, wird die Steuer abgezogen, die ohne die Bestimmungen der in § 52 genannten [Fusionsrichtlinie] im Staat der Betriebsstätte auf diese Einkünfte entrichtet worden wäre.“
+
+8
+
+Aus der Begründung der Regierungsvorlage, die zum Erlass des Gesetzes zur Änderung des Gesetzes über die Besteuerung von Einkünften aus wirtschaftlicher Tätigkeit geführt hat, ergibt sich, dass durch § 52e Abs. 3 EVL, der die in Art. 10 Abs. 2 der Fusionsrichtlinie vorgesehene Ausnahme in finnisches Recht umsetzt, Sachverhalte geregelt werden, in denen Vermögensgegenstände aufgrund der Einbringung von Unternehmensteilen einer gebietsfremden Betriebsstätte in eine ebenfalls gebietsfremde Gesellschaft nicht mehr der Besteuerungsbefugnis Finnlands unterliegen. Bei einem solchen Sachverhalt wird der beizulegende Zeitwert der übergehenden Vermögensgegenstände ebenso wie die von den Einkünften der Betriebsstätte zuvor bei der Besteuerung abgezogenen Rückstellungen oder Rücklagen zu den steuerpflichtigen Einkünften der Betriebsstätte in Finnland in dem Steuerjahr gezählt, in dem die Übertragung erfolgte. Von der in Finnland auf die realisierten Einkünfte anfallenden Steuer wird die Steuer abgezogen, die im Staat der Betriebsstätte auf diese Einkünfte erhoben worden wäre, wenn die Richtlinie nicht anwendbar wäre.
+
+Ausgangsrechtsstreit und Vorlagefragen
+
+9
+
+Im Verlauf des Jahres 2006 übertrug A bei einer Einbringung von Unternehmensteilen eine in Österreich gelegene Betriebsstätte auf eine österreichische Gesellschaft und erhielt im Gegenzug Anteile dieser Gesellschaft. A wurde gemäß § 52e Abs. 3 EVL auf den anlässlich dieser Übertragung im Steuerjahr 2006 entstandenen Veräußerungsgewinn besteuert, und die Steuer wurde im Rahmen der Einkünfte aus diesem Steuerjahr beigetrieben.
+
+10
+
+A stellte beim Verotuksen oikaisulautakunta (Widerspruchsausschuss in Steuersachen, Finnland) einen Antrag auf Berichtigung. Da dieser Antrag zurückgewiesen wurde, erhob A beim Helsingin hallinto-oikeus (Verwaltungsgericht Helsinki, Finnland) Klage, mit der sie geltend machte, die im Ausgangsverfahren in Rede stehende Regelung beschränke die Niederlassungsfreiheit. Denn bei einem entsprechenden inländischen Sachverhalt erfolge die Besteuerung erst zu dem Zeitpunkt, zu dem der Veräußerungsgewinn realisiert werde, mithin der Veräußerung der eingebrachten Vermögensgegenstände.
+
+11
+
+Das vorlegende Gericht weist auf die Auffassung der Verohallinto – Veronsaajien oikeudenvalvontayksikkö (Steuerverwaltung – Stelle zur Wahrung der Rechte der Steuerberechtigten, Finnland) hin, nach der nicht angenommen werden könne, dass § 52e Abs. 3 EVL den Bestimmungen und Grundsätzen des Unionsrechts zuwiderlaufe, da diese Bestimmung der Umsetzung von Art. 10 Abs. 2 der Fusionsrichtlinie in finnisches Recht diene.
+
+12
+
+Das Gericht merkt allerdings an, dass diese Bestimmung zwar die Besteuerung von Veräußerungsgewinnen bei einem Sachverhalt wie dem im Ausgangsverfahren in Rede stehenden ermögliche, den Zeitpunkt, zu dem die Besteuerung zu erfolgen habe, aber nicht festlege.
+
+13
+
+Daher möchte das vorlegende Gericht wissen, ob die im Ausgangsverfahren in Rede stehende Regelung insoweit eine Beschränkung der Niederlassungsfreiheit darstellt, als sie die Besteuerung der Veräußerungsgewinne im Rahmen des Steuerjahrs vorsehe, in dem die Einbringung von Unternehmensteilen stattfinde, wohingegen die Besteuerung bei einem entsprechenden inländischen Sachverhalt erst zu dem Zeitpunkt vorgenommen werde, zu dem die Einkünfte realisiert würden, d. h. der Übertragung der Vermögensgegenstände. Sollte dies der Fall sein, stellt sich für das Gericht die Frage, ob diese Regelung durch einen mit der Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten in Zusammenhang stehenden zwingenden Grund des Allgemeininteresses gerechtfertigt werden kann und, wenn ja, ob sie zu diesem Ziel im Verhältnis steht.
+
+14
+
+Unter diesen Umständen hat das Helsingin hallinto-oikeus (Verwaltungsgericht Helsinki) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+1.
+
+Steht Art. 49 AEUV einer finnischen Regelung entgegen, nach der in einem Sachverhalt, in dem eine inländische Gesellschaft Vermögenswerte einer in einem anderen EU-Mitgliedstaat gelegenen Betriebsstätte im Wege der Einbringung eines Betriebs an eine in diesem Staat ansässige Gesellschaft veräußert und hierfür im Gegenzug neue Anteile erhält, die Übertragung der Vermögenswerte sofort im Jahr der Übertragung besteuert wird, während die Besteuerung in einem entsprechenden inländischen Sachverhalt erst zum Zeitpunkt der Realisierung erfolgt?
+
+2.
+
+Handelt es sich um eine indirekte oder direkte Diskriminierung, wenn Finnland die Besteuerung sofort im Jahr der Übertragung des Betriebs vornimmt, bevor der Gewinn realisiert wurde, und in inländischen Sachverhalten erst zum Zeitpunkt der Realisierung?
+
+3.
+
+Werden die Fragen 1 und 2 bejaht, kann dann die Beschränkung des Niederlassungsrechts durch Rechtfertigungsgründe wie einen zwingenden Grund des Allgemeininteresses oder die Wahrung der innerstaatlichen Besteuerungsbefugnis gerechtfertigt werden? Steht die verbotene Beschränkung im Einklang mit dem Verhältnismäßigkeitsgrundsatz?
+
+Zu den Vorlagefragen
+
+15
+
+Mit seinen Vorlagefragen, die zusammen zu prüfen sind, möchte das vorlegende Gericht wissen, ob Art. 49 AEUV dahin auszulegen ist, dass er einer nationalen Regelung wie der im Ausgangsverfahren in Rede stehenden entgegensteht, die in dem Fall, dass eine gebietsansässige Gesellschaft im Rahmen der Einbringung von Unternehmensteilen eine gebietsfremde Betriebsstätte an eine ebenfalls gebietsfremde Gesellschaft überträgt, zum einen die sofortige Besteuerung des anlässlich dieser Übertragung entstandenen Veräußerungsgewinns vorsieht und zum anderen keinen Aufschub bei der Beitreibung der geschuldeten Steuer gestattet während ein solcher Veräußerungsgewinn bei einem entsprechenden inländischen Sachverhalt erst bei der Veräußerung der eingebrachten Vermögensgegenstände besteuert wird.
+
+16
+
+Zunächst ist zum einen darauf hinzuweisen, dass der im Ausgangsverfahren in Rede stehende Vorgang, mit dem A eine gebietsfremde Betriebsstätte an eine ebenfalls gebietsfremde Gesellschaft übertragen hat, unstreitig eine Einbringung von Unternehmensteilen im Sinne von Art. 2 Buchst. c der Fusionsrichtlinie darstellt. Zum anderen steht außer Frage, dass die Besteuerung des anlässlich dieses Vorgangs entstandenen Veräußerungsgewinns der Betriebsstätte unter Art. 10 Abs. 2 der Richtlinie fällt.
+
+17
+
+Aus Art. 10 Abs. 2 der Fusionsrichtlinie ergibt sich, dass der Mitgliedstaat der einbringenden Gesellschaft, sofern er ein System der Weltgewinnbesteuerung anwendet, in dem Fall, dass sich unter den anlässlich einer Fusion, Spaltung oder Einbringung von Unternehmensteilen übertragenen Wirtschaftsgütern eine in einem anderen Mitgliedstaat als dem der einbringenden Gesellschaft belegene Betriebsstätte dieser Gesellschaft befindet, berechtigt ist, die Gewinne oder Veräußerungsgewinne dieser Betriebsstätte, die bei diesem Vorgang entstehen, zu besteuern, vorausgesetzt, dass er die Steuer, die ohne die Bestimmungen dieser Richtlinie auf diese Gewinne oder Veräußerungsgewinne im Staat der Betriebsstätte erhoben worden wäre, in gleicher Weise und mit dem gleichen Betrag anrechnet, wie wenn diese Steuer tatsächlich erhoben worden wäre.
+
+18
+
+Diese Bestimmung ermächtigt somit den Mitgliedstaat der einbringenden Gesellschaft unter dem Vorbehalt, dass er die dort vorgesehenen Voraussetzungen einhält, zur Besteuerung der Gewinne oder Veräußerungsgewinne, die aus der Durchführung einer Fusion, Spaltung oder Einbringung von Unternehmensteilen stammen.
+
+19
+
+Im vorliegenden Fall ergibt sich aus der dem Gerichtshof vorliegenden Akte, dass die Veräußerungsgewinne der gebietsfremden Betriebsstätte einer gebietsansässigen Gesellschaft zum einen nach der im Ausgangsverfahren in Rede stehenden Regelung besteuert werden, wenn die Betriebsstätte bei einer Einbringung von Unternehmensteilen an eine ebenfalls gebietsfremde Gesellschaft übertragen wird. Von der geschuldeten Steuer wird die Steuer abgezogen, die ohne die Bestimmungen der Fusionsrichtlinie im Mitgliedstaat der Betriebsstätte auf diese Veräußerungsgewinne erhoben worden wäre. Zum anderen wird die Steuer als Einkünfte des Steuerjahrs beigetrieben, in dem die Übertragung erfolgt.
+
+20
+
+Mit der Besteuerung solcher Veräußerungsgewinne unter gleichzeitiger Gestattung des Abzugs der Steuer, die ohne die Bestimmungen dieser Richtlinie im Mitgliedstaat der Betriebsstätte auf sie erhoben worden wäre, beschränkt sich diese Regelung auf die Umsetzung der Möglichkeit, die den Mitgliedstaaten von Art. 10 Abs. 2 der Richtlinie eingeräumt wird.
+
+21
+
+Allerdings enthält weder Art. 10 Abs. 2 noch irgendein anderer Artikel der Fusionsrichtlinie Bestimmungen zum Zeitpunkt, zu dem die Beitreibung der geschuldeten Steuer zu erfolgen hat.
+
+22
+
+Daher obliegt es den Mitgliedstaaten, solche Bestimmungen unter Beachtung des Unionsrechts vorzusehen.
+
+23
+
+Hierzu ergibt sich aus der Rechtsprechung des Gerichtshofs, dass unter die Fusionsrichtlinie fallende Vorgänge eine besondere, für das reibungslose Funktionieren des Binnenmarkts wichtige Modalität der Ausübung der Niederlassungsfreiheit darstellen, die damit zu den wirtschaftlichen Tätigkeiten gehören, hinsichtlich deren die Mitgliedstaaten diese Freiheit beachten müssen (vgl. in diesem Sinne Urteil vom 8. März 2017, Euro Park Service, C‑14/16, EU:C:2017:177, Rn. 28 und die dort angeführte Rechtsprechung).
+
+24
+
+Nach ständiger Rechtsprechung des Gerichtshofs schreibt Art. 49 AEUV die Aufhebung der Beschränkungen der Niederlassungsfreiheit vor. Auch wenn die Bestimmungen des AEU‑Vertrags über die Niederlassungsfreiheit nach ihrem Wortlaut die Inländerbehandlung im Aufnahmemitgliedstaat sicherstellen sollen, verbieten sie es ebenfalls, dass der Herkunftsmitgliedstaat die Niederlassung eines seiner Staatsangehörigen oder einer nach seinem Recht gegründeten Gesellschaft in einem anderen Mitgliedstaat behindert (Urteil vom 8. März 2017, Euro Park Service, C‑14/16, EU:C:2017:177, Rn. 58 und die dort angeführte Rechtsprechung).
+
+25
+
+Als Beschränkungen der Niederlassungsfreiheit sind alle Maßnahmen anzusehen, die die Ausübung dieser Freiheit unterbinden, behindern oder weniger attraktiv machen (Urteil vom 8. März 2017, Euro Park Service, C‑14/16, EU:C:2017:177, Rn. 59 und die dort angeführte Rechtsprechung).
+
+26
+
+Im vorliegenden Fall ergibt sich aus der dem Gerichtshof vorliegenden Akte, dass die im Ausgangsverfahren in Rede stehende Regelung nur dann eine sofortige Besteuerung der Veräußerungsgewinne und die Beitreibung der geschuldeten Steuer als Einkünfte des Steuerjahrs, in dem die Einbringung von Unternehmensteilen erfolgt, vorsieht, wenn eine gebietsansässige Gesellschaft bei dieser Einbringung eine gebietsfremde Betriebsstätte an eine ebenfalls gebietsfremde Gesellschaft überträgt.
+
+27
+
+Eine solche Ungleichbehandlung ist geeignet, in Finnland ansässige Gesellschaften davon abzuhalten, in einem anderen Mitgliedstaat über eine Betriebsstätte tätig zu werden, und beschränkt somit die Niederlassungsfreiheit.
+
+28
+
+Eine derartige Beschränkung ist nur statthaft, wenn sie Situationen betrifft, die nicht objektiv miteinander vergleichbar sind, oder wenn sie durch vom Unionsrecht anerkannte zwingende Gründe des Allgemeininteresses gerechtfertigt ist. In diesem Fall muss die Beschränkung aber außerdem geeignet sein, die Erreichung des fraglichen Ziels zu gewährleisten, und darf nicht über das hinausgehen, was zur Erreichung dieses Ziels erforderlich ist (Urteil vom 29. November 2011, National Grid Indus, C‑371/10, EU:C:2011:785, Rn. 42 sowie die dort angeführte Rechtsprechung).
+
+29
+
+Zur Vergleichbarkeit der betreffenden Situationen ist darauf hinzuweisen, dass in Ansehung der Regelung eines Mitgliedstaats zur Besteuerung der im Rahmen seiner Steuerhoheit entstandenen Veräußerungsgewinne die Situation einer Gesellschaft, die bei der Einbringung von Unternehmensteilen eine gebietsfremde Betriebsstätte an eine ebenfalls gebietsfremde Gesellschaft überträgt, bezogen auf die Besteuerung der Veräußerungsgewinne dieser Betriebsstätte, die im Rahmen der Steuerhoheit dieses Mitgliedstaats vor der Einbringung entstanden sind, mit der Situation einer Gesellschaft vergleichbar ist, die bei der Einbringung von Unternehmensteilen eine Betriebsstätte an eine andere gebietsansässige Gesellschaft überträgt (vgl. in diesem Sinne Urteil vom 21. Mai 2015, Verder LabTec, C‑657/13, EU:C:2015:331, Rn. 38 und die dort angeführte Rechtsprechung).
+
+30
+
+Zu der Frage, ob die Beschränkung durch vom Unionsrecht anerkannte zwingende Gründe des Allgemeininteresses gerechtfertigt werden kann, ist zum einen darauf zu verweisen, dass die mit der Notwendigkeit der Wahrung der Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten verbundene Rechtfertigung ein vom Gerichtshof anerkanntes legitimes Ziel ist und dass die Mitgliedstaaten in Ermangelung unionsrechtlicher Vereinheitlichungs- oder Harmonisierungsmaßnahmen befugt bleiben, zur Beseitigung der Doppelbesteuerung die Kriterien für die Aufteilung ihrer Steuerhoheit vertraglich oder einseitig festzulegen (Urteil vom 21. Mai 2015, Verder LabTec, C‑657/13, EU:C:2015:331, Rn. 42 und die dort angeführte Rechtsprechung).
+
+31
+
+Zum anderen hat ein Mitgliedstaat nach dem Grundsatz der steuerlichen Territorialität im Fall der Übertragung einer gebietsfremden Betriebsstätte bei einer Einbringung von Unternehmensteilen an eine gebietsfremde Gesellschaft das Recht, die unter seiner Besteuerungsbefugnis vor der Einbringung entstandenen Veräußerungsgewinne zum Zeitpunkt ihrer Einbringung zu besteuern. Eine solche Maßnahme soll Situationen verhindern, die das Recht dieses Mitgliedstaats auf Ausübung seiner Steuerhoheit für die in deren Rahmen durchgeführten Tätigkeiten gefährden können (vgl. in diesem Sinne Urteil vom 21. Mai 2015, Verder LabTec, C‑657/13, EU:C:2015:331, Rn. 43 und die dort angeführte Rechtsprechung).
+
+32
+
+Daher kann die Übertragung einer gebietsfremden Betriebsstätte einer gebietsansässigen Gesellschaft als Einbringung von Unternehmensanteilen an eine gebietsfremde Gesellschaft nicht bedeuten, dass der betreffende Mitgliedstaat auf sein Recht verzichten muss, die Veräußerungsgewinne zu besteuern, die im Rahmen seiner Steuerhoheit vor der Einbringung entstanden sind (vgl. in diesem Sinne Urteil vom 21. Mai 2015, Verder LabTec, C‑657/13, EU:C:2015:331, Rn. 44).
+
+33
+
+Da die Übertragung einer gebietsfremden Betriebsstätte im Rahmen einer Einbringung von Unternehmensteilen an eine ebenfalls gebietsfremde Gesellschaft bewirkt, dass Finnland jegliche Verbindung zu dieser Betriebsstätte und folglich seine Befugnis zur Besteuerung der auf deren Vermögensgegenstände entfallenden Veräußerungsgewinne nach dieser Übertragung verloren geht, ist im vorliegenden Fall davon auszugehen, dass eine nationale Regelung wie die im Ausgangsverfahren in Rede stehende geeignet ist, die Wahrung der Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten sicherzustellen.
+
+34
+
+Was die Verhältnismäßigkeit der im Ausgangsverfahren in Rede stehenden Regelung betrifft, ergibt sich aus der Rechtsprechung des Gerichtshofs erstens, dass es dem Grundsatz der Verhältnismäßigkeit genügt, wenn der Mitgliedstaat der einbringenden Gesellschaft zur Wahrung seiner Steuerhoheit die Höhe der Steuer bestimmt, die für die unter seiner Besteuerungsbefugnis realisierten Veräußerungsgewinne zu dem Zeitpunkt geschuldet wird, zu dem seine Steuerhoheit über die betreffenden Vermögengegenstände endet, im vorliegenden Fall zum Zeitpunkt der fraglichen Einbringung (vgl. in diesem Sinne Urteil vom 21. Mai 2015, Verder LabTec, C‑657/13, EU:C:2015:331, Rn. 48 und die dort angeführte Rechtsprechung).
+
+35
+
+Zweitens wurde entschieden, dass eine Regelung eines Mitgliedstaats, die dem Steuerpflichtigen die Wahl lässt zwischen einerseits der sofortigen Zahlung des Steuerbetrags, was zu einem Liquiditätsnachteil führt, die Gesellschaft aber vom späteren Verwaltungsaufwand befreit, und andererseits einer Aufschiebung der Zahlung dieses Steuerbetrags, gegebenenfalls zuzüglich Zinsen entsprechend der geltenden nationalen Regelung, was für die betreffende Gesellschaft notwendigerweise einen Verwaltungsaufwand im Zusammenhang mit der Nachverfolgung der eingebrachten Unternehmensteile mit sich bringt, eine Maßnahme darstellt, die die Niederlassungsfreiheit weniger stark beeinträchtigt als die sofortige Beitreibung der Steuer und dabei die ausgewogene Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten gewährleistet (vgl. in diesem Sinne Urteil vom 29. November 2011, National Grid Indus, C‑371/10, EU:C:2011:785, Rn. 73).
+
+36
+
+Hinsichtlich des Verwaltungsaufwands hat der Gerichtshof präzisiert, dass dem Steuerpflichtigen die Wahl zu lassen ist, ob er den durch den Zahlungsaufschub für die Steuer entstehenden Verwaltungsaufwand betreiben oder die Steuer sofort entrichten will. Sieht der Steuerpflichtige diesen Verwaltungsaufwand nicht als übermäßig an und möchte ihn betreiben, kann auch der die Steuerverwaltung treffende Aufwand nicht als übermäßig eingestuft werden (vgl. in diesem Sinne Urteil vom 16. April 2015, Kommission/Deutschland, C‑591/13, EU:C:2015:230, Rn. 73 und die dort angeführte Rechtsprechung).
+
+37
+
+Da die im Ausgangsverfahren in Rede stehende Regelung einer gebietsansässigen Gesellschaft, die bei einer Einbringung von Unternehmensteilen eine gebietsfremde Betriebsstätte an eine ebenfalls gebietsfremde Gesellschaft überträgt, nicht die Wahl lässt zwischen einerseits der sofortigen Zahlung der Steuer auf den Veräußerungsgewinn dieser Betriebsstätte und andererseits dem Aufschub der Zahlung dieses Betrags, geht diese Regelung folglich über das hinaus, was notwendig ist, um das Ziel einer Wahrung der ausgewogenen Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten zu erreichen.
+
+38
+
+Diese Beurteilung wird nicht dadurch in Frage gestellt, dass diese Regelung im Einklang mit Art. 10 Abs. 2 der Fusionsrichtlinie den Abzug der Steuer ermöglicht, die auf diese Veräußerungsgewinne im Mitgliedstaat der Betriebsstätte erhoben worden wäre, da sich die Unverhältnismäßigkeit der Regelung nicht aus der Höhe der geschuldeten Steuer ergibt, sondern aus dem Umstand, dass sie dem Steuerpflichtigen keine Möglichkeit bietet, den Zeitpunkt ihrer Einziehung hinauszuschieben (vgl. in diesem Urteil vom 14. September 2017, Trustees of the P Panayi Accumulation & Maintenance Settlements, C‑646/15, EU:C:2017:682, Rn. 60).
+
+39
+
+Zu der von der deutschen und der schwedischen Regierung geltend gemachten Rechtfertigung, die sich aus der Notwendigkeit, die wirksame Beitreibung der Steuer zu gewährleisten, herleitet, ist darauf hinzuweisen, dass der Gerichtshof zwar bereits anerkannt hat, dass sie einen zwingenden Grund des Allgemeininteresses darstellen kann, der eine Beschränkung der Ausübung der vom AEU‑Vertrag gewährleisteten Verkehrsfreiheiten rechtfertigen kann (vgl. in diesem Sinne Urteil vom 19. Juni 2014, Strojírny Prostějov und ACO Industries Tábor, C‑53/13 und C‑80/13, EU:C:2014:2011, Rn. 46 und die dort angeführte Rechtsprechung); die im Ausgangsverfahren in Rede stehende Regelung ist allerdings zur Sicherstellung ihrer Verwirklichung ungeeignet, so dass dieses Ziel bei einem Sachverhalt wie dem im Ausgangsverfahren in Rede stehenden eine etwaige Beschränkung der Niederlassungsfreiheit nicht rechtfertigen kann. Der Umstand, dass ein Mitgliedstaat einer gebietsansässigen einbringenden Gesellschaft die Wahl einräumt, sich für einen Aufschub der Zahlung der Steuer zu entscheiden, beeinträchtigt – wie die Kommission anmerkt – nämlich weder die Möglichkeit dieses Mitgliedstaats, von der Gesellschaft die erforderlichen Auskünfte für die Beitreibung der geschuldeten Steuer zu fordern, noch die Möglichkeit, diese Beitreibung tatsächlich zu veranlassen (vgl. entsprechend Urteil vom 19. Juni 2014, Strojírny Prostějov und ACO Industries Tábor, C‑53/13 und C‑80/13, EU:C:2014:2011, Rn. 49 bis 53).
+
+40
+
+In Anbetracht der vorstehenden Erwägungen ist auf die Fragen zu antworten, dass Art. 49 AEUV dahin auszulegen ist, dass er einer nationalen Regelung wie der im Ausgangsverfahren in Rede stehenden – die in dem Fall, dass eine gebietsansässige Gesellschaft im Rahmen der Einbringung von Unternehmensteilen eine gebietsfremde Betriebsstätte an eine ebenfalls gebietsfremde Gesellschaft überträgt, zum einen die sofortige Besteuerung des anlässlich dieser Übertragung entstandenen Veräußerungsgewinns vorsieht und zum anderen keinen Aufschub bei der Beitreibung der geschuldeten Steuer in dem Steuerjahr gestattet, während ein solcher Veräußerungsgewinn bei einem entsprechenden inländischen Sachverhalt erst bei der Veräußerung der eingebrachten Vermögensgegenstände besteuert wird – dann entgegensteht, wenn diese Regelung keinen Aufschub bei der Beitreibung einer solchen Steuer ermöglicht.
+
+Kosten
+
+41
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem bei dem vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Erste Kammer) für Recht erkannt:
+
+ 	
+Art. 49 AEUV ist dahin auszulegen, dass er einer nationalen Regelung wie der im Ausgangsverfahren in Rede stehenden – die in dem Fall, dass eine gebietsansässige Gesellschaft im Rahmen der Einbringung von Unternehmensteilen eine gebietsfremde Betriebsstätte an eine ebenfalls gebietsfremde Gesellschaft überträgt, zum einen die sofortige Besteuerung des anlässlich dieser Übertragung entstandenen Veräußerungsgewinns vorsieht und zum anderen keinen Aufschub bei der Beitreibung der geschuldeten Steuer gestattet, während ein solcher Veräußerungsgewinn bei einem entsprechenden inländischen Sachverhalt erst bei der Veräußerung der eingebrachten Vermögensgegenstände besteuert wird – dann entgegensteht, wenn diese Regelung keinen Aufschub bei der Beitreibung einer solchen Steuer ermöglicht.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Finnisch.

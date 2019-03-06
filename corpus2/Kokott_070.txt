@@ -1,0 +1,396 @@
+URTEIL DES GERICHTSHOFS (Erste Kammer)
+
+14. September 2017 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Direkte Besteuerung – Niederlassungsfreiheit – Freier Dienstleistungsverkehr – Freier Kapitalverkehr – Trust – Treuhänder – Sonstige juristische Personen – Begriff – Steuer auf die Wertzuwächse beim Vermögen eines Trusts wegen der Verlegung der Steueransässigkeit von Treuhändern in einen anderen Mitgliedstaat – Bestimmung des Steuerbetrags zum Zeitpunkt dieser Verlegung – Sofortige Einziehung der Steuer – Rechtfertigung – Verhältnismäßigkeit“
+
+In der Rechtssache C‑646/15
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom First-tier Tribunal (Tax Chamber) (Gericht erster Instanz, Steuerkammer, Vereinigtes Königreich) mit Entscheidung vom 30. November 2015, beim Gerichtshof eingegangen am 3. Dezember 2015, in dem Verfahren
+
+Trustees of the P Panayi Accumulation & Maintenance Settlements
+
+gegen
+
+Commissioners for Her Majesty’s Revenue and Customs
+
+erlässt
+
+DER GERICHTSHOF (Erste Kammer)
+
+unter Mitwirkung der Kammerpräsidentin R. Silva de Lapuerta sowie der Richter E. Regan, J.‑C. Bonichot, C. G. Fernlund (Berichterstatter) und S. Rodin,
+
+Generalanwältin: J. Kokott,
+
+Kanzler: R. Schiano, Verwaltungsrat,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 20. Oktober 2016,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der Trustees of the P Panayi Accumulation & Maintenance Settlements, vertreten durch M. Lemos, Barrister, und P. Baker, QC,
+
+–
+
+der Regierung des Vereinigten Königreichs, vertreten durch M. Holt, D. Robertson und S. Simmons als Bevollmächtigte im Beistand von R. Hill und J. Bremner, Barristers,
+
+–
+
+der österreichischen Regierung, vertreten durch C. Pesendorfer als Bevollmächtigte,
+
+–
+
+der norwegischen Regierung, vertreten durch K. B. Moen, K. E. B. Kloster und J. T. Kaasin als Bevollmächtigte,
+
+–
+
+der Europäischen Kommission, vertreten durch W. Roels und J. Samnadda als Bevollmächtigte,
+
+–
+
+der EFTA-Überwachungsbehörde, vertreten durch C. Zatschler, Ø. Bø und A. Steinarsdóttir als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge der Generalanwältin in der Sitzung vom 21. Dezember 2016
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung der Art. 49, 54, 56 und 63 AEUV.
+
+2
+
+Dieses Ersuchen ergeht im Rahmen eines Rechtsstreits zwischen den Trustees of the P Panayi Accumulation & Maintenance Settlements (im Folgenden: Panayi-Treuhänder) und den Commissioners for Her Majesty’s Revenue and Customs (im Folgenden: Steuerverwaltung) über die Besteuerung von nicht realisierten Wertzuwächsen beim Vermögen der Trusts anlässlich der Verlegung des Wohnsitzes der Treuhänder in einen anderen Mitgliedstaat als den Herkunftsmitgliedstaat.
+
+Rechtlicher Rahmen im Vereinigten Königreich
+
+Trusts
+
+3
+
+Nach den dem Gerichtshof vorgelegten Akten bezeichnet der Begriff des Trusts (Treuhandschaft) in den Ländern des Common law grundsätzlich einen Dreiecksvorgang, bei dem der Gründer des Trusts (Treugeber) Vermögen an eine Person, den „trustee“ (Treuhänder), überträgt, damit diese sie zugunsten eines Dritten, des Begünstigten, der Treuhandurkunde entsprechend verwaltet. Die zugunsten bestimmter Personen gegründeten Trusts werden manchmal „settlements“ genannt.
+
+4
+
+Der Trust ist dadurch gekennzeichnet, dass das Eigentum an dem Vermögen, das den Trust bildet, in juristisches und wirtschaftliches Eigentum aufgeteilt ist, das dem Treuhänder bzw. dem Begünstigten zukommt.
+
+5
+
+Ein Trust ist zwar rechtlich anerkannt und erzeugt Rechtswirkungen, er hat aber keine Rechtspersönlichkeit und kann nur durch den Treuhänder handeln. So wird das Vermögen, das den Trust bildet, nicht Teil des Vermögens des Treuhänders. Der Treuhänder muss dieses Vermögen als Sondervermögen getrennt von seinem eigenen Vermögen verwalten. Die Hauptpflicht des Treuhänders besteht darin, die Bedingungen und Aufgaben, die in der Treuhandurkunde festgelegt wurden, zu erfüllen und die allgemeinen Rechtsvorschriften einzuhalten.
+
+Besteuerung von Kapitalgewinnen
+
+6
+
+Der Taxation of Chargeable Gains Act 1992 (Gesetz über die Besteuerung steuerpflichtiger Gewinne von 1992, im Folgenden: TCGA) in seiner für das Ausgangsverfahren maßgeblichen Fassung sieht in Section 2(1) vor, dass steuerpflichtige Gewinne, die einer Person während eines Veranlagungsjahrs zufließen, in dem sie zu irgendeinem Zeitpunkt im Vereinigten Königreich ihren Wohnsitz hatte oder in dem sie ihren gewöhnlichen Aufenthalt im Vereinigten Königreich hatte, der Steuer auf Kapitalgewinne unterliegen.
+
+7
+
+Nach Section 69 TCGA sind Treuhänder als „einheitliche und fortdauernde Personengesamtheit“ zu behandeln, die sich von den Personen unterscheidet, die die Treuhänderfunktion zeitweilig ausüben. Section 69 sieht ferner vor, dass „dieser Gesamtheit ein Wohnsitz und gewöhnlicher Aufenthalt im Vereinigten Königreich zugeschrieben wird, es sei denn, die allgemeine Verwaltung der Trusts findet außerhalb des Vereinigten Königreichs statt und die Treuhänder oder die meisten von ihnen haben keinen Wohnsitz oder gewöhnlichen Aufenthalt im Vereinigten Königreich“.
+
+8
+
+Section 80(1) bis (4) TCGA bestimmt:
+
+„Treuhänder, die ihren Aufenthalt im Vereinigten Königreich beenden
+
+(1)   Diese Section kommt zur Anwendung, wenn die Treuhänder des Trusts zu irgendeinem Zeitpunkt (maßgeblicher Zeitpunkt) ihren Wohnsitz oder gewöhnlichen Aufenthalt im Vereinigten Königreich aufgeben bzw. beenden.
+
+(2)   Für die Zwecke dieses Gesetzes wird angenommen, dass die Treuhänder
+
+a)
+
+definierte Vermögenswerte unmittelbar vor dem maßgeblichen Zeitpunkt veräußert und
+
+b)
+
+sie sofort wieder erworben haben
+
+zum Marktwert zu diesem Zeitpunkt.
+
+(3)   Vorbehaltlich der nachstehenden Subsections (4) und (5) sind die definierten Vermögenswerte alle Vermögenswerte, die das Vermögen des Trusts unmittelbar vor dem maßgeblichen Zeitpunkt bilden …
+
+(4)   Sollten unmittelbar nach dem maßgeblichen Zeitpunkt
+
+a)
+
+die Treuhänder ein Gewerbe im Vereinigten Königreich durch eine Zweigniederlassung oder eine Agentur ausüben und
+
+b)
+
+sich Vermögenswerte im Vereinigten Königreich befinden und in dem oder für das Gewerbe verwendet werden oder für die Zwecke der Zweigniederlassung oder der Agentur verwendet oder gehalten werden,
+
+sind diese Vermögenswerte keine definierten Vermögenswerte.“
+
+9
+
+Aus dem Vorabentscheidungsersuchen geht hervor, dass nach Section 87 TCGA die von Treuhändern, die im Vereinigten Königreich keinen Wohnsitz oder gewöhnlichen Aufenthalt haben, realisierten Kapitalgewinne den Begünstigten insoweit zuzurechnen sind, als ihnen von den Treuhändern Kapital ausgezahlt wird. Nach dieser Bestimmung werden von gebietsfremden Treuhändern realisierte Kapitalgewinne so berechnet, als wären diese Treuhänder im Vereinigten Königreich ansässig. Die Gesamtheit der realisierten Kapitalgewinne wird sodann den Begünstigten zugerechnet, die Kapitalauszahlungen von den Treuhändern erhalten. Kapitalauszahlungen werden weit definiert, damit der Großteil der vom Trust erhaltenen Leistungen erfasst ist. Begünstigte, die im Vereinigten Königreich ansässig sind, haben bezüglich der ihnen zugerechneten Gewinne, die als Kapitalauszahlungen einzustufen sind, die Steuer auf Kapitalgewinne zu entrichten.
+
+10
+
+Zudem sieht Section 91 TCGA eine Erhöhung des Steuerbetrags vor, wenn es eine Verzögerung zwischen der Realisierung des Gewinns durch die Treuhänder und dem Erhalt der Kapitalauszahlung durch den Begünstigten gibt.
+
+Ausgangsverfahren und Vorlagefragen
+
+11
+
+Die vier Trusts, die Gegenstand des Ausgangsverfahrens sind, wurden im Jahr 1992 von Herrn Panico Panayi, einem zyprischen Staatsangehörigen, zugunsten seiner Kinder und anderer Familienmitglieder gegründet (im Folgenden: Panayi-Trusts). Er übertrug diesen Trusts 40 % der Anteile an der Cambos Enterprises Limited, der Muttergesellschaft der Unternehmen, die er gegründet hatte.
+
+12
+
+Aus den Treuhandurkunden dieser Trusts geht hervor, dass weder Herr Panayi noch Frau Panayi zu dessen Lebzeiten Begünstigte sind. Herr Panayi hat sich jedoch das Recht vorbehalten, als „Protektor“ neue oder zusätzliche Treuhänder für die Trusts zu ernennen. Die Begünstigten der Trusts verfügen hingegen nicht über dieses Recht.
+
+13
+
+Zum Zeitpunkt der Errichtung der Panayi-Trusts waren Herr Panayi, seine Ehefrau sowie ihre Kinder im Vereinigten Königreich wohnhaft. Die ursprünglichen Treuhänder der Trusts waren Herr Panayi und die KSL Trustees Limited, eine „trust company“ mit Sitz im Vereinigten Königreich. Frau Panayi kam 2003 als zusätzliche Treuhänderin hinzu.
+
+14
+
+Anfang 2004 beschlossen Herr und Frau Panayi, das Vereinigte Königreich zu verlassen und dauerhaft nach Zypern zurückzukehren. Am 19. August 2004, vor ihrem Umzug, gaben beide ihre Stellung als Treuhänder auf. Als Ersatz ernannte Herr Panayi am selben Tag drei neue Treuhänder, die alle in Zypern wohnhaft waren. Die KSL Trustees Limited, eine im Vereinigten Königreich ansässige Gesellschaft, behielt ihre Funktion als Treuhänderin hingegen bis zum 14. Dezember 2005. Somit war am 19. August 2004 die Mehrzahl der Treuhänder der Panayi-Trusts nicht mehr im Vereinigten Königreich ansässig.
+
+15
+
+Am 19. Dezember 2005 veräußerten die Panayi-Treuhänder die von den Panayi-Trusts gehaltenen Anteile und reinvestierten den Ertrag aus dieser Veräußerung. Am 31. Januar 2006 reichten die Treuhänder Steuererklärungen einschließlich Selbstbewertungen für die einzelnen Panayi-Trusts für das Steuerjahr 2004/2005 ein. Ein Begleitschreiben an die Steuerverwaltung enthielt nähere Angaben zur Änderung bei den Panayi-Treuhändern und zur darauffolgenden Veräußerung der Aktien durch diese Treuhänder.
+
+16
+
+Da diese Erklärungen keine einschlägigen Selbstbewertungen zu einer Schuld nach Section 80 TCGA enthielten, leitete die Steuerverwaltung eine Untersuchung ein. Im September 2010 erließ sie den Treuhändern gegenüber eine Entscheidung, mit der die Steuer neu bewertet wurde, weil nach Section 80 TCGA Steuer geschuldet werde. Die Steuerverwaltung sah den steuerbegründenden Tatbestand in der Ernennung der neuen Treuhänder am 19. August 2004, da zu diesem Zeitpunkt nicht mehr die Mehrzahl der Panayi-Treuhänder im Vereinigten Königreich ansässig gewesen und damit davon auszugehen sei, dass die Verwaltung der Panayi-Trusts im Steuerjahr 2004/2005 nach Zypern verlegt worden sei. Diese Steuer wurde daher am 31. Januar 2006 fällig.
+
+17
+
+Die Panayi-Treuhänder erhoben Klage beim First-tier Tribunal (Tax Chamber) (Gericht erster Instanz, Steuerkammer, Vereinigtes Königreich). Sie machen geltend, dass die Wegzugsbesteuerung und die nach Section 80 TCGA vorgesehene sofortige Einziehung mit den grundlegenden Verkehrsfreiheiten des Unionsrechts unvereinbar seien.
+
+18
+
+Die Steuerverwaltung ist ihrerseits der Ansicht, dass aufgrund der Rechtsnatur des Trusts nach dem Recht von England und Wales im vorliegenden Fall keine der Verkehrsfreiheiten anwendbar sei. Sollte eine dieser Freiheiten anwendbar sein, stelle die sofortige Einziehung der Wegzugssteuer a priori eine Beschränkung dar, die jedoch gerechtfertigt und verhältnismäßig sei.
+
+19
+
+Das vorlegende Gericht führt aus, dass, wenn die Treuhänder ihren Status als im Vereinigten Königreich ansässig behalten hätten, die Veräußerung der treuhänderisch gehaltenen Anteile am 19. Dezember 2005 die Besteuerung der entsprechenden Kapitalgewinne ausgelöst hätte. Diese Steuer wäre am 31. Januar 2007 fällig geworden.
+
+20
+
+Es weist darauf hin, dass der Gerichtshof in den Rechtssachen, in denen es um Wegzugsbesteuerungen gegangen sei, nicht die Frage habe prüfen müssen, ob sich ein Trust, der Treugeber, die Treuhänder oder die Begünstigten auf eine der grundlegenden Verkehrsfreiheiten berufen könnten. Falls eine dieser Freiheiten zur Anwendung käme, stelle sich die Frage, ob eine Beschränkung aus dem im Allgemeininteresse liegenden zwingenden Grund der ausgewogenen Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten gerechtfertigt sein könne und ob diese Beschränkung gegebenenfalls verhältnismäßig sei.
+
+21
+
+Daher hat das First-tier Tribunal (Tax Chamber) (Gericht erster Instanz, Steuerkammer) das Verfahren ausgesetzt und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorgelegt:
+
+1.
+
+Ist es mit der Niederlassungsfreiheit, der Kapitalverkehrsfreiheit oder dem freien Dienstleistungsverkehr vereinbar, wenn ein Mitgliedstaat Rechtsvorschriften wie Section 80 TCGA erlässt und aufrechterhält, wonach die nicht realisierten Wertsteigerungen der in einem Trust enthaltenen Vermögenswerte zu versteuern sind, wenn die Treuhänder eines Trusts zu irgendeinem Zeitpunkt in diesem Mitgliedstaat weder ihren Wohnsitz noch ihren gewöhnlichen Aufenthalt haben?
+
+2.
+
+Falls eine solche Besteuerung die Ausübung der betreffenden Freiheit beschränkt, kann sie dann mit der ausgewogenen Aufteilung der Besteuerungsbefugnisse gerechtfertigt werden, und ist diese Besteuerung verhältnismäßig, wenn die Rechtsvorschriften weder den Treuhändern eine Option zur Aufschiebung der Besteuerung oder zur Ratenzahlung einräumen noch anschließende Wertverluste der Vermögenswerte des Trusts berücksichtigen?
+
+Im Besonderen werden folgende Fragen vorgelegt:
+
+3.
+
+Sind Grundfreiheiten betroffen, wenn ein Mitgliedstaat nicht realisierte Gewinne aus Wertsteigerungen der Vermögenswerte von Trusts zu dem Zeitpunkt besteuert, zu dem die Mehrzahl der Treuhänder ihren Wohnsitz oder gewöhnlichen Aufenthalt nicht mehr in diesem Mitgliedstaat hat?
+
+4.
+
+Ist eine durch diese Wegzugssteuer bewirkte Beschränkung der Freiheit zur Sicherstellung einer ausgewogenen Aufteilung der Besteuerungsbefugnisse unter Umständen gerechtfertigt, unter denen noch eine Besteuerung realisierter Gewinne möglich wäre, aber nur, wenn künftig ganz bestimmte Umstände eintreten?
+
+5.
+
+Ist die Verhältnismäßigkeit anhand des konkreten Sachverhalts zu bestimmen? Ist die durch eine solche Besteuerung bewirkte Beschränkung insbesondere verhältnismäßig, wenn
+
+a)
+
+die Rechtsvorschriften weder eine Option zur Aufschiebung der Steuerentrichtung oder zur Ratenzahlung vorsehen noch die Berücksichtigung von Wertverlusten der Vermögenswerte des Trusts nach dem Wegzug,
+
+b)
+
+aber unter den besonderen Umständen der hier in Rede stehenden Steuerveranlagung die Vermögenswerte veräußert wurden, bevor die Steuer zu zahlen war, und die betreffenden Vermögenswerte zwischen der Verlagerung des Trusts und dem Veräußerungszeitpunkt nicht an Wert verloren?
+
+Zu den Vorlagefragen
+
+22
+
+Mit seinen Fragen, die zusammen zu prüfen sind, möchte das vorlegende Gericht wissen, ob die Vorschriften des AEU-Vertrags über die Niederlassungsfreiheit unter Umständen wie denen des Ausgangsverfahrens, in dem die Treuhänder nach dem nationalen Recht als einheitliche und fortdauernde Personengesamtheit behandelt werden, die sich von den Personen unterscheidet, die die Treuhänderfunktion zeitweilig ausüben, Rechtsvorschriften eines Mitgliedstaats wie denen des Ausgangsverfahrens entgegenstehen, die die Besteuerung von nicht realisierten Wertzuwächsen beim Vermögen des Trusts vorsehen, wenn die Mehrzahl der Treuhänder ihren Wohnsitz in einen anderen Mitgliedstaat verlegt, und keine aufgeschobene Einziehung der geschuldeten Steuer zulassen.
+
+23
+
+Zur Beantwortung dieser Fragen ist zunächst festzustellen, ob Trusts wie die im Ausgangsverfahren in Rede stehenden unter die Niederlassungsfreiheit fallen und, wenn ja, ob diese Freiheit in einer Situation wie derjenigen des Ausgangsverfahrens anzuwenden ist.
+
+Zur Anwendbarkeit der Niederlassungsfreiheit auf Trusts
+
+24
+
+Art. 49 AEUV schreibt die Beseitigung von Beschränkungen der freien Niederlassung von Staatsangehörigen eines Mitgliedstaats im Hoheitsgebiet eines anderen Mitgliedstaats vor. Nach Art. 54 Abs. 1 AEUV stehen die nach den Rechtsvorschriften eines Mitgliedstaats gegründeten Gesellschaften, die ihren satzungsmäßigen Sitz, ihre Hauptverwaltung oder ihre Hauptniederlassung innerhalb der Union haben, für die Anwendung der Bestimmungen des AEU-Vertrags über die Niederlassungsfreiheit natürlichen Personen gleich, die Angehörige der Mitgliedstaaten sind.
+
+25
+
+Als Gesellschaften gelten nach Art. 54 Abs. 2 AEUV die Gesellschaften des bürgerlichen Rechts und des Handelsrechts einschließlich der Genossenschaften und die sonstigen juristischen Personen des öffentlichen und privaten Rechts mit Ausnahme derjenigen, die keinen Erwerbszweck verfolgen.
+
+26
+
+Insoweit ist festzustellen, dass die Niederlassungsfreiheit, die eine der grundlegenden Vorschriften des Unionsrechts darstellt (Urteil vom 24. Mai 2011, Kommission/Belgien, C‑47/08, EU:C:2011:334, Rn. 77 und die dort angeführte Rechtsprechung), die zum Ziel der Verwirklichung des Binnenmarkts beitragen (vgl. in diesem Sinne Urteil vom 13. Dezember 2005, SEVIC Systems, C‑411/03, EU:C:2005:762, Rn. 19), sehr weitreichend ist.
+
+27
+
+So geht aus der Rechtsprechung des Gerichtshofs hervor, dass erstens die Abweichungen von dieser Freiheit eng auszulegen sind (vgl. in diesem Sinne Urteile vom 21. Juni 1974, Reyners, 2/74, EU:C:1974:68, Rn. 43 bis 55, und vom 1. Februar 2017, Kommission/Ungarn, C‑392/15, EU:C:2017:73, Rn. 106 und die dort angeführte Rechtsprechung), zweitens die Vertragsbestimmungen über die Niederlassungsfreiheit zwar die Inländerbehandlung im Aufnahmemitgliedstaat sicherstellen sollen, sie es aber auch verbieten, dass der Herkunftsmitgliedstaat die Niederlassung eines seiner Staatsangehörigen oder einer nach seinem Recht gegründeten Gesellschaft in einem anderen Mitgliedstaat behindert (Urteile vom 27. September 1988, Daily Mail and General Trust, 81/87, EU:C:1988:456, Rn. 16, und vom 21. Mai 2015, Verder LabTec, C‑657/13, EU:C:2015:331, Rn. 33 und die dort angeführte Rechtsprechung), und drittens der Begriff der Niederlassung im Sinne des Vertrags sehr weitreichend ist und die Möglichkeit für einen Unionsangehörigen impliziert, in stabiler und kontinuierlicher Weise am Wirtschaftsleben eines anderen Mitgliedstaats als seines Herkunftsstaats teilzunehmen und daraus Nutzen zu ziehen, wodurch die wirtschaftliche und soziale Verflechtung innerhalb der Union gefördert wird (vgl. in diesem Sinne Urteil vom 30. November 1995, Gebhard, C‑55/94, EU:C:1995:411, Rn. 25).
+
+28
+
+Im vorliegenden Fall steht fest, dass die im Ausgangsverfahren in Rede stehenden Trusts nach dem Recht des Vereinigten Königreichs gegründet wurden und nach diesem Recht nicht als Gesellschaften des bürgerlichen Rechts oder des Handelsrechts einschließlich der Genossenschaften angesehen werden. Es ist daher zu prüfen, ob diese Trusts unter den Begriff „sonstige juristische Personen“ des öffentlichen oder privaten Rechts, die einen Erwerbszweck verfolgen, im Sinne von Art. 54 Abs. 2 AEUV fallen können.
+
+29
+
+Wie die Generalanwältin in den Nrn. 33 und 34 ihrer Schlussanträge im Wesentlichen ausgeführt hat, erfasst dieser Begriff der „sonstigen juristischen Personen“ eine Einheit, die nach dem nationalen Recht über Rechte und Pflichten verfügt, die es ihr erlauben, ungeachtet des Fehlens einer speziellen Rechtsform als solche im Rechtsverkehr aufzutreten, und die einen Erwerbszweck verfolgt.
+
+30
+
+Im vorliegenden Fall geht aus den dem Gerichtshof vorgelegten Akten erstens hervor, dass nach dem betreffenden nationalen Recht die Vermögenswerte des Trusts ein vom persönlichen Vermögen der Treuhänder getrenntes Sondervermögen bilden und dass die Treuhänder berechtigt und verpflichtet sind, dieses Vermögen zu verwalten und darüber nach den in der Treuhandurkunde festgelegten Bedingungen und dem nationalen Recht zu verfügen.
+
+31
+
+Zweitens werden die Treuhänder, wie in den Rn. 7 und 8 des vorliegenden Urteils erläutert, zum einen nach Section 69 TCGA als einheitliche und fortdauernde Personengesamtheit verstanden, die sich von den Personen unterscheidet, die die Treuhänderfunktion zeitweilig ausüben. Section 69 TCGA sieht außerdem vor, dass dieser Gesamtheit ein Wohnsitz oder gewöhnlicher Aufenthalt im Vereinigten Königreich zugeschrieben wird, es sei denn, die allgemeine Verwaltung der Trusts findet gewöhnlich außerhalb des Vereinigten Königreichs statt und die Treuhänder oder die Mehrzahl von ihnen haben keinen Wohnsitz oder gewöhnlichen Aufenthalt im Vereinigten Königreich. Zum anderen wird, wenn Treuhänder eines Trusts zu irgendeinem Zeitpunkt ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt im Vereinigten Königreich aufgeben bzw. beenden, nach Section 80 TCGA fingiert, dass die Treuhänder die Vermögenswerte, die das Vermögen des Trusts bilden, unmittelbar vor diesem Zeitpunkt veräußert und sie sofort wieder zum Marktwert erworben haben.
+
+32
+
+Somit zeigt sich, dass die Treuhänder nach der im Ausgangsverfahren fraglichen Regelung für deren Zwecke die Steuer auf die nicht realisierten Wertzuwächse beim Vermögen des Trusts in ihrer Gesamtheit – als Einheit und nicht einzeln – schulden, wenn der Verwaltungssitz des Trusts als in einen anderen Mitgliedstaat als das Vereinigte Königreich verlegt gilt. Eine solche Verlegung liegt vor, wenn eine Mehrzahl der Treuhänder ihren Wohnsitz im Vereinigten Königreich aufgibt. Die Tätigkeit der Treuhänder in Bezug auf das Eigentum und die Verwaltung des Vermögens des Trusts ist demnach untrennbar mit dem Trust selbst verbunden und bildet folglich mit diesem ein unteilbares Ganzes. Unter diesen Umständen sollte ein solcher Trust als eine Einheit angesehen werden, die nach dem nationalen Recht über Rechte und Pflichten verfügt, die es ihr erlauben, als solche im Rechtsverkehr aufzutreten.
+
+33
+
+Zur Frage, ob die im Ausgangsverfahren in Rede stehenden Trusts einen Erwerbszweck verfolgen, ist lediglich festzustellen, dass sich aus den dem Gerichtshof vorgelegten Akten ergibt, dass diese Trusts keinen karitativen oder sozialen Zweck haben und errichtet wurden, damit die Gewinne aus dem Vermögen dieser Trusts den Begünstigten zugutekommen.
+
+34
+
+Daraus folgt, dass sich eine Einheit wie ein Trust, die nach dem nationalen Recht über Rechte und Pflichten verfügt, die es ihr erlauben, als solche aufzutreten, und die eine tatsächliche wirtschaftliche Tätigkeit ausübt, auf die Niederlassungsfreiheit berufen kann.
+
+35
+
+Es stellt sich nun die Frage, ob diese Freiheit in einer Situation wie der des Ausgangsverfahrens zur Anwendung kommt, in der die Verlegung des Wohnsitzes der Treuhänder in einen anderen Mitgliedstaat als das Vereinigte Königreich den Tatbestand bildet, der die Besteuerung der nicht realisierten Wertzuwächse beim Vermögen des Trusts auslöst.
+
+Zur Anwendbarkeit der Niederlassungsfreiheit
+
+36
+
+Der Gerichtshof hat bereits entschieden, dass sich eine nach dem Recht eines Mitgliedstaats gegründete Gesellschaft, die ihren tatsächlichen Verwaltungssitz in einen anderen Mitgliedstaat verlegt, ohne dass die Verlegung des Sitzes ihre Eigenschaft als Gesellschaft nach dem Recht des ersten Mitgliedstaats berührt, auf die Niederlassungsfreiheit berufen kann, um die Rechtmäßigkeit einer ihr von dem ersten Mitgliedstaat anlässlich dieser Sitzverlegung auferlegten Steuer in Frage zu stellen (Urteil vom 29. November 2011, National Grid Indus, C‑371/10, EU:C:2011:785, Rn. 33).
+
+37
+
+In Bezug auf das Ausgangsverfahren ist erstens festzustellen, dass, da die Treuhänder das Recht und die Pflicht haben, das Vermögen des Trusts zu verwalten, und die Besteuerung der nicht realisierten Wertzuwächse beim Vermögen des Trusts dadurch ausgelöst wird, dass die Treuhänder ihren Wohnsitz aus dem Vereinigten Königreich hinaus verlegen, diese Verlegung des Wohnsitzes nach nationalem Recht auch die Verlegung des Verwaltungssitzes dieses Trusts mit sich bringt.
+
+38
+
+Zweitens ergibt sich aus den dem Gerichtshof vorgelegten Akten, dass die im Ausgangsverfahren in Rede stehende Verlegung des Verwaltungssitzes diese Trusts nach dem betreffenden nationalen Recht offenbar nicht in ihrer Eigenschaft als Trust berührt.
+
+39
+
+Unter diesen Umständen gilt die Rechtsprechung des Gerichtshofs zur Besteuerung von Wertzuwächsen beim Vermögen einer Gesellschaft anlässlich der Verlegung ihres tatsächlichen Verwaltungssitzes in einen anderen Mitgliedstaat auch in dem Fall, dass ein Mitgliedstaat die Wertzuwächse beim Vermögen eines Trusts wegen der Verlegung des Verwaltungssitzes des Trusts in einen anderen Mitgliedstaat besteuert. Die Niederlassungsfreiheit ist demnach auf einen Fall wie den des Ausgangsverfahrens anzuwenden.
+
+40
+
+Folglich ist zu prüfen, ob Rechtsvorschriften eines Mitgliedstaats, die -wie im Ausgangsverfahren – bei einer Verlegung des Verwaltungssitzes eines Trusts in einen anderen Mitgliedstaat zum einen die Besteuerung von nicht realisierten Wertzuwächsen beim Vermögen des Trusts anlässlich dieser Verlegung und zum anderen die sofortige Einziehung dieser Steuerschuld vorsehen, eine Beschränkung dieser Freiheit darstellen.
+
+Zum Vorliegen einer Beschränkung der Niederlassungsfreiheit
+
+41
+
+Nach ständiger Rechtsprechung schreibt Art. 49 AEUV die Beseitigung von Beschränkungen der Niederlassungsfreiheit vor. Mit dieser Freiheit ist für die im Einklang mit den Rechtsvorschriften eines Mitgliedstaats gegründeten Gesellschaften, die ihren satzungsmäßigen Sitz, ihre Hauptverwaltung oder ihre Hauptniederlassung in der Union haben, das Recht verbunden, ihre Tätigkeit in anderen Mitgliedstaaten durch eine Tochtergesellschaft, Zweigniederlassung oder Agentur auszuüben (Urteil vom 21. Mai 2015, Verder LabTec, C‑657/13, EU:C:2015:331, Rn. 32 und die dort angeführte Rechtsprechung).
+
+42
+
+Wie bereits in Rn. 27 des vorliegenden Urteils ausgeführt, sollen die Bestimmungen des AEU-Vertrags über die Niederlassungsfreiheit zwar nach ihrem Wortlaut die Inländerbehandlung im Aufnahmemitgliedstaat sicherstellen, sie verbieten es aber auch, dass der Herkunftsmitgliedstaat die Niederlassung eines seiner Staatsangehörigen oder einer nach seinem Recht gegründeten Gesellschaft in einem anderen Mitgliedstaat behindert.
+
+43
+
+Als Beschränkungen der Niederlassungsfreiheit sind alle Maßnahmen anzusehen, die die Ausübung dieser Freiheit unterbinden, behindern oder weniger attraktiv machen (Urteil vom 21. Mai 2015, Verder LabTec, C‑657/13, EU:C:2015:331, Rn. 34 und die dort angeführte Rechtsprechung).
+
+44
+
+Im vorliegenden Fall geht aus den dem Gerichtshof vorgelegten Akten hervor, dass die im Ausgangsverfahren fraglichen Rechtsvorschriften nur bei einer Verlegung des Verwaltungssitzes des Trusts in einen anderen Mitgliedstaat als das Vereinigte Königreich zum einen die Besteuerung von nicht realisierten Wertzuwächsen beim Vermögen des Trusts anlässlich dieser Verlegung und zum anderen die unmittelbare Einziehung dieser Steuerschuld vorsehen. Bei einer vergleichbaren Verlegung innerhalb des nationalen Hoheitsgebiets wäre dies dagegen nicht der Fall.
+
+45
+
+Demzufolge wären, wie die Regierung des Vereinigten Königreichs einräumt, die im Ausgangsverfahren in Rede stehenden nicht realisierten Wertzuwächse vom Vereinigten Königreich nicht besteuert worden, wenn die neu ernannten Treuhänder in diesem Mitgliedstaat ansässig gewesen wären.
+
+46
+
+Daher ist festzustellen, dass die im Ausgangsverfahren fraglichen Rechtsvorschriften dazu führen, dass ein Trust, der seinen Verwaltungssitz im Vereinigten Königreich belässt, anders behandelt wird als ein Trust, dessen Verwaltungssitz in einen anderen Mitgliedstaat verlegt wird, weil sich der Wohnsitz seiner neuen Treuhänder in diesem anderen Mitgliedstaat befindet.
+
+47
+
+Diese Ungleichbehandlung ist geeignet, zum einen die Treuhänder, die den Trust verwalten, davon abzuhalten, dessen Verwaltungssitz in einen anderen Mitgliedstaat zu verlegen, und zum anderen den Treugeber davon abzuhalten, soweit es nach der Treuhandurkunde erlaubt ist, neue, nicht ansässige Treuhänder zu ernennen. Sie stellt daher eine Beschränkung der Niederlassungsfreiheit dar.
+
+48
+
+Diese Beschränkung ist nur zulässig, wenn sie Situationen betrifft, die nicht objektiv miteinander vergleichbar sind, oder wenn sie durch im Unionsrecht anerkannte zwingende Gründe des Allgemeininteresses gerechtfertigt ist. In diesem letzten Fall muss die Beschränkung zudem geeignet sein, die Erreichung des verfolgten Ziels zu gewährleisten, und darf nicht über das hinausgehen, was hierzu erforderlich ist (Urteil vom 17. Dezember 2015, Timac Agro Deutschland, C‑388/14, EU:C:2015:829, Rn. 26 und 29 sowie die dort angeführte Rechtsprechung).
+
+49
+
+Was zunächst die Vergleichbarkeit der betreffenden Situationen angeht, genügt die Feststellung, dass hinsichtlich der Regelung eines Mitgliedstaats über die Besteuerung der in seinem Hoheitsgebiet entstandenen Wertzuwächse die Situation eines Trusts, der seinen Verwaltungssitz in einen anderen Mitgliedstaat verlegt, in Bezug auf die Besteuerung der Wertzuwächse beim Vermögen des Trusts, die im ersten Mitgliedstaat vor der Verlegung dieses Sitzes erzielt wurden, der Situation eines Trusts gleicht, der seinen Verwaltungssitz in diesem Mitgliedstaat belässt (vgl. in diesem Sinne Urteil vom 29. November 2011, National Grid Indus, C‑371/10, EU:C:2011:785, Rn. 38).
+
+50
+
+Sodann ist eine solche Beschränkung nach Ansicht des Vereinigten Königreichs durch den im Allgemeininteresse liegenden Grund der Wahrung einer ausgewogenen Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten gerechtfertigt.
+
+51
+
+Insoweit ist zum einen darauf hinzuweisen, dass die Wahrung der Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten ein vom Gerichtshof anerkanntes legitimes Ziel ist. Zum anderen bleiben die Mitgliedstaaten in Ermangelung unionsrechtlicher Vereinheitlichungs- oder Harmonisierungsmaßnahmen befugt, zur Beseitigung der Doppelbesteuerung die Kriterien für die Aufteilung ihrer Steuerhoheit vertraglich oder einseitig festzulegen (Urteil vom 21. Mai 2015, Verder LabTec, C‑657/13, EU:C:2015:331, Rn. 42 und die dort angeführte Rechtsprechung).
+
+52
+
+Im vorliegenden Fall ergibt sich aus der Rechtsprechung des Gerichtshofs, dass die Verlegung des Verwaltungssitzes eines Trusts von einem Mitgliedstaat in einen anderen Mitgliedstaat nicht bedeuten kann, dass der Herkunftsmitgliedstaat auf sein Recht zur Besteuerung eines Wertzuwachses, der im Rahmen seiner Steuerhoheit vor dieser Verlegung erzielt wurde, verzichten muss. In diesem Zusammenhang hat der Gerichtshof festgestellt, dass ein Mitgliedstaat nach dem Grundsatz der steuerlichen Territorialität, verbunden mit einem zeitlichen Element, nämlich der Steueransässigkeit des Steuerpflichtigen im Inland während der Entstehung der nicht realisierten Wertzuwächse, das Recht hat, diese Wertzuwächse zum Zeitpunkt des Wegzugs des Steuerpflichtigen zu besteuern. Eine solche Maßnahme soll Situationen verhindern, die das Recht des Herkunftsmitgliedstaats auf Ausübung seiner Steuerhoheit für die in seinem Hoheitsgebiet durchgeführten Tätigkeiten gefährden können, und kann daher aus Gründen der Wahrung der Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten gerechtfertigt sein (Urteil vom 29. November 2011, National Grid Indus, C‑371/10, EU:C:2011:785, Rn. 46 und die dort angeführte Rechtsprechung).
+
+53
+
+Der Gerichtshof hat jedoch präzisiert, dass das Ziel der Wahrung der Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten eine nationale Maßnahme nur dann rechtfertigen kann, wenn der Mitgliedstaat, in dessen Hoheitsgebiet die Einkünfte entstanden sind, tatsächlich an der Ausübung seiner Steuerhoheit über die Einkünfte gehindert ist (Urteil vom 23. Januar 2014, DMC, C‑164/12, EU:C:2014:20, Rn. 56).
+
+54
+
+Im Ausgangsverfahren machen die Panayi-Treuhänder geltend, dass das Vereinigte Königreich selbst bei fehlender sofortiger Besteuerung der betreffenden Wertzuwächse anlässlich der Verlegung des Verwaltungssitzes der im Ausgangsverfahren in Rede stehenden Trusts nicht daran gehindert gewesen wäre, die Wertzuwächse beim Vermögen der Panayi-Trusts zu besteuern, da Kapitalgewinne, die von nicht ansässigen Treuhändern realisiert und ansässigen Begünstigten in Form von Kapitalauszahlungen zugerechnet würden, nach Section 87 TCGA bei diesen Begünstigten besteuert werden könnten.
+
+55
+
+Wie die Generalanwältin in Nr. 50 ihrer Schlussanträge ausgeführt hat, können nationale Rechtsvorschriften wie die im Ausgangsverfahren fraglichen, da sie die Besteuerungsbefugnis des betreffenden Mitgliedstaats völlig dem Ermessen der Treuhänder und der Begünstigten unterstellen, nicht als hinreichend angesehen werden, um die Besteuerungsbefugnis dieses Mitgliedstaats über die in seinem Hoheitsgebiet realisierten Wertzuwächse zu wahren.
+
+56
+
+Demnach ist festzustellen, dass Rechtsvorschriften eines Mitgliedstaats, die in einer Situation wie der des Ausgangsverfahrens die Besteuerung von nicht realisierten Wertzuwächsen beim Vermögen eines Trusts anlässlich der Verlegung des Verwaltungssitzes dieses Trusts in einen anderen Mitgliedstaat ungeachtet des Umstands vorsehen, dass dieser erste Mitgliedstaat die Möglichkeit hat, eine etwaige Befugnis zur Besteuerung dieser Wertzuwächse zu behalten, geeignet ist, die Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten zu wahren, da der erste Mitgliedstaat seine Befugnis zur Besteuerung dieser Wertzuwächse nach dieser Verlegung verliert.
+
+57
+
+Was schließlich die Verhältnismäßigkeit der in Rede stehenden Maßnahme betrifft, ergibt sich aus der Rechtsprechung des Gerichtshofs zum einen, dass es dem Grundsatz der Verhältnismäßigkeit genügt, dass der Herkunftsmitgliedstaat zur Wahrung seiner Steuerhoheit die Höhe der Steuer bestimmt, die für die in seinem Hoheitsgebiet erzielten, aber nicht realisierten Wertzuwächse zu dem Zeitpunkt geschuldet wird, zu dem seine Steuerhoheit über diese Wertzuwächse endet, im vorliegenden Fall zum Zeitpunkt der Verlegung des Verwaltungssitzes des Trusts in einen anderen Mitgliedstaat (Urteil vom 29. November 2011, National Grid Indus, C‑371/10, EU:C:2011:785, Rn. 52). Zum anderen wäre eine Regelung eines Mitgliedstaats, nach der ein Trust, der seinen Verwaltungssitz in einen anderen Mitgliedstaat verlegt, zwischen der sofortigen Einziehung der Steuer auf diese Wertzuwächse oder der aufgeschobenen Einziehung dieses Steuerbetrags, gegebenenfalls zuzüglich Zinsen entsprechend der anwendbaren nationalen Regelung, wählen kann, eine Maßnahme, die die Niederlassungsfreiheit weniger stark beeinträchtigt als die sofortige Einziehung der geschuldeten Steuer (vgl. in diesem Sinne Urteil vom 21. Mai 2015, Verder LabTec, C‑657/13, EU:C:2015:331, Rn. 49 und die dort angeführte Rechtsprechung).
+
+58
+
+In diesem Zusammenhang ist außerdem klarzustellen, dass eine aufgeschobene Einziehung nicht zu einer Verpflichtung des Herkunftsmitgliedstaats führen kann, etwaige Wertminderungen zu berücksichtigen, die nach der Verlegung des Verwaltungssitzes eines Trusts in einen anderen Mitgliedstaat eingetreten sind (vgl. in diesem Sinne Urteil vom 29. November 2011, National Grid Indus, C‑371/10, EU:C:2011:785, Rn. 61).
+
+59
+
+Aus den dem Gerichtshof vorgelegten Akten geht aber hervor, dass die im Ausgangsverfahren fraglichen Rechtsvorschriften nur die sofortige Einziehung der fraglichen Steuer vorsehen. Daraus folgt, dass eine solche Regelung über das hinausgeht, was zur Erreichung des Ziels der Wahrung der Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten erforderlich ist, und damit eine nicht gerechtfertigte Beschränkung der Niederlassungsfreiheit darstellt.
+
+60
+
+Diese Beurteilung wird nicht dadurch in Frage gestellt, dass die Wertzuwächse unter den Umständen des Ausgangsverfahrens nach der Festsetzung des Steuerbetrags, aber vor seiner Fälligkeit realisiert wurden, da sich die Unverhältnismäßigkeit der im Ausgangsverfahren fraglichen Rechtsvorschriften daraus ergibt, dass sie dem Steuerpflichtigen keine Möglichkeit bieten, den Zeitpunkt der Einziehung der geschuldeten Steuer hinauszuschieben.
+
+61
+
+Nach alledem ist auf die Vorlagefragen zu antworten, dass die Vorschriften des AEU-Vertrags über die Niederlassungsfreiheit unter Umständen wie denen des Ausgangsverfahrens, in dem die Treuhänder nach dem nationalen Recht als einheitliche und fortdauernde Personengesamtheit behandelt werden, die sich von den Personen unterscheidet, die die Treuhänderfunktion zeitweilig ausüben, Rechtsvorschriften eines Mitgliedstaats wie denen des Ausgangsverfahrens entgegenstehen, die die Besteuerung von nicht realisierten Wertzuwächsen beim Vermögen des Trusts vorsehen, wenn die Mehrzahl der Treuhänder ihren Wohnsitz in einen anderen Mitgliedstaat verlegt, und keine aufgeschobene Einziehung der geschuldeten Steuer zulassen.
+
+Kosten
+
+62
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem bei dem vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Erste Kammer) für Recht erkannt:
+
+ 	
+Die Vorschriften des AEU-Vertrags über die Niederlassungsfreiheit stehen unter Umständen wie denen des Ausgangsverfahrens, in dem die Treuhänder nach dem nationalen Recht als einheitliche und fortdauernde Personengesamtheit behandelt werden, die sich von den Personen unterscheidet, die die Treuhänderfunktion zeitweilig ausüben, Rechtsvorschriften eines Mitgliedstaats wie denen des Ausgangsverfahrens entgegen, die die Besteuerung von nicht realisierten Wertzuwächsen beim Vermögen des Trusts vorsehen, wenn die Mehrzahl der Treuhänder ihren Wohnsitz in einen anderen Mitgliedstaat verlegt, und keine aufgeschobene Einziehung der geschuldeten Steuer zulassen.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Englisch.
