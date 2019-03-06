@@ -1,8 +1,4 @@
-# from Paul Vierthaler (https://github.com/vierth/humanitiesTutorial) --> will be replaced by own version later
-# We now have all the pieces we need to start doing stylometry! Let's import
-# the libraries we will need:
-# brandonrose.com/clustering has a good walkthrough on document clustering 
-# Go check it out!
+# based on approach from Paul Vierthaler (https://github.com/vierth/humanitiesTutorial ) --> will be replaced by own version later
 import re, nltk, os
 from pandas import DataFrame
 import numpy as np
@@ -13,62 +9,59 @@ from sklearn.metrics.pairwise import cosine_similarity, euclidean_distances, man
 from scipy.cluster.hierarchy import linkage, dendrogram
 
 # The components for viz
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plot
 
-# Let's load the texts in from the corpus folder we created earlier.
-# Let's add a set that contains files we want to ignore (useful if there is a
-# license file, a readme, or some metafile you want to ignore)
-ignoreFiles = set([".DS_Store","LICENSE","README.md"])
+MFW = 1000
+ngram = (1, 3)
+hcaAlgorithm = 'ward'
+culling = 'no'
 
+
+# TODO: in the end think of best way how to access different corpora
 # The vectorizor object wants a list of texts, so we will prepare one for it
 sherlockTexts = []
 sherlockTitles = []
 for root, dirs, files in os.walk("corpus2"):
     for filename in files:
-        if filename not in ignoreFiles:
-            with open(os.path.join(root,filename)) as rf:
-                sherlockTexts.append(rf.read().lower())
-                sherlockTitles.append(filename[:-4].lower())
+        with open(os.path.join(root,filename)) as rf:
+            sherlockTexts.append(rf.read().lower())
+            sherlockTitles.append(filename[:-4].lower())
                 
-# We will use the titles as labels, but let's make them shorter
-#shortenTitle = {"the adventure of the engineer's thumb":"Engineer's Thumb", 
-#               'the red-headed league':"Red-headed League", 'the man with the twisted lip':"Twisted Lip",
-#              'a case of identity':"Identity", 'the adventure of the noble bachelor':"Nobel Bachelor",
-#                'the adventure of the beryl coronet': "Beryl Coronet", 'the adventure of the speckled band':"Speckled Band", 
-#                'the five orange pips':"Orange Pips", 'the adventure of the blue carbuncle':"Blue Carbuncle",
-#               'the adventure of the copper beeches':"Copper Beeches", 'the boscombe valley mystery':"Boscombe Valley",
-#                'a scandal in bohemia':"Bohemia"}
 
-#shortTitles = [shortenTitle[title] for title in sherlockTitles]
 
-# Get the frequencies of the 1000 most common ngrams in the corpus
-countVectorizer = TfidfVectorizer(max_features=1000, use_idf=True, ngram_range= (1, 3))
+# Frequencies of the x most common n-grams in the corpus
+# n-grams can be indicated as ranges, e.g. (1, 3) includes ngrams from 1 to 3
+# n-grams can also be indicated as single numbers, e.g. (3, 3) includes only 3-grams
+# max_features = MFWs
+# TODO: include culling
+# TODO: consider console parameter for values OR:
+# TODO: consider automation process (e.g. count from 500 to 3000 features, 1-3-gram, etc) and save the images etc
+countVectorizer = TfidfVectorizer(max_features=MFW, use_idf=False, ngram_range= ngram)
 print(countVectorizer)
 countMatrix = countVectorizer.fit_transform(sherlockTexts)
 print(countMatrix)
 
-# We can measure the distances between all of these documents using a variety
-# of metrics. We will talk about the assumptions these distance metrics make (
-# and why some might be better than others) in class.
+# distance measure provided by methods from sklearn:
+# manhattan_distances = burrows delta
+# euclidean_distances = quadratic delta (argamon 2008)
+# beim vergleich der anwälte liefert euclidean metric bessere ergebnisse
 similarity = manhattan_distances(countMatrix)
 print(similarity)
 
-# We can group these documents together based on which ones are closest 
-# together using Hierarchical Cluster Analysis. Here we use the "Ward" 
-# algorithm
-linkages = linkage(similarity,'ward')
 
-# Here we will use scipy's dendogram function (which we imported) to plot this:
-dendrogram(linkages, labels=sherlockTitles, orientation="left", leaf_font_size=8,leaf_rotation=0)
+# Hierarchical Cluster Analysis, i.e. grouping of nearest documents and
+# display in dendrogram
+# TODO: evaluate which algorithm is best for us
+linkages = linkage(similarity, hcaAlgorithm)
+fig = dendrogram(linkages, labels=sherlockTitles, orientation="left", leaf_font_size=8,leaf_rotation=0)
 
-# We'll adjust the plot a bit to make it better
-plt.tick_params(axis='x', which='both', bottom=False, top=False, labelbottom=False)
-# This will prevent the labels from going off the figure
-plt.tight_layout()
-plt.show()
+plot.tick_params(axis='x', which='both', bottom=True, top=False, labelbottom=True)
+plot.title(str(MFW) + " MFW " + str(ngram) + " ngram " + "no culling" )
+plot.tight_layout()
 
+plot.show()
 
 
-# manhattan distance = burrows delta
-# euclidean distance = quadratic delta (argamon 2008)
+
+
 
