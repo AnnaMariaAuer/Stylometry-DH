@@ -25,10 +25,11 @@ class Stylometry():
         self.ngram_range_max = 3
         self.hcaAlgorithm = 'ward'
         self.culling = 'no'
+        self.cull_percentage = 10
         self.document_contents = []
         self.document_titles = []
         self.load_corpus()
-        self.apply_culling(10)
+        #self.preprocess_culling()
         self.apply_stylometry()
         self.visualize_results()
 
@@ -47,76 +48,49 @@ class Stylometry():
                 f.close()
 
 
-    def apply_culling(self, cull_percentage):
-        # = wenn ein Wort nicht min. in x docs auftritt wird es entfernt
-        # aus der liste
-        # 1. ausrechnen : in wie vielen texten muss es min auftreten?
-        # 2. unique words in liste bekommen
-        # 3. uniquewords iterieren und schauen, in wie vielen texten es vorkommt
-        # 4. wenn anzahl < 1.) dann weg
+    def preprocess_culling(self):
+        # applies culling, i.e. identifies words that should not be taken into account
+        # for stylometry calculations
+        # A word should be removed, if it does not occur in min. X percent of all documents
 
-        min_word_amount = (cull_percentage*len(self.document_contents))/100
+        # calculate amount of docs based on the selected culling percentage
+        min_word_amount = (self.cull_percentage*len(self.document_contents))/100
         min_word_amount_rounded = round(min_word_amount)
-        culledWords = open("culled_words_"+str(cull_percentage)+".txt", "w+")
+
+        #create file for saving words to be removed
+        culledWords = open("culled_words_"+str(self.cull_percentage)+".txt", "w+")
 
         all_words = []
-        # liste aller docs iterieren und eine liste mit allen wörtern erstellen
+        # iterate over all documents and create a list with all unique words of all documents
         for document in self.document_contents:
             words = nltk.word_tokenize(document)
             for word in words:
                 all_words.append(word)
 
-
-
-
-
-        fdistAll = FreqDist(all_words)
-        print(min_word_amount_rounded)
-
-
-
+        # iterate over unique wordlist and check how often words occur in the documents
         for word in all_words:
+            # counts the amount of documents where the word is not contained
             doc_counter = 0
 
+            # iterate over all documents
             for doc in self.document_contents:
-                wordsindoc0 = nltk.word_tokenize(doc)
-                fdist0Doc = FreqDist(wordsindoc0)
+                words_current_doc = nltk.word_tokenize(doc)
+                freq_words_curr_doc = FreqDist(words_current_doc)
 
-                # kommt nicht in doc 0 vor
-                if fdist0Doc[word]==0:
-                    #print(len(self.document_contents))
-                    #print(doc_counter)
-                    # 21-17 muss kleiner sein als 4 --> dann weg
+                # if the current word does not occur in the current document
+                if freq_words_curr_doc[word]==0:
                     doc_counter = doc_counter + 1
-
                     print("Kommt nicht vor in "+ str(doc_counter)+" Dokumenten "+  " ->Wort:"+word)
+
+                    # if the current word occurs less than in X percent of all documents
                     if len(self.document_contents) - doc_counter < min_word_amount_rounded:
-                        #print(doc_counter)
-                        print(word +" entfernt, weil nicht in " + str(cull_percentage) + "% der Dokumente")
+                        print(word +" entfernt, weil nicht in " + str(self.cull_percentage) + "% der Dokumente")
+                        # add word to to-remove list
                         culledWords.write(word+" \n")
+                        # don't iterate this word anymore over other documents
                         break
 
-
-
-
-
-
         culledWords.close()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     def apply_stylometry(self):
@@ -145,7 +119,7 @@ class Stylometry():
 
     def visualize_results(self):
         plot.tick_params(axis='x', which='both', bottom=True, top=False, labelbottom=True)
-        plot.title(str(self.MFW) + " MFW " + str(self.ngram_range_min) + "-" + str(self.ngram_range_max) + "-gram " + "no culling " + " Euclidean"  )
+        plot.title(str(self.MFW) + " MFW " + str(self.ngram_range_min) + "-" + str(self.ngram_range_max) + "-gram " + str(self.cull_percentage)+"% culling " + " Euclidean"  )
         plot.tight_layout()
         plot.show()
 
