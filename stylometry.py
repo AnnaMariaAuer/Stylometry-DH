@@ -20,8 +20,8 @@ class Stylometry():
         self.ngram = (1, 3)
         self.hcaAlgorithm = 'ward'
         self.culling = 'no'
-        self.sherlockTexts = []
-        self.sherlockTitles = []
+        self.document_contents = []
+        self.document_titles = []
         self.load_corpus()
         self.apply_stylometry()
         self.visualize_results()
@@ -30,11 +30,17 @@ class Stylometry():
 
     def load_corpus(self):
         # TODO: in the end think of best way how to access different corpora
-        for root, dirs, files in os.walk("corpus2"):
+        for root, dirs, files in os.walk("corpus"):
             for filename in files:
-                with open(os.path.join(root, filename)) as rf:
-                    self.sherlockTexts.append(rf.read().lower())
-                    self.sherlockTitles.append(filename[:-4].lower())
+                label = os.path.splitext(filename)
+                f = open(os.path.join(root, filename), 'r')
+                content_of_file = f.read()
+                self.document_contents.append(content_of_file)
+                # remove ".txt" ending of files to obtain names
+                self.document_titles.append(label[0])
+                f.close()
+
+
 
 
     def apply_stylometry(self):
@@ -46,7 +52,7 @@ class Stylometry():
         # TODO: consider console parameter for values OR:
         # TODO: consider automation process (e.g. count from 500 to 3000 features, 1-3-gram, etc) and save the images etc
         countVectorizer = TfidfVectorizer(max_features=self.MFW, use_idf=False, ngram_range=self.ngram)
-        countMatrix = countVectorizer.fit_transform(self.sherlockTexts)
+        countMatrix = countVectorizer.fit_transform(self.document_contents)
 
         # distance measure provided by methods from sklearn:
         # manhattan_distances = burrows delta
@@ -58,7 +64,7 @@ class Stylometry():
         # display in dendrogram
         # TODO: evaluate which algorithm is best for us
         linkages = linkage(similarity, self.hcaAlgorithm)
-        fig = dendrogram(linkages, labels=self.sherlockTitles, orientation="left", leaf_font_size=8, leaf_rotation=0)
+        fig = dendrogram(linkages, labels=self.document_titles, orientation="left", leaf_font_size=8, leaf_rotation=0)
 
 
     def visualize_results(self):
