@@ -21,11 +21,12 @@ import matplotlib.pyplot as plot
 class Stylometry():
     def __init__(self):
         super().__init__()
-        self.MFW = 1000
-        self.ngram_range_min = 1
+        self.MFW = 1500
+        self.ngram_range_min = 2
         self.ngram_range_max = 3
         self.hcaAlgorithm = 'ward'
         self.cull_percentage = 10
+        self.delta = "Burrow's"
         self.document_contents = []
         self.document_titles = []
         self.load_corpus()
@@ -142,8 +143,12 @@ class Stylometry():
         # distance measure provided by methods from sklearn:
         # manhattan_distances = burrows delta
         # euclidean_distances = quadratic delta (argamon 2008)
-        # beim vergleich der anwälte liefert euclidean metric bessere ergebnisse
-        similarity = euclidean_distances(countMatrix)
+        # beim vergleich der anwälte liefert euclidean metric zb bessere ergebnisse
+        if self.delta == "Quadratic":
+            similarity = euclidean_distances(countMatrix)
+        else:
+            similarity = manhattan_distances(countMatrix)
+
 
         # Hierarchical Cluster Analysis, i.e. grouping of nearest documents and
         # display in dendrogram
@@ -154,10 +159,11 @@ class Stylometry():
 
     def visualize_results(self):
         plot.tick_params(axis='x', which='both', bottom=True, top=False, labelbottom=True)
-        plot.title(str(self.MFW) + " MFW " + str(self.ngram_range_min) + "-" + str(self.ngram_range_max) + "-gram " + str(self.cull_percentage)+"% culling " + " Euclidean"  )
+        ngram = str(self.ngram_range_min) + "-" + str(self.ngram_range_max) + "-gram "
+        plot.title(str(self.MFW) + " MFW " + ngram +  str(self.cull_percentage)+"% culling " + self.delta+" Delta")
         plot.tight_layout()
+        plot.savefig("results_stylometry/"+ str(self.MFW) + "MFW_"+ngram+"_"+str(self.cull_percentage)+"cul_"+ self.delta+ "Delta"+".png")
         plot.show()
-
 def main():
     calculateStylometry = Stylometry()
 
