@@ -7,13 +7,9 @@ import numpy as np
 import sys
 import math
 from collections import Counter
-
-# The components for analysis:
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity, euclidean_distances, manhattan_distances
 from scipy.cluster.hierarchy import linkage, dendrogram
-
-# The components for viz
 import matplotlib.pyplot as plot
 
 
@@ -21,26 +17,56 @@ import matplotlib.pyplot as plot
 class Stylometry():
     def __init__(self):
         super().__init__()
-        self.MFW = 1500
-        self.ngram_range_min = 2
-        self.ngram_range_max = 3
+        self.MFW = 0
+        self.ngram_range_min = 0
+        self.ngram_range_max = 0
         self.hcaAlgorithm = 'ward'
-        self.cull_percentage = 10
+        self.cull_percentage = 30
         self.delta = "Burrow's"
         self.document_contents = []
         self.document_titles = []
         self.load_corpus()
         if len(sys.argv) > 1:
             if sys.argv[1] == "culling":
-                print("Culling process started.")
+                print("Culling process started. This will take a few minutes.")
+                print("Please wait until the program is closed automatically.")
+                print("The list with culled words can be found in the main project folder.")
+
                 self.preprocess_culling()
             else:
                 print("The passed parameter could not be recognized.")
         else:
             print("Stylometry will be calculated.")
-            self.apply_culling()
-            self.apply_stylometry()
-            self.visualize_results()
+            print("This will take a few minutes.")
+            print("Please wait until the program is closed automatically.")
+            print("The output visualizations can be found in the folder results_stylometry.")
+            # iterate mfw from 200 to 3000 with stepsize 200
+            for mfw_increment in range(15):
+                # increase MFW by 200
+                self.MFW = self.MFW + 200
+                # reset cull percentage
+                self.cull_percentage = 0
+
+                # iterate culling from 10 to 30 % with stepsize 10
+                for cull_increment in range(3):
+                    self.ngram_range_max =0
+                    self.cull_percentage = self.cull_percentage + 10
+
+                    # iterate upper range limit for ngram from 1 to 3 with stepsize 1
+                    for ngram_range_max_increment in range(3):
+                        self.ngram_range_max = self.ngram_range_max + 1
+                        self.ngram_range_min=0
+
+                        # iterate lower range limit for ngram from 1 to 3 with stepsize 1
+                        for ngram_range_min_increment in range(3):
+                            self.ngram_range_min = self.ngram_range_min + 1
+
+                            # lower range limit must be smaller than higher limit
+                            if ngram_range_max_increment >= ngram_range_min_increment:
+                                self.apply_culling()
+                                self.apply_stylometry()
+                                self.visualize_results()
+
 
 
     def load_corpus(self):
@@ -116,11 +142,11 @@ class Stylometry():
                 # if the current word does not occur in the current document
                 if freq_words_curr_doc[word]==0:
                     doc_counter = doc_counter + 1
-                    print("Kommt nicht vor in "+ str(doc_counter)+" Dokumenten "+  " ->Wort:"+word)
+                    print("Word does not occur in "+ str(doc_counter)+" documents "+  " -> Word:"+word)
 
                     # if the current word occurs less than in X percent of all documents
                     if len(self.document_contents) - doc_counter < min_word_amount_rounded:
-                        print(word +" entfernt, weil nicht in " + str(self.cull_percentage) + "% der Dokumente")
+                        print(word +" remmoved, because not contained in min. " + str(self.cull_percentage) + "% of all documents.")
                         # add word to to-remove list
                         culledWords.write(word+" \n")
                         # don't iterate this word anymore over other documents
@@ -134,7 +160,6 @@ class Stylometry():
         # n-grams can be indicated as ranges, e.g. (1, 3) includes ngrams from 1 to 3
         # n-grams can also be indicated as single numbers, e.g. (3, 3) includes only 3-grams
         # max_features = MFWs
-        # TODO: include culling
         # TODO: consider console parameter for values OR:
         # TODO: consider automation process (e.g. count from 500 to 3000 features, 1-3-gram, etc) and save the images etc
         countVectorizer = TfidfVectorizer(max_features=self.MFW, use_idf=False, ngram_range=(self.ngram_range_min, self.ngram_range_max))
@@ -163,7 +188,11 @@ class Stylometry():
         plot.title(str(self.MFW) + " MFW " + ngram +  str(self.cull_percentage)+"% culling " + self.delta+" Delta")
         plot.tight_layout()
         plot.savefig("results_stylometry/"+ str(self.MFW) + "MFW_"+ngram+"_"+str(self.cull_percentage)+"cul_"+ self.delta+ "Delta"+".png")
-        plot.show()
+        #plot.show()
+        # redraws each plot, otherwise all previous plots are placed in one plot
+        plot.cla()
+        plot.clf()
+        plot.close()
 def main():
     calculateStylometry = Stylometry()
 
