@@ -29,7 +29,7 @@ class Stylometry():
         self.document_titles = []
         self.load_corpus()
         # TODO: solve method calling via command line parameter
-        #self.preprocess_culling()
+        self.preprocess_culling()
         self.apply_culling()
         self.apply_stylometry()
         self.visualize_results()
