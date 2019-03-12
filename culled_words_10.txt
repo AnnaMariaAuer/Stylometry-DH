@@ -14,3 +14,7 @@ fehér
 koós 
 beklagter 
 siebten 
+arbeitslosigkeit 
+antrag 
+ablehnung 
+ergebnis 

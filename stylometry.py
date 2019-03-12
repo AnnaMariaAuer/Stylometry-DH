@@ -24,15 +24,15 @@ class Stylometry():
         self.ngram_range_min = 1
         self.ngram_range_max = 3
         self.hcaAlgorithm = 'ward'
-        self.culling = 'no'
         self.cull_percentage = 10
         self.document_contents = []
         self.document_titles = []
         self.load_corpus()
+        # TODO: solve method calling via command line parameter
         #self.preprocess_culling()
+        self.apply_culling()
         self.apply_stylometry()
         self.visualize_results()
-
 
 
     def load_corpus(self):
@@ -41,11 +41,37 @@ class Stylometry():
             for filename in files:
                 label = os.path.splitext(filename)
                 f = open(os.path.join(root, filename), 'r')
-                content_of_file = f.read()
-                self.document_contents.append(content_of_file.lower())
+                self.document_contents.append(f.read().lower())
                 # remove ".txt" ending of files to obtain names
                 self.document_titles.append(label[0])
                 f.close()
+
+    def apply_culling(self):
+        # removes all culled words from the corpus based on the culling file created
+        # in the method preprocess_culling
+
+        # get file with culling words
+        culling_list_file = open("culled_words_" + str(self.cull_percentage) + ".txt", 'r')
+        # split file along lines
+        culling_list = culling_list_file.read().splitlines()
+
+        # testing: word amount needs to be higher than after culling --> successful
+        #davor = nltk.word_tokenize(self.document_contents[0])
+        #davor1 = nltk.word_tokenize(self.document_contents[1])
+
+
+        # iteratate over each word in the culling list and remove it from all documents
+        for word in culling_list:
+            # needs to be written this way (self.document_contents[i]), otherwise not applicated
+            for i in range(len(self.document_contents)):
+                self.document_contents[i] = self.document_contents[i].replace(word, "")
+        culling_list_file.close()
+
+        # testing cf. above
+        #danach = nltk.word_tokenize(self.document_contents[0])
+        #danach1 = nltk.word_tokenize(self.document_contents[1])
+        #print(str(len(davor)) + " - " + str(len(danach)))
+        #print(str(len(davor1)) + " - " + str(len(danach1)))
 
 
     def preprocess_culling(self):
