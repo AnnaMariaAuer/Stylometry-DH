@@ -4,6 +4,7 @@ from pandas import DataFrame
 from nltk.probability import FreqDist
 from nltk import word_tokenize
 import numpy as np
+import sys
 import math
 from collections import Counter
 
@@ -28,11 +29,17 @@ class Stylometry():
         self.document_contents = []
         self.document_titles = []
         self.load_corpus()
-        # TODO: solve method calling via command line parameter
-        #self.preprocess_culling()
-        self.apply_culling()
-        self.apply_stylometry()
-        self.visualize_results()
+        if len(sys.argv) > 1:
+            if sys.argv[1] == "culling":
+                print("Culling process started.")
+                self.preprocess_culling()
+            else:
+                print("The passed parameter could not be recognized.")
+        else:
+            print("Stylometry will be calculated.")
+            self.apply_culling()
+            self.apply_stylometry()
+            self.visualize_results()
 
 
     def load_corpus(self):
