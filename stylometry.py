@@ -29,7 +29,7 @@ class Stylometry():
         self.document_titles = []
         self.load_corpus()
         # TODO: solve method calling via command line parameter
-        self.preprocess_culling()
+        #self.preprocess_culling()
         self.apply_culling()
         self.apply_stylometry()
         self.visualize_results()
@@ -90,7 +90,9 @@ class Stylometry():
         # iterate over all documents and create a list with all unique words of all documents
         for document in self.document_contents:
             words = nltk.word_tokenize(document)
-            for word in words:
+            unique_words = set(words)
+            unique_words_list = list(unique_words)
+            for word in unique_words_list:
                 all_words.append(word)
 
         # iterate over unique wordlist and check how often words occur in the documents
