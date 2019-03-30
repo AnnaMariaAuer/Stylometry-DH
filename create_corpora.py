@@ -169,4 +169,4 @@ if __name__ == "__main__":
     # get_all_txt_of_category("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter", "subject_matter")
     # remove_punctuation_numbers(r"C:\Users\ArbeitsPC\PycharmProjects\Stylometry-DH\Arbeitskorpus_advocate_general_structured", r"C:\Users\ArbeitsPC\PycharmProjects\Stylometry-DH\corpus-without-punct-numb\advocats")
     # make_corpus_without_stopwords(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-punct-numb/advocats", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-stopword/advocats")
-    get_top_n_words(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-punct-numb/subject-matter", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-mfw/subject-matter", 50)
+    get_top_n_words(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-stopword/subject-matter", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-mfw-without-stopwords/subject-matter", 50)

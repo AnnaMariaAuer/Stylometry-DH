@@ -6,7 +6,8 @@ STOPWORDS = stopwords.words('german')
 from nltk.stem.wordnet import WordNetLemmatizer
 from pywsd.utils import lemmatize, lemmatize_sentence
 from collections import Counter
-
+import nltk
+from pattern.de import parse, split
 
 
 translator = str.maketrans('','', string.digits)
@@ -50,5 +51,10 @@ testsentence = "hallo du da wie geht es dir ich hoffe dir geht es gut ich mag di
 #counter = Counter()
 words  = re.findall(r'\w+', testsentence)
 print(words)
-word_counts = Counter(words)
-print(word_counts.most_common(3))
+#word_counts = Counter(words)
+#print(word_counts.most_common(3))
+#lemmas = nltk.pos_tag(words, "STTS")
+#print(lemmas)
+s = parse("hallo du da wie geht es dir ich hoffe dir geht es gut ich mag dich vielleicht sehr gerne", tagset = "STTS")
+for sentence in split(s):
+  print(sentence)
