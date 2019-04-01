@@ -1,4 +1,3 @@
-# partially based on approach from Paul Vierthaler (https://github.com/vierth/humanitiesTutorial )
 import re, nltk, os
 from pandas import DataFrame
 from nltk.probability import FreqDist
@@ -24,27 +23,15 @@ class Stylometry():
         
     def init_variables(self):
         self.MFW = 0
-        self.ngram_range_min = 0
-        self.ngram_range_max = 0
+        self.ngram_range_min = 2
+        self.ngram_range_max = 2
         self.hcaAlgorithm = 'ward'
-        self.cull_percentage = 40
+        self.cull_percentage = 20
         self.delta = "Burrow's"
         self.document_contents = []
         self.document_titles = []
 
-    def load_corpusss(self):
-        # TODO: in the end think of best way how to access different corpora
-        for root, dirs, files in os.walk("corpus"):
-            for filename in files:
-                label = os.path.splitext(filename)
-                f = open(os.path.join(root, filename), 'r')
-                self.document_contents.append(f.read().lower())
-                # remove ".txt" ending of files to obtain names
-                self.document_titles.append(label[0])
-                f.close()
-
     def load_corpus(self):
-        # TODO: in the end think of best way how to access different corpora
         folders = []
         files = []
         for corpus_type in os.scandir('corpus'):
@@ -83,24 +70,24 @@ class Stylometry():
             print("This will take a few minutes.")
             print("Please wait until the program is closed automatically.")
             print("The output visualizations can be found in the folder results_stylometry.")
-            # iterate mfw from 200 to 3000 with stepsize 200
+            # iterate mfw from 200 to 2000 with stepsize 200
             for mfw_increment in range(15):
                 # increase MFW by 200
                 self.MFW = self.MFW + 200
                 # reset cull percentage
-                self.cull_percentage = 0
+                self.cull_percentage = -10
 
-                # iterate culling from 10 to 30 % with stepsize 10
+                # iterate culling from 10 to 20 % with stepsize 10
                 for cull_increment in range(3):
-                    self.ngram_range_max =0
+                    self.ngram_range_max =2
                     self.cull_percentage = self.cull_percentage + 10
 
-                    # iterate upper range limit for ngram from 1 to 3 with stepsize 1
+                    # iterate upper range limit for ngram from 3 to 5 with stepsize 1
                     for ngram_range_max_increment in range(3):
                         self.ngram_range_max = self.ngram_range_max + 1
-                        self.ngram_range_min=0
+                        self.ngram_range_min=2
 
-                        # iterate lower range limit for ngram from 1 to 3 with stepsize 1
+                        # iterate lower range limit for ngram from 3 to 5 with stepsize 1
                         for ngram_range_min_increment in range(3):
                             self.ngram_range_min = self.ngram_range_min + 1
 
@@ -124,8 +111,8 @@ class Stylometry():
         culling_list = culling_list_file.read().splitlines()
 
         # testing: word amount needs to be higher than after culling --> successful
-        davor = nltk.word_tokenize(self.document_contents[0])
-        davor1 = nltk.word_tokenize(self.document_contents[1])
+        #davor = nltk.word_tokenize(self.document_contents[0])
+        #davor1 = nltk.word_tokenize(self.document_contents[1])
 
         # iteratate over each word in the culling list and remove it from all documents
         for word in culling_list:
@@ -135,10 +122,10 @@ class Stylometry():
         culling_list_file.close()
 
         # testing cf. above
-        danach = nltk.word_tokenize(self.document_contents[0])
-        danach1 = nltk.word_tokenize(self.document_contents[1])
-        print(str(len(davor)) + " - " + str(len(danach)))
-        print(str(len(davor1)) + " - " + str(len(danach1)))
+        #danach = nltk.word_tokenize(self.document_contents[0])
+        #danach1 = nltk.word_tokenize(self.document_contents[1])
+        #printprint(str(len(davor)) + " - " + str(len(danach)))
+        #print(str(len(davor1)) + " - " + str(len(danach1)))
 
     def preprocess_culling(self):
         # applies culling, i.e. identifies words that should not be taken into account
@@ -162,7 +149,12 @@ class Stylometry():
                 unique_words = set(words)
                 unique_words_list = list(unique_words)
                 for word in unique_words_list:
-                    all_words.append(word)
+                    if word not in all_words:
+                        all_words.append(word)
+
+            all_words.sort()
+            print(len(all_words))
+
 
             # iterate over unique wordlist and check how often words occur in the documents
             for word in all_words:
@@ -181,7 +173,7 @@ class Stylometry():
 
                         # if the current word occurs less than in X percent of all documents
                         if len(self.document_contents) - doc_counter < min_word_amount_rounded:
-                            print(word +" removed, because not contained in min. " + str(self.cull_percentage) + "% of all documents.")
+                            #print(word +" removed, because not contained in min. " + str(self.cull_percentage) + "% of all documents.")
                             # add word to to-remove list
                             culledWords.write(word+" \n")
                             # don't iterate this word anymore over other documents
@@ -195,8 +187,6 @@ class Stylometry():
         # n-grams can be indicated as ranges, e.g. (1, 3) includes ngrams from 1 to 3
         # n-grams can also be indicated as single numbers, e.g. (3, 3) includes only 3-grams
         # max_features = MFWs
-        # TODO: consider console parameter for values OR:
-        # TODO: consider automation process (e.g. count from 500 to 3000 features, 1-3-gram, etc) and save the images etc
         countVectorizer = TfidfVectorizer(max_features=self.MFW, use_idf=False, ngram_range=(self.ngram_range_min, self.ngram_range_max))
         countMatrix = countVectorizer.fit_transform(self.document_contents)
 
@@ -218,9 +208,9 @@ class Stylometry():
     def visualize_results(self):
         plot.tick_params(axis='x', which='both', bottom=True, top=False, labelbottom=True)
         ngram = str(self.ngram_range_min) + "-" + str(self.ngram_range_max) + "-gram "
-        plot.title(str(self.MFW) + " MFW " + ngram +  str(self.cull_percentage)+"% culling " + self.delta+" Delta")
+        plot.title(str(self.MFW) + " MFW " + ngram +  str(self.cull_percentage)+"% culling " + self.delta+" Delta " + self.corpus_category + " " + self.corpus_type + " corpus")
         plot.tight_layout()
-        plot.savefig("results_stylometry/"+ str(self.MFW) + "MFW_"+ngram+"_"+str(self.cull_percentage)+"cul_"+ self.delta+ "Delta"+".png")
+        plot.savefig("results_stylometry/"+ str(self.MFW) + "MFW_"+ngram+"_"+str(self.cull_percentage)+"cul_"+ self.delta+ "Delta_"+ self.corpus_category + " " + self.corpus_type+".png")
         # redraws each plot, otherwise all previous plots are placed in one plot
         plot.cla()
         plot.clf()
