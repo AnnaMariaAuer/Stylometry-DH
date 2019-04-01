@@ -1,4 +1,4 @@
-# based on approach from Paul Vierthaler (https://github.com/vierth/humanitiesTutorial ) --> will be replaced by own version later
+# partially based on approach from Paul Vierthaler (https://github.com/vierth/humanitiesTutorial )
 import re, nltk, os
 from pandas import DataFrame
 from nltk.probability import FreqDist
@@ -13,19 +13,62 @@ from scipy.cluster.hierarchy import linkage, dendrogram
 import matplotlib.pyplot as plot
 
 
-
 class Stylometry():
     def __init__(self):
         super().__init__()
+        self.corpus_type = "corpus_type"
+        self.corpus_category = "corpus_category"
+        self.init_variables()
+        self.load_corpus()    
+
+        
+    def init_variables(self):
         self.MFW = 0
         self.ngram_range_min = 0
         self.ngram_range_max = 0
         self.hcaAlgorithm = 'ward'
-        self.cull_percentage = 30
+        self.cull_percentage = 40
         self.delta = "Burrow's"
         self.document_contents = []
         self.document_titles = []
-        self.load_corpus()
+
+    def load_corpusss(self):
+        # TODO: in the end think of best way how to access different corpora
+        for root, dirs, files in os.walk("corpus"):
+            for filename in files:
+                label = os.path.splitext(filename)
+                f = open(os.path.join(root, filename), 'r')
+                self.document_contents.append(f.read().lower())
+                # remove ".txt" ending of files to obtain names
+                self.document_titles.append(label[0])
+                f.close()
+
+    def load_corpus(self):
+        # TODO: in the end think of best way how to access different corpora
+        folders = []
+        files = []
+        for corpus_type in os.scandir('corpus'):
+            if corpus_type.is_dir():
+                self.corpus_type = corpus_type.name
+                #print(self.corpus_type)
+                for category in os.scandir(corpus_type):
+                    self.corpus_category = category.name
+                    #print(self.corpus_category)
+                    for file in os.scandir(category):
+                        # remove ".txt" suffix of files
+                        label = file.name.split(".")[0]
+                        f = open(os.path.join("", file), 'r', encoding="utf8")
+                        self.document_contents.append(f.read().lower())
+
+                        self.document_titles.append(label)
+                        f.close()
+                    self.start_application()
+                    self.init_variables()
+
+
+
+
+    def start_application(self):
         if len(sys.argv) > 1:
             if sys.argv[1] == "culling":
                 print("Culling process started. This will take a few minutes.")
@@ -68,31 +111,21 @@ class Stylometry():
                                 self.visualize_results()
 
 
-
-    def load_corpus(self):
-        # TODO: in the end think of best way how to access different corpora
-        for root, dirs, files in os.walk("corpus"):
-            for filename in files:
-                label = os.path.splitext(filename)
-                f = open(os.path.join(root, filename), 'r')
-                self.document_contents.append(f.read().lower())
-                # remove ".txt" ending of files to obtain names
-                self.document_titles.append(label[0])
-                f.close()
+                
 
     def apply_culling(self):
         # removes all culled words from the corpus based on the culling file created
         # in the method preprocess_culling
 
         # get file with culling words
-        culling_list_file = open("culled_words_" + str(self.cull_percentage) + ".txt", 'r')
+        culling_list_file = open(os.path.join("culling_preprocessing", "culled_words_" + str(self.cull_percentage) +  "_"  +  self.corpus_type + "_" + self.corpus_category +".txt")
+,  'r', encoding="utf8")
         # split file along lines
         culling_list = culling_list_file.read().splitlines()
 
         # testing: word amount needs to be higher than after culling --> successful
-        #davor = nltk.word_tokenize(self.document_contents[0])
-        #davor1 = nltk.word_tokenize(self.document_contents[1])
-
+        davor = nltk.word_tokenize(self.document_contents[0])
+        davor1 = nltk.word_tokenize(self.document_contents[1])
 
         # iteratate over each word in the culling list and remove it from all documents
         for word in culling_list:
@@ -102,11 +135,10 @@ class Stylometry():
         culling_list_file.close()
 
         # testing cf. above
-        #danach = nltk.word_tokenize(self.document_contents[0])
-        #danach1 = nltk.word_tokenize(self.document_contents[1])
-        #print(str(len(davor)) + " - " + str(len(danach)))
-        #print(str(len(davor1)) + " - " + str(len(danach1)))
-
+        danach = nltk.word_tokenize(self.document_contents[0])
+        danach1 = nltk.word_tokenize(self.document_contents[1])
+        print(str(len(davor)) + " - " + str(len(danach)))
+        print(str(len(davor1)) + " - " + str(len(danach1)))
 
     def preprocess_culling(self):
         # applies culling, i.e. identifies words that should not be taken into account
@@ -116,44 +148,47 @@ class Stylometry():
         # calculate amount of docs based on the selected culling percentage
         min_word_amount = (self.cull_percentage*len(self.document_contents))/100
         min_word_amount_rounded = round(min_word_amount)
+        #print(min_word_amount_rounded)
 
         #create file for saving words to be removed
-        culledWords = open("culled_words_"+str(self.cull_percentage)+".txt", "w+")
+        culledWords = open(os.path.join("culling_preprocessing", "culled_words_" + str(self.cull_percentage) +  "_"  +  self.corpus_type + "_" + self.corpus_category +".txt")
+, "w+", encoding="utf8")
+        # if percentage is 0, just create empty file, as no culling should be applied
+        if self.cull_percentage > 0:
+            all_words = []
+            # iterate over all documents and create a list with all unique words of all documents
+            for document in self.document_contents:
+                words = nltk.word_tokenize(document)
+                unique_words = set(words)
+                unique_words_list = list(unique_words)
+                for word in unique_words_list:
+                    all_words.append(word)
 
-        all_words = []
-        # iterate over all documents and create a list with all unique words of all documents
-        for document in self.document_contents:
-            words = nltk.word_tokenize(document)
-            unique_words = set(words)
-            unique_words_list = list(unique_words)
-            for word in unique_words_list:
-                all_words.append(word)
+            # iterate over unique wordlist and check how often words occur in the documents
+            for word in all_words:
+                # counts the amount of documents where the word is not contained
+                doc_counter = 0
 
-        # iterate over unique wordlist and check how often words occur in the documents
-        for word in all_words:
-            # counts the amount of documents where the word is not contained
-            doc_counter = 0
+                # iterate over all documents
+                for doc in self.document_contents:
+                    words_current_doc = nltk.word_tokenize(doc)
+                    freq_words_curr_doc = FreqDist(words_current_doc)
 
-            # iterate over all documents
-            for doc in self.document_contents:
-                words_current_doc = nltk.word_tokenize(doc)
-                freq_words_curr_doc = FreqDist(words_current_doc)
+                    # if the current word does not occur in the current document
+                    if freq_words_curr_doc[word]==0:
+                        doc_counter = doc_counter + 1
+                        print("Word does not occur in "+ str(doc_counter)+" documents "+  " -> Word:"+word)
 
-                # if the current word does not occur in the current document
-                if freq_words_curr_doc[word]==0:
-                    doc_counter = doc_counter + 1
-                    print("Word does not occur in "+ str(doc_counter)+" documents "+  " -> Word:"+word)
+                        # if the current word occurs less than in X percent of all documents
+                        if len(self.document_contents) - doc_counter < min_word_amount_rounded:
+                            print(word +" removed, because not contained in min. " + str(self.cull_percentage) + "% of all documents.")
+                            # add word to to-remove list
+                            culledWords.write(word+" \n")
+                            # don't iterate this word anymore over other documents
+                            break
 
-                    # if the current word occurs less than in X percent of all documents
-                    if len(self.document_contents) - doc_counter < min_word_amount_rounded:
-                        print(word +" remmoved, because not contained in min. " + str(self.cull_percentage) + "% of all documents.")
-                        # add word to to-remove list
-                        culledWords.write(word+" \n")
-                        # don't iterate this word anymore over other documents
-                        break
-
-        culledWords.close()
-
+                
+            culledWords.close()
 
     def apply_stylometry(self):
         # Frequencies of the x most common n-grams in the corpus
@@ -174,13 +209,11 @@ class Stylometry():
         else:
             similarity = manhattan_distances(countMatrix)
 
-
         # Hierarchical Cluster Analysis, i.e. grouping of nearest documents and
         # display in dendrogram
         # TODO: evaluate which algorithm is best for us
         linkages = linkage(similarity, self.hcaAlgorithm)
         fig = dendrogram(linkages, labels=self.document_titles, orientation="left", leaf_font_size=8, leaf_rotation=0)
-
 
     def visualize_results(self):
         plot.tick_params(axis='x', which='both', bottom=True, top=False, labelbottom=True)
@@ -188,7 +221,6 @@ class Stylometry():
         plot.title(str(self.MFW) + " MFW " + ngram +  str(self.cull_percentage)+"% culling " + self.delta+" Delta")
         plot.tight_layout()
         plot.savefig("results_stylometry/"+ str(self.MFW) + "MFW_"+ngram+"_"+str(self.cull_percentage)+"cul_"+ self.delta+ "Delta"+".png")
-        #plot.show()
         # redraws each plot, otherwise all previous plots are placed in one plot
         plot.cla()
         plot.clf()
@@ -196,7 +228,7 @@ class Stylometry():
 def main():
     calculateStylometry = Stylometry()
 
-
 if __name__ == '__main__':
     main()
+
 
