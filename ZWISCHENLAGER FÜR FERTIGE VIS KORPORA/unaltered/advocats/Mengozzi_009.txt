@@ -1,0 +1,694 @@
+﻿URTEIL DES GERICHTSHOFS (Vierte Kammer)
+
+7. November 2018 ( *1 )
+
+„Vertragsverletzung eines Mitgliedstaats – Richtlinie 2006/123/EG – Art. 15 bis 17 – Art. 49 AEUV – Niederlassungsfreiheit – Art. 56 AEUV – Freier Dienstleistungsverkehr – Nationales mobiles Zahlungssystem – Monopol“
+
+In der Rechtssache C‑171/17
+
+betreffend eine Vertragsverletzungsklage nach Art. 258 AEUV, eingereicht am 5. April 2017,
+
+Europäische Kommission, vertreten durch V. Bottka und H. Tserepa-Lacombe als Bevollmächtigte,
+
+Klägerin,
+
+gegen
+
+Ungarn, vertreten durch M. Z. Fehér und G. Koós als Bevollmächtigte,
+
+Beklagter,
+
+erlässt
+
+DER GERICHTSHOF (Vierte Kammer)
+
+unter Mitwirkung des Präsidenten der Siebten Kammer T. von Danwitz in Wahrnehmung der Aufgaben des Präsidenten der Vierten Kammer, der Richterin K. Jürimäe (Berichterstatterin) sowie der Richter C. Lycourgos, E. Juhász und C. Vajda,
+
+Generalanwalt: Y. Bot,
+
+Kanzler: I. Illéssy, Verwaltungsrat,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 14. März 2018,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 14. Juni 2018
+
+folgendes
+
+Urteil
+
+1
+
+Mit ihrer Klageschrift beantragt die Europäische Kommission, festzustellen, dass Ungarn dadurch gegen seine Verpflichtungen aus Art. 15 Abs. 2 Buchst. d und Art. 16 Abs. 1 der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt (ABl. 2006, L 376, S. 36), hilfsweise aus den Art. 49 und 56 AEUV, verstoßen hat, dass es das im Nemzeti mobil fizetési rendszerről szóló 2011. évi CC. törvény (Magyar Közlöny 2011/164) (Gesetz Nr. CC von 2011 über das nationale mobile Zahlungssystem, im Folgenden: Gesetz Nr. CC) und im 356/2012. (XII. 13.) Korm. rendelet a nemzeti mobil fizetési rendszerről szóló törvény végrehajtásáról (Regierungsverordnung Nr. 356/2012 zur Durchführung des Gesetzes über das nationale mobile Zahlungssystem, im Folgenden: Regierungsverordnung Nr. 356/2012) geregelte nationale mobile Zahlungssystem eingeführt und beibehalten hat.
+
+I. Rechtlicher Rahmen
+
+A. Unionsrecht
+
+2
+
+Die Erwägungsgründe 8, 17, 70 und 72 der Richtlinie 2006/123 lauten:
+
+„(8)
+
+Die Bestimmungen dieser Richtlinie über die Niederlassungsfreiheit und die Dienstleistungsfreiheit sollten nur insoweit Anwendung finden, als die betreffenden Tätigkeiten dem Wettbewerb offen stehen, so dass sie die Mitgliedstaaten weder verpflichten, Dienstleistungen von allgemeinem wirtschaftlichem Interesse zu liberalisieren, noch öffentliche Einrichtungen, die solche Dienstleistungen anbieten, zu privatisieren, noch bestehende Monopole für andere Tätigkeiten oder bestimmte Vertriebsdienste abzuschaffen.
+
+…
+
+(17)
+
+Diese Richtlinie gilt nur für Dienstleistungen, die für eine wirtschaftliche Gegenleistung erbracht werden. Dienstleistungen von allgemeinem Interesse fallen nicht unter die Begriffsbestimmung des Artikels [57 AEUV] und somit nicht in den Anwendungsbereich dieser Richtlinie. Dienstleistungen von allgemeinem wirtschaftlichem Interesse sind Dienstleistungen, die für eine wirtschaftliche Gegenleistung erbracht werden, und fallen deshalb in den Anwendungsbereich dieser Richtlinie. Gleichwohl sind bestimmte Dienstleistungen von allgemeinem wirtschaftlichem Interesse, wie solche, die gegebenenfalls im Verkehrsbereich erbracht werden, vom Anwendungsbereich dieser Richtlinie ausgenommen und für einige andere Dienstleistungen von allgemeinem wirtschaftlichem Interesse, wie solche, die gegebenenfalls im Bereich der Postdienste erbracht werden, gelten Ausnahmen von den Bestimmungen dieser Richtlinie über die Dienstleistungsfreiheit. …
+
+…
+
+(70)
+
+Für die Zwecke dieser Richtlinie und unbeschadet des Artikels [14 AEUV] können Dienstleistungen nur dann als Dienstleistungen von allgemeinem wirtschaftlichem Interesse angesehen werden, wenn sie der Erfüllung eines besonderen Auftrags von öffentlichem Interesse dienen, mit dem der Dienstleistungserbringer von dem betreffenden Mitgliedstaat betraut wurde. Diese Beauftragung sollte durch einen oder mehrere Akte erfolgen, deren Form von dem betreffenden Mitgliedstaat selbst bestimmt wird; darin sollte die genaue Art des besonderen Auftrags angegeben werden.
+
+…
+
+(72)
+
+Dienstleistungen von allgemeinem wirtschaftlichem Interesse sind mit wichtigen Aufgaben für den sozialen und territorialen Zusammenhalt verbunden. Die Durchführung dieser Aufgaben sollte durch den in dieser Richtlinie vorgesehenen Evaluierungsprozess nicht behindert werden. Zur Erfüllung dieser Aufgaben erforderliche Anforderungen sollten von diesem Prozess nicht berührt werden; zugleich sollte aber das Problem ungerechtfertigter Beschränkungen der Niederlassungsfreiheit behandelt werden.“
+
+3
+
+Art. 1 dieser Richtlinie bestimmt:
+
+„…
+
+(2)   Diese Richtlinie betrifft weder die Liberalisierung von Dienstleistungen von allgemeinem wirtschaftlichem Interesse, die öffentlichen oder privaten Einrichtungen vorbehalten sind, noch die Privatisierung öffentlicher Einrichtungen, die Dienstleistungen erbringen.
+
+(3)   Diese Richtlinie betrifft weder die Abschaffung von Dienstleistungsmonopolen noch von den Mitgliedstaaten gewährte Beihilfen, die unter die … Wettbewerbsvorschriften [der Union] fallen.
+
+Diese Richtlinie berührt nicht das Recht der Mitgliedstaaten, im Einklang mit dem [Unions]recht festzulegen, welche Leistungen sie als von allgemeinem wirtschaftlichem Interesse erachten, wie diese Dienstleistungen unter Beachtung der Vorschriften über staatliche Beihilfen organisiert und finanziert werden sollten und welchen spezifischen Verpflichtungen sie unterliegen sollten.
+
+…“
+
+4
+
+Art. 2 Abs. 2 der Richtlinie sieht vor:
+
+„Diese Richtlinie findet auf folgende Tätigkeiten keine Anwendung:
+
+a)
+
+nicht-wirtschaftliche Dienstleistungen von allgemeinem Interesse;
+
+…
+
+i)
+
+Tätigkeiten, die im Sinne des Artikels [51 AEUV] mit der Ausübung öffentlicher Gewalt verbunden sind;
+
+…“
+
+5
+
+Art. 4 Nr. 7 der Richtlinie definiert den Begriff „Anforderungen“ als „alle Auflagen, Verbote, Bedingungen oder Beschränkungen, die in den Rechts- oder Verwaltungsvorschriften der Mitgliedstaaten festgelegt sind oder sich aus der Rechtsprechung, der Verwaltungspraxis, den Regeln von Berufsverbänden oder den kollektiven Regeln, die von Berufsvereinigungen oder sonstigen Berufsorganisationen in Ausübung ihrer Rechtsautonomie erlassen wurden, ergeben“.
+
+6
+
+Art. 15 („Zu prüfende Anforderungen“) der Richtlinie 2006/123 sieht vor:
+
+„(1)   Die Mitgliedstaaten prüfen, ob ihre Rechtsordnungen die in Absatz 2 aufgeführten Anforderungen vorsehen, und stellen sicher, dass diese Anforderungen die Bedingungen des Absatzes 3 erfüllen. Die Mitgliedstaaten ändern ihre Rechts- und Verwaltungsvorschriften, um sie diesen Bedingungen anzupassen.
+
+(2)   Die Mitgliedstaaten prüfen, ob ihre Rechtsordnung die Aufnahme oder Ausübung einer Dienstleistungstätigkeit von folgenden nicht diskriminierenden Anforderungen abhängig macht:
+
+…
+
+d)
+
+Anforderungen, die die Aufnahme der betreffenden Dienstleistungstätigkeit aufgrund ihrer Besonderheiten bestimmten Dienstleistungserbringern vorbehalten, mit Ausnahme von Anforderungen, die Bereiche betreffen, die von der Richtlinie 2005/36/EG [des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. 2005, L 255, S. 22)] erfasst werden, oder solchen, die in anderen [Unions]rechtsakten vorgesehen sind;
+
+…
+
+(3)   Die Mitgliedstaaten prüfen, ob die in Absatz 2 genannten Anforderungen folgende Bedingungen erfüllen:
+
+a)
+
+Nicht-Diskriminierung: die Anforderungen dürfen weder eine direkte noch eine indirekte Diskriminierung aufgrund der Staatsangehörigkeit oder – bei Gesellschaften – aufgrund des Orts des satzungsmäßigen Sitzes darstellen;
+
+b)
+
+Erforderlichkeit: die Anforderungen müssen durch einen zwingenden Grund des Allgemeininteresses gerechtfertigt sein;
+
+c)
+
+Verhältnismäßigkeit: die Anforderungen müssen zur Verwirklichung des mit ihnen verfolgten Ziels geeignet sein; sie dürfen nicht über das hinausgehen, was zur Erreichung dieses Ziels erforderlich ist; diese Anforderungen können nicht durch andere weniger einschneidende Maßnahmen ersetzt werden, die zum selben Ergebnis führen.
+
+(4)   Die Absätze 1, 2 und 3 gelten für Rechtsvorschriften im Bereich der Dienstleistungen von allgemeinem wirtschaftlichem Interesse nur insoweit, als die Anwendung dieser Absätze die Erfüllung der anvertrauten besonderen Aufgabe nicht rechtlich oder tatsächlich verhindert.
+
+…“
+
+7
+
+Art. 16 Abs. 1 dieser Richtlinie lautet:
+
+„Die Mitgliedstaaten achten das Recht der Dienstleistungserbringer, Dienstleistungen in einem anderen Mitgliedstaat als demjenigen ihrer Niederlassung zu erbringen.
+
+Der Mitgliedstaat, in dem die Dienstleistung erbracht wird, gewährleistet die freie Aufnahme und freie Ausübung von Dienstleistungstätigkeiten innerhalb seines Hoheitsgebiets.
+
+Die Mitgliedstaaten dürfen die Aufnahme oder Ausübung einer Dienstleistungstätigkeit in ihrem Hoheitsgebiet nicht von Anforderungen abhängig machen, die gegen folgende Grundsätze verstoßen:
+
+a)
+
+Nicht-Diskriminierung: die Anforderung darf weder eine direkte noch eine indirekte Diskriminierung aufgrund der Staatsangehörigkeit oder – bei juristischen Personen – aufgrund des Mitgliedstaats, in dem sie niedergelassen sind, darstellen;
+
+b)
+
+Erforderlichkeit: die Anforderung muss aus Gründen der öffentlichen Ordnung, der öffentlichen Sicherheit, der öffentlichen Gesundheit oder des Schutzes der Umwelt gerechtfertigt sein;
+
+c)
+
+Verhältnismäßigkeit: die Anforderung muss zur Verwirklichung des mit ihr verfolgten Ziels geeignet sein und darf nicht über das hinausgehen, was zur Erreichung dieses Ziels erforderlich ist.“
+
+8
+
+Art. 17 Nr. 1 der Richtlinie sieht vor, dass deren Art. 16 keine Anwendung auf Dienstleistungen von allgemeinem wirtschaftlichem Interesse (im Folgenden: DAWI) findet, die in einem anderen Mitgliedstaat u. a. in den in diesem Art. 17 Nr. 1 genannten Sektoren erbracht werden.
+
+B. Ungarisches Recht
+
+1.   Gesetz Nr. CC
+
+9
+
+Das Gesetz Nr. CC änderte mit Wirkung vom 1. April 2013, mit verbindlicher Wirkung allerdings erst ab 2. Juli 2014, den Rechtsrahmen für mobile Zahlungsdienste.
+
+10
+
+In Art. 1 Buchst. d dieses Gesetzes heißt es:
+
+„Für die Zwecke dieses Gesetzes bezeichnet der Ausdruck
+
+…
+
+d)
+
+,mobiler Zahlungsdienst‘ jedes System, bei dem der Kunde die Dienstleistung über ein elektronisches Marketingsystem erwirbt, das ohne Anknüpfung an einen festen Punkt mittels Telekommunikation, einer digitalen Vorrichtung oder eines anderen IT‑Tools zugänglich ist“.
+
+11
+
+Art. 2 dieses Gesetzes sieht vor:
+
+„Als zentral vermarkteter mobiler Dienst gilt
+
+a)
+
+die öffentliche Parkdienstleistung (Parkplatz) gemäß dem Straßenverkehrsgesetz;
+
+b)
+
+die Bereitstellung des Straßennetzes für Verkehrszwecke gegen Entrichtung einer Nutzungsgebühr oder Maut;
+
+c)
+
+der Personenverkehrsdienst, der als öffentliche Dienstleistung von einem Dienstleister erbracht wird, welcher überwiegend vom Staat oder von einer lokalen Verwaltung kontrolliert wird;
+
+…
+
+d)
+
+jeder nicht unter eine der in den Buchstaben a bis c genannten Kategorien fallender Dienst, der als öffentliche Dienstleistung von einer überwiegend vom Staat oder einer lokalen Verwaltung kontrollierten Einrichtung erbracht wird.“
+
+12
+
+Art. 3 des Gesetzes bestimmt:
+
+„(1)   Der Dienstleister ist verpflichtet, die Vermarktung des zentral vermarkteten mobilen Dienstes – mit Ausnahme des in Art. 2 Buchst. d genannten Dienstes – über ein mobiles Bezahlsystem zu gewährleisten.
+
+(2)   Der Dienstleister kommt seiner Verpflichtung nach Abs. 1 nach, sofern er
+
+a)
+
+vollständig im Besitz des Staates ist oder
+
+b)
+
+vollständig im Besitz einer Einrichtung ist, die ihrerseits zu 100 % vom Staat kontrolliert wird, wobei das einheitliche nationale System (im Folgenden: nationales mobiles Zahlungssystem) verwendet wird, das von der von der Regierung benannten Einrichtung (im Folgenden: nationale Behörde für mobile Zahlungen) betrieben wird.
+
+(3)   Vermarktet der Diensteanbieter den in Art. 2 Buchst. d genannten Dienst über ein mobiles Zahlungssystem, so darf er dies nur über das nationale mobile Zahlungssystem tun.
+
+(4)   Der Betrieb des nationalen mobilen Zahlungssystems ist ein öffentlicher Dienst, für den der für Informatik zuständige Minister und die nationale Behörde für mobile Zahlungen eine öffentliche Dienstleistungsvereinbarung schließen.
+
+(5)   Der Betrieb des nationalen mobilen Zahlungssystems ist eine wirtschaftliche Tätigkeit ausschließlich des Staates, die die nationale Behörde für mobile Zahlungen ohne Abschluss eines Konzessionsvertrags ausübt.
+
+…“
+
+2.   Regierungsverordnung Nr. 356/2012
+
+13
+
+Die am 1. April 2013 in Kraft getretene Regierungsverordnung Nr. 356/2012 enthält die Durchführungsvorschriften zum Gesetz Nr. CC.
+
+14
+
+Art. 8 der Regierungsverordnung bestimmt:
+
+„(1)   Das vom Kunden als Gebühr für den mobilen Zahlungsdienst zu entrichtende Entgelt entspricht, sofern nichts anderes bestimmt ist, der Gebühr, die der Kunde zu zahlen hätte, wenn er den Dienst nicht über das nationale mobile Zahlungssystem erworben hätte. Der Leistungserbringer kann den Erwerb der Dienstleistung über das mobile Zahlungssystem durch Rabatte fördern.
+
+(2)   Neben der Gebühr für das mobile Zahlungssystem gemäß Absatz 1 zahlt der Kunde der nationalen Behörde für mobile Zahlungsdienste für die nachstehend angegebenen Dienste eine entsprechende Komfortgebühr:
+
+a)
+
+50 [ungarische] Forint [(HUF)] pro Transaktion im Rahmen der Vermarktung der öffentlichen Parkdienstleistung (Parkplatz),
+
+b)
+
+50 [HUF] pro Transaktion im Rahmen der Vermarktung der Straßennutzungsberechtigung im Sinne von § 33/A des Gesetzes Nr. I von 1988 über den Straßenverkehr,
+
+…
+
+(3)   Wird die zentralisierte mobil vertriebene Dienstleistung in Anspruch genommen, stellt die nationale Behörde für mobile Zahlungen dem Kunden die Komfortgebühr zusammen mit der Gebühr für die zentralisierte mobil vertriebene Dienstleistung in Rechnung.
+
+…“
+
+15
+
+Art. 24/A Abs. 1 der Regierungsverordnung sieht vor:
+
+„Neben der Gebühr für das mobile Zahlungssystem nach Art. 8 Abs. 1 zahlt der Wiederverkäufer der nationalen Behörde für mobile Zahlungen für die nachstehend angegebenen Dienste eine entsprechende Komfortgebühr:
+
+a)
+
+40 [HUF] pro Transaktion im Rahmen der Vermarktung der öffentlichen Parkdienstleistung (Parkplatz),
+
+b)
+
+0 [HUF] pro Transaktion im Rahmen der Vermarktung der Straßennutzungsberechtigung im Sinne von § 33/A des Gesetzes Nr. I von 1988 über den Straßenverkehr,
+
+c)
+
+0 [HUF] pro Transaktion im Rahmen der Vermarktung der Straßennutzungsberechtigung im Sinne des Mautgesetzes,
+
+d)
+
+0 [HUF] pro Transaktion für den Verkauf einer Fahrkarte für öffentliche Verkehrsmittel,
+
+e)
+
+75 [HUF] pro Transaktion für Dienste im Sinne von Art. 2 Buchst. d des Gesetzes Nr. CC.“
+
+16
+
+Art. 31 der Regierungsverordnung betrifft die Wiederverkaufsgebühr. Sein Abs. 1 lautet:
+
+„Die Wiederverkaufsgebühr errechnet sich aus dem Betrag ohne Mehrwertsteuer der vom Kunden gemäß Art. 8 Abs. 1 zu entrichtenden Gebühr und beträgt:
+
+a)
+
+10 % im Rahmen der Vermarktung der öffentlichen Parkdienstleistung (Parkplatz),
+
+b)
+
+5 % im Rahmen der Vermarktung der Straßennutzungsberechtigung im Sinne von § 33/A des Gesetzes Nr. I von 1988 über den Straßenverkehr,
+
+c)
+
+5 % im Rahmen des Verkaufs einer Fahrkarte,
+
+d)
+
+5 % im Rahmen der Vermarktung der Straßennutzungsberechtigung im Sinne des Mautgesetzes.“
+
+II. Vorverfahren und Verfahren vor dem Gerichtshof
+
+17
+
+Die Kommission eröffnete am 14. Dezember 2012, gestützt auf die Feststellung, dass die Anwendung des Gesetzes Nr. CC und der Regierungsverordnung Nr. 356/2012 zum Betrieb eines obligatorischen nationalen mobilen Zahlungssystems durch ein einziges staatlich kontrolliertes Unternehmen führen werde, das EU-Pilotverfahren Nr. 4372/12/MARK, in dessen Rahmen sie Ungarn ein Auskunftsersuchen übersandte. Die ungarischen Behörden beantworteten dieses Ersuchen am 22. Februar 2013.
+
+18
+
+Da die Kommission diese Antwort für unzureichend hielt und die Auffassung vertrat, dass Ungarn mit der Annahme von Art. 3 Abs. 2 bis 5 des Gesetzes Nr. CC gegen seine Verpflichtungen aus den Art. 15 und 16 der Richtlinie 2006/123 sowie aus den Art. 49 und 56 AEUV verstoßen habe, richtete sie am 21. November 2013 ein Aufforderungsschreiben an diesen Mitgliedstaat.
+
+19
+
+Ungarn beantwortete dieses Aufforderungsschreiben mit Schreiben vom 22. Januar 2014. Es machte erstens geltend, die Mitgliedstaaten verfügten über ein weites Ermessen bei der Definition von DAWI, das die Kommission nur im Fall eines offensichtlichen Fehlers in Frage stellen könne. Das in Rede stehende nationale mobile Zahlungssystem sei eine DAWI, weil es gegenüber gewöhnlichen wirtschaftlichen Tätigkeiten bestimmte Besonderheiten aufweise, jedermann zugänglich sei und weil diese Dienstleistung durch die Marktkräfte allein nicht in zufriedenstellender Weise erbracht werden könne. Zweitens erfülle Ungarn durch eine Standardisierung, die eine Vereinheitlichung, Individualisierung und Interoperabilität ermögliche, die Anforderungen mobiler Zahlungssysteme, die u. a. von der Kommission in ihrem Grünbuch „Ein integrierter europäischer Markt für Karten-, Internet- und mobile Zahlungen“ (KOM[2011] 941 endgültig) aufgestellt worden seien. Drittens habe dieser Mitgliedstaat die mit der fraglichen Plattform angebotenen Dienstleistungen im Interesse der Allgemeinheit und nicht aus wirtschaftlichen Gründen vom Wettbewerb ausgenommen. So sei auf Parkplätzen das mobile Bezahlen die einzige Zahlungsmethode, bei der die Gebühr nach der tatsächlichen Parkdauer berechnet werden könne. Viertens hätten die privaten Dienstleistungserbringer, die diese Dienstleistung zuvor angeboten hätten, keine von diesem Mitgliedstaat auszugleichenden Verluste erlitten, da sie die von ihnen eingerichtete Plattform und Infrastruktur weiterhin in gleicher Weise als Wiederverkäufer nutzen könnten. Fünftens sei es nur über eine zentrale, nationale und auf einem Ausschließlichkeitsrecht beruhende Plattform möglich, den Kunden einen einheitlichen und garantierten Service zu bieten. Sechstens funktioniere das in Rede stehende nationale mobile Zahlungssystem wie ein Monopol, das Dienstleistungen anbiete. Nach Art. 1 Abs. 3 der Richtlinie 2006/123 falle ein solches Monopol nicht in deren Anwendungsbereich.
+
+20
+
+Am 11. Juli 2014 gab die Kommission eine mit Gründen versehene Stellungnahme ab, in der sie an dem in ihrem Aufforderungsschreiben dargelegten Standpunkt festhielt. Ungarn antwortete hierauf mit Schreiben vom 19. September 2014, in dem es im Wesentlichen wiederholte, was es in seinem Schreiben vom 22. Januar 2014 ausgeführt hatte.
+
+21
+
+Da die Kommission die Antwort der ungarischen Behörden für unzureichend hielt, hat sie die vorliegende Klage erhoben.
+
+III. Zur Klage
+
+A. Vorbemerkungen
+
+22
+
+Einleitend ist festzustellen, dass das in Rede stehende nationale mobile Zahlungssystem, dessen Verwendung in verschiedenen Anwendungsbereichen, nämlich dem öffentlichen Parken, der Bereitstellung des Straßennetzes für Verkehrszwecke, der Personenbeförderung durch ein staatliches Unternehmen und den sonstigen von einer staatlichen Einrichtung angebotenen Dienstleistungen, vorgeschrieben ist, seit dem 1. Juli 2014 von der Nemzeti Mobilfizetési Zrt. betrieben wird, die vollständig im Eigentum der Magyar Fejlesztési Bank und damit des ungarischen Staates steht.
+
+23
+
+Die Kommission erläutert, dass mit dem Gesetz Nr. CC ein nationales Monopol für mobile Zahlungsdienste geschaffen worden sei, da die Nemzeti Mobilfizetési Zrt. das ausschließliche Recht habe, Verträge mit Parkplatzbetreibern abzuschließen und das Straßennutzungsrecht zu verkaufen. Daraus ergebe sich eine Behinderung des Zugangs zum bisher für den Wettbewerb offenen Großkundenmarkt für mobile Zahlungen.
+
+24
+
+In ihrer Klageschrift führt sie aus, dass das Gesetz Nr. CC und die Regierungsverordnung Nr. 356/2012 zur Einführung eines nationalen mobilen Zahlungssystems aufgrund dieser Beschränkung gegen Art. 15 Abs. 2 Buchst. d und Art. 16 Abs. 1 der Richtlinie 2006/123 verstießen. Hilfsweise macht die Kommission einen Verstoß dieser Regelung gegen die Art. 49 und 56 AEUV geltend.
+
+B. Einschlägige Bestimmungen
+
+1.   Vorbringen der Parteien
+
+25
+
+Bezüglich der Anwendbarkeit der Richtlinie 2006/123 tritt die Kommission der im Vorverfahren von Ungarn vertretenen Auffassung entgegen, dass das in Rede stehende nationale mobile Zahlungssystem zu einer DAWI geworden sei, die gemäß Art. 1 Abs. 2 und 3 dieser Richtlinie nicht in deren Anwendungsbereich falle.
+
+26
+
+Erstens nehme Art. 1 Abs. 2 und 3 der Richtlinie 2006/123 in Verbindung mit deren achten Erwägungsgrund nur die bereits bestehenden DAWI und Monopole von dieser Richtlinie aus. Mit dem Gesetz Nr. CC sei der Nemzeti Mobilfizetési Zrt. jedoch nach Inkrafttreten dieser Richtlinie ein ausschließliches Recht gewährt worden.
+
+27
+
+Zweitens teilt die Kommission nicht die Auffassung Ungarns, die betreffende Dienstleistung könne als DAWI eingestuft werden. Selbst wenn dies so wäre, sei die Richtlinie 2006/123 anwendbar, was dadurch bestätigt werde, dass sie zahlreiche Garantien und Ausnahmen für in ihren Anwendungsbereich fallende DAWI enthalte. So sei Art. 16 dieser Richtlinie nach deren Art. 17 Nr. 1 nicht auf DAWI anwendbar, die in einem anderen Mitgliedstaat erbracht würden. Stehe fest, dass eine Dienstleistung wie die in Rede stehende eine DAWI sei, bleibe daher Art. 15 Abs. 2 Buchst. d der Richtlinie 2006/123 ebenso wie die Art. 49 und 56 AEUV auf sie anwendbar.
+
+28
+
+Drittens weist die Kommission darauf hin, dass die Richtlinie 2006/123 nach ihrem Art. 2 Buchst. a und i „nicht-wirtschaftliche Dienstleistungen von allgemeinem Interesse“ und „Tätigkeiten, die … mit der Ausübung öffentlicher Gewalt verbunden sind“, von ihrem Anwendungsbereich ausnehme. Ungarn habe jedoch weder bestritten, dass die fragliche Dienstleistung eine wirtschaftliche Tätigkeit darstelle, noch diese Dienstleistung als mit der Ausübung öffentlicher Gewalt verbunden angesehen.
+
+29
+
+Viertens macht die Kommission unter Berufung auf die Rechtsprechung des Gerichtshofs geltend, dass die fragliche Regelung, selbst wenn die betroffene Dienstleistung aus irgendeinem Grund tatsächlich vom Anwendungsbereich der Richtlinie 2006/123 auszunehmen sein sollte, gleichwohl die Art. 49 und 56 AEUV beachten müsse.
+
+30
+
+Ungarn vertritt die Auffassung, dass im vorliegenden Fall weder die Richtlinie 2006/123 noch die Art. 49 und 56 AEUV anwendbar seien.
+
+31
+
+Erstens handele es sich nämlich bei dem Betrieb des in Rede stehenden nationalen mobilen Zahlungssystems um eine DAWI. Denn nach Art. 106 Abs. 2 AEUV, Art. 1 des Protokolls Nr. 26 über Dienste von allgemeinem Interesse sowie Art. 1 Abs. 3 der Richtlinie 2006/123 falle die Definition der Tätigkeiten, die als DAWI erachtet würden, in die Zuständigkeit der Mitgliedstaaten. Darüber hinaus weist Ungarn unter Hinweis auf verschiedene Mitteilungen der Kommission im Bereich staatlicher Beihilfen darauf hin, dass eine DAWI unter drei Voraussetzungen gegeben sei, und zwar, wenn die Dienstleistung gegenüber anderen wirtschaftlichen Tätigkeiten Besonderheiten aufweise, aufgrund deren sie als DAWI angesehen werden könne, wenn sie für jeden zugänglich sei und wenn sie durch die Marktkräfte allein nicht in zufriedenstellender Weise erbracht werden könne.
+
+32
+
+Dass die zweite Voraussetzung vorliege, werde von der Kommission nicht bestritten.
+
+33
+
+Was die erste Voraussetzung anbelange, knüpfe der in Rede stehende mobile Zahlungsdienst an die Nutzung öffentlicher Dienste an, wobei der Staat die Verantwortung dafür trage, dass die Nutzer diese auf einheitliche und komfortable Art und Weise, unmittelbar und zu erschwinglichen Kosten unabhängig vom Ort der Nutzung in Anspruch nehmen könnten. Ungarn habe somit aus Gründen des Allgemeininteresses und nicht aus wirtschaftlichen Erwägungen ein nationales mobiles Zahlungssystem geschaffen.
+
+34
+
+Zudem könne die mobile Zahlung von Parkgebühren nicht, wie von der Kommission geltend gemacht, als „Komfort“-Dienstleistung angesehen werden. Sie sei vielmehr die einzige Lösung, die den Interessen der Nutzer Rechnung trage, da dieses Zahlungsmittel es ermögliche, die Gebühr entsprechend der tatsächlichen Parkdauer zu berechnen. Jedenfalls ergebe sich aus dem Urteil vom 12. Februar 2008, BUPA u. a./Kommission (T‑289/03, EU:T:2008:29, Rn. 188), dass „Luxusleistungen“ als DAWI eingestuft werden könnten.
+
+35
+
+Was schließlich die dritte Voraussetzung betreffe, habe der Markt mit dem bisherigen System für die Verbraucher und die Wiederverkäufer weder hinsichtlich der Marktbedingungen noch der geografischen Abdeckung zufriedenstellend funktionieren können. Daher hätten vor der Einführung des in Rede stehenden nationalen mobilen Zahlungssystems insbesondere 23 Parkplatzbetreiber keine mobile Zahlung angeboten, so dass die Auffassung der Kommission, der größte Marktteilnehmer, die EME Zrt., sei im Jahr 2012 auf 90 % der öffentlichen Parkplätze präsent gewesen, nicht zutreffe.
+
+36
+
+Mit dem nationalen mobilen Zahlungssystem sollten die bisherigen Unzulänglichkeiten beim Funktionieren des Marktes behoben werden. Sein Ziel sei zum einen die Herstellung einer Abdeckung des gesamten Staatsgebiets und zum anderen der möglichst kostengünstige und einheitliche Betrieb der technischen Plattform durch den ungarischen Staat. Für das reibungslose Funktionieren eines einheitlichen und interoperablen Zahlungssystems sei die Einführung einer einheitlichen Plattform erforderlich, die nur zentral geschaffen werden könne, da die Betreiber keine solche Plattform einrichten könnten und daran auch kein Interesse hätten.
+
+37
+
+Was zweitens die Anwendbarkeit der Richtlinie 2006/123 auf eine DAWI anbelange, heiße es in dieser Richtlinie lediglich, dass sie die Mitgliedstaaten nicht verpflichte, die DAWI zu liberalisieren. Sie sehe nicht vor, dass sie die Mitgliedstaaten nicht verpflichte, die „bestehenden“ DAWI zu liberalisieren. Die Argumentation der Kommission hierzu höhle das Recht der Mitgliedstaaten aus, DAWI einzuführen.
+
+38
+
+Ungarn hält somit an seinem Standpunkt fest, dass die in der vorliegenden Rechtssache fraglichen Dienstleistungen nach Art. 1 Abs. 2 der Richtlinie 2006/123 nicht in deren Anwendungsbereich fielen. Ein weiterer Grund für die Unanwendbarkeit der Richtlinie bestehe darin, dass sie gemäß ihrem Art. 1 Abs. 3 nicht die Abschaffung von Dienstleistungsmonopolen betreffe.
+
+39
+
+Selbst wenn die Richtlinie 2006/123 anwendbar sein sollte, weil das in Rede stehende nationale mobile Zahlungssystem eine DAWI sei, wäre nach Art. 15 Abs. 4 der Richtlinie jedenfalls nicht ihr von der Kommission herangezogener Art. 15 Abs. 2 Buchst. d zu berücksichtigen, da seine Anwendung die Erfüllung der diesem nationalen System zugewiesenen Aufgabe verhindern würde.
+
+2.   Würdigung durch den Gerichtshof
+
+40
+
+Da die Kommission ihre Klage in erster Linie auf einen Verstoß gegen die Bestimmungen der Richtlinie 2006/123 über die Niederlassungsfreiheit und über die Dienstleistungsfreiheit stützt, ist als Erstes auf das Argument Ungarns einzugehen, diese Richtlinie sei nach ihrem Art. 1 Abs. 2 und 3 im vorliegenden Fall nicht anwendbar, um dann als Zweites zu beurteilen, ob die Art. 15 und 16 der Richtlinie auf den in Rede stehenden mobilen Zahlungsdienst anwendbar sind.
+
+a)   Zur Anwendbarkeit der Richtlinie 2006/123
+
+41
+
+Die Richtlinie 2006/123 betrifft nach ihrem Art. 1 Abs. 2 weder die Liberalisierung von DAWI, die öffentlichen oder privaten Einrichtungen vorbehalten sind, noch die Privatisierung öffentlicher Einrichtungen, die Dienstleistungen erbringen. Zudem ergibt sich aus Art. 1 Abs. 3 der Richtlinie, dass sie weder die Abschaffung von Dienstleistungsmonopolen noch von den Mitgliedstaaten gewährte Beihilfen betrifft, die unter die Wettbewerbsvorschriften der Union fallen.
+
+42
+
+Hierzu wird im achten Erwägungsgrund der Richtlinie 2006/123 ausgeführt, dass die Bestimmungen dieser Richtlinie nur insoweit Anwendung finden sollen, als die betreffenden Tätigkeiten dem Wettbewerb offen stehen, so dass sie die Mitgliedstaaten weder verpflichten, DAWI zu liberalisieren, noch öffentliche Einrichtungen, die solche Dienstleistungen anbieten, zu privatisieren, noch bestehende Monopole für andere Tätigkeiten oder bestimmte Vertriebsdienste abzuschaffen.
+
+43
+
+Daraus folgt, dass, wie die Kommission geltend macht, Art. 1 Abs. 2 und 3 der Richtlinie 2006/123 von deren Anwendungsbereich nur die DAWI ausnehmen soll, die öffentlichen oder privaten Einrichtungen vorbehalten sind, oder die Monopole, die – anders als die durch das Gesetz Nr. CC und die Regierungsverordnung Nr. 356/2012 eingeführten – zum Zeitpunkt des Inkrafttretens dieser Richtlinie bestanden.
+
+44
+
+Darüber hinaus nimmt Art. 2 Abs. 2 Buchst. a und i dieser Richtlinie zwar von ihrem Anwendungsbereich die nicht-wirtschaftlichen Dienstleistungen von allgemeinem Interesse sowie die Tätigkeiten, die mit der Ausübung öffentlicher Gewalt verbunden sind, aus, doch steht fest, dass die in Rede stehende Dienstleistung unter keine dieser Kategorien fällt.
+
+45
+
+Daher ist das Vorbringen Ungarns zurückzuweisen, dass das Gesetz Nr. CC und die Regierungsverordnung Nr. 356/2012 nach Art. 1 Abs. 2 und 3 der Richtlinie 2006/123 nicht in deren Anwendungsbereich fielen.
+
+b)   Zur Anwendbarkeit der Art. 15 und 16 der Richtlinie 2006/123
+
+46
+
+Da die Kommission die Feststellung beantragt, dass das im Gesetz Nr. CC und in der Regierungsverordnung Nr. 356/2012 geregelte nationale mobile Zahlungssystem im Widerspruch zu Art. 15 Abs. 2 Buchst. d und Art. 16 Abs. 1 der Richtlinie 2006/123 steht, ist es erforderlich, festzustellen, ob der in Rede stehende mobile Zahlungsdienst, wie Ungarn geltend macht, als DAWI eingestuft werden kann.
+
+47
+
+Wie der Generalanwalt in Nr. 56 seiner Schlussanträge ausgeführt hat, enthält die Richtlinie 2006/123 spezifische Regelungen in Bezug auf die Anwendung dieser Bestimmungen auf DAWI, nämlich zum einen Art. 15 Abs. 4 und zum anderen Art. 17.
+
+48
+
+Nach Art. 1 des Protokolls Nr. 26 über Dienste von allgemeinem Interesse verfügen die Mitgliedstaaten bei der Frage, wie DAWI auf eine den Bedürfnissen der Nutzer so gut wie möglich entsprechende Weise zur Verfügung zu stellen, in Auftrag zu geben und zu organisieren sind, über einen weiten Ermessensspielraum.
+
+49
+
+Daher sind die Mitgliedstaaten berechtigt, unter Beachtung des Unionsrechts den Umfang und die Organisation ihrer DAWI zu bestimmen, wobei sie insbesondere Ziele berücksichtigen können, die ihrer nationalen Politik eigen sind. Insoweit verfügen die Mitgliedstaaten über ein weites Ermessen, das von der Kommission nur im Fall eines offenkundigen Fehlers in Frage gestellt werden kann (Urteil vom 20. Dezember 2017, Comunidad Autónoma del País Vasco u. a./Kommission, C‑66/16 P bis C‑69/16 P, EU:C:2017:999, Rn. 69 und 70).
+
+50
+
+Insbesondere wurde dieses Ermessen im Rahmen der Richtlinie 2006/123 vom Unionsgesetzgeber in Art. 1 Abs. 3 Unterabs. 2 dieser Richtlinie bekräftigt, wonach diese Richtlinie nicht das Recht der Mitgliedstaaten berührt, im Einklang mit dem Unionsrecht festzulegen, welche Leistungen sie als von allgemeinem wirtschaftlichem Interesse erachten, wie diese Dienstleistungen unter Beachtung der Vorschriften über staatliche Beihilfen organisiert und finanziert werden sollten und welchen spezifischen Verpflichtungen sie unterliegen sollten.
+
+51
+
+Nach der Rechtsprechung des Gerichtshofs kann an einer Dienstleistung ein allgemeines wirtschaftliches Interesse bestehen, wenn dieses Interesse gegenüber dem Interesse an anderen Tätigkeiten des Wirtschaftslebens spezifische Merkmale aufweist (vgl. in diesem Sinne Urteile vom 10. Dezember 1991, Merci convenzionali porto di Genova, C‑179/90, EU:C:1991:464, Rn. 27, vom 18. Juni 1998, Corsica Ferries France, C‑266/96, EU:C:1998:306, Rn. 45, vom 23. Mai 2000, Sydhavnens Sten & Grus, C‑209/98, EU:C:2000:279, Rn. 75, sowie vom 3. März 2011, AG2R Prévoyance, C‑437/09, EU:C:2011:112, Rn. 71 und 72).
+
+52
+
+Darüber hinaus heißt es im 70. Erwägungsgrund der Richtlinie 2006/123, dass eine Dienstleistung nur dann als DAWI eingestuft werden kann, wenn sie der Erfüllung eines besonderen Auftrags von öffentlichem Interesse dient, mit dem der Dienstleistungserbringer von dem betreffenden Mitgliedstaat betraut wurde.
+
+53
+
+Insoweit macht die Kommission geltend, Ungarn habe einen offensichtlichen Beurteilungsfehler begangen, indem es den in Rede stehenden mobilen Zahlungsdienst als DAWI eingestuft habe. Die Kriterien, auf die sich dieses Organ stützt, reichen jedoch nicht aus, um der Einstufung ihre Plausibilität zu nehmen.
+
+54
+
+Die Kommission macht im Wesentlichen geltend, dass diese Dienstleistungen vor der Schaffung eines nationalen Monopols für mobile Zahlungsdienste bereits von auf dem Markt tätigen Wirtschaftsteilnehmern angeboten worden seien. Dieser Markt habe zufriedenstellend funktioniert, auch wenn es insbesondere aufgrund des Fehlens einer standardisierten einheitlichen Plattform und der mangelnden Interoperabilität einige Probleme gegeben habe.
+
+55
+
+Der Umstand allein, dass eine von einem Mitgliedstaat als DAWI eingestufte Dienstleistung bereits von auf dem betreffenden Markt vertretenen Wirtschaftsteilnehmern erbracht wird, genügt jedoch nicht zum Nachweis dafür, dass diese Einstufung mit einem offensichtlichen Beurteilungsfehler behaftet ist.
+
+56
+
+Wie die Kommission selbst unter Bezugnahme auf Rn. 48 der Mitteilung der Kommission über die Anwendung der Beihilfevorschriften der Europäischen Union auf Ausgleichsleistungen für die Erbringung von Dienstleistungen von allgemeinem wirtschaftlichem Interesse (ABl. 2012, C 8, S. 4) vorträgt, kann nämlich, wenn eine Dienstleistung zwar bereits auf dem Markt erbracht wird, aber unter Umständen, die nicht zufriedenstellend sind und nicht im Einklang mit dem öffentlichen Interesse, wie es der betreffende Mitgliedstaat definiert, stehen, die Einstufung der Dienstleistung als DAWI gerechtfertigt sein.
+
+57
+
+Dies ist u. a. der Fall, wenn der Mitgliedstaat im Rahmen des ihm eingeräumten Ermessens der Auffassung ist, dass der Markt es nicht zulasse, die von ihm festgelegten Ziele der Kontinuität und des Zugangs zu der Dienstleistung zu erreichen.
+
+58
+
+Im vorliegenden Fall macht Ungarn geltend, dass das in Rede stehende, von ihm als DAWI eingestufte nationale Zahlungssystem die Unfähigkeit des Marktes korrigieren solle, die Abdeckung des gesamten Staatsgebiets zu einheitlichen Bedingungen für alle Nutzer dieser Dienstleistung zu sichern. Indem der mobile Zahlungsdienst das gesamte Staatsgebiet abdecke, sei er – unabhängig davon, ob er in dem betreffenden Gebiet rentabel sei – für die gesamte ungarische Bevölkerung zugänglich. Darüber hinaus solle dieses System die mobile Zahlung von Dienstleistungen von allgemeinem wirtschaftlichem Interesse, wie das öffentliche Parken und die öffentliche Personenbeförderung, gewährleisten und trage damit zur Erfüllung eines allgemeinen wirtschaftlichen Interesses bei.
+
+59
+
+Insoweit ist festzustellen, dass die Kommission sich darauf beschränkt, zu behaupten, dass dieser Markt entgegen dem Vorbringen Ungarns zufriedenstellend funktioniert habe und wahrscheinlich noch gewachsen wäre, ohne jedoch Belege vorzulegen, die diese Behauptungen stützen könnten.
+
+60
+
+Die Kommission hat daher nichts beigebracht, was belegen könnte, dass Ungarn mit der Einstufung des mobilen Zahlungsdienstes als DAWI einen offensichtlichen Beurteilungsfehler begangen hat.
+
+61
+
+Demnach ist für die Anwendung der Bestimmungen der Richtlinie 2006/123 im vorliegenden Fall davon auszugehen, dass, was erstens die Niederlassungsfreiheit betrifft, die Vereinbarkeit der betreffenden ungarischen Regelung mit der Richtlinie 2006/123 nach Maßgabe von Art. 15 Abs. 4 dieser Richtlinie zu beurteilen ist.
+
+62
+
+Insoweit ist jedoch klarzustellen, dass DAWI entgegen dem Vorbringen Ungarns nach dieser Bestimmung nicht automatisch vom Anwendungsbereich von Art. 15 der Richtlinie 2006/123 ausgenommen sind. Denn nach Art. 15 Abs. 4 gelten die Abs. 1, 2 und 3 dieses Artikels für Rechtsvorschriften im Bereich der DAWI nur insoweit, als ihre Anwendung die Erfüllung der anvertrauten besonderen Aufgabe nicht rechtlich oder tatsächlich verhindert.
+
+63
+
+Was zweitens den freien Dienstleistungsverkehr anbelangt, ist darauf hinzuweisen, dass nach Art. 17 Nr. 1 der Richtlinie 2006/123 deren Art. 16 keine Anwendung auf Dienstleistungen von allgemeinem wirtschaftlichem Interesse findet, die in einem anderen Mitgliedstaat erbracht werden. Daher ist, wie von der Kommission hilfsweise beantragt, die fragliche ungarische Regelung im Hinblick auf Art. 56 AEUV zu prüfen.
+
+3.   Zu den geltend gemachten Rügen
+
+a)   Vorbringen der Parteien
+
+64
+
+Nach Auffassung der Kommission verstoßen die Einführung und die Beibehaltung des in Rede stehenden nationalen mobilen Zahlungssystems im Sinne des Gesetzes Nr. CC und der Regierungsverordnung Nr. 356/2012 gegen Art. 15 Abs. 2 Buchst. d der Richtlinie 2006/123 und Art. 56 AEUV.
+
+65
+
+Was erstens die beschränkende Wirkung des Gesetzes Nr. CC und der Regierungsverordnung Nr. 356/2012 betreffe, sei der Betrieb dieses nationalen Zahlungssystems ein staatliches Monopol geworden, durch das den übrigen Erbringern mobiler Zahlungs- und Telefondienste die Möglichkeit genommen werde, auf dem betreffenden Markt tätig zu sein. Die Einführung dieses Systems behindere damit unabhängig von der Art und Weise der Erbringung der Dienstleistung den Zugang zum Großkundenmarkt für mobile Zahlungen.
+
+66
+
+Zweitens räumt die Kommission ein, dass bestimmte von Ungarn im Vorverfahren zur Rechtfertigung der Einführung des nationalen mobilen Zahlungssystems vorgetragenen Gesichtspunkte, u. a. der Verbraucherschutz und der Schutz der Dienstleistungsempfänger sowie die Lauterkeit des Handelsverkehrs und die Betrugsbekämpfung, als zwingende Gründe des Allgemeininteresses angesehen werden könnten. Diese Gründe seien jedoch nicht geeignet, die sich aus dem Gesetz Nr. CC ergebenden Beschränkungen zu rechtfertigen, da sie nicht den Anforderungen in Bezug auf Erforderlichkeit und Verhältnismäßigkeit entsprächen.
+
+67
+
+Drittens macht die Kommission zur Erforderlichkeit und zur Verhältnismäßigkeit geltend, dass das Eingreifen des ungarischen Staates nicht erforderlich gewesen sei. Es werde in keiner Weise belegt, dass der Markt für öffentliche Parkdienstleistungen und für die Bereitstellung des Straßennetzes für Verkehrszwecke zuvor nicht zufriedenstellend funktioniert habe. Die Kommission bestreitet zwar nicht, dass die Standardisierung gewisse Vorteile für die Ausweitung mobiler Zahlungsdienstleistungen habe, gleichwohl sei die Schaffung eines staatlichen Monopols nicht der einzige und auch nicht der beste Weg gewesen, um dieses Ziel zu erreichen.
+
+68
+
+Darüber hinaus hält die Kommission das Eingreifen des ungarischen Staates für unverhältnismäßig. Andere, weniger einschränkende Maßnahmen wären geeignet gewesen, die von den ungarischen Behörden festgestellten Probleme im Hinblick auf das Funktionieren des Marktes zu lösen. So hätten u. a. die Standardisierung und die Interoperabilität durch Rechtsvorschriften unter Beibehaltung der bestehenden Marktstruktur erreicht werden können. Ebenso hätte eine neue staatliche Einrichtung ohne Ausschließlichkeitsrechte geschaffen werden können. Auch hätte ein Konzessionssystem für den Betrieb der Plattform des in Rede stehenden nationalen mobilen Zahlungssystems eingeführt oder auch ein Monopol nur für eine begrenzte Zeit geschaffen werden können.
+
+69
+
+Ungarn macht geltend, dass gemäß Art. 106 Abs. 2 AEUV die Art. 49 und 56 AEUV nicht anwendbar seien. Zudem stelle das betreffende mobile Zahlungssystem ein staatliches Monopol dar, das nach Art. 37 AEUV, nicht aber nach anderen Vorschriften des AEU-Vertrags zu beurteilen sei. Für den Fall, dass der Gerichtshof die Art. 49 und 56 AEUV gleichwohl für anwendbar halten sollte, verneint Ungarn einen Verstoß.
+
+70
+
+Erstens seien nämlich die Vorschriften über das nationale mobile Zahlungssystem nicht diskriminierend, da das Gesetz Nr. CC und die Regierungsverordnung Nr. 356/2012 für alle Leistungserbringer, die sich in einer vergleichbaren Situation befänden, gleiche Regeln enthalte. Vom Vorliegen von Diskriminierungen könne nur gesprochen werden, wenn die Unternehmen je nach dem Ort ihrer Herkunft oder ihrer Niederlassung oder je nach ihrer in- oder ausländischen Herkunft unterschiedlichen Regelungen unterlägen.
+
+71
+
+Zweitens seien die Gründe, die Ungarn als Zweck des in Rede stehenden nationalen mobilen Zahlungssystems zu dessen Rechtfertigung angeführt habe, wie Verbraucherschutz und Lauterkeit des Handelsverkehrs oder Betrugsbekämpfung, in der Rechtsprechung des Gerichtshofs als zwingende Gründe des Allgemeininteresses anerkannt.
+
+72
+
+Drittens seien die Einführung und die Beibehaltung des nationalen mobilen Zahlungssystems erforderlich gewesen und hätten dem Grundsatz der Verhältnismäßigkeit entsprochen.
+
+73
+
+Der betreffende Markt habe vor dem 1. Juli 2014 nicht zufriedenstellend funktioniert. Es sei nicht das gesamte nationale Staatsgebiet abgedeckt worden, und es habe weder Interoperabilität bestanden noch habe es eine Plattform gegeben. Der Markt habe daher aus fragmentierten geschlossenen Systemen bestanden.
+
+74
+
+Die Einführung des nationalen mobilen Zahlungssystems sei geeignet, den Wettbewerb anzuregen und eine zufriedenstellende Dienstleistungserbringung zu ermöglichen.
+
+75
+
+Entgegen dem Vorbringen der Kommission hätten sich die zuvor vorhandenen fragmentierten Systeme nicht durch mit der Regelung eingeführte Verpflichtungen, durch Zusammenarbeit oder Wettbewerb in den Markt integrieren können. Diese Annahme werde durch kein Beispiel auf internationaler Ebene untermauert. Da die lokalen Gebietskörperschaften für die betreffende Dienstleistung zuständig seien, hätten jedenfalls öffentliche Vergabeverfahren durchgeführt werden müssen. Dies hätte zum einen dazu geführt, dass das mobile Zahlungssystem für Parkdienste nur dort eingeführt worden wäre, wo der Leistungserbringer mit erheblichen Einnahmen hätte rechnen können, so dass eine Abdeckung des gesamten Staatsgebiets nicht hätte sichergestellt werden können, und zum anderen dazu, dass die unterschiedlichen Dienstleistungserbringer den Auftrag von den jeweiligen lokalen Gebietskörperschaften erhalten hätten, so dass keinerlei Interoperabilität bestanden hätte.
+
+b)   Würdigung durch den Gerichtshof
+
+1) Zur Rüge eines Verstoßes gegen Art. 15 Abs. 2 Buchst. d der Richtlinie 2006/123
+
+76
+
+Die Mitgliedstaaten sind nach Art. 15 Abs. 1 Satz 1 der Richtlinie 2006/123 verpflichtet, zu prüfen, ob ihre Rechtsordnungen eine oder mehrere der in Art. 15 Abs. 2 der Richtlinie aufgeführten Anforderungen vorsehen, und gegebenenfalls sicherzustellen, dass diese Anforderungen die in Art. 15 Abs. 3 der Richtlinie genannten Bedingungen der Nicht-Diskriminierung, der Erforderlichkeit und der Verhältnismäßigkeit erfüllen. Nach Art. 15 Abs. 1 Satz 2 dieser Richtlinie müssen die Mitgliedstaaten ihre Rechts- und Verwaltungsvorschriften ändern, um sie diesen Bedingungen anzupassen (Urteil vom 30. Januar 2018, X und Visser, C‑360/15 und C‑31/16, EU:C:2018:44, Rn. 129).
+
+77
+
+Als Erstes ist der Begriff „Anforderungen“ in Art. 15 Abs. 2 der Richtlinie 2006/123 nach deren Art. 4 Nr. 7 dahin zu verstehen, dass er „alle Auflagen, Verbote, Bedingungen oder Beschränkungen, die in den Rechts- oder Verwaltungsvorschriften der Mitgliedstaaten festgelegt sind“, bezeichnet (vgl. in diesem Sinne Urteil vom 30. Januar 2018, X und Visser, C‑360/15 und C‑31/16, EU:C:2018:44, Rn. 119).
+
+78
+
+Zu den Anforderungen, die somit zu prüfen sind, gehören, wie sich aus Art. 15 Abs. 2 Buchst. d der Richtlinie 2006/123 ergibt, u. a. Anforderungen, die die Aufnahme der betreffenden Dienstleistungstätigkeit aufgrund ihrer Besonderheiten bestimmten Dienstleistungserbringern vorbehalten und die weder die von der Richtlinie 2005/36 erfassten Bereiche betreffen noch in anderen Unionsrechtsakten vorgesehen sind.
+
+79
+
+Im vorliegenden Fall ist mit der Kommission festzustellen, dass das im Gesetz Nr. CC und in der Regierungsverordnung Nr. 356/2012 geregelte nationale mobile Zahlungssystem eine Anforderung im Sinne von Art. 15 Abs. 2 Buchst. d der Richtlinie 2006/123 darstellt. Es ist nämlich unbestritten, dass dieses Zahlungssystem die Aufnahme der mobilen Zahlungsdienstleistungen durch Einführung eines Monopols zugunsten der Nemzeti Mobilfizetési Zrt. diesem öffentlichen Unternehmen vorbehält, ohne dass dieses Monopol eine Anforderung in Bezug auf die von der Richtlinie 2005/36 erfassten Bereiche wäre, oder eine Anforderung, die in anderen Unionsrechtsakten vorgesehen ist.
+
+80
+
+Was als Zweites die in Art. 15 Abs. 3 der Richtlinie 2006/123 aufgeführten kumulativen Bedingungen betrifft, beziehen sich diese erstens auf den nichtdiskriminierenden Charakter der betreffenden Anforderungen, die weder eine direkte noch eine indirekte Diskriminierung aufgrund der Staatsangehörigkeit oder – bei Gesellschaften – aufgrund des Orts des satzungsmäßigen Sitzes darstellen dürfen, zweitens auf ihre Erforderlichkeit, dass sie nämlich durch einen zwingenden Grund des Allgemeininteresses gerechtfertigt sein müssen, und drittens auf ihre Verhältnismäßigkeit, für die die Anforderungen zur Verwirklichung des mit ihnen verfolgten Ziels geeignet sein müssen und nicht über das hinausgehen dürfen, was zur Erreichung dieses Ziels erforderlich ist, und nicht andere weniger einschneidende Maßnahmen zum selben Ergebnis führen dürfen.
+
+81
+
+Insoweit ist im vorliegenden Fall festzustellen, dass die durch das Gesetz Nr. CC und die Regierungsverordnung Nr. 356/2012 eingeführte Anforderung nicht die Bedingung erfüllen kann, dass es zur Erreichung des verfolgten Ziels keine weniger einschneidende Maßnahmen gibt.
+
+82
+
+Ungarn hat nämlich eingeräumt, dass es Maßnahmen gibt, die gegenüber den sich aus dem Gesetz Nr. CC und der Regierungsverordnung Nr. 356/2012 ergebenden Maßnahmen weniger einschneidend sind und die Niederlassungsfreiheit weniger beschränken und die es ermöglichen, die von der ungarischen Regierung geltend gemachten Ziele zu erreichen, z. B. ein Konzessionssystem, das auf einem dem Wettbewerb offenen Verfahren beruht, statt des der Nemzeti Mobilfizetési Zrt. übertragenen Monopols.
+
+83
+
+Da die in Art. 15 Abs. 3 der Richtlinie 2006/123 genannten Bedingungen kumulativ gelten, führt bereits diese Feststellung zu dem Ergebnis, dass diese Bestimmung nicht eingehalten wurde (vgl. in diesem Sinne Urteil vom 23. Februar 2016, Kommission/Ungarn, C‑179/14, EU:C:2016:108, Rn. 69 und 90).
+
+84
+
+Als Drittes ist darauf hinzuweisen, dass nach Art. 15 Abs. 4 der Richtlinie 2006/123 die Abs. 1, 2 und 3 dieses Artikels für Rechtsvorschriften im Bereich der DAWI nur insoweit gelten, als die Anwendung dieser Absätze die Erfüllung der anvertrauten besonderen Aufgabe nicht rechtlich oder tatsächlich verhindert.
+
+85
+
+Vor diesem Hintergrund ist Art. 15 der Richtlinie 2006/123 folglich dahin auszulegen, dass er einer nationalen Regelung, die eine Anforderung im Sinne seines Abs. 2 Buchst. d aufstellt, nicht entgegensteht, soweit diese Anforderung für die Erfüllung des in Rede stehenden besonderen öffentlichen Auftrags zu wirtschaftlich tragbaren Bedingungen erforderlich ist (vgl. in diesem Sinne Urteile vom 3. März 2011, AG2R Prévoyance, C‑437/09, EU:C:2011:112, Rn. 76, und vom 8. März 2017, Viasat Broadcasting UK/Kommission, C‑660/15 P, EU:C:2017:178, Rn. 29).
+
+86
+
+Die ungarische Regierung beruft sich insoweit zwar darauf, dass der im Gesetz Nr. CC und in der Regierungsverordnung Nr. 356/2012 geregelte nationale mobile Zahlungsdienst eine DAWI darstelle. Sie hat aber nicht angegeben, aus welchen Gründen die Erfüllung des besonderen Auftrags, mit dem dieser Dienst betraut ist, nach ihrer Ansicht die Schaffung eines Monopols durch Übertragung ausschließlicher Rechte an die Nemzeti Mobilfizetési Zrt. erforderte, obwohl sie eingeräumt hat, dass es weniger beschränkende Maßnahmen als die Einrichtung dieses Monopols gebe, die die Erfüllung dieses Auftrags sicherstellen könnten. Damit hat sie eine – auch nur marginale – Kontrolle durch den Gerichtshof unmöglich gemacht.
+
+87
+
+Aufgrund dessen ist anzunehmen, dass die Rüge eines Verstoßes gegen Art. 15 Abs. 2 Buchst. d der Richtlinie 2006/123 begründet ist. Folglich ist die Rüge eines Verstoßes gegen Art. 49 AEUV nicht zu prüfen.
+
+2) Zur Rüge eines Verstoßes gegen Art. 56 AEUV
+
+88
+
+Erstens stellt nach ständiger Rechtsprechung eine nationale Regelung wie das Gesetz Nr. CC und die Regierungsverordnung Nr. 356/2012, die die Ausübung einer wirtschaftlichen Tätigkeit einer Sonderregelung zugunsten eines einzigen öffentlichen oder privaten Marktteilnehmers unterwirft, eine Beschränkung des freien Dienstleistungsverkehrs dar (vgl. in diesem Sinne Urteil vom 23. Februar 2016, Kommission/Ungarn, C‑179/14, EU:C:2016:108, Rn. 164 und die dort angeführte Rechtsprechung).
+
+89
+
+Diese Beschränkung kann nur gerechtfertigt sein, wenn sie zwingenden Gründen des Allgemeininteresses entspricht, wenn sie geeignet ist, die Verwirklichung des mit ihr angestrebten und im Allgemeininteresse liegenden Ziels zu gewährleisten, und wenn sie nicht über das zur Erreichung dieses Zieles Erforderliche hinausgeht (vgl. in diesem Sinne Urteil vom 23. Februar 2016, Kommission/Ungarn, C‑179/14, EU:C:2016:108, Rn. 166 und die dort angeführte Rechtsprechung).
+
+90
+
+Ohne dass es erforderlich wäre, über die von der ungarischen Regierung vorgetragenen Gründe zur Rechtfertigung der sich aus der Gewährung eines Monopols zugunsten der Nemzeti Mobilfizetési Zrt. ergebenden Beschränkung des freien Dienstleistungsverkehrs zu befinden, ist festzustellen, dass die betreffende Maßnahme aus den in Rn. 82 des vorliegenden Urteils genannten Gründen jedenfalls unverhältnismäßig erscheint, da feststeht, dass es weniger einschneidende und den freien Dienstleistungsverkehr weniger beschränkende Maßnahmen als die sich aus dem Gesetz Nr. CC und der Regierungsverordnung Nr. 356/2012 ergebenden gab, die es ermöglichten, die verfolgten Ziele zu erreichen.
+
+91
+
+Was das Argument Ungarns betrifft, dass nach Art. 106 Abs. 2 AEUV die Einführung des in Rede stehenden mobilen Zahlungssystems nicht unter Art. 56 AEUV falle, weil dieses System eine DAWI darstelle, ist darauf hinzuweisen, dass nach Art. 106 Abs. 2 AEUV für Unternehmen, die mit der Erbringung von DAWI betraut sind, die Vorschriften der Verträge, insbesondere die Wettbewerbsregeln, gelten, soweit die Anwendung dieser Vorschriften nicht die Erfüllung der ihnen übertragenen besonderen Aufgabe rechtlich oder tatsächlich verhindert.
+
+92
+
+Nach der Rechtsprechung des Gerichtshofs obliegt dem Mitgliedstaat, der sich auf Art. 106 Abs. 2 AEUV beruft, der Nachweis, dass sämtliche Tatbestandsmerkmale dieser Bestimmung erfüllt sind (Urteil vom 29. April 2010, Kommission/Deutschland, C‑160/08, EU:C:2010:230, Rn. 126 und die dort angeführte Rechtsprechung).
+
+93
+
+Wie jedoch in Rn. 86 des vorliegenden Urteils festgestellt, hat die ungarische Regierung nicht angegeben, aus welchen Gründen die Erfüllung des besonderen Auftrags, mit dem der betreffende Dienst betraut ist, ihrer Ansicht nach die Schaffung eines Monopols durch Einräumung ausschließlicher Rechte zugunsten der Nemzeti Mobilfizetési Zrt. erforderte, obwohl sie eingeräumt hat, dass es weniger beschränkende Maßnahmen als die Einrichtung dieses Monopols gebe, die die Erfüllung des betreffenden Auftrags sicherstellen könnten.
+
+94
+
+Folglich ist das auf Art. 106 Abs. 2 AEUV gestützte Vorbringen Ungarns zurückzuweisen.
+
+95
+
+Was zweitens das Argument Ungarns anbelangt, das sich auf die Anwendbarkeit von Art. 37 AEUV im vorliegenden Fall bezieht, genügt der Hinweis, dass dieser Artikel den Handel mit Waren betrifft und sich daher nicht auf ein Dienstleistungsmonopol beziehen kann, das sich nicht auf den Warenhandel zwischen den Mitgliedstaaten auswirken kann (vgl. in diesem Sinne Urteile vom 30. April 1974, Sacchi, 155/73, EU:C:1974:40, Rn. 10, und vom 4. Mai 1988, Bodson, 30/87, EU:C:1988:225, Rn. 10).
+
+96
+
+Aus dem Vorstehenden folgt, dass die Rüge eines Verstoßes gegen Art. 56 AEUV durchgreift.
+
+97
+
+Nach alledem ist festzustellen, dass Ungarn dadurch gegen seine Verpflichtungen aus Art. 15 Abs. 2 Buchst. d der Richtlinie 2006/123 und Art. 56 AEUV verstoßen hat, dass es das im Gesetz Nr. CC und in der Regierungsverordnung Nr. 356/2012 geregelte nationale mobile Zahlungssystem eingeführt und beibehalten hat.
+
+98
+
+Im Übrigen wird die Klage abgewiesen.
+
+Kosten
+
+99
+
+Nach Art. 138 Abs. 3 der Verfahrensordnung des Gerichtshofs trägt jede Partei ihre eigenen Kosten, wenn jede Partei teils obsiegt, teils unterliegt. Da die Kommission und Ungarn jeweils teils obsiegt haben, teils unterlegen sind, sind ihnen jeweils ihre eigenen Kosten aufzuerlegen.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Vierte Kammer) für Recht erkannt und entschieden:
+
+ 	
+1.
+
+Ungarn hat dadurch gegen seine Verpflichtungen aus Art. 15 Abs. 2 Buchst. d der Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen im Binnenmarkt und aus Art. 56 AEUV verstoßen, dass es das im Nemzeti mobil fizetési rendszerről szóló 2011. évi CC. törvény (Gesetz Nr. CC von 2011 über das nationale mobile Zahlungssystem) und im 356/2012. (XII. 13.) Korm. rendelet a nemzeti mobil fizetési rendszerről szóló törvény végrehajtásáról (Regierungsverordnung Nr. 356/2012 zur Durchführung des Gesetzes über das nationale mobile Zahlungssystem) geregelte nationale mobile Zahlungssystem eingeführt und beibehalten hat.
+
+ 	
+2.
+
+Im Übrigen wird die Klage abgewiesen.
+
+ 	
+3.
+
+Die Europäische Union und Ungarn tragen ihre eigenen Kosten.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Ungarisch.

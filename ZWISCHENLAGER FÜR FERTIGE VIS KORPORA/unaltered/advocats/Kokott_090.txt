@@ -1,0 +1,536 @@
+URTEIL DES GERICHTSHOFS (Erste Kammer)
+
+17. Mai 2017 ( *1 )
+
+„Vorlage zur Vorabentscheidung — Niederlassungsfreiheit — Mutter-Tochter-Richtlinie — Steuerrecht — Steuer auf die Gewinne von Gesellschaften — Ausschüttung von Dividenden — Steuerabzug an der Quelle — Doppelbesteuerung — Fairness Tax“
+
+In der Rechtssache C‑68/15
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Grondwettelijk Hof (Verfassungsgerichtshof, Belgien) mit Entscheidung vom 28. Januar 2015, beim Gerichtshof eingegangen am 13. Februar 2015, in dem Verfahren
+
+X
+
+gegen
+
+Ministerraad
+
+erlässt
+
+DER GERICHTSHOF (Erste Kammer)
+
+unter Mitwirkung der Kammerpräsidentin R. Silva de Lapuerta sowie der Richter E. Regan, J.‑C. Bonichot, A. Arabadjiev und C. G. Fernlund (Berichterstatter),
+
+Generalanwältin: J. Kokott,
+
+Kanzler: C. Strömholm, Verwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 22. Juni 2016,
+
+unter Berücksichtigung der Erklärungen
+
+—
+
+von X, vertreten durch T. Engelen, L. Ketels und P. Renier, advocaten,
+
+—
+
+der belgischen Regierung, vertreten durch J.‑C. Halleux, D. Delvaux, M. Jacobs und C. Pochet als Bevollmächtigte,
+
+—
+
+der französischen Regierung, vertreten durch D. Colas, J.‑S. Pilczer und S. Ghiandoni als Bevollmächtigte,
+
+—
+
+der Europäischen Kommission, vertreten durch W. Roels und C. Soulay als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge der Generalanwältin in der Sitzung vom 17. November 2016
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 49 AEUV sowie von Art. 4 Abs. 3 und Art. 5 der Richtlinie 2011/96/EU des Rates vom 30. November 2011 über das gemeinsame Steuersystem der Mutter- und Tochtergesellschaften verschiedener Mitgliedstaaten (ABl. 2011, L 345, S. 8) (im Folgenden: Mutter-Tochter-Richtlinie).
+
+2
+
+Es ergeht im Rahmen eines Rechtsstreits zwischen X und dem Ministerraad (Ministerrat, Belgien) in Bezug auf eine Klage auf Nichtigerklärung der nationalen Rechtsvorschriften zur Einführung einer von der Gesellschaftssteuer und der Steuer der Gebietsfremden getrennten, als Fairness Tax bezeichneten Steuer, der gebietsansässige und gebietsfremde Gesellschaften unterliegen, wenn sie Dividenden ausschütten, die aufgrund der Anwendung bestimmter, im nationalen Steuerrecht vorgesehener Steuervergünstigungen nicht im endgültigen steuerpflichtigen Ergebnis enthalten sind.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+3
+
+Die Mutter-Tochter-Richtlinie zielt gemäß ihrem dritten Erwägungsgrund darauf ab, Dividendenzahlungen und andere Gewinnausschüttungen von Tochtergesellschaften an ihre Muttergesellschaften von Quellensteuern zu befreien und die Doppelbesteuerung derartiger Einkünfte auf Ebene der Muttergesellschaft zu beseitigen.
+
+4
+
+In den Erwägungsgründen 7 und 9 dieser Richtlinie heißt es:
+
+„(7)
+
+Bezieht eine Muttergesellschaft als Teilhaberin ihrer Tochtergesellschaft Gewinnausschüttungen, so kann der Mitgliedstaat der Muttergesellschaft diese entweder nicht besteuern oder er lässt im Fall einer Besteuerung zu, dass die Gesellschaft den Steuerteilbetrag, den die Tochtergesellschaft für die von ihr ausgeschütteten Gewinne entrichtet, auf die Steuer anrechnen kann.
+
+…
+
+(9)
+
+Die Ausschüttung von Gewinnen an eine Betriebstätte einer Muttergesellschaft und der Zufluss dieser Gewinne an die Betriebstätte sollten ebenso behandelt werden wie bei der Beziehung zwischen Tochter- und Muttergesellschaft. …“
+
+5
+
+Art. 4 Abs. 1 und 3 der Richtlinie sieht vor:
+
+„(1)   Fließen einer Muttergesellschaft oder ihrer Betriebstätte aufgrund der Beteiligung der Muttergesellschaft an der Tochtergesellschaft Gewinne zu, die nicht anlässlich der Liquidation der Tochtergesellschaft ausgeschüttet werden, so
+
+a)
+
+besteuern der Mitgliedstaat der Muttergesellschaft und der Mitgliedstaat der Betriebstätte diese Gewinne entweder nicht, oder
+
+b)
+
+lassen der Mitgliedstaat der Muttergesellschaft und der Staat der Betriebstätte im Falle einer Besteuerung zu, dass die Muttergesellschaft und die Betriebstätte auf die geschuldete Steuer den Steuerteilbetrag, den die Tochtergesellschaft und jegliche Enkelgesellschaft für diesen Gewinn entrichten, bis zur Höhe der entsprechenden Steuerschuld anrechnen können, vorausgesetzt, dass die Gesellschaft und die ihr nachgeordnete Gesellschaft im Sinne von Artikel 2 auf jeder Stufe die Bedingungen gemäß Artikel 3 erfüllen.
+
+…
+
+(3)   Jeder Mitgliedstaat kann bestimmen, dass Kosten der Beteiligung an der Tochtergesellschaft und Minderwerte, die sich aufgrund der Ausschüttung ihrer Gewinne ergeben, nicht vom steuerpflichtigen Gewinn der Muttergesellschaft abgesetzt werden können.
+
+Werden in diesem Fall die mit der Beteiligung zusammenhängenden Verwaltungskosten pauschal festgesetzt, so darf der Pauschalbetrag 5 % der von der Tochtergesellschaft ausgeschütteten Gewinne nicht übersteigen.“
+
+6
+
+Art. 5 der Mutter-Tochter-Richtlinie bestimmt:
+
+„Die von einer Tochtergesellschaft an ihre Muttergesellschaft ausgeschütteten Gewinne sind vom Steuerabzug an der Quelle befreit.“
+
+Belgisches Recht
+
+7
+
+Das Wetboek van de inkomstenbelastingen 1992 (Einkommensteuergesetzbuch 1992) wurde durch die Wet houdende diverse bepaligen (Gesetz zur Festlegung verschiedener Bestimmungen) vom 30. Juli 2013 (Belgisch Staatsblad vom 1. August 2013) geändert (im Folgenden: EStGB 92). Kapitel 15 des Gesetzes vom 30. Juli 2013 enthält einen Abschnitt 2, dessen Unterabschnitt 1 mit „Fairness Tax“ überschrieben ist. Dieser Unterabschnitt umfasst die Art. 43 bis 51 dieses Gesetzes, mit denen die Art. 198, 207, 218, 219ter, 233, 246, 275 und 463bis des EStGB 92 geändert wurden.
+
+8
+
+Art. 198 § 1 Nr. 1 EStGB 92 bestimmt:
+
+„Werbungskosten umfassen nicht:
+
+1.
+
+die Gesellschaftssteuer einschließlich der aufgrund der Artikel 219bis bis 219quater geschuldeten getrennten Steuern, der Summen, die auf die Gesellschaftssteuer vorausgezahlt werden, und des Mobiliensteuervorabzugs, den der Schuldner des Einkommens unter Missachtung von Artikel 261 zur Entlastung des Empfängers trägt, jedoch ausschließlich der aufgrund von Artikel 219 geschuldeten getrennten Steuer“.
+
+9
+
+Art. 207 Abs. 2 EStGB 92 sieht vor:
+
+„Keiner dieser Abzüge noch ein Ausgleich des Verlusts des Besteuerungszeitraums darf auf den Teil des Ergebnisses angewandt werden, der aus den in Artikel 79 erwähnten ungewöhnlichen oder freiwilligen Vorteilen hervorgeht, noch auf erhaltene finanzielle Vorteile oder Vorteile jeglicher Art, die in Artikel 53 Nr. 24 erwähnt sind, noch auf die Grundlage der besonderen getrennten Steuer, die gemäß Artikel 219 auf nicht nachgewiesene Ausgaben oder Vorteile jeglicher Art festgelegt wird, noch auf den Teil der Gewinne, der für die in Artikel 198 § 1 Nr. 9 und 12 erwähnten Ausgaben bestimmt ist, noch auf den Teil der Gewinne, die aus der Nichteinhaltung von Artikel 194quater § 2 Absatz 4 und der Anwendung von Artikel 194quater § 4 hervorgehen, noch auf Mehrwerte, die in Artikel 217 Nr. 3 erwähnt sind, noch auf Dividenden, die in Artikel 219ter erwähnt sind.“
+
+10
+
+Art. 218 § 1 EStGB 92 lautet wie folgt:
+
+„Die gemäß den Artikeln 215 bis 217 berechnete Steuer und die in Artikel 219ter erwähnte getrennte Steuer werden bei ausbleibenden oder unzureichenden Vorauszahlungen eventuell erhöht, wie es in den Artikeln 157 bis 168 in Bezug auf die Steuer der natürlichen Personen vorgesehen ist.
+
+In Abweichung von den Artikeln 160 und 165 sind die Begrenzung der Erhöhung auf 90 Prozent und die Erhöhung der Berechnungsgrundlage auf 106 Prozent der Staatssteuer jedoch nicht anwendbar.“
+
+11
+
+Art. 219ter EStGB 92 sieht vor:
+
+„§ 1.   Für den Besteuerungszeitraum, in dem im Sinne von Artikel 18 Absatz 1 Nr. 1 bis 2bis Dividenden ausgeschüttet werden, wird eine getrennte Steuer festgelegt, die gemäß den Bestimmungen der nachstehenden Paragraphen berechnet wird.
+
+Diese getrennte Steuer ist unabhängig von und gegebenenfalls ergänzend zu anderen Steuern, die aufgrund anderer Bestimmungen des vorliegenden Gesetzbuches oder gegebenenfalls in Anwendung besonderer Gesetzesbestimmungen geschuldet werden.
+
+§ 2.   Die Grundlage für diese getrennte Steuer bildet die Plusdifferenz zwischen einerseits den für den Besteuerungszeitraum ausgeschütteten Bruttodividenden und andererseits dem endgültigen steuerpflichtigen Ergebnis, das tatsächlich dem in den Artikeln 215 und 216 erwähnten Gesellschaftssteuersatz unterliegt.
+
+§ 3.   Die so festgelegte Besteuerungsgrundlage wird um den Teil der ausgeschütteten Dividenden verringert, die aus den zu einem früheren Zeitpunkt und spätestens im Steuerjahr 2014 besteuerten Rücklagen stammen. Für die Anwendung dieser Verringerung wird die Entnahme aus den bereits besteuerten Rücklagen vorrangig auf die letzten gebildeten Rücklagen angerechnet.
+
+Für das Steuerjahr 2014 können in demselben Steuerjahr ausgeschüttete Dividenden niemals als Entnahmen aus den in demselben Steuerjahr besteuerten Rücklagen gelten.
+
+§ 4.   Der so erhaltene Saldo wird anschließend gemäß einem Prozentsatz begrenzt, der das Verhältnis ausdrückt zwischen:
+
+—
+
+einerseits im Zähler dem für den Besteuerungszeitraum tatsächlich vorgenommenen Abzügen für Verlustvorträge und Risikokapital,
+
+—
+
+andererseits im Nenner dem steuerlichen Ergebnis des Besteuerungszeitraums ausschließlich der steuerfreien Wertminderungen, Rückstellungen und Mehrwerte.
+
+§ 5.   Die gemäß den vorhergehenden Paragraphen festgelegte Grundlage kann auf keine andere Weise begrenzt oder verringert werden.
+
+§ 6.   Die getrennte Steuer entspricht 5 Prozent der so berechneten Grundlage.
+
+§ 7.   Gesellschaften, die aufgrund von Artikel 15 des Gesellschaftsgesetzbuches für das Steuerjahr, das sich auf den Besteuerungszeitraum bezieht, in dem die Dividenden ausgeschüttet werden, als kleine Gesellschaften gelten, unterliegen nicht der vorerwähnten Steuer.“
+
+12
+
+Art. 233 Abs. 3 EStGB 92 lautet:
+
+„Eine getrennte Steuer wird darüber hinaus gemäß den in Artikel 219ter bestimmten Regeln festgelegt. In Bezug auf belgische Niederlassungen versteht man für die Anwendung dieser Regelung unter ‚ausgeschütteten Dividenden‘ den Teil der von der Gesellschaft ausgeschütteten Bruttodividenden, der verhältnismäßig mit dem positiven Teil des Buchführungsergebnisses der belgischen Niederlassung im gesamten Buchführungsergebnis der Gesellschaft übereinstimmt.“
+
+13
+
+Art. 246 Abs. 1 Nr. 3 EStGB 92 hat folgenden Wortlaut:
+
+„wird die in Artikel 233 Absatz 3 erwähnte getrennte Steuer unbeschadet der Anwendung von Artikel 218 zum Satz von 5 Prozent berechnet“.
+
+14
+
+Art. 463bis § 1 Nr. 1 EStGB 92 sieht vor:
+
+„Als zusätzliche Krisenabgabe werden ausschließlich zum Vorteil des Staates drei Zuschlaghundertstel festgelegt:
+
+1.
+
+auf die Gesellschaftssteuer, für die in Artikel 220 Nr. 2 und 3 erwähnten juristischen Personen auf die Steuer der juristischen Personen und für die in Artikel 227 Nr. 2 und 3 erwähnten Steuerpflichtigen mit Ausnahme ausländischer Staaten und ihrer politischen Untergliederungen und lokalen Gebietskörperschaften auf die Steuer der Gebietsfremden, die in den Artikeln 219bis, 219ter und 246 Absatz 1 Nr. 2 und 3 erwähnten getrennten Steuern einbegriffen; die zusätzlichen Krisenabgaben werden auf vorerwähnte Steuern berechnet, die festgelegt werden:
+
+—
+
+vor Anrechnung der Vorauszahlungen erwähnt in den Artikeln 218, 226 und 246 Absatz 1 Nr. 1 und Absatz 2 und der Vorabzüge, des Pauschalanteils ausländischer Steuer und der Steuergutschrift erwähnt in den Artikeln 277 bis 296,
+
+—
+
+vor Anwendung der Erhöhung bei ausbleibenden oder unzureichenden Vorauszahlungen erwähnt im ersten Gedankenstrich“.
+
+15
+
+Art. 2757 Abs. 4 EStGB 92 ist wie folgt gefasst:
+
+„Der König kann den in Absatz 3 bestimmten Prozentsatz durch einen im Ministerrat beratenen Erlass für die in vorliegendem Artikel erwähnten Arbeitgeber erhöhen, die entweder aufgrund von Artikel 15 des Gesellschaftsgesetzbuches als kleine Gesellschaften gelten oder natürliche Personen sind, die die Kriterien des vorerwähnten Artikels 15 mutatis mutandis erfüllen. Der König reicht bei den Gesetzgebenden Kammern, wenn sie versammelt sind, unverzüglich und sonst, sobald die nächste Sitzungsperiode eröffnet ist, einen Gesetzentwurf ein zur Bestätigung der Erlasse zur Ausführung des vorliegenden Absatzes.“
+
+16
+
+Art. 51 des Gesetzes zur Festlegung verschiedener Bestimmungen vom 30. Juli 2013 bestimmt:
+
+„Die Artikel 43 bis 49 treten ab dem Steuerjahr 2014 in Kraft.
+
+Ab dem 28. Juni 2013 am Datum des Jahresabschlusses angebrachte Änderungen haben keine Auswirkung auf die Anwendung der Maßnahmen in vorliegendem Unterabschnitt.
+
+Artikel 50 ist auf die ab dem 1. Januar 2014 gezahlten oder zuerkannten Entlohnungen anwendbar.“
+
+Ausgangsrechtsstreit und Vorlagefragen
+
+17
+
+X erhob beim Grondwettelijk Hof (Verfassungsgerichtshof, Belgien) Klage auf Nichtigerklärung der nationalen Rechtsvorschriften zur Einführung der Fairness Tax.
+
+18
+
+Das vorlegende Gericht führt aus, dass es sich bei der Fairness Tax um eine von der Gesellschaftssteuer und der Steuer der Gebietsfremden getrennte Steuer handle, die in den Art. 43 bis 51 des Gesetzes vom 30. Juli 2013 zur Festlegung verschiedener Bestimmungen geregelt sei. Sie ist anwendbar, wenn für denselben Besteuerungszeitraum Dividenden ausgeschüttet werden und das steuerliche Ergebnis der Gesellschaft durch Anwendung der verschiedenen, im nationalen Steuerrecht vorgesehenen Abzüge ganz oder teilweise verringert wird.
+
+19
+
+Im Rahmen seiner Klage auf Nichtigerklärung der genannten Art. 43 bis 51 machte X erstens geltend, dass die Fairness Tax eine Beschränkung der Niederlassungsfreiheit darstelle, die gebietsfremde Gesellschaften in ihrer freien Wahl der Rechtsform behindere, unter der sie ihre wirtschaftliche Tätigkeiten in Belgien auszuüben beabsichtigten.
+
+20
+
+Eine gebietsfremde Gesellschaft, die in Belgien eine wirtschaftliche Tätigkeit über eine Tochtergesellschaft ausübe, unterliege der Fairness Tax nämlich indirekt nur dann, wenn diese Tochtergesellschaft tatsächlich eine Dividende aus ihren Gewinnen an sie ausschütte, unabhängig davon, ob diese gebietsfremde Gesellschaft im Übrigen selbst eine Dividende ausschütte.
+
+21
+
+Hingegen unterliege eine gebietsfremde Gesellschaft, die in Belgien eine wirtschaftliche Tätigkeit über eine Betriebsstätte ausübe, der Fairness Tax, wenn sie selbst Dividenden ausschütte, unabhängig davon, ob die Gewinne der Betriebsstätte dieser Gesellschaft zugeflossen seien oder den Rücklagen zugeführt oder in Belgien neu investiert worden seien. Die Besteuerungsgrundlage dieser Gesellschaft könne somit allein aus dem Grund, dass sie über eine Betriebsstätte in Belgien verfüge, auch die von ihr außerhalb Belgiens erzielten Gewinne umfassen.
+
+22
+
+Darüber hinaus begründe die Fairness Tax auch eine Diskriminierung wegen der Staatsangehörigkeit zwischen gebietsfremden Gesellschaften, die in Belgien eine wirtschaftliche Tätigkeit über eine Betriebsstätte ausübten, und gebietsansässigen Gesellschaften, da eine gebietsfremde Gesellschaft dieser Steuer selbst dann unterliegen könne, wenn der gesamte Gewinn ihrer belgischen Betriebsstätte den Rücklagen zugeführt oder in Belgien neu investiert worden sei, während dies nicht der Fall sei, wenn eine gebietsansässige Gesellschaft ihren gesamten Gewinn in diesem Mitgliedstaat den Rücklagen zuführe oder neu investiere.
+
+23
+
+Der Ministerrat vertritt die Auffassung, dass die behauptete Ungleichbehandlung sich aus den einer Betriebsstätte eigenen Merkmalen ergebe, da eine Betriebsstätte im Gegensatz zu einer Tochtergesellschaft selbst keine Dividenden ausschütten könne.
+
+24
+
+In Bezug auf die behauptete Ungleichbehandlung zwischen gebietsfremden Gesellschaften, die in Belgien eine wirtschaftliche Tätigkeit über eine Betriebsstätte ausüben, und gebietsansässigen Gesellschaften weist der Ministerrat darauf hin, dass die in Rede stehenden Rechtsvorschriften zur Ermittlung der Besteuerungsgrundlage der Fairness Tax bei gebietsfremden Gesellschaften die Berechnung einer fiktiven Dividende vorsähen, um etwaige Diskriminierungen zu vermeiden. Diese Rechtsvorschriften führten somit nicht zu einer Ungleichbehandlung, sondern seien an die Umstände angepasst.
+
+25
+
+Zweitens ist X der Ansicht, dass die Fairness Tax als ein Steuerabzug an der Quelle anzusehen sei, da sie auf die Gewinne erhoben werde, die von der Tochtergesellschaft an die Muttergesellschaft ausgeschüttet würden, und somit gegen Art. 5 der Mutter-Tochter-Richtlinie verstoße, wonach die von einer Tochtergesellschaft an die Muttergesellschaft ausgeschütteten Gewinne vom Steuerabzug an der Quelle befreit seien.
+
+26
+
+Der Ministerrat vertritt die Auffassung, dass es sich bei der Fairness Tax nicht um einen verdeckten Steuerabzug an der Quelle handle, sondern um eine getrennte Steuer, die entsprechend den ausgeschütteten Dividenden berechnet werde, die nicht im steuerpflichtigen Ergebnis der Tochtergesellschaft wiederzufinden seien, da sie Gegenstand des Abzugs für Risikokapital und/oder des Abzugs vorheriger Verluste gewesen seien.
+
+27
+
+Drittens vertritt X die Ansicht, dass die Fairness Tax zur Folge haben könne, dass Gewinne, die in den Anwendungsbereich der Mutter-Tochter-Richtlinie fielen, einer Steuer unterlägen, die den in Art. 4 Abs. 3 dieser Richtlinie vorgesehenen Höchstbetrag von 5 % übersteige.
+
+28
+
+Die Befreiung von 95 % der Gewinne gelte nämlich nur dann, wenn die bezogenen Gewinne unmittelbar im selben Jahr ausgeschüttet würden. Würden die Gewinne in einem späteren Jahr ausgeschüttet, unterlägen sie mit einem höheren Anteil als 5 % der Fairness Tax, da der Verhältnismäßigkeitsfaktor nur die Gewinne des betreffenden Jahres und den in diesem Jahr darauf angewandten Abzug für Risikokapital und/oder vorgetragener Verluste berücksichtige.
+
+29
+
+Nach Ansicht des Ministerrats ist die Frage, ob Gewinne ausgeschüttet werden oder nicht, eine Entscheidung der Geschäftspolitik der Muttergesellschaft. Die Fairness Tax sei für dieselbe Gesellschaft pro Steuerjahr entsprechend der Höhe der ausgeschütteten Dividenden, der Anwendung eines Abzugs für Risikokapital und dem Umfang des steuerpflichtigen Ergebnisses jedes Jahr verschieden und habe nicht zur Folge, dass ein den Höchstbetrag von 5 % übersteigender Teil der Dividende besteuert werde.
+
+30
+
+Unter diesen Umständen hat der Grondwettelijk Hof (Verfassungsgerichtshof) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+1.
+
+Ist Art. 49 AEUV dahin auszulegen, dass er einer nationalen Regelung entgegensteht, mit der
+
+a)
+
+Gesellschaften mit Sitz in einem anderen Mitgliedstaat mit einer belgischen festen Niederlassung einer Steuer unterliegen, wenn sie eine Ausschüttung von Gewinnen beschließen, die nicht in das endgültige steuerpflichtige Ergebnis der Gesellschaft aufgenommen werden, ungeachtet dessen, ob ein Gewinn von der belgischen festen Niederlassung an das Mutterhaus geflossen ist, während Gesellschaften mit Sitz in einem anderen Mitgliedstaat mit einem belgischen Tochterunternehmen nicht einer solchen Steuer unterliegen, wenn sie eine Ausschüttung von Gewinnen beschließen, die nicht in das endgültige steuerpflichtige Ergebnis der Gesellschaft aufgenommen werden, ungeachtet dessen, ob das Tochterunternehmen eine Dividende ausgeschüttet hat oder nicht;
+
+b)
+
+Gesellschaften mit Sitz in einem anderen Mitgliedstaat mit einer belgischen festen Niederlassung bei einer vollständigen Zuführung des belgischen Gewinns an die Rücklagen einer Steuer unterliegen, wenn sie eine Ausschüttung von Gewinnen beschließen, die nicht in das endgültige steuerpflichtige Ergebnis der Gesellschaft aufgenommen werden, während belgische Gesellschaften bei einer vollständigen Zuführung des Gewinns an die Rücklagen nicht einer solchen Steuer unterliegen?
+
+2.
+
+Ist Art. 5 der Mutter-Tochter-Richtlinie dahin auszulegen, dass es sich um einen Steuerabzug an der Quelle handelt, wenn eine Bestimmung des nationalen Rechts vorschreibt, dass bei einer Gewinnausschüttung eines Tochterunternehmens an die Muttergesellschaft eine Steuer auferlegt wird, weil im selben Besteuerungszeitraum Dividenden ausgeschüttet werden und das steuerpflichtige Ergebnis ganz oder teilweise um den Abzug für Risikokapital und/oder vorgetragene Steuerverluste verringert wird, während der Gewinn aufgrund der nationalen Rechtsvorschriften nicht besteuerbar wäre, wenn er bei dem Tochterunternehmen verblieben wäre und nicht an die Muttergesellschaft ausgeschüttet worden wäre?
+
+3.
+
+Ist Art. 4 Abs. 3 der Mutter-Tochter-Richtlinie dahin auszulegen, dass er einer nationalen Regelung entgegensteht, mit der eine Steuer auf die Ausschüttung von Dividenden erhoben wird, wenn diese Regelung zur Folge hat, dass eine Gesellschaft auf einen Teil der Dividende besteuert wird, der über die im genannten Art. 4 Abs. 3 der Richtlinie festgelegte Schwelle hinausgeht, wenn sie eine empfangene Dividende später ausschüttet als in dem Jahr, in dem sie sie selbst empfangen hat, während dies nicht der Fall ist, wenn diese Gesellschaft eine Dividende erneut ausschüttet in dem Jahr, in dem sie sie erhält?
+
+Zu den Vorlagefragen
+
+31
+
+Zunächst ist darauf hinzuweisen, dass das vorlegende Gericht mit seinen Fragen wissen möchte, ob eine Steuerregelung eines Mitgliedstaats wie die im Ausgangsverfahren in Rede stehende, die in einer Situation anwendbar ist, in der der Betrag der von einer Gesellschaft ausgeschütteten Gewinne – unabhängig davon, ob es sich um eine gebietsansässige Gesellschaft, einschließlich der gebietsansässigen Tochtergesellschaft einer gebietsfremden Gesellschaft, oder um eine gebietsfremde Gesellschaft handelt, die in diesem Mitgliedstaat über eine Betriebsstätte eine Tätigkeit ausübt – infolge der Inanspruchnahme bestimmter, im nationalen Steuerrecht dieses Mitgliedstaats vorgesehener Steuervergünstigungen höher ist als das endgültige steuerpflichtige Ergebnis dieser Gesellschaft in diesem Mitgliedstaat, mit dem Unionsrecht vereinbar ist.
+
+32
+
+Aus den dem Gerichtshof vorgelegten Akten geht hervor, dass der Zweck dieser Steuerregelung darin besteht, Einkünfte zu besteuern, die in die Steuerhoheit des betroffenen Mitgliedstaats fallen und aufgrund der Inanspruchnahme dieser Steuervergünstigungen ausgeschüttet wurden, ohne in diesem Mitgliedstaat der Körperschaftsteuer – was gebietsansässige Gesellschaften betrifft – oder der Steuer der Gebietsfremden – was gebietsfremde Gesellschaften betrifft – zu unterliegen.
+
+33
+
+Aus diesen Akten geht außerdem hervor, dass die im Ausgangsverfahren in Rede stehende Steuerregelung in einer von der Körperschaftsteuer und der Steuer der Gebietsfremden getrennten Steuer besteht, deren Steuersatz auf 5,15 % festgelegt ist. Die Grundlage für diese Steuer bildet die Plusdifferenz zwischen einerseits den für den Besteuerungszeitraum ausgeschütteten Bruttodividenden und andererseits dem endgültigen steuerpflichtigen Ergebnis, das tatsächlich dem normalen Körperschaftsteuersatz unterliegt. Die so festgelegte Besteuerungsgrundlage wird um den Teil der ausgeschütteten Dividenden verringert, die aus den zu einem früheren Zeitpunkt und spätestens im Steuerjahr 2014 besteuerten Rücklagen stammen. Der sich daraus ergebende Saldo wird durch einen Koeffizienten begrenzt, der aus einem Bruch besteht, der das Verhältnis zwischen dem für den Besteuerungszeitraum vorgenommenen Abzug für Risikokapital und/oder dem für den Besteuerungszeitraum vorgenommenen Abzug des Verlustvortrags (Zähler) und dem steuerlichen Ergebnis des Besteuerungszeitraums (Nenner) ausdrückt.
+
+34
+
+Für die Berechnung der Besteuerungsgrundlage bei gebietsfremden Gesellschaften sieht die Steuerregelung die Berechnung einer „fiktiven Dividende“ vor. In diesem Fall bestehen die „ausgeschütteten Dividenden“ in dem Teil der von der gebietsfremden Gesellschaft ausgeschütteten Dividenden, der dem Anteil der belgischen Betriebsstätte am Gesamtergebnis dieser Gesellschaft entspricht.
+
+Zur ersten Frage
+
+35
+
+Für die Prüfung der Frage in der gestellten Form ist zunächst darauf hinzuweisen, dass der Sitz einer Gesellschaft dazu dient, ihre Zugehörigkeit zur Rechtsordnung eines Staates zu bestimmen (vgl. u. a. Urteile vom 28. Januar 1986, Kommission/Frankreich, 270/83, EU:C:1986:37, Rn. 18, und vom 14. Dezember 2000, AMID, C‑141/99, EU:C:2000:696, Rn. 20).
+
+36
+
+Daraus folgt, dass die Anwendung einer nationalen Steuerregelung wie der im Ausgangsverfahren in Rede stehenden auf eine gebietsansässige Tochtergesellschaft einer gebietsfremden Gesellschaft auf der einen und auf eine gebietsansässige Betriebsstätte einer gebietsfremden Gesellschaft auf der anderen Seite zum einen die steuerliche Behandlung einer gebietsansässigen Gesellschaft und zum anderen die einer gebietsfremden Gesellschaft betrifft.
+
+37
+
+Im vorliegenden Fall steht aber fest, dass die in Rede stehende belgische Steuerregelung gebietsansässige Gesellschaften, einschließlich gebietsansässiger Tochtergesellschaften gebietsfremder Gesellschaften, und gebietsfremde Gesellschaften gleich behandelt, da alle diese Gesellschaften der Fairness Tax unterliegen, wenn sie Dividenden unter den in den Rn. 31 und 32 des vorliegenden Urteils angeführten Umständen ausschütten.
+
+38
+
+Vor diesem Hintergrund ist die vorgelegte Frage so zu verstehen, dass damit geklärt werden soll, ob die Niederlassungsfreiheit dahin auszulegen ist, dass sie einer Steuerregelung eines Mitgliedstaats wie der im Ausgangsverfahren in Rede stehenden – nach der sowohl eine gebietsfremde Gesellschaft, die in diesem Mitgliedstaat eine Tätigkeit über eine Betriebstätte ausübt, als auch eine gebietsansässige Gesellschaft, einschließlich der gebietsansässigen Tochtergesellschaft einer gebietsfremden Gesellschaft, einer Steuer wie der Fairness Tax unterliegen, wenn sie Dividenden ausschütten, die aufgrund der Anwendung bestimmter, im nationalen Steuerrecht vorgesehener Steuervergünstigungen nicht in ihrem endgültigen steuerpflichtigen Ergebnis enthalten sind – entgegensteht.
+
+39
+
+Die Niederlassungsfreiheit, die Art. 49 AEUV den Angehörigen der Europäischen Union zuerkennt, umfasst für sie die Aufnahme und Ausübung selbständiger Erwerbstätigkeiten sowie die Gründung und Leitung von Unternehmen unter den gleichen Bedingungen wie den im Recht des Niederlassungsstaats für dessen eigene Angehörige festgelegten. Mit ihr ist nach Art. 54 AEUV für die nach den Rechtsvorschriften eines Mitgliedstaats gegründeten Gesellschaften, die ihren satzungsmäßigen Sitz, ihre Hauptverwaltung oder ihre Hauptniederlassung innerhalb der Union haben, das Recht verbunden, ihre Tätigkeit in dem betreffenden Mitgliedstaat durch eine Tochtergesellschaft, Zweigniederlassung oder Agentur auszuüben (Urteil vom 17. Juli 2014, Nordea Bank Danmark, C‑48/13, EU:C:2014:2087, Rn. 17 und die dort angeführte Rechtsprechung).
+
+40
+
+Was die Behandlung im Aufnahmestaat betrifft, ergibt sich aus der Rechtsprechung des Gerichtshofs, dass, da Art. 49 Abs. 1 Satz 2 AEUV den Wirtschaftsteilnehmern ausdrücklich die Möglichkeit lässt, die geeignete Rechtsform für die Ausübung ihrer Tätigkeiten in einem anderen Mitgliedstaat frei zu wählen, diese freie Wahl nicht durch diskriminierende Steuerbestimmungen eingeschränkt werden darf (Beschluss vom 4. Juni 2009, KBC Bank und Beleggen, Risicokapitaal, Beheer, C‑439/07 und C‑499/07, EU:C:2009:339, Rn. 77 und die dort angeführte Rechtsprechung).
+
+41
+
+In Bezug auf steuerliche Vorschriften geht aus der Rechtsprechung des Gerichtshofs hervor, dass es Sache jedes Mitgliedstaats ist, sein System der Gewinnbesteuerung unter Wahrung des Unionsrechts auszugestalten, sofern diese Gewinne der Steuerhoheit des betreffenden Mitgliedstaats unterliegen. Demzufolge ist der Aufnahmemitgliedstaat frei darin, den Steuertatbestand, die Steuerbemessungsgrundlage und den Steuersatz, die für die verschiedenen Niederlassungsformen von in diesem Mitgliedstaat tätigen Gesellschaften gelten, festzulegen, vorausgesetzt, er gewährt gebietsfremden Gesellschaften eine Behandlung, die gegenüber vergleichbaren inländischen Niederlassungen nicht diskriminierend ist (vgl. in diesem Sinne Urteile vom 12. Dezember 2006, Test Claimants in the FII Group Litigation, C‑446/04, EU:C:2006:774, Rn. 47, und vom 26. Juni 2008, Burda, C‑284/06, EU:C:2008:365, Rn. 86 und die dort angeführte Rechtsprechung).
+
+42
+
+Eine Diskriminierung kann nur dadurch entstehen, dass unterschiedliche Vorschriften auf vergleichbare Situationen angewandt werden oder dass dieselbe Vorschrift auf unterschiedliche Situationen angewandt wird (Urteile vom 14. Februar 1995, Schumacker, C‑279/93, EU:C:1995:31, Rn. 30, und vom 1. Dezember 2011, Kommission/Ungarn, C‑253/09, EU:C:2011:795, Rn. 50 und die dort angeführte Rechtsprechung).
+
+43
+
+Im vorliegenden Fall steht fest, dass eine gebietsfremde Gesellschaft, die in Belgien eine wirtschaftliche Tätigkeit über eine Betriebstätte ausübt, und eine gebietsansässige Gesellschaft, einschließlich der Tochtergesellschaft einer gebietsfremden Gesellschaft, steuerlich grundsätzlich gleich behandelt werden, da sie der Fairness Tax unterliegen, wenn sie Dividenden ausschütten, die aufgrund der Anwendung bestimmter, im nationalen Steuerrecht vorgesehener Steuervergünstigungen nicht im endgültigen steuerpflichtigen Ergebnis enthalten sind.
+
+44
+
+Soweit aus den dem Gerichtshof vorgelegten Akten hervorgeht, dass eine gebietsfremde Gesellschaft, die in Belgien eine wirtschaftliche Tätigkeit über eine Betriebstätte ausübt, im Unterschied zu einer gebietsansässigen Gesellschaft, die auf der Grundlage ihres Welteinkommens der Körperschaftsteuer unterliegt, in diesem Mitgliedstaat dieser Steuer nur auf der Grundlage der Gewinne unterliegt, die die Betriebstätte erzielt, könnte jedoch etwas anderes gelten und die in Rede stehende Regelung eine Beschränkung der Niederlassungsfreiheit darstellen, wenn die Art und Weise der Ermittlung der Bemessungsgrundlage der Fairness Tax tatsächlich zur Folge hätte, dass die gebietsfremde Gesellschaft weniger günstig behandelt würde als eine gebietsansässige Gesellschaft.
+
+45
+
+Nach Ansicht der belgischen Regierung berücksichtigt die im Ausgangsverfahren in Rede stehende Steuerregelung dadurch, dass sie die Berechnung einer fiktiven Dividende zur Ermittlung der Bemessungsgrundlage der Fairness Tax bei einer gebietsfremden Gesellschaft vorsieht, diese Unterschiede bei der Art und Weise der Berechnung der Besteuerungsgrundlage und bezwecke somit, etwaige Diskriminierungen zu vermeiden.
+
+46
+
+X und die Europäische Kommission vertreten hingegen die Auffassung, dass diese Art und Weise der Berechnung zu einer höheren Besteuerung der gebietsfremden Gesellschaft führen könne. Insoweit macht zum einen X geltend, dass diese Art und Weise der Berechnung in bestimmten Situationen zur Folge haben könne, dass bei einer solchen gebietsfremden Gesellschaft andere Gewinne besteuert würden als die durch die belgische Betriebstätte erzielten. Zum anderen weist die Kommission darauf hin, dass eine gebietsansässige Gesellschaft, einschließlich der gebietsansässigen Tochtergesellschaft einer gebietsfremden Gesellschaft, der Fairness Tax nur dann unterliege, wenn sie tatsächlich Dividenden ausschütte, während eine gebietsfremde Gesellschaft, die in dem betreffenden Mitgliedstaat eine wirtschaftliche Tätigkeit über eine Betriebstätte ausübe, dieser Steuer unterliege, sobald sie Dividenden ausschütte, selbst wenn die Gewinne dieser Betriebstätte nicht Teil der von dieser gebietsfremden Gesellschaft ausgeschütteten Dividenden seien.
+
+47
+
+Im vorliegenden Fall ist es Sache des vorlegenden Gerichts, das allein für die Auslegung des nationalen Rechts zuständig ist, unter Berücksichtigung aller Elemente der im Ausgangsverfahren in Rede stehenden Steuerregelung zu prüfen, ob die Art und Weise der Berechnung der Bemessungsgrundlage in allen Situationen dazu führt, dass die steuerliche Behandlung einer gebietsfremden Gesellschaft, die ihre Tätigkeit in Belgien über eine Betriebstätte ausübt, nicht weniger günstig ist als die, der eine gebietsansässige Gesellschaft unterliegt (vgl. in diesem Sinne Urteil vom 17. September 2015, Miljoen u. a., C‑10/14, C‑14/14 und C‑17/14, EU:C:2015:608, Rn. 48).
+
+48
+
+Im Rahmen dieser Prüfung wird das vorlegende Gericht den Umstand zu berücksichtigen haben, dass mit der im Ausgangsverfahren in Rede stehenden Regelung der belgischen Steuerhoheit unterliegende Gewinne besteuert werden sollen, die zwar ausgeschüttet wurden, aber über die dieser Mitgliedstaat seine Steuerhoheit aufgrund der Anwendung bestimmter, im nationalen Steuerrecht vorgesehener Steuervergünstigungen nicht ausgeübt hat. In einer Situation, in der die Art und Weise der Berechnung der Steuerbemessungsgrundlage einer gebietsfremden Gesellschaft zur Folge hätte, dass diese Gesellschaft auch mit den Gewinnen besteuert würde, die nicht in die Steuerhoheit dieses Mitgliedstaats fallen, erführe die gebietsfremde Gesellschaft eine weniger günstige Behandlung als die gebietsansässige Gesellschaft.
+
+49
+
+Ergibt diese Prüfung, dass eine solche Behandlung vorliegt, wäre somit davon auszugehen, dass eine Steuerregelung wie die im Ausgangsverfahren in Rede stehende eine Beschränkung der Niederlassungsfreiheit darstellt.
+
+50
+
+Eine solche Beschränkung ist nur statthaft, wenn sie Situationen betrifft, die nicht objektiv miteinander vergleichbar sind, oder wenn sie durch zwingende Gründe des Allgemeininteresses gerechtfertigt ist (Urteil vom 17. Juli 2014, Nordea Bank Danmark, C‑48/13, EU:C:2014:2087, Rn. 23 und die dort angeführte Rechtsprechung).
+
+51
+
+Die Vergleichbarkeit eines grenzüberschreitenden Sachverhalts mit einem innerstaatlichen Sachverhalt ist unter Berücksichtigung des mit der betreffenden nationalen Steuerregelung verfolgten Ziels zu prüfen (vgl. in diesem Sinne Urteile vom 8. November 2012, Kommission/Finnland, C‑342/10, EU:C:2012:688, Rn. 36, und vom 2. Juni 2016, Pensioenfonds Metaal en Techniek, C‑252/14, EU:C:2016:402, Rn. 48).
+
+52
+
+Hinsichtlich einer Steuerregelung des Aufnahmemitgliedstaats, mit der verhindert werden soll, dass die in diesem Mitgliedstaat erzielten Gewinne aufgrund der Anwendung bestimmter, im nationalen Steuerrecht vorgesehener Steuervergünstigungen ausgeschüttet werden, ohne beim Steuerpflichtigen besteuert worden zu sein, ist aber die Situation eines gebietsfremden Steuerpflichtigen, der in diesem Mitgliedstaat eine wirtschaftliche Tätigkeit über eine Betriebstätte ausübt, der eines gebietsansässigen Steuerpflichtigen vergleichbar. In beiden Fällen soll diese Steuerregelung diesem Mitgliedstaat nämlich ermöglichen, seine Befugnis zur Besteuerung der seiner Steuerhoheit unterliegenden Gewinne auszuüben (vgl. in diesem Sinne Urteile vom 14. November 2006, Kerckhaert und Morres, C‑513/04, EU:C:2006:713, Rn. 19, und vom 3. September 2014, Kommission/Spanien, C‑127/12, nicht veröffentlicht, EU:C:2014:2130, Rn. 77 und 78).
+
+53
+
+Somit ist hinsichtlich der im Ausgangsverfahren in Rede stehenden Regelung die Situation einer gebietsfremden Gesellschaft, die in Belgien eine wirtschaftliche Tätigkeit über eine Betriebstätte ausübt, derjenigen einer gebietsansässigen Gesellschaft, einschließlich der gebietsansässigen Tochtergesellschaft einer gebietsfremden Gesellschaft, vergleichbar.
+
+54
+
+Eine Rechtfertigung der Beschränkung kann sich deshalb nur aus zwingenden Gründen des Allgemeininteresses ergeben. In diesem Fall muss die Beschränkung aber außerdem geeignet sein, die Erreichung des verfolgten Ziels zu gewährleisten, und darf nicht über das hinausgehen, was hierzu erforderlich ist (Urteil vom 17. Juli 2014, Nordea Bank Danmark, C‑48/13, EU:C:2014:2087, Rn. 25 und die dort angeführte Rechtsprechung).
+
+55
+
+Die belgische Regierung hat geltend gemacht, dass eine etwaige Beschränkung dieser Freiheit durch zwei Gründe des Allgemeininteresses gerechtfertigt sei, nämlich das Ziel, die ausgewogene Aufteilung der Besteuerungsbefugnisse der Mitgliedstaaten zu gewährleisten, und das Ziel, Missbrauch zu bekämpfen.
+
+56
+
+Insoweit genügt die Feststellung, dass diese beiden Ziele zwar zu den zwingenden Gründen des Allgemeininteresses gehören, die eine Beschränkung der vom Vertrag garantierten Verkehrsfreiheiten rechtfertigen können (vgl. Urteil vom 5. Juli 2012, SIAT, C‑318/10, EU:C:2012:415, Rn. 36 und 37 sowie die dort angeführte Rechtsprechung), die in Rede stehende Regelung aber nicht geeignet ist, ihre Verwirklichung zu gewährleisten, so dass diese Ziele in einem Fall wie dem im Ausgangsverfahren in Rede stehenden eine etwaige Beschränkung der Niederlassungsfreiheit nicht rechtfertigen können.
+
+57
+
+Erstens geht die im Ausgangsverfahren in Rede stehende Steuerregelung, da mit ihr der belgischen Steuerhoheit unterliegende Gewinne besteuert werden sollen, die ausgeschüttet werden, ohne von diesem Mitgliedstaat besteuert worden zu sein, in keiner Weise dahin, die Steuerhoheit zwischen dem Königreich Belgien und einem anderen Mitgliedstaat aufzuteilen.
+
+58
+
+Zweitens zielt diese Regelung, da ihr Zweck darin besteht, die durch die Anwendung im nationalen Steuerrecht vorgesehener Steuervergünstigungen erzeugte Wirkung zu begrenzen, als solche nicht darauf ab, eine missbräuchliche Praxis zu verhindern.
+
+59
+
+Überdies kann eine etwaige Beschränkung auch nicht damit gerechtfertigt werden, dass diese Regelung in bestimmten Situationen dazu führen könnte, dass eine gebietsfremde Gesellschaft, die in Belgien eine wirtschaftliche Tätigkeit über eine Betriebstätte ausübt, eine günstigere Besteuerung erfährt als eine gebietsansässige Gesellschaft.
+
+60
+
+Der Umstand, dass eine nationale Steuerregelung gebietsfremde Gesellschaften benachteiligt, kann nämlich nicht dadurch ausgeglichen werden, dass diese Regelung in anderen Situationen zu einer für diese Art von Gesellschaften günstigen Behandlung führen kann (vgl. in diesem Sinne Urteil vom 2. Juni 2016, Pensioenfonds Metaal en Techniek, C‑252/14, EU:C:2016:402, Rn. 38 und 39).
+
+61
+
+Nach alledem ist auf die erste Frage zu antworten, dass die Niederlassungsfreiheit dahin auszulegen ist, dass sie einer Steuerregelung eines Mitgliedstaats wie der im Ausgangsverfahren in Rede stehenden – nach der sowohl eine gebietsfremde Gesellschaft, die in diesem Mitgliedstaat eine Tätigkeit über eine Betriebstätte ausübt, als auch eine gebietsansässige Gesellschaft, einschließlich der gebietsansässigen Tochtergesellschaft einer gebietsfremden Gesellschaft, einer Steuer wie der Fairness Tax unterliegen, wenn sie Dividenden ausschütten, die aufgrund der Anwendung bestimmter, im nationalen Steuerrecht vorgesehener Steuervergünstigungen nicht in ihrem endgültigen steuerpflichtigen Ergebnis enthalten sind – nicht entgegensteht, vorausgesetzt, die Art und Weise der Ermittlung der Bemessungsgrundlage dieser Steuer hat nicht tatsächlich zur Folge, dass die gebietsfremde Gesellschaft weniger günstig behandelt wird als eine gebietsansässige Gesellschaft, was zu prüfen Sache des vorlegenden Gerichts ist.
+
+Zur zweiten Frage
+
+62
+
+Mit seiner zweiten Frage möchte das vorlegende Gericht wissen, ob Art. 5 der Mutter-Tochter-Richtlinie dahin auszulegen ist, dass er einer Steuerregelung eines Mitgliedstaats wie der im Ausgangsverfahren in Rede stehenden – die eine Steuer wie die Fairness Tax vorsieht, der sowohl die gebietsfremden Gesellschaften, die in diesem Mitgliedstaat eine Tätigkeit über eine Betriebsstätte ausüben, als auch die gebietsansässigen Gesellschaften, einschließlich der gebietsansässigen Tochtergesellschaft einer gebietsfremden Gesellschaft, unterliegen, wenn sie Dividenden ausschütten, die aufgrund der Anwendung bestimmter, im nationalen Steuerrecht vorgesehener Steuervergünstigungen nicht in ihrem endgültigen steuerpflichtigen Ergebnis enthalten sind – entgegensteht.
+
+63
+
+Nach ständiger Rechtsprechung des Gerichtshofs müssen drei Kriterien kumulativ erfüllt sein, damit eine Steuer als Quellensteuer im Sinne von Art. 5 der Mutter-Tochter-Richtlinie eingestuft werden kann. So muss erstens die Steuer in dem Staat erhoben werden, in dem die Dividenden ausgeschüttet werden, und der sie auslösende Tatbestand in der Zahlung von Dividenden oder anderen Erträgen von Wertpapieren bestehen, zweitens die Bemessungsgrundlage dieser Steuer im Ertrag dieser Wertpapiere bestehen und drittens der Steuerpflichtige Inhaber dieser Wertpapiere sein (vgl. entsprechend Urteil vom 24. Juni 2010, P. Ferrero e C. und General Beverage Europe, C‑338/08 und C‑339/08, EU:C:2010:364, Rn. 26 und die dort angeführte Rechtsprechung).
+
+64
+
+Mit den Parteien des Ausgangsverfahrens ist festzustellen, dass eine Steuer wie die im Ausgangsverfahren in Rede stehende Fairness Tax die ersten beiden Voraussetzungen erfüllt. Denn zum einen besteht der diese Steuer auslösende Tatbestand in der Ausschüttung von Dividenden und zum anderen wird bei der Berechnung ihrer Bemessungsgrundlage der ausgeschüttete Betrag berücksichtigt.
+
+65
+
+Jedoch fehlt es insoweit, als Steuerpflichtiger einer Steuer wie der Fairness Tax nicht der Inhaber der Wertpapiere ist, sondern die ausschüttende Gesellschaft, an der dritten Voraussetzung.
+
+66
+
+Diese Beurteilung wird nicht durch das Vorbringen von X und der Kommission in Frage gestellt, wonach im vorliegenden Fall einer wirtschaftlichen Betrachtungsweise der Vorzug zu geben sei. Insoweit genügt der Hinweis, dass der Gerichtshof eine solche Betrachtungsweise bereits im Urteil vom 26. Juni 2008, Burda (C‑284/06, EU:C:2008:365, Rn. 58 bis 62), zurückgewiesen hat.
+
+67
+
+Da die dritte Voraussetzung für das Vorliegen eines Steuerabzugs an der Quelle im Sinne von Art. 5 der Mutter-Tochter-Richtlinie nicht erfüllt ist, kann eine Steuer wie die im Ausgangsverfahren in Rede stehende keine Quellensteuer im Sinne dieser Vorschrift sein.
+
+68
+
+Demnach ist auf die zweite Frage zu antworten, dass Art. 5 der Mutter-Tochter-Richtlinie dahin auszulegen ist, dass er einer Steuerregelung eines Mitgliedstaats wie der im Ausgangsverfahren in Rede stehenden – die eine Steuer wie die Fairness Tax vorsieht, der sowohl die gebietsfremden Gesellschaften, die in diesem Mitgliedstaat eine Tätigkeit über eine Betriebsstätte ausüben, als auch die gebietsansässigen Gesellschaften, einschließlich der gebietsansässigen Tochtergesellschaft einer gebietsfremden Gesellschaft, unterliegen, wenn sie Dividenden ausschütten, die aufgrund der Anwendung bestimmter, im nationalen Steuerrecht vorgesehener Steuervergünstigungen nicht in ihrem endgültigen steuerpflichtigen Ergebnis enthalten sind – nicht entgegensteht.
+
+Zur dritten Frage
+
+69
+
+Mit seiner dritten Frage möchte das vorlegende Gericht wissen, ob Art. 4 Abs. 1 Buchst. a der Mutter-Tochter-Richtlinie in Verbindung mit Art. 4 Abs. 3 dieser Richtlinie dahin auszulegen ist, dass er einer nationalen Steuerregelung wie der im Ausgangsverfahren in Rede stehenden entgegensteht, soweit diese Regelung in einer Situation, in der die Gewinne, die einer Muttergesellschaft von ihrer Tochtergesellschaft zufließen, von dieser Muttergesellschaft nach Ablauf des Jahres, in dem ihr diese Gewinne zugeflossen sind, ausgeschüttet werden, zur Folge hat, dass diese Gewinne einer Besteuerung unterworfen werden, die den in dieser Vorschrift vorgesehenen Höchstbetrag von 5 % übersteigt.
+
+70
+
+Aus dem dritten Erwägungsgrund der Mutter-Tochter-Richtlinie geht hervor, dass diese Richtlinie darauf abzielt, die Doppelbesteuerung der von einer Tochtergesellschaft an ihre Muttergesellschaft ausgeschütteten Gewinne auf Ebene der Muttergesellschaft zu beseitigen.
+
+71
+
+Art. 4 Abs. 1 der Mutter-Tochter-Richtlinie lässt den Mitgliedstaaten hierzu die Wahl zwischen zwei Systemen, und zwar dem Befreiungssystem und dem Anrechnungssystem (vgl. in diesem Sinne Urteil vom 12. Dezember 2006, Test Claimants in the FII Group Litigation, C‑446/04, EU:C:2006:774, Rn. 44). Den Erwägungsgründen 7 und 9 dieser Richtlinie entsprechend stellt diese Vorschrift nämlich klar, dass dann, wenn einer Muttergesellschaft oder ihrer Betriebstätte aufgrund der Beteiligung der Muttergesellschaft an der Tochtergesellschaft Gewinne zufließen, die nicht anlässlich der Liquidation der Tochtergesellschaft ausgeschüttet werden, der Mitgliedstaat der Muttergesellschaft und der Mitgliedstaat der Betriebstätte diese Gewinne nicht besteuern oder im Fall einer Besteuerung zulassen, dass die Muttergesellschaft und die Betriebstätte auf die geschuldete Steuer den Steuerteilbetrag, den die Tochtergesellschaft und jegliche Enkelgesellschaft für diesen Gewinn entrichten, bis zur Höhe der entsprechenden Steuerschuld anrechnen können.
+
+72
+
+Jedoch bestimmt Art. 4 Abs. 3 der Richtlinie, dass die Mitgliedstaaten bestimmen können, dass Kosten der Beteiligung an der Tochtergesellschaft und Minderwerte, die sich aufgrund der Ausschüttung ihrer Gewinne ergeben, nicht vom steuerpflichtigen Gewinn der Muttergesellschaft abgesetzt werden können. Außerdem geht aus dieser Vorschrift hervor, dass wenn in diesem Fall die mit der Beteiligung zusammenhängenden Verwaltungskosten pauschal festgesetzt werden, der Pauschalbetrag 5 % der von der Tochtergesellschaft ausgeschütteten Gewinne nicht übersteigen darf.
+
+73
+
+Art. 4 der Richtlinie soll somit verhindern, dass die von einer gebietsfremden Tochtergesellschaft an eine gebietsansässige Muttergesellschaft ausgeschütteten Gewinne zunächst bei der Tochtergesellschaft in deren Sitzstaat und dann bei der Muttergesellschaft in deren Sitzstaat besteuert werden.
+
+74
+
+Im vorliegenden Fall ist zum einen darauf hinzuweisen, dass aus der Vorlageentscheidung hervorgeht, dass sich das Königreich Belgien bei der Umsetzung der Mutter-Tochter-Richtlinie für das Befreiungssystem entschieden hat. Außerdem hat dieser Mitgliedstaat von der in Art. 4 Abs. 3 dieser Richtlinie vorgesehenen Möglichkeit Gebrauch gemacht. Die von gebietsfremden Tochtergesellschaften belgischer Muttergesellschaften stammenden Gewinne sind somit in Höhe von 95 % steuerbefreit.
+
+75
+
+Zum anderen steht fest, dass die Fairness Tax in dem Fall, dass die von einer gebietsfremden Tochtergesellschaft an eine gebietsansässige Muttergesellschaft ausgeschütteten Gewinne von dieser Muttergesellschaft nach Ablauf des Jahres, in dem ihr diese Gewinne zugeflossen sind, ausgeschüttet werden, zur Folge hat, dass diese Gewinne einer Besteuerung unterworfen werden, die den in diesem Art. 4 Abs. 3 vorgesehenen Höchstbetrag von 5 % übersteigt, und somit zu einer Doppelbesteuerung dieser Gewinne führt.
+
+76
+
+Somit stellt sich die Frage, ob eine solche Doppelbesteuerung gegen die Mutter-Tochter-Richtlinie verstößt.
+
+77
+
+Nach Ansicht der belgischen und der französischen Regierung fallen die von einer Muttergesellschaft an ihre Anteilseigner weiterausgeschütteten Gewinne nicht in den Anwendungsbereich von Art. 4 Abs. 1 Buchst. a der Mutter-Tochter-Richtlinie, da diese Vorschrift nur anwendbar sei, wenn einer Muttergesellschaft Gewinne zuflössen, die von ihrer Tochtergesellschaft ausgeschüttet würden.
+
+78
+
+Einer solchen Auslegung, die sich weder aus dem Wortlaut dieser Vorschrift noch aus deren Kontext oder Zweck ergibt, kann nicht gefolgt werden.
+
+79
+
+Erstens untersagt diese Vorschrift den Mitgliedstaaten nämlich, indem sie vorsieht, dass der Mitgliedstaat der Muttergesellschaft und der Mitgliedstaat der Betriebstätte „diese Gewinne nicht besteuern“, die Muttergesellschaft oder deren Betriebstätte wegen der von der Tochtergesellschaft an ihre Muttergesellschaft ausgeschütteten Gewinne zu besteuern, ohne dass danach unterschieden würde, ob der die Besteuerung der Muttergesellschaft auslösende Tatbestand im Zufluss dieser Gewinne oder in deren Weiterausschüttung besteht.
+
+80
+
+Zweitens zielt die Mutter-Tochter-Richtlinie, wie in den Rn. 70 und 71 des vorliegenden Urteils ausgeführt, darauf ab, die Doppelbesteuerung der von einer Tochtergesellschaft an ihre Muttergesellschaft ausgeschütteten Gewinne auf Ebene der Muttergesellschaft zu beseitigen. Eine Besteuerung dieser Gewinne durch den Mitgliedstaat der Muttergesellschaft bei dieser anlässlich der Weiterausschüttung dieser Gewinne, die zur Folge hat, dass diese Gewinne einer Besteuerung unterliegen, die tatsächlich den in Art. 4 Abs. 3 dieser Richtlinie vorgesehenen Höchstbetrag von 5 % übersteigt, würde aber zu einer nach der genannten Richtlinie verbotenen Doppelbesteuerung auf Ebene der Muttergesellschaft führen.
+
+81
+
+Diese Feststellung wird, wie die Generalanwältin in Nr. 54 ihrer Schlussanträge im Kern ausgeführt hat, nicht durch Rn. 105 des Urteils vom 12. Dezember 2006, Test Claimants in the FII Group Litigation (C‑446/04, EU:C:2006:774), in Frage gestellt, da sich der Gerichtshof in dieser Randnummer nur dazu geäußert hat, ob bestimmte Modalitäten der Berechnung der Höhe der Körperschaftsteuervorauszahlung in dem Fall, dass eine gebietsansässige Muttergesellschaft Dividenden, die ihr von einer gebietsfremden Tochtergesellschaft zugeflossen sind, weiterausschüttet, mit der Mutter-Tochter-Richtlinie vereinbar sind, und nicht dazu, ob die Körperschaftsteuervorauszahlung in einem solchen Fall mit dieser Richtlinie vereinbar ist.
+
+82
+
+Auf die dritte Frage ist daher zu antworten, dass Art. 4 Abs. 1 Buchst. a der Mutter-Tochter-Richtlinie in Verbindung mit Art. 4 Abs. 3 dieser Richtlinie dahin auszulegen ist, dass er einer nationalen Steuerregelung wie der im Ausgangsverfahren in Rede stehenden entgegensteht, soweit diese Regelung in einer Situation, in der die Gewinne, die einer Muttergesellschaft von ihrer Tochtergesellschaft zufließen, von dieser Muttergesellschaft nach Ablauf des Jahres, in dem ihr diese Gewinne zugeflossen sind, ausgeschüttet werden, zur Folge hat, dass diese Gewinne einer Besteuerung unterworfen werden, die den in dieser Vorschrift vorgesehenen Höchstbetrag von 5 % übersteigt.
+
+Kosten
+
+83
+
+Für die Parteien der Ausgangsverfahren ist das Verfahren ein Zwischenstreit in den beim vorlegenden Gericht anhängigen Rechtsstreitigkeiten; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Erste Kammer) für Recht erkannt:
+
+ 	
+1.
+
+Die Niederlassungsfreiheit ist dahin auszulegen, dass sie einer Steuerregelung eines Mitgliedstaats wie der im Ausgangsverfahren in Rede stehenden – nach der sowohl eine gebietsfremde Gesellschaft, die in diesem Mitgliedstaat eine Tätigkeit über eine Betriebsstätte ausübt, als auch eine gebietsansässige Gesellschaft, einschließlich der gebietsansässigen Tochtergesellschaft einer gebietsfremden Gesellschaft, einer Steuer wie der Fairness Tax unterliegen, wenn sie Dividenden ausschütten, die aufgrund der Anwendung bestimmter, im nationalen Steuerrecht vorgesehener Steuervergünstigungen nicht in ihrem endgültigen steuerpflichtigen Ergebnis enthalten sind – nicht entgegensteht, vorausgesetzt, die Art und Weise der Ermittlung der Bemessungsgrundlage dieser Steuer hat nicht tatsächlich zur Folge, dass die gebietsfremde Gesellschaft weniger günstig behandelt wird als eine gebietsansässige Gesellschaft, was zu prüfen Sache des vorlegenden Gerichts ist.
+
+ 	
+2.
+
+Art. 5 der Richtlinie 2011/96/EU des Rates vom 30. November 2011 über das gemeinsame Steuersystem der Mutter- und Tochtergesellschaften verschiedener Mitgliedstaaten ist dahin auszulegen, dass er einer Steuerregelung eines Mitgliedstaats wie der im Ausgangsverfahren in Rede stehenden – die eine Steuer wie die Fairness Tax vorsieht, der sowohl die gebietsfremden Gesellschaften, die in diesem Mitgliedstaat eine Tätigkeit über eine Betriebsstätte ausüben, als auch die gebietsansässigen Gesellschaften, einschließlich der gebietsansässigen Tochtergesellschaft einer gebietsfremden Gesellschaft, unterliegen, wenn sie Dividenden ausschütten, die aufgrund der Anwendung bestimmter, im nationalen Steuerrecht vorgesehener Steuervergünstigungen nicht in ihrem endgültigen steuerpflichtigen Ergebnis enthalten sind – nicht entgegensteht.
+
+ 	
+3.
+
+Art. 4 Abs. 1 Buchst. a der Richtlinie 2011/96 in Verbindung mit Art. 4 Abs. 3 dieser Richtlinie ist dahin auszulegen, dass er einer nationalen Steuerregelung wie der im Ausgangsverfahren in Rede stehenden entgegensteht, soweit diese Regelung in einer Situation, in der die Gewinne, die einer Muttergesellschaft von ihrer Tochtergesellschaft zufließen, von dieser Muttergesellschaft nach Ablauf des Jahres, in dem ihr diese Gewinne zugeflossen sind, ausgeschüttet werden, zur Folge hat, dass diese Gewinne einer Besteuerung unterworfen werden, die den in dieser Vorschrift vorgesehenen Höchstbetrag von 5 % übersteigt.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Niederländisch.

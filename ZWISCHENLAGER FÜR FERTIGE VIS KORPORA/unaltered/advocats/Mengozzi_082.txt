@@ -1,0 +1,375 @@
+URTEIL DES GERICHTSHOFS (Sechste Kammer)
+
+15. Juni 2017 ( *1 )
+
+„Vorlage zur Vorabentscheidung — Richtlinie 97/67/EG — Art. 9 — Freier Dienstleistungsverkehr — Postdienste — Begriffe Universaldienst und Grundanforderungen — Allgemein‑ und Einzelgenehmigungen — Genehmigung zur Erbringung von Postdiensten zur Durchführung von individuell ausgehandelten Verträgen — Auferlegte Bedingungen“
+
+In der Rechtssache C‑368/15
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Korkein hallinto‑oikeus (Oberstes Verwaltungsgericht, Finnland) mit Entscheidung vom 10. Juli 2015, beim Gerichtshof eingegangen am 14. Juli 2015, in dem Verfahren auf Antrag von
+
+Ilves Jakelu Oy,
+
+Beteiligter:
+
+Liikenne‑ ja viestintäministeriö,
+
+erlässt
+
+DER GERICHTSHOF (Sechste Kammer)
+
+unter Mitwirkung des Kammerpräsidenten E. Regan sowie der Richter A. Arabadjiev (Berichterstatter) und C. G. Fernlund,
+
+Generalanwalt: P. Mengozzi,
+
+Kanzler: A. Calot Escobar,
+
+aufgrund des schriftlichen Verfahrens,
+
+unter Berücksichtigung der Erklärungen
+
+—
+
+der Ilves Jakelu Oy, vertreten durch H. Piekkala und I. Aalto‑Setälä, asianajajat,
+
+—
+
+der finnischen Regierung, vertreten durch H. Leppo als Bevollmächtigte,
+
+—
+
+der italienischen Regierung, vertreten durch G. Palmieri als Bevollmächtigte im Beistand von S. Fiorentino, avvocato dello Stato,
+
+—
+
+der polnischen Regierung, vertreten durch B. Majczyna als Bevollmächtigten,
+
+—
+
+der norwegischen Regierung, vertreten durch I. Thue und C. Rydning als Bevollmächtigte,
+
+—
+
+der Europäischen Kommission, vertreten durch P. Costa de Oliveira und P. Aalto als Bevollmächtigte,
+
+aufgrund des nach Anhörung des Generalanwalts ergangenen Beschlusses, ohne Schlussanträge über die Rechtssache zu entscheiden,
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung der Richtlinie 97/67/EG des Europäischen Parlaments und des Rates vom 15. Dezember 1997 über gemeinsame Vorschriften für die Entwicklung des Binnenmarktes der Postdienste der Gemeinschaft und die Verbesserung der Dienstequalität (ABl. 1998, L 15, S. 14) in der durch die Richtlinie 2008/6/EG des Europäischen Parlaments und des Rates vom 20. Februar 2008 (ABl. 2008, L 52, S. 3) geänderten Fassung (im Folgenden: Richtlinie 97/67).
+
+2
+
+Dieses Ersuchen ergeht im Rahmen einer Beschwerde der Ilves Jakelu Oy gegen den Bescheid des Valtioneuvosto (Staatsrat, Finnland) vom 30. Januar 2017, mit dem eine Postlizenz an die Erfüllung bestimmter Anforderungen geknüpft wird.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+3
+
+Der 15. Erwägungsgrund der Richtlinie 97/67 lautet:
+
+„Die in dieser Richtlinie enthaltenen Bestimmungen über das Universaldienstangebot berühren nicht das Recht der Betreiber von Universaldiensten, Verträge mit den Kunden individuell auszuhandeln.“
+
+4
+
+Art. 2 dieser Richtlinie sieht vor:
+
+„Im Sinne dieser Richtlinie bedeutet:
+
+…
+
+13.
+
+‚Universaldiensteanbieter‘ einen öffentlichen oder privaten Postdiensteanbieter, der in einem Mitgliedstaat die Leistungen des Universalpostdienstes ganz oder teilweise erbringt und dessen Identität der Kommission gemäß Artikel 4 mitgeteilt wurde;
+
+14.
+
+‚Genehmigung‘ jede Erlaubnis, in der für den Postsektor spezielle Rechte und Verpflichtungen festgelegt werden und in der Unternehmen gestattet wird, Postdienste zu erbringen und gegebenenfalls ihre Netze für die Bereitstellung derartiger Dienste zu errichten und/oder zu betreiben, und die in Form einer ‚Allgemeingenehmigung‘ oder ‚Einzelgenehmigung‘ entsprechend den nachstehenden Definitionen erteilt wird;
+
+—
+
+‚Allgemeingenehmigung‘ ungeachtet einer Verpflichtung zu Registrierungs‑ oder Meldeverfahren jede Genehmigung, die aufgrund einer ‚Gruppengenehmigung‘ oder aufgrund allgemeiner Rechtsvorschriften einen Postdiensteanbieter davon entbindet, vor der Ausübung der aus der Genehmigung herrührenden Rechte die ausdrückliche Zustimmung der nationalen Regulierungsbehörde einzuholen;
+
+—
+
+‚Einzelgenehmigung‘ eine durch eine nationale Regulierungsbehörde erteilte Genehmigung, die einem Postdiensteanbieter bestimmte Rechte verleiht oder die Tätigkeit des Unternehmens bestimmten Verpflichtungen, gegebenenfalls in Ergänzung der Allgemeingenehmigung, unterwirft, sofern der Postdiensteanbieter die entsprechenden Rechte ohne Zustimmung der nationalen Regulierungsbehörde nicht ausüben kann;
+
+…
+
+19.
+
+‚Grundanforderungen‘ die im allgemeinen Interesse liegenden Gründe nichtwirtschaftlicher Art, die einen Mitgliedstaat veranlassen können, für die Erbringung von Postdiensten Bedingungen vorzuschreiben. Diese Gründe sind die Vertraulichkeit der Sendungen, die Sicherheit des Netzes bei der Beförderung gefährlicher Stoffe, die Beachtung von Beschäftigungsbedingungen und Systemen der sozialen Sicherheit, die gemäß den gemeinschaftlichen und nationalen Rechtsvorschriften durch Rechts‑ oder Verwaltungsvorschriften und/oder Tarifverträge, die zwischen den nationalen Sozialpartnern ausgehandelt wurden, geschaffen wurden, sowie in begründeten Fällen der Datenschutz, der Umweltschutz und die Raumplanung. Der Datenschutz kann den Schutz personenbezogener Daten, die Vertraulichkeit übermittelter oder gespeicherter Informationen sowie den Schutz der Privatsphäre umfassen;
+
+…“
+
+5
+
+Kapitel 2 der Richtlinie 97/67 regelt den Universaldienst. Art. 3 der Richtlinie bestimmt:
+
+„(1)   Die Mitgliedstaaten stellen sicher, dass den Nutzern ein Universaldienst zur Verfügung steht, der ständig flächendeckend postalische Dienstleistungen einer bestimmten Qualität zu tragbaren Preisen für alle Nutzer bietet.
+
+…
+
+(4)   Jeder Mitgliedstaat erlässt die erforderlichen Maßnahmen, damit der Universaldienst mindestens folgendes Angebot umfasst:
+
+—
+
+Abholung, Sortieren, Transport und Zustellung von Postsendungen bis 2 kg;
+
+—
+
+Abholung, Sortieren, Transport und Zustellung von Postpaketen bis 10 kg;
+
+—
+
+die Dienste für Einschreib‑ und Wertsendungen.“
+
+6
+
+Art. 9 der Richtlinie 97/67 sieht vor:
+
+„(1)   Für Dienste, die nicht zum Universaldienst gehören, können die Mitgliedstaaten Allgemeingenehmigungen einführen, soweit diese erforderlich sind, um die Erfüllung der Grundanforderungen zu gewährleisten.
+
+(2)   Für Dienste, die zum Universaldienst gehören, können die Mitgliedstaaten Genehmigungsverfahren einschließlich Einzelgenehmigungen einführen, soweit diese erforderlich sind, um die Erfüllung der Grundanforderungen zu gewährleisten und die Bereitstellung des Universaldienstes zu gewährleisten.
+
+Die Bewilligung der Genehmigungen kann
+
+—
+
+mit Universaldienstverpflichtungen verknüpft werden;
+
+—
+
+erforderlichenfalls und in begründeten Fällen Anforderungen in Bezug auf Qualität, Verfügbarkeit und Leistungsfähigkeit der betreffenden Dienste vorsehen;
+
+—
+
+gegebenenfalls an die Verpflichtung gebunden sein, einen finanziellen Beitrag zu den in Artikel 7 aufgeführten Ausgleichsmechanismen zu leisten, wenn die Erbringung des Universaldienstes dem/den gemäß Artikel 4 benannten Universaldiensteanbieter(n) Nettokosten verursacht und für ihn/sie eine unverhältnismäßige Belastung darstellt;
+
+—
+
+gegebenenfalls an die Verpflichtung gebunden sein, einen finanziellen Beitrag zu den betrieblichen Aufwendungen der in Artikel 22 genannten nationalen Regulierungsbehörde zu leisten;
+
+—
+
+gegebenenfalls von den in den nationalen Rechtsvorschriften festgelegten Arbeitsbedingungen abhängig gemacht werden oder eine Verpflichtung zu deren Einhaltung auferlegen.
+
+Die im ersten Gedankenstrich und in Artikel 3 genannten Verpflichtungen und Anforderungen können nur benannten Universaldiensteanbietern auferlegt werden.
+
+Außer im Falle von Unternehmen, die gemäß Artikel 4 als Universaldiensteanbieter benannt wurden, dürfen Genehmigungen nicht
+
+—
+
+zahlenmäßig beschränkt sein;
+
+—
+
+dazu führen, dass für die gleichen Elemente eines Universaldienstes oder Teile des Hoheitsgebiets Universaldienstverpflichtungen und gleichzeitig finanzielle Beiträge zu einem Ausgleichsmechanismus auferlegt werden;
+
+—
+
+zu Parallelauflagen für Unternehmen aufgrund anderer, nicht sektorspezifischer nationaler Rechtsvorschriften führen;
+
+—
+
+mit anderen technischen oder betrieblichen Auflagen verbunden sein als denen, die zur Erfüllung der Verpflichtungen dieser Richtlinie erforderlich sind.
+
+(3)   Die in den Absätzen 1 und 2 genannten Verfahren, Verpflichtungen und Auflagen müssen transparent, zugänglich, nichtdiskriminierend, verhältnismäßig, präzise und eindeutig sein, vorab der Öffentlichkeit zugänglich gemacht werden und auf objektiven Kriterien beruhen. Die Mitgliedstaaten stellen sicher, dass die Gründe für die völlige oder teilweise Verweigerung oder Zurücknahme einer Genehmigung dem Antragsteller mitgeteilt werden; sie legen ein Rechtsbehelfsverfahren fest.“
+
+7
+
+Im 33. Erwägungsgrund der Richtlinie 2008/6 heißt es:
+
+„Die Mitgliedstaaten sollten die Möglichkeit erhalten, Allgemein‑ und Einzelgenehmigungen zu erteilen, wenn dies im Verhältnis zum verfolgten Ziel gerechtfertigt und angemessen ist. …“
+
+Finnisches Recht
+
+8
+
+Gemäß § 1 Abs. 1 des Postilaki (415/2011) in seiner für das Ausgangsverfahren maßgeblichen Fassung (im Folgenden: Gesetz 415/2011) ist dessen Zweck, die Verfügbarkeit der Postdienste, insbesondere des Universaldienstes, zu gleichen Bedingungen im gesamten Land zu gewährleisten.
+
+9
+
+Nach § 3 des Gesetzes 415/2011 ist für eine Posttätigkeit, die Briefsendungen umfasst, eine Genehmigung erforderlich. Nach § 4 Abs. 1 dieses Gesetzes ist die Genehmigung für das Anbieten eines Postdienstes beim Staatsrat zu beantragen. Ihre Erteilung führt nicht zur Veröffentlichung einer Bekanntmachung.
+
+10
+
+Gemäß § 6 des Gesetzes 415/2011 ist die Genehmigung zu erteilen, wenn
+
+„1.
+
+der Antragsteller eine Gesellschaft oder eine Personenvereinigung ist, die über ausreichende Finanzmittel verfügt, um den Verpflichtungen eines Postunternehmens nachzukommen;
+
+2.
+
+es keinen Grund gibt, der Zweifel an der Fähigkeit des Antragstellers rechtfertigt, die für die Posttätigkeit anwendbaren Bestimmungen und Vorgaben zu beachten;
+
+3.
+
+der Antragsteller die Fähigkeit hat, einen regelmäßigen Betrieb entsprechend der Genehmigung sicherzustellen;
+
+4.
+
+das Hoheitsgebiet, das unter die beantragte Genehmigung fällt, die Voraussetzungen gemäß § 7 erfüllt;
+
+5.
+
+der Staatsrat keine besonderen Gründe zur Annahme hat, dass die Erteilung der Genehmigung eine ernste Gefahr für die nationale Sicherheit darstellen könnte.“
+
+11
+
+§ 9 des Gesetzes 415/2011 bezieht sich auf den Inhalt der Genehmigung. Nach § 9 Abs. 2 Nr. 5 hat der Staatsrat die Genehmigung mit Auflagen zu versehen, die die Vorschriften dieses Gesetzes oder die aufgrund dieses Gesetzes erlassenen Regelungen ergänzen und mit den in § 9 Abs. 2 Nrn. 1 bis 4 genannten Bedingungen vergleichbare andere Bedingungen betreffen, die zur Gewährleistung der Qualität, Verfügbarkeit und Leistungsfähigkeit der Dienste notwendig sein können.
+
+Ausgangsverfahren und Vorlagefragen
+
+12
+
+Mit Beschluss vom 30. Januar 2014 erteilte der Staatsrat Ilves Jakelu eine Genehmigung, nach der sie berechtigt ist, eine Briefsendungen umfassende Posttätigkeit im Sinne des § 3 des Gesetzes 415/2011 durchzuführen. Auflage 1 dieser Genehmigung zählt die Gemeinden des finnischen Hoheitsgebiets auf, für die die beantragte Genehmigung gilt. Nach Auflage 2 dieser Genehmigung, die den Umfang der Tätigkeit betrifft, ist Ilves Jakelu berechtigt, in diesem Gebiet eine an Vertragskunden gerichtete unbeschränkte Posttätigkeit auszuüben.
+
+13
+
+Die Auflagen 4 bis 8 dieser Genehmigung sollen die Qualität, Verfügbarkeit und Leistungsfähigkeit der Postdienste gewährleisten. Nach Auflage 4 dieser Genehmigung hat Ilves Jakelu die Zustellungsbedingungen zu erstellen, bevor sie die Postzustellungsdienste aufnimmt. Nach Auflage 5 der durch den Beschluss vom 30. Januar 2014 erteilten Genehmigung hat Ilves Jakelu dafür zu sorgen, dass diese Dienste in der Weise organisiert werden, dass die aufgegebenen Sendungen mindestens einmal pro Woche, Feiertage ausgenommen, zugestellt werden. Nach Auflage 6 dieser Genehmigung hat Ilves Jakelu einen Zustellungsunterbrechungs‑ und Adressänderungsservice einzurichten. Gemäß Auflage 7 der genannten Genehmigung muss Ilves Jakelu ihre Sendungen so kennzeichnen, dass diese identifizierbar und von ähnlichen von anderen Genehmigungsinhabern beförderten Sendungen unterscheidbar sind. Nach Auflage 8 derselben Genehmigung hat Ilves Jakelu für die Abholung von Briefsendungen im Sinne des § 47 des Gesetzes 415/2011 und die Rücksendung fehlerhaft zugestellter Sendungen mindestens eine Abholungsstelle in jeder Gemeinde des von der Genehmigung erfassten Gebiets einzurichten.
+
+14
+
+Nach Ansicht von Ilves Jakelu verstößt § 9 des Gesetzes 415/2011 gegen die Richtlinie 97/67, weil er keine Regelung über die Erteilung von Allgemeingenehmigungen enthalte und weil auf seiner Grundlage Genehmigungen auch an andere als den Grundanforderungen entsprechende Bedingungen geknüpft werden könnten, die nicht zum Universaldienst gehörende Dienste beträfen.
+
+15
+
+Das Ausgangsverfahren betrifft die Frage, ob der Staatsrat die Erteilung der Ilves Jakelu gewährten Genehmigung von der Erfüllung der Auflagen 4 bis 8 abhängig machen durfte. Nach Meinung des finnischen Staatsrats sind diese Auflagen zur Gewährleistung der Qualität, der Verfügbarkeit und der Leistungsfähigkeit der von der Genehmigung erfassten Postdienste erforderlich.
+
+16
+
+Unter diesen Umständen hat der Korkein hallinto‑oikeus (Oberstes Verwaltungsgericht, Finnland) das Verfahren ausgesetzt und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorgelegt:
+
+1.
+
+Ist bei der Auslegung des Art. 9 der Richtlinie 97/67 die Zustellung von Postsendungen von Vertragskunden als nicht zum Universaldienst gehörender Dienst im Sinne des Abs. 1 dieser Vorschrift oder als zum Universaldienst gehörender Dienst im Sinne des Abs. 2 anzusehen, wenn das Postunternehmen die Bedingungen der Zustellung mit seinen Kunden vereinbart und den Kunden eine gesondert vereinbarte Gebühr in Rechnung stellt?
+
+2.
+
+Handelt es sich bei einer solchen Zustellung von Postsendungen von Vertragskunden um einen nicht zum Universaldienst gehörenden Dienst, sind dann Art. 9 Abs. 1 und Art. 2 Nr. 14 der Richtlinie 97/67 dahin auszulegen, dass das Anbieten derartiger Postdienste unter ähnlichen Umständen wie denen des Ausgangsverfahrens an eine Einzelgenehmigung, wie sie im Postgesetz vorgesehen ist, geknüpft werden kann?
+
+3.
+
+Handelt es sich bei einer solchen Zustellung von Postsendungen von Vertragskunden um einen nicht zum Universaldienst gehörenden Dienst, ist dann Art. 9 Abs. 1 dahin auszulegen, dass eine Genehmigung, die diese Dienste betrifft, nur an Auflagen zur Gewährleistung der Erfüllung der Grundanforderungen im Sinne von Art. 2 Nr. 19 der Richtlinie 97/67 geknüpft werden kann und dass an Genehmigungen, die diese Dienste betreffen, keine Auflagen in Bezug auf Qualität, Verfügbarkeit und Leistungsfähigkeit der betreffenden Dienste im Sinne von Art. 9 Abs. 2 dieser Richtlinie geknüpft werden können?
+
+4.
+
+Können Genehmigungen, die die Zustellung von Postsendungen von Vertragskunden betreffen, nur an Auflagen zur Gewährleistung der Erfüllung der Grundanforderungen geknüpft werden, können dann Auflagen wie die im Ausgangsverfahren in Rede stehenden, die die Zustellungsbedingungen des Postdienstes, die Häufigkeit der Zustellung der Sendungen, den Adressänderungs‑ und Zustellungsunterbrechungsservice, die Kennzeichnung der Sendungen und die Abholungsstellen betreffen, als den Grundanforderungen im Sinne von Art. 2 Nr. 19 der Richtlinie 97/67 entsprechend und als erforderlich, um die Erfüllung der Grundanforderungen zu gewährleisten, im Sinne von Art. 9 Abs. 1 dieser Richtlinie angesehen werden?
+
+Würdigung durch den Gerichtshof
+
+Zur ersten und zur zweiten Frage
+
+17
+
+Mit seinen ersten beiden Fragen, die zusammen zu prüfen sind, möchte das vorlegende Gericht im Wesentlichen wissen, ob Art. 9 Abs. 1 der Richtlinie 97/67 dahin auszulegen ist, dass eine Postsendungsdienstleistung wie die im Ausgangsverfahren in Rede stehende nicht zum Universaldienst gehört, wenn das Postunternehmen, das sie erbringt, die Bedingungen der Zustellung mit seinen Kunden vereinbart und den Kunden eine vereinbarte Gebühr in Rechnung stellt. Das Gericht fragt sich, ob die Leistung derartiger Postdienste unter Umständen wie denen des Ausgangsverfahrens dann an die Erteilung einer Einzelgenehmigung geknüpft werden kann.
+
+18
+
+Um erstens klären zu können, ob die Erbringung der Dienstleistung der Verteilung von Postsendungen von Kunden, mit denen ein Vertrag abgeschlossen wurde, wie der im Ausgangsverfahren in Rede stehenden unter diese Bestimmung oder aber unter Art. 9 Abs. 2 der Richtlinie fällt, ist vorab zu klären, ob dieser Dienst unter den Begriff „Universaldienst“ im Sinne des Art. 3 dieser Richtlinie fällt. Das vorlegende Gericht hat somit zu prüfen, ob die von Ilves Jakelu ausgeübten Tätigkeiten, die von ihrem Antrag auf Genehmigung erfasst werden, den hierfür in der Richtlinie 97/67 festgelegten Kriterien entsprechen.
+
+19
+
+Zum einen ergibt sich aus Art. 2 Nr. 13 dieser Richtlinie, dass ein Universaldiensteanbieter eine öffentliche oder private Einrichtung ist, die in einem Mitgliedstaat die Leistungen des Universalpostdienstes ganz oder teilweise erbringt und deren Identität der Kommission mitgeteilt wurde.
+
+20
+
+Zum anderen bietet ein Universaldienst gemäß Art. 3 Abs. 1 der Richtlinie 97/67 ständig flächendeckend postalische Dienstleistungen einer bestimmten Qualität zu tragbaren Preisen für alle Nutzer an.
+
+21
+
+Unter den Gesichtspunkten, die hierbei berücksichtigt werden können, ist der vom vorlegenden Gericht angeführte Umstand, dass Ilves Jakelu keine Verpflichtung auferlegt wurde, einen Universaldienst zur Verfügung zu stellen. Diese Feststellung ergibt sich auch aus der schriftlichen Stellungnahme der finnischen Regierung, nach der Ilves Jakelu nicht der Universaldiensteanbieter im Sinne des Art. 2 Nr. 13 der Richtlinie 97/67 sei, dessen Name der Kommission mitgeteilt worden sei.
+
+22
+
+Das Gleiche gilt für den Umstand, dass Ilves Jakelu eine Postlizenz für die Erbringung von Postdiensten im Hoheitsgebiet bestimmter Gemeinden beantragt hat. Wie nämlich in Rn. 20 des vorliegenden Urteils ausgeführt wurde, ist der Universalpostdienst flächendeckend anzubieten.
+
+23
+
+Ferner hat die finnische Regierung in ihrer schriftlichen Stellungnahme ausgeführt, dass Ilves Jakelu seine Dienste nur Kunden anbiete, mit denen sie geschäftliche Vereinbarungen getroffen habe. Tatsächlich ergibt sich aus dem Vorabentscheidungsersuchen, dass der Betrag, der für die von dieser Gesellschaft angebotenen Postdienste geschuldet wird, gesondert ausgehandelt und in Rechnung gestellt wird.
+
+24
+
+In diesem Zusammenhang ist daran zu erinnern, dass sich Kurierdienste vom postalischen Universaldienst durch einen Mehrwert für die Kunden unterscheiden, für den die Kunden bereitwillig mehr zahlen. Bei derartigen Dienstleistungen handelt es sich um spezifische, von den Dienstleistungen von allgemeinem Interesse trennbare Dienstleistungen, die besonderen Bedürfnissen von Wirtschaftsteilnehmern entsprechen und bestimmte zusätzliche Leistungen verlangen, die der herkömmliche Postdienst nicht anbietet (vgl. in diesem Sinne Urteil vom 19. Mai 1993, Corbeau, C‑320/91, EU:C:1993:198, Rn. 19).
+
+25
+
+Ferner ergibt sich aus dem 15. Erwägungsgrund der Richtlinie 97/67, dass die Möglichkeit, Verträge mit den Kunden individuell auszuhandeln, von vornherein nicht dem Begriff des Universaldienstangebots entspricht (Urteil vom 23. April 2009, TNT Post UK, C‑357/07, EU:C:2009:248, Rn. 48).
+
+26
+
+Daher ist Art. 9 Abs. 1 dieser Richtlinie dahin auszulegen, dass eine Tätigkeit der Zustellung von Postsendungen wie die des Ausgangsverfahrens als ein Dienst anzusehen ist, der nicht unter den Universaldienst fällt, wenn mit ihr nicht ständig flächendeckend postalische Dienstleistungen einer bestimmten Qualität zu tragbaren Preisen für alle Nutzer geboten werden, was vom vorlegenden Gericht zu überprüfen ist.
+
+27
+
+Was zweitens die Frage betrifft, ob die im Ausgangsverfahren streitige Tätigkeit an die Erteilung einer Einzelgenehmigung geknüpft werden kann, ist daran zu erinnern, dass Art. 9 Abs. 1 der Richtlinie 97/67 den Mitgliedstaaten gestattet, nicht zum Universaldienst gehörende Dienste von Unternehmen des Postsektors von Allgemeingenehmigungen abhängig zu machen, während Art. 9 Abs. 2 Unterabs. 1 der Richtlinie die Möglichkeit für die Mitgliedstaaten vorsieht, für Dienste, die zum Universaldienst gehören, Genehmigungsverfahren einschließlich Einzelgenehmigungen einzuführen (vgl. in diesem Sinne Urteil vom 16. November 2016, DHL Express [Austria], C‑2/15, EU:C:2016:880, Rn. 20).
+
+28
+
+Selbst wenn sich aus dem 33. Erwägungsgrund der Richtlinie 2008/6 ergibt, dass die Mitgliedstaaten die Möglichkeit erhalten sollten, Allgemein‑ und Einzelgenehmigungen zu erteilen, wenn dies im Verhältnis zum verfolgten Ziel gerechtfertigt und angemessen ist, sieht Art. 9 Abs. 1 der Richtlinie 97/67, anders als Art. 9 Abs. 2, gleichwohl nicht die Möglichkeit vor, die Erbringung von Postdiensten an eine Einzelgenehmigung zu knüpfen.
+
+29
+
+Unter diesen Umständen ist festzustellen, dass die Erbringung solcher Dienste nur der Erteilung einer Allgemeingenehmigung im Sinne des Art. 2 Nr. 14 dieser Richtlinie unterworfen werden kann.
+
+30
+
+Nach alledem ist auf die erste und zweite Frage zu antworten, dass Art. 9 Abs. 1 der Richtlinie 97/67 dahin auszulegen ist, dass eine Postsendungsdienstleistung wie die im Ausgangsverfahren in Rede stehende nicht zum Universaldienst gehört, wenn sie nicht ständig flächendeckend postalische Dienstleistungen einer bestimmten Qualität zu tragbaren Preisen für alle Nutzer bietet. Die Erbringung von Postsendungsdienstleistungen, die nicht zum Universaldienst gehören, kann nur an die Erteilung einer Allgemeingenehmigung geknüpft werden.
+
+Zur dritten Frage
+
+31
+
+Mit seiner dritten Frage will das vorlegende Gericht im Wesentlichen wissen, ob Art. 9 Abs. 1 der Richtlinie 97/67 dahin auszulegen ist, dass die Erbringung von Postdiensten, die nicht zum Universaldienst gehören, an Anforderungen wie die in Art. 9 Abs. 2 Unterabs. 2 zweiter Gedankenstrich dieser Richtlinie geknüpft werden kann.
+
+32
+
+Der Gerichtshof hatte über diese Frage jedoch bereits im Urteil vom 16. November 2016, DHL Express (Austria) (C‑2/15, EU:C:2016:880), zu entscheiden, und seine dort gegebene Antwort gilt auch für die vorliegende Rechtssache.
+
+33
+
+Denn in Rn. 26 dieses Urteils stellte der Gerichtshof fest, dass Art. 9 Abs. 2 Unterabs. 2 zweiter Gedankenstrich der Richtlinie 97/67 den Mitgliedstaaten gestattet, bei der Bewilligung der Genehmigungen die Einhaltung von Anforderungen in Bezug auf Qualität, Verfügbarkeit und Leistungsfähigkeit der betreffenden Dienste vorzusehen. Er war der Ansicht, dass in Ermangelung näherer Angaben zu den von dieser Verpflichtung betroffenen Diensten hervorzuheben ist, dass sich aus den Vorarbeiten zur Richtlinie 2008/6 ergibt, dass der Unionsgesetzgeber nicht nur die letzten Hindernisse für die vollständige Marktöffnung mit Blick auf bestimmte Universaldiensteanbieter, sondern auch alle sonstigen Hindernisse für die Erbringung von Postdiensten beseitigen wollte. Der Gerichtshof hat daraus geschlossen, dass sich mangels gegenteiliger Anhaltspunkte und unter Berücksichtigung der Natur der betreffenden Verpflichtung ergibt, dass alle Postdiensteanbieter der Verpflichtung gemäß Art. 9 Abs. 2 Unterabs. 2 zweiter Gedankenstrich der Richtlinie 97/67 unterworfen werden können.
+
+34
+
+Unter diesen Umständen ist auf die dritte Frage zu antworten, dass Art. 9 Abs. 1 der Richtlinie 97/67 dahin auszulegen ist, dass die Erbringung von Postdiensten, die nicht zum Universaldienst gehören, an Anforderungen wie die in Art. 9 Abs. 2 Unterabs. 2 zweiter Gedankenstrich dieser Richtlinie geknüpft werden kann.
+
+Zur vierten Frage
+
+35
+
+Die vierte Frage ist so zu verstehen, dass sie nur für den Fall gestellt wird, dass Art. 9 Abs. 1 der Richtlinie 97/67 dahin ausgelegt wird, dass eine Genehmigung für die Erbringung von Postdiensten, die nicht unter den Universaldienst fallen, nur an Auflagen zur Gewährleistung der Erfüllung der Grundanforderungen im Sinne des Art. 2 Nr. 19 dieser Richtlinie geknüpft werden kann. Aufgrund der Antwort auf die dritte Frage ist die vierte Frage daher nicht zu beantworten.
+
+Kosten
+
+36
+
+Für die Beteiligten des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem bei dem vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Sechste Kammer) für Recht erkannt:
+
+ 	
+1.
+
+Art. 9 Abs. 1 der Richtlinie 97/67/EG des Europäischen Parlaments und des Rates vom 15. Dezember 1997 über gemeinsame Vorschriften für die Entwicklung des Binnenmarktes der Postdienste der Gemeinschaft und die Verbesserung der Dienstequalität in der durch die Richtlinie 2008/6/EG des Europäischen Parlaments und des Rates vom 20. Februar 2008 geänderten Fassung ist dahin auszulegen, dass eine Postsendungsdienstleistung wie die im Ausgangsverfahren in Rede stehende nicht zum Universaldienst gehört, wenn sie nicht ständig flächendeckend postalische Dienstleistungen einer bestimmten Qualität zu tragbaren Preisen für alle Nutzer bietet. Die Erbringung von Postsendungsdienstleistungen, die nicht zum Universaldienst gehören, kann nur an die Erteilung einer Allgemeingenehmigung geknüpft werden.
+
+ 	
+2.
+
+Art. 9 Abs. 1 der Richtlinie 97/67 in der durch die Richtlinie 2008/6 geänderten Fassung ist dahin auszulegen, dass die Erbringung von Postdiensten, die nicht zum Universaldienst gehören, an Anforderungen wie die in Art. 9 Abs. 2 Unterabs. 2 zweiter Gedankenstrich dieser Richtlinie in der geänderten Fassung geknüpft werden kann.
+
+ 	
+Unterschriften
+
+.
+
+( *1 )	Verfahrenssprachen: Finnisch.
