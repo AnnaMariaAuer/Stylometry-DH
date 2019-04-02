@@ -105,28 +105,31 @@ class Stylometry():
         # removes all culled words from the corpus based on the culling file created
         # in the method preprocess_culling
 
-        # get file with culling words
-        culling_list_file = open(os.path.join("culling_preprocessing", "culled_words_" + str(self.cull_percentage) +  "_"  +  self.corpus_type + "_" + self.corpus_category +".txt")
+        try:
+            # get file with culling words
+            culling_list_file = open(os.path.join("culling_preprocessing", "culled_words_" + str(self.cull_percentage) +  "_"  +  self.corpus_type + "_" + self.corpus_category +".txt")
 ,  'r', encoding="utf8")
-        # split file along lines
-        culling_list = culling_list_file.read().splitlines()
+            # split file along lines
+            culling_list = culling_list_file.read().splitlines()
 
-        # testing: word amount needs to be higher than after culling --> successful
-        #davor = nltk.word_tokenize(self.document_contents[0])
-        #davor1 = nltk.word_tokenize(self.document_contents[1])
+            # testing: word amount needs to be higher than after culling --> successful
+            #davor = nltk.word_tokenize(self.document_contents[0])
+            #davor1 = nltk.word_tokenize(self.document_contents[1])
 
-        # iteratate over each word in the culling list and remove it from all documents
-        for word in culling_list:
-            # needs to be written this way (self.document_contents[i]), otherwise not applicated
-            for i in range(len(self.document_contents)):
-                self.document_contents[i] = self.document_contents[i].replace(word, "")
-        culling_list_file.close()
+            # iteratate over each word in the culling list and remove it from all documents
+            for word in culling_list:
+                # needs to be written this way (self.document_contents[i]), otherwise not applicated
+                for i in range(len(self.document_contents)):
+                    self.document_contents[i] = self.document_contents[i].replace(word, "")
+            culling_list_file.close()
 
-        # testing cf. above
-        #danach = nltk.word_tokenize(self.document_contents[0])
-        #danach1 = nltk.word_tokenize(self.document_contents[1])
-        #printprint(str(len(davor)) + " - " + str(len(danach)))
-        #print(str(len(davor1)) + " - " + str(len(danach1)))
+            # testing cf. above
+            #danach = nltk.word_tokenize(self.document_contents[0])
+            #danach1 = nltk.word_tokenize(self.document_contents[1])
+            #printprint(str(len(davor)) + " - " + str(len(danach)))
+            #print(str(len(davor1)) + " - " + str(len(danach1)))
+        except FileNotFoundError:
+            print("Culling not applied, as no file found. Culling will be skipped for this specific file.")
 
     def preprocess_culling(self):
         # applies culling, i.e. identifies words that should not be taken into account
