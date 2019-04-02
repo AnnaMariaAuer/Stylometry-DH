@@ -27,7 +27,7 @@ class Stylometry():
         self.ngram_range_max = 2
         self.hcaAlgorithm = 'ward'
         self.cull_percentage = 0
-        self.delta = "Quadratic"
+        self.delta = "Burrow's"
         self.document_contents = []
         self.document_titles = []
 
@@ -212,7 +212,7 @@ class Stylometry():
     def visualize_results(self):
         plot.tick_params(axis='x', which='both', bottom=True, top=False, labelbottom=True)
         ngram = str(self.ngram_range_min) + "-" + str(self.ngram_range_max) + "-gram "
-        plot.title(str(self.MFW) + " MFW " + ngram +  str(self.cull_percentage)+"% culling " + self.delta+" Delta " + self.corpus_category + " " + self.corpus_type + " corpus")
+        plot.title(str(self.MFW) + " MFW " + ngram +  str(self.cull_percentage)+"% culling " + self.delta+" Delta " + "\n"+ self.corpus_category + " " + self.corpus_type + " corpus")
         plot.tight_layout()
         plot.savefig("results_stylometry/"+ str(self.MFW) + "MFW_"+ngram+"_"+str(self.cull_percentage)+"cul_"+ self.delta+ "Delta_"+ self.corpus_category + " " + self.corpus_type+".png")
         # redraws each plot, otherwise all previous plots are placed in one plot
