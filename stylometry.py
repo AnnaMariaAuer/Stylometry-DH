@@ -94,8 +94,8 @@ class Stylometry():
 
                             # lower range limit must be smaller than higher limit
                             if ngram_range_max_increment >= ngram_range_min_increment:
-                                self.apply_culling()
-                                self.apply_stylometry()
+                                culled_docs = self.apply_culling()
+                                self.apply_stylometry(culled_docs)
                                 self.visualize_results()
 
 
@@ -104,8 +104,11 @@ class Stylometry():
     def apply_culling(self):
         # removes all culled words from the corpus based on the culling file created
         # in the method preprocess_culling
-
+        culled_document_contents = self.document_contents.copy()
         try:
+            print("----------------------------------------------------")
+            print(self.MFW)
+
             # get file with culling words
             culling_list_file = open(os.path.join("culling_preprocessing", "culled_words_" + str(self.cull_percentage) +  "_"  +  self.corpus_type + "_" + self.corpus_category +".txt")
 ,  'r', encoding="utf8")
@@ -113,23 +116,25 @@ class Stylometry():
             culling_list = culling_list_file.read().splitlines()
 
             # testing: word amount needs to be higher than after culling --> successful
-            #davor = nltk.word_tokenize(self.document_contents[0])
-            #davor1 = nltk.word_tokenize(self.document_contents[1])
+            davor = nltk.word_tokenize(culled_document_contents[0])
+            davor1 = nltk.word_tokenize(culled_document_contents[1])
+            #print(len(culling_list))
 
             # iteratate over each word in the culling list and remove it from all documents
             for word in culling_list:
                 # needs to be written this way (self.document_contents[i]), otherwise not applicated
-                for i in range(len(self.document_contents)):
-                    self.document_contents[i] = self.document_contents[i].replace(word, "")
+                for i in range(len(culled_document_contents)):
+                    culled_document_contents[i] = culled_document_contents[i].replace(word, "")
             culling_list_file.close()
 
             # testing cf. above
-            #danach = nltk.word_tokenize(self.document_contents[0])
-            #danach1 = nltk.word_tokenize(self.document_contents[1])
-            #printprint(str(len(davor)) + " - " + str(len(danach)))
+            danach = nltk.word_tokenize(culled_document_contents[0])
+            danach1 = nltk.word_tokenize(culled_document_contents[1])
+            print(str(len(davor)) + " - " + str(len(danach)))
             #print(str(len(davor1)) + " - " + str(len(danach1)))
         except FileNotFoundError:
             print("Culling not applied, as no file found. Culling will be skipped for this specific file.")
+        return culled_document_contents
 
     def preprocess_culling(self):
         # applies culling, i.e. identifies words that should not be taken into account
@@ -186,13 +191,13 @@ class Stylometry():
             culledWords.close()
 
 
-    def apply_stylometry(self):
+    def apply_stylometry(self, culled_docs):
         # Frequencies of the x most common n-grams in the corpus
         # n-grams can be indicated as ranges, e.g. (1, 3) includes ngrams from 1 to 3
         # n-grams can also be indicated as single numbers, e.g. (3, 3) includes only 3-grams
         # max_features = MFWs
         countVectorizer = TfidfVectorizer(max_features=self.MFW, use_idf=False, ngram_range=(self.ngram_range_min, self.ngram_range_max))
-        countMatrix = countVectorizer.fit_transform(self.document_contents)
+        countMatrix = countVectorizer.fit_transform(culled_docs)
 
         # distance measure provided by methods from sklearn:
         # manhattan_distances = burrows delta
