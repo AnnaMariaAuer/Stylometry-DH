@@ -193,7 +193,7 @@ class Stylometry():
         # distance measure provided by methods from sklearn:
         # manhattan_distances = burrows delta
         # euclidean_distances = quadratic delta (argamon 2008)
-        # beim vergleich der anwälte liefert euclidean metric zb bessere ergebnisse
+        # beim vergleich der anwaelte liefert euclidean metric zb bessere ergebnisse
         if self.delta == "Quadratic":
             similarity = euclidean_distances(countMatrix)
         else:
