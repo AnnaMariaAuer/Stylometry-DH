@@ -14,6 +14,10 @@ from collections import Counter
 from nltk.stem.wordnet import WordNetLemmatizer
 
 
+# ----- Imports needed for POS-Tagging and Lemmatizing ------
+from pattern.de import parse, split
+from germalemma import GermaLemma
+
 
 # Reading in files from a certain path and create one txt-file out of it: all files of one category
 
@@ -37,7 +41,7 @@ def make_txt_to_category(path, name, save_to_folder):
 
 # Finds all txt-files of Subcorpus and appends them to one txt-file
 def get_all_txt_of_category (path, name):
-    path_to_open = path + "/**/*.txt"
+    path_to_open = path + "*.txt"
     filename = name + "_all.txt"
     all_files = glob.glob(path_to_open, recursive=True)
     print(all_files)
@@ -54,6 +58,7 @@ def get_all_txt_of_category (path, name):
 
 def remove_punctuation_numbers (path, save_to_folder):
     files_to_process = path + "/*.txt"
+    print(files_to_process)
     files = glob.glob(files_to_process)
     print(files)
 
@@ -69,20 +74,22 @@ def remove_punctuation_numbers (path, save_to_folder):
 
         #gets the names and saves them to list
         filename = os.path.splitext(file)
-        filenames.append(re.findall(r'[ \w]*_all', str(filename[0])))
+        print("filename: " + " " + str(filename))
+        filenames.append(re.findall(r'[ \w]*_[\w]*', str(filename[0])))
+        print(filenames)
 
         #removes punctuation, numbers, strip whitespace, to lower
-        current_name = str(filenames[counter]).translate(translator2)
+        current_name = str(filenames[counter][1]).translate(translator2)
         print(current_name)
         complete_name = os.path.join(save_to_folder, current_name + '.txt')
 
-        current_file = open(complete_name, 'w', encoding='UTF-8')
+        current_file = open(complete_name, 'a', encoding='UTF-8')
         f = open(file, 'r', encoding='UTF-8')
         content_of_file = f.read()
         no_punctuation = re.sub(r'[^\w\s]','',content_of_file)
         no_digits = no_punctuation.translate(translator).lower()
         no_digits = " ".join(no_digits.split())
-        print(no_digits)
+        #print(no_digits)
         current_file.write(no_digits)
 
         f.close()
@@ -105,19 +112,21 @@ def make_corpus_without_stopwords(path, save_to_directory):
 
         #gets the names and saves them to list
         filename = os.path.splitext(file)
-        filenames.append(re.findall(r'[ \w]*all', str(filename[0])))
+        print("filename: " + str(filename))
+        filenames.append(re.findall(r'[\w]*$', str(filename[0])))
+        print(filenames)
 
 
-        #removes punctuation, numbers, strip whitespace, to lower
-        current_name = str(filenames[counter]).translate(translator2)
-        print(current_name)
+        #removes stopwords
+        current_name = str(filenames[counter][0]).translate(translator2)
+        print("current name: " + str(current_name))
         complete_name = os.path.join(save_to_directory, current_name + '.txt')
         current_file = open(complete_name, 'a+', encoding='UTF-8')
         f = open(file, 'r', encoding='UTF-8')
         words_of_file = f.read().split()
         no_stopwords = []
         for word in words_of_file:
-            print(word)
+            #print(word)
             if (word not in STOPWORDS and len(word)>2):
                 no_stopwords.append(word)
 
@@ -164,9 +173,85 @@ def get_top_n_words(path, save_to_directory, n):
         counter += 1
 
 
+def add_POS_tagging (path, save_to_directory):
+    files_to_process = path + "/*.txt"
+    files = glob.glob(files_to_process)
+    print(files)
+
+    filenames = []
+    translator2 = str.maketrans('', '', string.punctuation)
+
+    counter = 0
+
+    for file in files:
+
+        #gets the names and saves them to list
+        filename = os.path.splitext(file)
+        print("filename: " + str(filename))
+        filenames.append(re.findall(r'[\w]*$', str(filename[0])))
+        print(filenames)
+
+        #do POS-Tagging
+        current_name = str(filenames[counter][0]).translate(translator2)
+        print("current name: " + str(current_name))
+        complete_name = os.path.join(save_to_directory, current_name + '.txt')
+        current_file = open(complete_name, 'a+', encoding='UTF-8')
+        f = open(file, 'r', encoding='UTF-8')
+        words_of_file = parse(f.read(), tagset="STTS")
+        words_of_file = split(words_of_file)
+        current_file.write(words_of_file)
+
+        f.close()
+        current_file.close()
+
+        counter += 1
+
+def lemmatize_files (path, save_to_directory):
+    files_to_process = path + "/*.txt"
+    files = glob.glob(files_to_process)
+    print(files)
+
+    filenames = []
+    translator2 = str.maketrans('', '', string.punctuation)
+
+    counter = 0
+
+    lemmatizer = GermaLemma()
+
+    for file in files:
+
+        #gets the names and saves them to list
+        filename = os.path.splitext(file)
+        print("filename: " + str(filename))
+        filenames.append(re.findall(r'[\w]*$', str(filename[0])))
+        print(filenames)
+
+        #lemmatizing
+        current_name = str(filenames[counter][0]).translate(translator2)
+        print("current name: " + str(current_name))
+        complete_name = os.path.join(save_to_directory, current_name + '.txt')
+        current_file = open(complete_name, 'a+', encoding='UTF-8')
+
+        f = open(file, 'r', encoding='UTF-8')
+
+        # TODO: Ich vermute das pos_touples klappt so nicht: wie sieht denn ein file aus, das vom POS-Tagger kommt?
+        # Abhängig davon muss man das einlesen
+
+        pos_touples = f.read().split()
+        lemmas = lemmatizer.find_lemma(pos_touples)
+        current_file.write(lemmas)
+
+        f.close()
+        current_file.close()
+
+        counter += 1
+
+
 if __name__ == "__main__":
     # make_txt_to_category("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter/Social security for migrant workers", "social_security_for_migrant_workers", "/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter")
     # get_all_txt_of_category("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter", "subject_matter")
-    # remove_punctuation_numbers(r"C:\Users\ArbeitsPC\PycharmProjects\Stylometry-DH\Arbeitskorpus_advocate_general_structured", r"C:\Users\ArbeitsPC\PycharmProjects\Stylometry-DH\corpus-without-punct-numb\advocats")
-    # make_corpus_without_stopwords(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-punct-numb/advocats", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-stopword/advocats")
-    get_top_n_words(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-stopword/subject-matter", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-mfw-without-stopwords/subject-matter", 50)
+    # remove_punctuation_numbers(r"/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_Countries_ordered/United Kingdom", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-punct-numb/countries")
+     make_corpus_without_stopwords(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-punct-numb/subject-matter", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-stopword/subject-matter")
+    # get_top_n_words(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-stopword/subject-matter", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-mfw-without-stopwords/subject-matter", 50)
+
+    #POS-Tagging und Lemmatization --> Code schreiben
