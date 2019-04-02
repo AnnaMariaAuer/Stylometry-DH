@@ -1,0 +1,527 @@
+URTEIL DES GERICHTSHOFS (Zehnte Kammer)
+
+15. März 2018 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Soziale Sicherheit der Wandererwerbstätigen – Verordnung (EWG) Nr. 1408/71 – Art. 12, 46a bis 46c – Leistungen gleicher Art – Begriff – Antikumulierungsvorschrift – Begriff – Voraussetzungen – Nationale Regelung, die eine Zulage zur Rente wegen dauerhafter vollständiger Berufsunfähigkeit für Arbeitnehmer vorsieht, die mindestens 55 Jahre alt sind – Ruhen der Zulage im Fall einer Beschäftigung oder des Bezugs einer Altersrente“
+
+In der Rechtssache C‑431/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Tribunal Superior de Justicia de Castilla y León (Obergericht für Kastilien und León, Spanien) mit Entscheidung vom 11. Mai 2016, beim Gerichtshof eingegangen am 2. August 2016, in dem Verfahren
+
+Instituto Nacional de la Seguridad Social (INSS),
+
+Tesorería General de la Seguridad Social (TGSS)
+
+gegen
+
+José Blanco Marqués
+
+erlässt
+
+DER GERICHTSHOF (Zehnte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten E. Levits, der Richterin M. Berger und des Richters F. Biltgen (Berichterstatter),
+
+Generalanwalt: E. Tanchev,
+
+Kanzler: L. Carrasco Marco, Verwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 13. September 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+des Instituto Nacional de la Seguridad Social (INSS) und der Tesorería General de la Seguridad Social (TGSS), vertreten durch A. Trillo García und M. Baró Pazos, letrados,
+
+–
+
+der spanischen Regierung, vertreten durch V. Ester Casas als Bevollmächtigte,
+
+–
+
+der Europäischen Kommission, vertreten durch L. Lozano Palacios und D. Martin als Bevollmächtigte,
+
+aufgrund des nach Anhörung des Generalanwalts ergangenen Beschlusses, ohne Schlussanträge über die Rechtssache zu entscheiden,
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung der Art. 4, 12 und 46a bis 46c der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 über die Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu‑ und abwandern, geändert und aktualisiert durch die Verordnung (EG) Nr. 118/97 des Rates vom 2. Dezember 1996 (ABl. 1997, L 28, S. 1), in der durch die Verordnung (EG) Nr. 592/2008 des Europäischen Parlaments und des Rates vom 17. Juni 2008 (ABl. 2008, L 177, S. 1) geänderten Fassung (im Folgenden: Verordnung Nr. 1408/71) sowie der Art. 3, 10 und 53 bis 55 der Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit (ABl. 2004, L 166, S. 1).
+
+2
+
+Dieses Ersuchen ergeht im Rahmen eines Rechtsstreits zwischen dem Instituto Nacional de la Seguridad Social (INSS) (Nationales Institut für soziale Sicherheit, Spanien, im Folgenden: INSS) und der Tesorería General de la Seguridad Social (TGSS) (Allgemeine Kasse der sozialen Sicherheit, Spanien, im Folgenden: TGSS) auf der einen und Herrn José Blanco Marqués auf der anderen Seite über die Entscheidung des INSS, die Auszahlung seiner Zulage zur Rente wegen dauerhafter vollständiger Berufsunfähigkeit aufgrund des Bezugs einer Schweizer Altersrente auszusetzen.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+3
+
+Nach dem 21. Erwägungsgrund der Verordnung Nr. 1408/71 ist es erforderlich, „[z]um Schutz der wandernden Erwerbspersonen und ihrer Hinterbliebenen gegen eine überspitzte Anwendung der einzelstaatlichen Kürzungs-, Ruhens- und Entziehungsvorschriften … Bestimmungen au[f]zunehmen, durch welche die Anwendung dieser Vorschriften in Grenzen gehalten wird“.
+
+4
+
+Art. 1 Buchst. j der Verordnung Nr. 1408/71 definiert den Begriff „Rechtsvorschriften“ als in jedem Mitgliedstaat „die bestehenden und künftigen Gesetze, Verordnungen, Satzungen und alle anderen Durchführungsvorschriften in Bezug auf die … Zweige und Systeme der sozialen Sicherheit …“.
+
+5
+
+Art. 4 („Sachlicher Geltungsbereich“) der Verordnung Nr. 1408/71 sieht in Abs. 1 vor:
+
+„Diese Verordnung gilt für alle Rechtsvorschriften über Zweige der sozialen Sicherheit, die folgende Leistungsarten betreffen:
+
+a)
+
+Leistungen bei Krankheit und Mutterschaft,
+
+b)
+
+Leistungen bei Invalidität einschließlich der Leistungen, die zur Erhaltung oder Besserung der Erwerbsfähigkeit bestimmt sind,
+
+c)
+
+Leistungen bei Alter,
+
+d)
+
+Leistungen an Hinterbliebene,
+
+e)
+
+Leistungen bei Arbeitsunfällen und Berufskrankheiten,
+
+f)
+
+Sterbegeld,
+
+g)
+
+Leistungen bei Arbeitslosigkeit,
+
+h)
+
+Familienleistungen.“
+
+6
+
+Art. 12 („Verbot des Zusammentreffens von Leistungen“) der Verordnung Nr. 1408/71 bestimmt:
+
+„(1)   Ein Anspruch auf mehrere Leistungen gleicher Art aus derselben Pflichtversicherungszeit kann aufgrund dieser Verordnung weder erworben noch aufrechterhalten werden. Dies gilt jedoch nicht für Leistungen bei Invalidität, Alter, Tod (Renten) oder Berufskrankheit, die von den Trägern von zwei oder mehr Mitgliedstaaten gemäß Artikel 41, Artikel 43 Absätze 2 und 3, Artikel 46, 50 und 51 oder Artikel 60 Absatz 1 Buchstabe b) festgestellt werden.
+
+(2)   Ist in den Rechtsvorschriften eines Mitgliedstaats für den Fall des Zusammentreffens einer Leistung mit anderen Leistungen der sozialen Sicherheit oder mit jederlei sonstigen Einkünften vorgesehen, dass die Leistung gekürzt, zum Ruhen gebracht oder entzogen wird, so sind, sofern in dieser Verordnung nichts anderes bestimmt ist, diese Vorschriften einem Berechtigten gegenüber auch dann anwendbar, wenn es sich um Leistungen, die nach den Rechtsvorschriften eines anderen Mitgliedstaats erworben wurden, oder um Einkünfte handelt, die im Gebiet eines anderen Mitgliedstaats bezogen werden.
+
+(3)   Ist in den Rechtsvorschriften eines Mitgliedstaats für den Fall der Ausübung einer beruflichen Tätigkeit durch den Empfänger von Leistungen bei Invalidität oder von vorgezogenen Leistungen bei Alter vorgesehen, dass die Leistungen gekürzt, zum Ruhen gebracht oder entzogen werden, so sind diese Vorschriften dem Betreffenden gegenüber auch dann anwendbar, wenn er diese Tätigkeit im Gebiet eines anderen Mitgliedstaats ausübt.
+
+…“
+
+7
+
+Art. 46 der Verordnung Nr. 1408/71 sieht vor:
+
+„(1)   Sind die Voraussetzungen für den Leistungsanspruch nach den Rechtsvorschriften eines Mitgliedstaats auch ohne Anwendung des Artikels 45 und des Artikels 40 Absatz 3 erfüllt, so gilt Folgendes:
+
+a)
+
+Der zuständige Träger berechnet den Leistungsbetrag, der wie folgt geschuldet würde:
+
+i)
+
+allein nach den von ihm anzuwendenden Rechtsvorschriften,
+
+ii)
+
+nach Absatz 2.
+
+…“
+
+8
+
+Art. 46a („Allgemeine Vorschriften über die nach den Rechtsvorschriften der Mitgliedstaaten auf Leistungen bei Invalidität, Alter oder Tod anzuwendenden Kürzungs-, Ruhens- oder Entziehungsbestimmungen“) der Verordnung Nr. 1408/71 sieht vor:
+
+„(1)   Im Sinne dieses Kapitels bedeutet das Zusammentreffen von Leistungen gleicher Art jedes Zusammentreffen von Leistungen bei Invalidität, Alter oder für Hinterbliebene, die auf der Grundlage der von ein und derselben Person zurückgelegten Versicherungs‑ und/oder Wohnzeiten berechnet oder gewährt wurden.
+
+(2)   Im Sinne dieses Kapitels bedeutet das Zusammentreffen von Leistungen unterschiedlicher Art jedes Zusammentreffen von Leistungen, die im Sinne des Absatzes 1 nicht als Leistungen gleicher Art betrachtet werden können.
+
+(3)   Für die Anwendung der Kürzungs-, Ruhens- und Entziehungsbestimmungen nach den Rechtsvorschriften eines Mitgliedstaats bei Zusammentreffen einer Leistung bei Invalidität, Alter oder für Hinterbliebene mit einer Leistung gleicher Art oder einer Leistung unterschiedlicher Art oder mit sonstigen Einkünften gelten folgende Vorschriften:
+
+a)
+
+Die nach den Rechtsvorschriften eines anderen Mitgliedstaats erworbenen Leistungen oder die in einem anderen Mitgliedstaat erzielten Einkünfte werden nur berücksichtigt, wenn die Rechtsvorschriften des ersten Mitgliedstaats die Berücksichtigung solcher im Ausland erworbenen Leistungen oder dort erzielter Einkünfte vorsehen.
+
+b)
+
+Der Betrag der von einem anderen Mitgliedstaat zu zahlenden Leistungen wird vor Abzug der Steuern, Sozialversicherungsbeiträge und anderer individueller Abgaben oder Abzüge berücksichtigt.
+
+c)
+
+Der Betrag der nach den Rechtsvorschriften eines anderen Mitgliedstaats erworbenen Leistungen, die auf der Grundlage einer freiwilligen Versicherung oder freiwilligen Weiterversicherung gewährt werden, wird nicht berücksichtigt.
+
+d)
+
+Sind Kürzungs-, Ruhens- bzw. Entziehungsbestimmungen nach den Rechtsvorschriften eines einzigen Mitgliedstaats anwendbar, weil der Versicherte aufgrund der Rechtsvorschriften anderer Mitgliedstaaten geschuldete Leistungen gleicher oder unterschiedlicher Art oder andere im Hoheitsgebiet anderer Mitgliedstaaten erzielte Einkünfte bezieht, so kann die nach den Rechtsvorschriften des ersten Mitgliedstaats geschuldete Leistung nur um den Betrag der nach den Rechtsvorschriften der anderen Mitgliedstaaten geschuldeten Leistungen oder der im Hoheitsgebiet der anderen Mitgliedstaaten erzielten Einkünfte gekürzt werden.“
+
+9
+
+In Art. 46b („Besondere Vorschriften für das Zusammentreffen von Leistungen gleicher Art, die nach den Rechtsvorschriften von zwei oder mehr Mitgliedstaaten geschuldet werden“) der Verordnung Nr. 1408/71 heißt es:
+
+„(1)   Die nach den Rechtsvorschriften eines Mitgliedstaats vorgesehenen Kürzungs-, Ruhens- oder Entziehungsbestimmungen gelten nicht für eine nach Artikel 46 Absatz 2 berechnete Leistung.
+
+(2)   Die Rechtsvorschriften eines Mitgliedstaats über die Kürzung, das Ruhen oder die Entziehung einer Leistung dürfen auf eine nach Artikel 46 Absatz 1 Buchstabe a) Ziffer i) berechnete Leistung nur dann angewandt werden, wenn es sich:
+
+a)
+
+um eine Leistung handelt, deren Höhe von der Dauer der zurückgelegten Versicherungs- oder Wohnzeiten unabhängig ist und die in Anhang IV Teil D aufgeführt ist, oder
+
+…
+
+Die unter den Buchstaben a) und b) genannten Leistungen und die Abkommen sind in Anhang IV Teil D aufgeführt.“
+
+10
+
+Die Verordnung Nr. 1408/71 wurde mit Wirkung vom 1. Mai 2010 durch die Verordnung Nr. 883/2004 aufgehoben und ersetzt. Gemäß Art. 90 Abs. 1 der letztgenannten Verordnung blieb die Verordnung Nr. 1408/71 jedoch in Kraft und behielt ihre Rechtswirkung für die Zwecke „des Abkommens über den Europäischen Wirtschaftsraum [vom 2. Mai 1992 (ABl. 1994, L 1, S. 3)] und des Abkommens zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit [unterzeichnet in Luxemburg am 21. Juni 1999 und mit dem Beschluss 2002/309/EG, Euratom des Rates und – bezüglich des Abkommens über die wissenschaftliche und technische Zusammenarbeit – der Kommission vom 4. April 2002 über den Abschluss von sieben Abkommen mit der Schweizerischen Eidgenossenschaft (ABl. 2002, L 114, S. 1) im Namen der Gemeinschaft gebilligt (im Folgenden: Abkommen EG–Schweiz)] sowie anderer Abkommen, die auf die Verordnung (EWG) Nr. 1408/71 Bezug nehmen, solange diese Abkommen nicht infolge der vorliegenden Verordnung geändert worden sind“.
+
+11
+
+Art. 8 des Abkommens EG–Schweiz bestimmt:
+
+„Die Vertragsparteien regeln die Koordinierung der Systeme der sozialen Sicherheit gemäß Anhang II, um insbesondere Folgendes zu gewährleisten:
+
+a)
+
+Gleichbehandlung;
+
+b)
+
+Bestimmung der anzuwendenden Rechtsvorschriften;
+
+c)
+
+Zusammenrechnung aller nach den verschiedenen nationalen Rechtsvorschriften berücksichtigten Versicherungszeiten für den Erwerb und die Aufrechterhaltung des Leistungsanspruchs sowie für die Berechnung der Leistungen;
+
+d)
+
+Zahlung der Leistungen an Personen, die ihren Wohnsitz im Hoheitsgebiet der Vertragsparteien haben;
+
+e)
+
+Amtshilfe und Zusammenarbeit der Behörden und Einrichtungen.“
+
+12
+
+Art. 20 des Abkommens EG–Schweiz sieht vor:
+
+„Sofern in Anhang II nichts Gegenteiliges bestimmt ist, werden die bilateralen Abkommen über die soziale Sicherheit zwischen der Schweiz und den Mitgliedstaaten der Europäischen Gemeinschaft mit Inkrafttreten dieses Abkommens insoweit ausgesetzt, als in diesem Abkommen derselbe Sachbereich geregelt wird.“
+
+13
+
+Anhang II des Abkommens EG–Schweiz über die Koordinierung der Systeme der sozialen Sicherheit bestimmt in Art. 1:
+
+„1.   Die Vertragsparteien kommen überein, im Bereich der Koordinierung der Systeme der sozialen Sicherheit untereinander die gemeinschaftlichen Rechtsakte, auf die Bezug genommen wird, in der zum Zeitpunkt der Unterzeichnung des Abkommens geltenden Fassung einschließlich der in Abschnitt A dieses Anhangs genannten Änderungen oder gleichwertige Vorschriften anzuwenden.
+
+2.   Der Begriff ‚Mitgliedstaat(en)‘ in den Rechtsakten, auf die in Abschnitt A dieses Anhangs Bezug genommen wird, ist außer auf die durch die betreffenden gemeinschaftlichen Rechtsakte erfassten Staaten auch auf die Schweiz anzuwenden.“
+
+14
+
+Abschnitt A dieses Anhangs nimmt u. a. auf die Verordnung Nr. 1408/71 Bezug.
+
+15
+
+Anhang II des Abkommens EG–Schweiz wurde durch den Beschluss Nr. 1/2012 des Gemischten Ausschusses, eingesetzt im Rahmen des Abkommens zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit, vom 31. März 2012 (ABl. 2012, L 103, S. 51) aktualisiert.
+
+16
+
+Der so geänderte Anhang II, der am 1. April 2012 in Kraft getreten ist, nimmt Bezug auf die Verordnung Nr. 883/2004, aber auch auf die Verordnung Nr. 1408/71, „soweit darauf in [der Verordnung Nr. 883/2004] Bezug genommen wird oder Fälle aus der Vergangenheit betroffen sind“.
+
+Spanisches Recht
+
+17
+
+Die Art. 136 und 137 der Ley General de la Seguridad Social (Allgemeines Gesetz über die Soziale Sicherheit), deren konsolidierte Fassung durch das Real Decreto Legislativo 1/1994 (Königliches gesetzesvertretendes Dekret 1/1994) vom 20. Juni 1994 (BOE Nr. 154 vom 29. Juni 1994, S. 20658) angenommen wurde, in der auf das Ausgangsverfahren anwendbaren Fassung (im Folgenden: LGSS) sehen für die Zwecke der sozialen Sicherheit bei dauerhafter vollständiger Unfähigkeit zur Ausübung des gewöhnlichen Berufs eine lebenslange Rente vor, um die Arbeitnehmer, die aufgrund einer (gegebenenfalls Berufs‑)Krankheit oder eines (gegebenenfalls Arbeits‑)Unfalls die Fähigkeit zur Ausübung ihres gewöhnlichen Berufs verlieren, aber noch andere Berufe ausüben können, vor Not zu schützen.
+
+18
+
+Art. 139 Abs. 2 LGSS bestimmt:
+
+„Die finanzielle Leistung bei dauerhafter vollständiger Berufsunfähigkeit besteht in einer lebenslangen Rente, die ausnahmsweise durch eine pauschale Entschädigungszahlung ersetzt werden kann, wenn der Begünstigte jünger als 60 Jahre ist.
+
+Personen, die für dauerhaft vollständig zur Ausübung ihres gewöhnlichen Berufs unfähig erklärt worden sind, erhalten die im vorstehenden Unterabsatz vorgesehene Rente, die um einen durch Verordnung zu bestimmenden Prozentsatz erhöht wird, wenn aufgrund ihres Alters, ihrer mangelnden allgemeinen oder fachlichen Ausbildung und der sozialen Verhältnisse und Arbeitsmarktsituation an ihrem Wohnort zu vermuten ist, dass es für sie schwierig sein wird, eine Arbeitsstelle mit einer anderen Tätigkeit als der zuvor gewöhnlich ausgeübten zu finden.
+
+…“
+
+19
+
+Aus Art. 6 Abs. 1 bis 3 des Decreto 1646/1972 para la aplicación de la ley 24/1972, de 21 de junio, en materia de prestaciones del Régimen General de la Seguridad Social (Dekret 1646/1972 zur Durchführung des Gesetzes 24/1972 vom 21. Juni 1972 über Leistungen des Allgemeinen Systems der sozialen Sicherheit) vom 23. Juni 1972 (im Folgenden: Dekret 1646/1972) ergibt sich, dass sich die Rente wegen dauerhafter vollständiger Unfähigkeit zur Ausübung des gewöhnlichen Berufs um eine Zulage in Höhe von 20 % der Bemessungsgrundlage für die Festsetzung der Höhe der Rente (im Folgenden: Zulage von 20 %) erhöht, wenn der Arbeitnehmer mindestens 55 Jahre alt ist.
+
+20
+
+Da diese Zulage ihre Grundlage in der Vermutung findet, dass es für Personen, die älter als 55 Jahre sind, besonders schwierig ist, eine Beschäftigung in einem anderen Beruf zu finden als dem von ihnen vorher ausgeübten, für den sie als dauerhaft vollständig berufsunfähig anerkannt wurden, wird diese Zulage jedoch gemäß Art. 6 Abs. 4 des Dekrets 1646/1972 „so lange ausgesetzt, wie der Arbeitnehmer eine Beschäftigung ausübt“.
+
+21
+
+Hingegen ist der Bezug der Rente wegen dauerhafter vollständiger Berufsunfähigkeit an sich mit der Ausübung eines anderen Berufs vereinbar.
+
+22
+
+Wenn der Empfänger einer Rente wegen dauerhafter Berufsunfähigkeit das 65. Lebensjahr erreicht, wird diese Rente gemäß Art. 143 Abs. 4 LGSS zu einer Altersrente. Diese Bezeichnungsänderung berührt jedoch nicht die Voraussetzungen für den Bezug dieser Leistung.
+
+Ausgangsverfahren und Vorlagefragen
+
+23
+
+Herr Blanco Marqués, geboren am 3. Februar 1943, ist Empfänger einer spanischen Rente wegen dauerhafter vollständiger Unfähigkeit zur Ausübung des Berufs eines ausgebildeten Elektrikers im Untertagebau, die auf einer allgemeinen, nicht berufsbezogenen Krankheit beruht; dieser Status wurde ihm durch Gerichtsurteil vom 3. Juni 1998 mit Wirkung vom 13. Januar 1998 zuerkannt. Für die Feststellung des Anspruchs auf diese Rente und die Berechnung ihrer Höhe wurden nur die in das spanische System der sozialen Sicherheit eingezahlten Beiträge berücksichtigt. Da der Betroffene zum Zeitpunkt des Wirksamwerdens dieser Entscheidung älter als 55 Jahre war, wurde ihm gemäß Art. 6 Abs. 1 bis 3 des Dekrets 1646/1972 die Zulage in Höhe von 20 % gewährt.
+
+24
+
+Als er das 65. Lebensjahr vollendete, erhielt Herr Blanco Marqués mit Wirkung vom 1. März 2008 eine Altersrente aus dem Schweizer Sozialversicherungssystem. Diese Altersrente wurde ihm unter ausschließlicher Berücksichtigung der Beiträge gewährt, die er im Rahmen des Schweizer Pflichtversicherungssystems eingezahlt hatte.
+
+25
+
+Mit Bescheid vom 24. Februar 2015 strich das INSS mit Wirkung vom 1. Februar 2015 die von Herrn Blanco Marqués bezogene Zulage in Höhe von 20 % mit der Begründung, dass diese Zulage nicht mit dem Bezug einer Altersrente vereinbar sei, und forderte von ihm die Rückzahlung eines Betrags von 17340,95 Euro, der den in der Zeit vom 1. Februar 2011 bis zum 31. Januar 2015 ausgezahlten und nicht unter die Verjährung fallenden Zulagen entsprach.
+
+26
+
+Herr Blanco Marqués erhob gegen diesen Bescheid Klage beim Juzgado de lo Social no 1 de Ponferrada (Arbeits- und Sozialgericht Nr. 1 von Ponferrada, Spanien). Mit Urteil vom 28. September 2015 hob dieses Gericht diesen Bescheid mit der Begründung auf, dass die Zulage von 20 % nicht unvereinbar mit dem Bezug einer Schweizer Altersrente sei, da gemäß Art. 46a Abs. 3 Buchst. a der Verordnung Nr. 1408/71 oder gemäß Art. 53 Abs. 3 Buchst. a der Verordnung Nr. 883/2004 eine Unvereinbarkeit nur dann vorliegen könne, wenn die nationalen Rechtsvorschriften zu diesem Zweck die Berücksichtigung der im Ausland erworbenen Leistungen und der dort erzielten Einkünfte vorsähen. Eine solche Norm gebe es aber im spanischen Recht nicht.
+
+27
+
+Das INSS legte gegen dieses Urteil Rechtsmittel beim Tribunal Superior de Justicia de Castilla y León (Obergericht für Kastilien und León, Spanien) ein und machte geltend, dass nach der Rechtsprechung des Tribunal Supremo (Oberstes Gericht, Spanien) die Zulage von 20 % nicht nur in dem ausdrücklich in Art. 6 Abs. 4 des Dekrets 1646/1972 genannten Fall, d. h., wenn der Empfänger eine Beschäftigung ausübe, sondern auch dann zum Ruhen gebracht werde, wenn er eine Altersrente in einem anderen Mitgliedstaat oder in der Schweiz beziehe, da eine solche Altersrente ein Ersatzeinkommen für die Einkünfte aus einer Erwerbstätigkeit darstelle.
+
+28
+
+Unter diesen Umständen hat das Tribunal Superior de Justicia de Castilla y Léon (Obergericht für Kastilien und Léon) beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorzulegen:
+
+1.
+
+Ist eine Vorschrift des nationalen Rechts wie Art. 6 Abs. 4 des Dekrets 1646/1972, wonach die Zulage von 20 % der Bemessungsgrundlage, die Arbeitnehmer erhalten, die Renten wegen dauerhafter vollständiger und den gewöhnlichen Beruf betreffender Berufsunfähigkeit beziehen und älter als 55 Jahre sind, „so lange ausgesetzt [wird], wie der Arbeitnehmer eine Beschäftigung ausübt“, als Antikumulierungsregel im Sinne der Art. 12 und 46a bis 46c der Verordnung Nr. 1408/71 sowie der Art. 5 und 53 bis 55 der Verordnung Nr. 883/2004 anzusehen, wenn berücksichtigt wird, dass das spanische Tribunal Supremo (Oberstes Gericht) entschieden hat, dass die sich aus dieser Vorschrift des nationalen Rechts ergebende Unvereinbarkeit nicht nur Anwendung findet, wenn der Begünstigte eine Beschäftigung ausübt, sondern auch dann, wenn er eine Altersrente bezieht?
+
+2.
+
+Falls die vorstehende Frage bejaht wird, sind dann Art. 46a Abs. 3 Buchst. a der Verordnung Nr. 1408/71 und Art. 53 Abs. 3 Buchst. a der Verordnung Nr. 883/2004 dahin auszulegen, dass eine Antikumulierungsregel zwischen der hier in Rede stehenden Leistung und einer Rente eines anderen Mitgliedstaats der Europäischen Union oder der Schweiz nur dann angewandt werden darf, wenn eine spanische nationale Rechtsvorschrift mit Gesetzesrang ausdrücklich die Unvereinbarkeit von Leistungen der spanischen sozialen Sicherheit bei Berufsunfähigkeit, Alter oder für Hinterbliebene mit Leistungen oder Einkünften vorsieht, die der Begünstigte im Ausland erworben bzw. erzielt hat? Oder darf die Antikumulierungsregel nach Art. 12 der Verordnung Nr. 1408/71 und Art. 5 der Verordnung Nr. 883/2004 trotz des Fehlens einer solchen ausdrücklichen gesetzlichen Vorschrift auch dann auf Renten eines anderen Mitgliedstaats der Europäischen Union oder der Schweiz angewandt werden, wenn nach nationaler Rechtsprechung diese Regel in der Weise ausgelegt wird, dass eine Unvereinbarkeit zwischen der hier in Rede stehenden Leistung und einer Altersrente des nationalen spanischen Rechts besteht?
+
+3.
+
+Sollte die vorstehende Frage trotz des Fehlens einer ausdrücklichen gesetzlichen Vorschrift im Hinblick auf im Ausland erworbene Leistungen und erzielte Einkünfte im vorliegenden Fall dahin gehend beantwortet werden, dass die Antikumulierungsregel (mit der von der Rechtsprechung vorgenommenen Erweiterung ihres Anwendungsbereichs) Anwendung findet, handelt es sich dann bei der (oben beschriebenen) Zulage von 20 %, die nach den spanischen Rechtsvorschriften Arbeitnehmer erhalten, denen eine dauerhafte vollständige und ihren gewöhnlichen Beruf betreffende Berufsunfähigkeit zuerkannt wird und die älter als 55 Jahre sind, um eine Leistung gleicher Art wie eine Altersrente des Schweizer Systems der sozialen Sicherheit oder um eine Leistung unterschiedlicher Art? Gilt die Definition der verschiedenen Zweige der sozialen Sicherheit in Art. 4 Abs. 1 der Verordnung Nr. 1408/71 und Art. 3 Abs. 1 der Verordnung Nr. 883/2004 unionsweit, oder ist die Definition heranzuziehen, die die nationale Rechtsordnung jeweils für die konkrete Leistung vorsieht? Falls die Definition unionsweit Geltung hat, ist dann die Zulage von 20 % der Bemessungsgrundlage für die Leistung bei dauerhafter vollständiger Berufsunfähigkeit als Leistung bei Invalidität oder als Leistung bei Arbeitslosigkeit anzusehen, wenn man berücksichtigt, dass sie die Rente wegen dauerhafter vollständiger und den gewöhnlichen Beruf betreffender Berufsunfähigkeit deshalb ergänzt, weil es im Alter von über 55 Jahren schwierig ist, eine andere Beschäftigung zu finden, was dazu führt, dass die Zahlung dieser Zulage ausgesetzt wird, wenn der Begünstigte eine Beschäftigung ausübt?
+
+4.
+
+Handelt es sich um Leistungen gleicher Art, ist dann in Anbetracht der Tatsache, dass weder zur betragsmäßigen Bestimmung der spanischen Invalidenrente noch zur Bestimmung der Höhe der Zulage Beitragszeiten in einem anderen Staat berücksichtigt worden sind, davon auszugehen, dass die Zulage von 20 % der Bemessungsgrundlage für die spanische Rente wegen dauerhafter vollständiger Berufsunfähigkeit eine Leistung ist, auf die die Antikumulierungsregeln anzuwenden sind, da ihr Betrag als von der Dauer der zurückgelegten Versicherungs- und Wohnzeiten unabhängig anzusehen ist (Art. 46b Abs. 2 Buchst. a der Verordnung Nr. 1408/71 und Art. 54 Abs. 2 Buchst. a der Verordnung Nr. 883/2004)? Darf die Antikumulierungsregel angewandt werden, obwohl diese Leistung weder in Teil D des Anhangs IV der Verordnung Nr. 1408/71 noch in Anhang IX der Verordnung Nr. 883/2004 genannt wird?
+
+5.
+
+Sollte die letzte Frage bejaht werden, ist dann die in Art. 46a Abs. 3 Buchst. d der Verordnung Nr. 1408/71 und Art. 53 Abs. 3 Buchst. d der Verordnung Nr. 883/2004 enthaltene Vorschrift anwendbar, nach der die Leistung der spanischen Sozialversicherung nur „um den Betrag der nach den Rechtsvorschriften“ des anderen Staates, in diesem Fall der Schweiz, „geschuldeten Leistungen“ gekürzt werden darf?
+
+6.
+
+Falls die beiden Leistungen als Leistungen unterschiedlicher Art angesehen werden, kann dann, weil nicht aktenkundig ist, dass die Schweiz eine Antikumulierungsregel anwendet, nach Art. 46c der Verordnung Nr. 1408/71 und Art. 55 der Verordnung Nr. 883/2004 die Kürzung in vollem Umfang an der Zulage von 20 % der spanischen Rente bei dauerhafter vollständiger Berufsunfähigkeit vorgenommen werden, ist sie aufzuteilen, oder ist die Kürzung verhältnismäßig vorzunehmen? Ist in jedem der beiden Fälle die sich aus Art. 46a Abs. 3 Buchst. d der Verordnung Nr. 1408/71 und Art. 53 Abs. 3 Buchst. d der Verordnung Nr. 883/2004 ergebende Obergrenze anzuwenden, wonach die Leistung der spanischen Sozialversicherung nur „um den Betrag der nach den Rechtsvorschriften“ des anderen Staates, in diesem Fall der Schweiz, „geschuldeten Leistungen“ gekürzt werden darf?
+
+Zu den Vorlagefragen
+
+Vorbemerkungen
+
+29
+
+Da das vorlegende Gericht in seinen Vorlagefragen sowohl auf die Vorschriften der Verordnung Nr. 1408/71 als auch auf die der Verordnung Nr. 883/2004 Bezug nimmt, ist vorab zu bestimmen, welche Verordnung in zeitlicher Hinsicht auf den Sachverhalt des Ausgangsverfahrens Anwendung findet.
+
+30
+
+Hierzu ergibt sich aus der dem Gerichtshof vorliegenden Akte, dass die Entscheidung, mit der die spanische Rente wegen dauerhafter vollständiger Berufsunfähigkeit zuerkannt wurde, und der Bescheid, mit dem die Schweizer Altersrente gewährt wurde, in den Jahren 1998 und 2008 ergingen. Da diese beiden Entscheidungen, die den Anspruch auf die fraglichen Renten begründen, vor dem Inkrafttreten der Verordnung Nr. 883/2004 erlassen wurden, sind im Ausgangsverfahren nur die Bestimmungen der Verordnung Nr. 1408/71 relevant.
+
+Zur ersten Frage
+
+31
+
+Mit seiner ersten Frage möchte das vorlegende Gericht wissen, ob die spanische Regelung in Art. 6 Abs. 4 des Dekrets 1646/1972 in seiner Auslegung durch das Tribunal Supremo (Oberstes Gericht), wonach die Zulage von 20 % während des Zeitraums, in dem der Arbeitnehmer eine Beschäftigung ausübt oder eine Altersrente bezieht, zum Ruhen gebracht wird, eine Kürzungsbestimmung im Sinne des Art. 12 der Verordnung Nr. 1408/71 darstellt.
+
+32
+
+Zunächst ist festzustellen, dass eine nationale Regelung, die eine Zulage zur Rente wegen dauerhafter vollständiger Berufsunfähigkeit – wie die Zulage von 20 % – vorsieht, in den sachlichen Geltungsbereich der Verordnung Nr. 1408/71 fällt.
+
+33
+
+Nach ihrem Art. 4 Abs. 1 Buchst. b gilt diese Verordnung nämlich für alle „Leistungen bei Invalidität einschließlich der Leistungen, die zur Erhaltung oder Besserung der Erwerbsfähigkeit bestimmt sind“.
+
+34
+
+Nach Art. 1 Buchst. t der genannten Verordnung sind zudem die Begriffe „Leistungen“ und „Renten“ so weit wie möglich zu verstehen, nämlich als sämtliche Leistungen und Renten einschließlich aller ihrer Teile aus öffentlichen Mitteln, aller Zuschläge, Anpassungsbeträge und Zulagen.
+
+35
+
+Was den Begriff der Kürzungsbestimmung im Sinne von Art. 12 Abs. 2 der Verordnung Nr. 1408/71 betrifft, ist nach ständiger Rechtsprechung eine nationale Vorschrift als Kürzungsbestimmung anzusehen, wenn die von ihr vorgeschriebene Berechnung bewirkt, dass der Rentenbetrag, auf den der Betroffene Anspruch hat, deshalb gekürzt wird, weil er in einem anderen Mitgliedstaat eine Leistung erhält (vgl. in diesem Sinne Urteile vom 7. März 2002, Insalaca, C‑107/00, EU:C:2002:147, Rn. 16 und die dort angeführte Rechtsprechung, und vom 7. März 2013, van den Booren, C‑127/11, EU:C:2013:140, Rn. 28).
+
+36
+
+Im vorliegenden Fall ergibt sich aus der Vorlageentscheidung, dass nach Art. 6 Abs. 4 des Dekrets 1646/1972 in seiner Auslegung durch die Rechtsprechung des Tribunal Supremo (Oberstes Gericht) die Zulage von 20 % nicht nur dann zum Ruhen gebracht wird, wenn der Empfänger Einkünfte aus Arbeit erhält, sondern auch dann, wenn er eine Altersrente bezieht, da diese als Ersatzeinkommen für Einkünfte aus Erwerbstätigkeit angesehen wird. Des Weiteren ist nach dieser Rechtsprechung nicht zwischen nationalen Altersrenten und solchen, die in einem anderen Mitgliedstaat oder in der Schweiz bezogen werden, zu unterscheiden, so dass beide in gleicher Weise im Rahmen der Anwendung dieser Bestimmung berücksichtigt werden müssen.
+
+37
+
+Daraus folgt, dass die im Ausgangsverfahren in Rede stehende nationale Regelung für die Leistungen gilt, die der Betroffene in einem anderen Mitgliedstaat oder in der Schweiz empfängt, da, was letzteren Staat betrifft, die Schweizerische Eidgenossenschaft im Rahmen der Anwendung der Verordnung Nr. 1408/71 einem Mitgliedstaat der Union gleichzustellen ist (Urteil vom 18. November 2010, Xhymshiti, C‑247/09, EU:C:2010:698, Rn. 31).
+
+38
+
+Ferner steht fest, dass die Anwendung dieser nationalen Regelung zu einer Verringerung der Gesamthöhe der Leistungen führt, auf die der Betroffene Anspruch hat.
+
+39
+
+Der Gerichtshof hat aber bereits entschieden, dass eine nationale Rechtsvorschrift, die vorsieht, dass eine Zulage zur Altersrente eines Arbeiters um den Betrag einer Altersrente gekürzt wird, die der Betroffene nach einer Regelung eines anderen Mitgliedstaats beanspruchen kann, eine Kürzungsbestimmung im Sinne von Art. 12 Abs. 2 der Verordnung Nr. 1408/71 darstellt (Urteil vom 22. Oktober 1998, Conti, C‑143/97, EU:C:1998:501, Rn. 30).
+
+40
+
+Was das Vorbringen des INSS und der TGSS betrifft, die im Ausgangsverfahren in Rede stehende nationale Rechtsvorschrift falle nicht in den Geltungsbereich der Verordnung Nr. 1408/71, weil sie sich darauf beschränke, eine bloße Unvereinbarkeitsregel aufzustellen, hat der Gerichtshof klargestellt, dass nationale Kürzungsbestimmungen nicht dadurch den in der Verordnung Nr. 1408/71 hinsichtlich ihrer Anwendung vorgesehenen Bedingungen und Grenzen entzogen werden können, dass man sie als Berechnungsvorschriften oder Beweisregeln qualifiziert (vgl. in diesem Sinne Urteile vom 22. Oktober 1998, Conti, C‑143/97, EU:C:1998:501, Rn. 24, und vom 18. November 1999, Van Coile, C‑442/97, EU:C:1999:560, Rn. 27).
+
+41
+
+In Anbetracht der vorstehenden Erwägungen ist auf die erste Frage zu antworten, dass eine nationale Bestimmung wie die im Ausgangsverfahren in Rede stehende, nach der die Zulage zur Rente wegen dauerhafter vollständiger Berufsunfähigkeit während des Zeitraums, in dem der Empfänger dieser Rente eine Altersrente in einem anderen Mitgliedstaat oder in der Schweiz bezieht, zum Ruhen gebracht wird, eine Kürzungsbestimmung im Sinne von Art. 12 Abs. 2 der Verordnung Nr. 1408/71 darstellt.
+
+Zur zweiten Frage
+
+42
+
+Mit seiner zweiten Frage möchte das vorlegende Gericht wissen, ob Art. 46a Abs. 3 Buchst. a der Verordnung Nr. 1408/71 dahin auszulegen ist, dass der darin enthaltene Begriff „Rechtsvorschriften des ersten Mitgliedstaats“ eng zu verstehen ist oder ob er auch deren Auslegung durch ein oberstes nationales Gericht umfasst.
+
+43
+
+Nach dieser Bestimmung werden „[d]ie nach den Rechtsvorschriften eines anderen Mitgliedstaats erworbenen Leistungen oder die in einem anderen Mitgliedstaat erzielten Einkünfte … nur berücksichtigt, wenn die Rechtsvorschriften des ersten Mitgliedstaats die Berücksichtigung solcher im Ausland erworbenen Leistungen oder dort erzielter Einkünfte vorsehen“.
+
+44
+
+Ferner wird in Art. 1 Buchst. j der Verordnung Nr. 1408/71 der Begriff „Rechtsvorschriften“ definiert als in jedem Mitgliedstaat die bestehenden und künftigen Gesetze, Verordnungen, Satzungen und alle anderen Durchführungsvorschriften in Bezug auf die Zweige und Systeme der sozialen Sicherheit.
+
+45
+
+Wie aus Rn. 27 des vorliegenden Urteils hervorgeht, beschränkt sich der Wortlaut von Art. 6 des Dekrets 1646/1972 zwar darauf, das Ruhen der Zulage von 20 % in dem Fall vorzusehen, dass der Empfänger der Rente wegen dauerhafter vollständiger Berufsunfähigkeit eine Beschäftigung ausübt, in der nationalen Rechtsprechung ist diese Bestimmung aber dahin ausgelegt worden, dass sich das darin vorgesehene Ruhen auch auf den Fall erstreckt, dass er eine Altersrente bezieht, unabhängig davon, ob diese vom nationalen System der sozialen Sicherheit oder von dem eines anderen Mitgliedstaats oder der Schweiz ausgezahlt wird.
+
+46
+
+Zu der Frage, ob die von einem obersten Gericht vorgenommene Auslegung einer Rechtsvorschrift zu den Rechtsvorschriften im Sinne von Art. 1 Buchst. j der Verordnung Nr. 1408/71 gezählt werden muss, ist darauf hinzuweisen, dass die Bedeutung der nationalen Rechts- und Verwaltungsvorschriften unter Berücksichtigung ihrer Auslegung durch die nationalen Gerichte zu beurteilen ist (Urteil vom 8. Juni 1994, Kommission/Vereinigtes Königreich, C‑382/92, EU:C:1994:233, Rn. 36).
+
+47
+
+Isolierte gerichtliche Entscheidungen oder solche, die in der Minderheit sind, können zwar nicht berücksichtigt werden, anders verhält es sich aber im Fall einer vom obersten nationalen Gericht bestätigten richterlichen Auslegung (vgl. in diesem Sinne Urteil vom 9. Dezember 2003, Kommission/Italien, C‑129/00, EU:C:2003:656, Rn. 32).
+
+48
+
+Unter diesen Umständen ist auf die zweite Frage zu antworten, dass Art. 46a Abs. 3 Buchst. a der Verordnung Nr. 1408/71 dahin auszulegen ist, dass der darin enthaltene Begriff „Rechtsvorschriften des ersten Mitgliedstaats“ so zu verstehen ist, dass er die Auslegung einer nationalen Rechtsvorschrift durch ein oberstes nationales Gericht umfasst.
+
+Zur dritten Frage
+
+49
+
+Mit seiner dritten Frage möchte das vorlegende Gericht wissen, ob die Zulage von 20 %, die dem Arbeitnehmer gewährt wird, der eine Rente wegen dauerhafter vollständiger Berufsunfähigkeit nach spanischem Recht bezieht, und die von demselben Arbeitnehmer in der Schweiz erworbene Altersrente als Leistungen gleicher oder Leistungen unterschiedlicher Art im Sinne der Verordnung Nr. 1408/71 anzusehen sind.
+
+50
+
+Im Hinblick auf die Beantwortung dieser Frage ist darauf hinzuweisen, dass nach ständiger Rechtsprechung des Gerichtshofs Leistungen der sozialen Sicherheit als Leistungen gleicher Art zu betrachten sind, wenn ihr Sinn und Zweck sowie ihre Berechnungsgrundlage und die Voraussetzungen für ihre Gewährung identisch sind. Dagegen sind lediglich formale Merkmale nicht als wesentliche Tatbestandsmerkmale für die Einstufung der Leistungen anzusehen (vgl. in diesem Sinne Urteile vom 5. Juli 1983, Valentini, 171/82, EU:C:1983:189, Rn. 13, vom 11. August 1995, Schmidt, C‑98/94, EU:C:1995:273, Rn. 24 und 31, sowie vom 18. Juli 2006, De Cuyper, C‑406/04, EU:C:2006:491, Rn. 25).
+
+51
+
+Im vorliegenden Fall ergibt sich aus der Vorlageentscheidung hinsichtlich Sinn und Zweck der Zulage von 20 %, dass sie eine bestimmte Gruppe besonders schutzbedürftiger Personen schützen soll, und zwar die Arbeitnehmer im Alter von 55 bis 65 Jahren, bei denen eine dauerhafte vollständige Berufsunfähigkeit anerkannt wurde und für die es sich als schwierig erweist, einen Arbeitsplatz in einem anderen Beruf als dem vorher von ihnen ausgeübten zu finden.
+
+52
+
+Um dieses Ziel zu erreichen, erhalten diese Arbeitnehmer eine Zulage zur Rente wegen dauerhafter vollständiger Berufsunfähigkeit, deren Höhe nach Maßgabe der für die Festlegung der Höhe dieser Berufsunfähigkeitsrente herangezogenen Berechnungsgrundlage festgesetzt wird.
+
+53
+
+Aus dem Vorstehenden ergibt sich, dass die Zulage von 20 % und die Rente wegen dauerhafter vollständiger Berufsunfähigkeit, zu der sie von Rechts wegen akzessorisch ist, Merkmale aufweisen, die den Leistungen bei Alter entsprechen, da sie darauf abzielen, jenen Arbeitnehmern, die für die Ausübung ihres gewöhnlichen Berufs dauerhaft vollständig unfähig erklärt wurden und, da sie ein bestimmtes Alter erreicht haben, zudem Schwierigkeiten hätten, eine Beschäftigung in einem anderen Bereich als dem ihres gewöhnlichen Berufs zu finden, Existenzmittel zu sichern.
+
+54
+
+In diesem Sinne unterscheiden sich im Übrigen die Rente wegen dauerhafter vollständiger Berufsunfähigkeit und die Zulage von 20 % von einer Leistung bei Arbeitslosigkeit, die das Risiko eines Einkommensverlustes abdecken soll, den der Arbeitnehmer wegen des Verlustes seiner Beschäftigung erleidet, während er noch arbeitsfähig ist (vgl. in diesem Sinne Urteil vom 18. Juli 2006, De Cuyper, C‑406/04, EU:C:2006:491, Rn. 27).
+
+55
+
+Im Gegensatz zu einer Leistung bei Arbeitslosigkeit, die darauf ausgerichtet ist, dem Betroffenen den Verbleib auf dem Arbeitsmarkt während des Zeitraums der Beschäftigungslosigkeit zu ermöglichen, sollen die Rente wegen dauerhafter vollständiger Berufsunfähigkeit und die Zulage von 20 % ihrem Empfänger die finanziellen Mittel zur Deckung seines Bedarfs während des Zeitraums von der Feststellung der dauerhaften vollständigen Berufsunfähigkeit bis zum Rentenalter sichern.
+
+56
+
+Wenn es dem Empfänger einer Rente wegen dauerhafter vollständiger Berufsunfähigkeit gelingt, durch eine andere Beschäftigung als die vorher von ihm ausgeübte wieder auf den Arbeitsmarkt zurückzukehren, wird ihm daher die Rente wegen dauerhafter vollständiger Berufungsunfähigkeit als solche weiter gewährt, und nur die Auszahlung der Zulage von 20 % wird aufgrund der Ausübung dieser neuen Beschäftigung, die es ihm ermöglicht, einen Teil der fehlenden Erwerbseinkünfte auszugleichen, zum Ruhen gebracht.
+
+57
+
+Infolgedessen soll das Ruhen der Zulage von 20 % lediglich die Voraussetzungen für die Gewährung der Rente wegen dauerhafter vollständiger Berufsunfähigkeit an die Lage des Empfängers anpassen und kann daher dieser Leistung nicht eine andere Art verleihen als jene, die in Rn. 53 des vorliegenden Urteils festgestellt worden ist.
+
+58
+
+Diese Schlussfolgerung wird dadurch bestätigt, dass die spanischen Rechtsvorschriften bei Erreichen des Rentenalters die Rente wegen dauerhafter Berufsunfähigkeit fiktiv einer Altersrente gleichstellen.
+
+59
+
+In diesem Zusammenhang ist darauf hinzuweisen, dass der Gerichtshof bereits entschieden hat, dass dann, wenn ein Arbeitnehmer nach den Rechtsvorschriften eines Mitgliedstaats in eine Altersrente umgewandelte Leistungen bei Invalidität und nach den Rechtsvorschriften eines anderen Mitgliedstaats noch nicht in eine Altersrente umgewandelte Leistungen bei Invalidität bezieht, die Altersrente und die Leistungen bei Invalidität als Leistungen gleicher Art anzusehen sind (Urteile vom 2. Juli 1981, Celestre u. a., 116/80, 117/80 und 119/80 bis 121/80, EU:C:1981:159, Rn. 11 und die dort angeführte Rechtsprechung, und vom 18. April 1989, Di Felice, 128/88, EU:C:1989:153, Rn. 13).
+
+60
+
+Daraus folgt, dass eine Zulage von 20 %, die einem Arbeitnehmer gewährt wird, der einer Rente wegen dauerhafter vollständiger Berufsunfähigkeit nach spanischem Recht bezieht, und die von demselben Arbeitnehmer in der Schweiz erworbene Altersrente als Leistungen gleicher Art anzusehen sind, und zwar sowohl während des Zeitraums ab der Feststellung der dauerhaften vollständigen Berufsunfähigkeit nach dem 55. Lebensjahr bis zum Rentenalter als auch dann, wenn das Rentenalter erreicht ist.
+
+61
+
+Daher ist auf die dritte Frage zu antworten, dass eine Zulage zur Rente wegen dauerhafter vollständiger Berufsunfähigkeit, die einem Arbeitnehmer nach den Rechtsvorschriften eines Mitgliedstaats – wie sie im Ausgangsverfahren in Rede stehen – gewährt wird, und eine von demselben Arbeitnehmer in der Schweiz erworbene Altersrente als Leistungen gleicher Art im Sinne der Verordnung Nr. 1408/71 anzusehen sind.
+
+Zur vierten und zur fünften Frage
+
+62
+
+Mit seiner vierten und seiner fünften Frage möchte das vorlegende Gericht für den Fall, dass die beiden in Rede stehenden Leistungen als Leistungen gleicher Art anzusehen sind, wissen, welche speziellen Vorschriften der Verordnung Nr. 1408/71 über das Zusammentreffen von Leistungen gleicher Art anzuwenden sind.
+
+63
+
+Insoweit ist darauf hinzuweisen, dass gemäß Art. 12 Abs. 2 der Verordnung Nr. 1408/71, sofern in dieser Verordnung nichts anderes bestimmt ist, die in den Rechtsvorschriften eines Mitgliedstaats vorgesehenen Antikumulierungsbestimmungen gegenüber den Personen, die eine Leistung zulasten dieses Mitgliedstaats erhalten, anwendbar sind, wenn sie Anspruch auf andere Leistungen der sozialen Sicherheit haben, und zwar auch dann, wenn diese Leistungen nach den Rechtsvorschriften eines anderen Mitgliedstaats erworben wurden (Urteile vom 7. März 2002, Insalaca, C‑107/00, EU:C:2002:147, Rn. 22, und vom 7. März 2013, van den Booren, C‑127/11, EU:C:2013:140, Rn. 29).
+
+64
+
+Hinsichtlich der besonderen Vorschriften für die Leistungen bei Invalidität, Alter oder für Hinterbliebene bestimmt Art. 46b Abs. 2 Buchst. a der Verordnung Nr. 1408/71, dass die in nationalen Rechtsvorschriften vorgesehenen Antikumulierungsbestimmungen auf eine nach Art. 46 Abs. 1 Buchst. a Ziff. i berechnete Leistung nur dann angewandt werden dürfen, wenn zwei kumulative Voraussetzungen vorliegen, wenn nämlich erstens die Höhe der Leistung von der Dauer der zurückgelegten Versicherungs- oder Wohnzeiten unabhängig ist und zweitens die Leistung in Anhang IV Teil D dieser Verordnung aufgeführt ist.
+
+65
+
+Im vorliegenden Fall ergibt sich aus der dem Gerichtshof vorliegenden Akte, dass die im Ausgangsverfahren in Rede stehenden Leistungen das in Art. 46 Abs. 1 Buchst. a Ziff. i der Verordnung Nr. 1408/71 aufgestellte Kriterium erfüllen, da die beiden Renten von den jeweiligen nationalen Trägern allein nach den von ihnen anzuwendenden Rechtsvorschriften berechnet worden sind, ohne dass es nötig gewesen wäre, einen Mechanismus der Zusammenrechnung oder Proratisierung anzuwenden.
+
+66
+
+In Bezug auf die beiden kumulativen Voraussetzungen besteht zwar zwischen den Beteiligten, die schriftliche Erklärungen eingereicht haben, Uneinigkeit darüber, ob die Höhe der Zulage von 20 % von den zurückgelegten Versicherungszeiten abhängt, so dass es dem vorlegenden Gericht obliegt, eine Prüfung in dieser Hinsicht vorzunehmen, es steht jedoch fest, dass eine Leistung dieser Art nicht ausdrücklich in Anhang IV Teil D der Verordnung Nr. 1408/71 aufgeführt ist.
+
+67
+
+Nach alledem ist auf die vierte und die fünfte Frage zu antworten, dass Art. 46b Abs. 2 Buchst. a der Verordnung Nr. 1408/71 dahin auszulegen ist, dass eine nationale Antikumulierungsvorschrift, wie sie sich aus Art. 6 des Dekrets 1646/1972 ergibt, auf eine gemäß Art. 46 Abs. 1 Buchst. a Ziff. i dieser Verordnung berechnete Leistung nicht anwendbar ist, wenn diese Leistung nicht in Anhang IV Teil D dieser Verordnung aufgeführt ist.
+
+Zur sechsten Frage
+
+68
+
+Angesichts der Antwort auf die beiden vorangehenden Fragen ist die sechste Frage nicht zu beantworten.
+
+Kosten
+
+69
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem bei dem vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Zehnte Kammer) für Recht erkannt:
+
+ 	
+1.
+
+Eine nationale Bestimmung wie die im Ausgangsverfahren in Rede stehende, nach der die Zulage zur Rente wegen dauerhafter vollständiger Berufsunfähigkeit während des Zeitraums, in dem der Empfänger dieser Rente eine Altersrente in einem anderen Mitgliedstaat oder in der Schweiz bezieht, zum Ruhen gebracht wird, stellt eine Kürzungsbestimmung im Sinne von Art. 12 Abs. 2 der Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 über die Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern, geändert und aktualisiert durch die Verordnung (EG) Nr. 118/97 des Rates vom 2. Dezember 1996, in der durch die Verordnung (EG) Nr. 592/2008 des Europäischen Parlaments und des Rates vom 17. Juni 2008 geänderten Fassung dar.
+
+ 	
+2.
+
+Art. 46a Abs. 3 Buchst. a der Verordnung Nr. 1408/71, geändert und aktualisiert durch die Verordnung Nr. 118/97, in der durch die Verordnung Nr. 592/2008 geänderten Fassung ist dahin auszulegen, dass der Begriff „Rechtsvorschriften des ersten Mitgliedstaats“ so zu verstehen ist, dass er die Auslegung einer nationalen Rechtsvorschrift durch ein oberstes nationales Gericht umfasst.
+
+ 	
+3.
+
+Eine Zulage zur Rente wegen dauerhafter vollständiger Berufsunfähigkeit, die einem Arbeitnehmer nach den Rechtsvorschriften eines Mitgliedstaats – wie sie im Ausgangsverfahren in Rede stehen – gewährt wird, und eine von demselben Arbeitnehmer in der Schweiz erworbene Altersrente sind als Leistungen gleicher Art im Sinne der Verordnung Nr. 1408/71, geändert und aktualisiert durch die Verordnung Nr. 118/97, in der durch die Verordnung Nr. 592/2008 geänderten Fassung anzusehen.
+
+ 	
+4.
+
+Art. 46b Abs. 2 Buchst. a der Verordnung Nr. 1408/71, geändert und aktualisiert durch die Verordnung Nr. 118/97, in der durch die Verordnung Nr. 592/2008 geänderten Fassung ist dahin auszulegen, dass eine nationale Antikumulierungsvorschrift, wie sie sich aus Art. 6 des Decreto 1646/1972 para la aplicación de la ley 24/1972, de 21 de junio, en materia de prestaciones del Régimen General de la Seguridad Social (Dekret 1646/1972 zur Durchführung des Gesetzes 24/1972 vom 21. Juni 1972 über Leistungen des Allgemeinen Systems der sozialen Sicherheit) vom 23. Juni 1972 ergibt, auf eine gemäß Art. 46 Abs. 1 Buchst. a Ziff. i dieser Verordnung berechnete Leistung nicht anwendbar ist, wenn diese Leistung nicht in Anhang IV Teil D dieser Verordnung aufgeführt ist.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Spanisch.

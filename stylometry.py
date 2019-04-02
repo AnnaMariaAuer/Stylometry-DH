@@ -26,8 +26,8 @@ class Stylometry():
         self.ngram_range_min = 2
         self.ngram_range_max = 2
         self.hcaAlgorithm = 'ward'
-        self.cull_percentage = 20
-        self.delta = "Burrow's"
+        self.cull_percentage = 0
+        self.delta = "Quadratic"
         self.document_contents = []
         self.document_titles = []
 
@@ -60,9 +60,10 @@ class Stylometry():
             if sys.argv[1] == "culling":
                 print("Culling process started. This will take a few minutes.")
                 print("Please wait until the program is closed automatically.")
-                print("The list with culled words can be found in the main project folder.")
-
-                self.preprocess_culling()
+                print("The list with culled words can be found in folder culling_preprocessing.")
+                for percentage in range(3):
+                    self.preprocess_culling()
+                    self.cull_percentage = self.cull_percentage + 10
             else:
                 print("The passed parameter could not be recognized.")
         else:
@@ -70,14 +71,14 @@ class Stylometry():
             print("This will take a few minutes.")
             print("Please wait until the program is closed automatically.")
             print("The output visualizations can be found in the folder results_stylometry.")
-            # iterate mfw from 200 to 2000 with stepsize 200
-            for mfw_increment in range(15):
-                # increase MFW by 200
-                self.MFW = self.MFW + 200
+            # iterate mfw from 100 to 1000 with stepsize 100
+            for mfw_increment in range(10):
+                # increase MFW by 100
+                self.MFW = self.MFW + 100
                 # reset cull percentage
                 self.cull_percentage = -10
 
-                # iterate culling from 10 to 20 % with stepsize 10
+                # iterate culling from 0 to 20 % with stepsize 10
                 for cull_increment in range(3):
                     self.ngram_range_max =2
                     self.cull_percentage = self.cull_percentage + 10
@@ -155,7 +156,6 @@ class Stylometry():
             all_words.sort()
             print(len(all_words))
 
-
             # iterate over unique wordlist and check how often words occur in the documents
             for word in all_words:
                 # counts the amount of documents where the word is not contained
@@ -173,7 +173,7 @@ class Stylometry():
 
                         # if the current word occurs less than in X percent of all documents
                         if len(self.document_contents) - doc_counter < min_word_amount_rounded:
-                            #print(word +" removed, because not contained in min. " + str(self.cull_percentage) + "% of all documents.")
+                            print(word +" removed, because not contained in min. " + str(self.cull_percentage) + "% of all documents.")
                             # add word to to-remove list
                             culledWords.write(word+" \n")
                             # don't iterate this word anymore over other documents
@@ -181,6 +181,7 @@ class Stylometry():
 
                 
             culledWords.close()
+
 
     def apply_stylometry(self):
         # Frequencies of the x most common n-grams in the corpus

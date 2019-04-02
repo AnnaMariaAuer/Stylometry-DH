@@ -1,0 +1,401 @@
+URTEIL DES GERICHTSHOFS (Große Kammer)
+
+25. Oktober 2017 ( *1 ) ( 1 )
+
+„Vorlage zur Vorabentscheidung – Niederlassungsfreiheit – Grenzüberschreitende Umwandlung einer Gesellschaft – Verlegung des satzungsmäßigen Sitzes einer Gesellschaft ohne Verlegung des tatsächlichen Sitzes – Ablehnung der Löschung im Handelsregister – Nationale Regelung, die die Löschung im Handelsregister davon abhängig macht, dass die Gesellschaft am Ende eines Liquidationsverfahrens aufgelöst wird – Anwendungsbereich der Niederlassungsfreiheit – Beschränkung der Niederlassungsfreiheit – Schutz der Interessen der Gläubiger, der Minderheitsgesellschafter und der Arbeitnehmer – Bekämpfung missbräuchlicher Praktiken“
+
+In der Rechtssache C‑106/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Sąd Najwyższy (Oberster Gerichtshof, Polen) mit Entscheidung vom 22. Oktober 2015, beim Gerichtshof eingegangen am 22. Februar 2016, in dem Verfahren auf Antrag der
+
+Polbud – Wykonawstwo sp. z o.o., in Liquidation,
+
+erlässt
+
+DER GERICHTSHOF (Große Kammer)
+
+unter Mitwirkung des Präsidenten K. Lenaerts, des Vizepräsidenten A. Tizzano, der Kammerpräsidenten T. von Danwitz, J. L. da Cruz Vilaça, A. Rosas, J. Malenovský und E. Levits, der Richter E. Juhász, A. Borg Barthet und D. Šváby, der Richterinnen M. Berger und K. Jürimäe (Berichterstatterin) sowie des Richters M. Vilaras,
+
+Generalanwältin: J. Kokott,
+
+Kanzler: K. Malacek, Verwaltungsrat,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 6. März 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der Polbud – Wykonawstwo sp. z o.o., vertreten durch A. Gorzka-Augustynowicz, radca prawny,
+
+–
+
+der polnischen Regierung, vertreten durch B. Majczyna als Bevollmächtigten,
+
+–
+
+der deutschen Regierung, vertreten durch T. Henze und M. Hellmann als Bevollmächtigte,
+
+–
+
+der österreichischen Regierung, vertreten durch C. Pesendorfer und B. Trefil als Bevollmächtigte,
+
+–
+
+der portugiesischen Regierung, vertreten durch L. Inez Fernandes, M. Figueiredo und F. de Figueiroa Quelhas als Bevollmächtigte,
+
+–
+
+der Europäischen Kommission, vertreten durch W. Mölls, L. Malferrari und J. Hottiaux als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge der Generalanwältin in der Sitzung vom 4. Mai 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung der Art. 49 und 54 AEUV.
+
+2
+
+Dieses Ersuchen ergeht im Rahmen einer Klage der Polbud Wykonawstwo sp. z o.o. (im Folgenden: Polbud) gegen die Entscheidung, mit der ihr Antrag auf Löschung im polnischen Handelsregister, den sie nach der Verlegung ihres Gesellschaftssitzes nach Luxemburg gestellt hatte, abgelehnt wurde.
+
+Polnisches Recht
+
+Gesetzbuch über die Handelsgesellschaften
+
+3
+
+Art. 270 des polnischen Kodeks spółek handlowych (Gesetzbuch über die Handelsgesellschaften, im Folgenden: KSH) vom 15. September 2000 in geänderter Fassung (Dz. U. 2013, Nr. 1030) bestimmt:
+
+„Die Gesellschaft wird aufgelöst durch:
+
+…
+
+2.
+
+einen Beschluss der Gesellschafter über die Auflösung der Gesellschaft oder über die Verlegung des Sitzes der Gesellschaft ins Ausland, der durch ein notariell erstelltes Protokoll bestätigt wird;
+
+…“
+
+4
+
+Art. 272 KSH lautet:
+
+„Die Auflösung der Gesellschaft erfolgt nach Durchführung der Liquidation mit der Löschung der Gesellschaft im Register.“
+
+5
+
+Art. 288 KSH sieht vor:
+
+„§ 1   Nach der Genehmigung der Abschlussbilanz durch die Gesellschafterversammlung (Liquidationsbericht), wobei als Stichtag der Tag vor der Verteilung des nach der Befriedigung oder Absicherung der Gläubiger verbleibenden Vermögens zwischen den Gesellschaftern gilt, und nach der Beendigung des Liquidationsverfahrens geben die Liquidatoren diese Bilanz am Sitz der Gesellschaft bekannt und legen sie dem Registergericht zusammen mit dem Antrag auf Löschung der Gesellschaft vor.
+
+…
+
+§ 3   Die Bücher und Unterlagen der aufgelösten Gesellschaft werden einer im Gesellschaftsvertrag oder in einem Gesellschafterbeschluss benannten Person zur Verwahrung übergeben. Wurde keine Person benannt, bestimmt das Registergericht den Verwahrer.
+
+…“
+
+6
+
+Die Art. 551 bis 568 KSH betreffen die Umwandlung der Gesellschaft. Gemäß Art. 562 § 1 KSH gilt:
+
+„Die Umwandlung der Gesellschaft bedarf eines Beschlusses, der im Fall der Umwandlung einer Personengesellschaft durch die Gesellschafter und im Fall der Umwandlung einer Kapitalgesellschaft durch die Gesellschafterversammlung oder die Hauptversammlung … gefasst wird.“
+
+Gesetz betreffend das Internationale Privatrecht
+
+7
+
+Art. 19 § 1 des Ustawa z dnia 4 lutego 2011 r. – Prawo prywatne mięzynarodowe (Gesetz vom 4. Februar 2011 betreffend das Internationale Privatrecht, im Folgenden: IPR-Gesetz) (Dz. U. 2011, Nr. 80, Pos. 432) sieht vor:
+
+„Durch die Verlegung des Sitzes in einen anderen Staat wird eine juristische Person dem Recht dieses Staates unterstellt. Die Rechtspersönlichkeit nach den Vorschriften des Staates des bisherigen Sitzes bleibt erhalten, wenn das Recht aller betroffenen Staaten dies zulässt. Eine Verlegung des Sitzes innerhalb des Europäischen Wirtschaftsraums führt nicht zum Verlust der Rechtspersönlichkeit.“
+
+Ausgangsverfahren und Vorlagefragen
+
+8
+
+Polbud ist eine beschränkt haftende Gesellschaft mit Sitz in Łąck (Polen). Mit Beschluss vom 30. September 2011 entschied ihre außerordentliche Hauptversammlung, den Gesellschaftssitz gemäß Art. 270 Nr. 2 KSH nach Luxemburg zu verlegen. Gemäß dem Vorabentscheidungsersuchen enthält dieser Beschluss keinen Hinweis auf eine Verlegung des Verwaltungssitzes der Gesellschaft oder des Ortes der tatsächlichen Ausübung ihrer wirtschaftlichen Tätigkeit.
+
+9
+
+Auf der Grundlage dieses Beschlusses beantragte Polbud am 19. Oktober 2011 beim für die Führung des Handelsregisters zuständigen Gericht (im Folgenden: Registergericht) die Eintragung der Eröffnung des Liquidationsverfahrens. Am 26. Oktober 2011 wurde die Eröffnung des Liquidationsverfahrens im Handelsregister eingetragen, und der Liquidator wurde bestellt.
+
+10
+
+Am 28. Mai 2013 wurde durch Beschluss der Gesellschafterversammlung der in Luxemburg ansässigen Consoil Geotechnik Sàrl u. a. der Beschluss vom 30. September 2011 ausgeführt und der Sitz von Polbud nach Luxemburg verlegt, um diese Gesellschaft unter Wahrung ihrer Rechtspersönlichkeit dem luxemburgischen Recht zu unterstellen. Gemäß dem Beschluss vom 28. Mai 2013 erfolgte die Verlegung mit Wirkung vom selben Tag. Der Gesellschaftssitz von Polbud wurde also am 28. Mai 2013 nach Luxemburg verlegt, und die Gesellschaft wurde von „Polbud“ in „Consoil Geotechnik“ umfirmiert.
+
+11
+
+Am 24. Juni 2013 stellte Polbud beim Registergericht einen Antrag auf Löschung im polnischen Handelsregister. Dieser Antrag wurde mit der Verlegung des Gesellschaftssitzes nach Luxemburg begründet. Im Zusammenhang mit dem Löschungsverfahren wurde die Gesellschaft mit Verfügung vom 21. August 2013 aufgefordert, erstens den Beschluss der Gesellschafterversammlung, in dem der Verwahrer der Bücher und Unterlagen der aufgelösten Gesellschaft benannt wird, zweitens die Finanzberichte für die Zeiträume vom 1. Januar bis 29. September 2011, vom 30. September bis 31. Dezember 2011, vom 1. Januar bis 31. Dezember 2012 und vom 1. Januar bis 28. Mai 2013, unterzeichnet durch den Liquidator und die Person, der die Führung der Rechnungsbücher übertragen worden ist, sowie drittens den Beschluss der Gesellschafterversammlung über die Annahme des Liquidationsberichts vorzulegen.
+
+12
+
+Polbud erklärte, dass sie die Vorlage der angeführten Unterlagen nicht für erforderlich halte, da die Gesellschaft nicht aufgelöst, ihr Vermögen nicht unter den Gesellschaftern verteilt und der Löschungsantrag wegen der Verlegung des Gesellschaftssitzes nach Luxemburg gestellt worden sei, wo sie als Gesellschaft luxemburgischen Rechts fortbestehe. Unter diesen Umständen wies das Registergericht den Löschungsantrag mangels Vorlage der angeforderten Unterlagen mit Beschluss vom 19. September 2013 ab.
+
+13
+
+Gegen diesen Beschluss erhob Polbud Klage beim Sąd Rejonowy w Bydgoszczy (Rayongericht Bromberg, Polen), das die Klage jedoch abwies. Mit Beschluss vom 4. Juni 2014 wurde auch das hiergegen in zweiter Instanz beim Sąd Okręgowy w Bydgoszczy (Bezirksgericht Bromberg, Polen) eingelegte Rechtsmittel abgewiesen. Daraufhin wandte sich die Gesellschaft mittels Kassationsbeschwerde an das vorlegende Gericht.
+
+14
+
+Dort trug Polbud vor, dass sie mit dem Tag der Sitzverlegung nach Luxemburg ihren Status als Gesellschaft polnischen Rechts verloren habe und eine Gesellschaft luxemburgischen Rechts geworden sei. Nach der Auffassung von Polbud hätte demnach das Liquidationsverfahren abgeschlossen und die Gesellschaft im polnischen Handelsregister gelöscht werden müssen. Die Einhaltung der im polnischen Recht in Bezug auf das Liquidationsverfahren vorgesehenen Anforderungen sei weder erforderlich noch möglich, da sie ihre Rechtspersönlichkeit nicht verloren habe.
+
+15
+
+Das vorlegende Gericht ist erstens der Auffassung, dass das Liquidationsverfahren auf die Beendigung des rechtlichen Bestehens der Gesellschaft gerichtet sei und insoweit bestimmte Pflichten umfasse. Im vorliegenden Fall bestehe die Gesellschaft jedoch außerhalb der Republik Polen als Rechtspersönlichkeit eines anderen Mitgliedstaats weiter. Es stellt sich daher die Frage, ob die Niederlassungsfreiheit dieser Gesellschaft nicht dadurch übermäßig beschränkt werde, dass ihr Verpflichtungen auferlegt würden, die denen entsprächen, die bei der Beendigung ihres rechtlichen Bestands als Gesellschaft zur Anwendung kämen. Außerdem möchte das vorlegende Gericht wissen, ob dem Herkunftsmitgliedstaat die Feststellung der Neugründung der Gesellschaft, die allein auf dem Beschluss der Gesellschafter über die Fortsetzung der im Herkunftsmitgliedstaat erworbenen Rechtspersönlichkeit beruht, und ihre auf diesen Beschluss gestützte Eintragung im Handelsregister des Aufnahmemitgliedstaats entgegengehalten werden können, obwohl im Herkunftsmitgliedstaat gerade das Liquidationsverfahren durchgeführt wird.
+
+16
+
+Zweitens weist das vorlegende Gericht darauf hin, dass es einem Mitgliedstaat zwar grundsätzlich verboten sei, die Anerkennung einer in einem anderen Mitgliedstaat erworbenen Rechtspersönlichkeit zu verweigern und die Ordnungsmäßigkeit der durch dessen Behörden erlassenen Maßnahmen zu beurteilen. Die Löschung im Handelsregister im Herkunftsmitgliedstaat erfolge jedoch nach dessen Recht. Der Herkunftsmitgliedstaat müsse im Rahmen des Liquidationsverfahrens den Schutz der Interessen der Gläubiger, der Minderheitsgesellschafter und der Arbeitnehmer gewährleisten. Daher dürfe das Registergericht nicht auf die Fortsetzung des Liquidationsverfahrens verzichten.
+
+17
+
+Drittens betont das vorlegende Gericht, dass nach der Rechtsprechung des Gerichtshofs grundsätzlich geprüft werden dürfe, ob die Gesellschaft beabsichtige, eine dauerhafte wirtschaftliche Verbindung zum Aufnahmemitgliedstaat einzugehen, und deswegen den Sitz verlege, der das tatsächliche Verwaltungszentrum und der Ort der Ausübung der wirtschaftlichen Tätigkeit sei. Allerdings bestünden Zweifel, ob für die Durchführung dieser Prüfung der Aufnahmemitgliedstaat oder der Herkunftsmitgliedstaat zuständig sei.
+
+18
+
+Unter diesen Umständen hat der Sąd Najwyższy (Oberster Gerichtshof, Polen) das Verfahren ausgesetzt und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorgelegt:
+
+1.
+
+Stehen die Art. 49 und 54 AEUV der Anwendung von Vorschriften des nationalen Rechts durch einen Mitgliedstaat, in dem eine Gesellschaft mit beschränkter Haftung gegründet wurde, entgegen, die die Löschung im Handelsregister von der Auflösung der Gesellschaft nach Durchführung der Liquidation abhängig machen, wenn die Gesellschaft in einem anderen Mitgliedstaat auf der Grundlage eines Gesellschafterbeschlusses neu gegründet wurde, der die Fortsetzung der in dem Gründungsmitgliedstaat erworbenen Rechtspersönlichkeit vorsieht?
+
+Falls diese Frage verneint wird:
+
+2.
+
+Können die Art. 49 und 54 AEUV dahin ausgelegt werden, dass die nach nationalem Recht vorgesehene Pflicht zur Durchführung eines Liquidationsverfahrens durch die Gesellschaft, das den Abschluss der laufenden Geschäfte, die Beitreibung der Forderungen, die Erfüllung der Verbindlichkeiten und die Verflüssigung des Gesellschaftsvermögens, die Befriedigung oder Absicherung der Gläubiger, die Einreichung eines Finanzberichts über diese Maßnahmen sowie die Benennung einer Person, die die Bücher und Unterlagen verwahrt, umfasst und das der Auflösung der Gesellschaft, die im Zeitpunkt der Löschung im Register eintritt, vorangeht, ein geeignetes, notwendiges und verhältnismäßiges Mittel darstellt, um das schutzwürdige öffentliche Interesse zu wahren, das darauf gerichtet ist, die Gläubiger, die Minderheitsgesellschafter und die Arbeitnehmer der wegziehenden Gesellschaft zu schützen?
+
+3.
+
+Sind die Art. 49 und 54 AEUV dahin auszulegen, dass eine Beschränkung der Niederlassungsfreiheit vorliegt, wenn eine Gesellschaft mit dem Ziel der Umwandlung in eine Gesellschaft eines anderen Mitgliedstaats ihren satzungsmäßigen Sitz dorthin verlegt, ohne den Hauptsitz des Unternehmens zu ändern, der im Gründungsmitgliedstaat verbleibt?
+
+Zum Antrag auf Wiedereröffnung des mündlichen Verfahrens
+
+19
+
+Mit Schriftsatz, der am 28. Juni 2017 bei der Kanzlei des Gerichtshofs eingegangen ist, hat Polbud beantragt, nach Art. 83 der Verfahrensordnung des Gerichtshofs die Wiedereröffnung des mündlichen Verfahrens zu beschließen.
+
+20
+
+Polbud stützt ihren Antrag zum einen darauf, dass sie entgegen den Ausführungen im Vorabentscheidungsersuchen beabsichtigt habe, sowohl ihren satzungsmäßigen als auch ihren tatsächlichen Sitz nach Luxemburg zu verlegen. Dies bestätige der Beschluss vom 28. Mai 2013. Zum anderen stützten sich die Schlussanträge der Generalanwältin, auch wenn sie auf die von Polbud in der mündlichen Verhandlung geäußerten Vorbehalte eingingen, doch auf die fehlerhafte Tatsachenfeststellung im Vorabentscheidungsersuchen. Polbud hält es daher für erforderlich, das mündliche Verfahren wiederzueröffnen, um ihr die Möglichkeit zu geben, den Sachverhalt des Ausgangsverfahrens zu erläutern.
+
+21
+
+Der Gerichtshof kann gemäß Art. 83 seiner Verfahrensordnung jederzeit nach Anhörung des Generalanwalts die Wiedereröffnung des mündlichen Verfahrens beschließen, insbesondere wenn er sich für unzureichend unterrichtet hält, wenn eine Partei nach Abschluss des mündlichen Verfahrens eine neue Tatsache unterbreitet hat, die von entscheidender Bedeutung für die Entscheidung des Gerichtshofs ist, oder wenn ein zwischen den Parteien oder den in Art. 23 der Satzung des Gerichtshofs der Europäischen Union bezeichneten Beteiligten nicht erörtertes Vorbringen entscheidungserheblich ist.
+
+22
+
+Dies ist vorliegend nicht der Fall. Polbud hat in der mündlichen Verhandlung ihre Beurteilung des tatsächlichen Rahmens des Rechtsstreits dargelegt. Sie hatte insbesondere die Möglichkeit, ihre Sichtweise zur im Vorabentscheidungsersuchen enthaltenen Sachverhaltsdarstellung des Ausgangsverfahrens zum Ausdruck zu bringen und klarzustellen, dass sie beabsichtigt habe, sowohl ihren satzungsmäßigen als auch ihren tatsächlichen Sitz nach Luxemburg zu verlegen. Der Gerichtshof ist daher nach Anhörung der Generalanwältin der Auffassung, dass er über alle für die Entscheidung erforderlichen Informationen verfügt.
+
+23
+
+Außerdem ist hinsichtlich der an den Schlussanträgen der Generalanwältin geübten Kritik zum einen darauf hinzuweisen, dass die Satzung des Gerichtshofs und seine Verfahrensordnung keine Möglichkeit für die Beteiligten vorsehen, eine Stellungnahme zu den Schlussanträgen des Generalanwalts einzureichen (Urteil vom 4. September 2014, Vnuk, C‑162/13, EU:C:2014:2146, Rn. 30 und die dort angeführte Rechtsprechung).
+
+24
+
+Zum anderen hat der Generalanwalt nach Art. 252 Abs. 2 AEUV die Aufgabe, öffentlich in völliger Unparteilichkeit und Unabhängigkeit begründete Schlussanträge zu den Rechtssachen zu stellen, in denen nach der Satzung des Gerichtshofs der Europäischen Union seine Mitwirkung erforderlich ist. Der Gerichtshof ist dabei weder an die Schlussanträge des Generalanwalts noch an ihre Begründung gebunden. Dass eine Partei nicht mit den Schlussanträgen des Generalanwalts einverstanden ist, kann folglich unabhängig von den darin untersuchten Fragen für sich genommen kein Grund sein, der die Wiedereröffnung des mündlichen Verfahrens rechtfertigt (Urteil vom 4. September 2014, Vnuk, C‑162/13, EU:C:2014:2146, Rn. 31 und die dort angeführte Rechtsprechung).
+
+25
+
+Aufgrund dieser Erwägungen sieht der Gerichtshof keine Veranlassung für die Wiedereröffnung des mündlichen Verfahrens.
+
+Zu den Vorlagefragen
+
+Vorbemerkungen
+
+26
+
+Zunächst ist darauf hinzuweisen, dass die Vorlagefragen auf der von Polbud beanstandeten Prämisse beruhen, dass diese Gesellschaft nicht beabsichtige, ihren tatsächlichen Sitz nach Luxemburg zu verlegen.
+
+27
+
+Insoweit ist daran zu erinnern, dass Art. 267 AEUV nach ständiger Rechtsprechung des Gerichtshofs ein Verfahren des unmittelbaren Zusammenwirkens des Gerichtshofs und der Gerichte der Mitgliedstaaten vorsieht. Im Rahmen dieses Verfahrens, das auf einer klaren Aufgabentrennung zwischen den nationalen Gerichten und dem Gerichtshof beruht, fällt jede Beurteilung des Sachverhalts in die Zuständigkeit des nationalen Gerichts, das im Hinblick auf die Besonderheiten der Rechtssache sowohl die Erforderlichkeit einer Vorabentscheidung für den Erlass seines Urteils als auch die Erheblichkeit der dem Gerichtshof vorzulegenden Fragen zu beurteilen hat, während der Gerichtshof nur befugt ist, sich auf der Grundlage des ihm vom nationalen Gericht unterbreiteten Sachverhalts zur Auslegung oder zur Gültigkeit einer Unionsvorschrift zu äußern (vgl. insbesondere Urteil vom 16. Juni 2015, Gauweiler u. a., C‑62/14, EU:C:2015:400, Rn. 15).
+
+28
+
+Somit sind die Vorlagefragen auf der Grundlage dieser – jedoch vom vorlegenden Gericht auf ihre Begründetheit zu prüfenden – Prämisse zu beantworten.
+
+Zur dritten Frage
+
+29
+
+Mit seiner dritten Frage, die als Erstes zu prüfen ist, möchte das vorlegende Gericht wissen, ob die Art. 49 und 54 AEUV dahin auszulegen sind, dass die Niederlassungsfreiheit für die Verlegung des satzungsmäßigen Sitzes einer nach dem Recht eines Mitgliedstaats gegründeten Gesellschaft in einen anderen Mitgliedstaat gilt, durch die diese ohne Verlegung ihres tatsächlichen Sitzes in eine dem Recht dieses anderen Mitgliedstaats unterliegende Gesellschaft umgewandelt werden soll.
+
+30
+
+Die polnische und die österreichische Regierung tragen vor, die Art. 49 und 54 AEUV seien auf eine Sitzverlegung wie die im Ausgangsverfahren in Rede stehende nicht anwendbar. Die österreichische Regierung ist der Auffassung, die Niederlassungsfreiheit könne nicht geltend gemacht werden, wenn die Sitzverlegung nicht durch die tatsächliche Ausübung einer wirtschaftlichen Tätigkeit mittels einer festen Einrichtung im Aufnahmemitgliedstaat begründet werde. Die polnische Regierung nimmt u. a. Bezug auf die Urteile vom 27. September 1988, Daily Mail and General Trust (81/87, EU:C:1988:456), und vom 16. Dezember 2008, Cartesio (C‑210/06, EU:C:2008:723), um ihre Schlussfolgerung, wonach eine Sitzverlegung wie die im Ausgangsverfahren in Rede stehende nicht in den Anwendungsbereich der Art. 49 und 54 AEUV fällt, zu rechtfertigen.
+
+31
+
+Dem kann nicht gefolgt werden.
+
+32
+
+Nach Art. 49 AEUV in Verbindung mit Art. 54 AEUV genießen diejenigen Gesellschaften Niederlassungsfreiheit, die nach dem Recht eines Mitgliedstaats gegründet wurden und ihren satzungsmäßigen Sitz, ihre Hauptverwaltung oder ihre Hauptniederlassung innerhalb der Europäischen Union haben. Somit kann sich eine Gesellschaft wie Polbud, die nach dem Recht eines Mitgliedstaats, nämlich nach polnischem Recht, gegründet wurde, grundsätzlich auf diese Grundfreiheit berufen.
+
+33
+
+Die Niederlassungsfreiheit umfasst nach Art. 49 Abs. 2 AEUV in Verbindung mit Art. 54 AEUV für die in der letztgenannten Bestimmung genannten Gesellschaften u. a. das Recht auf Gründung und Leitung dieser Gesellschaften nach den Bestimmungen des Niederlassungsstaats für seine eigenen Gesellschaften. Sie umfasst also den Anspruch einer nach dem Recht eines Mitgliedstaats gegründeten Gesellschaft auf Umwandlung in eine dem Recht eines anderen Mitgliedstaats unterliegende Gesellschaft (vgl. in diesem Sinne Urteil vom 27. September 1988, Daily Mail and General Trust, 81/87, EU:C:1988:456, Rn. 17), soweit die Voraussetzungen des Rechts jenes anderen Mitgliedstaats eingehalten sind und insbesondere das Kriterium erfüllt ist, das in diesem anderen Mitgliedstaat für die Verbundenheit einer Gesellschaft mit seiner nationalen Rechtsordnung erforderlich ist.
+
+34
+
+Insoweit ist daran zu erinnern, dass mangels Vereinheitlichung im Unionsrecht die Definition der Anknüpfung, die für das auf eine Gesellschaft anwendbare nationale Recht maßgeblich ist, gemäß Art. 54 AEUV in die Zuständigkeit jedes einzelnen Mitgliedstaats fällt, da nach dieser Vorschrift der satzungsmäßige Sitz, die Hauptverwaltung und die Hauptniederlassung einer Gesellschaft als Anknüpfung für eine solche Verbundenheit gleich geachtet werden (vgl. in diesem Sinne Urteil vom 27. September 1988, Daily Mail and General Trust, 81/87, EU:C:1988:456, Rn. 19 bis 21).
+
+35
+
+Für den vorliegenden Fall folgt hieraus, dass Polbud als Gesellschaft polnischen Rechts durch die Niederlassungsfreiheit den Anspruch auf Umwandlung in eine Gesellschaft luxemburgischen Rechts erhält, soweit sie die nach luxemburgischem Recht für die Gründung einer Gesellschaft geltenden Voraussetzungen und insbesondere das in Luxemburg erforderliche Kriterium für die Verbundenheit einer Gesellschaft mit der luxemburgischen Rechtsordnung erfüllt.
+
+36
+
+Dieses Ergebnis wird durch das Vorbringen der polnischen und der österreichischen Regierung nicht in Frage gestellt.
+
+37
+
+Erstens kann das Vorbringen der österreichischen Regierung, wonach Polbud im Aufnahmemitgliedstaat keine tatsächliche wirtschaftliche Tätigkeit ausübe, nicht durchgreifen.
+
+38
+
+Nach der Rechtsprechung des Gerichtshofs fällt ein Sachverhalt, bei dem eine Gesellschaft, die nach dem Recht des Mitgliedstaats, in dem sie ihren satzungsmäßigen Sitz hat, gegründet wurde, eine Zweigniederlassung in einem anderen Mitgliedstaat gründen will, unter die Niederlassungsfreiheit, selbst wenn die Gesellschaft im ersten Mitgliedstaat nur errichtet wurde, um sich im zweiten Mitgliedstaat niederzulassen, in dem die Geschäftstätigkeit im Wesentlichen oder ausschließlich ausgeübt werden soll (vgl. in diesem Sinne Urteil vom 9. März 1999, Centros, C‑212/97, EU:C:1999:126, Rn. 17). Ebenso fällt ein Sachverhalt, bei dem eine nach dem Recht eines Mitgliedstaats gegründete Gesellschaft eine Umwandlung in eine dem Recht eines anderen Mitgliedstaats unterliegende Gesellschaft unter Beachtung des in diesem anderen Mitgliedstaat für die Verbundenheit einer Gesellschaft mit seiner nationalen Rechtsordnung zu erfüllenden Kriteriums vornehmen will, unter die Niederlassungsfreiheit, selbst wenn diese Gesellschaft ihre Geschäftstätigkeit im Wesentlichen oder ausschließlich im ersten Mitgliedstaat ausüben soll.
+
+39
+
+Ferner ist darauf hinzuweisen, dass die Frage der Anwendbarkeit der Art. 49 und 54 AEUV von der Frage zu unterscheiden ist, ob ein Mitgliedstaat Maßnahmen ergreifen kann, um zu verhindern, dass sich einige seiner Staatsangehörigen unter Missbrauch der durch den Vertrag geschaffenen Erleichterungen der Anwendung des nationalen Rechts entziehen; dass ein Mitgliedstaat solche Maßnahmen treffen kann, ist ständige Rechtsprechung (Urteile vom 9. März 1999, Centros, C‑212/97, EU:C:1999:126, Rn. 18 und 24, sowie vom 30. September 2003, Inspire Art, C‑167/01, EU:C:2003:512, Rn. 98).
+
+40
+
+Jedoch ist darauf hinzuweisen, dass es nach der Rechtsprechung des Gerichtshofs für sich allein keinen Missbrauch darstellt, wenn eine Gesellschaft ihren – satzungsmäßigen oder tatsächlichen – Sitz nach dem Recht eines Mitgliedstaats begründet, um in den Genuss günstigerer Rechtsvorschriften zu kommen (vgl. in diesem Sinne Urteile vom 9. März 1999, Centros, C‑212/97, EU:C:1999:126, Rn. 27, und vom 30. September 2003, Inspire Art, C‑167/01, EU:C:2003:512, Rn. 96).
+
+41
+
+Folglich kann im Ausgangsverfahren allein der Umstand, dass Polbud beschlossen hat, nur ihren satzungsmäßigen Sitz nach Luxemburg zu verlegen, und ihr tatsächlicher Sitz von dieser Verlegung unberührt bleibt, nicht dazu führen, dass diese Verlegung nicht in den Anwendungsbereich der Art. 49 und 54 AEUV fällt.
+
+42
+
+Zweitens geht entgegen den Ausführungen der polnischen Regierung aus den Urteilen vom 27. September 1988, Daily Mail and General Trust (81/87, EU:C:1988:456), und vom 16. Dezember 2008, Cartesio (C‑210/06, EU:C:2008:723), nicht hervor, dass mit der Verlegung des satzungsmäßigen Sitzes einer Gesellschaft zwangsläufig auch die Verlegung ihres tatsächlichen Sitzes einhergehen müsste, damit sie von der Niederlassungsfreiheit erfasst wird.
+
+43
+
+Vielmehr geht aus diesen Urteilen sowie aus dem Urteil vom 12. Juli 2012, VALE (C‑378/10, EU:C:2012:440), hervor, dass beim gegenwärtigen Stand des Unionsrechts jeder Mitgliedstaat die Anknüpfung festlegen kann, die von einer Gesellschaft verlangt wird, damit bei ihr von einer Gründung nach seinem nationalen Recht ausgegangen werden kann. Wird eine dem Recht eines Mitgliedstaats unterliegende Gesellschaft unter Einhaltung der Voraussetzungen des Rechts eines anderen Mitgliedstaats in eine dessen Recht unterliegende Gesellschaft umgewandelt, um nach der Rechtsordnung dieses anderen Mitgliedstaats fortzubestehen, ist diese Befugnis des Gründungsmitgliedstaats, die Anknüpfung festzulegen, keinesfalls mit irgendeiner Freistellung des Rechts des Herkunftsmitgliedstaats über die Gründung und Auflösung von Gesellschaften von der Beachtung der Vorschriften über die Niederlassungsfreiheit verbunden. Insbesondere rechtfertigt sie es nicht, dass der Gründungsmitgliedstaat die betroffene Gesellschaft u. a. dadurch daran hindert oder davon abhält, eine solche grenzüberschreitende Umwandlung vorzunehmen, dass er diese Umwandlung Voraussetzungen unterwirft, die strenger als diejenigen sind, die in diesem Mitgliedstaat für innerstaatliche Umwandlungen gelten (vgl. in diesem Sinne Urteile vom 27. September 1988, Daily Mail and General Trust, 81/87, EU:C:1988:456, Rn. 19 bis 21, vom 16. Dezember 2008, Cartesio, C‑210/06, EU:C:2008:723, Rn. 109 bis 112, und vom 12. Juli 2012, VALE, C‑378/10, EU:C:2012:440, Rn. 32).
+
+44
+
+Nach alledem ist auf die dritte Vorlagefrage zu antworten, dass die Art. 49 und 54 AEUV dahin auszulegen sind, dass die Niederlassungsfreiheit für die Verlegung des satzungsmäßigen Sitzes einer nach dem Recht eines Mitgliedstaats gegründeten Gesellschaft in einen anderen Mitgliedstaat gilt, durch die diese unter Einhaltung der dort geltenden Bestimmungen ohne Verlegung ihres tatsächlichen Sitzes in eine dem Recht dieses anderen Mitgliedstaats unterliegende Gesellschaft umgewandelt werden soll.
+
+Zur ersten und zur zweiten Frage
+
+45
+
+Mit seiner ersten und seiner zweiten Frage, die zusammen zu prüfen sind, möchte das vorlegende Gericht wissen, ob die Art. 49 und 54 AEUV dahin auszulegen sind, dass sie der Regelung eines Mitgliedstaats entgegenstehen, die die Verlegung des satzungsmäßigen Sitzes einer nach dem Recht eines Mitgliedstaats gegründeten Gesellschaft in einen anderen Mitgliedstaat, durch die sie unter Einhaltung der dort geltenden Bestimmungen in eine dem Recht dieses anderen Mitgliedstaats unterliegende Gesellschaft umgewandelt werden soll, von der Auflösung der ersten Gesellschaft abhängig macht.
+
+Zum Vorliegen einer Beschränkung der Niederlassungsfreiheit
+
+46
+
+Art. 49 AEUV schreibt die Aufhebung der Beschränkungen der Niederlassungsfreiheit vor. Nach ständiger Rechtsprechung sind als Beschränkung der Niederlassungsfreiheit alle Maßnahmen anzusehen, die die Ausübung dieser Freiheit unterbinden, behindern oder weniger attraktiv machen (Urteil vom 29. November 2011, National Grid Indus, C‑371/10, EU:C:2011:785, Rn. 36 und die dort angeführte Rechtsprechung).
+
+47
+
+In der vorliegenden Rechtssache ergibt sich aus dem Vorabentscheidungsersuchen, dass die Verlegung des Sitzes einer Gesellschaft polnischen Rechts von der Republik Polen in einen anderen Mitgliedstaat gemäß Art. 19 Abs. 1 des IPR-Gesetzes nicht zum Verlust der Rechtspersönlichkeit führt. Wie die Generalanwältin in Nr. 46 ihrer Schlussanträge ausführt, erkennt das polnische Recht somit vorliegend an, dass die Rechtspersönlichkeit von Polbud grundsätzlich durch Consoil Geotechnik fortgesetzt werden kann.
+
+48
+
+Gemäß Art. 270 Nr. 2 und Art. 272 KSH führt der nach Art. 562 § 1 KSH ergangene Gesellschafterbeschluss betreffend die Sitzverlegung von der Republik Polen in einen anderen Mitgliedstaat am Ende des Liquidationsverfahrens zur Auflösung der Gesellschaft. Außerdem kann nach Art. 288 § 1 KSH eine Gesellschaft, die ihren Sitz von der Republik Polen in einen anderen Mitgliedstaat verlegen möchte, nicht ohne Liquidation im Handelsregister gelöscht werden.
+
+49
+
+Folglich kann eine Gesellschaft polnischen Rechts wie Polbud ihren satzungsmäßigen Sitz zwar grundsätzlich ohne Verlust ihrer Rechtspersönlichkeit von der Republik Polen in einen anderen Mitgliedstaat verlegen; sie kann aber nur unter der Voraussetzung im polnischen Handelsregister gelöscht werden, dass zuvor ein Liquidationsverfahren durchgeführt wurde.
+
+50
+
+Insoweit ist darauf hinzuweisen, dass gemäß dem Vorabentscheidungsersuchen von der Liquidation die Beendigung der laufenden Geschäfte und die Beitreibung der Forderungen der Gesellschaft, die Erfüllung der Verbindlichkeiten und die Verflüssigung des Gesellschaftsvermögens, die Befriedigung oder Absicherung der Gläubiger, die Erstellung eines Finanzberichts über die Vornahme dieser Handlungen und die Benennung des Verwahrers der Bücher und Unterlagen der Gesellschaft, die abgewickelt wird, umfasst sind.
+
+51
+
+Unter diesen Umständen ist davon auszugehen, dass die im Ausgangsverfahren in Rede stehende nationale Regelung geeignet ist, die grenzüberschreitende Umwandlung einer Gesellschaft zu erschweren oder gar zu verhindern. Folglich stellt sie eine Beschränkung der Niederlassungsfreiheit dar (vgl. in diesem Sinne Urteil vom 16. Dezember 2008, Cartesio, C‑210/06, EU:C:2008:723, Rn. 112 und 113).
+
+Zur Rechtfertigung der Beschränkung der Niederlassungsfreiheit
+
+52
+
+Eine solche Beschränkung der Niederlassungsfreiheit ist nach ständiger Rechtsprechung des Gerichtshofs nur statthaft, wenn sie durch zwingende Gründe des Allgemeininteresses gerechtfertigt ist. Sie muss außerdem geeignet sein, die Erreichung des fraglichen Ziels zu gewährleisten, und darf nicht über das hinausgehen, was zur Erreichung dieses Ziels erforderlich ist (Urteil vom 29. November 2011, National Grid Indus, C‑371/10, EU:C:2011:785, Rn. 42 und die dort angeführte Rechtsprechung).
+
+53
+
+Das vorlegende Gericht geht erstens davon aus, dass die Beschränkung der Niederlassungsfreiheit vorliegend durch das Ziel gerechtfertigt sei, die Gläubiger, Minderheitsgesellschafter und Arbeitnehmer der wegziehenden Gesellschaft zu schützen.
+
+54
+
+Insoweit ist daran zu erinnern, dass der Schutz der Gläubiger und der Minderheitsgesellschafter zu den vom Gerichtshof anerkannten zwingenden Gründen des Allgemeininteresses gehört (vgl. in diesem Sinne Urteil vom 13. Dezember 2005, SEVIC Systems, C‑411/03, EU:C:2005:762, Rn. 28 und die dort angeführte Rechtsprechung). Dasselbe gilt für den Schutz der Arbeitnehmer (vgl. in diesem Sinne Urteil vom 21. Dezember 2016, AGET Iraklis, C‑201/15, EU:C:2016:972, Rn. 73 und die dort angeführte Rechtsprechung).
+
+55
+
+Somit stehen die Art. 49 und 54 AEUV grundsätzlich Maßnahmen eines Mitgliedstaats nicht entgegen, mit denen verhindert werden soll, dass die Interessen der Gläubiger, der Minderheitsgesellschafter und der Arbeitnehmer einer Gesellschaft, die nach dem Recht dieses Mitgliedstaats gegründet wurde und dort weiterhin tätig ist, durch die Verlegung des satzungsmäßigen Sitzes dieser Gesellschaft und ihre Umwandlung in eine dem Recht eines anderen Mitgliedstaats unterliegende Gesellschaft übermäßig beeinträchtigt werden.
+
+56
+
+Gemäß der in Rn. 52 des vorliegenden Urteils angeführten Rechtsprechung ist jedoch noch zu prüfen, ob die im Ausgangsverfahren in Rede stehende Beschränkung geeignet ist, die Erreichung des Ziels, nämlich den Schutz der Interessen der Gläubiger, der Minderheitsgesellschafter und der Arbeitnehmer zu gewährleisten, ohne dabei über das hinauszugehen, was zur Erreichung dieses Ziels erforderlich ist.
+
+57
+
+Im vorliegenden Rechtsstreit sieht die polnische Regelung eine Verpflichtung zur Liquidation der Gesellschaft vor, die ihren Sitz von der Republik Polen in einen anderen Mitgliedstaat verlegen möchte.
+
+58
+
+Diese Regelung sieht eine allgemeine Verpflichtung zur Liquidation vor, ohne dabei zu berücksichtigen, ob tatsächlich eine Gefahr für Interessen der Gläubiger, der Minderheitsgesellschafter und der Arbeitnehmer besteht, und ohne eine Möglichkeit vorzusehen, weniger einschneidende Maßnahmen zu wählen, durch die diese Interessen ebenso geschützt werden können. Insbesondere in Bezug auf die Interessen der Gläubiger hat die Europäische Kommission darauf hingewiesen, dass diese Interessen durch Bankbürgschaften oder andere gleichwertige Garantien angemessen geschützt werden könnten.
+
+59
+
+Folglich geht die in der im Ausgangsverfahren in Rede stehenden nationalen Regelung vorgesehene Verpflichtung zur Liquidation der Gesellschaft über das hinaus, was zur Erreichung des Ziels, die in Rn. 56 des vorliegenden Urteils genannten Interessen zu schützen, erforderlich ist.
+
+60
+
+Zweitens stützt sich die polnische Regierung bei der Rechtfertigung der im Ausgangsverfahren in Rede stehenden nationalen Regelung auf das Ziel, missbräuchliche Verhaltensweisen zu bekämpfen.
+
+61
+
+Die Mitgliedstaaten können insoweit alle geeigneten Maßnahmen treffen, um Betrügereien zu verhindern oder zu verfolgen (Urteil vom 9. März 1999, Centros, C‑212/97, EU:C:1999:126, Rn. 38).
+
+62
+
+Aus der in Rn. 40 des vorliegenden Urteils angeführten Rechtsprechung geht jedoch hervor, dass es für sich allein keinen Missbrauch darstellt, wenn eine Gesellschaft ihren – satzungsmäßigen oder tatsächlichen – Sitz nach dem Recht eines Mitgliedstaats begründet, um in den Genuss günstigerer Rechtsvorschriften zu kommen.
+
+63
+
+Außerdem kann allein der Umstand, dass eine Gesellschaft ihren Sitz in einen anderen Mitgliedstaat verlegt, nicht die allgemeine Vermutung der Steuerhinterziehung begründen und keine die Wahrnehmung einer vom Vertrag garantierten Grundfreiheit beeinträchtigende Maßnahme rechtfertigen (vgl. entsprechend Urteil vom 29. November 2011, National Grid Indus, C‑371/10, EU:C:2011:785, Rn. 84).
+
+64
+
+Da die allgemeine Pflicht zur Durchführung eines Liquidationsverfahrens einer allgemeinen Missbrauchsvermutung gleichkommt, ist eine Regelung wie die im Ausgangsverfahren in Rede stehende, die ein solche Verpflichtung vorsieht, als unverhältnismäßig anzusehen.
+
+65
+
+Nach alledem ist auf die erste und die zweite Vorlagefrage zu antworten, dass die Art. 49 und 54 AEUV dahin auszulegen sind, dass sie der Regelung eines Mitgliedstaats entgegenstehen, die die Verlegung des satzungsmäßigen Sitzes einer nach dem Recht eines Mitgliedstaats gegründeten Gesellschaft in einen anderen Mitgliedstaat, durch die sie unter Einhaltung der dort geltenden Bestimmungen in eine dem Recht dieses anderen Mitgliedstaats unterliegende Gesellschaft umgewandelt werden soll, von der Auflösung der ersten Gesellschaft abhängig macht.
+
+Kosten
+
+66
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Große Kammer) für Recht erkannt:
+
+ 	
+1.
+
+Die Art. 49 und 54 AEUV sind dahin auszulegen, dass die Niederlassungsfreiheit für die Verlegung des satzungsmäßigen Sitzes einer nach dem Recht eines Mitgliedstaats gegründeten Gesellschaft in einen anderen Mitgliedstaat gilt, durch die diese unter Einhaltung der dort geltenden Bestimmungen ohne Verlegung ihres tatsächlichen Sitzes in eine dem Recht dieses anderen Mitgliedstaats unterliegende Gesellschaft umgewandelt werden soll.
+
+ 	
+2.
+
+Die Art. 49 und 54 AEUV sind dahin auszulegen, dass sie der Regelung eines Mitgliedstaats entgegenstehen, die die Verlegung des satzungsmäßigen Sitzes einer nach dem Recht eines Mitgliedstaats gegründeten Gesellschaft in einen anderen Mitgliedstaat, durch die sie unter Einhaltung der dort geltenden Bestimmungen in eine dem Recht dieses anderen Mitgliedstaats unterliegende Gesellschaft umgewandelt werden soll, von der Auflösung der ersten Gesellschaft abhängig macht.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Polnisch.
+
+( 1 )	Die vorliegende Sprachfassung ist in Rn. 43 gegenüber der ursprünglich online gestellten Fassung geändert worden.

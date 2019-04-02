@@ -1,0 +1,404 @@
+URTEIL DES GERICHTSHOFS (Große Kammer)
+
+18. Juli 2017 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Freizügigkeit der Arbeitnehmer – Diskriminierungsverbot – Wahl der Arbeitnehmervertreter im Aufsichtsrat einer Gesellschaft – Nationale Regelung, nach der allein die Arbeitnehmer der im Inland gelegenen Betriebe das aktive und passive Wahlrecht haben“
+
+In der Rechtssache C‑566/15
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Kammergericht (Berlin, Deutschland) mit Entscheidung vom 16. Oktober 2015, beim Gerichtshof eingegangen am 3. November 2015, in dem Verfahren
+
+Konrad Erzberger
+
+gegen
+
+TUI AG,
+
+Beteiligte:
+
+Vereinigung Cockpit e. V.,
+
+Betriebsrat der TUI AG/TUI Group Services GmbH,
+
+Frank Jakobi,
+
+Andreas Barczewski,
+
+Peter Bremme,
+
+Dierk Hirschel,
+
+Michael Pönipp,
+
+Wilfried H. Rau,
+
+Carola Schwirn,
+
+Anette Stempel,
+
+Ortwin Strubelt,
+
+Marcell Witt,
+
+Wolfgang Flintermann,
+
+Stefan Weinhofer,
+
+ver.di – Vereinte Dienstleistungsgewerkschaft,
+
+erlässt
+
+DER GERICHTSHOF (Große Kammer)
+
+unter Mitwirkung des Präsidenten K. Lenaerts, des Vizepräsidenten A. Tizzano, der Kammerpräsidentin R. Silva de Lapuerta, der Kammerpräsidenten M. Ilešič und J. L. da Cruz Vilaça sowie der Richter A. Borg Barthet, J. Malenovský, E. Levits (Berichterstatter), J.‑C. Bonichot, A. Arabadjiev, C. Vajda, S. Rodin und F. Biltgen,
+
+Generalanwalt: H. Saugmandsgaard Øe,
+
+Kanzler: K. Malacek, Verwaltungsrat,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 24. Januar 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+von Herrn Erzberger, vertreten durch die Rechtsanwälte J. Brandhoff, C. Behme und S. Richter,
+
+–
+
+der TUI AG, vertreten durch die Rechtsanwälte C. Arnold und M. Arnold,
+
+–
+
+der Vereinigung Cockpit e. V., vertreten durch Rechtsanwältin M. Fischer,
+
+–
+
+des Betriebsrats der TUI AG/TUI Group Services GmbH u. a., vertreten durch Rechtsanwältin M. Schmidt,
+
+–
+
+der deutschen Regierung, vertreten durch J. Möller und T. Henze als Bevollmächtigte,
+
+–
+
+der französischen Regierung, vertreten durch R. Coesme als Bevollmächtigten,
+
+–
+
+der luxemburgischen Regierung, vertreten durch P. Kinsch, avocat,
+
+–
+
+der niederländischen Regierung, vertreten durch H. Stergiou als Bevollmächtigte,
+
+–
+
+der österreichischen Regierung, vertreten durch G. Eberhard als Bevollmächtigten,
+
+–
+
+der Europäischen Kommission, vertreten durch M. Kellerbauer und D. Martin als Bevollmächtigte,
+
+–
+
+der EFTA-Überwachungsbehörde, vertreten durch M. Moustakali und C. Zatschler als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 4. Mai 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung der Art. 18 und 45 AEUV.
+
+2
+
+Es ergeht im Rahmen eines Rechtsstreits zwischen Herrn Konrad Erzberger und der in Deutschland ansässigen TUI AG, deren Anteilseigner er ist, über die Zusammensetzung des Aufsichtsrats dieser Gesellschaft, insbesondere in Bezug auf das aktive und passive Wahlrecht bei den Wahlen der Arbeitnehmervertreter im Aufsichtsrat.
+
+Rechtlicher Rahmen
+
+3
+
+§ 96 des Aktiengesetzes vom 6. September 1965 (BGBl. 1965 I S. 1089) bestimmt:
+
+„(1)   Der Aufsichtsrat setzt sich zusammen
+
+bei Gesellschaften, für die das Mitbestimmungsgesetz gilt, aus Aufsichtsratsmitgliedern der Aktionäre und der Arbeitnehmer,
+
+…
+
+bei den übrigen Gesellschaften nur aus Aufsichtsratsmitgliedern der Aktionäre.
+
+…“
+
+4
+
+Das Gesetz über die Mitbestimmung der Arbeitnehmer vom 4. Mai 1976 (Mitbestimmungsgesetz – MitbestG, BGBl. 1976 I S. 1153) sieht in § 1 („Erfasste Unternehmen“) vor:
+
+„(1)   In Unternehmen, die
+
+1.
+
+in der Rechtsform einer Aktiengesellschaft, einer Kommanditgesellschaft auf Aktien, einer Gesellschaft mit beschränkter Haftung oder einer Genossenschaft betrieben werden und
+
+2.
+
+in der Regel mehr als 2000 Arbeitnehmer beschäftigen,
+
+haben die Arbeitnehmer ein Mitbestimmungsrecht nach Maßgabe dieses Gesetzes.
+
+…“
+
+5
+
+§ 3 Abs. 1 Nr. 1 MitbestG sieht vor:
+
+„Arbeitnehmer im Sinne dieses Gesetzes sind
+
+1.
+
+die in § 5 Abs. 1 des Betriebsverfassungsgesetzes bezeichneten Personen …“
+
+6
+
+In § 5 Abs. 1 Satz 1 MitbestG heißt es:
+
+„Ist ein … Unternehmen herrschendes Unternehmen eines Konzerns …, so gelten für die Anwendung dieses Gesetzes auf das herrschende Unternehmen die Arbeitnehmer der Konzernunternehmen als Arbeitnehmer des herrschenden Unternehmens.“
+
+7
+
+§ 7 MitbestG bestimmt:
+
+„(1)   Der Aufsichtsrat eines Unternehmens
+
+…
+
+3.
+
+mit in der Regel mehr als 20000 Arbeitnehmern setzt sich zusammen aus je zehn Aufsichtsratsmitgliedern der Anteilseigner und der Arbeitnehmer.
+
+…
+
+(2)   Unter den Aufsichtsratsmitgliedern der Arbeitnehmer müssen sich befinden
+
+…
+
+3.
+
+in einem Aufsichtsrat, dem zehn Aufsichtsratsmitglieder der Arbeitnehmer angehören, sieben Arbeitnehmer des Unternehmens und drei Vertreter von Gewerkschaften.
+
+…“
+
+8
+
+§ 10 MitbestG sieht vor:
+
+„(1)   In jedem Betrieb des Unternehmens wählen die Arbeitnehmer in geheimer Wahl und nach den Grundsätzen der Verhältniswahl Delegierte.
+
+(2)   Wahlberechtigt für die Wahl von Delegierten sind die Arbeitnehmer des Unternehmens, die das 18. Lebensjahr vollendet haben. …
+
+(3)   Zu Delegierten wählbar sind die in Absatz 2 Satz 1 bezeichneten Arbeitnehmer, die die weiteren Wählbarkeitsvoraussetzungen des § 8 des Betriebsverfassungsgesetzes erfüllen.
+
+…“
+
+9
+
+§ 8 des Betriebsverfassungsgesetzes (BetrVG, BGBl. 2001 I S. 2518) sieht vor:
+
+„(1)   Wählbar sind alle Wahlberechtigten, die sechs Monate dem Betrieb angehören oder als in Heimarbeit Beschäftigte in der Hauptsache für den Betrieb gearbeitet haben. Auf diese sechsmonatige Betriebszugehörigkeit werden Zeiten angerechnet, in denen der Arbeitnehmer unmittelbar vorher einem anderen Betrieb desselben Unternehmens oder Konzerns … angehört hat. …
+
+(2)   Besteht der Betrieb weniger als sechs Monate, so sind abweichend von der Vorschrift in Absatz 1 über die sechsmonatige Betriebszugehörigkeit diejenigen Arbeitnehmer wählbar, die bei der Einleitung der Betriebsratswahl im Betrieb beschäftigt sind und die übrigen Voraussetzungen für die Wählbarkeit erfüllen.“
+
+Ausgangsverfahren und Vorlagefragen
+
+10
+
+Herr Erzberger ist Anteilseigner von TUI, die an der Spitze einer im Touristiksektor tätigen Unternehmensgruppe (im Folgenden: TUI-Gruppe) steht.
+
+11
+
+Die TUI-Gruppe ist weltweit tätig. Sie hat in der Europäischen Union ungefähr 50000 Arbeitnehmer, von denen etwas mehr als 10000 in Deutschland arbeiten.
+
+12
+
+TUI fällt unter das MitbestG und wird von zwei Organen geführt, nämlich dem Vorstand, dem die Unternehmensleitung obliegt, und dem Aufsichtsrat, der die Aufgabe hat, den Vorstand unter Beteiligung der Arbeitnehmer zu überwachen. Ihr Aufsichtsrat hat 20 Mitglieder. Er besteht zur Hälfte aus Vertretern der Anteilseigner und zur Hälfte aus von den Arbeitnehmern bestimmten Vertretern.
+
+13
+
+Das vorlegende Gericht weist darauf hin, dass nach der herrschenden Meinung in der deutschen Lehre und Rechtsprechung unter Arbeitnehmern zum Zweck der Anwendung des MitbestG nur die Arbeitnehmer der im Inland gelegenen Betriebe verstanden würden. Nach dieser Mehrheitsmeinung besäßen die Arbeitnehmer einer außerhalb Deutschlands, etwa in einem anderen Mitgliedstaat, gelegenen Tochtergesellschaft eines Konzerns kein aktives und passives Wahlrecht bei den Wahlen zum Aufsichtsrat der Muttergesellschaft des Konzerns. Zudem müsse ein Arbeitnehmer der TUI-Gruppe, der ein Amt im Aufsichtsrat der Muttergesellschaft des Konzerns ausübe, dieses Amt aufgeben, wenn er eine Stelle in einer Tochtergesellschaft des Konzerns in einem anderen Mitgliedstaat als der Bundesrepublik Deutschland antrete.
+
+14
+
+Diese Lesart beruhe nicht auf dem Wortlaut des MitbestG, sondern auf dem „Territorialitätsprinzip“, wonach sich die deutsche Sozialordnung nicht auf das Hoheitsgebiet anderer Staaten erstrecken könne, sowie auf der Entstehungsgeschichte des Gesetzes.
+
+15
+
+Herr Erzberger ist dagegen der Ansicht, der Aufsichtsrat von TUI sei nicht richtig zusammengesetzt. Dass die bei einer Tochtergesellschaft der TUI-Gruppe in einem anderen Mitgliedstaat als der Bundesrepublik Deutschland beschäftigten Arbeitnehmer, bei denen es sich in der Regel nicht um deutsche Staatsangehörige handeln werde, an der Zusammensetzung des Aufsichtsrats von TUI nicht mitwirken dürften, verstoße gegen Art. 18 AEUV. Darüber hinaus sei der Verlust der Mitgliedschaft im Aufsichtsrat bei einer Versetzung in einen anderen Mitgliedstaat als die Bundesrepublik Deutschland geeignet, die Arbeitnehmer davon abzuhalten, von ihrem Recht aus Art. 45 AEUV Gebrauch zu machen, sich im Hoheitsgebiet der Mitgliedstaaten frei zu bewegen.
+
+16
+
+Da TUI gegenteiliger Ansicht war, nahm Herr Erzberger das ihm nach den nationalen Rechtsvorschriften zustehende Recht in Anspruch, sich bei einem Streit über die für die Zusammensetzung des Aufsichtsrats geltenden Rechtsvorschriften an ein Gericht zu wenden.
+
+17
+
+Das Landgericht Berlin (Deutschland) wies seine Klage ab. Es verneinte sowohl eine Diskriminierung aus Gründen der Staatsangehörigkeit als auch einen Verstoß gegen die Freizügigkeit der Arbeitnehmer, da der Verlust des Wahlrechts bei einer Versetzung nicht für die Entscheidung der Arbeitnehmer ausschlaggebend sei, eine Stelle in einem anderen Mitgliedstaat als der Bundesrepublik Deutschland anzutreten.
+
+18
+
+Das mit der Berufung befasste Kammergericht (Berlin, Deutschland) hält eine Verletzung des Unionsrechts für möglich. Es sei vorstellbar, dass die deutschen Mitbestimmungsvorschriften eine Diskriminierung der Arbeitnehmer aus Gründen der Staatsangehörigkeit mit sich brächten und gegen die Freizügigkeit der Arbeitnehmer verstießen.
+
+19
+
+Zum einen seien nämlich die in einem anderen Mitgliedstaat beschäftigten Arbeitnehmer, im vorliegenden Fall ungefähr 80 % der Arbeitnehmer der TUI-Gruppe, anders als die in Deutschland beschäftigten Arbeitnehmer im Aufsichtsrat von TUI nicht vertreten.
+
+20
+
+Zum anderen sei der drohende Verlust der Mitgliedschaft im Aufsichtsrat geeignet, die Arbeitnehmer davon abzuhalten, sich um tatsächlich ausgeschriebene Stellen in einem anderen Mitgliedstaat als der Bundesrepublik Deutschland zu bewerben und sich zu diesem Zweck frei im Unionsgebiet zu bewegen.
+
+21
+
+Da das Kammergericht (Berlin) insoweit keine ausreichende Rechtfertigung sieht, hat es das Verfahren ausgesetzt und dem Gerichtshof folgende Frage zur Vorabentscheidung vorgelegt:
+
+Ist es mit Art. 18 AEUV und Art. 45 AEUV vereinbar, dass ein Mitgliedstaat das aktive und passive Wahlrecht für die Vertreter der Arbeitnehmer in das Aufsichtsorgan eines Unternehmens nur solchen Arbeitnehmern einräumt, die in Betrieben des Unternehmens oder in Konzernunternehmen im Inland beschäftigt sind?
+
+Zur Vorlagefrage
+
+Vorbemerkung
+
+22
+
+Im Interesse einer zweckdienlichen Beantwortung der Frage des vorlegenden Gerichts ist den unterschiedlichen Fallgestaltungen Rechnung zu tragen, die es bei den verschiedenen bei einer Gesellschaft der TUI-Gruppe beschäftigten Arbeitnehmern gibt.
+
+23
+
+Ferner ist darauf hinzuweisen, dass die TUI-Gruppe nach den Angaben des Vertreters von TUI in der mündlichen Verhandlung außerhalb Deutschlands nur über Betriebe verfügt, die mit eigener Rechtspersönlichkeit ausgestattet sind.
+
+Zu den bei einer Tochtergesellschaft mit Sitz in einem anderen Mitgliedstaat als der Bundesrepublik Deutschland beschäftigten Arbeitnehmern der TUI-Gruppe
+
+24
+
+Das vorlegende Gericht möchte zunächst wissen, ob die Art. 18 und 45 AEUV dahin auszulegen sind, dass sie einer Regelung eines Mitgliedstaats wie der im Ausgangsverfahren fraglichen entgegenstehen, die vorsieht, dass die Arbeitnehmer einer Unternehmensgruppe, die bei einer im Hoheitsgebiet eines anderen Mitgliedstaats ansässigen Tochtergesellschaft beschäftigt sind, nicht über das aktive und passive Wahlrecht bei den Wahlen der Arbeitnehmervertreter im Aufsichtsrat der Muttergesellschaft dieses Konzerns verfügen.
+
+25
+
+Nach ständiger Rechtsprechung, auf die der Generalanwalt in Nr. 39 seiner Schlussanträge hingewiesen hat, soll Art. 18 AEUV, in dem der allgemeine Grundsatz des Verbots der Diskriminierung aus Gründen der Staatsangehörigkeit verankert ist, eigenständig nur bei unionsrechtlich geregelten Fallgestaltungen zur Anwendung kommen, für die der AEU-Vertrag keine besonderen Diskriminierungsverbote vorsieht (Urteil vom 4. September 2014, Schiebel Aircraft,C‑474/12, EU:C:2014:2139, Rn. 20 und die dort angeführte Rechtsprechung).
+
+26
+
+Art. 45 Abs. 2 AEUV sieht jedoch zugunsten der Arbeitnehmer ein besonderes Verbot der Diskriminierung aus Gründen der Staatsangehörigkeit für den Bereich der Arbeitsbedingungen vor.
+
+27
+
+Daher ist die Situation der in Rn. 24 des vorliegenden Urteils genannten Arbeitnehmer nur im Licht von Art. 45 AEUV zu prüfen.
+
+28
+
+Insoweit ist darauf hinzuweisen, dass nach ständiger Rechtsprechung die Vertragsbestimmungen über die Freizügigkeit nicht auf Situationen anwendbar sind, die keine Berührung mit irgendeinem der Sachverhalte aufweisen, auf die das Unionsrecht abstellt. Daher sind sie nicht auf Arbeitnehmer anwendbar, die nie von ihrer Freizügigkeit innerhalb der Union Gebrauch gemacht haben oder Gebrauch machen wollen (vgl. in diesem Sinne Urteil vom 1. April 2008, Gouvernement de la Communauté française und Gouvernement wallon, C‑212/06, EU:C:2008:178, Rn. 33, 37 und 38).
+
+29
+
+Wie der Generalanwalt in den Nrn. 49 und 55 seiner Schlussanträge festgestellt hat, ist der Umstand, dass die Tochtergesellschaft, bei der die betreffenden Arbeitnehmer tätig sind, von einer Muttergesellschaft mit Sitz in einem anderen Mitgliedstaat als dem Sitzstaat der Tochtergesellschaft kontrolliert wird, für die Schaffung eines Berührungspunkts mit einem der von Art. 45 AEUV erfassten Sachverhalte ohne Bedeutung.
+
+30
+
+Daher fällt die Situation der in Rn. 24 des vorliegenden Urteils genannten Arbeitnehmer nicht in den Anwendungsbereich von Art. 45 AEUV.
+
+Zu den in Deutschland beschäftigten Arbeitnehmern der TUI-Gruppe, die ihre Stelle aufgeben, um eine Stelle bei einer in einem anderen Mitgliedstaat ansässigen Tochtergesellschaft dieses Konzerns anzutreten
+
+31
+
+Sodann möchte das vorlegende Gericht wissen, ob die Art. 18 und 45 AEUV dahin auszulegen sind, dass sie einer Regelung eines Mitgliedstaats wie der im Ausgangsverfahren fraglichen entgegenstehen, wonach die bei den inländischen Betrieben eines Konzerns beschäftigten Arbeitnehmer das aktive und passive Wahlrecht bei den Wahlen der Arbeitnehmervertreter im Aufsichtsrat der in diesem Mitgliedstaat ansässigen Muttergesellschaft des Konzerns sowie gegebenenfalls das Recht auf Ausübung oder weitere Ausübung eines Aufsichtsratsmandats verlieren, wenn sie ihre Stelle in einem solchen Betrieb aufgeben und eine Stelle bei einer in einem anderen Mitgliedstaat ansässigen Tochtergesellschaft dieses Konzerns antreten.
+
+32
+
+Hier geht es um Arbeitnehmer, die innerhalb der TUI-Gruppe von ihrem Recht aus Art. 45 AEUV Gebrauch machen. Daher findet, wie der Generalanwalt in Nr. 68 seiner Schlussanträge ausgeführt hat und wie sich aus den Rn. 25 und 26 des vorliegenden Urteils ergibt, Art. 18 AEUV auf diese Fallgestaltung keine Anwendung.
+
+33
+
+Nach ständiger Rechtsprechung des Gerichtshofs sollen sämtliche Bestimmungen des Vertrags über die Freizügigkeit den Unionsangehörigen die Ausübung beruflicher Tätigkeiten aller Art im Gebiet der Union erleichtern und stehen Maßnahmen entgegen, die die Unionsangehörigen benachteiligen könnten, wenn sie im Gebiet eines anderen Mitgliedstaats als ihres Herkunftsmitgliedstaats eine Tätigkeit ausüben wollen. In diesem Zusammenhang haben die Staatsangehörigen der Mitgliedstaaten insbesondere das unmittelbar aus dem Vertrag abgeleitete Recht, ihren Herkunftsmitgliedstaat zu verlassen, um sich zur Ausübung einer Tätigkeit in das Gebiet eines anderen Mitgliedstaats zu begeben und sich dort aufzuhalten. Folglich steht Art. 45 AEUV jeder nationalen Maßnahme entgegen, die geeignet ist, die Ausübung der durch diese Vorschrift garantierten Grundfreiheit durch die Unionsangehörigen zu behindern oder weniger attraktiv zu machen (vgl. in diesem Sinne Urteile vom 1. April 2008, Gouvernement de la Communauté française und gouvernement wallon, C‑212/06, EU:C:2008:178, Rn. 44 und 45, sowie vom 10. März 2011, Casteels,C‑379/09, EU:C:2011:131, Rn. 21 und 22).
+
+34
+
+Das Primärrecht der Union kann einem Arbeitnehmer jedoch nicht garantieren, dass ein Umzug in einen anderen Mitgliedstaat als seinen Herkunftsmitgliedstaat in sozialer Hinsicht neutral ist, da ein solcher Umzug aufgrund der Unterschiede, die zwischen den Systemen und den Rechtsvorschriften der Mitgliedstaaten bestehen, für die betreffende Person je nach Einzelfall Vorteile oder Nachteile in diesem Bereich haben kann (vgl. entsprechend Urteile vom 26. April 2007, Alevizos, C‑392/05, EU:C:2007:251, Rn. 76 und die dort angeführte Rechtsprechung, sowie vom 13. Juli 2016, Pöpperl, C‑187/15, EU:C:2016:550, Rn. 24).
+
+35
+
+Daher verschafft, wie der Generalanwalt im Wesentlichen in den Nrn. 75 und 78 seiner Schlussanträge festgestellt hat, Art. 45 AEUV einem solchen Arbeitnehmer nicht das Recht, sich im Aufnahmemitgliedstaat auf die Arbeitsbedingungen zu berufen, die ihm im Herkunftsmitgliedstaat nach den dortigen nationalen Rechtsvorschriften zustanden.
+
+36
+
+Insoweit ist hinzuzufügen, dass es den Mitgliedstaaten mangels Harmonisierungs- oder Koordinierungsmaßnahmen auf Unionsebene in dem betreffenden Bereich grundsätzlich unbenommen bleibt, die Anknüpfungskriterien des Anwendungsbereichs ihrer Rechtsvorschriften zu bestimmen, sofern diese Kriterien objektiv und nicht diskriminierend sind.
+
+37
+
+In diesem Zusammenhang hindert das Unionsrecht einen Mitgliedstaat nicht daran, im Bereich der kollektiven Vertretung und Verteidigung der Arbeitnehmerinteressen in den Leitungs- und Aufsichtsorganen einer Gesellschaft nationalen Rechts, der bislang nicht Gegenstand einer Harmonisierung oder auch nur einer Koordinierung auf Unionsebene war, vorzusehen, dass die von ihm erlassenen Vorschriften nur auf die Arbeitnehmer inländischer Betriebe Anwendung finden. Desgleichen steht es einem anderen Mitgliedstaat frei, bei der Anwendung seiner eigenen nationalen Vorschriften auf einen anderen Anknüpfungspunkt zurückzugreifen.
+
+38
+
+Im vorliegenden Fall gehört die durch das MitBestG eingeführte Mitbestimmungsregelung, die darauf abzielt, die Arbeitnehmer durch gewählte Vertreter in die Entscheidungs- und strategischen Organe der Gesellschaft einzubeziehen, sowohl zum deutschen Gesellschaftsrecht als auch zum deutschen kollektiven Arbeitsrecht, deren Anwendungsbereich die Bundesrepublik Deutschland auf die bei inländischen Betrieben tätigen Arbeitnehmer beschränken kann, sofern eine solche Beschränkung auf einem objektiven und nicht diskriminierenden Kriterium beruht.
+
+39
+
+Nach alledem kann der bei den in Rn. 31 des vorliegenden Urteils genannten Arbeitnehmern eintretende Verlust der im Ausgangsverfahren in Rede stehenden Rechte nicht als Behinderung der durch Art. 45 AEUV gewährleisteten Arbeitnehmerfreizügigkeit angesehen werden.
+
+40
+
+Was insbesondere Arbeitnehmer betrifft, denen während ihrer Tätigkeit in einem in Deutschland ansässigen Betrieb ein Vertretungsmandat im Aufsichtsrat einer deutschen Gesellschaft übertragen wurde und die Deutschland verlassen, um eine Tätigkeit bei einer Gesellschaft mit Sitz in einem anderen Mitgliedstaat aufzunehmen, ist der Umstand, dass sie in einem solchen Fall auf die weitere Ausübung ihres Mandats in Deutschland verzichten müssen, nur die Folge der legitimen Entscheidung der Bundesrepublik Deutschland, die Anwendung ihrer nationalen Vorschriften im Bereich der Mitbestimmung auf die bei einem inländischen Betrieb tätigen Arbeitnehmer zu beschränken.
+
+41
+
+Nach alledem ist auf die Vorlagefrage zu antworten, dass Art. 45 AEUV dahin auszulegen ist, dass er einer Regelung eines Mitgliedstaats wie der im Ausgangsverfahren fraglichen nicht entgegensteht, wonach die bei den inländischen Betrieben eines Konzerns beschäftigten Arbeitnehmer das aktive und passive Wahlrecht bei den Wahlen der Arbeitnehmervertreter im Aufsichtsrat der in diesem Mitgliedstaat ansässigen Muttergesellschaft des Konzerns sowie gegebenenfalls das Recht auf Ausübung oder weitere Ausübung eines Aufsichtsratsmandats verlieren, wenn sie ihre Stelle in einem solchen Betrieb aufgeben und eine Stelle bei einer in einem anderen Mitgliedstaat ansässigen Tochtergesellschaft dieses Konzerns antreten.
+
+Kosten
+
+42
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Große Kammer) für Recht erkannt:
+
+ 	
+Art. 45 AEUV ist dahin auszulegen, dass er einer Regelung eines Mitgliedstaats wie der im Ausgangsverfahren fraglichen nicht entgegensteht, wonach die bei den inländischen Betrieben eines Konzerns beschäftigten Arbeitnehmer das aktive und passive Wahlrecht bei den Wahlen der Arbeitnehmervertreter im Aufsichtsrat der in diesem Mitgliedstaat ansässigen Muttergesellschaft des Konzerns sowie gegebenenfalls das Recht auf Ausübung oder weitere Ausübung eines Aufsichtsratsmandats verlieren, wenn sie ihre Stelle in einem solchen Betrieb aufgeben und eine Stelle bei einer in einem anderen Mitgliedstaat ansässigen Tochtergesellschaft dieses Konzerns antreten.
+
+ 	
+Lenaerts
+
+Tizzano
+
+Silva de Lapuerta
+
+Ilešič
+
+Da Cruz Vilaça
+
+Borg Barthet
+
+Malenovský
+
+Levits
+
+Bonichot
+
+Arabadjiev
+
+Vajda
+
+Rodin
+
+Biltgen
+
+Verkündet in öffentlicher Sitzung in Luxemburg am 18. Juli 2017.
+
+Der Kanzler
+
+A. Calot Escobar
+
+Der Präsident
+
+K. Lenaerts
+
+( *1 )	Verfahrenssprachen: Deutsch.

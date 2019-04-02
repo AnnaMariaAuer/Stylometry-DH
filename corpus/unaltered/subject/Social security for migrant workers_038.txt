@@ -1,0 +1,420 @@
+URTEIL DES GERICHTSHOFS (Erste Kammer)
+
+21. März 2018 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Soziale Sicherheit – Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft – Koordinierung der Systeme der sozialen Sicherheit – Verordnung (EG) Nr. 883/2004 – Art. 7, 63 und 64 – Leistungen bei Arbeitslosigkeit – Arbeitsloser, der sich in einen anderen Mitgliedstaat begibt – Aufrechterhaltung des Leistungsanspruchs – Dauer“
+
+In der Rechtssache C‑551/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Centrale Raad van Beroep (Berufungsgericht in Sachen der sozialen Sicherheit und des öffentlichen Dienstes, Niederlande) mit Entscheidung vom 26. Oktober 2016, beim Gerichtshof eingegangen am 31. Oktober 2016, in dem Verfahren
+
+J. Klein Schiphorst
+
+gegen
+
+Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen
+
+erlässt
+
+DER GERICHTSHOF (Erste Kammer)
+
+unter Mitwirkung der Kammerpräsidentin R. Silva de Lapuerta (Berichterstatterin) sowie der Richter C. G. Fernlund, A. Arabadjiev, S. Rodin und E. Regan,
+
+Generalanwalt: P. Mengozzi,
+
+Kanzler: M. Ferreira, Hauptverwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 20. September 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+des Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen, vertreten durch J. Hut als Bevollmächtigte,
+
+–
+
+der niederländischen Regierung, vertreten durch M. L. Noort und K. Bulterman als Bevollmächtigte,
+
+–
+
+der tschechischen Regierung, vertreten durch M. Smolek, J. Pavliš und J. Vláčil als Bevollmächtigte,
+
+–
+
+der dänischen Regierung, vertreten durch M. Wolff, C. Thorning und J. Nymann-Lindegren als Bevollmächtigte,
+
+–
+
+der polnischen Regierung, vertreten durch B. Majczyna als Bevollmächtigten,
+
+–
+
+der schwedischen Regierung, vertreten durch A. Falk, C. Meyer-Seitz, H. Shev, L. Swedenborg und F. Bergius als Bevollmächtigte,
+
+–
+
+der norwegischen Regierung, vertreten durch K. Moen und D. Lund als Bevollmächtigte,
+
+–
+
+der Europäischen Kommission, vertreten durch M. van Beek und D. Martin als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 29. November 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 64 Abs. 1 Buchst. c der Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit (ABl. 2004, L 166, S. 1, berichtigt im ABl. 2004, L 200, S. 1) in der durch die Verordnung (EU) Nr. 465/2012 des Europäischen Parlaments und des Rates vom 22. Mai 2012 (ABl. 2012, L 149, S. 4) geänderten Fassung (im Folgenden: Verordnung Nr. 883/2004).
+
+2
+
+Es ergeht in einem Rechtsstreit zwischen Herrn Klein Schiphorst und dem Raad van bestuur van het Uitvoeringsinstituut werknemersverzekeringen (Verwaltungsrat des Durchführungsinstituts für Arbeitnehmerversicherungen, Niederlande) über die Ablehnung des Antrags von Herrn Klein Schiphorst, den Zeitraum für den Export seiner Leistungen bei Arbeitslosigkeit über drei Monate hinaus zu verlängern.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+Abkommen EG–Schweiz
+
+3
+
+Das Abkommen zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit, das am 21. Juni 1999 in Luxemburg unterzeichnet wurde und im Namen der Europäischen Gemeinschaft mit dem Beschluss 2002/309/EG, Euratom des Rates und – bezüglich des Abkommens über die wissenschaftliche und technische Zusammenarbeit – der Kommission vom 4. April 2002 über den Abschluss von sieben Abkommen mit der Schweizerischen Eidgenossenschaft (ABl. 2002, L 114, S. 1) genehmigt wurde (im Folgenden: Abkommen EG–Schweiz), bestimmt in Art. 8:
+
+„Die Vertragsparteien regeln die Koordinierung der Systeme der sozialen Sicherheit gemäß Anhang II, um insbesondere Folgendes zu gewährleisten:
+
+…
+
+b)
+
+Bestimmung der anzuwendenden Rechtsvorschriften;
+
+…
+
+d)
+
+Zahlung der Leistungen an Personen, die ihren Wohnsitz im Hoheitsgebiet der Vertragsparteien haben;
+
+…“
+
+4
+
+Art. 1 des Anhangs II des Abkommens EG–Schweiz über die Koordinierung der Systeme der sozialen Sicherheit in der durch den Beschluss Nr. 1/2012 des gemischten Ausschusses, eingesetzt im Rahmen des Abkommens zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit vom 31. März 2012 (ABl. 2012, L 103, S. 51), geänderten Fassung sieht vor:
+
+„(1)   Die Vertragsparteien kommen überein, im Bereich der Koordinierung der Systeme der sozialen Sicherheit untereinander die in Abschnitt A dieses Anhangs genannten Rechtsakte der Europäischen Union in der durch diesen Abschnitt geänderten Fassung oder gleichwertige Vorschriften anzuwenden.
+
+(2)   Der Begriff ‚Mitgliedstaat(en)‘ in den Rechtsakten, auf die in Abschnitt A dieses Anhangs Bezug genommen wird, ist außer auf die durch die betreffenden Rechtsakte der Europäischen Union erfassten Staaten auch auf die Schweiz anzuwenden.“
+
+5
+
+In Abschnitt A dieses Anhangs wird u. a. auf die Verordnung Nr. 883/2004 Bezug genommen.
+
+Verordnung Nr. 883/2004
+
+6
+
+Die Erwägungsgründe 3, 4, 32 und 45 der Verordnung Nr. 883/2004 lauten:
+
+„(3)
+
+Die Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 über die Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern [(ABl. 1971, L 149, S. 2)], ist mehrfach geändert und aktualisiert worden, um nicht nur den Entwicklungen auf Gemeinschaftsebene – einschließlich der Urteile des Gerichtshofes –, sondern auch den Änderungen der Rechtsvorschriften auf nationaler Ebene Rechnung zu tragen. Diese Faktoren haben dazu beigetragen, dass die gemeinschaftlichen Koordinierungsregeln komplex und umfangreich geworden sind. Zur Erreichung des Ziels des freien Personenverkehrs ist es daher von wesentlicher Bedeutung, diese Vorschriften zu ersetzen und dabei gleichzeitig zu aktualisieren und zu vereinfachen.
+
+(4)
+
+Es ist notwendig, die Eigenheiten der nationalen Rechtsvorschriften über soziale Sicherheit zu berücksichtigen und nur eine Koordinierungsregelung vorzusehen.
+
+…
+
+(32)
+
+Zur Förderung der Mobilität der Arbeitnehmer ist vor allem ihre Arbeitsuche in den verschiedenen Mitgliedstaaten zu erleichtern; daher ist eine stärkere und wirksamere Koordinierung zwischen den Systemen der Arbeitslosenversicherung und der Arbeitsverwaltung aller Mitgliedstaaten notwendig.
+
+(45)
+
+Da das Ziel der beabsichtigten Maßnahme, nämlich Koordinierungsmaßnahmen zur Sicherstellung, dass das Recht auf Freizügigkeit wirksam ausgeübt werden kann, auf Ebene der Mitgliedstaaten nicht ausreichend erreicht werden kann und daher wegen des Umfangs und der Wirkungen der Maßnahme besser auf Gemeinschaftsebene zu erreichen ist, kann die Gemeinschaft im Einklang mit dem in Artikel 5 des Vertrags niedergelegten Subsidiaritätsprinzip tätig werden. Entsprechend dem in demselben Artikel genannten Verhältnismäßigkeitsprinzip geht diese Verordnung nicht über das für die Erreichung dieses Ziels erforderliche Maß hinaus“.
+
+7
+
+Art. 2 Abs. 1 der Verordnung Nr. 883/2004 sieht vor:
+
+„Diese Verordnung gilt für Staatsangehörige eines Mitgliedstaats, Staatenlose und Flüchtlinge mit Wohnort in einem Mitgliedstaat, für die die Rechtsvorschriften eines oder mehrerer Mitgliedstaaten gelten oder galten, sowie für ihre Familienangehörigen und Hinterbliebenen.“
+
+8
+
+Art. 3 Abs. 1 dieser Verordnung bestimmt:
+
+„Diese Verordnung gilt für alle Rechtsvorschriften, die folgende Zweige der sozialen Sicherheit betreffen:
+
+…
+
+h)
+
+Leistungen bei Arbeitslosigkeit;
+
+…“
+
+9
+
+Art. 7 („Aufhebung der Wohnortklauseln“) der Verordnung lautet:
+
+„Sofern in dieser Verordnung nichts anderes bestimmt ist, dürfen Geldleistungen, die nach den Rechtsvorschriften eines oder mehrerer Mitgliedstaaten oder nach dieser Verordnung zu zahlen sind, nicht aufgrund der Tatsache gekürzt, geändert, zum Ruhen gebracht, entzogen oder beschlagnahmt werden, dass der Berechtigte oder seine Familienangehörigen in einem anderen als dem Mitgliedstaat wohnt bzw. wohnen, in dem der zur Zahlung verpflichtete Träger seinen Sitz hat.“
+
+10
+
+Art. 63 („Besondere Bestimmungen für die Aufhebung der Wohnortklauseln“) der Verordnung bestimmt:
+
+„Für die Zwecke dieses Kapitels gilt Artikel 7 nur in den in den Artikeln 64, 65 und 65a vorgesehenen Fällen und Grenzen.“
+
+11
+
+Art. 64 („Arbeitslose, die sich in einen anderen Mitgliedstaat begeben“) der Verordnung sieht vor:
+
+„(1)   Eine vollarbeitslose Person, die die Voraussetzungen für einen Leistungsanspruch nach den Rechtsvorschriften des zuständigen Mitgliedstaats erfüllt und sich zur Arbeitsuche in einen anderen Mitgliedstaat begibt, behält den Anspruch auf Geldleistungen bei Arbeitslosigkeit unter folgenden Bedingungen und innerhalb der folgenden Grenzen:
+
+…
+
+c)
+
+der Leistungsanspruch wird während drei Monaten von dem Zeitpunkt an aufrechterhalten, ab dem der Arbeitslose der Arbeitsverwaltung des Mitgliedstaats, den er verlassen hat, nicht mehr zur Verfügung gestanden hat, vorausgesetzt die Gesamtdauer der Leistungsgewährung überschreitet nicht den Gesamtzeitraum, für den nach den Rechtsvorschriften dieses Mitgliedstaats ein Leistungsanspruch besteht; der Zeitraum von drei Monaten kann von der zuständigen Arbeitsverwaltung oder dem zuständigen Träger auf höchstens sechs Monate verlängert werden;
+
+…
+
+(2)   Kehrt die betreffende Person bei Ablauf oder vor Ablauf des Zeitraums, für den sie nach Absatz 1 Buchstabe c) einen Leistungsanspruch hat, in den zuständigen Mitgliedstaat zurück, so hat sie weiterhin einen Leistungsanspruch nach den Rechtsvorschriften dieses Mitgliedstaats. Sie verliert jedoch jeden Leistungsanspruch nach den Rechtsvorschriften des zuständigen Mitgliedstaats, wenn sie nicht bei Ablauf oder vor Ablauf dieses Zeitraums dorthin zurückkehrt, es sei denn, diese Rechtsvorschriften sehen eine günstigere Regelung vor. In Ausnahmefällen kann die zuständige Arbeitsverwaltung oder der zuständige Träger der betreffenden Person gestatten, zu einem späteren Zeitpunkt zurückzukehren, ohne dass sie ihren Anspruch verliert.
+
+…“
+
+Niederländisches Recht
+
+12
+
+Art. 3:4 der Algemene wet bestuursrecht (Allgemeines Verwaltungsrechtsgesetz) bestimmt:
+
+„(1)   Die Verwaltungsbehörde nimmt eine Abwägung der unmittelbar durch den Bescheid betroffenen Interessen vor, soweit sich nicht aus einer Rechtsvorschrift oder aus der Art der auszuübenden Zuständigkeit eine Beschränkung ergibt.
+
+(2)   Die sich für einen oder mehrere Beteiligte ergebenden Nachteile eines Bescheids dürfen nicht außer Verhältnis zu den mit dem Bescheid zu verfolgenden Zielen stehen.“
+
+13
+
+Gemäß Art. 19 Abs. 1 Buchst. e der Werkloosheidswet (Arbeitslosigkeitsgesetz, im Folgenden: WW) hat ein Arbeitnehmer, der seinen Wohnsitz außerhalb der Niederlande hat oder sich zu anderen als Urlaubszwecken außerhalb der Niederlande aufhält, keinen Anspruch auf Leistungen.
+
+14
+
+Art. 19 Abs. 9 und 10 WW sieht vor:
+
+„(9)   Abweichend von Abs. 1 Buchst. e bleibt der Leistungsanspruch eines Arbeitnehmers, der sich zu anderen als Urlaubszwecken außerhalb der Niederlande aufhält, bestehen, wenn der Arbeitnehmer während dieses Aufenthalts an einer Tätigkeit mitwirkt, die für seine Eingliederung in die Arbeitswelt im Sinne der Kapitel VI und XA förderlich ist, sofern
+
+a)
+
+diese Tätigkeit nicht länger als sechs Monate andauert;
+
+b)
+
+diese Tätigkeit ausweislich einer Absichtserklärung eine tatsächliche Aussicht auf ein anschließendes Beschäftigungsverhältnis für wenigstens sechs Monate bietet und
+
+c)
+
+diese Tätigkeit in einem Mitgliedstaat der Europäischen Union, in einem anderen Staat, der Vertragspartei des Abkommens über den Europäischen Wirtschaftsraum ist, oder in der Schweiz stattfindet.
+
+(10)   Für die Zwecke dieses Artikels bezeichnet der Begriff ‚Absichtserklärung‘ eine unterzeichnete Erklärung, in der der Unterzeichner angibt, dass er beabsichtigt, einen Arbeitnehmer, der an einer Tätigkeit mitwirkt, die für seine Eingliederung in die Arbeitswelt im Sinne der Kapitel VI und XA förderlich ist, nach Ablauf dieser Tätigkeit zu beschäftigen.“
+
+Ausgangsverfahren und Vorlagefragen
+
+15
+
+Herr Klein Schiphorst, ein niederländischer Staatsangehöriger, der seinen Wohnsitz in den Niederlanden hatte und dort seit dem 2. Mai 2011 Leistungen bei Arbeitslosigkeit nach der WW bezog, teilte dem Durchführungsinstitut für Arbeitnehmerversicherungen (im Folgenden: Uwv) am 19. Juli 2012 mit, dass er sich zur Arbeitsuche in die Schweiz begeben wolle. Zu diesem Zweck beantragte er die Aufrechterhaltung seiner Ansprüche auf Leistungen bei Arbeitslosigkeit.
+
+16
+
+Mit Bescheid vom 8. August 2012 gab das Uwv diesem Antrag von Herrn Klein Schiphorst für den Zeitraum vom 1. September 2012 bis 30. November 2012 statt.
+
+17
+
+Mit E‑Mail vom 19. November 2012 beantragte Herr Klein Schiphorst beim Uwv gemäß der Verordnung Nr. 883/2004 die Verlängerung des Zeitraums für den Export seiner Ansprüche auf Leistungen bei Arbeitslosigkeit über drei Monate hinaus.
+
+18
+
+Mit Bescheiden vom 21. November 2012 und 16. Januar 2013 lehnte das Uwv diesen Antrag ab und wies den Widerspruch gegen die Ablehnung zurück. Im Widerspruchsbescheid erläuterte das Uwv, dass es von der der zuständigen Arbeitsverwaltung oder dem zuständigen Träger in Art. 64 Abs. 1 Buchst. c der Verordnung Nr. 883/2004 eingeräumten Möglichkeit, den Zeitraum für den Export von Leistungen bei Arbeitslosigkeit auf höchstens sechs Monate zu verlängern, keinen Gebrauch mache.
+
+19
+
+Mit Urteil vom 2. Oktober 2013 gab die Rechtbank Amsterdam (Bezirksgericht Amsterdam, Niederlande) der Klage von Herrn Klein Schiphorst gegen den Bescheid des Uwv vom 16. Januar 2013 mit der Begründung statt, das Uwv habe nicht ausreichend begründet, warum es diese Möglichkeit nicht wahrnehme.
+
+20
+
+Mit Bescheid vom 15. November 2013 erklärte das Uwv den Widerspruch von Herrn Klein Schiphorst gegen den Bescheid vom 21. November 2012 erneut für unbegründet. Es halte die Chancen, eine Beschäftigung zu finden, in den Niederlanden im Allgemeinen für größer als in anderen Ländern und folge daher gemäß der Weisung des Minister van Sociale zaken en Werkgelegenheid (Minister für Soziales und Beschäftigung, Niederlande) dem Grundsatz, den Export von Leistungen bei Arbeitslosigkeit nach dem Zeitraum von drei Monaten nicht zu verlängern. Die Bemühungen von Herrn Klein Schiphorst, eine Beschäftigung in der Schweiz zu finden, und die Umstände, auf die er sich berufe, seien nicht geeignet, es im vorliegenden Fall als unvernünftig zu betrachten, diesem Grundsatz zu folgen.
+
+21
+
+Mit Urteil vom 4. Juni 2014 wies die Rechtbank Amsterdam (Bezirksgericht Amsterdam) die Klage von Herrn Klein Schiphorst gegen den Bescheid vom 15. November 2013 ab. Das Gericht war der Ansicht, dass es dem Uwv in Anbetracht des Ermessenscharakters der in Art. 64 Abs. 1 Buchst. c der Verordnung Nr. 883/2004 vorgesehenen Möglichkeit freistehe, diese nach den nationalen Rechtsvorschriften wahrzunehmen.
+
+22
+
+Herr Klein Schiphorst legte gegen dieses Urteil Berufung beim Centrale Raad van Beroep (Berufungsgericht in Sachen der sozialen Sicherheit und des öffentlichen Dienstes, Niederlande) ein.
+
+23
+
+Vor diesem Hintergrund bezweifelt das vorlegende Gericht, dass der Bescheid des Uwv, mit dem abgelehnt wurde, zugunsten von Herrn Klein Schiphorst von der der zuständigen Arbeitsverwaltung oder dem zuständigen Träger in Art. 64 Abs. 1 Buchst. c zweiter Halbsatz der Verordnung Nr. 883/2004 eingeräumten Möglichkeit Gebrauch zu machen, den Zeitraum des Exports von Leistungen bei Arbeitslosigkeit über drei Monate hinaus zu verlängern, mit dem Unionsrecht vereinbar ist.
+
+24
+
+Insbesondere möchte das vorlegende Gericht wissen, ob es den Mitgliedstaaten gestattet ist, von dieser Befugnis unter keinen Umständen Gebrauch zu machen. Ist dies zu verneinen, hält es das vorlegende Gericht für erforderlich, festzustellen, ob es den Mitgliedstaaten angesichts des Ziels und des Inhalts der Verordnung Nr. 883/2004, des Verbots der Aufstellung von Wohnsitzklauseln sowie der Freizügigkeit der Unionsbürger und Arbeitnehmer möglich ist, die Wahrnehmung dieser Befugnis grundsätzlich abzulehnen und davon nur konkret unter besonderen Umständen Gebrauch zu machen. Ist dies auch zu verneinen, möchte das vorlegende Gericht wissen, wie die Mitgliedstaaten von dieser Befugnis Gebrauch machen müssen.
+
+25
+
+Unter diesen Umständen hat der Centrale Raad van Beroep (Berufungsgericht in Sachen der sozialen Sicherheit und des öffentlichen Dienstes) das Verfahren ausgesetzt und dem Gerichtshof folgende Fragen zur Vorabentscheidung vorgelegt:
+
+1.
+
+Darf die in Art. 64 Abs. 1 Buchst. c a. E. der Verordnung Nr. 883/2004 eingeräumte Befugnis in Anbetracht ihrer Art. 63 und 7, des Ziels und des Inhalts der Verordnung sowie der Freizügigkeit von Personen und Arbeitnehmern in der Weise wahrgenommen werden, dass ein Antrag auf Verlängerung des Zeitraums für den Export einer Leistung bei Arbeitslosigkeit grundsätzlich abgelehnt wird, es sei denn, die Verlängerung des Exportzeitraums kann nach Ansicht des Uwv unter den besonderen Umständen des Einzelfalls – beispielsweise bei Bestehen einer konkreten und nachweisbaren Aussicht auf Beschäftigung – vernünftigerweise nicht verweigert werden?
+
+2.
+
+Falls nein: Wie haben die Mitgliedstaaten die in Art. 64 Abs. 1 Buchst. c a. E. der Verordnung Nr. 883/2004 eingeräumte Befugnis wahrzunehmen?
+
+Zu den Vorlagefragen
+
+Einleitende Bemerkungen
+
+26
+
+Die Vorlagefragen betreffen die Auslegung der Verordnung Nr. 883/2004, insbesondere von Art. 64, in dem die Bedingungen festgelegt sind, unter denen eine vollarbeitslose Person, die die Voraussetzungen für einen Leistungsanspruch nach den Rechtsvorschriften des zuständigen Mitgliedstaats erfüllt und sich zur Arbeitsuche in einen anderen Mitgliedstaat begibt, den Anspruch auf Geldleistungen bei Arbeitslosigkeit behält.
+
+27
+
+Im vorliegenden Fall ergibt sich aus der Vorlageentscheidung, dass der Ausgangsrechtsstreit die Aufrechterhaltung des Anspruchs eines niederländischen Staatsangehörigen auf Leistungen bei Arbeitslosigkeit betrifft, der sich zur Arbeitsuche nicht in einen anderen Mitgliedstaat, sondern in einen Drittstaat, und zwar die Schweizerische Eidgenossenschaft, begeben hat.
+
+28
+
+Nach Art. 8 des Abkommens EG–Schweiz regeln die Vertragsparteien die Koordinierung der Systeme der sozialen Sicherheit gemäß Anhang II dieses Abkommens, um insbesondere die Bestimmung der anzuwendenden Rechtsvorschriften und die Zahlung der Leistungen an Personen, die ihren Wohnsitz im Hoheitsgebiet der Vertragsparteien haben, zu gewährleisten. Gemäß Abschnitt A Nr. 1 des Anhangs II des Abkommens EG–Schweiz ist zwischen den Vertragsparteien die Verordnung Nr. 883/2004 anwendbar. Da nach Art. 1 Abs. 2 des Anhangs II „[d]er Begriff ‚Mitgliedstaat(en)‘ in den Rechtsakten, auf die in Abschnitt A dieses Anhangs Bezug genommen wird, … außer auf die durch die betreffenden Rechtsakte der Europäischen Union erfassten Staaten auch auf die Schweiz anzuwenden [ist]“, erfassen die Bestimmungen dieser Verordnung somit auch die Schweizerische Eidgenossenschaft.
+
+29
+
+Daher fällt die Situation des Klägers des Ausgangsverfahrens, eines Staatsangehörigen eines Mitgliedstaats, der den niederländischen Rechtsvorschriften über die Leistungen bei Arbeitslosigkeit unterliegt und sich zur Arbeitsuche in die Schweiz begibt, unter die Verordnung Nr. 883/2004.
+
+Zur ersten Frage
+
+30
+
+Mit seiner ersten Frage möchte das vorlegende Gericht wissen, ob Art. 64 Abs. 1 Buchst. c der Verordnung Nr. 883/2004 dahin auszulegen ist, dass er einer nationalen Maßnahme wie der im Ausgangsverfahren fraglichen entgegensteht, die es dem zuständigen Träger zur Pflicht macht, grundsätzlich jeden Antrag auf Verlängerung des Zeitraums für den Export von Leistungen bei Arbeitslosigkeit über drei Monate hinaus abzulehnen, es sei denn, nach Ansicht dieses Trägers würde die Ablehnung des Antrags zu einem unangemessenen Ergebnis führen.
+
+31
+
+Das Ziel der Verordnung Nr. 883/2004 besteht nach ihren Erwägungsgründen 4 und 45 darin, die Systeme der sozialen Sicherheit in den Mitgliedstaaten zu koordinieren, um sicherzustellen, dass das Recht auf Freizügigkeit wirksam ausgeübt werden kann. Mit dieser Verordnung wurden die Vorschriften der Verordnung Nr. 1408/71 aktualisiert und vereinfacht, dabei jedoch das Ziel letztgenannter Verordnung beibehalten.
+
+32
+
+Wie sich aus Art. 64 Abs. 1 der Verordnung Nr. 883/2004 ergibt, behält eine vollarbeitslose Person, die die Voraussetzungen für einen Leistungsanspruch nach den Rechtsvorschriften des zuständigen Mitgliedstaats erfüllt und sich zur Arbeitsuche in einen anderen Mitgliedstaat begibt, den Anspruch auf Geldleistungen bei Arbeitslosigkeit unter den Bedingungen und innerhalb der Grenzen, die in dieser Vorschrift aufgeführt sind.
+
+33
+
+Art. 64 Abs. 1 Buchst. c erster Halbsatz dieser Verordnung sieht vor, dass der Leistungsanspruch während drei Monaten von dem Zeitpunkt an aufrechterhalten „wird“, ab dem der Arbeitslose der Arbeitsverwaltung des Mitgliedstaats, den er verlassen hat, nicht mehr zur Verfügung gestanden hat, vorausgesetzt, die Gesamtdauer der Leistungsgewährung überschreitet nicht den Gesamtzeitraum, für den nach den Rechtsvorschriften dieses Mitgliedstaats ein Leistungsanspruch besteht. In Art. 64 Abs. 1 Buchst. c zweiter Halbsatz der Verordnung heißt es dagegen, dass der Zeitraum von drei Monaten von der zuständigen Arbeitsverwaltung oder dem zuständigen Träger auf höchstens sechs Monate verlängert werden „kann“.
+
+34
+
+Nach ständiger Rechtsprechung des Gerichtshofs sind bei der Auslegung einer Vorschrift des Unionsrechts nicht nur ihr Wortlaut, sondern auch ihr Zusammenhang und die Ziele zu berücksichtigen, die mit der Regelung, zu der sie gehört, verfolgt werden (Urteil vom 8. November 2016, Ognyanov, C‑554/14, EU:C:2016:835, Rn. 31).
+
+35
+
+Dem Wortlaut von Art. 64 Abs. 1 Buchst. c erster Halbsatz der Verordnung Nr. 883/2004 lässt sich zweifelsfrei entnehmen, dass der Anspruch auf Leistungen bei Arbeitslosigkeit für eine vollarbeitslose Person, die sich zur Arbeitsuche in einen anderen Mitgliedstaat begibt, für einen Zeitraum von drei Monaten sichergestellt wird. Der Gerichtshof hat insoweit bereits zu Art. 69 der Verordnung Nr. 1408/71, der Vorgängerregelung von Art. 64 der Verordnung Nr. 883/2004, entschieden, dass nach dieser Bestimmung ein arbeitsloser Arbeitnehmer zum Zweck der Arbeitsuche in einem anderen Mitgliedstaat für einen bestimmten Zeitraum von der Verpflichtung nach dem jeweiligen innerstaatlichen Recht befreit werden kann, der Arbeitsverwaltung des zuständigen Staates zur Verfügung zu stehen, ohne dass er deshalb seinen Anspruch auf Leistungen bei Arbeitslosigkeit gegen diesen Staat verliert (Urteile vom 19. Juni 1980, Testa u. a., 41/79, 121/79 und 796/79, EU:C:1980:163, Rn. 4, und vom 21. Februar 2002, Rydergård, C‑215/00, EU:C:2002:111, Rn. 17).
+
+36
+
+In Art. 64 Abs. 1 Buchst. c zweiter Halbsatz der Verordnung Nr. 883/2004 heißt es, dass der fragliche Zeitraum von drei Monaten von der zuständigen Arbeitsverwaltung oder dem zuständigen Träger auf höchstens sechs Monate verlängert werden „kann“.
+
+37
+
+Wie von der niederländischen, der dänischen, der schwedischen und der norwegischen Regierung in ihren schriftlichen Erklärungen vorgetragen, ergibt sich aus der Verwendung des Worts „kann“, dass der Wortlaut dieser Bestimmung dem zuständigen Träger nicht zur Pflicht macht, den Zeitraum, in dem die Leistungen bei Arbeitslosigkeit, die eine vollarbeitslose Person erhält, die sich zur Arbeitsuche in einen anderen Mitgliedstaat begibt, aufrechterhalten werden, auf höchstens sechs Monate zu verlängern.
+
+38
+
+Ferner zeigt die Entstehungsgeschichte dieser Bestimmung entsprechend dem Vorbringen aller Beteiligten in der mündlichen Verhandlung, dass, wie auch der Generalanwalt in Nr. 34 seiner Schlussanträge ausgeführt hat, der ursprüngliche Vorschlag der Kommission, einen Exportzeitraum von sechs Monaten verpflichtend vorzuschreiben, keine Zustimmung im Rat der Europäischen Union fand, so dass sich die Mitgliedstaaten schließlich auf die Formel in Art. 64 Abs. 1 Buchst. c zweiter Halbsatz der Verordnung Nr. 883/2004 einigten.
+
+39
+
+Zum Kontext, in dem Art. 64 Abs. 1 Buchst. c der Verordnung Nr. 883/2004 steht, ist zum einen darauf hinzuweisen, dass die Leistungen bei Arbeitslosigkeit nach Art. 64 Abs. 1 Buchst. d der Verordnung Nr. 883/2004 vom zuständigen Träger nach den für ihn geltenden Rechtsvorschriften und für seine Rechnung gewährt werden.
+
+40
+
+Zum anderen ergibt sich aus Art. 64 Abs. 2 dieser Verordnung, dass zwar die betreffende Person, wenn sie nicht bei Ablauf oder vor Ablauf des Zeitraums, für den sie nach Art. 64 Abs. 1 Buchst. c der Verordnung einen Leistungsanspruch hat – d. h. drei Monate oder gegebenenfalls, wenn der zuständige Träger den Zeitraum verlängert hat, höchstens sechs Monate –, in den zuständigen Mitgliedstaat zurückkehrt, jeden Leistungsanspruch nach den Rechtsvorschriften des zuständigen Mitgliedstaats verliert, dass aber der Träger der betreffenden Person in Ausnahmefällen gestatten kann, zu einem späteren Zeitpunkt zurückzukehren, ohne dass sie ihren Anspruch verliert.
+
+41
+
+Wie der Generalanwalt in Nr. 55 seiner Schlussanträge ausgeführt hat, erlaubt diese Bestimmung u. a. dem zuständigen Träger, den Zeitraum von drei Monaten, in dem die betreffende Person einen Leistungsanspruch hat, in „Ausnahmefällen“ zu verlängern, um zu vermeiden, dass der Verlust aller Leistungsansprüche bei verspäteter Rückkehr nach Ablauf dieses Zeitraums zu unverhältnismäßigen Ergebnissen führt. Diese Möglichkeit bestätigt, das der Zeitraum für den Export von Leistungen bei Arbeitslosigkeit auf drei Monate begrenzt sein darf, denn der zuständige Träger ist gemäß Art. 64 Abs. 1 Buchst. c zweiter Halbsatz der Verordnung Nr. 883/2004 nicht verpflichtet, ihn auf höchstens sechs Monate zu verlängern.
+
+42
+
+Dies findet darin Bestätigung, dass in der Verordnung Nr. 883/2004 nicht festgelegt ist, unter welchen Bedingungen eine vollarbeitslose Person, die sich zur Arbeitsuche in einen anderen Mitgliedstaat begibt, in den Genuss der Verlängerung dieses Zeitraums über drei Monate hinaus kommen kann.
+
+43
+
+Was das Ziel der Verordnung Nr. 883/2004 betrifft, soll diese, wie oben in Rn. 31 ausgeführt, die in den Mitgliedstaaten geltenden Systeme der sozialen Sicherheit koordinieren, um sicherzustellen, dass das Recht auf Freizügigkeit wirksam ausgeübt werden kann.
+
+44
+
+Insoweit ist zu beachten, dass diese Verordnung kein gemeinsames System der sozialen Sicherheit schafft, sondern unterschiedliche nationale Systeme bestehen lässt und diese nur koordinieren soll, um sicherzustellen, dass das Recht auf Freizügigkeit wirksam ausgeübt werden kann. Sie lässt somit unterschiedliche Systeme bestehen, die zu unterschiedlichen Forderungen gegen unterschiedliche Träger führen, gegen die dem Leistungsberechtigten unmittelbare Ansprüche entweder allein nach dem nationalen Recht oder nach dem erforderlichenfalls durch Unionsrecht ergänzten nationalen Recht zustehen (vgl. in diesem Sinne Urteile vom 19. September 2013, Brey, C‑140/12, EU:C:2013:565, Rn. 43, und vom 14. Juni 2016, Kommission/Vereinigtes Königreich, C‑308/14, EU:C:2016:436, Rn. 67).
+
+45
+
+Darüber hinaus hat der Gerichtshof noch zur Verordnung Nr. 1408/71 festgestellt, dass der Anspruch auf Weitergewährung der Leistungen bei Arbeitslosigkeit während eines Zeitraums von drei Monaten dazu beiträgt, die Freizügigkeit der Arbeitnehmer sicherzustellen (vgl. in diesem Sinne Urteil vom 19. Juni 1980, Testa u. a., 41/79, 121/79 und 796/79, EU:C:1980:163, Rn. 14). Diese Folgerung muss auch für die Verordnung Nr. 883/2004 gelten, soweit diese – abgesehen davon, dass sie den Export von Leistungen bei Arbeitslosigkeit während eines Zeitraums von drei Monaten gewährleistet – auch gestattet, diesen Zeitraum auf höchstens sechs Monate zu verlängern.
+
+46
+
+Folglich gewährleistet Art. 64 Abs. 1 Buchst. c der Verordnung Nr. 883/2004 den Export von Leistungen bei Arbeitslosigkeit nur für einen Zeitraum von drei Monaten, gestattet es jedoch, diesen Zeitraum nach nationalem Recht auf höchstens sechs Monate zu verlängern.
+
+47
+
+Diese Auslegung wird nicht durch den in Art. 7 der Verordnung Nr. 883/2004 vorgesehenen Grundsatz der Aufhebung der Wohnsitzklauseln in Frage gestellt, auf den das vorlegende Gericht in seiner Vorlagefrage ausdrücklich Bezug nimmt.
+
+48
+
+Aus dieser Vorschrift, insbesondere aus der Wendung „[s]ofern in [der Verordnung Nr. 883/2004] nichts anderes bestimmt ist“, folgt nämlich, dass diese Verordnung spezielle, vom Grundsatz der Aufhebung der Wohnortklauseln abweichende Vorschriften enthält. Eine solche ist Art. 63 („Besondere Bestimmungen für die Aufhebung der Wohnortklauseln“) der Verordnung, wonach bei vollarbeitslosen Personen, die die Voraussetzungen für einen Leistungsanspruch nach den Rechtsvorschriften des zuständigen Mitgliedstaats erfüllen und sich in einen anderen Mitgliedstaat begeben, die Aufhebung der Wohnsitzklausel nur in den in Art. 64 dieser Verordnung vorgesehenen Fällen und Grenzen gilt.
+
+49
+
+Wie die dänische, die schwedische und die norwegische Regierung in der mündlichen Verhandlung ausgeführt haben, ergibt sich aus einer gemeinsamen Betrachtung der Art. 7, 63 und 64 Abs. 1 Buchst. c der Verordnung Nr. 883/2004, dass die Exportierbarkeit von Leistungen bei Arbeitslosigkeit im Fall einer vollarbeitslosen Person, die sich zur Arbeitsuche in einen anderen Mitgliedstaat begibt, zum einen während des Zeitraums von drei Monaten nach Art. 64 Abs. 1 Buchst. c erster Halbsatz und zum anderen gegebenenfalls während des weiteren Zeitraums von höchstens sechs Monaten sichergestellt ist, falls der betreffenden Person nach den nationalen Rechtsvorschriften des jeweiligen Mitgliedstaats eine Verlängerung des Zeitraums von drei Monaten gewährt wurde.
+
+50
+
+Im Übrigen können, wie der Generalanwalt sinngemäß in den Nrn. 80 und 81 seiner Schlussanträge ausgeführt hat, die Unterschiede zwischen den Systemen und Maßnahmen der Mitgliedstaaten, die von der Befugnis nach Art. 64 Abs. 1 Buchst. c zweiter Halbsatz der Verordnung Nr. 883/2004 Gebrauch gemacht haben, nicht als Beschränkungen der Freizügigkeit der Arbeitnehmer angesehen werden, da Art. 48 AEUV eine Koordinierung und keine Harmonisierung der Rechtsvorschriften der Mitgliedstaaten vorsieht und daher die materiellen und formellen Unterschiede zwischen den Systemen der sozialen Sicherheit der einzelnen Mitgliedstaaten und folglich zwischen den Ansprüchen der diesen Systemen angeschlossenen Personen von dieser Bestimmung unberührt bleiben (vgl. in diesem Sinne Urteile vom 16. Juli 2009, von Chamier-Glisczinski, C‑208/07, EU:C:2009:455, Rn. 84, und vom 11. April 2013, Jeltes u. a., C‑443/11, EU:C:2013:224, Rn. 43).
+
+51
+
+Die Kriterien, anhand deren der zuständige Träger den Zeitraum für den Export von Leistungen bei Arbeitslosigkeit auf höchstens sechs Monate verlängern kann, sind in der Verordnung Nr. 883/2004 nicht geregelt. Wenn der betroffene Mitgliedstaat wie in der vorliegenden Rechtssache die Befugnis nach Art. 64 Abs. 1 Buchst. c zweiter Halbsatz der Verordnung Nr. 883/2004 wahrgenommen hat, ist er daher verpflichtet, unter Beachtung des Unionsrechts nationale Maßnahmen zu erlassen, die das Ermessen des zuständigen Trägers regeln, indem er u. a. festlegt, unter welchen Bedingungen einem Arbeitslosen, der sich zur Arbeitsuche in einen anderen Mitgliedstaat begibt, eine Verlängerung des Zeitraums für den Export von Leistungen bei Arbeitslosigkeit über drei Monate hinaus auf höchstens sechs Monate gewährt werden muss oder nicht.
+
+52
+
+Im vorliegenden Fall ergibt sich aus den dem Gerichtshof vorgelegten Akten sowie den Ausführungen der niederländischen Regierung in der mündlichen Verhandlung, dass das Königreich der Niederlande entsprechend einer Weisung des Ministers für Soziales und Beschäftigung von Januar 2011 zunächst darauf verzichtet hat, die Befugnis nach Art. 64 Abs. 1 Buchst. c zweiter Halbsatz der Verordnung Nr. 883/2004 wahrzunehmen. Nachdem die Rechtbank Amsterdam (Bezirksgericht Amsterdam) in einem Urteil vom 2. Oktober 2013 entschieden hat, dass die Ablehnung eines Antrags auf Verlängerung des Zeitraums für den Export von Leistungen bei Arbeitslosigkeit über drei Monate hinaus zu begründen sei, hat das Uwv jedoch unter Aufrechterhaltung des Grundsatzes, dass einem solchen Antrag nicht stattgegeben werden könne, festgestellt, dass die besonderen Umstände des jeweiligen Falles, u. a. eine konkrete und nachweisbare Aussicht auf Beschäftigung, es rechtfertigen könnten, dem Antrag stattzugeben. Wie aus den Angaben im Vorabentscheidungsersuchen hervorgeht, war das Uwv der Ansicht, dass solche Umstände vorlägen, wenn sich die betreffende Person in einer mit einer Aussicht auf Beschäftigung verbundenen Maßnahme befinde, für die eine Verlängerung des Aufenthalts im Aufnahmemitgliedstaat erforderlich sei, oder wenn die betreffende Person eine Absichtserklärung eines Arbeitgebers vorgelegt habe, die ihm eine reelle Aussicht auf ein Beschäftigungsverhältnis in diesem Mitgliedstaat eröffne.
+
+53
+
+Unter diesen Umständen hält sich, wie der Generalanwalt in Nr. 78 seiner Schlussanträge ausgeführt hat, ein Mitgliedstaat innerhalb der vom Unionsrecht vorgegebenen Grenzen, wenn er Maßnahmen erlässt, wonach die Verlängerung des Zeitraums für den Export von Leistungen bei Arbeitslosigkeit auf höchstens sechs Monate nur gewährt werden kann, wenn bestimmte Bedingungen erfüllt sind.
+
+54
+
+Nach alledem ist auf die erste Vorlagefrage zu antworten, dass Art. 64 Abs. 1 Buchst. c der Verordnung Nr. 883/2004 dahin auszulegen ist, dass er einer nationalen Maßnahme wie der im Ausgangsverfahren fraglichen nicht entgegensteht, die es dem zuständigen Träger zur Pflicht macht, grundsätzlich jeden Antrag auf Verlängerung des Zeitraums für den Export von Leistungen bei Arbeitslosigkeit über drei Monate hinaus abzulehnen, es sei denn, nach Ansicht dieses Trägers würde die Ablehnung des Antrags zu einem unangemessenen Ergebnis führen.
+
+Zur zweiten Frage
+
+55
+
+In Anbetracht der Antwort auf die erste Frage braucht die zweite Frage nicht beantwortet zu werden.
+
+Kosten
+
+56
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Erste Kammer) für Recht erkannt:
+
+ 	
+Art. 64 Abs. 1 Buchst. c der Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ist dahin auszulegen, dass er einer nationalen Maßnahme wie der im Ausgangsverfahren fraglichen nicht entgegensteht, die es dem zuständigen Träger zur Pflicht macht, grundsätzlich jeden Antrag auf Verlängerung des Zeitraums für den Export von Leistungen bei Arbeitslosigkeit über drei Monate hinaus abzulehnen, es sei denn, nach Ansicht dieses Trägers würde die Ablehnung des Antrags zu einem unangemessenen Ergebnis führen.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Niederländisch.
