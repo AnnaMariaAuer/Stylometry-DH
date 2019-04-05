@@ -178,6 +178,12 @@ def add_POS_tagging (path, save_to_directory):
     files = glob.glob(files_to_process)
     print(files)
 
+
+    s = parse('Die Katze liegt auf der Matte.')
+    s = split(s)
+    print(s.sentences[0])
+
+
     filenames = []
     translator2 = str.maketrans('', '', string.punctuation)
 
@@ -199,7 +205,7 @@ def add_POS_tagging (path, save_to_directory):
         f = open(file, 'r', encoding='UTF-8')
         words_of_file = parse(f.read(), tagset="STTS")
         words_of_file = split(words_of_file)
-        current_file.write(words_of_file)
+        current_file.write(str(words_of_file))
 
         f.close()
         current_file.close()
@@ -251,7 +257,7 @@ if __name__ == "__main__":
     # make_txt_to_category("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter/Social security for migrant workers", "social_security_for_migrant_workers", "/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter")
     # get_all_txt_of_category("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter", "subject_matter")
     # remove_punctuation_numbers(r"/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_Countries_ordered/United Kingdom", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-punct-numb/countries")
-     make_corpus_without_stopwords(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-punct-numb/subject-matter", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-stopword/subject-matter")
+    # make_corpus_without_stopwords(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-punct-numb/subject-matter", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-stopword/subject-matter")
     # get_top_n_words(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-stopword/subject-matter", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-mfw-without-stopwords/subject-matter", 50)
-
+    add_POS_tagging("corpus-without-stopword/subject-matter","corpus-without-stopword/subject-matter/pos")
     #POS-Tagging und Lemmatization --> Code schreiben
