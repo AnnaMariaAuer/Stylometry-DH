@@ -8,16 +8,7 @@ import nltk
 from nltk.corpus import stopwords
 STOPWORDS = stopwords.words('german')
 from collections import Counter
-
-# from nltk.tokenize import word_tokenize
-# nltk.download('wordnet')
-from nltk.stem.wordnet import WordNetLemmatizer
-
-
-# ----- Imports needed for POS-Tagging and Lemmatizing ------
-from pattern.de import parse, split
-from germalemma import GermaLemma
-
+from pathlib import Path
 
 # Reading in files from a certain path and create one txt-file out of it: all files of one category
 
@@ -212,45 +203,38 @@ def add_POS_tagging (path, save_to_directory):
 
         counter += 1
 
-def lemmatize_files (path, save_to_directory):
-    files_to_process = path + "/*.txt"
-    files = glob.glob(files_to_process)
-    print(files)
 
-    filenames = []
-    translator2 = str.maketrans('', '', string.punctuation)
+def get_all_txt_files(path):
 
-    counter = 0
+    return Path(path).glob("*/*/*.txt")
 
-    lemmatizer = GermaLemma()
+def count_words():
 
-    for file in files:
+    all_files = []
+    number_of_words_storage = []
+    average_words = 0
 
-        #gets the names and saves them to list
-        filename = os.path.splitext(file)
-        print("filename: " + str(filename))
-        filenames.append(re.findall(r'[\w]*$', str(filename[0])))
-        print(filenames)
+    for name in get_all_txt_files(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-unaltered"):
+        all_files.append(name)
 
-        #lemmatizing
-        current_name = str(filenames[counter][0]).translate(translator2)
-        print("current name: " + str(current_name))
-        complete_name = os.path.join(save_to_directory, current_name + '.txt')
-        current_file = open(complete_name, 'a+', encoding='UTF-8')
-
+    for file in all_files:
         f = open(file, 'r', encoding='UTF-8')
+        words_of_file = re.findall(r'\w+', f.read())
+        number_of_words_storage.append(len(words_of_file))
 
-        # TODO: Ich vermute das pos_touples klappt so nicht: wie sieht denn ein file aus, das vom POS-Tagger kommt?
-        # Abhängig davon muss man das einlesen
+    print(number_of_words_storage)
 
-        pos_touples = f.read().split()
-        lemmas = lemmatizer.find_lemma(pos_touples)
-        current_file.write(lemmas)
+    for number in range(len(number_of_words_storage)):
+        print(number_of_words_storage[number])
+        average_words += number_of_words_storage[number]
+        number += 1
 
-        f.close()
-        current_file.close()
+    average_words /= len(number_of_words_storage)
+    print(average_words)
 
-        counter += 1
+
+
+
 
 
 if __name__ == "__main__":
@@ -259,5 +243,10 @@ if __name__ == "__main__":
     # remove_punctuation_numbers(r"/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_Countries_ordered/United Kingdom", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-punct-numb/countries")
     # make_corpus_without_stopwords(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-punct-numb/subject-matter", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-stopword/subject-matter")
     # get_top_n_words(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-stopword/subject-matter", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-mfw-without-stopwords/subject-matter", 50)
-    add_POS_tagging("corpus-without-stopword/subject-matter","corpus-without-stopword/subject-matter/pos")
-    #POS-Tagging und Lemmatization --> Code schreiben
+    # add_POS_tagging("corpus-without-stopword/subject-matter","corpus-without-stopword/subject-matter/pos")
+    get_all_txt_files(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-unaltered")
+    count_words()
+
+
+
+
