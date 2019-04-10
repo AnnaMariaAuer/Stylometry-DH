@@ -1,0 +1,452 @@
+﻿URTEIL DES GERICHTSHOFS (Fünfte Kammer)
+
+21. Juni 2018 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Freier Kapital- und Zahlungsverkehr – Beschränkungen – Besteuerung von Dividenden, die an Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) ausgeschüttet werden – Dividenden, die von in einem Mitgliedstaat ansässigen Gesellschaften an gebietsfremde OGAW ausgeschüttet werden – Steuerbefreiung der von in einem Mitgliedstaat ansässigen Gesellschaften an gebietsansässige OGAW ausgeschütteten Dividenden – Rechtfertigungsgründe – Ausgewogene Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten – Kohärenz des Steuersystems – Verhältnismäßigkeit“
+
+In der Rechtssache C‑480/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Østre Landsret (Berufungsgericht der Region Ost, Dänemark) mit Entscheidung vom 31. August 2016, beim Gerichtshof eingegangen am 5. September 2016, in dem Verfahren
+
+Fidelity Funds,
+
+Fidelity Investment Funds,
+
+Fidelity Institutional Funds
+
+gegen
+
+Skatteministeriet,
+
+Beteiligte:
+
+NN (L) SICAV,
+
+erlässt
+
+DER GERICHTSHOF (Fünfte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten J. L. da Cruz Vilaça der Richter E. Levits (Berichterstatter) und A. Borg Barthet sowie der Richterin M. Berger und des Richters F. Biltgen,
+
+Generalanwalt: P. Mengozzi,
+
+Kanzler: L. Carrasco Marco, Verwaltungsrätin,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 5. Oktober 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+von Fidelity Funds, Fidelity Investment Funds und Fidelity Institutional Funds, vertreten durch P. Farmer, Barrister, und J. Skaadstrup Andersen, advokat,
+
+–
+
+der NN (L) SICAV, vertreten durch E. Vistisen, advokat,
+
+–
+
+der dänischen Regierung, vertreten durch C. Thorning und J. Nymann-Lindegren als Bevollmächtigte im Beistand von S. Horsbøl Jensen, advokat,
+
+–
+
+der deutschen Regierung, vertreten durch T. Henze und R. Kanitz als Bevollmächtigte,
+
+–
+
+der niederländischen Regierung, vertreten durch M. Bulterman, B. Koopman und J. Langer als Bevollmächtigte,
+
+–
+
+der Europäischen Kommission, vertreten durch W. Roels und R. Lyal als Bevollmächtigte im Beistand von H. Peytz, avocat,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 20. Dezember 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung der Art. 56 und 63 AEUV.
+
+2
+
+Es ergeht im Rahmen von Rechtsstreitigkeiten zwischen Fidelity Funds, Fidelity Investment Funds und Fidelity Institutional Funds auf der einen und dem Skatteministeriet (Finanzministerium, Dänemark) auf der anderen Seite über Anträge auf Erstattung der Quellensteuer auf Dividenden, die durch in Dänemark ansässige Gesellschaften zwischen 2000 und 2009 an sie ausgeschüttet wurden.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+3
+
+Die Richtlinie 85/611/EWG des Rates vom 20. Dezember 1985 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. 1985, L 375, S. 3) hatte laut ihrem vierten Erwägungsgrund die Einführung gemeinsamer Mindestregelungen in den Mitgliedstaaten bezüglich der Zulassung, der Aufsicht, der Struktur, der Geschäftstätigkeit sowie der Informationspflichten für die Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) zum Gegenstand. Die Richtlinie 85/611 wurde mehrfach geändert, bevor sie mit Wirkung vom 1. Juli 2011 durch die Richtlinie 2009/65/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. 2009, L 302, S. 32) neu gefasst und aufgehoben wurde.
+
+Dänisches Recht
+
+4
+
+§ 1 Nr. 5 a des Lov om indkomstbeskatning af aktieselskaber m.v. (Körperschaftsteuergesetz) sieht vor, dass OGAW mit steuerlichem Sitz in Dänemark dort steuerpflichtig sind, während § 1 Nr. 6 dieses Gesetzes die Besteuerung der in Dänemark ansässigen steuerlichen Anlageorganismen (im Folgenden: Investmentfonds) im Sinne von § 16 C des Lov om påligningen af indkomstskat til staten (Einkommensteuerveranlagungsgesetz, im Folgenden: Ligningslov) betrifft.
+
+5
+
+§ 2 Abs. 1 Buchst. c des Körperschaftsteuergesetzes bestimmt, dass die OGAW und andere Investmentfonds, die ihren steuerlichen Sitz nicht in Dänemark haben, Steuern auf die Dividenden entrichten müssen, die von in Dänemark ansässigen Gesellschaften an sie ausgeschüttet werden, wobei diese beschränkte Steuerpflicht nur Einkünfte aus Quellen in Dänemark betrifft.
+
+6
+
+Nach § 65 Abs. 1 des Kildeskatteloven (Quellensteuergesetz) muss jeder Beschluss über die Ausschüttung einer Dividende durch eine in Dänemark ansässige Gesellschaft vorsehen, dass ein Quellensteuerabzug zu einem bestimmten Prozentsatz der gesamten Ausschüttung vorgenommen werden wird, sofern nichts anderes bestimmt ist. Der Quellensteuersatz betrug im Jahr 2000 25 % und wurde im Zeitraum von 2001 bis 2009 auf 28 % erhöht.
+
+7
+
+Nach den dänischen Vorschriften wird der Quellensteuersatz auf 15 % herabgesetzt, wenn die Behörden des Staates, in dem der entsprechende OGAW ansässig ist, auf der Grundlage eines Doppelbesteuerungsabkommens, einer sonstigen internationalen Übereinkunft oder eines Verwaltungsabkommens über gegenseitige Amtshilfe in Steuersachen Auskünfte mit den dänischen Behörden auszutauschen haben. Für in der Europäischen Union ansässige Steuerpflichtige darf die Endbesteuerung nach dieser Vorschrift in der Praxis höchstens 15 % betragen. Die Besteuerung kann zudem durch ein vom Königreich Dänemark mit dem Staat, in dem der betroffene OGAW ansässig ist, geschlossenes Doppelbesteuerungsabkommen weiter reduziert werden.
+
+8
+
+Das Quellensteuergesetz gilt für OGAW mit Sitz in Dänemark, die daher grundsätzlich diesen Vorschriften über die Besteuerung von Dividenden unterliegen. Den Bestimmungen des § 65 Abs. 8 dieses Gesetzes ist jedoch zu entnehmen, dass der Finanzminister Vorschriften erlassen kann, wonach bei Ausschüttungen von Dividenden an Investmentfonds im Sinne von § 16 C des Ligningslov keine Vorauszahlung zu leisten ist.
+
+9
+
+Mit dem Erlass der Quellensteuerverordnung hat der Finanzminister von dieser Ermächtigung Gebrauch gemacht, um Investmentfonds im Sinne von § 16 C von der Quellensteuer zu befreien. Nach § 38 der Quellensteuerverordnung kann sich jeder OGAW eine Dividendenbefreiungskarte ausstellen lassen und in den Genuss der Befreiung von der Quellenbesteuerung der Dividenden kommen, sofern es sich zum einen um einen unter § 1 Nr. 6 des Körperschaftsteuergesetzes fallenden (und damit in Dänemark ansässigen) Organismus handelt, und sofern er zum anderen den Status eines Investmentfonds im Sinne von § 16 C hat. In Dänemark ansässige OGAW, die die Voraussetzungen des § 16 C des Ligningslov nicht erfüllen, sind nicht von der Quellensteuer auf Dividenden befreit.
+
+10
+
+§ 16 C des Ligningslov definiert, was unter einem Investmentfonds im Sinne von § 16 C zu verstehen ist.
+
+11
+
+Die Einstufung eines OGAW als Investmentfonds im Sinne von § 16 C setzte nach den bis zum 1. Juni 2005 geltenden Vorschriften voraus, dass er eine Mindestausschüttung vornahm. Die Mindestausschüttung bildet die Bemessungsgrundlage für die Besteuerung der Einkünfte des betreffenden Investmentfonds hinsichtlich seiner Anteilsinhaber.
+
+12
+
+In § 16 C Abs. 2 bis 6 des Ligningslov ist näher geregelt, wie die Mindestausschüttung festgesetzt wird. Die Mindestausschüttung besteht nach dessen § 16 C Abs. 2 aus der Summe der Einnahmen und Nettobeträge unter Abzug von Verlusten und Ausgaben im jeweiligen Steuerjahr. § 16 C Abs. 3 des Ligningslov sieht vor, dass in die festgesetzte Mindestausschüttung eine Reihe von in dieser Bestimmung aufgeführten Einnahmen einbezogen werden, darunter Zinserträge, Dividenden, Erträge aus Forderungen und Finanzkontrakten sowie aus der Veräußerung von Aktien. Nach § 16 C Abs. 4 und 5 des Ligningslov können die Investmentfonds im Sinne von § 16 C steuerlich abzugsfähige Verluste und Verwaltungsausgaben abziehen.
+
+13
+
+Nach dem Erlass des Gesetzes Nr. 407 vom 1. Juni 2005 ist es ab diesem Zeitpunkt für den Status eines Investmentfonds im Sinne von § 16 C nicht mehr erforderlich, dass tatsächlich eine Mindestausschüttung an die Anteilsinhaber erfolgt. Dieser Status setzt jedoch weiterhin voraus, dass der betreffende OGAW eine Mindestausschüttung ausweist, die bei seinen Anteilsinhabern über eine vom Investmentfonds einbehaltene Quellensteuer besteuert wird.
+
+Die Ausgangsverfahren und Vorlagefrage
+
+14
+
+Die Kläger der Ausgangsverfahren sind OGAW im Sinne der Richtlinie 85/611 mit Sitz im Vereinigten Königreich bzw. in Luxemburg. Bei ihren Investitionen in Gesellschaften mit Sitz in Dänemark handelt es sich um Portfolio‑Investitionen unter 10 % des Kapitals. Die von den Klägern der Ausgangsverfahren angebotenen Produkte stehen in Dänemark ansässigen Kunden offen, werden aber in diesem Mitgliedstaat nicht aktiv vertrieben. Außerdem haben die Kläger der Ausgangsverfahren bei den dänischen Steuerbehörden weder beantragt, den steuerlichen Status der Investmentfonds im Sinne des § 16 C erlangen zu können, noch haben sie ihre Satzungen an die für solche Investmentfonds bis zum Steuerjahr 2005 geltenden Vorschriften angepasst.
+
+15
+
+Die Kläger der Ausgangsverfahren erhoben beim nationalen Gericht Klagen auf Erstattung der Quellensteuer auf die von Gesellschaften mit Sitz in Dänemark ausgeschütteten Dividenden, die sie zwischen dem Jahr 2000 und dem Jahr 2009 bezogen hatten, und machten geltend, dass die in Dänemark ansässigen OGAW im Unterschied zu den gebietsfremden OGAW in den Genuss einer Befreiung vom Quellensteuerabzug kommen könnten. Die nationalen Steuervorschriften machten die Befreiung nämlich von zwei Voraussetzungen abhängig, und zwar davon, dass der betreffende OGAW in Dänemark ansässig sei und dass er seine Einkünfte nach dem dänischen Steuerrecht ermittle und erkläre. Die gebietsfremden OGAW könnten naturgemäß die erste Voraussetzung nicht erfüllen, und es sei ihnen unmöglich oder besonders schwer möglich, die zweite Voraussetzung zu erfüllen, zumal für sie kein Anreiz dazu bestehe, da sie ja aufgrund der ersten Voraussetzung keinesfalls in den Genuss der Befreiung vom Quellensteuerabzug kommen könnten.
+
+16
+
+Die Kläger der Ausgangsverfahren sind daher der Ansicht, dass sie, obwohl sie die zweite Voraussetzung in Bezug auf die Pflicht zur Vornahme und Erklärung einer Mindestausschüttung nach den dänischen Vorschriften nicht erfüllten, Anspruch auf Erstattung der an der Quelle einbehaltenen Steuern hätten.
+
+17
+
+Das Finanzministerium räumt zwar ein, dass die dänische Regelung zur Folge habe, dass in bestimmten Fällen in Dänemark ansässige OGAW und in einem anderen Mitgliedstaat ansässige OGAW in Bezug auf die von in Dänemark ansässigen Gesellschaften bezogenen Dividenden einer unterschiedlichen steuerlichen Behandlung unterzogen würden. Es vertritt jedoch die Auffassung, dass diese Beschränkung durch die Notwendigkeit gerechtfertigt sei, zum einen die Kohärenz des Steuersystems zu wahren und zum anderen eine ausgewogene Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten sicherzustellen.
+
+18
+
+In diesem Zusammenhang sind sich die Parteien der Ausgangsverfahren einig, dass diese unterschiedliche steuerliche Behandlung eine Beschränkung des freien Kapitalverkehrs darstelle, aber die Kläger der Ausgangsverfahren tragen vor, dass eine solche Beschränkung nicht durch die vom Finanzministerium vorgebrachten Gründe gerechtfertigt werden könne und die dänischen Vorschriften jedenfalls über das hinausgingen, was erforderlich sei, um eine Besteuerung in Dänemark sicherzustellen.
+
+19
+
+Unter diesen Umständen hat das Østre Landsret (Berufungsgericht der Region Ost, Dänemark) die Verfahren ausgesetzt und dem Gerichtshof die folgende Frage zur Vorabentscheidung vorgelegt:
+
+Verstößt eine Steuerregelung wie die in den Ausgangsverfahren fragliche, die für Dividenden, die von dänischen Gesellschaften an unter die Richtlinie 85/611 fallende ausländische OGAW ausgeschüttet werden, einen Quellensteuerabzug vorsieht, gegen Art. 56 EG (jetzt Art. 63 AEUV) über den freien Kapitalverkehr oder gegen Art. 49 EG (jetzt Art. 56 AEUV) über den freien Dienstleistungsverkehr, wenn den entsprechenden dänischen OGAW eine Befreiung vom Quellensteuerabzug gewährt werden kann, und zwar entweder weil sie faktisch eine Mindestausschüttung an ihre Anteilsinhaber unter Einbehaltung der Quellensteuer vornehmen oder weil sie technisch eine Mindestausschüttung ausweisen, auf die Quellensteuer zulasten ihrer Anteilsinhaber einbehalten wird?
+
+Zum Antrag auf Wiedereröffnung des mündlichen Verfahrens
+
+20
+
+Nach der Verlesung der Schlussanträge des Generalanwalts haben die Kläger der Ausgangsverfahren mit Schriftsatz, der am 18. Januar 2018 bei der Kanzlei des Gerichtshofs eingegangen ist, die Wiedereröffnung des mündlichen Verfahrens nach Art. 83 der Verfahrensordnung des Gerichtshofs beantragt.
+
+21
+
+Sie stützen diesen Antrag im Wesentlichen darauf, dass die Schlussanträge des Generalanwalts auf einem Missverständnis hinsichtlich des Umfangs und der Art der in § 16 C des Ligningslov aufgestellten Anforderungen beruhten. Zudem sei der Hinweis des Generalanwalts darauf, dass bestimmte nicht im Königreich Dänemark ansässige OGAW Mindestausschüttungen vorgenommen hätten, sachlich falsch, und die Umstände im Zusammenhang mit solchen OGAW seien nicht Gegenstand einer Erörterung vor dem Gerichtshof gewesen.
+
+22
+
+Hierzu ist festzustellen, dass der Generalanwalt nach Art. 252 Abs. 2 AEUV die Aufgabe hat, öffentlich in völliger Unparteilichkeit und Unabhängigkeit begründete Schlussanträge zu den Rechtssachen zu stellen, in denen nach der Satzung des Gerichtshofs der Europäischen Union seine Mitwirkung erforderlich ist. Die Schlussanträge des Generalanwalts oder ihre Begründung binden den Gerichtshof nicht (Urteil vom 22. Juni 2017, Federatie Nederlandse Vakvereniging u. a., C‑126/16, EU:C:2017:489, Rn. 31 und die dort angeführte Rechtsprechung).
+
+23
+
+In diesem Zusammenhang ist auch darauf hinzuweisen, dass die Satzung des Gerichtshofs der Europäischen Union und dessen Verfahrensordnung keine Möglichkeit für die Beteiligten vorsehen, eine Stellungnahme zu den Schlussanträgen des Generalanwalts einzureichen (Urteil vom 25. Oktober 2017, Polbud – Wykonawstwo, C‑106/16, EU:C:2017:804, Rn. 23 und die dort angeführte Rechtsprechung). Dass ein Beteiligter nicht mit den Schlussanträgen des Generalanwalts einverstanden ist, kann folglich unabhängig von den darin untersuchten Fragen für sich genommen kein Grund sein, der die Wiedereröffnung des mündlichen Verfahrens rechtfertigt (Urteile vom 25. Oktober 2017, Polbud – Wykonawstwo, C‑106/16, EU:C:2017:804, Rn. 24, sowie vom 29. November 2017, King, C‑214/16, EU:C:2017:914, Rn. 27 und die dort angeführte Rechtsprechung).
+
+24
+
+Mit dem Vorbringen zu Umfang und Art der in § 16 C des Ligningslov aufgestellten Anforderungen versuchen die Kläger der Ausgangsverfahren auf die Schlussanträge des Generalanwalts zu reagieren, wobei sie die sich aus dem Vorabentscheidungsersuchen, der dem Gerichtshof vorliegenden Akte und den in der mündlichen Verhandlung gemachten Angaben ergebende Darstellung der Regelung in Frage stellen, die in Dänemark nach der im Jahr 2005 erfolgten Änderung in Kraft steht. Aus der in der vorstehenden Randnummer angeführten Rechtsprechung geht aber hervor, dass die das Verfahren vor dem Gerichtshof regelnden Vorschriften keine solche Stellungnahme vorsehen.
+
+25
+
+Gleichwohl kann der Gerichtshof gemäß Art. 83 seiner Verfahrensordnung jederzeit nach Anhörung des Generalanwalts die Wiedereröffnung des mündlichen Verfahrens beschließen, insbesondere wenn er sich für unzureichend unterrichtet hält, wenn eine Partei nach Abschluss des mündlichen Verfahrens eine neue Tatsache unterbreitet hat, die von entscheidender Bedeutung für die Entscheidung des Gerichtshofs ist, oder wenn ein zwischen den Parteien oder den in Art. 23 der Satzung des Gerichtshofs der Europäischen Union bezeichneten Beteiligten nicht erörtertes Vorbringen entscheidungserheblich ist.
+
+26
+
+Im vorliegenden Fall geht der Gerichtshof nach Anhörung des Generalanwalts davon aus, dass er über sämtliche Informationen verfügt, die für die Beantwortung der vom vorlegenden Gericht gestellten Frage erforderlich sind, und dass jegliches für die Entscheidung der vorliegenden Rechtssache erhebliche Vorbringen, insbesondere die Möglichkeit eines nicht im Königreich Dänemark ansässigen Organismus, eine Mindestausschüttung nach den dänischen Vorschriften auszuweisen und den Status eines Investmentfonds im Sinne des § 16 C zu erlangen, vor dem Gerichtshof erörtert worden sind.
+
+27
+
+Aufgrund dieser Erwägungen besteht keine Veranlassung, die Wiedereröffnung des mündlichen Verfahrens anzuordnen.
+
+Zur Vorlagefrage
+
+28
+
+Mit seiner Frage möchte das vorlegende Gericht wissen, ob die Art. 56 und 63 AEUV dahin auszulegen sind, dass sie einer Regelung eines Mitgliedstaats wie der in den Ausgangsverfahren fraglichen entgegenstehen, wonach die von einer in diesem Mitgliedstaat ansässigen Gesellschaft an einen gebietsfremden OGAW ausgeschütteten Dividenden dem Quellensteuerabzug unterliegen, während die an einen in diesem Mitgliedstaat ansässigen OGAW ausgeschütteten Dividenden davon befreit sind, sofern dieser Organismus eine Mindestausschüttung an seine Anteilsinhaber vornimmt oder technisch eine Mindestausschüttung ausweist und eine Steuer auf diese tatsächliche oder fiktive Mindestausschüttung zulasten seiner Anteilsinhaber einbehält.
+
+29
+
+Wie sich aus der Darstellung der in den Ausgangsverfahren fraglichen nationalen Regelung durch das vorlegende Gericht ergibt, muss ein OGAW zum einen in Dänemark ansässig sein und zum anderen den Status eines Investmentfonds im Sinne von § 16 C genießen, um eine Befreiung vom Quellensteuerabzug in Anspruch nehmen zu können.
+
+30
+
+Für die Erlangung dieses Status muss ein OGAW die Voraussetzungen des § 16 C des Ligningslov erfüllen und sich insbesondere nach der vor dem 1. Juni 2005 geltenden Regelung verpflichten, eine Mindestausschüttung vorzunehmen und von dieser Ausschüttung Quellensteuer zulasten seiner Anteilsinhaber einzubehalten. Nach diesem Zeitpunkt wird nicht mehr verlangt, dass tatsächlich eine Mindestausschüttung an die Anteilsinhaber vorgenommen wird, aber um diesen Status zu erhalten, muss der betroffene OGAW eine Mindestausschüttung ausweisen, die bei seinen Anteilsinhabern dadurch besteuert wird, dass der OGAW einen Einbehalt an der Quelle vornimmt. Die in Dänemark ansässigen OGAW, die den Status eines Investmentfonds im Sinne des § 16 C nicht erlangt haben, unterliegen der Quellensteuer auf die von gebietsansässigen Gesellschaften ausgeschütteten Dividenden.
+
+31
+
+Es ist der Akte zu entnehmen und vor dem Gerichtshof nicht bestritten worden, dass während des in den Ausgangsverfahren fraglichen Zeitraums nur in Dänemark ansässige OGAW eine Befreiung vom Quellensteuerabzug in Anspruch nehmen konnten. Aus den Erklärungen der dänischen Regierung und der Parteien der Ausgangsverfahren geht hervor, dass ein nicht in Dänemark ansässiger OGAW zwar grundsätzlich die in § 16 C des Ligningslov vorgesehenen Voraussetzungen erfüllen kann, er aber aufgrund seiner Eigenschaft als gebietsfremder Organismus nicht in den Genuss der Befreiung von der Quellensteuer auf die von in Dänemark ansässigen Gesellschaften ausgeschütteten Dividenden kommen kann.
+
+Zu der in Rede stehenden Freiheit
+
+32
+
+Da die Vorlagefrage im Hinblick sowohl auf Art. 56 AEUV als auch auf Art. 63 AEUV gestellt wird, ist zunächst festzustellen, ob und gegebenenfalls in welchem Ausmaß eine nationale Regelung wie die in den Ausgangsverfahren fragliche die Ausübung der Dienstleistungsfreiheit und den freien Kapitalverkehr beeinträchtigen kann.
+
+33
+
+Hierzu ist nach gefestigter Rechtsprechung auf den Gegenstand der betreffenden Regelung abzustellen (Urteile vom 13. November 2012, Test Claimants in the FII Group Litigation, C‑35/11, EU:C:2012:707, Rn. 90 und die dort angeführte Rechtsprechung, sowie vom 5. Februar 2014, Hervis Sport- és Divatkereskedelmi, C‑385/12, EU:C:2014:47, Rn. 21 und die dort angeführte Rechtsprechung).
+
+34
+
+Die Rechtsstreitigkeiten der Ausgangsverfahren betreffen den Antrag auf Erstattung der Quellensteuer auf Dividenden, die an die Kläger der Ausgangsverfahren von in Dänemark ansässigen Gesellschaften zwischen dem Jahr 2000 und dem Jahr 2009 ausgeschüttet wurden, und die Vereinbarkeit einer nationalen Regelung, die die Möglichkeit der Befreiung von dieser Quellensteuer ausschließlich den in Dänemark ansässigen OGAW vorbehält, die die in § 16 C des Ligningslov aufgestellten Voraussetzungen erfüllen, mit dem Unionsrecht.
+
+35
+
+Gegenstand der in den Ausgangsverfahren fraglichen Regelung ist also die steuerliche Behandlung von Dividenden, die von OGAW bezogen werden.
+
+36
+
+Daher ist davon auszugehen, dass die in den Ausgangsverfahren in Rede stehende Situation unter den freien Kapitalverkehr fällt.
+
+37
+
+Was die Dienstleistungsfreiheit unter der Annahme betrifft, dass die in den Ausgangsverfahren fraglichen Rechtsvorschriften ein Verbot, eine Störung oder einen Attraktivitätsverlust der Tätigkeiten eines OGAW mit Sitz in einem anderen Mitgliedstaat als dem Königreich Dänemark, wo er rechtmäßig entsprechende Dienstleistungen erbringt, bewirken, so wären derartige Auswirkungen die unvermeidliche Folge der steuerlichen Behandlung, der die an diesen nicht in Dänemark ansässigen OGAW ausgeschütteten Dividenden unterliegen, und rechtfertigten keine eigenständige Prüfung im Hinblick auf die Dienstleistungsfreiheit (vgl. in diesem Sinne Urteil vom 17. September 2009, Glaxo Wellcome, C‑182/08, EU:C:2009:559, Rn. 51 und die dort angeführte Rechtsprechung). Diese Freiheit ist hier nämlich gegenüber dem freien Kapitalverkehr zweitrangig und kann ihm zugeordnet werden (Urteil vom 26. Mai 2016, NN [L] International, C‑48/15, EU:C:2016:356, Rn. 41).
+
+38
+
+Überdies ist den Angaben des vorlegenden Gerichts zu entnehmen, dass es sich bei den Investitionen der Kläger der Ausgangsverfahren in Dänemark um Portfolio‑Investitionen handelt, die stets unter 10 % des Kapitals einer in Dänemark ansässigen Gesellschaft lagen, und es steht fest, dass die Niederlassungsfreiheit nicht Gegenstand der Vorlagefrage ist.
+
+39
+
+Somit ist die Vorlagefrage im Hinblick auf Art. 63 AEUV zu beantworten.
+
+Zum Vorliegen einer Beschränkung des freien Kapitalverkehrs
+
+40
+
+Nach ständiger Rechtsprechung gehören zu den Maßnahmen, die Art. 63 Abs. 1 AEUV als Beschränkungen des Kapitalverkehrs verbietet, solche, die geeignet sind, Gebietsfremde von Investitionen in einem Mitgliedstaat oder die dort Ansässigen von Investitionen in anderen Staaten abzuhalten (Urteil vom 10. Mai 2012, Santander Asset Management SGIIC u. a., C‑338/11 bis C‑347/11, EU:C:2012:286, Rn. 15 sowie die dort angeführte Rechtsprechung).
+
+41
+
+Im vorliegenden Fall unterliegen die in Dänemark ansässigen und die in einem anderen Mitgliedstaat ansässigen OGAW nach der in den Ausgangsverfahren fraglichen Regelung in Bezug auf die ihnen von in Dänemark ansässigen Gesellschaften ausgeschütteten Dividenden einer unterschiedlichen Behandlung.
+
+42
+
+Auf die den gebietsfremden OGAW von in Dänemark ansässigen Gesellschaften ausgeschütteten Dividenden wird nämlich Quellensteuer einbehalten. Hingegen können die in Dänemark ansässigen OGAW die Befreiung von der Quellensteuer auf diese Dividenden in Anspruch nehmen, wenn sie die Voraussetzungen des § 16 C des Ligningslov erfüllen.
+
+43
+
+Durch Einbehaltung der Quellensteuer auf die an die gebietsfremden OGAW ausgeschütteten Dividenden und durch Beschränkung der Möglichkeit einer Befreiung von dieser Quellensteuer ausschließlich auf die gebietsansässigen OGAW behandelt die in den Ausgangsverfahren fragliche nationale Regelung jene Dividenden schlechter, die an die gebietsfremden OGAW ausgeschüttet werden.
+
+44
+
+Eine solche Schlechterbehandlung ist geeignet, zum einen gebietsfremde OGAW von Investitionen in Gesellschaften, die in Dänemark ansässig sind, und zum anderen in Dänemark ansässige Anleger vom Erwerb von Anteilen an gebietsfremden OGAW abzuhalten (Urteil vom 10. Mai 2012, Santander Asset Management SGIIC u. a., C‑338/11 bis C‑347/11, EU:C:2012:286, Rn. 17).
+
+45
+
+Somit stellen die in den Ausgangsverfahren in Rede stehenden nationalen Rechtsvorschriften eine nach Art. 63 AEUV grundsätzlich verbotene Beschränkung des freien Kapitalverkehrs dar.
+
+Zum Vorliegen einer Rechtfertigung
+
+46
+
+Nach Art. 65 Abs. 1 Buchst. a AEUV berührt Art. 63 AEUV jedoch nicht das Recht der Mitgliedstaaten, die einschlägigen Vorschriften ihres Steuerrechts anzuwenden, die Steuerpflichtige mit unterschiedlichem Wohnort oder Kapitalanlageort unterschiedlich behandeln.
+
+47
+
+Diese Bestimmung ist, da sie eine Ausnahme vom Grundprinzip des freien Kapitalverkehrs darstellt, eng auszulegen. Daher kann sie nicht dahin verstanden werden, dass jede Steuerregelung, die zwischen Steuerpflichtigen nach ihrem Wohnort oder nach dem Staat ihrer Kapitalanlage unterscheidet, ohne Weiteres mit dem AEU-Vertrag vereinbar wäre. Die in Art. 65 Abs. 1 Buchst. a AEUV vorgesehene Ausnahme wird nämlich ihrerseits durch Art. 65 Abs. 3 AEUV eingeschränkt, wonach die in Art. 65 Abs. 1 AEUV genannten nationalen Vorschriften „weder ein Mittel zur willkürlichen Diskriminierung noch eine verschleierte Beschränkung des freien Kapital- und Zahlungsverkehrs im Sinne des Artikels 63 [AEUV] darstellen [dürfen]“ (Urteil vom 10. April 2014, Emerging Markets Series of DFA Investment Trust Company, C‑190/12, EU:C:2014:249, Rn. 55 und 56 sowie die dort angeführte Rechtsprechung).
+
+48
+
+Die nach Art. 65 Abs. 1 Buchst. a AEUV zulässigen Ungleichbehandlungen müssen daher von den durch Art. 65 Abs. 3 AEUV verbotenen Diskriminierungen unterschieden werden. Nach der Rechtsprechung des Gerichtshofs kann eine nationale Steuerregelung wie die, um die es in den Ausgangsverfahren geht, aber nur dann als mit den Vertragsbestimmungen über den freien Kapitalverkehr vereinbar angesehen werden, wenn die Ungleichbehandlung Situationen betrifft, die nicht objektiv miteinander vergleichbar sind, oder durch einen zwingenden Grund des Allgemeininteresses gerechtfertigt ist (Urteil vom 10. Mai 2012, Santander Asset Management SGIIC u. a., C‑338/11 bis C‑347/11, EU:C:2012:286, Rn. 23 und die dort angeführte Rechtsprechung).
+
+49
+
+Es ist folglich zu prüfen, ob die Beschränkung der Möglichkeit einer Befreiung von der Quellensteuer auf die in Dänemark ansässigen OGAW durch einen objektiven Unterschied zwischen der Situation von in Dänemark ansässigen OGAW und der Situation von gebietsfremden OGAW gerechtfertigt ist.
+
+50
+
+Insoweit leitet sich aus der Rechtsprechung des Gerichtshofs zum einen ab, dass die Vergleichbarkeit eines grenzüberschreitenden Sachverhalts mit einem innerstaatlichen Sachverhalt unter Berücksichtigung des mit den fraglichen nationalen Bestimmungen verfolgten Ziels sowie ihres Zwecks und ihres Inhalts zu prüfen ist (Urteil vom 2. Juni 2016, Pensioenfonds Metaal en Techniek, C‑252/14, EU:C:2016:402, Rn. 48 und die dort angeführte Rechtsprechung).
+
+51
+
+Zum anderen sind für die Beurteilung, ob die unterschiedliche Behandlung aufgrund einer derartigen Regelung einem objektiven Unterschied der Situationen entspricht, nur die von der betreffenden Regelung aufgestellten maßgeblichen Unterscheidungskriterien zu berücksichtigen (Urteile vom 10. Mai 2012, Santander Asset Management SGIIC u. a., C‑338/11 bis C‑347/11, EU:C:2012:286, Rn. 28, sowie vom 2. Juni 2016, Pensioenfonds Metaal en Techniek, C‑252/14, EU:C:2016:402, Rn. 49).
+
+52
+
+Wie den Erklärungen der dänischen Regierung zu entnehmen ist, wird mit der in den Ausgangsverfahren fraglichen Regelung zum einen das Ziel verfolgt, eine gleiche steuerliche Belastung von Privatpersonen, die in Gesellschaften mit Sitz in Dänemark mittels eines OGAW investieren, und von Privatpersonen, die unmittelbar in Gesellschaften mit Sitz in Dänemark investieren, sicherzustellen. Diese Regelung verhindere somit eine wirtschaftliche Doppelbesteuerung, die eintreten würde, wenn die Dividenden bei dem betreffenden OGAW und bei seinen Anteilsinhabern besteuert würden. Zum anderen solle diese Regelung gewährleisten, dass die von in Dänemark ansässigen Gesellschaften ausgeschütteten Dividenden aufgrund ihrer Steuerbefreiung bei den OGAW nicht der Steuerhoheit des Königreichs Dänemark entgehen und seiner Besteuerungsbefugnis tatsächlich einmal unterworfen werden.
+
+53
+
+Hinsichtlich des ersten von der dänischen Regierung geltend gemachten Ziels ist der Rechtsprechung des Gerichtshofs zu entnehmen, dass in Bezug auf die Maßnahmen eines Mitgliedstaats zur Vermeidung oder Verringerung der mehrfachen Belastung oder der wirtschaftlichen Doppelbesteuerung der von einer gebietsansässigen Gesellschaft ausgeschütteten Einkünfte die Situation der gebietsansässigen Empfängergesellschaften nicht unbedingt mit der Situation der in einem anderen Mitgliedstaat ansässigen Empfängergesellschaften vergleichbar ist (Urteil vom 25. Oktober 2012, Kommission/Belgien, C‑387/11, EU:C:2012:670, Rn. 48 und die dort angeführte Rechtsprechung).
+
+54
+
+Sobald jedoch ein Mitgliedstaat nicht nur die gebietsansässigen, sondern auch die gebietsfremden Gesellschaften hinsichtlich der Einkünfte, die sie von einer gebietsansässigen Gesellschaft beziehen, einseitig oder im Wege eines Abkommens der Einkommensteuer unterwirft, nähert sich die Situation der gebietsfremden Gesellschaften derjenigen der gebietsansässigen Gesellschaften an (vgl. in diesem Sinne Urteil vom 25. Oktober 2012, Kommission/Belgien, C‑387/11, EU:C:2012:670, Rn. 49 und die dort angeführte Rechtsprechung).
+
+55
+
+Allein schon die Ausübung der Steuerhoheit durch diesen Mitgliedstaat birgt nämlich, unabhängig von einer Besteuerung in einem anderen Mitgliedstaat, die Gefahr einer mehrfachen Belastung oder einer wirtschaftlichen Doppelbesteuerung in sich. In einem solchen Fall hat der Staat des Sitzes der ausschüttenden Gesellschaft dafür zu sorgen, dass die gebietsfremden Empfängergesellschaften hinsichtlich des in seinem nationalen Recht vorgesehenen Mechanismus zur Vermeidung oder Verringerung einer mehrfachen Belastung oder einer wirtschaftlichen Doppelbesteuerung eine Behandlung erfahren, die derjenigen der gebietsansässigen Empfängergesellschaften gleichwertig ist, damit sie nicht einer – nach Art. 63 AEUV grundsätzlich verbotenen – Beschränkung des freien Kapitalverkehrs ausgesetzt sind (vgl. in diesem Sinne Urteil vom 25. Oktober 2012, Kommission/Belgien, C‑387/11, EU:C:2012:670, Rn. 50 und die dort angeführte Rechtsprechung).
+
+56
+
+Da das Königreich Dänemark entschieden hat, seine Steuerhoheit über Einkünfte auszuüben, die von gebietsfremden OGAW bezogen werden, befinden sich diese folglich, was die Gefahr einer wirtschaftlichen Doppelbesteuerung der von den in Dänemark ansässigen Gesellschaften ausgeschütteten Dividenden angeht, in einer Situation, die der gebietsansässiger OGAW vergleichbar ist (Urteile vom 20. Oktober 2011, Kommission/Deutschland, C‑284/09, EU:C:2011:670, Rn. 58, und vom 10. Mai 2012, Santander Asset Management SGIIC u. a., C‑338/11 bis C‑347/11, EU:C:2012:286, Rn. 42).
+
+57
+
+Das zweite von der dänischen Regierung vorgebrachte Ziel besteht im Wesentlichen in dem Wunsch, nicht auf jegliche Besteuerung der von den in Dänemark ansässigen Gesellschaften ausgeschütteten Dividenden zu verzichten, sondern deren Besteuerung auf die Ebene der Anteilsinhaber der OGAW zu verlagern. Dieses Ziel wird durch die Regelung umgesetzt, dass ein in Dänemark ansässiger OGAW, um in den Genuss des Status eines Investmentfonds im Sinne von § 16 C und folglich der Befreiung von der Quellensteuer zu kommen, die Quellensteuer zulasten seiner Anteilsinhaber von der tatsächlich an sie erfolgten Mindestausschüttung oder seit den im Laufe des Jahres 2005 eingetretenen Änderungen von der nach den Bestimmungen des § 16 C des Ligningslov ausgewiesenen Mindestausschüttung einbehalten muss.
+
+58
+
+Das Königreich Dänemark kann hingegen einen gebietsfremden OGAW nicht verpflichten, auf die von diesem OGAW ausgeschütteten Dividenden eine Quellensteuer zugunsten dieses Mitgliedstaats einzubehalten. Ein solcher OGAW unterliegt der Besteuerungsbefugnis des Königreichs Dänemark nur aufgrund der bezogenen Dividenden, deren Quelle sich in diesem Mitgliedstaat befindet, grundsätzlich aber nicht in Bezug auf die von diesem OGAW ausgeschütteten Dividenden.
+
+59
+
+In Anbetracht des Ziels, des Gegenstands und des Inhalts der in den Ausgangsverfahren fraglichen Regelung dürfte diese Unterscheidung, die im Übrigen den Unterschied zwischen einem in Dänemark ansässigen und einem gebietsfremden Organismus ausmacht, jedoch nicht als entscheidend angesehen werden.
+
+60
+
+Das Ziel der in den Ausgangsverfahren fraglichen Regelung besteht zwar darin, die Besteuerungsebene vom Anlageinstrument zum Anteilsinhaber dieses Instruments zu verlagern, grundsätzlich sind aber die materiellen Voraussetzungen der Steuerhoheit über die Einkünfte der Aktionäre und nicht die verwendete Besteuerungstechnik als entscheidend anzusehen.
+
+61
+
+Ein gebietsfremder OGAW kann Anteilsinhaber mit steuerlichem Sitz in Dänemark haben, über deren Einkünfte dieser Mitgliedstaat seine Steuerhoheit ausüben kann. Aus diesem Blickwinkel befindet sich ein gebietsfremder OGAW in einer Situation, die objektiv mit der eines im Königreich Dänemark ansässigen OGAW vergleichbar ist.
+
+62
+
+Tatsächlich kann das Königreich Dänemark nicht bei gebietsfremden Anteilsinhabern die Dividenden besteuern, die von gebietsfremden OGAW ausgeschüttet werden. Diese fehlende Möglichkeit passt jedoch in die Logik der Verlagerung der Besteuerungsebene vom Anlageinstrument auf den Anteilsinhaber.
+
+63
+
+Unter diesen Voraussetzungen ist festzustellen, dass die Beschränkung der Möglichkeit einer Befreiung vom Quellensteuerabzug ausschließlich auf die gebietsansässigen OGAW nicht durch einen objektiven Unterschied zwischen der Situation dieser OGAW und der Situation der in einem anderen Mitgliedstaat als dem Königreich Dänemark ansässigen OGAW gerechtfertigt ist.
+
+64
+
+Eine solche Beschränkung kann aber nur zulässig sein, wenn sie durch zwingende Gründe des Allgemeininteresses gerechtfertigt und geeignet ist, die Erreichung des mit ihr verfolgten Ziels zu gewährleisten, sowie nicht über das hinausgeht, was hierzu erforderlich ist (Urteil vom 24. November 2016, SECIL, C‑464/14, EU:C:2016:896, Rn. 56).
+
+65
+
+Die Regierungen, die beim Gerichtshof Erklärungen eingereicht haben, halten die in den Ausgangsverfahren fragliche Beschränkung des freien Kapitalverkehrs für dadurch gerechtfertigt, dass die Kohärenz des dänischen Steuersystems gewahrt werden müsse. Die dänische und die niederländische Regierung gehen zudem davon aus, dass diese Beschränkung dadurch gerechtfertigt sei, dass eine ausgewogene Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten sicherzustellen sei.
+
+66
+
+Als Erstes ist zu prüfen, ob der Umstand, dass ein Mitgliedstaat die Möglichkeit einer Befreiung von der Quellensteuer auf die von gebietsansässigen Gesellschaften ausgeschütteten Dividenden ausschließlich auf gebietsansässige OGAW beschränkt, dadurch gerechtfertigt werden kann, dass die Wahrung einer ausgewogenen Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten sicherzustellen ist.
+
+67
+
+Die dänische und die niederländische Regierung machen insoweit geltend, dass eine Verpflichtung des Königreichs Dänemark zur Gewährung einer Befreiung von der Quellensteuer auf die an gebietsfremde OGAW ausgeschütteten Dividenden, ohne dass es bei der Ausschüttung der Dividenden an die Anteilsinhaber eine Besteuerung vornehmen könne, darauf hinausliefe, den Quellenstaat dieser Dividenden zu zwingen, seine Steuerhoheit über die in seinem Hoheitsgebiet erwirtschafteten Einkünfte nicht auszuüben.
+
+68
+
+Die Besteuerung der Dividenden und der Ausschluss der gebietsfremden OGAW von der in den Ausgangsverfahren fraglichen Befreiung ermögliche die Sicherstellung einer ausgewogenen Aufteilung der Besteuerungsbefugnis und gehe nicht über das Erforderliche hinaus, da das Königreich Dänemark die Steuer auf die an gebietsfremde OGAW ausgeschütteten Dividenden nicht mehr als einmal erhebe und die Verlagerung der Besteuerung auf die Ausschüttung durch die gebietsfremden OGAW nicht möglich sei.
+
+69
+
+Hierzu ist darauf hinzuweisen, dass die Wahrung der Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten zwar einen zwingenden Grund des Allgemeininteresses darstellen kann, der eine Beschränkung der Ausübung einer Verkehrsfreiheit innerhalb der Europäischen Union rechtfertigen kann (Urteil vom 12. Dezember 2013, Imfeld und Garcet, C‑303/12, EU:C:2013:822, Rn. 68 sowie die dort angeführte Rechtsprechung).
+
+70
+
+Diese Rechtfertigung kann insbesondere dann anerkannt werden, wenn mit der betreffenden Regelung Verhaltensweisen verhindert werden sollen, die geeignet sind, das Recht eines Mitgliedstaats auf Ausübung seiner Steuerhoheit für die in seinem Hoheitsgebiet durchgeführten Tätigkeiten zu gefährden (Urteil vom 10. Mai 2012, Santander Asset Management SGIIC u. a., C‑338/11 bis C‑347/11, EU:C:2012:286, Rn. 47 sowie die dort angeführte Rechtsprechung).
+
+71
+
+Der Gerichtshof hat jedoch bereits für Recht erkannt, dass sich ein Mitgliedstaat, wenn er sich wie in den in den Ausgangsverfahren in Rede stehenden Fällen dafür entscheidet, die gebietsansässigen OGAW, die Dividenden inländischer Herkunft beziehen, nicht zu besteuern, nicht auf die Notwendigkeit einer ausgewogenen Aufteilung der Steuerhoheit zwischen den Mitgliedstaaten berufen kann, um die Besteuerung der gebietsfremden OGAW, die derartige Einkünfte haben, zu rechtfertigen (Urteil vom 10. Mai 2012, Santander Asset Management SGIIC u. a., C‑338/11 bis C‑347/11, EU:C:2012:286, Rn. 48 sowie die dort angeführte Rechtsprechung).
+
+72
+
+Im Übrigen sind die von den in Dänemark ansässigen Gesellschaften an die gebietsfremden OGAW ausgeschütteten Dividenden im Königreich Dänemark bereits über die Gewinne der ausschüttenden Gesellschaft besteuert worden.
+
+73
+
+Der Umstand, dass die Besteuerung der Dividenden auf die Ebene der Anteilsinhaber der gebietsansässigen OGAW verlagert wird, kann die in den Ausgangsverfahren in Rede stehende Beschränkung nicht rechtfertigen.
+
+74
+
+Zum einen besitzt das Königreich Dänemark nämlich, wie in Rn. 61 des vorliegenden Urteils ausgeführt, die Befugnis zur Besteuerung der gebietsansässigen Anteilsinhaber der gebietsfremden OGAW.
+
+75
+
+Zum anderen läuft der Umstand, dass ein Mitgliedstaat die Quellensteuer auf Dividenden, die an die gebietsfremden OGAW ausgeschüttet werden, aufgrund der fehlenden Möglichkeit der Einbehaltung der Steuer auf die gesamten von den gebietsfremden OGAW vorgenommenen Ausschüttungen einbehält, nicht darauf hinaus, Verhaltensweisen zu verhindern, die geeignet sind, das Recht dieses Mitgliedstaats auf Ausübung seiner Steuerhoheit für die in seinem Hoheitsgebiet durchgeführten Tätigkeiten zu gefährden, sondern im Gegenteil darauf, die fehlende Besteuerungsbefugnis, die sich aus der ausgewogenen Aufteilung der Steuerhoheit zwischen den Mitgliedstaaten ableitet, auszugleichen.
+
+76
+
+Die Notwendigkeit der Wahrung dieser Aufteilung kann somit nicht geltend gemacht werden, um die in den Ausgangsverfahren in Rede stehende Beschränkung des freien Kapitalverkehrs zu rechtfertigen.
+
+77
+
+Als Zweites ist zu prüfen, ob, wie die Regierungen, die beim Gerichtshof Erklärungen eingereicht haben, geltend machen, die sich aus der Anwendung der in den Ausgangsverfahren in Rede stehenden Steuerregelung ergebende Beschränkung dadurch gerechtfertigt werden kann, dass die Kohärenz des dänischen Steuersystems zu wahren ist.
+
+78
+
+Nach Ansicht dieser Regierungen besteht nämlich ein unmittelbarer Zusammenhang zwischen der Befreiung der an die gebietsansässigen OGAW ausgeschütteten Dividenden vom Quellensteuerabzug und der Verpflichtung dieser OGAW, die Quellensteuer auf die von ihnen an ihre Anteilsinhaber ausgeschütteten Dividenden einzubehalten.
+
+79
+
+Insoweit ist daran zu erinnern, dass der Gerichtshof bereits entschieden hat, dass die Notwendigkeit, die Kohärenz eines Steuersystems zu wahren, eine Regelung rechtfertigen kann, die geeignet ist, Grundfreiheiten einzuschränken (Urteil vom 10. Mai 2012, Santander Asset Management SGIIC u. a., C‑338/11 bis C‑347/11, EU:C:2012:286, Rn. 50 sowie die dort angeführte Rechtsprechung).
+
+80
+
+Ein auf diesen Rechtfertigungsgrund gestütztes Argument kann jedoch nach ständiger Rechtsprechung nur Erfolg haben, wenn ein unmittelbarer Zusammenhang zwischen dem betreffenden steuerlichen Vorteil und dessen Ausgleich durch eine bestimmte steuerliche Belastung besteht, wobei die Unmittelbarkeit dieses Zusammenhangs im Hinblick auf das mit der fraglichen Regelung verfolgte Ziel beurteilt werden muss (Urteil vom 10. Mai 2012, Santander Asset Management SGIIC u. a., C‑338/11 bis C‑347/11, EU:C:2012:286, Rn. 51 sowie die dort angeführte Rechtsprechung).
+
+81
+
+Insoweit kann ein OGAW, wie in den Rn. 29 bis 31 des vorliegenden Urteils ausgeführt worden ist, in den Genuss einer Befreiung von der Quellensteuer auf die von einer in Dänemark ansässigen Gesellschaft ausgeschütteten Dividenden kommen, sofern er selbst in Dänemark ansässig ist und zugleich eine Mindestausschüttung vornimmt oder ausweist, bei der ein Quellensteuerabzug erfolgt.
+
+82
+
+Wie der Generalanwalt in Nr. 72 seiner Schlussanträge ausgeführt hat, unterwirft die in den Ausgangsverfahren in Rede stehende nationale Regelung die Befreiung der in Dänemark ansässigen OGAW von der Quellensteuer der Bedingung einer – tatsächlichen oder fiktiven – Mindestausschüttung zugunsten ihrer Anteilsinhaber, die eine Vorauszahlung schulden, die in ihrem Namen von diesen Organismen einbehalten wird. Der auf diese Weise den in Dänemark ansässigen OGAW gewährte Vorteil in Form einer Quellensteuerbefreiung wird grundsätzlich durch die Besteuerung der Dividenden, die von diesen Organismen weiter ausgeschüttet werden, bei deren Anteilsinhabern ausgeglichen.
+
+83
+
+Es ist noch zu prüfen, ob die Beschränkung der Möglichkeit einer Quellensteuerbefreiung ausschließlich auf die in Dänemark ansässigen OGAW nicht über das hinausgeht, was erforderlich ist, um die Kohärenz des in den Ausgangsverfahren in Rede stehenden Steuersystems zu gewährleisten.
+
+84
+
+Wie der Generalanwalt in Nr. 80 seiner Schlussanträge ausgeführt hat, könnte die interne Kohärenz des in den Ausgangsverfahren fraglichen Steuersystems aufrechterhalten werden, wenn die in einem anderen Mitgliedstaat als dem Königreich Dänemark ansässigen OGAW, die die Voraussetzungen des § 16 C des Ligningslov erfüllen, in den Genuss der Befreiung von der Quellensteuer kommen könnten, sofern sich die dänischen Steuerbehörden unter voller Zusammenarbeit dieser Organismen vergewissern, dass diese eine Steuer entrichten, die derjenigen entspricht, die die in Dänemark ansässigen Investmentfonds im Sinne des § 16 C als Vorauszahlung auf die nach dieser Bestimmung berechnete Mindestausschüttung einbehalten müssen. Es würde eine weniger einschränkende Maßnahme als das derzeitige System darstellen, solchen OGAW zu erlauben, diese Befreiung unter diesen Bedingungen in Anspruch zu nehmen.
+
+85
+
+Versagt man den in einem anderen Mitgliedstaat als dem Königreich Dänemark ansässigen OGAW, die die Voraussetzungen des § 16 C des Ligningslov erfüllen, die Inanspruchnahme der Befreiung von der Quellensteuer, führt dies darüber hinaus zu einer mehrfachen Belastung der an ihre in Dänemark ansässigen Anteilsinhaber ausgeschütteten Dividenden, was dem mit der nationalen Regelung verfolgten Ziel gerade zuwiderläuft.
+
+86
+
+Infolgedessen ist festzustellen, dass die sich aus der Anwendung der in den Ausgangsverfahren in Rede stehenden Steuerregelung ergebende Beschränkung nicht durch das Erfordernis der Wahrung der Kohärenz des Steuersystems gerechtfertigt werden kann.
+
+87
+
+Nach alledem ist auf die Vorlagefrage zu antworten, dass Art. 63 AEUV dahin auszulegen ist, dass er einer Regelung eines Mitgliedstaats wie der in den Ausgangsverfahren fraglichen entgegensteht, wonach die von einer in diesem Mitgliedstaat ansässigen Gesellschaft an einen gebietsfremden OGAW ausgeschütteten Dividenden dem Quellensteuerabzug unterliegen, während die an einen in diesem Mitgliedstaat ansässigen OGAW ausgeschütteten Dividenden davon befreit sind, sofern dieser OGAW eine Mindestausschüttung an seine Anteilsinhaber vornimmt oder technisch eine Mindestausschüttung ausweist und eine Steuer auf diese tatsächliche oder fiktive Mindestausschüttung zulasten seiner Anteilsinhaber einbehält.
+
+Kosten
+
+88
+
+Für die Parteien der Ausgangsverfahren ist das Verfahren ein Zwischenstreit in den beim vorlegenden Gericht anhängigen Rechtsstreitigkeiten; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Fünfte Kammer) für Recht erkannt:
+
+ 	
+Art. 63 AEUV ist dahin auszulegen, dass er einer Regelung eines Mitgliedstaats wie der in den Ausgangsverfahren fraglichen entgegensteht, wonach die von einer in diesem Mitgliedstaat ansässigen Gesellschaft an einen gebietsfremden Organismus für gemeinsame Anlagen in Wertpapieren (OGAW) ausgeschütteten Dividenden dem Quellensteuerabzug unterliegen, während die an einen in diesem Mitgliedstaat ansässigen OGAW ausgeschütteten Dividenden davon befreit sind, sofern dieser Organismus eine Mindestausschüttung an seine Anteilsinhaber vornimmt oder technisch eine Mindestausschüttung ausweist und eine Steuer auf diese tatsächliche oder fiktive Mindestausschüttung zulasten seiner Anteilsinhaber einbehält.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Dänisch.

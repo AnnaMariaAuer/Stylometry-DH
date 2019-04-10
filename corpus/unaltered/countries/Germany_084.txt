@@ -1,0 +1,394 @@
+URTEIL DES GERICHTSHOFS (Vierte Kammer)
+
+14. Juni 2017 ( 1 )
+
+„Vorlage zur Vorabentscheidung — Richtlinie 2004/39/EG — Märkte für Finanzinstrumente — Art. 4 Abs. 1 Nr. 2 — Begriff ‚Wertpapierdienstleistungen‘ — Anhang I Abschnitt A Nr. 1 — Annahme und Übermittlung von Aufträgen, die ein oder mehrere Finanzinstrument(e) zum Gegenstand haben — Mögliche Einbeziehung der Vermittlung des Abschlusses eines Portfolioverwaltungsvertrags“
+
+In der Rechtssache C‑678/15
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Bundesgerichtshof (Deutschland) mit Entscheidung vom 10. November 2015, beim Gerichtshof eingegangen am 16. Dezember 2015, in dem Verfahren
+
+Mohammad Zadeh Khorassani
+
+gegen
+
+Kathrin Pflanz
+
+erlässt
+
+DER GERICHTSHOF (Vierte Kammer)
+
+unter Mitwirkung des Kammerpräsidenten T. von Danwitz, der Richter E. Juhász und C. Vajda (Berichterstatter), der Richterin K. Jürimäe und des Richters C. Lycourgos,
+
+Generalanwalt: M. Campos Sánchez-Bordona,
+
+Kanzler: K. Malacek, Verwaltungsrat,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 16. November 2016,
+
+unter Berücksichtigung der Erklärungen
+
+—
+
+der deutschen Regierung, vertreten durch T. Henze und J. Möller als Bevollmächtigte,
+
+—
+
+der polnischen Regierung, vertreten durch B. Majczyna als Bevollmächtigten,
+
+—
+
+der portugiesischen Regierung, vertreten durch L. Inez Fernandes, M. Figueiredo, J. Dias Lopes und M. Rebelo als Bevollmächtigte,
+
+—
+
+der Regierung des Vereinigten Königreichs, vertreten durch D. Robertson, M. Holt und V. Kaye als Bevollmächtigte im Beistand von B. Kennelly, QC, und M. Gray, Barrister,
+
+—
+
+der Europäischen Kommission, vertreten durch K.-P. Wojcik und I. Rogalski als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 8. Februar 2017
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 4 Abs. 1 Nr. 2 sowie von Anhang I Abschnitt A Nr. 1 der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über Märkte für Finanzinstrumente, zur Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates (ABl. 2004, L 145, S. 1).
+
+2
+
+Es ergeht im Rahmen eines Rechtsstreits zwischen Herrn Mohammad Zadeh Khorassani und Frau Kathrin Pflanz über die durch Frau Pflanz erfolgte Vermittlung eines Vermögensverwaltungsvertrags zwischen Herrn Khorassani und einem Dritten.
+
+Rechtlicher Rahmen
+
+Unionsrecht
+
+Richtlinie 2004/39
+
+3
+
+In den Erwägungsgründen 2, 20 und 31 der Richtlinie 2004/39 heißt es:
+
+„([2])
+
+In den letzten Jahren wurden immer mehr Anleger auf den Finanzmärkten aktiv; ihnen wird ein immer komplexeres und umfangreicheres Spektrum an Dienstleistungen und Finanzinstrumenten angeboten. Angesichts dieser Entwicklungen sollte der Rechtsrahmen der Gemeinschaft das volle Angebot der anlegerorientierten Tätigkeiten abdecken. Folglich ist es erforderlich, eine Harmonisierung in dem Umfang vorzunehmen, der notwendig ist, um Anlegern ein hohes Schutzniveau zu bieten und Wertpapierfirmen das Erbringen von Dienstleistungen in der gesamten Gemeinschaft im Rahmen des Binnenmarkts auf der Grundlage der Herkunftslandaufsicht zu gestatten. In Anbetracht dessen sollte die Richtlinie 93/22/EWG [des Rates vom 10. Mai 1993 über Wertpapierdienstleistungen (ABl. 1993, L 141, S. 27)] durch eine neue Richtlinie ersetzt werden.
+
+…
+
+(20)
+
+Für die Zwecke dieser Richtlinie sollte die Tätigkeit der Annahme und Übermittlung von Aufträgen auch die Zusammenführung von zwei oder mehr Anlegern umfassen, durch die ein Geschäftsabschluss zwischen diesen Anlegern ermöglicht wird.
+
+…
+
+(31)
+
+Ein Ziel dieser Richtlinie ist der Anlegerschutz. …“
+
+4
+
+Art. 1 Abs. 1 der Richtlinie 2004/39 lautet:
+
+„Diese Richtlinie gilt für Wertpapierfirmen und geregelte Märkte.“
+
+5
+
+Art. 4 Abs. 1 Nrn. 1, 2, 4, 5, 9 und 16 dieser Richtlinie bestimmt:
+
+„(1)   Für die Zwecke dieser Richtlinie bezeichnet der Ausdruck
+
+1.
+
+Wertpapierfirma: jede juristische Person, die im Rahmen ihrer üblichen beruflichen oder gewerblichen Tätigkeit gewerbsmäßig eine oder mehrere Wertpapierdienstleistungen für Dritte erbringt und/oder eine oder mehrere Anlagetätigkeiten ausübt.
+
+…
+
+2.
+
+Wertpapierdienstleistungen und Anlagetätigkeiten: jede in Anhang I Abschnitt A genannte Dienstleistung und Tätigkeit, die sich auf eines der Instrumente in Anhang I Abschnitt C bezieht.
+
+…
+
+4.
+
+Anlageberatung: die Abgabe persönlicher Empfehlungen an einen Kunden entweder auf dessen Aufforderung oder auf Initiative der Wertpapierfirma, die sich auf ein oder mehrere Geschäfte mit Finanzinstrumenten beziehen.
+
+5.
+
+Ausführung von Aufträgen im Namen von Kunden: die Tätigkeit zum Abschluss von Vereinbarungen, ein oder mehrere Finanzinstrumente im Namen von Kunden zu kaufen oder zu verkaufen.
+
+…
+
+9.
+
+Portfolioverwaltung: die Verwaltung von Portfolios auf Einzelkundenbasis mit einem Ermessensspielraum im Rahmen eines Mandats des Kunden, sofern diese Portfolios ein oder mehrere Finanzinstrumente enthalten.
+
+…
+
+16.
+
+Limitauftrag: einen Auftrag zum Kauf oder Verkauf eines Finanzinstruments innerhalb eines festgelegten Kurslimits oder besser und in einem festgelegten Umfang.“
+
+6
+
+Art. 21 („Verpflichtung zur kundengünstigsten Ausführung von Aufträgen“) der Richtlinie sieht in den Abs. 1 bis 3 vor:
+
+„(1)   Die Mitgliedstaaten schreiben vor, dass Wertpapierfirmen bei der Ausführung von Aufträgen unter Berücksichtigung des Kurses, der Kosten, der Schnelligkeit, der Wahrscheinlichkeit der Ausführung und Abwicklung[,] des Umfangs, der Art und aller sonstigen, für die Auftragsausführung relevanten Aspekte alle angemessenen Maßnahmen ergreifen, um das bestmögliche Ergebnis für ihre Kunden zu erreichen. Liegt jedoch eine ausdrückliche Weisung des Kunden vor, so führt die Wertpapierfirma den Auftrag gemäß dieser ausdrücklichen Weisung aus.
+
+(2)   Die Mitgliedstaaten schreiben vor, dass Wertpapierfirmen wirksame Vorkehrungen für die Einhaltung von Absatz 1 treffen und anwenden. Die Mitgliedstaaten schreiben insbesondere vor, dass Wertpapierfirmen Grundsätze der Auftragsausführung festlegen und anwenden, die es ihnen erlaub[en], für die Aufträge ihrer Kunden das bestmögliche Ergebnis in Einklang mit Absatz 1 zu erzielen.
+
+(3)   Die Grundsätze der Auftragsausführung enth[alten] für jede Gattung von Finanzinstrumenten Angaben zu den verschiedenen Handelsplätzen, an denen die Wertpapierfirma Aufträge ihrer Kunden ausführt, und die Faktoren, die für die Wahl des Ausführungsplatzes ausschlaggebend sind. …“
+
+7
+
+In Anhang I Abschnitt A der Richtlinie werden als Wertpapierdienstleistungen und Anlagetätigkeiten aufgeführt:
+
+„1.
+
+Annahme und Übermittlung von Aufträgen, die ein oder mehrere Finanzinstrument(e) zum Gegenstand haben
+
+2.
+
+Ausführung von Aufträgen im Namen von Kunden
+
+3.
+
+Handel für eigene Rechnung
+
+4.
+
+Portfolio-Verwaltung
+
+5.
+
+Anlageberatung
+
+6.
+
+Übernahme der Emission von Finanzinstrumenten und/oder Platzierung von Finanzinstrumenten mit fester Übernahmeverpflichtung
+
+7.
+
+Platzierung von Finanzinstrumenten ohne feste Übernahmeverpflichtung
+
+8.
+
+Betrieb eines multilateralen Handelssystems (MTF)“.
+
+Richtlinie 2006/73/EG
+
+8
+
+Im 81. Erwägungsgrund der Richtlinie 2006/73/EG der Kommission vom 10. August 2006 zur Durchführung der Richtlinie 2004/39 in Bezug auf die organisatorischen Anforderungen an Wertpapierfirmen und die Bedingungen für die Ausübung ihrer Tätigkeit sowie in Bezug auf die Definition bestimmter Begriffe für die Zwecke der genannten Richtlinie (ABl. 2006, L 241, S. 26) heißt es:
+
+„Allgemeine Ratschläge zu einer Art von Finanzinstrument stellen keine Anlageberatung im Sinne der Richtlinie 2004/39/EG dar, da der vorliegenden Richtlinie zufolge nur die Beratung in Bezug auf bestimmte Finanzinstrumente als Anlageberatung im Sinne der Richtlinie 2004/39/EG gilt. …“
+
+9
+
+Art. 52 („Anlageberatung“) der Richtlinie 2006/73 bestimmt in Abs. 2, dass eine persönliche Empfehlung im Sinne von Art. 4 Abs. 1 Nr. 4 der Richtlinie 2004/39 darauf abzielen muss, dass eine der folgenden Handlungen getätigt wird:
+
+„a)
+
+Kauf, Verkauf, Zeichnung, Tausch, Rückkauf, Halten oder Übernahme eines bestimmten Finanzinstruments;
+
+b)
+
+Ausübung bzw. Nichtausübung eines mit einem bestimmten Finanzinstrument einhergehenden Rechts betreffend Kauf, Verkauf, Zeichnung, Tausch oder Rückkauf eines Finanzinstruments.“
+
+Deutsches Recht
+
+10
+
+Nach § 823 Abs. 2 BGB ist derjenige, der gegen ein den Schutz eines anderen bezweckendes Gesetz verstößt, zum Ersatz des daraus entstehenden Schadens verpflichtet.
+
+11
+
+§ 1 des Kreditwesengesetzes vom 9. September 1998 (BGBl. 1998 I, S. 2776) in der durch Gesetz vom 16. Juli 2007 (BGBl. 2007 I, S. 1330) geänderten Fassung (im Folgenden: KWG) sieht in Abs. 1a vor:
+
+„… Finanzdienstleistungen sind
+
+1.
+
+die Vermittlung von Geschäften über die Anschaffung und die Veräußerung von Finanzinstrumenten (Anlagevermittlung),
+
+1a.
+
+die Abgabe von persönlichen Empfehlungen an Kunden oder deren Vertreter, die sich auf Geschäfte mit bestimmten Finanzinstrumenten beziehen, sofern die Empfehlung auf eine Prüfung der persönlichen Umstände des Anlegers gestützt oder als für ihn geeignet dargestellt wird und nicht ausschließlich über Informationsverbreitungskanäle oder für die Öffentlichkeit bekannt gegeben wird (Anlageberatung), …“
+
+12
+
+§ 32 Abs. 1 KWG bestimmt:
+
+„Wer im Inland gewerbsmäßig oder in einem Umfang, der einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert, … Finanzdienstleistungen erbringen will, bedarf der schriftlichen Erlaubnis der Bundesanstalt [für Finanzdienstleistungsaufsicht]; …“
+
+Ausgangsrechtsstreit und Vorlagefrage
+
+13
+
+Im November 2007 empfahl Frau Pflanz, die nicht über die Erlaubnis zur Erbringung von Finanzdienstleistungen gemäß § 32 Abs. 1 KWG verfügt, Herrn Khorassani eine Kapitalanlage namens „Grand-Slam“. In diesem Zusammenhang ließ sie ihn einen Servicevertrag mit der GSS AG sowie einen Vermögensverwaltungsvertrag mit der D. AG unterzeichnen. Beide Gesellschaften sind in Liechtenstein ansässig. Laut der Vorlageentscheidung ist der letztgenannte Vertrag auf die Anschaffung und Veräußerung sowie die Verwaltung von Finanzinstrumenten im Sinne einer Finanzportfolioverwaltung gerichtet.
+
+14
+
+Herr Khorassani verpflichtete sich zu einer Einmalzahlung in Höhe von 20000 Euro und zu monatlichen Ratenzahlungen in Höhe von 1000 Euro, jeweils zuzüglich 5 % Agio. Im Dezember 2007 zahlte er insgesamt 27000 Euro, von denen 19731,60 Euro als Vorabverwaltungsgebühr und 1285,71 Euro als Agio einbehalten wurden. In der Folge widerrief Herr Khorassani die Verträge und begehrte Rückzahlung sowie Schadensersatz.
+
+15
+
+Das Landgericht Berlin (Deutschland) wies die Klage gegen die beiden in Liechtenstein ansässigen Gesellschaften wegen fehlender internationaler Zuständigkeit als unzulässig und die gegen Frau Pflanz gerichtete Klage als unbegründet ab.
+
+16
+
+Nachdem Herr Khorassani eine Rückzahlung in Höhe von 6803,03 Euro erhalten hatte, wies das Kammergericht Berlin (Deutschland) seine auf Erfüllung der Restforderung gerichtete Berufung zurück. Zur Begründung führte das Gericht aus, Frau Pflanz habe keine gemäß § 32 Abs. 1 KWG erlaubnispflichtige Finanzdienstleistung im Sinne von § 1 Abs. 1a Satz 2 Nrn. 1 und 1a KWG erbracht, denn sowohl die Anlageberatung als auch die Anlagevermittlung, die sie getätigt habe, hätten sich nicht auf ein Geschäft über die Anschaffung und die Veräußerung von Finanzinstrumenten bezogen, sondern auf einen Vermögensverwaltungsvertrag, der zwar letztlich der Anschaffung und Veräußerung von konkreten Finanzinstrumenten habe dienen sollen, selbst aber kein Finanzinstrument sei. Somit habe Herr Khorassani keinen Schadensersatzanspruch aus § 823 Abs. 2 BGB in Verbindung mit § 32 Abs. 1 KWG.
+
+17
+
+Der im Wege der Revision angerufene Bundesgerichtshof (Deutschland) ist der Auffassung, das Kammergericht Berlin habe zu Recht entschieden, dass Frau Pflanz gegenüber Herrn Khorassani keine Anlageberatung gemäß § 1 Abs. 1a Satz 2 Nr. 1a KWG erbracht habe. Denn in Einklang mit Art. 4 Abs. 1 Nr. 4 der Richtlinie 2004/39 in Verbindung mit Art. 52 der Richtlinie 2006/73 setze der Tatbestand dieser Vorschrift die Abgabe persönlicher Empfehlungen voraus, die sich auf bestimmte Finanzinstrumente bezögen, und nicht etwa auf eine Portfolioverwaltung. Folglich habe Frau Pflanz insoweit nicht gegen § 32 Abs. 1 KWG verstoßen.
+
+18
+
+Ob Frau Pflanz, indem sie Herrn Khorassani einen Vermögensverwaltungsvertrag habe unterzeichnen lassen, ihm gegenüber eine Dienstleistung der Anlagevermittlung im Sinne von Art. 1 Abs. 1a Satz 2 Nr. 1 KWG erbracht habe, hänge hingegen davon ab, wie Art. 4 Abs. 1 Nr. 2 und Anhang I Abschnitt A Nr. 1 der Richtlinie 2004/39 auszulegen seien.
+
+19
+
+In dieser Hinsicht weist das vorlegende Gericht darauf hin, dass einerseits die deutsche Sprachfassung der letztgenannten Bestimmung, nämlich „Annahme und Übermittlung von Aufträgen, die ein oder mehrere Finanzinstrument(e) zum Gegenstand haben“, dafür sprechen könnte, dass nur die Vermittlung von Verträgen, die sich auf die Anschaffung oder Veräußerung eines konkreten Finanzinstruments bezögen, erfasst sei. Andererseits könnten die spanische („en relación con“), die englische („in relation to“) und die französische Fassung („portant sur“) dieser Bestimmung zu einer weiten Auslegung führen, wonach nur ein mittelbarer Zusammenhang zwischen dem vermittelten Geschäft und dem Erwerb oder der Veräußerung eines Finanzinstruments erforderlich sei.
+
+20
+
+Was die allgemeine Systematik der Richtlinie 2004/39 angehe, könnten die im 81. Erwägungsgrund und in Art. 52 der Richtlinie 2006/73 enthaltenen Klarstellungen zum Begriff „Anlageberatung“ die oben genannte enge Auslegung insofern stützen, als sich ihnen zufolge eine Anlageberatung auf bestimmte Finanzinstrumente beziehen müsse. Dem könnte ein allgemeiner, auch für die Tätigkeit der Anlagevermittlung maßgebender Rechtsgedanke zugrunde liegen.
+
+21
+
+Der von der Richtlinie 2004/39 bezweckte Anlegerschutz könnte nach Ansicht des vorlegenden Gerichts die Einbeziehung der Vermittlung von Portfolioverwaltungsverträgen in die Dienstleistung gemäß Anhang I Abschnitt A Nr. 1 dieser Richtlinie jedenfalls dann nicht erfordern, wenn die Portfolioverwalter ihrerseits den Vorgaben der Richtlinie unterlägen. Allerdings könnte eine Lücke im Anlegerschutz verbleiben, wenn ein Vertrag mit einem Portfolioverwalter aus einem Drittstaat geschlossen werde.
+
+22
+
+Unter diesen Umständen hat der Bundesgerichtshof beschlossen, das Verfahren auszusetzen und dem Gerichtshof folgende Frage zur Vorabentscheidung vorzulegen:
+
+Ist die Annahme und Übermittlung eines Auftrags, der eine Portfolioverwaltung zum Inhalt hat (Art. 4 Abs. 1 Nr. 9 der Richtlinie 2004/39), eine Wertpapierdienstleistung im Sinne von Art. 4 Abs. 1 Nr. 2 Satz 1 in Verbindung mit Anhang I Abschnitt A Nr. 1 der Richtlinie 2004/39?
+
+Zur Vorlagefrage
+
+23
+
+Mit seiner Frage möchte das vorlegende Gericht wissen, ob Art. 4 Abs. 1 Nr. 2 der Richtlinie 2004/39 in Verbindung mit deren Anhang I Abschnitt A Nr. 1 dahin auszulegen ist, dass die Wertpapierdienstleistung, die in der Annahme und Übermittlung von Aufträgen besteht, die ein oder mehrere Finanzinstrument(e) zum Gegenstand haben, die Vermittlung des Abschlusses eines Portfolioverwaltungsvertrags umfasst.
+
+24
+
+Art. 4 Abs. 1 Nr. 2 der Richtlinie 2004/39 definiert als Wertpapierdienstleistungen und Anlagetätigkeiten jede in Anhang I Abschnitt A dieser Richtlinie genannte Dienstleistung und Tätigkeit, die sich auf eines der Finanzinstrumente in Abschnitt C dieses Anhangs bezieht.
+
+25
+
+Unter den Wertpapierdienstleistungen und Anlagetätigkeiten, die in diesem Abschnitt A aufgezählt werden, wird in Nr. 1 die Annahme und Übermittlung von Aufträgen, die ein oder mehrere Finanzinstrument(e) zum Gegenstand haben, genannt.
+
+26
+
+Für die Beantwortung der Vorlagefrage ist also diese Bestimmung auszulegen, wobei nicht nur ihr Wortlaut zu berücksichtigen ist, sondern auch ihr Zusammenhang und die Ziele, die mit der Regelung, zu der sie gehört, verfolgt werden (vgl. in diesem Sinne Urteil vom 8. November 2016, Ognyanov, C‑554/14, EU:C:2016:835, Rn. 31).
+
+27
+
+Was den Wortlaut von Anhang I Abschnitt A Nr. 1 der Richtlinie 2004/39 betrifft, konstatiert das vorlegende Gericht zwar eine gewisse Abweichung zwischen den verschiedenen Sprachfassungen des Ausdrucks „zum Gegenstand haben“, die je nach Fall für einen mehr oder weniger direkten Zusammenhang zwischen den Aufträgen und dem oder den von dieser Bestimmung erfassten Finanzinstrument(en) sprechen könnten. Jedoch ist darauf hinzuweisen, dass der „Auftrag“, dessen Annahme und Übermittlung die Wertpapierdienstleistung bzw. Anlagetätigkeit gemäß dieser Bestimmung darstellt, in den Sprachfassungen der Richtlinie, die das vorlegende Gericht anführt, d. h. in der spanischen, der deutschen, der englischen und der französischen Fassung, begrifflich identisch ist.
+
+28
+
+Auch wenn dieser Begriff als solcher in der Richtlinie 2004/39 nicht definiert wird, ist festzustellen, dass die Worte „die ein oder mehrere Finanzinstrument(e) zum Gegenstand haben“ lediglich klarstellen, um welche Art von Aufträgen es sich handelt, nämlich um Aufträge, die sich auf den Kauf oder Verkauf solcher Finanzinstrumente beziehen.
+
+29
+
+Diese Auslegung des Begriffs „Auftrag“ wird durch den Zusammenhang, in dem er steht, bestätigt, und zwar ist er im Licht von Anhang I Abschnitt A Nr. 2 dieser Richtlinie auszulegen, wo die Wertpapierdienstleistung aufgeführt wird, die in der „Ausführung von Aufträgen im Namen von Kunden“ besteht.
+
+30
+
+Wie der Generalanwalt in Nr. 42 seiner Schlussanträge ausgeführt hat, besteht nämlich ein enger Zusammenhang zwischen der Wertpapierdienstleistung gemäß Anhang I Abschnitt A Nr. 1, d. h. der Annahme und Übermittlung von Aufträgen, und derjenigen gemäß Nr. 2 dieses Abschnitts, d. h. der Ausführung von Aufträgen, da die erstgenannte Dienstleistung im Vorfeld der zweiten erbracht wird und grundsätzlich zur Erbringung dieser zweiten führt, sei es durch dieselbe oder eine andere Wertpapierfirma.
+
+31
+
+Die Wertpapierdienstleistung gemäß Anhang I Abschnitt A Nr. 2 der Richtlinie 2004/39, die in der „Ausführung von Aufträgen im Namen von Kunden“ besteht, wird in Art. 4 Abs. 1 Nr. 5 dieser Richtlinie definiert als „die Tätigkeit zum Abschluss von Vereinbarungen, ein oder mehrere Finanzinstrumente im Namen von Kunden zu kaufen oder zu verkaufen“.
+
+32
+
+Daraus folgt, dass die Aufträge, die Gegenstand der in Anhang I Abschnitt A Nr. 1 der Richtlinie genannten Wertpapierdienstleistung sind, Aufträge zum Kauf oder Verkauf eines oder mehrerer Finanzinstrumente sind.
+
+33
+
+Diese Auslegung wird durch weitere Bestimmungen der Richtlinie 2004/39 bestätigt. So wird etwa ein „Limitauftrag“ in Art. 4 Abs. 1 Nr. 16 der Richtlinie definiert als ein „Auftrag zum Kauf oder Verkauf eines Finanzinstruments innerhalb eines festgelegten Kurslimits oder besser und in einem festgelegten Umfang“.
+
+34
+
+Überdies betrifft Art. 21 dieser Richtlinie gemäß seiner Überschrift die Verpflichtung zur kundengünstigsten Ausführung von Aufträgen; hierzu gehört laut Abs. 1 dieser Vorschrift die Erreichung des bestmöglichen Ergebnisses für den Kunden unter Berücksichtigung des Kurses, der Kosten, der Schnelligkeit sowie der Wahrscheinlichkeit der Ausführung und Abwicklung. Nach den Abs. 2 und 3 dieses Artikels schreiben die Mitgliedstaaten insbesondere vor, dass Wertpapierfirmen Grundsätze der Auftragsausführung festlegen und anwenden, die für jede Gattung von Finanzinstrumenten Angaben zu den verschiedenen Handelsplätzen, an denen die Wertpapierfirma Aufträge ihrer Kunden ausführt, und die Faktoren, die für die Wahl des Ausführungsplatzes ausschlaggebend sind, enthalten.
+
+35
+
+Somit folgt aus dem Wortlaut von Anhang I Abschnitt A Nr. 1 der Richtlinie 2004/39, ausgelegt im Licht des Zusammenhangs, in dem diese Bestimmung steht, dass die dort genannte Dienstleistung nicht die Vermittlung des Abschlusses eines Portfolioverwaltungsvertrags umfasst. Denn auch wenn der Abschluss dieses Vertrags zu einem späteren Zeitpunkt dazu führt, dass der Portfolioverwalter im Rahmen seiner Verwaltungstätigkeit Aufträge zum Kauf oder Verkauf von Finanzinstrumenten annimmt und übermittelt, hat dieser Vertrag für sich genommen keine derartige Annahme oder Übermittlung von Aufträgen zum Gegenstand.
+
+36
+
+Diese Schlussfolgerung wird nicht durch die von der Regierung des Vereinigten Königreichs geltend gemachte Tatsache entkräftet, dass nach dem 20. Erwägungsgrund der Richtlinie 2004/39 für die Zwecke dieser Richtlinie die Tätigkeit der Annahme und Übermittlung von Aufträgen auch die Zusammenführung von zwei oder mehr Anlegern, durch die ein Geschäftsabschluss zwischen diesen Anlegern ermöglicht wird, umfassen sollte.
+
+37
+
+Denn wie der Generalanwalt in Nr. 44 seiner Schlussanträge ausgeführt hat, bezieht sich dieser Erwägungsgrund auf die Zusammenführung von zwei oder mehr Anlegern nur im Rahmen der Annahme und Übermittlung von Aufträgen. Er erfasst also Fälle der Zusammenführung zum Zweck des Abschlusses von Geschäften, die ein oder mehrere Finanzinstrument(e) zum Gegenstand haben, was die Vermittlung des Abschlusses eines Portfolioverwaltungsvertrags ausschließt.
+
+38
+
+Die deutsche Regierung und die Regierung des Vereinigten Königreichs weisen außerdem darauf hin, dass die in Art. 4 Abs. 1 Nr. 4 der Richtlinie 2004/39 definierte und in Anhang I Abschnitt A Nr. 5 dieser Richtlinie aufgeführte „Anlageberatung“ gemäß Art. 52 der Richtlinie 2006/73 in der Empfehlung bestehe, eine Handlung zu tätigen, die sich auf ein bestimmtes Finanzinstrument beziehe. Daraus folgern sie, dass die in Anhang I Abschnitt A Nr. 1 der Richtlinie 2004/39 fehlende Bezugnahme auf ein „bestimmtes“ Finanzinstrument dafür spreche, dass der Anwendungsbereich dieser Bestimmung nicht auf die Annahme und Übermittlung von Aufträgen, die sich unmittelbar auf ein bestimmtes Finanzinstrument bezögen, beschränkt sei.
+
+39
+
+Diesem Argument kann nicht gefolgt werden.
+
+40
+
+Gemäß der Definition in Art. 4 Abs. 1 Nr. 4 der Richtlinie 2004/39 besteht die Dienstleistung der Anlageberatung in der Abgabe persönlicher Empfehlungen an einen Kunden, die sich auf ein oder mehrere Finanzinstrumente beziehen. Der 81. Erwägungsgrund der Richtlinie 2006/73 besagt, dass allgemeine Ratschläge zu einer Art von Finanzinstrument keine Anlageberatung im Sinne der Richtlinie 2004/39 darstellen, sondern als Anlageberatung nur die Beratung in Bezug auf bestimmte Finanzinstrumente gilt; diese Klarstellung wird in Art. 52 der Richtlinie 2006/73 umgesetzt. Weder dieser Erwägungsgrund noch dieser Artikel können sich aber in irgendeiner Weise auf den Bedeutungsgehalt der Wertpapierdienstleistung gemäß Anhang I Abschnitt A Nr. 1 der Richtlinie 2004/39 auswirken.
+
+41
+
+Der Zweck der Richtlinie 2004/39 verlangt keine andere Auslegung dieser Bestimmung. Zwar geht insbesondere aus den Erwägungsgründen 2 und 31 dieser Richtlinie hervor, dass eines ihrer Ziele der Anlegerschutz ist (vgl. in diesem Sinne Urteil vom 30. Mai 2013, Genil 48 und Comercial Hostelera de Grandes Vinos, C‑604/11, EU:C:2013:344, Rn. 39).
+
+42
+
+Dieses Ziel allein lässt jedoch nicht den Schluss zu, dass die Wertpapierdienstleistung gemäß Anhang I Abschnitt A Nr. 1 der Richtlinie 2004/39 eine besonders weite Bedeutung hat, die die Vermittlung des Abschlusses eines Portfolioverwaltungsvertrags einschließt.
+
+43
+
+Eine solche Bedeutung liefe nämlich der Auslegung dieser Bestimmung zuwider, die sich insbesondere aus ihrem Kontext ergibt.
+
+44
+
+Nach alledem ist auf die vorgelegte Frage zu antworten, dass Art. 4 Abs. 1 Nr. 2 der Richtlinie 2004/39 in Verbindung mit deren Anhang I Abschnitt A Nr. 1 dahin auszulegen ist, dass die Wertpapierdienstleistung, die in der Annahme und Übermittlung von Aufträgen besteht, die ein oder mehrere Finanzinstrument(e) zum Gegenstand haben, nicht die Vermittlung des Abschlusses eines Portfolioverwaltungsvertrags umfasst.
+
+Kosten
+
+45
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Vierte Kammer) für Recht erkannt:
+
+ 	
+Art. 4 Abs. 1 Nr. 2 der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates vom 21. April 2004 über Märkte für Finanzinstrumente, zur Änderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates in Verbindung mit Anhang I Abschnitt A Nr. 1 dieser Richtlinie ist dahin auszulegen, dass die Wertpapierdienstleistung, die in der Annahme und Übermittlung von Aufträgen besteht, die ein oder mehrere Finanzinstrument(e) zum Gegenstand haben, nicht die Vermittlung des Abschlusses eines Portfolioverwaltungsvertrags umfasst.
+
+ 	
+von Danwitz
+
+Juhász
+
+Vajda
+
+Jürimäe
+
+Lycourgos
+
+Verkündet in öffentlicher Sitzung in Luxemburg am 14. Juni 2017.
+
+Der Kanzler
+
+A. Calot Escobar
+
+Der Präsident der Vierten Kammer
+
+T. von Danwitz
+
+( 1 )	Verfahrenssprache: Deutsch.

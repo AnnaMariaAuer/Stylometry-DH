@@ -1,0 +1,384 @@
+﻿URTEIL DES GERICHTSHOFS (Große Kammer)
+
+12. Juni 2018 ( *1 )
+
+„Vorlage zur Vorabentscheidung – Art. 49 AEUV – Körperschaftsteuer – Niederlassungsfreiheit – Gebietsansässige Gesellschaft – Steuerpflichtiger Gewinn – Steuerliche Entlastung – Abzug der Verluste gebietsansässiger Betriebsstätten – Bewilligung – Abzug der Verluste gebietsfremder Betriebsstätten – Ausschluss – Ausnahme – Fakultative Regelung der internationalen gemeinsamen Besteuerung“
+
+In der Rechtssache C‑650/16
+
+betreffend ein Vorabentscheidungsersuchen nach Art. 267 AEUV, eingereicht vom Østre Landsret (Landgericht der Region Ost, Dänemark) mit Entscheidung vom 12. Dezember 2016, beim Gerichtshof eingegangen am 19. Dezember 2016, in dem Verfahren
+
+A/S Bevola,
+
+Jens W. Trock ApS
+
+gegen
+
+Skatteministeriet
+
+erlässt
+
+DER GERICHTSHOF (Große Kammer)
+
+unter Mitwirkung des Präsidenten K. Lenaerts, des Vizepräsidenten A. Tizzano, der Kammerpräsidenten M. Ilešič, L. Bay Larsen, A. Rosas und J. Malenovský, der Richter J.‑C. Bonichot (Berichterstatter), M. Safjan und D. Šváby, der Richterin A. Prechal und der Richter C. Lycourgos, M. Vilaras und E. Regan,
+
+Generalanwalt: M. Campos Sánchez-Bordona,
+
+Kanzler: R. Schiano, Verwaltungsrat,
+
+aufgrund des schriftlichen Verfahrens und auf die mündliche Verhandlung vom 25. Oktober 2017,
+
+unter Berücksichtigung der Erklärungen
+
+–
+
+der A/S Bevola und der Jens W. Trock ApS, vertreten durch H. Peytz, advokat,
+
+–
+
+des Skatteministerium, vertreten durch S. Morsbøe Jensen, advokat,
+
+–
+
+der dänischen Regierung, vertreten durch C. Thorning als Bevollmächtigter im Beistand von S. Horsbøl Jensen, advokat,
+
+–
+
+der deutschen Regierung, vertreten durch T. Henze als Bevollmächtigten,
+
+–
+
+der italienischen Regierung, vertreten durch G. Palmieri als Bevollmächtigten im Beistand von G. De Socio, avvocato dello Stato,
+
+–
+
+der österreichischen Regierung, vertreten durch F. Koppensteiner, G. Eberhard und E. Lachmayer als Bevollmächtigte,
+
+–
+
+der Europäischen Kommission, vertreten durch W. Roels, R. Lyal und S. Maaløe als Bevollmächtigte,
+
+nach Anhörung der Schlussanträge des Generalanwalts in der Sitzung vom 17. Januar 2018
+
+folgendes
+
+Urteil
+
+1
+
+Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 49 AEUV.
+
+2
+
+Es ergeht im Rahmen eines Rechtsstreits zwischen den nach dänischem Recht gegründeten Gesellschaften A/S Bevola und Jens W. Trock ApS einerseits und dem Skatteministerium (Finanzministerium, Dänemark) andererseits über die Weigerung der dänischen Behörden, Bevola zu gestatten, die Verluste ihrer finnischen Zweigniederlassung von ihrem steuerpflichtigen Einkommen abzuziehen.
+
+Dänisches Recht
+
+3
+
+§ 8 Abs. 2 des Selskabsskattelov (Körperschaftsteuergesetz) in der durch das Gesetz Nr. 426 vom 6. Juni 2005 geänderten Fassung (im Folgenden: Körperschaftsteuergesetz) bestimmt:
+
+„Vorbehaltlich des § 31 A umfasst das steuerpflichtige Einkommen nicht Einnahmen und Ausgaben von in einem anderen Staat, auf den Färöern oder in Grönland belegenen Betriebsstätten oder Liegenschaften. …“
+
+4
+
+§ 31 dieses Gesetzes sieht vor:
+
+„(1)   Verbundene Gesellschaften und Verbände usw. … werden gemeinsam besteuert (nationale gemeinsame Besteuerung). Als ‚verbundene Gesellschaften und Verbände usw.‘ gelten Gesellschaften und Verbände usw., die zu irgendeinem Zeitpunkt im Verlauf eines Steuerjahrs zu derselben Unternehmensgruppe gehören (siehe § 31 C). In den Abs. 2 bis 7 werden Liegenschaften den Betriebsstätten gleichgestellt. Als ‚oberste Muttergesellschaft‘ gilt die Gesellschaft, die Muttergesellschaft ist, ohne Tochtergesellschaft zu sein (siehe § 31 C).
+
+(2)   Für gemeinsam besteuerte Gesellschaften ist eine gemeinsame Einkommensteuererklärung bestehend aus der Summe der zu versteuernden Einkommen der der gemeinsamen Besteuerung unterliegenden Gesellschaften zu erstellen, die in Übereinstimmung mit den allgemeinen steuerrechtlichen Bestimmungen, einschließlich der für gemeinsam besteuerte Gesellschaften geltenden Ausnahmen, berechnet werden. Verluste einer Betriebsstätte können mit dem Einkommen anderer Gesellschaften nur verrechnet werden, wenn nach den Vorschriften des ausländischen Staats, auf den Färöern oder in Grönland, wo die Gesellschaft ansässig ist, Verluste bei der Veranlagung der Gesellschaft zur Körperschaftssteuer in diesem ausländischen Staat, auf den Färöern oder in Grönland, wo die Gesellschaft ansässig ist, nicht berücksichtigt werden können oder wenn die internationale gemeinsame Besteuerung gemäß § 31 A gewählt wurde. Das gemeinsam zu besteuernde Einkommen wird ermittelt, nachdem zunächst für jede einzelne Gesellschaft vortragbare Verluste aus früheren Einkommensperioden verrechnet werden. Ist das gemeinsam zu besteuernde Einkommen positiv, wird der Gewinn anteilig auf die Gewinn erzielenden Gesellschaften verteilt. Ist das gemeinsam zu versteuernde Einkommen für ein Steuerjahr negativ, wird der Verlust anteilig auf die Verlust verzeichnenden Gesellschaften aufgeteilt und bei der betreffenden Gesellschaft auf das folgende Steuerjahr vorgetragen. Verluste einer Gesellschaft, die sich auf Zeiträume der gemeinsamen Besteuerung beziehen, können nur gegen Gewinne derselben Gesellschaft verrechnet werden. Bei Verlustvorträgen werden zunächst die ältesten Verluste ausgeglichen. Verluste einer Gesellschaft aus früheren Steuerjahren können mit Gewinnen einer anderen Gesellschaft nur dann verrechnet werden, wenn die Verluste in einem Steuerjahr eingetreten sind, in dem die betreffenden Gesellschaften gemeinsam besteuert wurden und die gemeinsame Besteuerung danach nicht beendet wurde.
+
+…
+
+(4)   Bei der nationalen gemeinschaftlichen Besteuerung wird die oberste Muttergesellschaft, die an der gemeinsamen Besteuerung teilnimmt, als Verwaltungsgesellschaft für die Zwecke der gemeinsamen Besteuerung bestimmt. Gibt es keine dänische steuerpflichtige Muttergesellschaft, sondern mehrere gleichgestellte dänische steuerpflichtige Schwestergesellschaften, wird eine dieser Gesellschaften, die an der gemeinsamen Besteuerung teilnehmen, als Verwaltungsgesellschaft bestimmt. … Die Verwaltungsgesellschaft ist für die Zahlung der gesamten Körperschaftssteuer verantwortlich. …
+
+(5)   Alle gemeinsam besteuerten Gesellschaften ermitteln das steuerpflichtige Einkommen für den gleichen Zeitraum wie die Verwaltungsgesellschaft unabhängig vom Rechnungsjahr nach den gesellschaftsrechtlichen Vorschriften (siehe § 10 Abs. 5).
+
+…
+
+(7)   Bei der Berechnung des steuerpflichtigen Einkommens kann eine gemeinsam besteuerte Gesellschaft wählen, Verluste, auch aus früheren Steuerjahren vorgetragene, unberücksichtigt zu lassen. Verluste, die dem steuerpflichtigen Einkommen einer gemeinsam besteuerten Betriebsstätte in Dänemark oder einer gemeinsam besteuerten Tochtergesellschaft in Dänemark entsprechen, können unberücksichtigt gelassen werden, wenn das Einkommen der Betriebsstätte bzw. der Tochtergesellschaft in der Gewinn- und Verlustrechnung im Ausland berücksichtigt wird, und zwar unter der Voraussetzung, dass der von dem betreffenden Staat zu Lasten der dänischen Besteuerung vorgenommene Steuerabzug der Methode entspricht, die gemäß § 33 des Ligningslov (Steuerveranlagungsgesetz) für Abzüge anzuwenden ist. Der nicht berücksichtigte Betrag wird stattdessen nach § 15 des Steuerveranlagungsgesetzes auf nachfolgende Steuerjahre vorgetragen. Wird ein unter den Gesamtverlusten liegender Betrag nicht berücksichtigt, wird er anteilig auf die einzelnen Verlustquellen verteilt.“
+
+5
+
+In § 31 A Abs. 1 des Körperschaftsteuergesetzes heißt es:
+
+„Die oberste Muttergesellschaft kann entscheiden, dass die gemeinsame Besteuerung für die nach § 31 gemeinsam besteuerten verbundenen Gesellschaften und Verbände usw. auch für alle verbundenen ausländischen Gesellschaften und Verbände usw. gilt, bei denen keiner der Beteiligten persönlich für die Verbindlichkeiten der Gesellschaft haftet und die die Gewinne im Verhältnis zum gezeichneten Kapital auf die Beteiligten verteilen (internationale gemeinsame Besteuerung). Diese Entscheidung erstreckt sich auch auf alle im Ausland belegenen Betriebsstätten und Liegenschaften, die zu den gemeinschaftlich besteuerten dänischen und ausländischen Gesellschaften und Verbänden usw. gehören. § 31 über die nationale gemeinsame Besteuerung gilt entsprechend für die internationale gemeinsame Besteuerung mit den Ergänzungen und Ausnahmen nach den Abs. 2 bis 14. …“
+
+6
+
+§ 31 A Abs. 3 dieses Gesetzes lautet:
+
+„An die Wahl der internationalen gemeinsamen Besteuerung ist die Muttergesellschaft vorbehaltlich Satz 6 und 7 zehn Jahre gebunden. … Die oberste Muttergesellschaft kann innerhalb der Bindungsfrist die gemeinsame Besteuerung beenden, was eine vollständige Nachversteuerung zur Folge hat (siehe Satz 11).“
+
+Ausgangsrechtsstreit und Vorlagefrage
+
+7
+
+Bevola hat ihren Sitz in Dänemark. Sie bietet Produkte für Aufbauten auf Lastkraftwagen, Anhängern und Aufliegern für die Großhandelsbranche an. Sie ist die Tochtergesellschaft und Enkelgesellschaft dänischer Gesellschaften, die wiederum von Jens W. Trock, der ebenfalls in Dänemark ansässigen Muttergesellschaft des Konzerns, kontrolliert werden.
+
+8
+
+Die finnische Zweigniederlassung von Bevola wurde im Lauf des Jahres 2009 geschlossen. Nach Angaben von Bevola konnten und können die Verluste ihrer Zweigniederlassung in Höhe von etwa 2,8 Mio. dänischen Kronen (DKK) (etwa 375000 Euro) seit dieser Schließung in Finnland nicht abgezogen werden.
+
+9
+
+Deshalb beantragte Bevola, diese Verluste im Steuerjahr 2009 in Dänemark von ihrem steuerpflichtigen Einkommen abziehen zu dürfen.
+
+10
+
+Die Steuerverwaltung lehnte diesen Antrag mit der Begründung ab, dass das steuerpflichtige Einkommen nach § 8 Abs. 2 des Körperschaftsteuergesetzes nicht Einnahmen und Ausgaben einer im Ausland belegenen Betriebsstätte oder Liegenschaft umfasse, sofern die Gesellschaft nicht gemäß § 31 A dieses Gesetzes die internationale gemeinsame Besteuerung gewählt habe.
+
+11
+
+Da die ablehnende Entscheidung der Steuerverwaltung mit Entscheidung des Landsskatteret (Nationale Steuerkommission, Dänemark) vom 20. Januar 2014 bestätigt wurde, fochten Bevola und Jens W. Trock letztere Entscheidung vor dem vorlegenden Gericht an. Sie machten geltend, dass Bevola die Möglichkeit gehabt hätte, die betreffenden Verluste abzuziehen, wenn sie einer dänischen Zweigniederlassung entstanden wären, und dass diese Ungleichbehandlung eine Beschränkung der Niederlassungsfreiheit gemäß Art. 49 AEUV darstelle. Diese Beschränkung gehe über das hinaus, was in einem Fall wie dem von Bevola, in dem es keinerlei Möglichkeit der Berücksichtigung der Verluste ihrer finnischen Zweigniederlassung gebe, zur Wahrung der ausgewogenen Aufteilung der Besteuerungsbefugnisse zwischen den Mitgliedstaaten erforderlich sei. Der vom Gerichtshof in seinem Urteil vom 13. Dezember 2005, Marks & Spencer (C‑446/03, EU:C:2005:763), verfolgte Ansatz sei auf die Situation von Bevola übertragbar. In diesem Urteil habe der Gerichtshof festgestellt, dass es unionsrechtswidrig sei, einer gebietsansässigen Muttergesellschaft die Möglichkeit zu verwehren, die Verluste ihrer gebietsfremden Tochtergesellschaft abzuziehen, wenn diese die Möglichkeiten zur Berücksichtigung ihrer Verluste in dem Land, in dem sie niedergelassen sei, ausgeschöpft habe.
+
+12
+
+Das vorlegende Gericht möchte wissen, welche Relevanz dieser Präzedenzfall insbesondere angesichts der vom nationalen Recht eingeräumten Möglichkeit hat, eine Regelung der „internationalen gemeinsamen Besteuerung“ zu wählen, die einen solchen Abzug zuließe.
+
+13
+
+Unter diesen Umständen hat das Østre Landsret (Landgericht der Region Ost) das Verfahren ausgesetzt und dem Gerichtshof folgende Frage zur Vorabentscheidung vorgelegt:
+
+Steht Art. 49 AEUV einer nationalen Steuerregelung wie der im Ausgangsverfahren streitigen entgegen, die einen Abzug für Verluste von gebietsansässigen Zweigniederlassungen zulässt, einen Abzug für Verluste von in anderen Mitgliedstaaten ansässigen Zweigniederlassungen aber auch dann verwehrt, wenn die im Urteil des Gerichtshofs vom 13. Dezember 2005, Marks & Spencer (C‑446/03, EU:C:2005:763, Rn. 55 und 56), angeführten Voraussetzungen vorliegen, sofern der Konzern nicht unter den im Ausgangsverfahren beschriebenen Bedingungen die internationale gemeinsame Besteuerung gewählt hat?
+
+Zur Vorlagefrage
+
+14
+
+Mit seiner Frage möchte das vorlegende Gericht wissen, ob Art. 49 AEUV dahin auszulegen ist, dass er Rechtsvorschriften eines Mitgliedstaats entgegensteht, die es einer gebietsansässigen Gesellschaft auch dann verwehren, von ihrem steuerpflichtigen Gewinn Verluste abzuziehen, die ihrer in einem anderen Mitgliedstaat belegenen Betriebsstätte entstanden sind, wenn diese Verluste in diesem anderen Mitgliedstaat endgültig nicht mehr berücksichtigt werden können, sofern diese gebietsansässige Gesellschaft nicht eine Regelung der internationalen gemeinsamen Besteuerung wie die im Ausgangsverfahren in Rede stehende gewählt hat.
+
+Vorbemerkungen
+
+15
+
+Mit der Niederlassungsfreiheit, die Art. 49 AEUV den Staatsagehörigen der Europäischen Union zuerkennt, ist gemäß Art. 54 AEUV für die nach den Rechtsvorschriften eines Mitgliedstaats gegründeten Gesellschaften, die ihren satzungsmäßigen Sitz, ihre Hauptverwaltung oder ihre Hauptniederlassung innerhalb der Union haben, das Recht verbunden, ihre Tätigkeit in einem anderen Mitgliedstaat durch eine Tochtergesellschaft, Zweigniederlassung oder Agentur auszuüben.
+
+16
+
+Auch wenn die Bestimmungen des Unionsrechts über die Niederlassungsfreiheit nach ihrem Wortlaut die Inländerbehandlung im Aufnahmemitgliedstaat sicherstellen sollen, verbieten sie es ebenfalls, dass der Herkunftsmitgliedstaat die Niederlassung eines seiner Staatsangehörigen oder einer nach seinem Recht gegründeten Gesellschaft in einem anderen Mitgliedstaat behindert (Urteil vom 23. November 2017, A, C‑292/16, EU:C:2017:888, Rn. 24).
+
+17
+
+Diese Erwägungen gelten auch dann, wenn eine in einem Mitgliedstaat ansässige Gesellschaft über eine Betriebsstätte in einem anderen Mitgliedstaat tätig ist (Urteil vom 15. Mai 2008, Lidl Belgium, C‑414/06, EU:C:2008:278, Rn. 20).
+
+18
+
+Wie der Gerichtshof bereits festgestellt hat, begründet eine Bestimmung, die die Berücksichtigung von Verlusten einer Betriebsstätte für die Ermittlung des steuerpflichtigen Gewinns der Gesellschaft, der diese Betriebsstätte gehört, erlaubt, einen Steuervorteil (vgl. in diesem Sinne Urteil vom 15. Mai 2008, Lidl Belgium, C‑414/06, EU:C:2008:278, Rn. 23).
+
+19
+
+Dass ein solcher Vorteil gewährt wird, wenn die Verluste von einer in dem Mitgliedstaat der gebietsansässigen Gesellschaft belegenen Betriebsstätte stammen, nicht aber, wenn sie von einer Betriebsstätte stammen, die in einem anderem Mitgliedstaat als dem der gebietsansässigen Gesellschaft belegen ist, hat zur Folge, dass die steuerliche Situation einer gebietsansässigen Gesellschaft, der eine Betriebsstätte in einem anderen Mitgliedstaat gehört, weniger günstig ist als die, in der sie sich befände, wenn diese Betriebsstätte in demselben Mitgliedstaat belegen wäre wie sie selbst. Diese Ungleichbehandlung könnte eine gebietsansässige Gesellschaft davon abhalten, ihre Tätigkeiten über eine in einem anderen Mitgliedstaat belegene Betriebsstätte auszuüben (vgl. in diesem Sinne Urteil vom 15. Mai 2008, Lidl Belgium, C‑414/06, EU:C:2008:278, Rn. 24 und 25).
+
+20
+
+Eine Ungleichbehandlung, die sich aus einer mitgliedstaatlichen Steuerregelung zulasten von Gesellschaften ergibt, die ihre Niederlassungsfreiheit ausüben, stellt jedoch dann keine Beschränkung dieser Freiheit dar, wenn sie Situationen betrifft, die nicht objektiv miteinander vergleichbar sind, oder wenn sie durch einen zwingenden Grund des Allgemeininteresses gerechtfertigt ist und in einem angemessenen Verhältnis zu diesem Ziel steht (vgl. in diesem Sinne Urteil vom 25. Februar 2010, X Holding, C‑337/08, EU:C:2010:89, Rn. 20).
+
+Zur Ungleichbehandlung
+
+21
+
+Nach § 8 Abs. 2 des Körperschaftsteuergesetzes umfasst das steuerpflichtige Einkommen vorbehaltlich des § 31 A dieses Gesetzes nicht Einnahmen und Ausgaben von in einem anderen Staat, auf den Färöern oder in Grönland belegenen Betriebsstätten oder Liegenschaften. Gemäß diesem § 31 A kann die oberste Muttergesellschaft die Regelung der internationalen gemeinsamen Besteuerung wählen, d. h. entscheiden, dass alle – ansässigen oder nicht ansässigen – verbundenen Gesellschaften, einschließlich ihrer im Inland oder im Ausland belegenen Betriebsstätten und Liegenschaften, in Dänemark steuerpflichtig sind.
+
+22
+
+Als Erstes ist zu prüfen, ob § 8 Abs. 2 des Körperschaftsteuergesetzes eine Ungleichbehandlung begründet zwischen dänischen Gesellschaften, die eine Betriebsstätte in Dänemark haben, und solchen, deren Betriebsstätte in einem anderen Mitgliedstaat belegen ist.
+
+23
+
+Hierzu ist festzustellen, dass dieser § 8 Abs. 2 vom steuerpflichtigen Einkommen dänischer Gesellschaften sowohl die Einnahmen als auch die Ausgaben ihrer in einem anderen Land belegenen Betriebsstätten ausschließt. Dass das Königreich Dänemark darauf verzichtet, von seiner Besteuerungszuständigkeit für die im Ausland belegenen Betriebsstätten dänischer Gesellschaften Gebrauch zu machen, ist für diese aber nicht unbedingt nachteilig und kann sogar einen Steuervorteil darstellen, und zwar dann, wenn die von der Betriebsstätte erzielten Einkünfte weniger hoch besteuert werden als in Dänemark.
+
+24
+
+Dem vorlegenden Gericht zufolge stellt sich die Sachlage jedoch anders dar, wenn wie im Fall von Bevola die gebietsfremde Betriebsstätte ihre Tätigkeit eingestellt hat und ihre Verluste in dem Mitgliedstaat, in dem sie belegen ist, nicht abgezogen werden konnten und auch nicht mehr abgezogen werden können. Nach § 8 Abs. 2 des Körperschaftsteuergesetzes kann die dänische Gesellschaft dann nämlich die Verluste dieser gebietsfremden Betriebsstätte nicht abziehen, während sie diesen Abzug vornehmen könnte, wenn ihre Betriebsstätte in Dänemark belegen wäre. Unter diesen Umständen wird eine dänische Gesellschaft, die eine Betriebsstätte in einem anderen Mitgliedstaat hat, gegenüber einer Gesellschaft, die eine solche Betriebsstätte in Dänemark hat, benachteiligt.
+
+25
+
+Als Zweites ist zu prüfen, ob die Feststellung dieser Ungleichbehandlung dadurch in Frage gestellt werden kann, dass den dänischen Gesellschaften, die Tochtergesellschaften, Zweigniederlassungen oder Liegenschaften in anderen Mitgliedstaaten haben, in § 31 A des Körperschaftsteuergesetzes die Möglichkeit eingeräumt wird, die Regelung der internationalen gemeinsamen Besteuerung zu wählen.
+
+26
+
+Im Rahmen dieser fakultativen Regelung kann eine dänische Gesellschaft zwar die Verluste ihrer in einem anderen Mitgliedstaat belegenen Betriebsstätte ebenso wie die Verluste ihrer in Dänemark belegenen Betriebsstätten von ihrem steuerpflichtigen Einkommen in Dänemark abziehen.
+
+27
+
+Der Vorteil der internationalen gemeinsamen Besteuerung unterliegt jedoch zwei Voraussetzungen, die eine schwere Bürde darstellen. Zum einen setzt er voraus, dass die gesamten Einkünfte des Konzerns, unabhängig davon, ob sie von Tochtergesellschaften, Betriebsstätten oder Liegenschaften in Dänemark oder in einem anderen Land stammen, in diesem Mitgliedstaat körperschaftsteuerpflichtig sind. Zum anderen gilt die Wahl dieser Regelung gemäß § 31 A des Körperschaftsteuergesetzes grundsätzlich für einen Mindestzeitraum von zehn Jahren.
+
+28
+
+Nach alledem begründet das Körperschaftsteuergesetz eine Ungleichbehandlung zwischen dänischen Gesellschaften, die eine Betriebsstätte in Dänemark haben, und solchen, deren Betriebsstätte in einem anderen Mitgliedstaat belegen ist.
+
+29
+
+Diese Ungleichbehandlung kann es für eine dänische Gesellschaft weniger attraktiv machen, von ihrer Niederlassungsfreiheit Gebrauch zu machen, indem sie Betriebsstätten in anderen Mitgliedstaaten gründet. Allerdings ist, wie in Rn. 20 des vorliegenden Urteils ausgeführt, zu prüfen, ob sie Situationen betrifft, die nicht objektiv vergleichbar sind.
+
+Zur Vergleichbarkeit der Situationen
+
+30
+
+Die dänische, die deutsche und die österreichische Regierung machen geltend, dass sich die in einem anderen Mitgliedstaat ansässige Zweigniederlassung einer dänischen Gesellschaft nicht in einer Situation befinde, die objektiv mit der einer dänischen Zweigniederlassung einer solchen Gesellschaft vergleichbar sei, da sie nicht der Steuerhoheit des Königreichs Dänemark unterliege. Der Gerichtshof habe in den Urteilen vom 17. Juli 2014, Nordea Bank Danmark (C‑48/13, EU:C:2014:2087), und vom 17. Dezember 2015, Timac Agro Deutschland (C‑388/14, EU:C:2015:829), entschieden, dass sich eine Betriebsstätte, die in einem anderen Mitgliedstaat belegen ist als dem des Sitzes der Gesellschaft, der sie gehört, nur dann in derselben Situation befinde wie eine in dem Mitgliedstaat des Sitzes belegene Betriebsstätte, wenn dieser letztere Staat sein Steuerrecht auch auf die gebietsfremde Betriebsstätte erstreckt und somit deren Einkünfte besteuert.
+
+31
+
+Die Europäische Kommission teilt zwar diese Lesart der Urteile vom 17. Juli 2014, Nordea Bank Danmark (C‑48/13, EU:C:2014:2087), und vom 17. Dezember 2015, Timac Agro Deutschland (C‑388/14, EU:C:2015:829), ist aber der Ansicht, dass diese der früheren Rechtsprechung des Gerichtshofs widersprächen, die dem Grund für die Ungleichbehandlung keine Bedeutung zugemessen habe. Dieser Grund dürfe bei der Prüfung der Vergleichbarkeit des grenzüberschreitenden und des innerstaatlichen Sachverhalts keine Berücksichtigung finden. Ansonsten würden zwei Sachverhalte allein deshalb als nicht vergleichbar angesehen, weil der Mitgliedstaat entschieden habe, sie unterschiedlich zu behandeln.
+
+32
+
+Insoweit ist darauf hinzuweisen, dass nach der Rechtsprechung des Gerichtshofs die Vergleichbarkeit eines grenzüberschreitenden Sachverhalts mit einem innerstaatlichen Sachverhalt unter Berücksichtigung des mit den fraglichen nationalen Bestimmungen verfolgten Ziels zu prüfen ist (Urteile vom 18. Juli 2007, Oy AA, C‑231/05, EU:C:2007:439, Rn. 38, vom 25. Februar 2010, X Holding, C‑337/08, EU:C:2010:89, Rn. 22, und vom 12. Juni 2014, SCA Group Holding u. a., C‑39/13 bis C‑41/13, EU:C:2014:1758, Rn. 28).
+
+33
+
+Entgegen dem Vorbringen der Kommission stellen die Urteile vom 17. Juli 2014, Nordea Bank Danmark (C‑48/13, EU:C:2014:2087), und vom 17. Dezember 2015, Timac Agro Deutschland (C‑388/14, EU:C:2015:829), keine Abkehr des Gerichtshofs von dieser Methode der Würdigung der Vergleichbarkeit der Sachverhalte dar, die im Übrigen in späteren Urteilen ausdrücklich angewandt wurde (Urteile vom 21. Dezember 2016, Masco Denmark und Daxima, C‑593/14, EU:C:2016:984, Rn. 29, vom 22. Juni 2017, Bechtel, C‑20/16, EU:C:2017:488, Rn. 53, und vom 22. Februar 2018, X und X, C‑398/16 und C‑399/16, EU:C:2018:110, Rn. 33).
+
+34
+
+In den Urteilen vom 17. Juli 2014, Nordea Bank Danmark (C‑48/13, EU:C:2014:2087), und vom 17. Dezember 2015, Timac Agro Deutschland (C‑388/14, EU:C:2015:829), hat der Gerichtshof lediglich festgestellt, dass für ihn keine Notwendigkeit besteht, sich mit dem Zweck der fraglichen nationalen Bestimmungen zu befassen, wenn diese für die im Ausland belegenen und für die im Inland belegenen Betriebsstätten dieselbe steuerliche Behandlung vorsehen. Der Gesetzgeber eines Mitgliedstaats erkennt nämlich dadurch, dass er diese beiden Niederlassungsformen bei der Besteuerung der von ihnen erzielten Gewinne gleich behandelt, an, dass zwischen ihnen in Bezug auf die Modalitäten und Voraussetzungen dieser Besteuerung kein Unterschied in der objektiven Situation besteht, der eine unterschiedliche Behandlung rechtfertigen könnte (vgl. in diesem Sinne Urteil vom 28. Januar 1986, Kommission/Frankreich, 270/83, EU:C:1986:37, Rn. 20).
+
+35
+
+Die Urteile vom 17. Juli 2014, Nordea Bank Danmark (C‑48/13, EU:C:2014:2087), und vom 17. Dezember 2015, Timac Agro Deutschland (C‑388/14, EU:C:2015:829), können aber nicht dahin verstanden werden, dass zwei Sachverhalte, die das nationale Steuerrecht unterschiedlich behandelt, nicht als vergleichbar angesehen werden können. Der Gerichtshof hat nämlich entschieden, dass die Anwendung unterschiedlicher Steuerregelungen auf eine inländische Gesellschaft, je nachdem, ob sie eine gebietsansässige oder eine gebietsfremde Betriebsstätte hat, kein zulässiges Kriterium für die Beurteilung der objektiven Vergleichbarkeit der Situationen sein kann (vgl. in diesem Sinne Urteil vom 22. Januar 2009, STEKO Industriemontage, C‑377/07, EU:C:2009:29, Rn. 33). Im Übrigen würde Art. 49 AEUV seines Sinnes entleert, wenn ein Mitgliedstaat in jedem Fall eine Ungleichbehandlung allein deshalb vornehmen könnte, weil sich die Betriebsstätte einer gebietsansässigen Gesellschaft in einem anderen Mitgliedstaat befindet (vgl. in diesem Sinne Urteil vom 25. Februar 2010, X Holding, C‑337/08, EU:C:2010:89, Rn. 23). Mithin ist die Vergleichbarkeit der Situationen entsprechend der in den Rn. 32 und 33 des vorliegenden Urteils angeführten Rechtsprechung unter Berücksichtigung des Zwecks der fraglichen nationalen Bestimmungen zu prüfen.
+
+36
+
+Vorliegend schließt § 8 Abs. 2 des Körperschaftsteuergesetzes Gewinne und Verluste einer in einem anderen Mitgliedstaat belegenen Betriebsstätte vom steuerpflichtigen Einkommen der dänischen Gesellschaften aus, sofern die betreffende Gesellschaft nicht die in § 31 A dieses Gesetzes vorgesehene Regelung der internationalen gemeinsamen Besteuerung gewählt hat. Mit dieser Regelung soll bei dänischen Gesellschaften mit solchen Betriebsstätten eine Doppelbesteuerung der Gewinne und – symmetrisch dazu – ein doppelter Abzug der Verluste vermieden werden. Zu vergleichen ist daher die Situation dieser Gesellschaften mit der Situation dänischer Gesellschaften, die Betriebsstätten in Dänemark haben.
+
+37
+
+Insoweit hat der Gerichtshof zu Maßnahmen eines Mitgliedstaats, die der Vermeidung oder Abschwächung der Doppelbesteuerung der Gewinne einer gebietsansässigen Gesellschaft dienen, entschieden, dass sich Gesellschaften mit einer Betriebsstätte in einem anderen Mitgliedstaat grundsätzlich nicht in einer Situation befinden, die mit der Situation von Gesellschaften mit einer gebietsansässigen Betriebsstätte vergleichbar wäre (vgl. in diesem Sinne Urteile vom 17. Juli 2014, Nordea Bank Danmark, C‑48/13, EU:C:2014:2087, Rn. 24, und vom 17. Dezember 2015, Timac Agro Deutschland, C‑388/14, EU:C:2015:829, Rn. 27).
+
+38
+
+In Bezug auf Verluste einer gebietsfremden Betriebsstätte, die jede Tätigkeit eingestellt hat und deren Verluste nicht von ihrem steuerpflichtigen Gewinn in dem Mitgliedstaat, in dem sie tätig war, abgezogen werden konnten und nicht mehr abgezogen werden können, unterscheidet sich die Situation einer gebietsansässigen Gesellschaft, die eine solche Betriebsstätte hat, in Anbetracht des Ziels, den doppelten Abzug der Verluste zu vermeiden, jedoch nicht von der Situation einer gebietsansässigen Gesellschaft mit einer gebietsansässigen Betriebsstätte.
+
+39
+
+Schließlich ist hervorzuheben, dass die fraglichen nationalen Bestimmungen, die die Doppelbesteuerung der Gewinne und den doppelten Abzug der Verluste einer gebietsfremden Betriebsstätte vermeiden sollen, ganz allgemein darauf abzielen, sicherzustellen, dass die Besteuerung einer Gesellschaft mit einer solchen Betriebsstätte der Leistungsfähigkeit dieser Gesellschaft entspricht. Die Leistungsfähigkeit einer Gesellschaft mit einer gebietsfremden Betriebsstätte, die endgültige Verluste erlitten hat, ist aber in gleicher Weise beeinträchtigt wie die einer Gesellschaft, deren gebietsansässige Betriebsstätte Verluste erlitten hat. Wie der Generalanwalt in Nr. 59 seiner Schlussanträge ausgeführt hat, sind beide Situationen somit auch in dieser Hinsicht vergleichbar.
+
+40
+
+Aus dem Vorstehenden ergibt sich, dass die im Ausgangsverfahren fragliche Ungleichbehandlung objektiv vergleichbare Situationen betrifft.
+
+Zur Rechtfertigung der Beschränkung
+
+41
+
+Das Königreich Dänemark macht geltend, dass diese Ungleichbehandlung erstens mit der Aufrechterhaltung einer ausgewogenen Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten gerechtfertigt werden könne.
+
+42
+
+Insoweit ist darauf hinzuweisen, dass es zur Wahrung der Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten erforderlich sein kann, auf die wirtschaftliche Tätigkeit der in einem dieser Staaten niedergelassenen Gesellschaften sowohl in Bezug auf Gewinne als auch auf Verluste nur dessen Steuerrecht anzuwenden (Urteil vom 25. Februar 2010, X Holding, C‑337/08, EU:C:2010:89, Rn. 28).
+
+43
+
+Würde das Königreich Dänemark im vorliegenden Fall den gebietsansässigen Gesellschaften das Recht einräumen, die Verluste ihrer in anderen Mitgliedstaaten belegenen Betriebsstätten entweder in Dänemark oder in dem Mitgliedstaat, in dem sich die Betriebsstätte befindet, abzuziehen, auch wenn sie nicht die internationale gemeinsame Besteuerung gewählt haben, wäre die ausgewogene Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten erheblich gefährdet, da die Steuerbemessungsgrundlage nach Wahl der Gesellschaft in einem Staat erweitert und in dem anderen Staat entsprechend verringert würde (vgl. in diesem Sinne Urteil vom 25. Februar 2010, X Holding, C‑337/08, EU:C:2010:89, Rn. 29 und die angeführte Rechtsprechung).
+
+44
+
+Die dänische Regierung rechtfertigt die im Ausgangsverfahren fragliche Ungleichbehandlung zweitens mit der Notwendigkeit, die Kohärenz des Steuersystems zu wahren.
+
+45
+
+Insoweit hat der Gerichtshof bereits anerkannt, dass die Notwendigkeit, die Kohärenz eines Steuersystems zu wahren, eine Beschränkung der Ausübung der vom AEU-Vertrag gewährleisteten Verkehrsfreiheiten rechtfertigen kann. Jedoch ist eine solche Rechtfertigung nur zulässig, wenn ein unmittelbarer Zusammenhang zwischen dem betreffenden steuerlichen Vorteil und dessen Ausgleich durch eine bestimmte steuerliche Belastung dargetan ist, wobei die Unmittelbarkeit dieses Zusammenhangs anhand des Ziels der fraglichen Regelung beurteilt werden muss (Urteil vom 30. Juni 2016, Max-Heinz Feilen, C‑123/15, EU:C:2016:496, Rn. 30 und die angeführte Rechtsprechung).
+
+46
+
+Im vorliegenden Fall besteht der in Rede stehende steuerliche Vorteil darin, dass eine gebietsansässige Gesellschaft, die eine ebenfalls gebietsansässige Betriebsstätte hat, deren Verluste mit ihrem steuerpflichtigen Ergebnis verrechnen kann. Nach § 8 Abs. 2 des Körperschaftsteuergesetzes kommt dieser Vorteil nicht Gesellschaften zugute, deren Betriebsstätte in einem anderen Mitgliedstaat belegen ist, sofern sie nicht die in § 31 A dieses Gesetzes vorgesehene Regelung der internationalen gemeinsamen Besteuerung gewählt haben.
+
+47
+
+Diesem steuerlichen Vorteil steht als direktes Gegenstück die Einbeziehung etwaiger Gewinne der gebietsansässigen Betriebsstätte in das steuerpflichtige Ergebnis der gebietsansässigen Gesellschaft gegenüber. Umgekehrt sind gemäß § 8 Abs. 2 dieses Gesetzes die von einer in einem anderen Mitgliedstadt belegenen Betriebsstätte erzielten Gewinne von der Körperschaftsteuer befreit, sofern die Gesellschaft, der diese Betriebsstätte gehört, nicht die in § 31 A dieses Gesetzes vorgesehene Regelung der internationalen gemeinsamen Besteuerung gewählt hat.
+
+48
+
+Folglich begründet § 8 Abs. 2 des Körperschaftsteuergesetzes schon seinem Wortlaut nach einen unmittelbaren Zusammenhang zwischen dem betreffenden steuerlichen Vorteil und dessen Ausgleich durch eine bestimmte steuerliche Belastung.
+
+49
+
+Dieser unmittelbare Zusammenhang ist angesichts des Ziels der im Ausgangsverfahren fraglichen nationalen Bestimmungen, die, wie in Rn. 39 des vorliegenden Urteils ausgeführt, insbesondere darauf abzielen, sicherzustellen, dass die Besteuerung einer Gesellschaft mit einer gebietsfremden Betriebsstätte der Leistungsfähigkeit dieser Gesellschaft entspricht.
+
+50
+
+Könnte eine Gesellschaft mit einer Betriebsstätte in einem anderen Mitgliedstaat deren Verluste mit ihrem Ergebnis verrechnen, ohne die Gewinne der Betriebsstätte versteuern zu müssen, würde ihre Leistungsfähigkeit systematisch unterbewertet.
+
+51
+
+Die Wahrung der Kohärenz des Steuersystems stellt daher eine überzeugende Rechtfertigung der in Rede stehenden Ungleichbehandlung dar.
+
+52
+
+Darüber hinaus kann auch die Vermeidung der Gefahr einer doppelten Verlustberücksichtigung, auch wenn sich die dänische Regierung nicht ausdrücklich darauf berufen hat, eine Beschränkung der Niederlassungsfreiheit wie die in der vorliegenden Rechtssache fragliche rechtfertigen (vgl. in diesem Sinne Urteil vom 3. Februar 2015, Kommission/Vereinigtes Königreich, C‑172/13, EU:C:2015:50, Rn. 24).
+
+53
+
+Die im Ausgangsverfahren in Rede stehende Regelung lässt sich daher mit zwingenden Gründen des Allgemeininteresses rechtfertigen, nämlich der ausgewogenen Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten, der Kohärenz des dänischen Steuersystems und der Notwendigkeit, der Gefahr einer doppelten Verlustberücksichtigung vorzubeugen.
+
+54
+
+Es ist jedoch noch zu prüfen, ob diese Rechtsvorschriften nicht über das hinausgehen, was zur Erreichung dieser Ziele erforderlich ist.
+
+Zur Verhältnismäßigkeit
+
+55
+
+Wie in den Rn. 26 und 27 des vorliegenden Urteils ausgeführt, kann eine dänische Gesellschaft mit einer gebietsfremden Betriebsstätte deren Verluste nicht abziehen, es sei denn, sie nimmt nach Maßgabe der entsprechenden Bedingungen die Regelung der internationalen gemeinsamen Besteuerung in Anspruch.
+
+56
+
+Insoweit ist festzustellen, dass eine gebietsansässige Gesellschaft, wenn sie den Umfang dieser gemeinsamen Besteuerung frei bestimmen könnte, nach Belieben entscheiden könnte, dass davon nur gebietsfremde Betriebsstätten erfasst werden, die Verluste erlitten haben, die ihr steuerpflichtiges Einkommen in Dänemark verringern würden, nicht aber solche, die Gewinne erzielt haben und die in ihrem eigenen Mitgliedstaat möglicherweise mit einem niedrigeren Steuersatz besteuert werden als in Dänemark. Ebenso liefe eine der gebietsansässigen Gesellschaft eingeräumte Möglichkeit, den Umfang der internationalen gemeinsamen Besteuerung von einem Jahr zum anderen zu verändern, darauf hinaus, dass sie frei entscheiden könnte, in welchem Mitgliedstaat die Verluste der gebietsfremden Betriebsstätte zu berücksichtigen sind (vgl. in diesem Sinne Urteil vom 25. Februar 2010, X Holding, C‑337/08, EU:C:2010:89, Rn. 31 und 32). Solche Möglichkeiten würden sowohl die ausgewogene Aufteilung der Besteuerungsbefugnis zwischen den Mitgliedstaaten als auch die mit der dänischen Steuerregelung angestrebte Symmetrie zwischen dem Recht zur Besteuerung der Gewinne und der Möglichkeit, Verluste in Abzug zu bringen, gefährden.
+
+57
+
+Allerdings ist, ohne dass es erforderlich wäre, allgemein auf die Verhältnismäßigkeit der in Rn. 27 des vorliegenden Urteils genannten Voraussetzungen der internationalen gemeinsamen Besteuerung im Hinblick auf die in den Rn. 41 bis 53 des vorliegenden Urteils angeführten Ziele einzugehen, darauf hinzuweisen, dass das vorlegende Gericht vorliegend wissen möchte, ob die im Ausgangsverfahren in Rede stehende Ungleichbehandlung in dem besonderen Fall erforderlich ist, in dem die Verluste der gebietsfremden Betriebsstätte endgültig sind.
+
+58
+
+Ist ein Abzug der Verluste der gebietsfremden Betriebsstätte in dem Mitgliedstaat, in dem diese belegen ist, nicht mehr möglich, besteht nämlich auch keine Gefahr einer doppelten Verlustberücksichtigung.
+
+59
+
+In einem solchen Fall geht eine Regelung wie die im Ausgangsverfahren fragliche über das hinaus, was erforderlich ist, um die in den Rn. 41 bis 53 des vorliegenden Urteils angeführten Ziele zu erreichen. Die Entsprechung von Besteuerung und Leistungsfähigkeit der Gesellschaft ist nämlich besser gewährleistet, wenn die Gesellschaft, die eine Betriebsstätte in einem anderen Mitgliedstaat hat, in diesem konkreten Fall von ihrem steuerpflichtigen Ergebnis die endgültigen Verluste dieser Betriebsstätte abziehen darf.
+
+60
+
+Um die Kohärenz des dänischen Steuersystems nicht zu gefährden, zu deren Wahrung die in Rede stehende Regelung insbesondere erlassen wurde, kann der Abzug solcher Verluste jedoch nur dann zugelassen werden, wenn die gebietsansässige Gesellschaft den Beweis erbringt, dass die Verluste, deren Verrechnung mit ihrem Ergebnis sie fordert, endgültig sind (vgl. in diesem Sinne Urteile vom 13. Dezember 2005, Marks & Spencer, C‑446/03, EU:C:2005:763, Rn. 56, und vom 3. Februar 2015, Kommission/Vereinigtes Königreich, C‑172/13, EU:C:2015:50, Rn. 27).
+
+61
+
+Insoweit muss sie nachweisen, dass die in Rede stehenden Verluste den vom Gerichtshof in Rn. 55 des Urteils vom 13. Dezember 2005, Marks & Spencer (C‑446/03, EU:C:2005:763), aufgestellten Anforderungen genügen, auf die das vorlegende Gericht in seiner Vorlagefrage zu Recht verweist.
+
+62
+
+So hat der Gerichtshof in Rn. 55 dieses Urteils entschieden, dass die Beschränkung der Niederlassungsfreiheit durch eine mitgliedstaatliche Regelung unverhältnismäßig ist, wenn zum einen die gebietsfremde Tochtergesellschaft die im Staat ihres Sitzes für den von dem Abzugsantrag erfassten Steuerzeitraum sowie für frühere Steuerzeiträume vorgesehenen Möglichkeiten zur Berücksichtigung von Verlusten ausgeschöpft hat und zum anderen keine Möglichkeit besteht, dass diese Verluste im Staat ihres Sitzes für künftige Zeiträume von ihr selbst oder von einem Dritten, insbesondere im Fall der Übertragung der Tochtergesellschaft auf ihn, berücksichtigt werden.
+
+63
+
+Die Voraussetzung der Endgültigkeit der Verluste im Sinne von Rn. 55 des Urteils vom 13. Dezember 2005, Marks & Spencer (C‑446/03, EU:C:2005:763), wurde in Rn. 36 des Urteils vom 3. Februar 2015, Kommission/Vereinigtes Königreich (C‑172/13, EU:C:2015:50), erläutert. Danach kann nur dann festgestellt werden, dass die Verluste einer gebietsfremden Tochtergesellschaft endgültig sind, wenn diese Tochtergesellschaft im Mitgliedstaat ihres Sitzes keine Einnahmen mehr erzielt. Solange sie nämlich weiterhin – wenn auch minimale – Einnahmen erzielt, besteht noch die Möglichkeit, die Verluste mit künftigen Gewinnen, die im Mitgliedstaat ihres Sitzes erzielt werden, zu verrechnen.
+
+64
+
+Aus dieser Rechtsprechung, die auf die Verluste gebietsfremder Betriebsstätten übertragbar ist, ergibt sich, dass die Verluste einer gebietsfremden Betriebsstätte endgültig werden, wenn die Gesellschaft, der sie gehört, zum einen alle Möglichkeiten zum Abzug dieser Verluste ausgeschöpft hat, die ihr das Recht des Mitgliedstaats bietet, in dem diese Betriebsstätte belegen ist, und zum anderen über diese Betriebsstätte keine Einnahmen mehr erzielt, so dass keine Möglichkeit mehr besteht, dass die Verluste in diesem Mitgliedstaat berücksichtigt werden.
+
+65
+
+Es ist Sache des nationalen Gerichts, festzustellen, ob diese Voraussetzungen im Fall der finnischen Zweigniederlassung von Bevola erfüllt sind.
+
+66
+
+Nach alledem ist auf die Vorlagefrage zu antworten, dass Art. 49 AEUV dahin auszulegen ist, dass er Rechtsvorschriften eines Mitgliedstaats entgegensteht, die es einer gebietsansässigen Gesellschaft, die nicht eine Regelung der internationalen gemeinsamen Besteuerung wie die im Ausgangsverfahren in Rede stehende gewählt hat, auch dann verwehren, von ihrem steuerpflichtigen Gewinn Verluste einer in einem anderen Mitgliedstaat belegenen Betriebsstätte abzuziehen, wenn sie zum einen alle Möglichkeiten zum Abzug dieser Verluste ausgeschöpft hat, die ihr das Recht des Mitgliedstaats bietet, in dem diese Betriebsstätte belegen ist, und zum anderen über diese Betriebsstätte keine Einnahmen mehr erzielt, so dass keine Möglichkeit mehr besteht, dass die Verluste in diesem Mitgliedstaat berücksichtigt werden, was zu prüfen Sache des vorlegenden Gerichts ist.
+
+Kosten
+
+67
+
+Für die Parteien des Ausgangsverfahrens ist das Verfahren ein Zwischenstreit in dem beim vorlegenden Gericht anhängigen Rechtsstreit; die Kostenentscheidung ist daher Sache dieses Gerichts. Die Auslagen anderer Beteiligter für die Abgabe von Erklärungen vor dem Gerichtshof sind nicht erstattungsfähig.
+
+ 	
+Aus diesen Gründen hat der Gerichtshof (Große Kammer) für Recht erkannt:
+
+ 	
+Art. 49 AEUV ist dahin auszulegen, dass er Rechtsvorschriften eines Mitgliedstaats entgegensteht, die es einer gebietsansässigen Gesellschaft, die nicht eine Regelung der internationalen gemeinsamen Besteuerung wie die im Ausgangsverfahren in Rede stehende gewählt hat, auch dann verwehrt, von ihrem steuerpflichtigen Gewinn Verluste einer in einem anderen Mitgliedstaat belegenen Betriebsstätte abzuziehen, obgleich sie zum einen alle Möglichkeiten zum Abzug dieser Verluste ausgeschöpft hat, die ihr das Recht des Mitgliedstaats bietet, in dem diese Betriebsstätte belegen ist, und zum anderen über diese Betriebsstätte keine Einnahmen mehr erzielt, so dass keine Möglichkeit mehr besteht, dass die Verluste in diesem Mitgliedstaat berücksichtigt werden, was zu prüfen Sache des vorlegenden Gerichts ist.
+
+ 	
+Unterschriften
+
+( *1 )	Verfahrenssprache: Dänisch.
