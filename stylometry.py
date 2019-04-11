@@ -27,7 +27,7 @@ class Stylometry():
         self.ngram_range_max = 2
         self.hcaAlgorithm = 'ward'
         self.cull_percentage = 0
-        self.delta = "Burrow's"
+        self.delta = "Quadratic"
         self.document_contents = []
         self.document_titles = []
 
@@ -162,7 +162,6 @@ class Stylometry():
                         all_words.append(word)
 
             all_words.sort()
-            print(len(all_words))
 
             # iterate over unique wordlist and check how often words occur in the documents
             for word in all_words:
@@ -196,23 +195,24 @@ class Stylometry():
         # n-grams can be indicated as ranges, e.g. (1, 3) includes ngrams from 1 to 3
         # n-grams can also be indicated as single numbers, e.g. (3, 3) includes only 3-grams
         # max_features = MFWs
-        countVectorizer = TfidfVectorizer(max_features=self.MFW, use_idf=False, ngram_range=(self.ngram_range_min, self.ngram_range_max))
-        countMatrix = countVectorizer.fit_transform(culled_docs)
+        vectorizer = TfidfVectorizer(max_features=self.MFW, analyzer='char', use_idf=False, ngram_range=(self.ngram_range_min, self.ngram_range_max))
+        matrix = vectorizer.fit_transform(culled_docs)
+     
 
         # distance measure provided by methods from sklearn:
         # manhattan_distances = burrows delta
         # euclidean_distances = quadratic delta (argamon 2008)
         # beim vergleich der anwälte liefert euclidean metric zb bessere ergebnisse
         if self.delta == "Quadratic":
-            similarity = euclidean_distances(countMatrix)
+            distance = euclidean_distances(matrix)
         else:
-            similarity = manhattan_distances(countMatrix)
+            distance = manhattan_distances(matrix)
 
         # Hierarchical Cluster Analysis, i.e. grouping of nearest documents and
         # display in dendrogram
         # TODO: evaluate which algorithm is best for us
-        linkages = linkage(similarity, self.hcaAlgorithm)
-        fig = dendrogram(linkages, labels=self.document_titles, orientation="left", leaf_font_size=8, leaf_rotation=0)
+        hierarchies = linkage(distance, self.hcaAlgorithm)
+        figure = dendrogram(hierarchies, labels=self.document_titles, orientation="left", leaf_font_size=8, leaf_rotation=0)
 
     def visualize_results(self):
         plot.tick_params(axis='x', which='both', bottom=True, top=False, labelbottom=True)

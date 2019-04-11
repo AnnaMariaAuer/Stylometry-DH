@@ -1,0 +1,558 @@
+URTEIL DES GERICHTS (Fünfte Kammer)
+
+13. Juli 2017 ( *1 )
+
+„Binnenmarkt – Entscheidung des EUIPO, mit dem ein Antrag auf Eintragung in die Liste der zugelassenen Vertreter abgelehnt wird – Erfordernis eines Geschäftssitzes in der Union – Art. 93 Abs. 2 Buchst. b der Verordnung (EG) Nr. 207/2009 – Freier Dienstleistungsverkehr – Art. 36 des EWR‑Abkommens – Mit dem EWR-Abkommen konforme Auslegung“
+
+In der Rechtssache T‑527/14
+
+Paul Rosenich, wohnhaft in Triesenberg (Liechtenstein), Prozessbevollmächtigte: Rechtsanwälte A. von Mühlendahl und C. Eckhartt,
+
+Kläger,
+
+gegen
+
+Amt der Europäischen Union für geistiges Eigentum (EUIPO), Prozessbevollmächtigte: zunächst G. Schneider, dann D. Walicka als Bevollmächtigte,
+
+Beklagter,
+
+betreffend eine Klage gegen die Entscheidung der Vierten Beschwerdekammer des EUIPO vom 29. April 2014 (Sache R 2063/2012-4) wegen der Ablehnung des EUIPO, den Kläger in die Liste der zugelassenen Vertreter gemäß Art. 93 der Verordnung (EG) Nr. 207/2009 des Rates vom 26. Februar 2009 über die Unionsmarke (ABl. 2009, L 78, S. 1) einzutragen,
+
+erlässt
+
+DAS GERICHT (Fünfte Kammer)
+
+unter Mitwirkung des Präsidenten A. Dittrich, des Richters J. Schwarcz (Berichterstatter) und der Richterin V. Tomljenović,
+
+Kanzler: A. Lamote, Verwaltungsrätin,
+
+aufgrund der am 15. Juli 2014 bei der Kanzlei des Gerichts eingegangenen Klageschrift,
+
+aufgrund der am 19. Dezember 2014 bei der Kanzlei des Gerichts eingegangenen Klagebeantwortung,
+
+aufgrund der am 10. März 2015 bei der Kanzlei des Gerichts eingegangenen Erwiderung,
+
+aufgrund der am 11. Mai 2015 bei der Kanzlei des Gerichts eingegangenen Gegenerwiderung,
+
+auf die mündliche Verhandlung vom 14. Januar 2016
+
+folgendes
+
+Urteil
+
+Rechtlicher Rahmen
+
+EWR-Abkommen
+
+1
+
+Art. 1 des Abkommens über den Europäischen Wirtschaftsraum (EWR), das in Liechtenstein am 1. Mai 1995 durch den Beschluss des EWR-Rates Nr. 1/95 vom 10. März 1995 über das Inkrafttreten des [EWR-Abkommens] für das Fürstentum Liechtenstein (ABl. 1995, L 86, S. 58) in Kraft getreten ist, bestimmt:
+
+„Ziel dieses Assoziierungsabkommens ist es, eine beständige und ausgewogene Stärkung der Handels- und Wirtschaftsbeziehungen zwischen den Vertragsparteien unter gleichen Wettbewerbsbedingungen und die Einhaltung gleicher Regeln zu fördern, um einen homogenen Europäischen Wirtschaftsraum, nachstehend EWR genannt, zu schaffen.“
+
+2
+
+In Art. 2 des EWR-Abkommens heißt es:
+
+„Im Sinne dieses Abkommens bedeutet
+
+a)
+
+‚Abkommen‘: das Hauptabkommen, die Protokolle und Anhänge dazu sowie die Rechtsakte, auf die darin verwiesen wird,
+
+…“
+
+3
+
+Hinsichtlich der Auslegung des EWR-Abkommens sieht dessen Art. 6 folgendes Homogenitätsgebot vor:
+
+„Unbeschadet der künftigen Entwicklungen der Rechtsprechung werden die Bestimmungen dieses Abkommens, soweit sie mit den entsprechenden Bestimmungen des Vertrags zur Gründung der Europäischen Wirtschaftsgemeinschaft und des Vertrags über die Gründung der Europäischen Gemeinschaft für Kohle und Stahl sowie der aufgrund dieser beiden Verträge erlassenen Rechtsakte in ihrem wesentlichen Gehalt identisch sind, bei ihrer Durchführung und Anwendung im Einklang mit den einschlägigen Entscheidungen ausgelegt, die der Gerichtshof der Europäischen Gemeinschaften vor dem Zeitpunkt der Unterzeichnung dieses Abkommens erlassen hat.“
+
+4
+
+In Art.7 des EWR-Abkommens heißt es:
+
+„Rechtsakte, auf die in den Anhängen zu diesem Abkommen oder in den Entscheidungen des Gemeinsamen EWR-Ausschusses Bezug genommen wird oder die darin enthalten sind, sind für die Vertragsparteien verbindlich und Teil des innerstaatlichen Rechts oder in innerstaatliches Recht umzusetzen, und zwar wie folgt:
+
+a)
+
+Ein Rechtsakt, der einer EWG-Verordnung entspricht, wird als solcher in das innerstaatliche Recht der Vertragsparteien übernommen. …“
+
+5
+
+Art. 36 Abs. 1 des EWR-Abkommens, in dem es um den freien Dienstleistungsverkehr geht, bestimmt:
+
+„Im Rahmen dieses Abkommens unterliegt der freie Dienstleistungsverkehr im Gebiet der Vertragsparteien für Angehörige der [Mitgliedstaaten der Europäischen Union] und der [Staaten der Europäischen Freihandelsassoziation], die in einem anderen E[U]-Mitgliedstaat beziehungsweise einem anderen EFTA-Staat als demjenigen des Leistungsempfängers ansässig sind, keinen Beschränkungen.“
+
+6
+
+Art. 65 Abs. 2 des EWR-Abkommens lautet:
+
+„Die besonderen Bestimmungen und besonderen Regelungen über das geistige Eigentum und den gewerblichen Rechtsschutz sind in Protokoll 28 und in Anhang XVII enthalten und gelten, sofern nichts anderes bestimmt ist, für alle Waren und Dienstleistungen.“
+
+7
+
+Im Protokoll 1 („über horizontale Anpassungen“) zum EWR-Abkommen heißt es:
+
+„Die Bestimmungen der Rechtsakte, auf die in den Anhängen zu diesem Abkommen Bezug genommen wird, sind nach Maßgabe des Abkommens und dieses Protokolls anzuwenden, sofern in dem jeweiligen Anhang nichts anderes bestimmt ist. Die für einzelne Rechtsakte erforderlichen besonderen Anpassungen sind in dem Anhang niedergelegt, in dem der betreffende Rechtsakt aufgeführt ist.
+
+…
+
+8. Bezugnahmen auf Gebiete
+
+Enthalten die Rechtsakte, auf die Bezug genommen wird, Bezugnahmen auf das Gebiet der ‚Gemeinschaft‘ oder auf den ‚Gemeinsamen Markt‘, so gelten diese Bezugnahmen im Sinne des Abkommens als Bezugnahmen auf die Hoheitsgebiete der Vertragsparteien im Sinne des Artikels 126 des Abkommens.“
+
+8
+
+Nach Anhang XVII zum EWR-Abkommen findet das Protokoll 1 über horizontale Anpassungen Anwendung, soweit in diesem Anhang nichts anderes bestimmt ist, falls die Rechtsakte, auf die in diesem Anhang Bezug genommen wird, Begriffe enthalten oder sich auf Verfahren beziehen, die für die Rechtsordnung der Europäischen Union charakteristisch sind. Der Anhang nennt die Verordnung (EG) Nr. 207/2009 des Rates vom 26. Februar 2009 über die Unionsmarke (ABl. 2009, L 78, S. 1) nicht und hat ebenso wenig jemals die Verordnung (EG) Nr. 40/94 des Rates vom 20. Dezember 1993 über die Gemeinschaftsmarke (ABl. 1994, L 11, S. 1) genannt, die durch die Verordnung Nr. 207/2009 aufgehoben und ersetzt wurde.
+
+Verordnung Nr. 207/2009
+
+9
+
+Art. 93 Abs. 1 bis 3 der Verordnung Nr. 207/2009 sah im hier fraglichen Zeitraum vor:
+
+„(1)   Die Vertretung natürlicher oder juristischer Personen vor dem Amt kann nur wahrgenommen werden
+
+…
+
+b)
+
+durch zugelassene Vertreter, die in einer beim Amt geführten Liste eingetragen sind. …
+
+…
+
+(2)   In die Liste der zugelassenen Vertreter kann jede natürliche Person eingetragen werden, die folgende Voraussetzungen erfüllt:
+
+a)
+
+Sie muss die Staatsangehörigkeit eines Mitgliedstaats besitzen;
+
+b)
+
+sie muss ihren Geschäftssitz oder Arbeitsplatz in der Gemeinschaft haben;
+
+c)
+
+sie muss befugt sein, natürliche oder juristische Personen auf dem Gebiet des Markenwesens vor der Zentralbehörde für den gewerblichen Rechtsschutz eines Mitgliedstaats zu vertreten. …
+
+(3)   Die Eintragung erfolgt auf Antrag, dem eine Bescheinigung der Zentralbehörde für den gewerblichen Rechtsschutz des betreffenden Mitgliedstaats beizufügen ist, aus der sich die Erfüllung der in Absatz 2 genannten Voraussetzungen ergibt.“
+
+10
+
+Art. 93 Abs. 2 der Verordnung Nr. 207/2009 erhielt durch Art. 1 Nr. 87 der Verordnung (EU) 2015/2424 des Europäischen Parlaments und des Rates vom 16. Dezember 2015 zur Änderung der Verordnung Nr. 207/2009 und der Verordnung (EG) Nr. 2868/95 der Kommission zur Durchführung der Verordnung Nr. 40/94 und zur Aufhebung der Verordnung (EG) Nr. 2869/95 der Kommission über die an das Harmonisierungsamt für den Binnenmarkt (Marken, Muster und Modelle) zu entrichtenden Gebühren (ABl. 2015, L 341, S. 21) folgende Fassung, die nunmehr auf das Gebiet des EWR Bezug nimmt:
+
+„In die Liste der zugelassenen Vertreter kann jede natürliche Person eingetragen werden, die folgende Voraussetzungen erfüllt:
+
+a)
+
+Sie besitzt die Staatsangehörigkeit eines Mitgliedstaats des [EWR];
+
+b)
+
+sie hat ihren Geschäftssitz oder Arbeitsplatz im [EWR];
+
+c)
+
+sie ist befugt, natürliche oder juristische Personen auf dem Gebiet des Markenwesens vor dem Benelux-Amt für geistiges Eigentum oder vor der Zentralbehörde für den gewerblichen Rechtsschutz eines Mitgliedstaats des [EWR] zu vertreten. …“
+
+11
+
+Gemäß Art. 4 der Verordnung 2015/2424 traten diese Änderungen am 23. März 2016 in Kraft.
+
+Sachverhalt
+
+12
+
+Der Kläger, Herr Paul Rosenich, der die österreichische Staatsangehörigkeit besitzt, ist zur Vertretung vor dem Österreichischen Patentamt befugt und betreibt ein Patentbüro mit Geschäftssitz in Liechtenstein.
+
+13
+
+Am 17. Januar 2011 beantragte er, gemäß Art. 93 Abs. 2 der Verordnung Nr. 207/2009 in die Liste der beim Amt der Europäischen Union für geistiges Eigentum (EUIPO) zugelassenen Vertreter eingetragen zu werden.
+
+14
+
+Mit Entscheidung vom 7. September 2012 lehnte der Direktor der Hauptabteilung „Unterstützung des Kerngeschäfts“ des EUIPO in seiner Eigenschaft als Mitglied der Marken- und Musterverwaltungs- und Rechtsabteilung diesen Antrag mit der Begründung ab, der Kläger erfülle nicht die Voraussetzung eines Geschäftssitzes in der Union gemäß Art. 93 Abs. 2 Buchst. b der Verordnung Nr. 207/2009.
+
+15
+
+Am 7. November 2012 legte der Kläger gegen diese Entscheidung Beschwerde ein.
+
+16
+
+Mit Entscheidung vom 29. April 2014 (im Folgenden: angefochtene Entscheidung) wies die Vierte Beschwerdekammer die Beschwerde zurück.
+
+17
+
+Zur Begründung führte sie erstens aus, die These des Klägers, dass nach Art. 93 der Verordnung Nr. 207/2009 jeder, der einen Mandanten vor einem nationalen Amt vertreten dürfe, dies automatisch auch vor dem EUIPO dürfe, sei unzutreffend. Vielmehr biete die Vertretungsbefugnis vor einem nationalen Amt den Anknüpfungspunkt dafür, welche der Regelungen des Art. 93 Abs. 2 Buchst. c der Verordnung Nr. 207/2009 Anwendung finde.
+
+18
+
+Zweitens meinte die Beschwerdekammer, dass die Auffassung, wonach die geografische Bezugnahme auf die Union durch die geografische Bezugnahme auf einen Mitgliedstaat des EWR ersetzt werden müsse, im EWR-Abkommen selbst keine Stütze finde, weil die Verordnung Nr. 207/2009 nicht in dessen Anhang XVII genannt sei, womit auch das Protokoll 1 zum EWR-Abkommen über horizontale Anpassungen nicht auf die Verordnung anwendbar gewesen sei. In Anhang XVII sei zwar auf die Richtlinie 2008/95/EG des Europäischen Parlaments und des Rates vom 22. Oktober 2008 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Marken (ABl. 2008, L 299, S. 25) Bezug genommen worden, doch nur insoweit, als für die Zwecke des Grundsatzes der unionsweiten Erschöpfung des Markenrechts die Bezugnahme auf ein Inverkehrbringen in der Union durch die Bezugnahme auf ein Inverkehrbringen in einem EWR-Abkommensstaat ersetzt worden sei. Dies wirke sich entsprechend auf Art. 13 der Verordnung Nr. 207/2009 aus. Auch im Protokoll 28 zum EWR-Abkommen fänden sich keine Vorschriften von Belang für den vorliegenden Fall.
+
+19
+
+Drittens stellte die Beschwerdekammer zur Anwendung der im EWR-Recht vorgesehenen Bestimmungen über den freien Dienstleistungsverkehr fest, Dienstleistungen würden durch die streitige Regelung nicht beschränkt, weil die entgeltliche Beratung durch den Kläger von Liechtenstein aus gegenüber in der Union ansässigen Kunden durch Art. 93 der Verordnung Nr. 207/2009 nicht berührt werde. Der Kläger unterliege daher in der Ausübung seines patentanwaltlichen Berufs keinen Beschränkungen außer denen, die er sich selbst auferlegt habe. Art. 36 des EWR-Abkommens verweise auf besondere Bestimmungen über den freien Dienstleistungsverkehr in den Anhängen IX bis XI des EWR-Abkommens; das Recht zur Vertretung werde in diesen Bestimmungen nicht angesprochen.
+
+20
+
+Die Art. 92 und 93 der Verordnung Nr. 207/2009 stellten sicher, dass die Vertreter vor dem EUIPO eine gewisse Qualifikation besäßen und dass das EUIPO nur mit Verfahrensbeteiligten oder Vertretern kommuniziere, die eine Adresse in der Union aufwiesen.
+
+21
+
+Viertens erachtete die Beschwerdekammer Art. 4 des EWR-Abkommens, der eine Diskriminierung aufgrund der Staatsangehörigkeit verbietet, für im vorliegenden Fall nicht berührt, da der Kläger die Staatsangehörigkeit eines Mitgliedstaats der Union besitze und die Eintragung nicht aus diesem Grund abgelehnt worden sei.
+
+22
+
+Ergänzend hat die Beschwerdekammer darauf hingewiesen, dass das liechtensteinische Recht auf dem Gebiet des Rechts zur Vertretung keine Gegenseitigkeit gewähre, sondern vorsehe, dass ein ausländischer Inhaber einer beim Amt für Volkswirtschaft (Liechtenstein) angemeldeten Marke im Inland einen Rechtsanwalt oder einen Patentanwalt als Vertreter bestellen müsse.
+
+23
+
+Fünftens erläuterte die Beschwerdekammer, dass das EUIPO eine Vorschrift der Verordnung Nr. 207/2009 nicht deswegen verwerfen dürfe, weil sie mit einer höherrangigen Norm nicht im Einklang stehe. Eine solche Kompetenz stehe allein dem Gerichtshof zu. Auch eine Auslegung von Art. 93 Abs. 2 Buchst. c der Verordnung Nr. 207/2009 nach Sinn und Zweck höherrangiger Normen sei nicht möglich, da der Artikel klar und eindeutig formuliert sei.
+
+Verfahren und Anträge der Parteien
+
+24
+
+Der Kläger hat mit Klageschrift, die am 15. Juli 2014 bei der Kanzlei des Gerichts eingegangen ist, die vorliegende Klage erhoben.
+
+25
+
+Der Kläger beantragt,
+
+–
+
+die angefochtene Entscheidung aufzuheben;
+
+–
+
+die Entscheidung des Direktors der Hauptabteilung „Unterstützung des Kerngeschäfts“ des EUIPO vom 7. September 2012 aufzuheben;
+
+–
+
+dem EUIPO die Kosten einschließlich der Kosten des Verfahrens vor der Beschwerdekammer aufzuerlegen.
+
+26
+
+Das EUIPO beantragt,
+
+–
+
+die Klage abzuweisen;
+
+–
+
+dem Kläger die Kosten aufzuerlegen.
+
+27
+
+Am 20. November 2015 hat das Gericht (Fünfte Kammer) das EUIPO gebeten, ihm bestimmte Schriftstücke vorzulegen, die über das Verhältnis der Verordnungen Nrn. 40/94 und 207/2009 zum EWR-Abkommen und das Rechtsinstitut der zugelassenen Vertreter im Unionsmarkenrecht näheren Aufschluss geben könnten. Das EUIPO hat hierauf mit einem Schreiben vom 7. Dezember 2015 geantwortet, zu dem der Kläger seinerseits mit Schreiben vom 22. Dezember 2015 Stellung genommen hat.
+
+28
+
+Auf Vorschlag des Berichterstatters hat das Gericht beschlossen, das mündliche Verfahren zu eröffnen. In der Sitzung vom 14. Januar 2016 haben die Parteien mündlich verhandelt und Fragen des Gerichts beantwortet.
+
+29
+
+Die Parteien, die die Änderung von Art. 93 Abs. 2 Buchst. b der Verordnung Nr. 207/2009 (vgl. oben, Rn. 10 und 11) zur Kenntnis genommen haben, haben in der mündlichen Verhandlung erklärt, dass die Klage gegenstandslos würde, wenn der Kläger infolge des Inkrafttretens der Verordnung 2015/2424 in die Liste der zugelassenen Vertreter eingetragen würde.
+
+30
+
+Infolgedessen hat das Gericht das mündliche Verfahren nach der Verhandlung nicht abgeschlossen, sondern die Parteien ersucht, ihm bis zum 15. April 2016 mitzuteilen, ob der Kläger tatsächlich in diese Liste aufgenommen worden ist.
+
+31
+
+Der Kläger und das EUIPO haben mit Schreiben vom 14. und 15. April 2016 mitgeteilt, dass der Kläger noch nicht in die Liste der zugelassenen Vertreter eingetragen worden sei und sie das Gericht über einen möglichen Abschluss des Eintragungsverfahrens unterrichten würden.
+
+32
+
+Mit Schreiben vom 16. Juni 2016 hat das EUIPO dem Gericht mitgeteilt, dass der Kläger zum zweiten Mal aufgefordert worden sei, eine aktuelle Bescheinigung gemäß Art. 93 Abs. 3 der Verordnung Nr. 207/2009 vorzulegen, und er mangels Vorlage dieser Bescheinigung nicht in die Liste der zugelassenen Vertreter eingetragen werden könne.
+
+33
+
+Das Gericht hat dem Kläger für eine Stellungnahme zu diesem Schreiben eine Frist bis zum 24. August 2016 gesetzt.
+
+34
+
+Der Kläger hat dem Gericht mit Schreiben vom 24. August 2016 bestätigt, dass er noch nicht in die Liste eingetragen worden sei. Ferner hat er dem Gericht seinen Schriftwechsel mit dem EUIPO vorgelegt.
+
+35
+
+Das Gericht hat zur Kenntnis genommen, dass der Kläger nicht in die Liste der zugelassenen Vertreter aufgenommen worden ist, und daraufhin, weil ihm eine Beilegung des Rechtsstreits durch die Parteien unwahrscheinlich erschien, am 6. September 2016 das mündliche Verfahren abgeschlossen.
+
+Rechtliche Würdigung
+
+36
+
+Der Kläger macht einen einzigen Klagegrund geltend, mit dem er einen Verstoß gegen Art. 93 der Verordnung Nr. 207/2009 rügt, der seiner Ansicht nach im Licht des freien Dienstleistungsverkehrs auszulegen ist, den das EWR-Abkommen im EWR gewährleiste.
+
+37
+
+Der Kläger trägt vor, das EWR-Abkommen ziele insbesondere auf die weitestmögliche Verwirklichung des freien Dienstleistungsverkehrs, was nach der Rechtsprechung (vgl. Urteile vom 1. April 2004, Bellio F.lli, C‑286/02, EU:C:2004:212, Rn. 34 und 35 und die angeführte Rechtsprechung, und vom 28. Oktober 2010, Établissements Rimbaud, C‑72/09, EU:C:2010:645, Rn. 20 und die angeführte Rechtsprechung) in gleicher Weise auszulegen und anzuwenden sei wie die Gewährleistung des freien Dienstleistungsverkehrs zwischen den Mitgliedstaaten der Union. Der Gerichtshof habe jedoch im Hinblick auf die Beziehungen zwischen den Mitgliedstaaten der Union bereits entschieden, dass die Pflicht eines bereits in einem anderen Mitgliedstaat niedergelassenen und zugelassenen Patentanwalts, für die Erbringung von Dienstleistungen einen Wohnsitz oder eine berufliche Niederlassung im Aufnahmemitgliedstaat zu begründen, eine Beschränkung des freien Dienstleistungsverkehrs darstelle, die über das hinausgehe, was für die Erreichung von Zielen wie die Bestimmung des örtlich zuständigen Gerichts bei einer Beschwerde wegen eines im Aufnahmemitgliedstaat erteilten Patents und die Gewährleistung des ordnungsgemäßen Ablaufs des Verfahrens erforderlich sei (Urteile vom 13. Februar 2003, Kommission/Italien, C‑131/01, EU:C:2003:96, Rn. 42 bis 45, und vom 11. Juni 2009, Kommission/Österreich, C‑564/07, nicht veröffentlicht, EU:C:2009:364, Rn. 47 bis 53). Daher ergebe sich aus dem vom EWR-Abkommen gewährleisteten und als Recht individuell durchsetzbaren freien Dienstleistungsverkehr, dass von den Vertragsparteien des EWR-Abkommens angenommene Bestimmungen, die die freie Berufsausübung an einen Wohn- oder Geschäftssitz in der Union knüpften, entweder unwirksam oder so auszulegen seien, dass ein Geschäftssitz in einem Mitgliedstaat des EWR ausreiche.
+
+38
+
+Die aus dem EWR-Abkommen folgenden Verpflichtungen bänden nicht nur die Mitgliedstaaten der Union, sondern auch die Union selbst, deren Organe und Einrichtungen unmittelbar gehalten seien, die in diesem Abkommen verankerten Grundfreiheiten wie den freien Dienstleistungsverkehr anzuerkennen.
+
+39
+
+Nach Auffassung des Klägers wird dieses Ergebnis nicht dadurch in Frage gestellt, dass die Verordnung Nr. 207/2009 in den Instrumenten des EWR-Abkommens, namentlich im Protokoll 28 und in Anhang XVII, nicht ausdrücklich aufgeführt sei. Art. 1 Abs. 2 des Protokolls 28 des EWR-Abkommens, wonach die Vertragsparteien den Grundsätzen des freien Dienstleistungsverkehrs Rechnung tragen müssten, stehe dem Erfordernis eines Geschäftssitzes in der Union entgegen. Des Weiteren sei allgemein anerkannt, dass das erstmalige Inverkehrbringen in einem Mitgliedstaat des EWR zu einer Erschöpfung von Rechten innerhalb der Union führe.
+
+40
+
+Den Ausführungen des EUIPO hält der Kläger zunächst entgegen, dass nach liechtensteinischem Recht in einem Mitgliedstaat des EWR qualifizierte Patentanwälte bei Erfüllung bestimmter Formalien die Befugnis hätten, in Liechtenstein grenzüberschreitend beratend und vertretend tätig zu werden. Das liechtensteinische Recht entspreche insoweit durchaus der Verordnung Nr. 207/2009. Außerdem könnte auch bei fehlender Gegenseitigkeit die direkte Anwendung des EWR-Abkommens nicht in Frage gestellt werden.
+
+41
+
+Des Weiteren hält der Kläger das Vorbringen des EUIPO für neu und daher unzulässig, wonach die Verpflichtung zu einem Geschäftssitz im Unionsgebiet aus haftungsrechtlichen Gründen und zum Schutz der anderen Partei in zweiseitigen Verfahren gerechtfertigt sei. Auch wenn im Übrigen der etwaig verlangte Nachweis einer Berufshaftpflichtversicherung nicht gegen den freien Dienstleistungsverkehr verstoße – wobei das liechtensteinische Recht Vertretern den Abschluss einer solchen Versicherung vorschreibe –, könne dies jedoch das Erfordernis eines Geschäftssitzes in der Union nicht rechtfertigen.
+
+42
+
+Schließlich bestehe, da in einem Mitgliedstaat des EWR zugelassene Rechtsanwälte gemäß Art. 19 Abs. 4 der Satzung des Gerichtshofs der Europäischen Union vor dem Gerichtshof vertretungsberechtigt seien, kein Grund, warum bei der niederrangigen Vertretungsfrage vor dem EUIPO strengere Bestimmungen gelten sollten.
+
+43
+
+Das EUIPO trägt vor, dass der Kläger die Nichtanwendung von Art. 93 Abs. 2 Buchst. b der Verordnung Nr. 207/2009 wegen Verstoßes gegen höherrangiges Recht, nämlich das EWR-Abkommen, begehre. Das EUIPO sei jedoch, wie sich aus dem Urteil vom 12. Juli 2001, Kik/HABM (Kik) (T‑120/99, EU:T:2001:189, Rn. 55), ergebe, nicht zu der Entscheidung befugt, eine Norm entgegen ihrem eindeutigen Wortlaut nicht anzuwenden, ohne damit den Grundsatz der Rechtmäßigkeitsvermutung zu verletzen.
+
+44
+
+Keines der vom Kläger vorgebrachten Argumente belege, dass die geografische Bezugnahme auf die Union in Art. 93 der Verordnung Nr. 207/2009 als Bezugnahme auf den EWR umgedeutet werden müsse, da Anhang XVII des EWR-Abkommens diese Verordnung nicht als einen der Rechtsakte nenne, auf die das Protokoll 1 des Abkommens Anwendung finde.
+
+45
+
+Selbst wenn Art. 1 Abs. 2 des Protokolls 28 des EWR-Abkommens eine Verpflichtung der Union enthielte, ihre Rechtsvorschriften, insbesondere Art. 93 der Verordnung Nr. 207/2009, anzupassen, so lastete nach Ansicht des EUIPO diese Verpflichtung nicht auf dem EUIPO, sondern auf der Überwachungsbehörde der Europäischen Freihandelsassoziation (EFTA) oder auf der Europäischen Kommission.
+
+46
+
+Auch wenn das Erfordernis eines Geschäftssitzes innerhalb der Union für zugelassene Vertreter als Beschränkung des freien Dienstleistungsverkehrs im EWR anzusehen sein sollte, wäre diese Beschränkung nach Ansicht des EUIPO aus haftungsrechtlichen Gründen und zum Schutz der anderen Partei in zweiseitigen Verfahren gerechtfertigt.
+
+47
+
+Das EUIPO meint ferner, bei den Ausführungen des Klägers in der Erwiderung zur Gegenseitigkeit nach liechtensteinischem Recht handele es sich um neues und mithin unzulässiges Vorbringen. Von einer Gegenseitigkeit könne jedenfalls nicht ausgegangen werden, da das liechtensteinische Recht lediglich eine „vorübergehende“ und „grenzüberschreitende“ Ausübung der Tätigkeit durch Patentanwälte vorsehe, während die Verordnung Nr. 207/2009 eine dauerhafte Vertretungsbefugnis regele, die in dem Mitgliedstaat ausgeübt werde, in dem der Vertreter seinen Geschäftssitz habe. Das EUIPO stellt jedoch klar, dass mit der in Rn. 18 der angefochtenen Entscheidung erfolgten Bezugnahme auf die Rechtslage in Liechtenstein nur die Tatsache veranschaulicht werden sollte, dass der liechtensteinische Gesetzgeber die Rechtslage nicht anders als der Unionsgesetzgeber bewerte.
+
+48
+
+Hierzu ist festzustellen, dass der Kläger, obwohl die Verordnung Nr. 207/2009 den Hinweis „Text von Bedeutung für den EWR“ enthält, nicht bestreitet, dass weder das EWR-Abkommen noch seine Protokolle oder Anhänge auf die Verordnung Bezug nehmen.
+
+49
+
+Somit ist gemäß Art. 2 Buchst. a des EWR-Abkommens, wonach dieses Abkommen durch „das Hauptabkommen, die Protokolle und Anhänge dazu sowie die Rechtsakte, auf die darin verwiesen wird“, gebildet wird, die Verordnung Nr. 207/2009 nicht Teil des EWR-Abkommens.
+
+50
+
+Die Beschwerdekammer hat demnach zu Recht festgestellt, dass hier nicht Nr. 8 des Protokolls 1 zum EWR-Abkommen, auf das dessen Anhang XVII verweist, anwendbar ist, nach der dann, wenn „Rechtsakte, auf die Bezug genommen wird, Bezugnahmen auf das Gebiet der ‚[Union]‘ oder auf den ‚Gemeinsamen Markt‘ [enthalten], … diese Bezugnahmen im Sinne des Abkommens als Bezugnahmen auf die Hoheitsgebiete der Vertragsparteien im Sinne des Art. 126 des Abkommens“ gelten.
+
+51
+
+Jedoch argumentiert der Kläger im Wesentlichen dahin, dass die angefochtene Entscheidung Art. 93 Abs. 2 Buchst. b der Verordnung Nr. 207/2009 widerspreche, der seiner Ansicht nach im Licht des im EWR-Abkommen gewährleisteten freien Dienstleistungsverkehrs hätte ausgelegt und angewendet werden müssen. Sei eine solche mit dem Abkommen im Einklang stehende Auslegung nicht möglich, hätte nach Ansicht des Klägers das in dieser Bestimmung vorgesehene streitige Erfordernis einer Niederlassung in der Union zugunsten einer unmittelbaren Anwendung des Grundsatzes des freien Dienstleistungsverkehrs im EWR als rechtswidrig verworfen werden müssen. Aus diesem Grundsatz ergebe sich, dass es in diesem Bereich keine Beschränkungen oder gar Diskriminierungen von Personen geben dürfe, die zwar außerhalb des Unionsgebiets, jedoch in einem zum EWR gehörenden EFTA-Staat wie Liechtenstein niedergelassen seien. Der Kläger erhebt somit eine Einrede der Rechtswidrigkeit gemäß Art. 277 AEUV.
+
+52
+
+Aus Art. 216 Abs. 2 AEUV geht hervor, dass die von der Union geschlossenen internationalen Übereinkünfte die Organe der Union und die Mitgliedstaaten binden.
+
+53
+
+Nach ständiger Rechtsprechung bilden die Bestimmungen solcher Übereinkünfte ab dem Zeitpunkt ihres Inkrafttretens einen integrierenden Bestandteil der Unionsrechtsordnung (Urteile vom 30. April 1974, Haegeman, 181/73, EU:C:1974:41, Rn. 5, vom 21. Dezember 2011, Air Transport Association of America u. a, C‑366/10, EU:C:2011:864, Rn. 73 und 79, und vom 18. März 2014, Z., C‑363/12, EU:C:2014:159, Rn. 73).
+
+54
+
+Der Gerichtshof hat insoweit bereits klargestellt, dass es der Vorrang der von der Union geschlossenen völkerrechtlichen Verträge vor den Bestimmungen des abgeleiteten Unionsrechts gebietet, diese nach Möglichkeit in Übereinstimmung mit diesen Verträgen auszulegen (Urteil vom 10. September 1996, Kommission/Deutschland, C‑61/94, EU:C:1996:313, Rn. 52).
+
+55
+
+Aus einer ständigen Rechtsprechung ergibt sich ferner, dass die Bestimmungen eines solchen Abkommens unmittelbare Wirkung entfalten können, wenn sie inhaltlich unbedingt und hinreichend genau sind (vgl. in diesem Sinne Urteile vom 5. Februar 1976, Conceria Bresciani, 87/75, EU:C:1976:18, Rn. 25, und vom 26. Oktober 1982, Kupferberg, 104/81, EU:C:1982:362, Rn. 23). Jedoch kann der Unionsrichter die behauptete Unvereinbarkeit eines Unionsrechtsakts mit den Bestimmungen einer solchen Übereinkunft nur prüfen, wenn die Art und Struktur der Übereinkunft dem nicht entgegenstehen (vgl. in diesem Sinne Urteil vom 16. Juli 2015, ClientEarth/Kommission, C‑612/13 P, EU:C:2015:486, Rn. 35 sowie die dort angeführte Rechtsprechung).
+
+56
+
+Hinsichtlich des EWR-Abkommens hat der Unionsrichter bereits bestätigt, dass seine Bestimmungen, auch im Verhältnis zu Liechtenstein, einen integrierenden Bestandteil der Unionsrechtsordnung bilden (vgl. in diesem Sinne Urteile vom 28. Oktober 2010, Établissements Rimbaud, C‑72/09, EU:C:2010:645, Rn. 13 und 19, und vom 22. Januar 1997, Opel Austria/Rat, T‑115/94, EU:T:1997:3, Rn. 101).
+
+57
+
+Das EWR-Abkommen bezweckt gemäß dem fünften Absatz seiner Präambel u. a. die weitestmögliche Verwirklichung der Freizügigkeit und des freien Waren‑, Dienstleistungs‑ und Kapitalverkehrs im gesamten EWR, so dass der innerhalb des Unionsgebiets verwirklichte Binnenmarkt auf die EFTA-Staaten ausgeweitet wird (vgl. Urteil vom 28. Oktober 2010, Établissements Rimbaud, C‑72/09, EU:C:2010:645, Rn. 20 und die dort angeführte Rechtsprechung; Urteil vom 26. September 2013, Vereinigtes Königreich/Rat, C‑431/11, EU:C:2013:589, Rn. 50).
+
+58
+
+Dabei gleichen die Regeln, die in den Beziehungen zwischen den Vertragsparteien auf den von dem EWR-Abkommen abgedeckten Gebieten anwendbar sind, im Wesentlichen denen der entsprechenden Bestimmungen des AEU-Vertrags und der aufgrund dieses Vertrags erlassenen Rechtsakte (vgl. in diesem Sinne Urteil vom 22. Januar 1997, Opel Austria/Rat, T‑115/94, EU:T:1997:3, Rn. 107).
+
+59
+
+Im Hinblick darauf dienen mehrere Bestimmungen des EWR-Abkommens dazu, seine möglichst einheitliche Auslegung im gesamten EWR sicherzustellen. In diesem Rahmen ist es Sache des Unionsrichters, darüber zu wachen, dass die Vorschriften des EWR-Abkommens, die im Wesentlichen mit denen des AEU-Vertrags identisch sind, innerhalb der Unionsrechtsordnung einheitlich ausgelegt werden (vgl. in diesem Sinne Urteile vom 28. Oktober 2010, Établissements Rimbaud, C‑72/09, EU:C:2010:645, Rn. 20 und die dort angeführte Rechtsprechung, und vom 22. Januar 1997, Opel Austria/Rat, T‑115/94, EU:T:1997:3, Rn. 106 bis 108).
+
+60
+
+Vorliegend möchte der Kläger, während er weiterhin in Liechtenstein ansässig bleibt, seine Dienstleistungen als zugelassener Vertreter vor dem EUIPO anbieten. Aus der Rechtsprechung des Gerichtshofs ergibt sich, dass eine solche Tätigkeit in den Geltungsbereich des freien Dienstleistungsverkehrs nach dem EWR-Abkommen fallen kann (vgl. in diesem Sinne Urteil vom 13. Februar 2003, Kommission/Italien, C‑131/01, EU:C:2003:96, Rn. 21 bis 25).
+
+61
+
+Jedoch wurde bereits entschieden, dass die Bestimmungen in Art. 36 Abs. 1 des EWR-Abkommens, die Beschränkungen des freien Dienstleistungsverkehrs verbieten, die gleiche rechtliche Tragweite wie die in Art. 56 AEUV haben. So hat der Gerichtshof klargestellt, dass auf diesem Gebiet die durch das EWR-Abkommen und den AEU-Vertrag geschaffenen Vorschriften einheitlich auszulegen sind (Urteile vom 5. Juli 2007, Kommission/Belgien, C–522/04, EU:C:2007/405, Rn. 45 und 46, und vom 6. Oktober 2009, Kommission/Spanien, C‑153/08, EU:C:2009:618, Rn. 48).
+
+62
+
+Der Gerichtshof hat diesen Grundsatz jedoch durch den Hinweis nuanciert, dass die Unionsrechtsprechung zu Beschränkungen der Ausübung der Verkehrsfreiheiten innerhalb der Union nicht in vollem Umfang auf die vom EWR-Abkommen garantierten Freiheiten übertragen werden kann, da sich deren Ausübung in einen anderen rechtlichen Rahmen einfügt (vgl. Urteil vom 18. Juli 2013, Kommission/Dänemark, C‑261/11, nicht veröffentlicht, EU:C:2013:480, Rn. 44 und die dort angeführte Rechtsprechung).
+
+63
+
+Allerdings genügt in der vorliegenden Rechtssache die Feststellung, dass weder die Beschwerdekammer noch das EUIPO behauptet oder gar belegt haben, dass die Ausübung des freien Dienstleistungsverkehrs auf dem Gebiet der Vertretung vor den Ämtern für geistiges Eigentum vorliegend einen unterschiedlichen rechtlichen Kontext aufwiese, was zur Folge hätte, dass die maßgebliche Unionsrechtsprechung zu Beschränkungen des freien Dienstleistungsverkehrs in der Union nicht in vollem Umfang auf die gleiche durch das EWR-Abkommen garantierte Freiheit übertragen werden könnte (vgl. in diesem Sinne Urteil vom 16. April 2015, Kommission/Deutschland, C‑591/13, EU:C:2015:230, Rn. 82).
+
+64
+
+Somit ist zu prüfen, ob die Voraussetzung eines Geschäftssitzes in der Union nach Art. 93 Abs. 2 Buchst. b der Verordnung Nr. 207/2009 in der von der Beschwerdekammer vorgenommenen Auslegung, wonach sich der Begriff „Gemeinschaft“ nicht auf den EWR beziehen kann, mit Art. 36 Abs. 1 des EWR-Abkommens vereinbar ist, der den freien Dienstleistungsverkehr auf der Ebene des EWR gewährleistet.
+
+65
+
+In diesem Rahmen hat der Gerichtshof wiederholt entschieden, dass Art. 56 AEUV, der ebenso wie Art. 36 Abs. 1 des EWR-Abkommens den freien Dienstleistungsverkehr garantiert, hinreichend genau und inhaltlich unbedingt ist, so dass er unmittelbare Wirkung entfaltet (Urteile vom 3. Dezember 1974, van Binsbergen, 33/74, EU:C:1974:131, Rn. 27, und vom 14. Juli 1976, Donà, 13/76, EU:C:1976:115, Rn. 20). Was die Art und Struktur des EWR-Abkommens angeht, so haben weder die Beschwerdekammer noch das EUIPO Gesichtspunkte angeführt, die dagegen sprächen, dass sich der Einzelne unmittelbar auf das Abkommen berufen kann. Vielmehr folgt diese Möglichkeit aus dem achten Absatz der Präambel des EWR-Abkommens, der die wichtige Rolle hervorhebt, die der Einzelne im EWR durch die Ausübung der ihm durch das Abkommen verliehenen Rechte und durch die gerichtliche Geltendmachung dieser Rechte spielt. Des Weiteren ist zu beachten, dass der Gerichtshof schon früher die Vereinbarkeit eines Unionsakts mit dem EWR-Abkommen überprüft hat (Urteil vom 1. April 2004, Bellio F.lli, C‑286/02, EU:C:2004:212, Rn. 57 bis 63).
+
+66
+
+Art. 56 AEUV verlangt nicht nur die Beseitigung jeder Diskriminierung des in einem anderen Mitgliedstaat ansässigen Dienstleistenden aufgrund seiner Staatsangehörigkeit, sondern auch die Aufhebung aller Beschränkungen – selbst wenn sie unterschiedslos für inländische Dienstleistende wie für solche aus anderen Mitgliedstaaten gelten –, sofern sie geeignet sind, die Tätigkeiten des Dienstleistenden, der in einem anderen Mitgliedstaat ansässig ist und dort rechtmäßig ähnliche Dienstleistungen erbringt, zu unterbinden, zu behindern oder weniger attraktiv zu machen (vgl. Urteil vom 17. März 2011, Peñarroja Fa, C‑372/09 und C‑373/09, EU:C:2011:156, Rn. 50 und die dort angeführte Rechtsprechung).
+
+67
+
+Aus der Rechtsprechung des Gerichtshofs geht hervor, dass die Pflicht eines bereits beim Patentamt eines anderen Mitgliedstaats zugelassenen Patentanwalts, der Dienstleistungen erbringen möchte, eine berufliche Niederlassung im Aufnahmemitgliedstaat zu begründen oder einen Zustellungsbevollmächtigten zu benennen, eine Beschränkung des freien Dienstleistungsverkehrs darstellt (vgl. in diesem Sinne Urteil vom 13. Februar 2003, Kommission/Italien, C‑131/01, EU:C:2003:96, Rn. 42 und die dort angeführte Rechtsprechung; Urteil vom 11. Juni 2009, Kommission/Österreich, C‑564/07, nicht veröffentlicht, EU:C:2009:364, Rn. 47).
+
+68
+
+Die in Art. 93 Abs. 2 Buchst. b der Verordnung Nr. 207/2009 genannte Voraussetzung in der von der Beschwerdekammer vorgenommenen Auslegung stellt daher eine Beschränkung des freien Dienstleistungsverkehrs innerhalb des EWR dar.
+
+69
+
+Jedoch ergibt sich aus der Rechtsprechung des Gerichtshofs auch, dass nationale Maßnahmen, die die Ausübung der durch den AEU-Vertrag garantierten Grundfreiheiten behindern oder weniger attraktiv machen können, mit diesem vereinbar sind, wenn sie vier Voraussetzungen erfüllen. So müssen sie in nicht diskriminierender Weise angewandt werden, sie müssen aus zwingenden Gründen des Allgemeininteresses gerechtfertigt sein, sie müssen geeignet sein, die Verwirklichung des mit ihnen verfolgten Zieles zu gewährleisten, und sie dürfen nicht über das hinausgehen, was zur Erreichung dieses Ziels erforderlich ist (Urteile vom 30. November 1995, Gebhard, C–55/94, EU:C:1995:411, Rn. 37, und vom 11. Juni 2009, Kommission/Österreich, C‑564/07, nicht veröffentlicht, EU:C:2009:364, Rn. 31).
+
+70
+
+Erstens hat die Beschwerdekammer in Rn. 16 der angefochtenen Entscheidung ausgeführt, dass Art. 93 der Verordnung Nr. 207/2009 einerseits sicherstelle, dass Personen, die geschäftsmäßig Dritte vor dem EUIPO vertreten, eine – nach Mitgliedstaat unterschiedlich definierte – berufliche Qualifikation besitzen. Er stelle andererseits in der Zusammenschau mit Art. 92 der Verordnung sicher, dass das EUIPO nur mit Verfahrensbeteiligten oder Vertretern kommunizieren müsse, die eine Adresse innerhalb der Union aufwiesen. Diese Voraussetzung vermöge der Kläger mit Geschäftssitz in Liechtenstein nicht zu erfüllen.
+
+71
+
+Hinsichtlich des erstgenannten Ziels einer Qualifikationsgarantie hat das EUIPO indessen nicht erläutert, inwiefern ein Geschäftssitz innerhalb der Union eine bessere Qualifikation sicherstellen könnte als ein Geschäftssitz in einem zum EWR gehörenden EFTA-Staat. Zudem ist festzustellen, dass es zur Erreichung dieses Ziels eine weniger einschränkende Maßnahme als die hier streitige gibt, nämlich das Erfordernis, die berufliche Qualifikation nachzuweisen.
+
+72
+
+Das zweitgenannte Ziel lässt sich der Notwendigkeit zuordnen, einen ordnungsgemäßen Verfahrensablauf zu gewährleisten. Damit ließe es sich als ein zwingender Grund des Allgemeininteresses anführen, der eine Beschränkung des freien Dienstleistungsverkehrs rechtfertigen kann (vgl. in diesem Sinne Urteil vom 11. Juni 2009, Kommission/Österreich, C‑564/07, nicht veröffentlicht, EU:C:2009:364, Rn. 49 und die dort angeführte Rechtsprechung).
+
+73
+
+Jedoch geht das Erfordernis eines Geschäftssitzes im Unionsgebiet, das Art. 93 Abs. 2 Buchst. b der Verordnung Nr. 207/2009 in seiner Auslegung durch die Beschwerdekammer vorsieht, über das zur Erreichung dieses Ziels Erforderliche hinaus. Dazu genügt die Feststellung, dass zugelassene Vertreter mit den heutigen elektronischen Kommunikationsmitteln mit dem EUIPO in geeigneter Weise kommunizieren können. So stehen ihnen verschiedene technische Mittel wie Telefax, E‑Mails und sogar Online-Angebote wie E-Filing für einen verlässlichen Austausch von Dokumenten mit dem EUIPO zur Verfügung.
+
+74
+
+Zweitens hat das EUIPO schriftlich vorgetragen, das Erfordernis eines Geschäftssitzes innerhalb der Union sei im Interesse der Rechtspflege, nämlich aus haftungsrechtlichen Gründen und zum Schutz der anderen Partei in zweiseitigen Verfahren, gerechtfertigt.
+
+75
+
+Dieses Vorbringen ist zurückzuweisen.
+
+76
+
+Denn zum einen hat das EUIPO hinsichtlich des haftungsrechtlichen Aspekts lediglich auf die Rn. 22 ff. des Urteils vom 11. Juni 2009, Kommission/Österreich (C‑564/07, nicht veröffentlicht, EU:C:2009:364), verwiesen, die die Verpflichtung zum Abschluss einer Berufshaftpflichtversicherung betreffen. Das Geschäftssitzerfordernis allein vermag aber nicht sicherzustellen, dass ein zugelassener Vertreter über eine ausreichende Berufshaftpflichtversicherung verfügt. Im Übrigen hat das EUIPO weder behauptet noch gar belegt, dass in allen Mitgliedstaaten der Union eine Pflicht zum Abschluss einer Haftpflichtversicherung bestünde, hingegen in bestimmten EFTA-Staaten des EWR nicht. Überdies hätte der Unionsgesetzgeber, wäre eine obligatorische Haftpflichtversicherung zugelassener Vertreter sein Ziel gewesen, eine den freien Dienstleistungsverkehr weniger einschränkende Maßnahmen, wie etwa eine explizite Verpflichtung jedes zugelassenen Vertreters zum Abschluss einer auch seine Dienstleistungen vor dem EUIPO abdeckenden Haftpflichtversicherung, ergreifen können.
+
+77
+
+Zum anderen hat das EUIPO nicht dargelegt, inwiefern die Niederlassung eines zugelassenen Vertreters in einem Mitgliedstaat der Union statt in einem zum EWR gehörenden EFTA-Staat wie Liechtenstein der anderen Partei in zweiseitigen Verfahren größeren Schutz böte.
+
+78
+
+Somit haben weder die Beschwerdekammer noch das EUIPO zwingende Gründe des Allgemeininteresses angeführt, die die oben in Rn. 68 festgestellte Beschränkung des freien Dienstleistungsverkehrs rechtfertigen könnten. Damit ist festzustellen, dass das Erfordernis eines Geschäftssitzes in der Union gemäß Art. 93 Abs. 2 Buchst. b. der Verordnung Nr. 207/2009 in seiner von der Beschwerdekammer vorgenommenen Auslegung gegen Art. 36 Abs. 1 des EWR-Abkommens verstößt.
+
+79
+
+Die Beschwerdekammer hat zudem, wie auch das EUIPO, ausgeführt, dass Liechtenstein in diesem Bereich keine Gegenseitigkeit gewähre. Jedoch haben weder die Beschwerdekammer noch das EUIPO dargelegt, dass die Eintragung in das Register der beim liechtensteinischen Amt für Volkswirtschaft (Fachbereich Immaterialgüterrecht) zugelassenen Vertreter von einem Geschäftssitz des Betreffenden in Liechtenstein abhinge. Das Vorbringen der Parteien drehte sich vielmehr um die Frage, ob und inwiefern ein in einem Mitgliedstaat der Union zugelassener Vertreter einen Mandanten vor dem Amt für Volkswirtschaft vertreten dürfte. Zudem waren weder die Beschwerdekammer noch das EUIPO der Auffassung, dass diese angeblich fehlende Gegenseitigkeit die fragliche Beschränkung des freien Dienstleistungsverkehrs rechtfertigen könnte. Aus Sicht des EUIPO sollte dieses Argument nur veranschaulichen, dass der liechtensteinische Gesetzgeber die Rechtslage nicht anders bewerte als der Unionsgesetzgeber. Schließlich genügt jedenfalls der Hinweis darauf, dass sich nach der Rechtsprechung des Gerichtshofs (vgl. Urteil vom 13. Februar 2003, Kommission/Italien, C‑131/01, EU:C:2003:96, Rn. 46 sowie die dort angeführte Rechtsprechung) ein Mitgliedstaat nicht auf die Nichtbeachtung des Grundsatzes der Gegenseitigkeit berufen oder eine mögliche Missachtung des Vertrags durch einen anderen Mitgliedstaat geltend machen kann, um eine eigene Vertragsverletzung zu rechtfertigen. Das EUIPO hat keinen rechtlichen oder tatsächlichen Grund benannt, aus dem die Rechtsprechung auf dem Gebiet der im EWR-Abkommen gewährleisteten Verkehrsfreiheiten hier keine Geltung hätte. Außerdem widerspräche eine Anwendung des Grundsatzes der Gegenseitigkeit den besonderen Verfahrenswegen des Überwachungsverfahrens und der Streitbeilegung gemäß den Art. 109 und 111 des EWR-Abkommens.
+
+80
+
+Drittens haben die Beschwerdekammer und das EUIPO darauf verwiesen, dass das EUIPO nicht befugt sei, die Voraussetzung des Geschäftssitzes gemäß Art. 93 Abs. 2 Buchst. b der Verordnung Nr. 207/2009 außer Anwendung zu lassen.
+
+81
+
+Hierzu genügt die Feststellung, dass es, wie sich aus der oben in Rn. 54 angeführten Rechtsprechung ergibt, der Vorrang der von der Union geschlossenen völkerrechtlichen Verträge, wie dem EWR-Abkommen, vor den Bestimmungen des abgeleiteten Unionsrechts gebietet, diese nach Möglichkeit in Übereinstimmung mit diesen Verträgen auszulegen.
+
+82
+
+Somit oblag es dem EUIPO, die streitige Voraussetzung im Einklang mit den Verpflichtungen aus dem EWR-Abkommen auszulegen und anzuwenden, ohne dass es jedoch notwendig gewesen wäre, sie zu verwerfen.
+
+83
+
+Zwar trifft es zu, dass die mit höherrangigem Recht konforme Auslegung des abgeleiteten Unionsrechts nicht als Grundlage für seine Auslegung contra legem dienen darf (vgl. Beschluss vom 17. Juli 2015, EEB/Kommission, T‑685/14, nicht veröffentlicht, EU:T:2015:560, Rn. 31 und die dort angeführte Rechtsprechung). Dies ist hier jedoch nicht der Fall.
+
+84
+
+Weder aus der Verordnung Nr. 207/2009 in ihrer vor dem Inkrafttreten der Verordnung 2015/2424 geltenden Fassung noch aus den vom EUIPO aufgezeigten tatsächlichen und rechtlichen Umständen ergibt sich nämlich, dass der Unionsgesetzgeber speziell den Willen gehabt hätte, Personen mit Geschäftssitz in einem zum EWR gehörenden EFTA-Staat wie Liechtenstein vom Zugang zur Liste der zugelassenen Vertreter auszuschließen.
+
+85
+
+Wie die Beschwerdekammer im Wesentlichen ausgeführt hat, bestand die Absicht des Unionsgesetzgebers vielmehr darin, eine gewisse Qualität und Verlässlichkeit in der Kommunikation zwischen dem EUIPO und den Verfahrensbeteiligten sicherzustellen. Wie oben in Rn. 73 festgestellt, erfordert ein solches Ziel jedoch nicht notwendig einen Geschäftssitz des Vertreters im Unionsgebiet.
+
+86
+
+Diese Auslegung wird durch die Verordnung 2015/2424 bestätigt, durch die die Verweise auf das Unionsgebiet insbesondere hinsichtlich der Eintragungsvoraussetzungen für die Liste zugelassener Vertreter gemäß Art. 93 der Verordnung Nr. 207/2009 durch Verweise auf das Gebiet des EWR ersetzt wurden. Obwohl es um eine Änderung geht, die in der Praxis eine erhebliche Auswirkung hat, ist nicht ersichtlich, dass ihr der Wille zugrunde gelegen hätte, die Politik gegenüber den zum EWR gehörenden EFTA-Staaten zu ändern. Zum einen war nämlich diese Änderung im Verordnungsvorschlag COM(2013) 161 final der Kommission vom 27. März 2013 nicht enthalten und ist erst später in das Rechtsetzungsverfahren eingeführt worden. Zum anderen hat der Gesetzgeber diesen Aspekt in den Erwägungsgründen der Verordnung 2015/2424 nicht erläutert. Somit ist diese Änderung als eine technische Anpassung anzusehen, die kein anderes Ziel hatte, als das abgeleitete Unionsrecht mit den Verpflichtungen aus dem EWR-Abkommen in Übereinstimmung zu bringen.
+
+87
+
+Daraus folgt, dass der einzige Klagegrund durchgreift, so dass die angefochtene Entscheidung aufzuheben ist.
+
+88
+
+Der zweite Antrag des Klägers ist darauf gerichtet, dass die Entscheidung des Direktors der Hauptabteilung „Unterstützung des Kerngeschäfts“ des EUIPO vom 7. September 2012 aufgehoben wird. Mit diesem Antrag wird im Wesentlichen begehrt, dass das Gericht die Entscheidung erlässt, die nach Ansicht des Klägers die Beschwerdekammer hätte treffen müssen. Folglich beantragt der Kläger eine Abänderung der angefochtenen Entscheidung gemäß Art. 65 Abs. 3 der Verordnung Nr. 207/2009.
+
+89
+
+Insoweit ist zu beachten, dass das Gericht durch die ihm nach Art. 65 Abs. 3 der Verordnung Nr. 207/2009 zustehende Abänderungsbefugnis nicht dazu ermächtigt wird, eine Frage zu beurteilen, zu der die Beschwerdekammer noch nicht Stellung genommen hat. Die Ausübung der Abänderungsbefugnis ist folglich grundsätzlich auf Situationen zu beschränken, in denen das Gericht nach einer Überprüfung der von der Beschwerdekammer vorgenommenen Beurteilung auf der Grundlage der erwiesenen tatsächlichen und rechtlichen Umstände die Entscheidung zu finden vermag, die die Beschwerdekammer hätte erlassen müssen (Urteil vom 5. Juli 2011, Edwin/HABM, C‑263/09 P, EU:C:2011:452, Rn. 72).
+
+90
+
+Vorliegend sind die Voraussetzungen für die Ausübung der Abänderungsbefugnis des Gerichts erfüllt. Wie aus Rn. 2 der angefochtenen Entscheidung hervorgeht, beruhte die Ablehnung durch den Direktor der Hauptabteilung „Unterstützung des Kerngeschäfts“ des EUIPO darauf, dass der Kläger die in Art. 93 Abs. 2 Buchst. b der Verordnung Nr. 207/2009 vorgeschriebene Voraussetzung nicht erfüllt habe. Aus den oben in den Rn. 36 bis 87 angeführten Erwägungen ergibt sich jedoch, dass die Beschwerdekammer entgegen der Rechtsauffassung des Direktors der Hauptabteilung „Unterstützung des Kerngeschäfts“ des EUIPO hätte entscheiden müssen, dass diese Bestimmung der Eintragung des Klägers in die Liste der zugelassenen Vertreter nicht entgegenstand. Somit ist im Wege einer Abänderung der angefochtenen Entscheidung die Entscheidung des Direktors der Hauptabteilung „Unterstützung des Kerngeschäfts“ des EUIPO ebenfalls aufzuheben.
+
+Kosten
+
+91
+
+Nach Art. 134 Abs. 1 der Verfahrensordnung des Gerichts ist die unterliegende Partei auf Antrag zur Tragung der Kosten zu verurteilen.
+
+92
+
+Gemäß Art. 190 Abs. 2 der Verfahrensordnung gelten die Aufwendungen der Parteien, die für das Verfahren vor der Beschwerdekammer des EUIPO notwendig waren, als erstattungsfähige Kosten.
+
+93
+
+Da das EUIPO unterlegen ist, sind ihm gemäß dem Antrag des Klägers die Kosten einschließlich der im Verfahren vor der Beschwerdekammer angefallenen Kosten aufzuerlegen.
+
+ 	
+Aus diesen Gründen hat
+
+DAS GERICHT (Fünfte Kammer)
+
+für Recht erkannt und entschieden:
+
+ 	
+1.
+
+Die Entscheidung der Vierten Beschwerdekammer des Amts der Europäischen Union für geistiges Eigentum (EUIPO) vom 29. April 2014 (Sache R 2063/2012-4) wird aufgehoben.
+
+ 	
+2.
+
+Die Entscheidung des Direktors der Hauptabteilung „Unterstützung des Kerngeschäfts“ des EUIPO vom 7. September 2012 wird aufgehoben.
+
+ 	
+3.
+
+Das EUIPO trägt die Kosten.
+
+ 	
+Dittrich
+
+Schwarcz
+
+Tomljenović
+
+Verkündet in öffentlicher Sitzung in Luxemburg am 13. Juli 2017.
+
+Der Kanzler
+
+E. Coulon
+
+Die Präsidentin
+
+I. Labucka
+
+( *1 )	Verfahrenssprache: Deutsch
