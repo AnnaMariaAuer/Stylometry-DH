@@ -238,13 +238,13 @@ def count_words():
 
 
 if __name__ == "__main__":
-    # make_txt_to_category("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter/Social security for migrant workers", "social_security_for_migrant_workers", "/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter")
-    # get_all_txt_of_category("/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_subject_matter", "subject_matter")
-    # remove_punctuation_numbers(r"/Users/Anna/PycharmProjects/Stylometry-DH/Arbeitskorpus_Countries_ordered/United Kingdom", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-punct-numb/countries")
-    # make_corpus_without_stopwords(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-punct-numb/subject-matter", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-stopword/subject-matter")
-    # get_top_n_words(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-without-stopword/subject-matter", r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-mfw-without-stopwords/subject-matter", 50)
-    # add_POS_tagging("corpus-without-stopword/subject-matter","corpus-without-stopword/subject-matter/pos")
-    get_all_txt_files(r"/Users/Anna/PycharmProjects/Stylometry-DH/corpus-unaltered")
+    make_txt_to_category()
+    get_all_txt_of_category()
+    remove_punctuation_numbers()
+    make_corpus_without_stopwords()
+    get_top_n_words()
+    add_POS_tagging()
+    get_all_txt_files()
     count_words()
 
 
