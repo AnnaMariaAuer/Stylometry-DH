@@ -3,12 +3,12 @@ from pandas import DataFrame
 from nltk.probability import FreqDist
 from nltk import word_tokenize
 import numpy as np
+from scipy.cluster.hierarchy import linkage, dendrogram
 import sys
 import math
 from collections import Counter
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity, euclidean_distances, manhattan_distances
-from scipy.cluster.hierarchy import linkage, dendrogram
 import matplotlib.pyplot as plot
 
 
@@ -27,7 +27,7 @@ class Stylometry():
         self.ngram_range_max = 2
         self.hcaAlgorithm = 'ward'
         self.cull_percentage = 0
-        self.delta = "Quadratic"
+        self.delta = "Burrow's"
         self.document_contents = []
         self.document_titles = []
 
@@ -46,7 +46,6 @@ class Stylometry():
                         label = file.name.split(".")[0]
                         f = open(os.path.join("", file), 'r', encoding="utf8")
                         self.document_contents.append(f.read().lower())
-
                         self.document_titles.append(label)
                         f.close()
                     self.start_application()
@@ -106,19 +105,11 @@ class Stylometry():
         # in the method preprocess_culling
         culled_document_contents = self.document_contents.copy()
         try:
-            print("----------------------------------------------------")
-            print(self.MFW)
-
             # get file with culling words
             culling_list_file = open(os.path.join("culling_preprocessing", "culled_words_" + str(self.cull_percentage) +  "_"  +  self.corpus_type + "_" + self.corpus_category +".txt")
 ,  'r', encoding="utf8")
             # split file along lines
             culling_list = culling_list_file.read().splitlines()
-
-            # testing: word amount needs to be higher than after culling --> successful
-            davor = nltk.word_tokenize(culled_document_contents[0])
-            davor1 = nltk.word_tokenize(culled_document_contents[1])
-            #print(len(culling_list))
 
             # iteratate over each word in the culling list and remove it from all documents
             for word in culling_list:
@@ -127,11 +118,6 @@ class Stylometry():
                     culled_document_contents[i] = culled_document_contents[i].replace(word, "")
             culling_list_file.close()
 
-            # testing cf. above
-            danach = nltk.word_tokenize(culled_document_contents[0])
-            danach1 = nltk.word_tokenize(culled_document_contents[1])
-            print(str(len(davor)) + " - " + str(len(danach)))
-            #print(str(len(davor1)) + " - " + str(len(danach1)))
         except FileNotFoundError:
             print("Culling not applied, as no file found. Culling will be skipped for this specific file.")
         return culled_document_contents
@@ -144,7 +130,6 @@ class Stylometry():
         # calculate amount of docs based on the selected culling percentage
         min_word_amount = (self.cull_percentage*len(self.document_contents))/100
         min_word_amount_rounded = round(min_word_amount)
-        #print(min_word_amount_rounded)
 
         #create file for saving words to be removed
         culledWords = open(os.path.join("culling_preprocessing", "culled_words_" + str(self.cull_percentage) +  "_"  +  self.corpus_type + "_" + self.corpus_category +".txt")
@@ -210,7 +195,6 @@ class Stylometry():
 
         # Hierarchical Cluster Analysis, i.e. grouping of nearest documents and
         # display in dendrogram
-        # TODO: evaluate which algorithm is best for us
         hierarchies = linkage(distance, self.hcaAlgorithm)
         figure = dendrogram(hierarchies, labels=self.document_titles, orientation="left", leaf_font_size=8, leaf_rotation=0)
 
