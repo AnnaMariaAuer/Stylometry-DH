@@ -13,8 +13,17 @@ In diesem Repository sind bereits alle Ergebnisse zu dem hier analysierten Korpu
 * Auswahl von "Customize installation" und Anwählen von "Add Python 3.7 to PATH"
 * Im nächsten Fenster auf "Next"
 * Im nächsten Fenster Anwählen von "Precompile standard library" und Anpassen des Installationsziels (hier beispielhaft: C:\Python_3.7)
-* Nach Installation Starten der Windows-Kommandozeile und Navigation in den Ordner C:\Python_3.7\Scripts für die Installation aller benötigten Packages
-* Eingabe folgender Befehle: `pip install nltk`, `pip install germalemma`, `pip install pandas`, `pip install sklearn`, `pip install matplotlib`, `python.exe()`, `import nltk`, `nltk.download('punkt')`, `nltk.download('stopwords')`
+* Nach Installation Starten der Windows-Kommandozeile und Navigation in den Ordner C:\Python_3.7\Scripts, in welchem sich das Installationstool `pip` befindet für die Installation aller benötigten Packages
+* Eingabe folgender Befehle: 
+ ** `pip install nltk`
+ ** `pip install germalemma`
+ ** `pip install pandas`
+ ** `pip install sklearn`
+ ** `pip install matplotlib`
+ ** `python.exe()`
+ ** `import nltk`
+ ** `nltk.download('punkt')`
+ ** `nltk.download('stopwords')`
 
 
 
@@ -22,30 +31,26 @@ In diesem Repository sind bereits alle Ergebnisse zu dem hier analysierten Korpu
   * Das Projekt befindet sich beispielhaft unter dem Pfad “C:\Users\name\Documents\Project”
   
   * Ausführung des Skripts für die Generierung der Korpora und Anwendung der Methoden des Text-Preprocessings
-  * Das Skript create_corpora.py dient zum Pre-Processing der Korpora. Bei bedarf können alle txt-Dateien zu einer einzelnen zusammengefügt werden. Es werden Interpunktionen, Zahlen und zusätzliche Whitespaces entfernt. Eine zusätzliche Entfernung von Stopwords ist möglich. Außerdem kann die durchschnittliche Wortlänge der einzelnen Dokumente berechnet werden.
-  * Starten der Windows-Kommandozeile 
- * Navigieren in den Projektordner unter dem oben beschriebenen Pfad “C:\Users\name\Documents\Project”
-* Ausführen des Skripts mit dem Befehl: python.exe create_corpora.py
+  ** Das Skript create_corpora.py dient zum Pre-Processing der Korpora. Bei bedarf können alle txt-Dateien zu einer einzelnen zusammengefügt werden. Es werden Interpunktionen, Zahlen und zusätzliche Whitespaces entfernt. Eine zusätzliche Entfernung von Stopwords ist möglich. Außerdem kann die durchschnittliche Wortlänge der einzelnen Dokumente berechnet werden.
+  ** Starten der Windows-Kommandozeile und Navigieren in den Projektordner unter “C:\Users\name\Documents\Project”
+** Ausführen des Skripts mit dem Befehl: `python.exe create_corpora.py`
 
-2.2 Ausführung des Skripts für die Generierung von Culling-Dokumenten, Berechnung der Stilometrie und Ausgabe der Visualisierungen
-Zunächst müssen alle Dateien generiert werden, die Culling-Dokumente erstellen. Dies ist unabhängig von der Stilometrie-Berechnung, da die Generierung sehr lange dauert (je nach Computerumgebung und Korpuslänge bis zu 2 Stunden pro Dokument)
-* Für die Generierung der Culling-Dokumente
-** Starten der Windows-Kommandozeile 
-** Navigieren in den Projektordner unter dem oben beschriebenen Pfad
-** Ausführen des Skripts mit dem Befehl: python.exe stylometry.py culling
-    * Das Skript iteriert über alle Korpora, die sich in dem Subordner "corpus" befinden
-    * Für jedes Korpus wird automatisch eine Textdatei im Subordner "culling_preprocessing" erstellt, welche alle Wörter enthält, die nach dem Prinzip des Culling aus den finalen Korpora entfernt werden sollen.
-    * Sobald alle Dokumente ausgegeben worden sind, wird das Programm in der Kommandozeile automatisch geschlossen.
-*  In unserem Projekt wurden auf diese Weise 27 Culling-Dokumente generiert mit einer Processing-Dauer von insgesamt 54 Stunden
+* Ausführung des Skripts für die Generierung von Culling-Dokumenten und Berechnung der Stilometrie und Ausgabe der Visualisierungen
+** Zunächst müssen alle Dateien generiert werden, die Culling-Dokumente erstellen. Dies ist unabhängig von der Stilometrie-Berechnung, da die Generierung sehr lange dauert (je nach Computerumgebung und Korpuslänge bis zu 2 Stunden pro Dokument)
+** Für die Generierung der Culling-Dokumente
+*** Starten der Windows-Kommandozeile und Navigieren in den Projektordner unter “C:\Users\name\Documents\Project”
+*** Ausführen des Skripts mit dem Befehl: `python.exe stylometry.py culling`
+    **** Das Skript iteriert über alle Korpora, die sich in dem Subordner "corpus" befinden
+    **** Für jedes Korpus wird automatisch eine Textdatei im Subordner "culling_preprocessing" erstellt, welche alle Wörter enthält, die nach dem Prinzip des Culling aus den finalen Korpora entfernt werden sollen.
+    **** Sobald alle Dokumente ausgegeben worden sind, wird das Programm in der Kommandozeile automatisch geschlossen.
+***  In unserem Projekt wurden auf diese Weise 27 Culling-Dokumente generiert mit einer Processing-Dauer von insgesamt 54 Stunden
   
   
-  * Für die Stilometrische Berechnung und Ausgabe der Visualisierungen
-    * Starten der Windows-Kommandozeile 
-Navigieren in den Projektordner unter dem oben beschriebenen Pfad
-Ausführen des Skripts mit dem Befehl: 
-python.exe stylometry.py
+  ** Für die Stilometrische Berechnung und Ausgabe der Visualisierungen
+    *** Starten der Windows-Kommandozeile und Navigieren in den Projektordner unter “C:\Users\name\Documents\Project”
+*** Ausführen des Skripts mit dem Befehl: `python.exe stylometry.py`
 
-    * Skript iteriert über alle Korpora, die sich im Subordner "corpus" befinden. Für jedes Korpus werden automatisch stilometrische Berechnungen mit Hilfe der vordefinierten Parameter durchgeführt. Diese Parameter werden iteriert und besitzten eine vordefinierte Unter- und Obergrenze.
-    * Pro Parameter-Kombination in einem Korpus werden Dendrogramm-Visualisierungen erstellt und im Subordner "results_stylometry" ausgegeben.
-    * Sobald alle Berechnungen und Visualisierungen ausgegeben wurden, schließt sich das Programm in der Kommandozeile.
-    * Auf diese Weise werden 1800 Visualisierungen in ca. 45 Minuten ausgegeben.
+   *** Skript iteriert über alle Korpora, die sich im Subordner "corpus" befinden. Für jedes Korpus werden automatisch stilometrische Berechnungen mit Hilfe der vordefinierten Parameter durchgeführt. Diese Parameter werden iteriert und besitzten eine vordefinierte Unter- und Obergrenze.
+    *** Pro Parameter-Kombination in einem Korpus werden Dendrogramm-Visualisierungen erstellt und im Subordner "results_stylometry" ausgegeben.
+    *** Sobald alle Berechnungen und Visualisierungen ausgegeben wurden, schließt sich das Programm in der Kommandozeile.
+    *** Auf diese Weise werden 1800 Visualisierungen in ca. 45 Minuten ausgegeben.
