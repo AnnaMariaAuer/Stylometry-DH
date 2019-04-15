@@ -48,10 +48,10 @@ In diesem Repository sind bereits alle Ergebnisse zu dem hier analysierten Korpu
 	- In unserem Projekt wurden auf diese Weise 27 Culling-Dokumente generiert mit einer Processing-Dauer von insgesamt 54 Stunden
   
   
- **- Für die Stilometrische Berechnung und Ausgabe der Visualisierungen**
-- Starten der Windows-Kommandozeile und Navigieren in den Projektordner unter “C:\Users\name\Documents\Project”
-- Ausführen des Skripts mit dem Befehl: `python.exe stylometry.py`
-- Skript iteriert über alle Korpora, die sich im Subordner "corpus" befinden. Für jedes Korpus werden automatisch stilometrische Berechnungen mit Hilfe der vordefinierten Parameter durchgeführt. Diese Parameter werden iteriert und besitzten eine vordefinierte Unter- und Obergrenze.
-- Pro Parameter-Kombination in einem Korpus werden Dendrogramm-Visualisierungen erstellt und im Subordner "results_stylometry" ausgegeben.
- - Sobald alle Berechnungen und Visualisierungen ausgegeben wurden, schließt sich das Programm in der Kommandozeile.
-- Auf diese Weise werden 1440 Visualisierungen in ca. 2 Stunden ausgegeben.
+ - **Für die Stilometrische Berechnung und Ausgabe der Visualisierungen**
+	- Starten der Windows-Kommandozeile und Navigieren in den Projektordner unter “C:\Users\name\Documents\Project”
+	- Ausführen des Skripts mit dem Befehl: `python.exe stylometry.py`
+	- Skript iteriert über alle Korpora, die sich im Subordner "corpus" befinden. Für jedes Korpus werden automatisch stilometrische Berechnungen mit Hilfe der vordefinierten Parameter durchgeführt. Diese Parameter werden iteriert und besitzten eine vordefinierte Unter- und Obergrenze.
+	- Pro Parameter-Kombination in einem Korpus werden Dendrogramm-Visualisierungen erstellt und im Subordner "results_stylometry" ausgegeben.
+	 - Sobald alle Berechnungen und Visualisierungen ausgegeben wurden, schließt sich das Programm in der Kommandozeile.
+	- Auf diese Weise werden 1440 Visualisierungen in ca. 2 Stunden ausgegeben.
