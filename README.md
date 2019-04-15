@@ -15,15 +15,15 @@ In diesem Repository sind bereits alle Ergebnisse zu dem hier analysierten Korpu
 * Im nächsten Fenster Anwählen von "Precompile standard library" und Anpassen des Installationsziels (hier beispielhaft: C:\Python_3.7)
 * Nach Installation Starten der Windows-Kommandozeile und Navigation in den Ordner C:\Python_3.7\Scripts, in welchem sich das Installationstool `pip` befindet für die Installation aller benötigten Packages
 * Eingabe folgender Befehle: 
- ** `pip install nltk`
- ** `pip install germalemma`
- ** `pip install pandas`
- ** `pip install sklearn`
- ** `pip install matplotlib`
- ** `python.exe()`
- ** `import nltk`
- ** `nltk.download('punkt')`
- ** `nltk.download('stopwords')`
+ **`pip install nltk`
+ **`pip install germalemma`
+ **`pip install pandas`
+ **`pip install sklearn`
+ **`pip install matplotlib`
+ **`python.exe()`
+ **`import nltk`
+ **`nltk.download('punkt')`
+ **`nltk.download('stopwords')`
 
 
 
